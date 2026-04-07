@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-04-07T07:54:31.125Z",
+  "syncedAt": "2026-04-07T07:55:53.373Z",
   "venues": [
     {
       "slug": "ilios-tulum",
@@ -17,6 +17,25 @@
         "es": {
           "name": "Ilios Tulum",
           "description": "Ilios: Greek cuisine and warm hospitality, this elegant restaurant provides exceptional service and remains vibrant year-round."
+        }
+      }
+    },
+    {
+      "slug": "obsidiana-tulum",
+      "category": "rooftop",
+      "area": "downtown",
+      "pricing": "$$",
+      "coverImage": "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/672ffb01008660d3f2f7cc67_6692c629a06a8a1f10fe1674_obsidiana-front.avif",
+      "isClosed": false,
+      "tulumBibleSlug": "obsidiana-tulum",
+      "locales": {
+        "en": {
+          "name": "Obsidiana",
+          "description": "Obsidiana, a rooftop in downtown Tulum, offers a vibrant dining experience that transitions into an energetic dancefloor."
+        },
+        "es": {
+          "name": "Obsidiana Tulum",
+          "description": "Obsidiana, a rooftop in downtown Tulum, offers a vibrant dining experience that transitions into an energetic dancefloor."
         }
       }
     },
