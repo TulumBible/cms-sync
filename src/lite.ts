@@ -1,8 +1,8 @@
 /**
  * Lite venue projection — the public JSON consumed by core-tulum.
  *
- * Filters: featured-on-core-tulum === true AND not draft AND not archived.
- * Schema is the contract documented in README.md.
+ * Filters: featured-on-core-tulum === true AND not closed AND not draft
+ * AND not archived.
  */
 
 import type { WebflowItem } from "./webflow/collections.js";
@@ -21,16 +21,16 @@ export interface FullVenue {
 
 export interface LiteVenueLocale {
   name: string;
-  tagline: string;
-  neighborhood: string;
+  description: string;
 }
 
 export interface LiteVenue {
   slug: string;
-  category: string;
+  category: string | null;
+  area: string | null;
+  pricing: string | null;
   coverImage: string | null;
-  priceRange: string | null;
-  openingHours: Record<string, string> | null;
+  isClosed: boolean;
   tulumBibleSlug: string;
   locales: {
     en: LiteVenueLocale;
@@ -45,8 +45,7 @@ function pickLocale(
   const data = locales[tag];
   return {
     name: data?.name ?? "",
-    tagline: data?.tagline ?? "",
-    neighborhood: data?.neighborhood ?? "",
+    description: data?.description ?? "",
   };
 }
 
@@ -58,15 +57,17 @@ export function toLiteVenue(
   venue: FullVenue,
   rawItem: WebflowItem,
 ): LiteVenue | null {
-  if (rawItem.isDraft || rawItem.isArchived) return null;
+  if (rawItem.isDraft === true || rawItem.isArchived === true) return null;
   if (!venue.base.isFeaturedOnCoreTulum) return null;
+  if (venue.base.isClosed) return null;
 
   return {
     slug: venue.base.slug,
     category: venue.base.category,
+    area: venue.base.area,
+    pricing: venue.base.pricing,
     coverImage: venue.base.coverImage,
-    priceRange: venue.base.priceRange,
-    openingHours: venue.base.openingHours,
+    isClosed: venue.base.isClosed,
     tulumBibleSlug: venue.base.slug,
     locales: {
       en: pickLocale(venue.locales, "en"),

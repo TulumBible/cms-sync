@@ -1,83 +1,61 @@
 /**
  * Webflow → normalized venue transforms.
  *
- * Lifted from tb-ai-concierge/packages/convex/convex/sync/transforms.ts
- * (transformVenueLocale, transformVenueBase) and actions.ts (mergeLocaleItems),
- * with all Convex-specific code stripped out.
+ * Field slugs and option ID mappings come from the live Webflow venue
+ * collection (slug: "venue", id: 6361c1cba09d95ad9b422dae) discovered via
+ * the Webflow API.
  */
 
 import type { WebflowItem } from "../webflow/collections.js";
 
 // ============================================================
-// Field slug constants
-// ============================================================
-//
-// Slugs marked NEW are added for the core-tulum lite output and
-// will be verified against the live Webflow schema in Batch 2.
-
-export const VENUE_FIELDS = {
-  // Locale-specific
-  name: "name",
-  tagline: "tagline", // NEW — short locale-specific headline
-  neighborhood: "neighborhood", // NEW — locale-specific neighborhood label
-  description: "description", // PlainText — short description
-  body: "body", // RichText — long/rich description
-  address: "actual-address", // PlainText
-  menuDescription: "menu-description",
-  fees: "fees",
-
-  // Base
-  slug: "slug",
-  category: "category", // MultiReference → Categories collection
-  isClosed: "is-closed",
-  area: "area",
-  image1: "image-1",
-  image2: "image-2",
-  image3: "image-3",
-  image4: "image-4",
-  image5: "image-5",
-  multiImage: "multi-image",
-  coverImage: "cover-image", // NEW — explicit cover image (falls back to image-1)
-  tableLayout: "table-layout",
-  isFeatured: "featured",
-  featuredOnCoreTulum: "featured-on-core-tulum", // NEW — gates lite output
-  openingTimes: "opening-times", // RichText (legacy)
-  openingHours: "opening-hours", // NEW — structured per-day hours (PlainText/JSON)
-  googleMapsCode: "google-maps-code",
-  pricing: "pricing",
-  priceRange: "price-range", // NEW — explicit display string ("$$", "$$$", etc.)
-  foodMenu: "food-menu",
-  drinkMenu: "drink-menu",
-  disabledDays: "disabled-days",
-  maxHours: "max-hours",
-  minHours: "min-hours",
-  hideReservationForm: "hide-reservation-form",
-  faqs: "faqs",
-  amenities: "amenities",
-} as const;
-
-// ============================================================
-// HTML / image / category helpers
+// Option-field ID → display value mappings
 // ============================================================
 
-function stripHtml(html: string | undefined | null): string {
-  if (!html) return "";
-  return html
-    .replace(/<[^>]*>/g, " ")
-    .replace(/&amp;/g, "&")
-    .replace(/&lt;/g, "<")
-    .replace(/&gt;/g, ">")
-    .replace(/&quot;/g, '"')
-    .replace(/&#39;/g, "'")
-    .replace(/&nbsp;/g, " ")
-    .replace(/&middot;/g, "·")
-    .replace(/&#8211;/g, "–")
-    .replace(/&#8212;/g, "—")
-    .replace(/&mdash;/g, "—")
-    .replace(/&ndash;/g, "–")
-    .replace(/\s+/g, " ")
-    .trim();
+const CATEGORY_OPTIONS: Record<string, string> = {
+  "9bdf043c4558efe33362afe74b13ae39": "cenote",
+  "ef33b4e93f0f0023147c9267a8d93ecf": "restaurant",
+  "41accc3c1ca721673c9122871b9006e5": "nightclub",
+  "cfb1fb36c5f954cf0f9c05baa0a29912": "beachclub",
+  "d1dab861797143b44d92a14a0f516ed3": "cafe",
+  "a37dbdda9243b9625c846533cabba6f7": "rooftop",
+  "bb18d96aef38297fba9d808e8b895989": "lagoon",
+};
+
+const AREA_OPTIONS: Record<string, string> = {
+  "a5cca364021897578aeb3bf8155aebe6": "hotel-zone",
+  "bf9720b38aa87e734b7a3d844961331d": "downtown",
+  "5d32743349786f23dedfec73a7da0a53": "aldea-zama",
+  "3ac8276144c3c55cc177ede0a5fbca2d": "la-veleta",
+  "616444e5423a8e694ef55e2d06531e95": "uptown",
+};
+
+const PRICING_OPTIONS: Record<string, string> = {
+  "9533301caf485f3238092ef2dfb79aa5": "$",
+  "acd41c48ef7310ba85b0f818278e1277": "$$",
+  "6c5fb8197a7ad362d9db713762ea912b": "$$$",
+  "74d43aa275702e23389aa1562a42fdb8": "$$$$",
+  "23fc6463b6a6670e1600b27d4357f829": "$$$$$",
+};
+
+function resolveCategory(id: string | undefined): string | null {
+  if (!id) return null;
+  return CATEGORY_OPTIONS[id] ?? null;
 }
+
+function resolveArea(id: string | undefined): string | null {
+  if (!id) return null;
+  return AREA_OPTIONS[id] ?? null;
+}
+
+function resolvePricing(id: string | undefined): string | null {
+  if (!id) return null;
+  return PRICING_OPTIONS[id] ?? null;
+}
+
+// ============================================================
+// Image helpers
+// ============================================================
 
 function extractImageUrl(raw: unknown): string | undefined {
   if (!raw) return undefined;
@@ -89,96 +67,30 @@ function extractImageUrl(raw: unknown): string | undefined {
   return undefined;
 }
 
-function extractImageUrls(raw: unknown): string[] | undefined {
-  if (!raw) return undefined;
+function extractImageUrls(raw: unknown): string[] {
+  if (!raw) return [];
   if (Array.isArray(raw)) {
-    return raw.map(extractImageUrl).filter((u): u is string => !!u);
+    return raw
+      .map(extractImageUrl)
+      .filter((u): u is string => !!u);
   }
   const single = extractImageUrl(raw);
-  return single ? [single] : undefined;
+  return single ? [single] : [];
 }
 
 function collectVenueImages(fd: Record<string, unknown>): string[] {
   const urls: string[] = [];
-  for (const key of [
-    VENUE_FIELDS.image1,
-    VENUE_FIELDS.image2,
-    VENUE_FIELDS.image3,
-    VENUE_FIELDS.image4,
-    VENUE_FIELDS.image5,
-  ]) {
+  for (const key of ["image-1", "image-2", "image-3", "image-4", "image-5"]) {
     const url = extractImageUrl(fd[key]);
     if (url) urls.push(url);
   }
-  const multiUrls = extractImageUrls(fd[VENUE_FIELDS.multiImage]);
-  if (multiUrls) urls.push(...multiUrls);
+  urls.push(...extractImageUrls(fd["extra-images"]));
   return urls;
 }
 
-const CATEGORY_MAP: Record<string, string> = {
-  restaurant: "restaurant",
-  restaurants: "restaurant",
-  bar: "bar",
-  bars: "bar",
-  "beach club": "beach_club",
-  "beach-club": "beach_club",
-  beach_club: "beach_club",
-  beachclub: "beach_club",
-  nightclub: "nightclub",
-  nightclubs: "nightclub",
-  club: "nightclub",
-  cenote: "cenote",
-  cenotes: "cenote",
-  lagoon: "lagoon",
-  lagoons: "lagoon",
-  "day club": "beach_club",
-  lounge: "bar",
-  rooftop: "bar",
-  brunch: "restaurant",
-  cafe: "restaurant",
-};
-
-export type VenueCategory =
-  | "restaurant"
-  | "bar"
-  | "beach_club"
-  | "nightclub"
-  | "cenote"
-  | "lagoon"
-  | "other";
-
-export function normalizeCategoryFromNames(names: string[]): VenueCategory {
-  for (const name of names) {
-    if (!name || typeof name !== "string") continue;
-    const key = name.toLowerCase().trim();
-    const mapped = CATEGORY_MAP[key];
-    if (mapped) return mapped as VenueCategory;
-  }
-  return "other";
-}
-
-/**
- * Parse the opening-hours field. Webflow stores this as PlainText; the
- * editorial convention is to use JSON like `{"mon":"9-17", ...}`. If the
- * value isn't JSON-parseable into a flat string→string map, return null.
- */
-function parseOpeningHours(raw: unknown): Record<string, string> | null {
-  if (!raw || typeof raw !== "string") return null;
-  const trimmed = raw.trim();
-  if (!trimmed.startsWith("{")) return null;
-  try {
-    const parsed = JSON.parse(trimmed);
-    if (!parsed || typeof parsed !== "object" || Array.isArray(parsed)) {
-      return null;
-    }
-    const out: Record<string, string> = {};
-    for (const [k, v] of Object.entries(parsed as Record<string, unknown>)) {
-      if (typeof v === "string") out[k] = v;
-    }
-    return Object.keys(out).length > 0 ? out : null;
-  } catch {
-    return null;
-  }
+function asStringId(raw: unknown): string | undefined {
+  if (typeof raw === "string" && raw.trim()) return raw.trim();
+  return undefined;
 }
 
 // ============================================================
@@ -187,86 +99,79 @@ function parseOpeningHours(raw: unknown): Record<string, string> | null {
 
 export interface VenueLocaleData {
   name: string;
-  tagline: string;
-  neighborhood: string;
-  shortDescription?: string;
-  description?: string;
-  address?: string;
+  description: string;
+  body: string;
+  address: string;
+  feesHtml: string;
 }
 
 /** Extract locale-specific fields from a single fieldData blob. */
 export function transformVenueLocale(
   fieldData: Record<string, unknown>,
 ): VenueLocaleData {
-  const get = (slug: string) => fieldData[slug];
   return {
-    name: String(get(VENUE_FIELDS.name) ?? "").trim(),
-    tagline: String(get(VENUE_FIELDS.tagline) ?? "").trim(),
-    neighborhood: String(get(VENUE_FIELDS.neighborhood) ?? "").trim(),
-    shortDescription:
-      (get(VENUE_FIELDS.description) as string) ?? undefined,
-    description: get(VENUE_FIELDS.body)
-      ? stripHtml(get(VENUE_FIELDS.body) as string)
-      : undefined,
-    address: (get(VENUE_FIELDS.address) as string) ?? undefined,
+    name: String(fieldData["name"] ?? "").trim(),
+    description: String(fieldData["description"] ?? ""),
+    body: String(fieldData["body"] ?? ""),
+    address: String(fieldData["actual-address"] ?? ""),
+    feesHtml: String(fieldData["fees"] ?? ""),
   };
 }
 
 export interface VenueBaseData {
   slug: string;
-  category: VenueCategory;
+  category: string | null;
+  area: string | null;
+  pricing: string | null;
   coverImage: string | null;
   imageUrls: string[];
-  priceRange: string | null;
-  openingHours: Record<string, string> | null;
-  isFeaturedOnCoreTulum: boolean;
+  isClosed: boolean;
   isFeatured: boolean;
-  isPublished: boolean;
+  isFeaturedOnCoreTulum: boolean;
+  googleMapsCode: string | null;
+  foodMenuUrl: string | null;
+  drinkMenuUrl: string | null;
+  openingHoursHtml: string;
 }
 
-/**
- * Extract non-locale (base) fields from a Webflow venue item.
- * `categoryNames` should be the resolved Categories-collection display names
- * for this venue's MultiReference category field.
- */
-export function transformVenueBase(
-  item: WebflowItem,
-  categoryNames: string[] = [],
-): VenueBaseData {
+/** Extract non-locale (base) fields from a Webflow venue item. */
+export function transformVenueBase(item: WebflowItem): VenueBaseData {
   const fd = item.fieldData;
-  const get = (slug: string) => fd[slug];
 
-  const slug = String(get(VENUE_FIELDS.slug) ?? "").trim();
+  const slug = String(fd["slug"] ?? "").trim();
   if (!slug) {
     throw new Error(`Venue ${item.id} has no slug — cannot sync`);
   }
 
   const imageUrls = collectVenueImages(fd);
-  const explicitCover = extractImageUrl(get(VENUE_FIELDS.coverImage));
-  const coverImage = explicitCover ?? imageUrls[0] ?? null;
+  const coverImage = extractImageUrl(fd["image-1"]) ?? null;
 
-  const priceRangeRaw = get(VENUE_FIELDS.priceRange) ?? get(VENUE_FIELDS.pricing);
-  const priceRange =
-    typeof priceRangeRaw === "string" && priceRangeRaw.trim()
-      ? priceRangeRaw.trim()
-      : null;
+  const foodMenu = fd["food-menu"];
+  const drinkMenu = fd["drink-menu"];
 
   return {
     slug,
-    category: normalizeCategoryFromNames(categoryNames),
+    category: resolveCategory(asStringId(fd["category"])),
+    area: resolveArea(asStringId(fd["area"])),
+    pricing: resolvePricing(asStringId(fd["pricing"])),
     coverImage,
     imageUrls,
-    priceRange,
-    openingHours: parseOpeningHours(get(VENUE_FIELDS.openingHours)),
-    isFeaturedOnCoreTulum: Boolean(get(VENUE_FIELDS.featuredOnCoreTulum)),
-    isFeatured: Boolean(get(VENUE_FIELDS.isFeatured)),
-    isPublished:
-      !item.isDraft && !item.isArchived && !get(VENUE_FIELDS.isClosed),
+    isClosed: fd["is-closed"] === true,
+    isFeatured: fd["featured"] === true,
+    isFeaturedOnCoreTulum: fd["featured-on-core-tulum"] === true,
+    googleMapsCode:
+      typeof fd["address"] === "string" && fd["address"]
+        ? (fd["address"] as string)
+        : null,
+    foodMenuUrl: typeof foodMenu === "string" && foodMenu ? foodMenu : null,
+    drinkMenuUrl:
+      typeof drinkMenu === "string" && drinkMenu ? drinkMenu : null,
+    openingHoursHtml: String(fd["opening-times-2"] ?? ""),
   };
 }
 
 // ============================================================
-// Locale merging (lifted from sync/actions.ts)
+// Locale merging
 // ============================================================
 
 export interface MergedVenueEntry {

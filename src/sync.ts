@@ -64,24 +64,6 @@ async function main(): Promise<void> {
     `  venues collection: ${venueCollection.slug} (${venueCollection.id})`,
   );
 
-  // Pre-fetch Categories collection for MultiReference resolution.
-  const categoryCollection = findCollectionBySlug(collections, "categori");
-  const categoryLookup: Record<string, string> = {};
-  if (categoryCollection) {
-    const categoryItems = await fetchAllItems(client, categoryCollection.id);
-    for (const cat of categoryItems) {
-      const catName = String(
-        cat.fieldData["name"] ?? cat.fieldData["slug"] ?? "",
-      );
-      if (catName) categoryLookup[cat.id] = catName;
-    }
-    console.log(`  loaded ${Object.keys(categoryLookup).length} categories`);
-  } else {
-    console.warn(
-      "  no categories collection — venues will default to 'other'",
-    );
-  }
-
   console.log("→ fetching venue items");
   const primaryItems = await fetchAllItems(client, venueCollection.id);
   console.log(`  ${primaryTag}: ${primaryItems.length} items`);
@@ -111,7 +93,7 @@ async function main(): Promise<void> {
 
   for (const [, entry] of merged) {
     const item = entry.primary;
-    if (item.isDraft || item.isArchived) {
+    if (item.isArchived === true || item.isDraft === true) {
       skippedDraftOrArchived++;
       continue;
     }
@@ -121,17 +103,7 @@ async function main(): Promise<void> {
         localesObj[tag] = transformVenueLocale(fieldData);
       }
 
-      const rawCatIds = item.fieldData["category"];
-      const catIds = Array.isArray(rawCatIds)
-        ? rawCatIds.map(String)
-        : typeof rawCatIds === "string"
-          ? [rawCatIds]
-          : [];
-      const categoryNames = catIds
-        .map((id) => categoryLookup[id])
-        .filter((n): n is string => !!n);
-
-      const base = transformVenueBase(item, categoryNames);
+      const base = transformVenueBase(item);
 
       const full: FullVenue = {
         webflowItemId: item.id,

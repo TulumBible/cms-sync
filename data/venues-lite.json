@@ -1,63 +1,60 @@
 {
-  "syncedAt": "2026-04-07T07:50:15.802Z",
+  "syncedAt": "2026-04-07T07:54:31.125Z",
   "venues": [
     {
       "slug": "ilios-tulum",
-      "category": "other",
+      "category": "restaurant",
+      "area": "hotel-zone",
+      "pricing": "$$$$",
       "coverImage": "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/6748aac5ce8bc799a16e661e_6741eeeaba10dbc08f97a43a_ilios-tulum-booth.avif",
-      "priceRange": "74d43aa275702e23389aa1562a42fdb8",
-      "openingHours": null,
+      "isClosed": false,
       "tulumBibleSlug": "ilios-tulum",
       "locales": {
         "en": {
           "name": "Ilios Tulum",
-          "tagline": "",
-          "neighborhood": ""
+          "description": "Ilios: Greek cuisine and warm hospitality, this elegant restaurant provides exceptional service and remains vibrant year-round."
         },
         "es": {
           "name": "Ilios Tulum",
-          "tagline": "",
-          "neighborhood": ""
+          "description": "Ilios: Greek cuisine and warm hospitality, this elegant restaurant provides exceptional service and remains vibrant year-round."
         }
       }
     },
     {
       "slug": "gitano-jungle",
-      "category": "other",
+      "category": "restaurant",
+      "area": "hotel-zone",
+      "pricing": "$$$$",
       "coverImage": "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/64dcc8d475345b09711640b7_izFSA-yFf5ejxhE2hbEEvee-T10J-nwy7ltAzrD2R7g.avif",
-      "priceRange": "74d43aa275702e23389aa1562a42fdb8",
-      "openingHours": null,
+      "isClosed": false,
       "tulumBibleSlug": "gitano-jungle",
       "locales": {
         "en": {
           "name": "Gitano Jungle",
-          "tagline": "",
-          "neighborhood": ""
+          "description": "Gitano Jungle: A Tulum staple for 10 years, offering a shared dining experience with local flavors, artisanal cocktails, and a bohemian vibe."
         },
         "es": {
           "name": "Gitano Jungle",
-          "tagline": "",
-          "neighborhood": ""
+          "description": "Gitano Jungle: A Tulum staple for 10 years, offering a shared dining experience with local flavors, artisanal cocktails, and a bohemian vibe."
         }
       }
     },
     {
       "slug": "mia-restaurant-and-beachclub",
-      "category": "other",
+      "category": "beachclub",
+      "area": "hotel-zone",
+      "pricing": "$$$$",
       "coverImage": "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/64fbd1a42ce92415716961fe_ulNbaC6Brwx1AOtZbnNVzUBXBK9i-E87bMwaNfkdOa0.avif",
-      "priceRange": "74d43aa275702e23389aa1562a42fdb8",
-      "openingHours": null,
+      "isClosed": false,
       "tulumBibleSlug": "mia-restaurant-and-beachclub",
       "locales": {
         "en": {
           "name": "Mia Beach Club",
-          "tagline": "",
-          "neighborhood": ""
+          "description": "Mía Tulum: A beach club and a resort with diverse cuisine, vibrant DJ sets, beachfront weddings, free parking, and stunning sea views."
         },
         "es": {
           "name": "Mia Beach Club",
-          "tagline": "",
-          "neighborhood": ""
+          "description": "Mía Tulum: A beach club and a resort with diverse cuisine, vibrant DJ sets, beachfront weddings, free parking, and stunning sea views."
         }
       }
     }
