@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-04-07T06:56:35.610Z",
+  "syncedAt": "2026-04-07T07:39:37.632Z",
   "venues": [
     {
       "slug": "ilios-tulum",
@@ -16,6 +16,46 @@
         },
         "es": {
           "name": "Ilios Tulum",
+          "tagline": "",
+          "neighborhood": ""
+        }
+      }
+    },
+    {
+      "slug": "gitano-jungle",
+      "category": "other",
+      "coverImage": "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/64dcc8d475345b09711640b7_izFSA-yFf5ejxhE2hbEEvee-T10J-nwy7ltAzrD2R7g.avif",
+      "priceRange": "74d43aa275702e23389aa1562a42fdb8",
+      "openingHours": null,
+      "tulumBibleSlug": "gitano-jungle",
+      "locales": {
+        "en": {
+          "name": "Gitano Jungle",
+          "tagline": "",
+          "neighborhood": ""
+        },
+        "es": {
+          "name": "Gitano Jungle",
+          "tagline": "",
+          "neighborhood": ""
+        }
+      }
+    },
+    {
+      "slug": "mia-restaurant-and-beachclub",
+      "category": "other",
+      "coverImage": "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/64fbd1a42ce92415716961fe_ulNbaC6Brwx1AOtZbnNVzUBXBK9i-E87bMwaNfkdOa0.avif",
+      "priceRange": "74d43aa275702e23389aa1562a42fdb8",
+      "openingHours": null,
+      "tulumBibleSlug": "mia-restaurant-and-beachclub",
+      "locales": {
+        "en": {
+          "name": "Mia Beach Club",
+          "tagline": "",
+          "neighborhood": ""
+        },
+        "es": {
+          "name": "Mia Beach Club",
           "tagline": "",
           "neighborhood": ""
         }

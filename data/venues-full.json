@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-04-07T06:56:35.610Z",
+  "syncedAt": "2026-04-07T07:39:37.632Z",
   "venues": [
     {
       "webflowItemId": "692b300317f122c66bfe8217",
@@ -118,7 +118,7 @@
           "address": "Carr. Tulum-Boca Paila Km. 8, Tulum Beach, Zona Hotelera, 77780 Tulum, Q.R."
         }
       },
-      "lastPublished": "2026-04-07T06:49:08.675Z",
+      "lastPublished": "2026-04-07T07:25:11.625Z",
       "lastUpdated": "2026-04-07T06:49:08.675Z"
     },
     {
@@ -444,17 +444,17 @@
       "base": {
         "slug": "gitano-jungle",
         "category": "other",
-        "coverImage": "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/64dcc8d475345b09711640b7_izFSA-yFf5ejxhE2hbEEvee-T10J-nwy7ltAzrD2R7g.jpeg",
+        "coverImage": "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/64dcc8d475345b09711640b7_izFSA-yFf5ejxhE2hbEEvee-T10J-nwy7ltAzrD2R7g.avif",
         "imageUrls": [
-          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/64dcc8d475345b09711640b7_izFSA-yFf5ejxhE2hbEEvee-T10J-nwy7ltAzrD2R7g.jpeg",
-          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/64dcc8d475345b0971164099_Z1CJ4oTLJgjMPYAS3fQWohBSV9aRFLD-2dY_RbqjscY.jpeg",
-          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/64dcc8d475345b0971164096_Dh0Ls9QAQBHN_k0YmNmRyOHP6LxCYzWXmRPCpji7TQE.jpeg",
-          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/64dcc8d475345b0971164091_qfUfZBeUeMStcNtI8xZ5gv8VCc9CvevgMgGOVmQxL44.jpeg",
-          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/64dcc8d475345b097116408e_nPQ5qxtqqR5o_Gb9yJInzP6PbBArYU9HqwJA5tzckYg.jpeg"
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/64dcc8d475345b09711640b7_izFSA-yFf5ejxhE2hbEEvee-T10J-nwy7ltAzrD2R7g.avif",
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/64dcc8d475345b0971164099_Z1CJ4oTLJgjMPYAS3fQWohBSV9aRFLD-2dY_RbqjscY.avif",
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/64dcc8d475345b0971164096_Dh0Ls9QAQBHN_k0YmNmRyOHP6LxCYzWXmRPCpji7TQE.avif",
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/64dcc8d475345b0971164091_qfUfZBeUeMStcNtI8xZ5gv8VCc9CvevgMgGOVmQxL44.avif",
+          "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/64dcc8d475345b097116408e_nPQ5qxtqqR5o_Gb9yJInzP6PbBArYU9HqwJA5tzckYg.avif"
         ],
         "priceRange": "74d43aa275702e23389aa1562a42fdb8",
         "openingHours": null,
-        "isFeaturedOnCoreTulum": false,
+        "isFeaturedOnCoreTulum": true,
         "isFeatured": false,
         "isPublished": true
       },
@@ -476,8 +476,8 @@
           "address": "Beach Road Km. 7, 77710 Q.R"
         }
       },
-      "lastPublished": "2025-03-02T19:02:54.949Z",
-      "lastUpdated": "2025-03-02T19:00:42.367Z"
+      "lastPublished": "2026-04-07T07:26:57.989Z",
+      "lastUpdated": "2026-04-07T07:26:57.989Z"
     },
     {
       "webflowItemId": "639762c2aa9d6d81260f9ca1",
@@ -652,7 +652,7 @@
         ],
         "priceRange": "74d43aa275702e23389aa1562a42fdb8",
         "openingHours": null,
-        "isFeaturedOnCoreTulum": false,
+        "isFeaturedOnCoreTulum": true,
         "isFeatured": false,
         "isPublished": true
       },
@@ -674,8 +674,8 @@
           "address": "Hotel Selina los Lirios, Carr. Tulum-Boca Paila KM 7.5-Interior, Tulum Beach, Punta Piedra, 77780 Tulum, Q.R."
         }
       },
-      "lastPublished": "2025-11-26T16:33:09.406Z",
-      "lastUpdated": "2025-11-24T16:26:25.747Z"
+      "lastPublished": "2026-04-07T07:37:38.078Z",
+      "lastUpdated": "2026-04-07T07:37:38.078Z"
     }
   ]
 }
