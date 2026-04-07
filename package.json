@@ -1,0 +1,22 @@
+{
+  "name": "tulum-cms-sync",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Standalone Webflow → JSON sync for tulumbible.com venues",
+  "type": "module",
+  "scripts": {
+    "sync": "tsx src/sync.ts",
+    "type-check": "tsc --noEmit"
+  },
+  "dependencies": {
+    "webflow-api": "^3.2.3"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.6.0"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
