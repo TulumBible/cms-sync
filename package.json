@@ -1,16 +1,12 @@
 {
   "name": "tulum-cms-sync",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "private": true,
-  "description": "Standalone Webflow → JSON sync for tulumbible.com venues",
+  "description": "Convex → JSON sync for tulumbible.com. Polls events-management's /cms-snapshot/* endpoints and commits per-city JSON files for downstream consumption by Astro, tb-ai-concierge, and tulum-core.",
   "type": "module",
   "scripts": {
     "sync": "tsx src/sync.ts",
     "type-check": "tsc --noEmit"
-  },
-  "dependencies": {
-    "@vercel/node": "^5.0.0",
-    "webflow-api": "^3.2.3"
   },
   "devDependencies": {
     "@types/node": "^20.14.0",

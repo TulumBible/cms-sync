@@ -1,39 +1,70 @@
 /**
  * core-cms-sync entrypoint (multi-city).
  *
- * Reads cities.json, iterates over each active city, pulls its Webflow
- * venues collection (primary + secondary locales), normalizes it, and
- * writes two JSON files PER CITY:
- *   - data/{slug}/venues-full.json   all non-draft, non-archived venues
- *   - data/{slug}/venues-lite.json   only featured-on-core-tulum venues
+ * Reads cities.json, iterates over active cities, pulls every
+ * registered collection from the events-management Convex
+ * `/cms-snapshot/*` endpoints, and writes per-city JSON files under
+ * `data/{slug}/`.
  *
- * Adding a new city = adding a row to cities.json. No code changes.
+ * ## Output layout
  *
- * The Webflow API token is shared across cities (typical case — one
- * workspace, multiple sites). If a city lives in a different Webflow
- * workspace, set its `webflowApiTokenEnvVar` field to point at a
- * different env var name.
+ * Per active city, one JSON file per collection:
+ *   data/{slug}/venues.json
+ *   data/{slug}/events.json
+ *   data/{slug}/blogs.json
+ *   data/{slug}/categories.json
+ *   data/{slug}/amenities.json
+ *   data/{slug}/authors.json
+ *   data/{slug}/faqs.json
+ *   data/{slug}/reviews.json
+ *   data/{slug}/yachts.json
+ *   data/{slug}/villas.json
+ *   data/{slug}/legals.json
+ *   data/{slug}/redirects.json
+ *
+ * Plus two legacy files projected from the venues bundle for
+ * backward compat with `tb-ai-concierge` and `tulum-core`:
+ *   data/{slug}/venues-full.json  — all published venues (legacy shape)
+ *   data/{slug}/venues-lite.json  — featured-on-core subset (legacy shape)
+ *
+ * See `src/transforms/venues-legacy.ts` for the legacy shape
+ * preservation. When the legacy consumers migrate to the new
+ * envelope shape, delete the transform + those two file writes.
+ *
+ * ## Env vars
+ *
+ *   CONVEX_SITE_URL   e.g. https://<deployment>.convex.site
+ *   INTERNAL_CMS_KEY  shared secret (must match Convex env)
+ *   SYNC_ONLY_CITY    (optional) restrict to a single city slug
+ *   SYNC_INCLUDE_DRAFTS  (optional) "1"|"true" to flip publishable
+ *                     routes to live-projection mode. Used on the
+ *                     staging (`draft`) branch of this repo.
+ *
+ * ## Branch discipline
+ *
+ *   main    → SYNC_INCLUDE_DRAFTS unset → frozen published snapshots
+ *             → production consumers rebuild
+ *   draft   → SYNC_INCLUDE_DRAFTS=1 → live projection with isDraft flags
+ *             → staging consumers rebuild
+ *
+ * Error policy: per-city + per-collection failures log and continue,
+ * so a single broken endpoint never starves the other 11. The run
+ * exits 1 if ANY failure was recorded so CI catches regressions.
  */
 
 import { mkdir, readFile, writeFile } from "node:fs/promises";
 import { dirname, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
 
-import { WebflowClient } from "webflow-api";
-import { discoverLocales } from "./webflow/locales.js";
+import { fetchSnapshot, rowsOf } from "./convex/client.js";
+import { COLLECTIONS } from "./collections.js";
 import {
-  discoverCollections,
-  fetchAllItems,
-  findCollectionBySlug,
-  type WebflowItem,
-} from "./webflow/collections.js";
-import {
-  mergeLocaleItems,
-  transformVenueBase,
-  transformVenueLocale,
-  type VenueLocaleData,
-} from "./transforms/venues.js";
-import { toLiteVenue, type FullVenue, type LiteVenue } from "./lite.js";
+  toLegacyFullVenue,
+  toLegacyLiteVenue,
+  type ConvexVenueRow,
+  type LegacyFullVenue,
+  type LegacyLiteVenue,
+} from "./transforms/venues-legacy.js";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT_DIR = resolve(__dirname, "..");
@@ -41,17 +72,13 @@ const DATA_DIR = resolve(ROOT_DIR, "data");
 const CITIES_CONFIG = resolve(ROOT_DIR, "cities.json");
 
 // ---------------------------------------------------------------------------
-// Cities config types
+// Cities config
 // ---------------------------------------------------------------------------
 
 interface CityConfig {
   slug: string;
   displayName: string;
-  webflowSiteId: string;
-  venuesCollectionSlug: string;
   active: boolean;
-  /** Optional env var name override if this city's Webflow site lives in a different workspace */
-  webflowApiTokenEnvVar?: string;
 }
 
 interface CitiesConfigFile {
@@ -89,150 +116,119 @@ async function writeCityJson(
 
 interface CitySyncResult {
   slug: string;
-  full: number;
-  lite: number;
-  skipped: number;
-  failed: number;
+  collectionsOk: number;
+  collectionsFailed: number;
+  legacyFullCount: number;
+  legacyLiteCount: number;
 }
 
-async function syncCity(city: CityConfig): Promise<CitySyncResult> {
+async function syncCity(
+  city: CityConfig,
+  includeDrafts: boolean,
+): Promise<CitySyncResult> {
   console.log(`\n→ ${city.displayName} (${city.slug})`);
+  console.log(`  mode: ${includeDrafts ? "draft (live projection)" : "published (frozen)"}`);
 
-  // Resolve the API token — default WEBFLOW_API_TOKEN, optionally
-  // overridden per city for multi-workspace setups.
-  const tokenEnvVar = city.webflowApiTokenEnvVar ?? "WEBFLOW_API_TOKEN";
-  const accessToken = process.env[tokenEnvVar];
-  if (!accessToken) {
-    throw new Error(
-      `${city.slug}: env var ${tokenEnvVar} is not set`,
-    );
-  }
-  const client = new WebflowClient({ accessToken });
+  let collectionsOk = 0;
+  let collectionsFailed = 0;
+  let venuesEnvelope: { rows: ConvexVenueRow[]; raw: unknown } | null = null;
 
-  // Discover locales for this site
-  console.log("  → discovering locales");
-  const locales = await discoverLocales(client, city.webflowSiteId);
-  const primaryTag = locales.byCmsLocaleId[locales.primary.cmsLocaleId] ?? "en";
-  const secondaryLocale = locales.secondary[0];
-  const secondaryTag = secondaryLocale
-    ? (locales.byCmsLocaleId[secondaryLocale.cmsLocaleId] ?? "es")
-    : "";
-  console.log(
-    `    primary=${primaryTag} secondary=${secondaryTag || "(none)"}`,
-  );
-
-  // Discover the venues collection by slug
-  console.log("  → discovering collections");
-  const collections = await discoverCollections(client, city.webflowSiteId);
-  const venueCollection = findCollectionBySlug(
-    collections,
-    city.venuesCollectionSlug,
-  );
-  if (!venueCollection) {
-    throw new Error(
-      `${city.slug}: no "${city.venuesCollectionSlug}" collection found. ` +
-        `Available: ${collections.map((c) => c.slug).join(", ")}`,
-    );
-  }
-  console.log(
-    `    venues collection: ${venueCollection.slug} (${venueCollection.id})`,
-  );
-
-  // Fetch primary + secondary locale items
-  console.log("  → fetching venue items");
-  const primaryItems = await fetchAllItems(client, venueCollection.id);
-  console.log(`    ${primaryTag}: ${primaryItems.length} items`);
-
-  let secondaryItems: WebflowItem[] = [];
-  if (secondaryLocale?.cmsLocaleId) {
-    secondaryItems = await fetchAllItems(
-      client,
-      venueCollection.id,
-      secondaryLocale.cmsLocaleId,
-    );
-    console.log(`    ${secondaryTag}: ${secondaryItems.length} items`);
-  }
-
-  // Merge by item ID
-  const merged = mergeLocaleItems(
-    primaryItems,
-    secondaryItems,
-    primaryTag,
-    secondaryTag,
-  );
-
-  // Transform → full + lite
-  console.log("  → transforming");
-  const fullVenues: FullVenue[] = [];
-  const liteVenues: LiteVenue[] = [];
-  let skippedDraftOrArchived = 0;
-  let failed = 0;
-
-  for (const [, entry] of merged) {
-    const item = entry.primary;
-    if (item.isArchived === true || item.isDraft === true) {
-      skippedDraftOrArchived++;
-      continue;
-    }
+  for (const collection of COLLECTIONS) {
     try {
-      const localesObj: Record<string, VenueLocaleData> = {};
-      for (const [tag, fieldData] of Object.entries(entry.localeFieldData)) {
-        localesObj[tag] = transformVenueLocale(fieldData);
+      console.log(`  → fetching ${collection.slug}`);
+      const envelope = await fetchSnapshot(collection.slug, city.slug, {
+        includeDrafts: collection.publishable && includeDrafts,
+      });
+      const rows = rowsOf(envelope, collection.slug);
+      console.log(`    ${rows.length} rows`);
+
+      await writeCityJson(city.slug, collection.filename, envelope);
+      collectionsOk++;
+
+      // Capture venues for the legacy projection step. We pass the
+      // full envelope through and also keep the rows for the legacy
+      // transforms.
+      if (collection.slug === "venues") {
+        venuesEnvelope = {
+          rows: rows as ConvexVenueRow[],
+          raw: envelope,
+        };
       }
-
-      const base = transformVenueBase(item);
-
-      const full: FullVenue = {
-        webflowItemId: item.id,
-        base,
-        locales: localesObj,
-        lastPublished: item.lastPublished,
-        lastUpdated: item.lastUpdated,
-      };
-      fullVenues.push(full);
-
-      const lite = toLiteVenue(full, item);
-      if (lite) liteVenues.push(lite);
     } catch (err) {
-      failed++;
-      console.warn(
-        `    ! failed to transform ${item.id}:`,
+      collectionsFailed++;
+      console.error(
+        `    ✗ ${collection.slug} failed:`,
         err instanceof Error ? err.message : String(err),
       );
     }
   }
 
-  const syncedAt = new Date().toISOString();
+  // Legacy compat — venues-full.json + venues-lite.json projected from
+  // the venues envelope. Skip silently if venues fetch failed
+  // (collectionsFailed will already reflect the problem).
+  let legacyFullCount = 0;
+  let legacyLiteCount = 0;
+  if (venuesEnvelope) {
+    const legacyFull: LegacyFullVenue[] = [];
+    const legacyLite: LegacyLiteVenue[] = [];
+    for (const row of venuesEnvelope.rows) {
+      try {
+        legacyFull.push(toLegacyFullVenue(row));
+        const lite = toLegacyLiteVenue(row);
+        if (lite) legacyLite.push(lite);
+      } catch (err) {
+        console.warn(
+          `    ! legacy projection failed for ${row.convexId}:`,
+          err instanceof Error ? err.message : String(err),
+        );
+      }
+    }
+    legacyFullCount = legacyFull.length;
+    legacyLiteCount = legacyLite.length;
 
-  console.log("  → writing JSON");
-  await writeCityJson(city.slug, "venues-full.json", {
-    syncedAt,
-    citySlug: city.slug,
-    venues: fullVenues,
-  });
-  await writeCityJson(city.slug, "venues-lite.json", {
-    syncedAt,
-    citySlug: city.slug,
-    venues: liteVenues,
-  });
+    const syncedAt = new Date().toISOString();
+    await writeCityJson(city.slug, "venues-full.json", {
+      syncedAt,
+      citySlug: city.slug,
+      venues: legacyFull,
+    });
+    await writeCityJson(city.slug, "venues-lite.json", {
+      syncedAt,
+      citySlug: city.slug,
+      venues: legacyLite,
+    });
+  } else {
+    console.warn(
+      `  ! skipping legacy venues-full/venues-lite — venues fetch failed`,
+    );
+  }
 
+  const okStr = `${collectionsOk}/${COLLECTIONS.length} collections`;
+  const legacyStr = venuesEnvelope
+    ? `${legacyFullCount} full / ${legacyLiteCount} lite`
+    : "(legacy skipped)";
   console.log(
-    `  ✓ ${city.displayName}: ${fullVenues.length} full / ${liteVenues.length} lite ` +
-      `(${skippedDraftOrArchived} skipped, ${failed} failed)`,
+    `  ${collectionsFailed === 0 ? "✓" : "⚠"} ${city.displayName}: ` +
+      `${okStr}, legacy: ${legacyStr}`,
   );
 
   return {
     slug: city.slug,
-    full: fullVenues.length,
-    lite: liteVenues.length,
-    skipped: skippedDraftOrArchived,
-    failed,
+    collectionsOk,
+    collectionsFailed,
+    legacyFullCount,
+    legacyLiteCount,
   };
 }
 
 // ---------------------------------------------------------------------------
 // Main: loop over cities
 // ---------------------------------------------------------------------------
+
+function parseIncludeDrafts(): boolean {
+  const raw = process.env.SYNC_INCLUDE_DRAFTS?.toLowerCase() ?? "";
+  return raw === "1" || raw === "true" || raw === "yes";
+}
 
 async function main(): Promise<void> {
   console.log("→ loading cities config");
@@ -249,9 +245,14 @@ async function main(): Promise<void> {
     return;
   }
 
-  // Optional: filter to a single city via env var (used by the webhook
-  // receiver to sync only the city whose Webflow site fired the event).
-  const onlyCitySlug = process.env.SYNC_ONLY_CITY;
+  const includeDrafts = parseIncludeDrafts();
+  if (includeDrafts) {
+    console.log("  ! SYNC_INCLUDE_DRAFTS set — draft-branch mode");
+  }
+
+  // Optional: filter to a single city via env var (used by
+  // workflow_dispatch input to sync only the requested city).
+  const onlyCitySlug = process.env.SYNC_ONLY_CITY?.trim();
   const citiesToSync = onlyCitySlug
     ? activeCities.filter((c) => c.slug === onlyCitySlug)
     : activeCities;
@@ -261,19 +262,19 @@ async function main(): Promise<void> {
       `SYNC_ONLY_CITY="${onlyCitySlug}" but no matching active city in cities.json`,
     );
   }
-
   if (onlyCitySlug) {
     console.log(`  ! filtered by SYNC_ONLY_CITY=${onlyCitySlug}`);
   }
 
-  // Sync each city. We don't bail on the first failure — if Cabos fails,
-  // we still want Tulum's sync to complete (and vice versa).
+  // Sync each city. Don't bail on the first failure — partial success
+  // is better than total failure when one city's Convex deployment
+  // has a transient hiccup.
   const results: CitySyncResult[] = [];
   const errors: { slug: string; error: string }[] = [];
 
   for (const city of citiesToSync) {
     try {
-      const result = await syncCity(city);
+      const result = await syncCity(city, includeDrafts);
       results.push(result);
     } catch (err) {
       errors.push({
@@ -290,17 +291,25 @@ async function main(): Promise<void> {
   // Summary
   console.log("\n→ summary");
   for (const r of results) {
+    const mark = r.collectionsFailed === 0 ? "✓" : "⚠";
     console.log(
-      `  ✓ ${r.slug}: ${r.full} full / ${r.lite} lite ` +
-        `(${r.skipped} skipped, ${r.failed} failed)`,
+      `  ${mark} ${r.slug}: ${r.collectionsOk}/${COLLECTIONS.length} collections, ` +
+        `legacy ${r.legacyFullCount} full / ${r.legacyLiteCount} lite`,
     );
   }
   for (const e of errors) {
     console.log(`  ✗ ${e.slug}: ${e.error}`);
   }
 
-  if (errors.length > 0) {
-    console.error(`\n✗ sync completed with ${errors.length} failed cities`);
+  const collectionFailures = results.reduce(
+    (sum, r) => sum + r.collectionsFailed,
+    0,
+  );
+  if (errors.length > 0 || collectionFailures > 0) {
+    console.error(
+      `\n✗ sync completed with ${errors.length} city failures ` +
+        `and ${collectionFailures} collection failures`,
+    );
     process.exit(1);
   }
   console.log("\n✓ all cities synced");

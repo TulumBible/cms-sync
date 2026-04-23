@@ -1,7 +1,10 @@
-name: Sync Webflow → JSON
+name: Sync Convex → JSON
 
 on:
   schedule:
+    # Daily at 07:00 UTC. Bump frequency (e.g. every 15 min) if editors
+    # need faster propagation — current policy is cron-only, no Convex
+    # → GitHub webhook, so the cron cadence IS the staleness window.
     - cron: '0 7 * * *'
   workflow_dispatch:
     inputs:
@@ -9,6 +12,11 @@ on:
         description: 'Optional city slug to sync only that city (e.g. "tulum"). Empty = sync every city in cities.json.'
         required: false
         type: string
+      includeDrafts:
+        description: 'Fetch draft-branch mode (?drafts=1) — live projection with isDraft flags. Leave unchecked for main branch (published only).'
+        required: false
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -40,14 +48,20 @@ jobs:
 
       - name: Run sync
         env:
-          # Shared Webflow API token. If a city's Webflow site lives in a
-          # different workspace, set its token via a different secret and
-          # reference it in cities.json via `webflowApiTokenEnvVar`.
-          WEBFLOW_API_TOKEN: ${{ secrets.WEBFLOW_API_TOKEN }}
+          # Convex deployment that emits /cms-snapshot/* endpoints.
+          # Use the .convex.site host (HTTP actions), NOT .convex.cloud.
+          CONVEX_SITE_URL: ${{ secrets.CONVEX_SITE_URL }}
+          # Shared secret — must match Convex's INTERNAL_CMS_KEY env
+          # var. Rotate both sides together.
+          INTERNAL_CMS_KEY: ${{ secrets.INTERNAL_CMS_KEY }}
           # When set, sync.ts only syncs this city and skips the rest.
-          # Webhook receiver passes the city slug it resolved from the
-          # source Webflow site ID. Cron runs leave this unset → all cities.
+          # Cron runs leave this unset → all cities.
           SYNC_ONLY_CITY: ${{ inputs.citySlug }}
+          # When "1", publishable routes are fetched with ?drafts=1 so
+          # the output reflects live editor state instead of frozen
+          # published snapshots. Used on the `draft` branch of this
+          # repo by a separate workflow (or manual dispatch).
+          SYNC_INCLUDE_DRAFTS: ${{ inputs.includeDrafts && '1' || '' }}
         run: pnpm sync
 
       - name: Commit changes
