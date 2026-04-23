@@ -80,3 +80,33 @@ jobs:
           fi
           git commit -m "$COMMIT_MSG"
           git push
+
+      # Report status back to Convex so the admin UI can show a green
+      # dot + "synced X ago" with the commit SHA. Runs regardless of
+      # whether this run succeeded — on failure, we report the error
+      # so the admin UI can show red. `always()` ensures this step runs
+      # even after a failed earlier step.
+      - name: Report status to Convex
+        if: always()
+        env:
+          CONVEX_SITE_URL: ${{ secrets.CONVEX_SITE_URL }}
+          INTERNAL_CMS_KEY: ${{ secrets.INTERNAL_CMS_KEY }}
+          JOB_STATUS: ${{ job.status }}
+        run: |
+          if [ -z "$CONVEX_SITE_URL" ] || [ -z "$INTERNAL_CMS_KEY" ]; then
+            echo "Convex env vars missing; skipping status report."
+            exit 0
+          fi
+          SHA=$(git rev-parse HEAD)
+          if [ "$JOB_STATUS" = "success" ]; then
+            BODY=$(printf '{"platform":"cmsSync","lastCommitSha":"%s","syncError":null}' "$SHA")
+          else
+            BODY=$(printf '{"platform":"cmsSync","lastCommitSha":"%s","syncError":"Sync job exited with status: %s. See GitHub Actions logs for details."}' "$SHA" "$JOB_STATUS")
+          fi
+          curl -sS --fail-with-body \
+            -X POST \
+            -H "x-internal-cms-key: $INTERNAL_CMS_KEY" \
+            -H "Content-Type: application/json" \
+            -d "$BODY" \
+            "$CONVEX_SITE_URL/api/platform-status" \
+            || echo "Status report failed (non-fatal) — sync itself still succeeded/failed per job.status above."
