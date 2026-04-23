@@ -5,15 +5,15 @@
   "description": "Convex → JSON sync for the Core hospitality network (tulumbible.com, future cabosbible.com, etc). Polls events-management's /cms-snapshot/* endpoints and commits per-city JSON files for downstream consumption by Astro, tb-ai-concierge, and tulum-core.",
   "type": "module",
   "scripts": {
-    "sync": "tsx src/sync.ts",
+    "sync": "tsx --env-file-if-exists=.env.local src/sync.ts",
     "type-check": "tsc --noEmit"
   },
   "devDependencies": {
-    "@types/node": "^20.14.0",
+    "@types/node": "^22.0.0",
     "tsx": "^4.19.0",
     "typescript": "^5.6.0"
   },
   "engines": {
-    "node": ">=20"
+    "node": ">=22.7"
   }
 }
