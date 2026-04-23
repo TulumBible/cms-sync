@@ -1,6 +1,6 @@
-# core-cms-sync
+# cms-sync
 
-> Repo name is still `tulum-cms-sync` for legacy reasons. The contents serve every Core market — Tulum, Cabos, Mykonos, etc. Add new cities by editing `cities.json`.
+Serves every Core market — Tulum, Cabos, Mykonos, etc. Add new cities by editing `cities.json`.
 
 Standalone **Convex → JSON sync** for the Core hospitality network. Polls the `events-management` Convex deployment's `/cms-snapshot/*` HTTP endpoints, writes per-city JSON files into `data/{slug}/`, and commits them back to this repo. Downstream apps (`tulum-bible-astro`, `tb-ai-concierge`, `tulum-core`) read those committed JSON files directly from GitHub.
 
@@ -21,7 +21,7 @@ Runs on a GitHub Actions cron and commits its output. Consumers fetch the raw JS
 events-management (Convex)
    │   HTTP GET /cms-snapshot/*  (x-internal-cms-key header)
    ▼
-tulum-cms-sync  (this repo — GitHub Actions cron)
+cms-sync  (this repo — GitHub Actions cron)
    │   writes JSON → commits to GitHub
    ▼
 data/{city}/*.json on GitHub

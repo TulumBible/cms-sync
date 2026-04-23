@@ -1,5 +1,5 @@
 /**
- * core-cms-sync entrypoint (multi-city).
+ * cms-sync entrypoint (multi-city).
  *
  * Reads cities.json, iterates over active cities, pulls every
  * registered collection from the events-management Convex

@@ -22,7 +22,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: core-cms-sync
+  group: cms-sync
   cancel-in-progress: false
 
 jobs:
