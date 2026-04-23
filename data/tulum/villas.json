@@ -1,6 +1,192 @@
 {
-  "syncedAt": "2026-04-23T22:11:42.316Z",
+  "syncedAt": "2026-04-23T22:23:25.221Z",
   "citySlug": "tulum",
-  "villas": [],
+  "villas": [
+    {
+      "base": {
+        "amenityIds": [],
+        "bathrooms": "5",
+        "bedrooms": "6",
+        "beds": "7",
+        "categoryIds": [],
+        "faqIds": [],
+        "googleMapsCode": "JKL345",
+        "mainImage": "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/69167e78f0c6abc1b57369db_image2.jpeg",
+        "otherImages": [
+          "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/69167e78f0c6abc1b57369c9_image9.jpeg",
+          "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/69167e78f0c6abc1b57369e4_image20.jpeg"
+        ],
+        "reviewIds": [],
+        "secondImage": "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/69167e78f0c6abc1b57369cf_image7.jpeg",
+        "sleeps": "12",
+        "thirdImage": "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/69167e78f0c6abc1b57369b2_image8.jpeg"
+      },
+      "convexId": "kh79snp74jamz131eznknv0dd5859cmr",
+      "lastUpdated": "2026-04-21T04:29:39.937Z",
+      "locales": {
+        "en": {
+          "body": "<h1>Luxury Retreat Villa</h1><p>This villa provides a tranquil environment with lush gardens, a private chef, and spa services available. It is designed for relaxation and rejuvenation.</p><h2>Features</h2><ul><li><strong>Private Chef</strong></li><li><strong>Spa Services</strong></li><li><strong>Yoga Deck</strong></li></ul><p>Indulge in a luxurious experience that caters to your every need.</p>",
+          "description": "A luxury retreat villa that offers a serene escape with top-notch amenities and services.",
+          "name": "Luxury Retreat Villa",
+          "slug": "tulum-villa-5"
+        },
+        "es": {
+          "body": "<h1>Luxury Retreat Villa</h1><p>This villa provides a tranquil environment with lush gardens, a private chef, and spa services available. It is designed for relaxation and rejuvenation.</p><h2>Features</h2><ul><li><strong>Private Chef</strong></li><li><strong>Spa Services</strong></li><li><strong>Yoga Deck</strong></li></ul><p>Indulge in a luxurious experience that caters to your every need.</p>",
+          "description": "A luxury retreat villa that offers a serene escape with top-notch amenities and services.",
+          "name": "Luxury Retreat Villa",
+          "slug": "tulum-villa-5"
+        }
+      }
+    },
+    {
+      "base": {
+        "amenityIds": [],
+        "bathrooms": "1",
+        "bedrooms": "2",
+        "beds": "2",
+        "categoryIds": [],
+        "faqIds": [],
+        "googleMapsCode": "GHI012",
+        "mainImage": "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/69167e78f0c6abc1b57369ac_image20.jpeg",
+        "otherImages": [
+          "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/69167e78f0c6abc1b57369ea_image1.jpeg",
+          "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/69167e78f0c6abc1b57369b2_image8.jpeg",
+          "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/69167e79f0c6abc1b5736a11_image14.jpeg",
+          "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/69167e78f0c6abc1b57369d8_image12.jpeg",
+          "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/69167e78f0c6abc1b57369f3_image12.jpeg"
+        ],
+        "reviewIds": [],
+        "secondImage": "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/69167e78f0c6abc1b57369c6_image13.jpeg",
+        "sleeps": "4",
+        "thirdImage": "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/69167e78f0c6abc1b57369cc_image20.jpeg"
+      },
+      "convexId": "kh739qy4gre6rs9s4dv2xd28dn858g99",
+      "lastUpdated": "2026-04-21T04:29:39.970Z",
+      "locales": {
+        "en": {
+          "body": "<h1>Eco-Friendly Villa</h1><p>This villa is built using sustainable materials and features solar panels, rainwater harvesting, and organic gardens. It is perfect for eco-conscious travelers.</p><h2>Highlights</h2><ul><li><strong>Sustainable Design</strong></li><li><strong>Organic Garden</strong></li><li><strong>Natural Pool</strong></li></ul><p>Enjoy a luxurious stay while minimizing your environmental impact.</p>",
+          "description": "An eco-friendly villa designed with sustainability in mind, offering a unique experience in Tulum.",
+          "name": "Eco-Friendly Villa",
+          "slug": "tulum-villa-4"
+        },
+        "es": {
+          "body": "<h1>Eco-Friendly Villa</h1><p>This villa is built using sustainable materials and features solar panels, rainwater harvesting, and organic gardens. It is perfect for eco-conscious travelers.</p><h2>Highlights</h2><ul><li><strong>Sustainable Design</strong></li><li><strong>Organic Garden</strong></li><li><strong>Natural Pool</strong></li></ul><p>Enjoy a luxurious stay while minimizing your environmental impact.</p>",
+          "description": "An eco-friendly villa designed with sustainability in mind, offering a unique experience in Tulum.",
+          "name": "Eco-Friendly Villa",
+          "slug": "tulum-villa-4"
+        }
+      }
+    },
+    {
+      "base": {
+        "amenityIds": [],
+        "bathrooms": "2",
+        "bedrooms": "3",
+        "beds": "3",
+        "categoryIds": [],
+        "faqIds": [],
+        "googleMapsCode": "DEF789",
+        "mainImage": "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/69167e78f0c6abc1b57369a9_image8.jpeg",
+        "otherImages": [
+          "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/69167e78f0c6abc1b57369e1_image5.jpeg",
+          "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/69167e78f0c6abc1b57369ed_image16.jpeg",
+          "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/69167e78f0c6abc1b57369d5_image15.jpeg"
+        ],
+        "reviewIds": [],
+        "secondImage": "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/69167e78f0c6abc1b57369c3_image7.jpeg",
+        "sleeps": "6",
+        "thirdImage": "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/69167e78f0c6abc1b57369de_image5.jpeg"
+      },
+      "convexId": "kh7bm8p59cz90apq6bw8wercnx859xx8",
+      "lastUpdated": "2026-04-21T04:29:40.000Z",
+      "locales": {
+        "en": {
+          "body": "<h1>Charming Beachfront Villa</h1><p>This villa is perfect for beach lovers. With its prime location, you can enjoy stunning sunrises and sunsets from the comfort of your own home.</p><h2>Features</h2><ul><li><strong>Beach Access</strong></li><li><strong>Spacious Deck</strong></li><li><strong>Outdoor Shower</strong></li></ul><p>Relax in the sun or take a dip in the ocean, this villa is your perfect beach retreat.</p>",
+          "description": "A charming villa located right on the beach, offering breathtaking views and direct access to the ocean.",
+          "name": "Charming Beachfront Villa",
+          "slug": "tulum-villa-3"
+        },
+        "es": {
+          "body": "<h1>Charming Beachfront Villa</h1><p>This villa is perfect for beach lovers. With its prime location, you can enjoy stunning sunrises and sunsets from the comfort of your own home.</p><h2>Features</h2><ul><li><strong>Beach Access</strong></li><li><strong>Spacious Deck</strong></li><li><strong>Outdoor Shower</strong></li></ul><p>Relax in the sun or take a dip in the ocean, this villa is your perfect beach retreat.</p>",
+          "description": "A charming villa located right on the beach, offering breathtaking views and direct access to the ocean.",
+          "name": "Charming Beachfront Villa",
+          "slug": "tulum-villa-3"
+        }
+      }
+    },
+    {
+      "base": {
+        "amenityIds": [],
+        "bathrooms": "4",
+        "bedrooms": "5",
+        "beds": "6",
+        "categoryIds": [],
+        "faqIds": [],
+        "googleMapsCode": "ABC456",
+        "mainImage": "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/69167e78f0c6abc1b57369f9_image2.jpeg",
+        "otherImages": [
+          "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/69167e78f0c6abc1b57369d2_image7.jpeg",
+          "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/69167e78f0c6abc1b57369b5_image15.jpeg",
+          "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/69167e78f0c6abc1b57369c0_image16.jpeg",
+          "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/69167e78f0c6abc1b57369f0_image1.jpeg"
+        ],
+        "reviewIds": [],
+        "secondImage": "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/69167e78f0c6abc1b57369b8_image15.jpeg",
+        "sleeps": "10",
+        "thirdImage": "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/69167e78f0c6abc1b57369e7_image3.jpeg"
+      },
+      "convexId": "kh73gq2pxqsw9j30w8gw258w4d858q3t",
+      "lastUpdated": "2026-04-21T04:29:40.027Z",
+      "locales": {
+        "en": {
+          "body": "<h1>Modern Luxury Villa</h1><p>This villa features modern architecture with an open floor plan, large windows, and stylish furnishings. It is equipped with all the amenities you need for a comfortable stay.</p><h2>Highlights</h2><ul><li><strong>Infinity Pool</strong></li><li><strong>Outdoor Lounge Area</strong></li><li><strong>Smart Home Technology</strong></li></ul><p>Experience the best of Tulum with this luxurious accommodation that combines elegance and comfort.</p>",
+          "description": "A contemporary villa with sleek design and high-end amenities, perfect for a luxurious getaway in Tulum.",
+          "name": "Modern Luxury Villa",
+          "slug": "tulum-villa-2"
+        },
+        "es": {
+          "body": "<h1>Modern Luxury Villa</h1><p>This villa features modern architecture with an open floor plan, large windows, and stylish furnishings. It is equipped with all the amenities you need for a comfortable stay.</p><h2>Highlights</h2><ul><li><strong>Infinity Pool</strong></li><li><strong>Outdoor Lounge Area</strong></li><li><strong>Smart Home Technology</strong></li></ul><p>Experience the best of Tulum with this luxurious accommodation that combines elegance and comfort.</p>",
+          "description": "A contemporary villa with sleek design and high-end amenities, perfect for a luxurious getaway in Tulum.",
+          "name": "Modern Luxury Villa",
+          "slug": "tulum-villa-2"
+        }
+      }
+    },
+    {
+      "base": {
+        "amenityIds": [],
+        "bathrooms": "3",
+        "bedrooms": "4",
+        "beds": "5",
+        "categoryIds": [],
+        "faqIds": [],
+        "googleMapsCode": "XYZ123",
+        "mainImage": "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/69167e78f0c6abc1b57369fd_image2.jpeg",
+        "otherImages": [
+          "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/69167e78f0c6abc1b57369af_image5.jpeg"
+        ],
+        "reviewIds": [],
+        "secondImage": "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/69167e78f0c6abc1b57369f6_image2.jpeg",
+        "sleeps": "8",
+        "thirdImage": "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/69167e78f0c6abc1b5736a00_image12.jpeg"
+      },
+      "convexId": "kh7bw3v7qeh171ge2y96bewk79858q6m",
+      "lastUpdated": "2026-04-21T04:29:40.057Z",
+      "locales": {
+        "en": {
+          "body": "<h1>Tropical Paradise Villa</h1><p>This exquisite villa offers a perfect blend of luxury and comfort. With spacious living areas, a private pool, and beautiful outdoor spaces, it is ideal for families and groups looking to relax and unwind.</p><h2>Features</h2><ul><li><strong>Private Pool</strong></li><li><strong>Close to Beach</strong></li><li><strong>Fully Equipped Kitchen</strong></li></ul><p>Enjoy the serene atmosphere and the vibrant local culture. The villa is designed to provide a memorable experience for all guests.</p>",
+          "description": "A stunning villa located in the heart of Tulum, surrounded by lush greenery and just a short walk from the beach.",
+          "name": "Tropical Paradise Villa",
+          "slug": "tulum-villa-1"
+        },
+        "es": {
+          "body": "<h1>Tropical Paradise Villa</h1><p>This exquisite villa offers a perfect blend of luxury and comfort. With spacious living areas, a private pool, and beautiful outdoor spaces, it is ideal for families and groups looking to relax and unwind.</p><h2>Features</h2><ul><li><strong>Private Pool</strong></li><li><strong>Close to Beach</strong></li><li><strong>Fully Equipped Kitchen</strong></li></ul><p>Enjoy the serene atmosphere and the vibrant local culture. The villa is designed to provide a memorable experience for all guests.</p>",
+          "description": "A stunning villa located in the heart of Tulum, surrounded by lush greenery and just a short walk from the beach.",
+          "name": "Tropical Paradise Villa",
+          "slug": "tulum-villa-1"
+        }
+      }
+    }
+  ],
   "mode": "published"
 }

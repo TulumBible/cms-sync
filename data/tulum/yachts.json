@@ -1,6 +1,773 @@
 {
-  "syncedAt": "2026-04-23T22:11:42.208Z",
+  "syncedAt": "2026-04-23T22:23:25.122Z",
   "citySlug": "tulum",
-  "yachts": [],
+  "yachts": [
+    {
+      "base": {
+        "categoryIds": [],
+        "faqIds": [],
+        "images": {
+          "extras": [
+            "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/68d7e33d259b4ed46519239a_66ce92481ecdd0aeb5f137cc_people%2520having%2520fun%2520on%2520vandutch%252040.webp",
+            "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/68d7e33d259b4ed46519239d_66ce923b60b625bf6dba446c_vandutch%252040%2520blue%2520water.webp",
+            "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/68d7e33d259b4ed4651923ba_66ce924890ce0d73a67c1290_vandutch%252040%2520deck.webp",
+            "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/68d7e33d259b4ed4651923a3_66ce9248bcac5f7c08cd8339_vandutch%252040%2520people%2520dancing.webp",
+            "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/68d7e33d259b4ed4651923a0_66ce9248bd97263aaa3a9fd3_vandutch%252040%2520romantic%2520dinner.webp",
+            "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/68d7e33d259b4ed4651923c3_66ce9276fffa15d6950eae44_vandutch%252040%2520food.webp",
+            "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/68d7e33d259b4ed4651923ae_66ce928fa5c6e3d840e6b1b1_vandutch%252040%2520top%2520back.webp",
+            "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/68d7e33d259b4ed4651923c3_66ce9276fffa15d6950eae44_vandutch%252040%2520food.webp"
+          ],
+          "image1": "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/68d7e33d259b4ed4651923b4_66ce920e620151f1ea4efd8a_vandutch%252040%2520top%2520side%2520view.webp",
+          "image2": "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/68d7e33d259b4ed4651923b1_66ce9229fffa15d6950e5cfb_vandutch%252040%2520top%2520.webp",
+          "image3": "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/68d7e33d259b4ed4651923ab_66ce92341ecdd0aeb5f12d17_vandutch%252040%2520top%2520side%2520view2%2520.webp",
+          "image4": "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/68d7e33c259b4ed465192396_66ce92ee11fd98ff937c2547_vandutch%252040%2520side%2520view.webp"
+        },
+        "packages": [
+          {
+            "descriptionEn": "<p id=\"\">Embrace the thrill of the Caribbean Sea with our Coast &amp; Fun Package aboard the VanDutch 40'. This sporty yacht’s sleek design and advanced technology provide the perfect setting for snorkeling, exploring hidden beaches, and enjoying the crystal-clear waters of Tulum.</p>",
+            "descriptionEs": null,
+            "durationCategory": "half-day",
+            "key": "coastFun",
+            "price": "$1,500"
+          },
+          {
+            "descriptionEn": null,
+            "descriptionEs": null,
+            "durationCategory": "half-day",
+            "key": "funPlus",
+            "price": "$1,700"
+          },
+          {
+            "descriptionEn": "<p id=\"\">Celebrate your bachelor party in style with the VanDutch 40', a yacht that combines the elegance of a luxury vessel with the excitement of the Riviera Maya. With its modern design and premium amenities, this yacht offers an unforgettable experience for you and your friends as you cruise the turquoise waters of Tulum.</p>",
+            "descriptionEs": null,
+            "durationCategory": "half-day",
+            "key": "bachelorParty",
+            "price": "$1,650"
+          },
+          {
+            "descriptionEn": null,
+            "descriptionEs": null,
+            "durationCategory": "full-day",
+            "key": "coastFunFullDay",
+            "price": "$3,000"
+          },
+          {
+            "descriptionEn": "<p id=\"\">Explore the rich history of the Riviera Maya with our Mayan Ruins Adventure aboard the VanDutch 40'. Sail along the coast of Tulum, taking in the majestic views of ancient Mayan ruins from the sea. With its sleek design and advanced technology, the VanDutch 40' offers a unique and luxurious way to discover Tulum’s cultural treasures.</p>",
+            "descriptionEs": null,
+            "durationCategory": "full-day",
+            "key": "cozumelRuinsFullDay",
+            "price": "$3,000"
+          },
+          {
+            "descriptionEn": "<p id=\"\">Dive into an extraordinary adventure with our Yacht and Dive package on the VanDutch 40'. Explore the vibrant coral reefs and underwater wonders of the Caribbean, all while enjoying the luxury and comfort of this stylish yacht. With its advanced technology and premium amenities, the VanDutch 40' ensures a diving experience like no other.</p>",
+            "descriptionEs": null,
+            "durationCategory": "full-day",
+            "key": "diveYachtFullDay",
+            "price": "$3,250"
+          }
+        ],
+        "reviewIds": [],
+        "specs": {
+          "bathrooms": "1",
+          "cabins": "1",
+          "capacity": "8",
+          "length": "40"
+        }
+      },
+      "convexId": "kn72c688httzpht5zgcx3yhsgh858ff8",
+      "lastUpdated": "2026-04-21T04:51:47.512Z",
+      "locales": {
+        "en": {
+          "boatBody": "<p id=\"\">Step aboard the VanDutch 40', an icon of modern luxury and design that feels like it's straight out of a James Bond movie. This 12-meter yacht is the epitome of style and sophistication, combining daring aesthetics with advanced technology to deliver a truly unforgettable experience. With a sleek and sporty exterior, the VanDutch 40' stands out as a bold statement on the water, making it the ideal choice for those who seek both adventure and elegance.</p><p id=\"\">Designed to comfortably accommodate up to 8 passengers, the VanDutch 40' offers a tailor-made interior that blends luxury and functionality. Whether you're lounging in the shaded areas, enjoying the high-end sound system, or taking in the breathtaking views of the Caribbean, every moment on this yacht is a testament to refined living. The VanDutch 40' also features a spacious cabin, an enclosed shower, and a toilet, ensuring that you have all the comforts you need while exploring Tulum’s stunning coastline.</p><p id=\"\">Equipped with air conditioning, a fully stocked premium bar, and snorkeling gear, the VanDutch 40' is perfect for intimate gatherings or a luxurious day out on the water. Sail through the crystal-clear waters of the Riviera Maya in a yacht that embodies both speed and sophistication, and create memories that will last a lifetime.</p>",
+          "boatSummary": "Sail in style aboard the VanDutch 40', a 12-meter luxury yacht with a daring, modern design. Perfect for up to 8 guests, this sleek vessel combines advanced technology with refined comfort for an unforgettable Caribbean adventure in Tulum’s stunning waters.",
+          "name": "Van Dutch 40",
+          "slug": "van-dutch-40"
+        },
+        "es": {
+          "boatBody": "<p id=\"\">Step aboard the VanDutch 40', an icon of modern luxury and design that feels like it's straight out of a James Bond movie. This 12-meter yacht is the epitome of style and sophistication, combining daring aesthetics with advanced technology to deliver a truly unforgettable experience. With a sleek and sporty exterior, the VanDutch 40' stands out as a bold statement on the water, making it the ideal choice for those who seek both adventure and elegance.</p><p id=\"\">Designed to comfortably accommodate up to 8 passengers, the VanDutch 40' offers a tailor-made interior that blends luxury and functionality. Whether you're lounging in the shaded areas, enjoying the high-end sound system, or taking in the breathtaking views of the Caribbean, every moment on this yacht is a testament to refined living. The VanDutch 40' also features a spacious cabin, an enclosed shower, and a toilet, ensuring that you have all the comforts you need while exploring Tulum’s stunning coastline.</p><p id=\"\">Equipped with air conditioning, a fully stocked premium bar, and snorkeling gear, the VanDutch 40' is perfect for intimate gatherings or a luxurious day out on the water. Sail through the crystal-clear waters of the Riviera Maya in a yacht that embodies both speed and sophistication, and create memories that will last a lifetime.</p>",
+          "boatSummary": "Sail in style aboard the VanDutch 40', a 12-meter luxury yacht with a daring, modern design. Perfect for up to 8 guests, this sleek vessel combines advanced technology with refined comfort for an unforgettable Caribbean adventure in Tulum’s stunning waters.",
+          "name": "Van Dutch 40",
+          "slug": "van-dutch-40"
+        }
+      }
+    },
+    {
+      "base": {
+        "categoryIds": [],
+        "faqIds": [],
+        "images": {
+          "extras": [
+            "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/68d7e33b67394060caa87e6f_66ce95eabcac5f7c08d157e3_cranchi%252050%2520bed.webp",
+            "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/68d7e33b67394060caa87e69_66ce95ea620151f1ea527a95_cranchi%252050%2520bed2.webp",
+            "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/68d7e33b67394060caa87e72_66ce95eaaff28ff925f34665_cranchi%252050%2520living%2520room.webp",
+            "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/68d7e33b67394060caa87e75_66ce963546650f7d6ecbe0da_cranchi%252050%2520side%2520view.webp",
+            "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/68d7e33b67394060caa87e6c_66ce95ea46650f7d6ecba855_cranchi%252050%2520table%2520top%2520deck.webp"
+          ],
+          "image1": "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/68d7e33b67394060caa87e78_66ce95c360b625bf6dbd91f4_cranchi%252050%2520top%2520close%2520front.webp",
+          "image2": "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/68d7e33b67394060caa87e7b_66ce95c8bea31da26a6ff037_cranchi%252050%2520top%2520view%2520back.webp",
+          "image3": "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/68d7e33b67394060caa87e7f_66ce95ceb5e5d2826b0821a1_cranchi%252050%2520side%2520view%2520still.webp",
+          "image4": "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/68d7e33b67394060caa87e65_66ce95d5266347abeee21bb1_cranchi%252050%2520front%2520view.webp"
+        },
+        "packages": [
+          {
+            "descriptionEn": "<p id=\"\">Create a romantic evening to remember aboard the Cranchi Mediterranee 50. With its elegant design and intimate setting, this yacht is the perfect venue for a five-course meal prepared by our onboard chef. As the sun sets over the Caribbean, enjoy a night of luxury and romance with your partner in the serene waters of Tulum.</p>",
+            "descriptionEs": null,
+            "durationCategory": "half-day",
+            "key": "romanticDinner",
+            "price": "$850"
+          },
+          {
+            "descriptionEn": "<p id=\"\">Experience the magic of the Caribbean aboard the Cranchi Mediterranee 50 with our Coast &amp; Fun Package. This powerful yacht, with its spacious and shaded areas, is perfect for a day of snorkeling, paddleboarding, and relaxation. Explore Tulum’s hidden gems and enjoy the ultimate luxury on this sleek and stylish vessel.</p>",
+            "descriptionEs": null,
+            "durationCategory": "half-day",
+            "key": "coastFun",
+            "price": "$1,950"
+          },
+          {
+            "descriptionEn": null,
+            "descriptionEs": null,
+            "durationCategory": "half-day",
+            "key": "funPlus",
+            "price": "$2,200"
+          },
+          {
+            "descriptionEn": "<p id=\"\">Celebrate your bachelor party in style on the Cranchi Mediterranee 50. This yacht’s cutting-edge design and luxurious amenities provide the perfect backdrop for an unforgettable day with friends. Enjoy gourmet dining, an unlimited premium bar, and Tulum’s stunning coastal views. With room for up to 10 guests, the Cranchi Mediterranee 50 ensures a day of celebration you’ll never forget.</p>",
+            "descriptionEs": null,
+            "durationCategory": "half-day",
+            "key": "bachelorParty",
+            "price": "$2,100"
+          },
+          {
+            "descriptionEn": null,
+            "descriptionEs": null,
+            "durationCategory": "full-day",
+            "key": "coastFunFullDay",
+            "price": "$3,900"
+          },
+          {
+            "descriptionEn": "<p id=\"\">Embark on a cultural journey with our Mayan Ruins Adventure on the Cranchi Mediterranee 50. Sail along the Riviera Maya, exploring the historic Tulum ruins from the sea, and snorkel in the clear waters of Akumal. The yacht’s luxurious amenities and comfortable spaces make this an enriching and relaxing experience in Tulum’s most iconic settings.</p>",
+            "descriptionEs": null,
+            "durationCategory": "full-day",
+            "key": "cozumelRuinsFullDay",
+            "price": "$3,900"
+          },
+          {
+            "descriptionEn": "<p id=\"\">For diving enthusiasts, the Cranchi Mediterranee 50 offers an exceptional Yacht and Dive experience. Sail to Cozumel’s vibrant coral reefs and dive into the Caribbean’s underwater wonders. With its powerful design, spacious cabins, and premium amenities, this yacht ensures a comfortable and unforgettable diving adventure in Tulum’s pristine marine environments.</p>",
+            "descriptionEs": null,
+            "durationCategory": "full-day",
+            "key": "diveYachtFullDay",
+            "price": "$4,350"
+          }
+        ],
+        "reviewIds": [],
+        "specs": {
+          "bathrooms": "2",
+          "cabins": "3",
+          "capacity": "10",
+          "length": "50"
+        }
+      },
+      "convexId": "kn75vp9dpga1ge06hq1ya9z6kh859vqn",
+      "lastUpdated": "2026-04-21T04:51:47.512Z",
+      "locales": {
+        "en": {
+          "boatBody": "<p id=\"\">Step aboard the Cranchi Mediterranee 50, a yacht that perfectly combines power and luxury with cutting-edge design. This 15.24-meter vessel is the ultimate travel companion, offering a unique personality that makes every journey through the Caribbean's calm waters unforgettable. Whether you're sailing with friends or family, this yacht ensures a luxurious and comfortable experience for up to 10 guests.</p><p id=\"\">The Cranchi Mediterranee 50 features two spacious cabins, two well-appointed bathrooms, and a cozy living room that comfortably seats all passengers. The yacht's full kitchen allows for gourmet meal preparation, while the high-end sound system and air conditioning ensure your comfort and entertainment throughout the voyage. With plenty of shaded areas, this yacht provides the perfect balance between relaxation and adventure.</p><p id=\"\">Ideal for exploring Tulum’s pristine beaches and hidden coves, the Cranchi Mediterranee 50 comes fully equipped with snorkeling gear, paddleboards, inflatables, and towels. The yacht also includes an unlimited premium bar, making every moment on board as enjoyable as possible. Designed for those who appreciate both style and performance, the Cranchi Mediterranee 50 offers an exceptional yachting experience in the Mexican Caribbean.</p>",
+          "boatSummary": "Experience luxury and power aboard the Cranchi Mediterranee 50. This yacht combines cutting-edge design with spacious comfort, offering room for 10 guests. Perfect for exploring Tulum’s beaches and coves, it ensures an unforgettable Caribbean adventure.",
+          "name": "Cranchi Mediterranee 50",
+          "slug": "cranchi-mediterranee-50"
+        },
+        "es": {
+          "boatBody": "<p id=\"\">Step aboard the Cranchi Mediterranee 50, a yacht that perfectly combines power and luxury with cutting-edge design. This 15.24-meter vessel is the ultimate travel companion, offering a unique personality that makes every journey through the Caribbean's calm waters unforgettable. Whether you're sailing with friends or family, this yacht ensures a luxurious and comfortable experience for up to 10 guests.</p><p id=\"\">The Cranchi Mediterranee 50 features two spacious cabins, two well-appointed bathrooms, and a cozy living room that comfortably seats all passengers. The yacht's full kitchen allows for gourmet meal preparation, while the high-end sound system and air conditioning ensure your comfort and entertainment throughout the voyage. With plenty of shaded areas, this yacht provides the perfect balance between relaxation and adventure.</p><p id=\"\">Ideal for exploring Tulum’s pristine beaches and hidden coves, the Cranchi Mediterranee 50 comes fully equipped with snorkeling gear, paddleboards, inflatables, and towels. The yacht also includes an unlimited premium bar, making every moment on board as enjoyable as possible. Designed for those who appreciate both style and performance, the Cranchi Mediterranee 50 offers an exceptional yachting experience in the Mexican Caribbean.</p>",
+          "boatSummary": "Experience luxury and power aboard the Cranchi Mediterranee 50. This yacht combines cutting-edge design with spacious comfort, offering room for 10 guests. Perfect for exploring Tulum’s beaches and coves, it ensures an unforgettable Caribbean adventure.",
+          "name": "Cranchi Mediterranee 50",
+          "slug": "cranchi-mediterranee-50"
+        }
+      }
+    },
+    {
+      "base": {
+        "categoryIds": [],
+        "faqIds": [],
+        "images": {
+          "extras": [
+            "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/68d7e33baed4941f94a96425_66c7979bd00c3b5a2782bfea_Sunseeker%252060%2520big%2520bed.avif",
+            "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/68d7e33baed4941f94a96420_66c7979bff2cc66972a307c9_Sunseeker%252060%2520living%2520room%25202.avif",
+            "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/68d7e33baed4941f94a96412_66c7979bafceed614c26e066_Sunseeker%252060%2520living%2520room.avif",
+            "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/68d7e33baed4941f94a96428_66c7979c954eeac0bb50ae0d_Sunseeker%252060%2520table%2520and%2520food.avif",
+            "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/68d7e33baed4941f94a96418_66c7979bbad9a279ac4fb94b_Sunseeker%252060%2520twin%2520beds.avif"
+          ],
+          "image1": "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/68d7e33baed4941f94a9640e_66c7975dcf4249233b40e919_Sunseeker%252060%2520view%2520from%2520the%2520side.avif",
+          "image2": "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/68d7e33baed4941f94a9642b_66c797557e029b4f7d267e94_Sunseeker%252060%2520view%2520from%2520top.avif",
+          "image3": "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/68d7e33baed4941f94a9642e_66c7977d45c2db73f5aa111f_Sunseeker%252060%2520side%2520view%25202.avif",
+          "image4": "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/68d7e33baed4941f94a9641b_66c79784d00c3b5a27829e72_Sunseeker%252060%2520side%2520view%2520with%2520back.avif"
+        },
+        "packages": [
+          {
+            "descriptionEn": "<p id=\"\">Create unforgettable memories with &nbsp;Romantic Dinner experience aboard the Sunseeker 60'. As the sun sets over the Caribbean, you and your partner will be treated to a five-course meal prepared by &nbsp;onboard chef, all while enjoying the intimate and luxurious surroundings of the yacht. Whether dining on the flybridge or relaxing in the cozy living room, the Sunseeker 60' provides the perfect setting for a romantic evening in Tulum's serene waters.</p>",
+            "descriptionEs": null,
+            "durationCategory": "half-day",
+            "key": "romanticDinner",
+            "price": "$900"
+          },
+          {
+            "descriptionEn": "<p id=\"\">Embark on a coastal adventure like no other with Coast &amp; Fun Package aboard the Sunseeker 60'. This experience offers the perfect balance of excitement and relaxation as you sail through the Caribbean's crystal-clear waters. With snorkeling gear at your disposal, dive into the vibrant underwater world or simply unwind on the sun deck. The Sunseeker 60', with its sleek design and superior amenities, ensures a day of fun and exploration, highlighting the best of Tulum's natural beauty.</p>",
+            "descriptionEs": null,
+            "durationCategory": "half-day",
+            "key": "coastFun",
+            "price": "$2,900"
+          },
+          {
+            "descriptionEn": null,
+            "descriptionEs": null,
+            "durationCategory": "half-day",
+            "key": "funPlus",
+            "price": "$3,300"
+          },
+          {
+            "descriptionEn": "<p id=\"\">Celebrate your bachelor party in style aboard the Sunseeker 60'. This 4-hour package is designed for an unforgettable day on the water, complete with a gourmet meal prepared by onboard chef and an unlimited premium bar. With its spacious flybridge, high-end sound system, and luxurious interiors, the Sunseeker 60' offers the ultimate setting for a memorable celebration. Whether lounging in the shaded areas or dancing on deck, this yacht ensures a bachelor party that exceeds expectations.</p>",
+            "descriptionEs": null,
+            "durationCategory": "half-day",
+            "key": "bachelorParty",
+            "price": "$3,050"
+          },
+          {
+            "descriptionEn": "<p id=\"\">Combine culinary delight with stunning seascapes on the Sunseeker 60' with Pizza Experience. As you sail through the Caribbean, enjoy freshly baked stone-oven pizza prepared on board, while taking in the panoramic views. Explore hidden beaches accessible only by boat, snorkel in crystal-clear waters, or relax in the comfortable living room. The Sunseeker 60' provides the perfect backdrop for a delicious and scenic Tulum adventure.</p>",
+            "descriptionEs": null,
+            "durationCategory": "half-day",
+            "key": "coastPizza",
+            "price": "$3,550"
+          },
+          {
+            "descriptionEn": null,
+            "descriptionEs": null,
+            "durationCategory": "full-day",
+            "key": "coastFunFullDay",
+            "price": "$5,850"
+          },
+          {
+            "descriptionEn": "<p id=\"\">Discover the ancient wonders of Tulum from the sea with Mayan Ruins Adventure aboard the Sunseeker 60'. This unique journey allows you to explore the iconic Mayan ruins from a new perspective, followed by a snorkeling excursion in the turquoise waters of Akumal. With three comfortable cabins, air conditioning, and shaded areas, the Sunseeker 60' offers a luxurious and comfortable setting for this cultural and natural exploration. Experience the magic of Tulum's history and marine life in style.</p>",
+            "descriptionEs": null,
+            "durationCategory": "full-day",
+            "key": "cozumelRuinsFullDay",
+            "price": "$5,850"
+          },
+          {
+            "descriptionEn": "<p id=\"\">For diving enthusiasts, the Sunseeker 60' offers a premier Yacht and Dive experience in Tulum. Sail to Cozumel, home to the world’s second-largest coral reef, and embark on two incredible dives. Relax in the yacht's comfortable cabins or enjoy the panoramic views from the flybridge between dives. With dive master, diving equipment, paddleboards, and much more the Sunseeker 60' provides everything you need for an unforgettable diving adventure in the Caribbean's vibrant underwater world.</p>",
+            "descriptionEs": null,
+            "durationCategory": "full-day",
+            "key": "diveYachtFullDay",
+            "price": "$5,850"
+          }
+        ],
+        "reviewIds": [],
+        "specs": {
+          "bathrooms": "2",
+          "cabins": "3",
+          "capacity": "15",
+          "length": "60"
+        }
+      },
+      "convexId": "kn759eawg7arav0e0k0grbfysd85851a",
+      "lastUpdated": "2026-04-21T04:51:47.512Z",
+      "locales": {
+        "en": {
+          "boatBody": "<p id=\"\">Step into a world of elegance and speed aboard the Sunseeker 60', a modern masterpiece designed for those who seek both adventure and comfort on the water. This 18-meter yacht offers a seamless blend of luxury and performance, making it the perfect vessel for exploring the pristine waters and hidden beaches of the Riviera Maya.</p><p id=\"\">The Sunseeker 60' is equipped with a fully-modern flybridge, providing panoramic views of the Caribbean's sparkling azure waters. Whether you're sunbathing under the endless blue sky or enjoying the cool shade in one of the many covered areas, this yacht ensures a relaxing and memorable voyage. With room for up to 15 guests, the Sunseeker features three spacious cabins, two enclosed showers, and a fully-equipped kitchen, making it ideal for both day trips and extended getaways.</p><p id=\"\">Onboard, you'll find superior amenities, including a high-end sound system, air conditioning, and an unlimited premium bar. Snorkeling equipment, paddleboards, inflatables, and more are provided, allowing you to fully immerse yourself in the natural beauty of the Riviera Maya. Whether you're an experienced traveler or new to the world of luxury yachting, the Sunseeker 60' promises an unforgettable experience in Tulum's breathtaking marine paradise.</p>",
+          "boatSummary": "Experience luxury and adventure aboard the Sunseeker 60'. This modern yacht blends speed with comfort, offering panoramic views, premium amenities, and access to Tulum's hidden beaches. Perfect for unforgettable voyages in the Caribbean.",
+          "name": "Sunseeker 60",
+          "slug": "sunseeker-60"
+        },
+        "es": {
+          "boatBody": "<p id=\"\">Step into a world of elegance and speed aboard the Sunseeker 60', a modern masterpiece designed for those who seek both adventure and comfort on the water. This 18-meter yacht offers a seamless blend of luxury and performance, making it the perfect vessel for exploring the pristine waters and hidden beaches of the Riviera Maya.</p><p id=\"\">The Sunseeker 60' is equipped with a fully-modern flybridge, providing panoramic views of the Caribbean's sparkling azure waters. Whether you're sunbathing under the endless blue sky or enjoying the cool shade in one of the many covered areas, this yacht ensures a relaxing and memorable voyage. With room for up to 15 guests, the Sunseeker features three spacious cabins, two enclosed showers, and a fully-equipped kitchen, making it ideal for both day trips and extended getaways.</p><p id=\"\">Onboard, you'll find superior amenities, including a high-end sound system, air conditioning, and an unlimited premium bar. Snorkeling equipment, paddleboards, inflatables, and more are provided, allowing you to fully immerse yourself in the natural beauty of the Riviera Maya. Whether you're an experienced traveler or new to the world of luxury yachting, the Sunseeker 60' promises an unforgettable experience in Tulum's breathtaking marine paradise.</p>",
+          "boatSummary": "Experience luxury and adventure aboard the Sunseeker 60'. This modern yacht blends speed with comfort, offering panoramic views, premium amenities, and access to Tulum's hidden beaches. Perfect for unforgettable voyages in the Caribbean.",
+          "name": "Sunseeker 60",
+          "slug": "sunseeker-60"
+        }
+      }
+    },
+    {
+      "base": {
+        "categoryIds": [],
+        "faqIds": [],
+        "images": {
+          "extras": [
+            "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/68d7e33ad254b5942fff7653_66ce9a07277c7e974733bc81_bali%252040%2520deck%2520.avif",
+            "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/68d7e33ad254b5942fff7642_66ce9a0760b625bf6dc1b31b_bali%252040%2520kitchen.avif",
+            "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/68d7e33ad254b5942fff764d_66ce9a071ecdd0aeb5f805be_bali%252040%2520deck%25202.avif",
+            "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/68d7e33ad254b5942fff7656_66ce9a07f57c9b1d1baf0ecc_bali%252040%2520living%2520room.avif",
+            "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/68d7e33ad254b5942fff7646_66ce9a071ce171b55e750188_bali%252040%2520bed.avif"
+          ],
+          "image1": "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/68d7e33ad254b5942fff7650_66ce99e3c789e4e734c87365_bali%252040%2520front.avif",
+          "image2": "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/68d7e33ad254b5942fff7663_66ce99e760512ece13e98fc7_bali%252040%2520top.avif",
+          "image3": "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/68d7e33ad254b5942fff765a_66ce99f3349b0256f933adb4_bali%252040%2520front%2520side.avif",
+          "image4": "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/68d7e33ad254b5942fff764a_66ce99f8266347abeee5f501_bali%252040%2520back.avif"
+        },
+        "packages": [
+          {
+            "descriptionEn": "<p id=\"\">Create a memorable evening on the Bali 40 with our Romantic Dinner package. This elegant catamaran provides a serene setting for a luxurious dinner under the stars. Sail through the calm Caribbean waters as you enjoy gourmet cuisine and the company of your loved one in a truly intimate experience.</p>",
+            "descriptionEs": null,
+            "durationCategory": "half-day",
+            "key": "romanticDinner",
+            "price": "$900"
+          },
+          {
+            "descriptionEn": "<p id=\"\">Discover the stunning coastline of the Riviera Maya aboard the Bali 40. With its sleek French design and comfortable layout, this catamaran is ideal for a day of coastal exploration, snorkeling, and sunbathing, all while enjoying the unparalleled views of the Caribbean.</p>",
+            "descriptionEs": null,
+            "durationCategory": "half-day",
+            "key": "coastFun",
+            "price": "$2,100"
+          },
+          {
+            "descriptionEn": null,
+            "descriptionEs": null,
+            "durationCategory": "half-day",
+            "key": "funPlus",
+            "price": "$2,350"
+          },
+          {
+            "descriptionEn": "<p id=\"\">Celebrate in style with our Bachelor Party package on the Bali 40. This spacious catamaran offers the perfect setting for a day of fun and relaxation with your closest friends. Enjoy premium drinks, soak up the sun, and dance to your favorite tunes as you cruise along the Caribbean coast.</p>",
+            "descriptionEs": null,
+            "durationCategory": "half-day",
+            "key": "bachelorParty",
+            "price": "$2,250"
+          },
+          {
+            "descriptionEn": "<p id=\"\">Celebrate in style with our Bachelor Party package on the Bali 40. This spacious catamaran offers the perfect setting for a day of fun and relaxation with your closest friends. Enjoy premium drinks, soak up the sun, and dance to your favorite tunes as you cruise along the Caribbean coast.</p>",
+            "descriptionEs": null,
+            "durationCategory": "half-day",
+            "key": "coastPizza",
+            "price": "$2,550"
+          },
+          {
+            "descriptionEn": "<p id=\"\">Turn the Bali 40 into your private dance floor with our DJ Party package. Equipped with a high-end sound system and plenty of room to dance, this catamaran is perfect for a lively celebration on the water. Enjoy premium drinks, great music, and the beautiful backdrop of the Caribbean Sea.</p>",
+            "descriptionEs": null,
+            "durationCategory": "half-day",
+            "key": "djParty",
+            "price": "$2,700"
+          },
+          {
+            "descriptionEn": null,
+            "descriptionEs": null,
+            "durationCategory": "full-day",
+            "key": "coastFunFullDay",
+            "price": "$4,100"
+          }
+        ],
+        "reviewIds": [],
+        "specs": {
+          "bathrooms": "2",
+          "cabins": "3",
+          "capacity": "20",
+          "length": "40"
+        }
+      },
+      "convexId": "kn7ce0rzhh927m0s5kdrqbvat9859qrs",
+      "lastUpdated": "2026-04-21T04:51:47.512Z",
+      "locales": {
+        "en": {
+          "boatBody": "<p id=\"\">Step into a world of elegance and comfort aboard the Bali 40, a catamaran that marries French design with the stunning beauty of the Caribbean Sea. At 12.19 meters long, this vessel is expertly crafted to provide a luxurious and seamless sailing experience. Designed to accommodate up to 20 passengers, the Bali 40 offers ample space for relaxation, whether you're sunbathing on deck or enjoying the air-conditioned interior.</p><p id=\"\">With its sleek design and advanced technology, the Bali 40 allows you to become one with the sea, offering spectacular views of the turquoise waters and breathtaking landscapes from every angle. Its three spacious cabins and two bathrooms ensure a comfortable and private retreat for all guests. The living room, designed for up to six people, is the perfect spot to unwind, surrounded by the gentle sounds of the sea.</p><p id=\"\">Whether you're soaking up the sun during the day or watching the vibrant colors of the sunset paint the sky, the Bali 40 provides the ultimate setting for an unforgettable voyage. Complete with a high-end sound system, plenty of shaded areas, and a premium bar, this catamaran is your gateway to experiencing the Mexican Caribbean in unparalleled style and comfort.</p>",
+          "boatSummary": "Sail the Bali 40, a 12.19-meter French-designed catamaran, perfect for up to 20 guests. Enjoy stunning Caribbean views, spacious cabins, and luxury amenities like a premium bar and high-end sound system. Ideal for sunbathing, snorkeling, and sunset cruises.",
+          "name": "Bali 40",
+          "slug": "bali-40"
+        },
+        "es": {
+          "boatBody": "<p id=\"\">Step into a world of elegance and comfort aboard the Bali 40, a catamaran that marries French design with the stunning beauty of the Caribbean Sea. At 12.19 meters long, this vessel is expertly crafted to provide a luxurious and seamless sailing experience. Designed to accommodate up to 20 passengers, the Bali 40 offers ample space for relaxation, whether you're sunbathing on deck or enjoying the air-conditioned interior.</p><p id=\"\">With its sleek design and advanced technology, the Bali 40 allows you to become one with the sea, offering spectacular views of the turquoise waters and breathtaking landscapes from every angle. Its three spacious cabins and two bathrooms ensure a comfortable and private retreat for all guests. The living room, designed for up to six people, is the perfect spot to unwind, surrounded by the gentle sounds of the sea.</p><p id=\"\">Whether you're soaking up the sun during the day or watching the vibrant colors of the sunset paint the sky, the Bali 40 provides the ultimate setting for an unforgettable voyage. Complete with a high-end sound system, plenty of shaded areas, and a premium bar, this catamaran is your gateway to experiencing the Mexican Caribbean in unparalleled style and comfort.</p>",
+          "boatSummary": "Sail the Bali 40, a 12.19-meter French-designed catamaran, perfect for up to 20 guests. Enjoy stunning Caribbean views, spacious cabins, and luxury amenities like a premium bar and high-end sound system. Ideal for sunbathing, snorkeling, and sunset cruises.",
+          "name": "Bali 40",
+          "slug": "bali-40"
+        }
+      }
+    },
+    {
+      "base": {
+        "categoryIds": [],
+        "faqIds": [],
+        "images": {
+          "extras": [
+            "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/68d7e33a2cf0bf5c64d02169_66ce9868cf937cfb628d8734_lagoon%252042%2520bed.avif",
+            "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/68d7e33a2cf0bf5c64d0215e_66ce9868bd97263aaa40b72b_lagoon%252042%2520food.avif",
+            "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/68d7e33a2cf0bf5c64d0216e_66ce9868248e19898dcdf386_lagoon%252042%2520front%25202.avif",
+            "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/68d7e33a2cf0bf5c64d02163_66ce98688c00da3f8f806b5c_lagoon%252042%2520living%2520room.avif"
+          ],
+          "image1": "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/68d7e33a2cf0bf5c64d02158_66ce9849d44069accd25a748_lagoon%252042%2520top%2520front%2520view.avif",
+          "image2": "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/68d7e33a2cf0bf5c64d02171_66ce984e8a381a4631ac5c10_lagoon%252042%2520top%2520view.avif",
+          "image3": "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/68d7e33a2cf0bf5c64d0215b_66ce985361c2b976eb814ffd_lagoon%252042%2520front.avif",
+          "image4": "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/68d7e33a2cf0bf5c64d02166_66ce985761c2b976eb815a7a_lagoon%252042%2520back.avif"
+        },
+        "packages": [
+          {
+            "descriptionEn": "<p id=\"\">Create a magical evening for two with our Romantic Dinner package on the Lagoon 42. This elegant catamaran offers a serene and intimate setting for a luxurious meal under the stars. Sail through the calm Caribbean waters as you enjoy a gourmet dinner and the company of your loved one in a truly unforgettable experience.</p>",
+            "descriptionEs": null,
+            "durationCategory": "half-day",
+            "key": "romanticDinner",
+            "price": "$900"
+          },
+          {
+            "descriptionEn": "<p id=\"\">Set sail on a journey of discovery with the Coast &amp; Fun Package aboard the Lagoon 42. This stable catamaran glides smoothly through the Caribbean waters, offering the perfect platform for snorkeling, exploring hidden beaches, and enjoying the vibrant marine life that surrounds Tulum.</p>",
+            "descriptionEs": null,
+            "durationCategory": "half-day",
+            "key": "coastFun",
+            "price": "$1,950"
+          },
+          {
+            "descriptionEn": null,
+            "descriptionEs": null,
+            "durationCategory": "half-day",
+            "key": "funPlus",
+            "price": "$2,250"
+          },
+          {
+            "descriptionEn": "<p id=\"\">Celebrate in style with a bachelor party on the Lagoon 42, where luxury meets adventure. With ample space for up to 20 guests, this catamaran is the ultimate venue for a fun and unforgettable day on the water, complete with premium drinks, stunning views, and endless entertainment options.</p>",
+            "descriptionEs": null,
+            "durationCategory": "half-day",
+            "key": "bachelorParty",
+            "price": "$2,100"
+          },
+          {
+            "descriptionEn": "<p id=\"\">Enjoy the unique combination of delicious pizza and Caribbean sailing on the Lagoon 42. With its spacious deck and comfortable seating, this catamaran is the perfect setting for a day of relaxation and indulgence, as you explore Tulum’s breathtaking coastline and savor freshly made stone-oven pizza.</p>",
+            "descriptionEs": null,
+            "durationCategory": "half-day",
+            "key": "coastPizza",
+            "price": "$2,400"
+          },
+          {
+            "descriptionEn": "<p id=\"\">Turn up the music and dance the night away on the Lagoon 42 with our DJ Party package. This catamaran’s high-end sound system and spacious deck make it the ideal venue for a lively celebration on the water. Enjoy premium drinks, stunning sunsets, and an unforgettable party experience in Tulum.</p>",
+            "descriptionEs": null,
+            "durationCategory": "half-day",
+            "key": "djParty",
+            "price": "$2,600"
+          },
+          {
+            "descriptionEn": null,
+            "descriptionEs": null,
+            "durationCategory": "full-day",
+            "key": "coastFunFullDay",
+            "price": "$,3950"
+          }
+        ],
+        "reviewIds": [],
+        "specs": {
+          "bathrooms": "4",
+          "cabins": "4",
+          "capacity": "20",
+          "length": "42"
+        }
+      },
+      "convexId": "kn751bpmpvqydaek9p6kap5hps858dke",
+      "lastUpdated": "2026-04-21T04:51:47.512Z",
+      "locales": {
+        "en": {
+          "boatBody": "<p id=\"\">Experience the ultimate in sailing luxury aboard the Lagoon 42, a catamaran that redefines comfort and stability on the open sea. With its double hull construction and elegant sails, the Lagoon 42 offers a smooth and serene voyage, making it a pleasure to explore the crystal-clear waters of the Caribbean. Whether you're gliding over gentle waves or anchored in a secluded bay, this 12.8-meter vessel delivers a sailing experience that is both stable and supremely comfortable.</p><p id=\"\">Designed to accommodate up to 20 guests, the Lagoon 42 features a spacious interior that seamlessly blends luxury with functionality. Its four cabins, each with an enclosed shower and toilet, provide ample privacy and comfort for everyone on board. The expansive living area, capable of seating up to 15 people, offers the perfect space for socializing, relaxing, or simply enjoying the stunning sea views.</p><p id=\"\">With plenty of shaded areas and a high-end sound system, the Lagoon 42 ensures that every moment on board is enjoyable, whether you're basking in the sun or dancing under the stars. The catamaran is also equipped with snorkeling gear, paddleboards, inflatables, and a premium bar, making it the ideal choice for a day of adventure and relaxation in the Caribbean.</p>",
+          "boatSummary": "Sail the Lagoon 42, a 12.8-meter catamaran that combines stability with luxury. Perfect for up to 20 guests, it features four cabins, a spacious living area, and ample shaded spaces. Ideal for exploring Tulum’s coast with comfort and style.",
+          "name": "Lagoon 42",
+          "slug": "lagoon-42"
+        },
+        "es": {
+          "boatBody": "<p id=\"\">Experience the ultimate in sailing luxury aboard the Lagoon 42, a catamaran that redefines comfort and stability on the open sea. With its double hull construction and elegant sails, the Lagoon 42 offers a smooth and serene voyage, making it a pleasure to explore the crystal-clear waters of the Caribbean. Whether you're gliding over gentle waves or anchored in a secluded bay, this 12.8-meter vessel delivers a sailing experience that is both stable and supremely comfortable.</p><p id=\"\">Designed to accommodate up to 20 guests, the Lagoon 42 features a spacious interior that seamlessly blends luxury with functionality. Its four cabins, each with an enclosed shower and toilet, provide ample privacy and comfort for everyone on board. The expansive living area, capable of seating up to 15 people, offers the perfect space for socializing, relaxing, or simply enjoying the stunning sea views.</p><p id=\"\">With plenty of shaded areas and a high-end sound system, the Lagoon 42 ensures that every moment on board is enjoyable, whether you're basking in the sun or dancing under the stars. The catamaran is also equipped with snorkeling gear, paddleboards, inflatables, and a premium bar, making it the ideal choice for a day of adventure and relaxation in the Caribbean.</p>",
+          "boatSummary": "Sail the Lagoon 42, a 12.8-meter catamaran that combines stability with luxury. Perfect for up to 20 guests, it features four cabins, a spacious living area, and ample shaded spaces. Ideal for exploring Tulum’s coast with comfort and style.",
+          "name": "Lagoon 42",
+          "slug": "lagoon-42"
+        }
+      }
+    },
+    {
+      "base": {
+        "categoryIds": [],
+        "faqIds": [],
+        "images": {
+          "extras": [
+            "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/68d7e33a18b69de54631c24c_66ce8562eef3a0d75bd006f1_leopard%252051%2520front%2520deck.avif",
+            "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/68d7e33a18b69de54631c24f_66ce856290ce0d73a66f18f4_leopard%252051%2520seating.avif",
+            "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/68d7e33a18b69de54631c255_66ce8612a330f51506ef8e9a_leopard%252051%2520living%2520room.avif",
+            "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/68d7e33a18b69de54631c252_66ce861d9238f37873ab261e_leopard%252051%2520wheel.avif",
+            "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/68d7e33a18b69de54631c239_66ce862289174f112cd16b66_leopard%252051%2520stairs.avif",
+            "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/68d7e33a18b69de54631c23c_66ce862bcf937cfb627bfb92_leopard%252051%2520kitchen.avif",
+            "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/68d7e33a18b69de54631c249_66ce86384d5bc2c55aa3d217_leopard%252051%2520bed.avif",
+            "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/68d7e33a18b69de54631c258_66ce8640357ac2fd0c51f2cb_leopard%252051%2520shelf.avif"
+          ],
+          "image1": "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/68d7e33a18b69de54631c246_66ce8442357ac2fd0c4fe19d_leopard%252051%2520exterrior%2520front%2520side.avif",
+          "image2": "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/68d7e33a18b69de54631c240_66ce8447b5e5d2826bf6e19b_leopard%252051%2520top%2520view.avif",
+          "image3": "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/68d7e33a18b69de54631c232_66ce844e55713bb8bf1bac79_leopard%252051%2520front%2520sideview.avif",
+          "image4": "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/68d7e33a18b69de54631c243_66ce8456442d66fb5f5fa789_leopard%252051%2520sideview%2520.avif"
+        },
+        "packages": [
+          {
+            "descriptionEn": "<p id=\"\">Create a romantic evening to remember with our Romantic Dinner experience on the Leopard 51' Powercat. As the sun sets over the Caribbean, enjoy a five-course meal prepared by our onboard chef in the yacht’s elegant dining areas. With its spacious and private settings, the Leopard 51' offers a luxurious and intimate atmosphere, perfect for a special night with your partner in Tulum’s serene waters.</p>",
+            "descriptionEs": null,
+            "durationCategory": "half-day",
+            "key": "romanticDinner",
+            "price": "$1000"
+          },
+          {
+            "descriptionEn": "<p id=\"\">Set sail on the Leopard 51' Powercat with our Coast &amp; Fun Package, designed for a perfect blend of relaxation and adventure. Dive into Tulum's crystal-clear waters with snorkeling gear, or enjoy the spacious entertainment areas of this luxurious powercat. Whether exploring hidden beaches or lounging in shaded comfort, the Leopard 51' offers an exceptional day on the water.</p>",
+            "descriptionEs": null,
+            "durationCategory": "half-day",
+            "key": "coastFun",
+            "price": "$3,100"
+          },
+          {
+            "descriptionEn": null,
+            "descriptionEs": null,
+            "durationCategory": "half-day",
+            "key": "funPlus",
+            "price": "$3,550"
+          },
+          {
+            "descriptionEn": "<p id=\"\">Celebrate your bachelor party in style aboard the Leopard 51' Powercat. This spacious yacht accommodates up to 30 guests, making it perfect for a lively celebration. Enjoy gourmet dining, an unlimited premium bar, and Tulum’s breathtaking scenery, all within the luxurious setting of this modern powercat. With ample entertainment space and a high-end sound system, your bachelor party will be an unforgettable event.</p>",
+            "descriptionEs": null,
+            "durationCategory": "half-day",
+            "key": "bachelorParty",
+            "price": "$3,300"
+          },
+          {
+            "descriptionEn": "<p id=\"\">Indulge in a unique culinary adventure with our Pizza Experience aboard the Leopard 51' Powercat. As you cruise through the Caribbean, enjoy freshly baked stone-oven pizza in the yacht’s spacious and shaded dining areas. The Leopard 51', with its luxurious amenities and plenty of room for relaxation, ensures a delightful day of sailing, snorkeling, and gourmet dining in Tulum's stunning waters.</p>",
+            "descriptionEs": null,
+            "durationCategory": "half-day",
+            "key": "coastPizza",
+            "price": "$3,900"
+          },
+          {
+            "descriptionEn": "<p id=\"\">Turn your celebration into a memorable event with our DJ Party package aboard the Leopard 51' Powercat. With room for up to 30 guests, this powercat is the ultimate venue for a high-energy party on the water. Dance under the stars, dive into the Caribbean’s turquoise waters, and enjoy the yacht’s high-end sound system and premium bar. The Leopard 51' sets the stage for an epic celebration in Tulum.</p>",
+            "descriptionEs": null,
+            "durationCategory": "half-day",
+            "key": "djParty",
+            "price": "$3,800"
+          },
+          {
+            "descriptionEn": null,
+            "descriptionEs": null,
+            "durationCategory": "full-day",
+            "key": "coastFunFullDay",
+            "price": "$6,450"
+          },
+          {
+            "descriptionEn": "<p id=\"\">Experience the rich history of the Riviera Maya with our Mayan Ruins Adventure on the Leopard 51' Powercat. This luxury yacht offers a spacious and comfortable setting as you explore the iconic ruins of Tulum from the sea and snorkel in the clear waters of Akumal. With its elegant design and superior amenities, the Leopard 51' provides an enriching and relaxing journey through Tulum’s cultural and natural wonders.</p>",
+            "descriptionEs": null,
+            "durationCategory": "full-day",
+            "key": "cozumelRuinsFullDay",
+            "price": "$6,450"
+          },
+          {
+            "descriptionEn": "<p id=\"\">For diving enthusiasts, the Leopard 51' Powercat offers an unparalleled Yacht and Dive experience. Sail to Cozumel, home to one of the world’s most vibrant coral reefs, and enjoy a day of diving in the Caribbean’s crystal-clear waters. With its ample space, luxurious amenities, and snorkeling gear, the Leopard 51' ensures a comfortable and unforgettable diving adventure in Tulum’s spectacular marine environments.</p>",
+            "descriptionEs": null,
+            "durationCategory": "full-day",
+            "key": "diveYachtFullDay",
+            "price": "$6,450"
+          }
+        ],
+        "reviewIds": [],
+        "specs": {
+          "bathrooms": "3",
+          "cabins": "4",
+          "capacity": "30",
+          "length": "51"
+        }
+      },
+      "convexId": "kn7a7zkqn26d4cam9n4wkzd08h858wgp",
+      "lastUpdated": "2026-04-21T04:51:47.512Z",
+      "locales": {
+        "en": {
+          "boatBody": "<p id=\"\">Discover the perfect fusion of catamaran stability and motor yacht luxury aboard the Leopard 51' Powercat. This 15.64-meter vessel is designed for those who seek both adventure and comfort in the crystal-clear waters of the Caribbean. With its spacious layout, this powercat is ideal for groups of up to 30 people, whether you're sailing with friends or family.</p><p id=\"\">The Leopard 51' Powercat offers four well-appointed cabins, three enclosed showers, and a large living area that comfortably accommodates up to 8 people. The yacht’s design emphasizes relaxation and entertainment, featuring plenty of shaded areas, a high-end sound system, and air conditioning throughout. Whether you’re basking in the sun or enjoying the cool indoor spaces, the Leopard 51' provides an unparalleled yachting experience.</p><p id=\"\">Equipped with a fully-stocked kitchen, unlimited premium bar, and all the essentials for water activities—including snorkeling gear, paddleboards, inflatables, and towels—this yacht ensures that every moment of your voyage is filled with luxury and enjoyment. Perfect for exploring Tulum’s hidden beaches and pristine coastlines, the Leopard 51' Powercat is your gateway to an unforgettable Caribbean adventure.</p>",
+          "boatSummary": "Experience the best of catamaran and motor yacht luxury on the Leopard 51' Powercat. With spacious entertainment areas, premium amenities, and room for up to 30 guests, this yacht offers an unforgettable Tulum adventure.",
+          "name": "Leopard PowerCat 51",
+          "slug": "leopard-51"
+        },
+        "es": {
+          "boatBody": "<p id=\"\">Discover the perfect fusion of catamaran stability and motor yacht luxury aboard the Leopard 51' Powercat. This 15.64-meter vessel is designed for those who seek both adventure and comfort in the crystal-clear waters of the Caribbean. With its spacious layout, this powercat is ideal for groups of up to 30 people, whether you're sailing with friends or family.</p><p id=\"\">The Leopard 51' Powercat offers four well-appointed cabins, three enclosed showers, and a large living area that comfortably accommodates up to 8 people. The yacht’s design emphasizes relaxation and entertainment, featuring plenty of shaded areas, a high-end sound system, and air conditioning throughout. Whether you’re basking in the sun or enjoying the cool indoor spaces, the Leopard 51' provides an unparalleled yachting experience.</p><p id=\"\">Equipped with a fully-stocked kitchen, unlimited premium bar, and all the essentials for water activities—including snorkeling gear, paddleboards, inflatables, and towels—this yacht ensures that every moment of your voyage is filled with luxury and enjoyment. Perfect for exploring Tulum’s hidden beaches and pristine coastlines, the Leopard 51' Powercat is your gateway to an unforgettable Caribbean adventure.</p>",
+          "boatSummary": "Experience the best of catamaran and motor yacht luxury on the Leopard 51' Powercat. With spacious entertainment areas, premium amenities, and room for up to 30 guests, this yacht offers an unforgettable Tulum adventure.",
+          "name": "Leopard PowerCat 51",
+          "slug": "leopard-51"
+        }
+      }
+    },
+    {
+      "base": {
+        "categoryIds": [],
+        "faqIds": [],
+        "images": {
+          "extras": [
+            "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/68d7e33ad094113afa6898ef_66ce8a1bcf937cfb627fc669_azimut%252043%2520top%2520deck%2520view%25202.avif",
+            "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/68d7e33ad094113afa6898ec_66ce8a1b60b625bf6db21e06_azimut%252043%2520top%2520view2.avif",
+            "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/68d7e33ad094113afa6898da_66ce8a1b985b82dbd3a209b8_azimut%252043%2520living%2520room.avif",
+            "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/68d7e33ad094113afa6898f5_66ce8a1b985b82dbd3a209c3_azimut%252043%2520dinner.avif",
+            "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/68d7e33ad094113afa6898e6_66ce8a1bfffa15d6950670bc_azimut%252043%2520steering%2520wheel.avif",
+            "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/68d7e33ad094113afa6898f8_66ce8a1bc2788b626c2b9b11_azimut%252043%2520top%2520%2520deck%2520view.avif",
+            "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/68d7e33ad094113afa6898dd_66ce8a1b248e19898dbfb1a1_azimut%252043%2520bed.avif",
+            "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/68d7e33ad094113afa6898d5_66ce8a1b8c00da3f8f73139c_azimut%252043%2520bedroom.avif",
+            "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/68d7e33ad094113afa6898d2_66ce8a1b277c7e974724ff8b_azimut%252043%2520bathroom.avif"
+          ],
+          "image1": "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/68d7e33ad094113afa6898e0_66ce87a997d6ae5eec4f1d69_azimut%252043%2520sideview%2520top.avif",
+          "image2": "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/68d7e33ad094113afa6898e9_66ce87b0cf937cfb627d83e9_azimut%252043%2520top%2520view.avif",
+          "image3": "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/68d7e33ad094113afa6898f2_66ce87b5bd97263aaa2f76fc_azimut%252043%2520top%2520deck%2520view.avif",
+          "image4": "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/68d7e33ad094113afa6898cf_66ce87bf0d5ad269eb943d61_azimut%252043%2520top%2520side%2520view.avif"
+        },
+        "packages": [
+          {
+            "descriptionEn": "<p id=\"\">Create an intimate and unforgettable evening with our Romantic Dinner package aboard the Azimut 43'. This yacht’s modern design and luxurious amenities provide the perfect backdrop for a five-course meal prepared by our onboard chef. As the sun sets over the Caribbean, enjoy a night of romance and serenity with your partner in the serene waters of Tulum.</p>",
+            "descriptionEs": null,
+            "durationCategory": "half-day",
+            "key": "romanticDinner",
+            "price": "$900"
+          },
+          {
+            "descriptionEn": "<p id=\"\">Set sail on the Azimut 43' with our Coast &amp; Fun Package, where luxury meets adventure. This yacht's elegant design and spacious layout are perfect for a day of snorkeling, paddleboarding, and exploring Tulum’s pristine coastline. Relax in style as you enjoy the crystal-clear Caribbean waters on this modern vessel.</p>",
+            "descriptionEs": null,
+            "durationCategory": "half-day",
+            "key": "coastFun",
+            "price": "$1,950"
+          },
+          {
+            "descriptionEn": null,
+            "descriptionEs": null,
+            "durationCategory": "half-day",
+            "key": "funPlus",
+            "price": "$2,250"
+          },
+          {
+            "descriptionEn": "<p id=\"\">Celebrate your bachelor party aboard the Azimut 43', a yacht that combines the luxury of a super yacht with the excitement of Tulum’s vibrant seascapes. With room for up to 12 guests, enjoy a day of gourmet dining, premium drinks, and stunning views, all while cruising through the turquoise waters of the Caribbean. Make your celebration unforgettable with the Azimut 43'.</p>",
+            "descriptionEs": null,
+            "durationCategory": "half-day",
+            "key": "bachelorParty",
+            "price": "$2,100"
+          },
+          {
+            "descriptionEn": "<p id=\"\">Discover the beauty of the Caribbean while savoring freshly baked stone-oven pizza on the Azimut 43'. This yacht’s modern design and comfortable living spaces provide the perfect setting for a day of sailing, snorkeling, and indulging in delicious cuisine. Explore Tulum’s hidden beaches and create lasting memories on this luxurious yacht.</p>",
+            "descriptionEs": null,
+            "durationCategory": "half-day",
+            "key": "coastPizza",
+            "price": "$2,400"
+          },
+          {
+            "descriptionEn": null,
+            "descriptionEs": null,
+            "durationCategory": "full-day",
+            "key": "coastFunFullDay",
+            "price": "$3,950"
+          },
+          {
+            "descriptionEn": "<p id=\"\">Experience the rich history of the Riviera Maya with our Mayan Ruins Adventure on the Azimut 43'. Sail along Tulum’s coastline, taking in the breathtaking views of ancient Mayan ruins from the sea. With snorkeling stops in Akumal, this luxurious yacht ensures a day of exploration and relaxation in one of the Caribbean’s most iconic locations.</p>",
+            "descriptionEs": null,
+            "durationCategory": "full-day",
+            "key": "cozumelRuinsFullDay",
+            "price": "$3,950"
+          },
+          {
+            "descriptionEn": "<p id=\"\">Dive into adventure with our Yacht and Dive package aboard the Azimut 43'. Explore the vibrant coral reefs of Cozumel and the underwater wonders of the Caribbean, all while enjoying the luxury and comfort of this modern yacht. With its spacious cabins and premium amenities, the Azimut 43' offers an unparalleled diving experience in the crystal-clear waters of Tulum.</p>",
+            "descriptionEs": null,
+            "durationCategory": "full-day",
+            "key": "diveYachtFullDay",
+            "price": "$3,950"
+          }
+        ],
+        "reviewIds": [],
+        "specs": {
+          "bathrooms": "2",
+          "cabins": "2",
+          "capacity": "12",
+          "length": "43"
+        }
+      },
+      "convexId": "kn733aevzr01vfvh2d1vg3z90x85973j",
+      "lastUpdated": "2026-04-21T04:51:47.512Z",
+      "locales": {
+        "en": {
+          "boatBody": "<p id=\"\">Indulge in the ultimate yachting experience aboard the Azimut 43', a vessel that epitomizes luxury and modern elegance. Designed to accommodate up to 12 guests, this 13.86-meter yacht offers ample space and comfort, ensuring a premium sailing experience on the stunning turquoise waters of the Caribbean. The Azimut 43' combines the lavish features of a super yacht with the intimate atmosphere of a private getaway, making it ideal for both relaxation and adventure.</p><p id=\"\">The yacht features two spacious cabins, two well-appointed bathrooms, and a cozy living room that comfortably seats eight guests. Its elegant design is complemented by a fully equipped kitchen, air conditioning, and a high-end sound system, ensuring that every moment on board is enjoyable. Whether you're lounging in the shaded areas or soaking up the sun, the Azimut 43' provides an unparalleled level of comfort.</p><p id=\"\">Perfect for exploring the hidden gems of Tulum and the Riviera Maya, the Azimut 43' comes with snorkeling equipment, paddleboards, inflatables, and towels. The yacht also includes an unlimited premium bar, allowing you to unwind and enjoy the stunning Caribbean scenery in true luxury. With its modern design and exceptional service, the Azimut 43' offers an unforgettable yachting experience tailored to your desires.</p>",
+          "boatSummary": "Experience luxury and modern elegance aboard the Azimut 43'. With space for 12 guests, this yacht offers comfort and style for exploring Tulum’s stunning coastline. Perfect for both relaxation and adventure, it ensures an unforgettable Caribbean journey.",
+          "name": "Azimut 43",
+          "slug": "azimut-43"
+        },
+        "es": {
+          "boatBody": "<p id=\"\">Indulge in the ultimate yachting experience aboard the Azimut 43', a vessel that epitomizes luxury and modern elegance. Designed to accommodate up to 12 guests, this 13.86-meter yacht offers ample space and comfort, ensuring a premium sailing experience on the stunning turquoise waters of the Caribbean. The Azimut 43' combines the lavish features of a super yacht with the intimate atmosphere of a private getaway, making it ideal for both relaxation and adventure.</p><p id=\"\">The yacht features two spacious cabins, two well-appointed bathrooms, and a cozy living room that comfortably seats eight guests. Its elegant design is complemented by a fully equipped kitchen, air conditioning, and a high-end sound system, ensuring that every moment on board is enjoyable. Whether you're lounging in the shaded areas or soaking up the sun, the Azimut 43' provides an unparalleled level of comfort.</p><p id=\"\">Perfect for exploring the hidden gems of Tulum and the Riviera Maya, the Azimut 43' comes with snorkeling equipment, paddleboards, inflatables, and towels. The yacht also includes an unlimited premium bar, allowing you to unwind and enjoy the stunning Caribbean scenery in true luxury. With its modern design and exceptional service, the Azimut 43' offers an unforgettable yachting experience tailored to your desires.</p>",
+          "boatSummary": "Experience luxury and modern elegance aboard the Azimut 43'. With space for 12 guests, this yacht offers comfort and style for exploring Tulum’s stunning coastline. Perfect for both relaxation and adventure, it ensures an unforgettable Caribbean journey.",
+          "name": "Azimut 43",
+          "slug": "azimut-43"
+        }
+      }
+    },
+    {
+      "base": {
+        "categoryIds": [],
+        "faqIds": [],
+        "images": {
+          "extras": [
+            "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/68d7e33af988838a0ffeb1c5_66ce9b99419a79c2a51f7010_Aventura%252034%2520bed.avif",
+            "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/68d7e33af988838a0ffeb1bc_66ce9b99e3d35a51ad5d48ec_Aventura%252034%2520deck.avif",
+            "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/68d7e33af988838a0ffeb1cc_66ce9b998c00da3f8f83a003_Aventura%252034%2520inside.avif",
+            "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/68d7e33af988838a0ffeb1d2_66ce9b9963abbf8c4bf5655e_Aventura%252034%2520seating.avif"
+          ],
+          "image1": "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/68d7e33af988838a0ffeb1bf_66ce9b8ec789e4e734ca2099_Aventura%252034%2520front.avif",
+          "image2": "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/68d7e33af988838a0ffeb1c2_66ce9b859137b19b29b4846c_Aventura%252034%2520top.avif",
+          "image3": "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/68d7e33af988838a0ffeb1c9_66ce9b827b275fe1f30d0df0_Aventura%252034%2520side.avif",
+          "image4": "https://cdn.prod.website-files.com/68d7dda7b54149975c505618/68d7e33af988838a0ffeb1cf_66ce9b89a330f5150603e3ed_Aventura%252034%2520side%25202.avif"
+        },
+        "packages": [
+          {
+            "descriptionEn": "<p id=\"\">Set the stage for a romantic evening with the Romantic Dinner package on the Aventura 34. Enjoy a gourmet meal under the stars, surrounded by the calm waters and serene beauty of the Caribbean, as you and your loved one create unforgettable memories.</p>",
+            "descriptionEs": null,
+            "durationCategory": "half-day",
+            "key": "romanticDinner",
+            "price": "$900"
+          },
+          {
+            "descriptionEn": "<p id=\"\">Embark on a leisurely coastal exploration with the Aventura 34. This catamaran, designed for small groups, offers a perfect setting for a day of snorkeling, sunbathing, and relaxation along the picturesque coastline of Tulum.</p>",
+            "descriptionEs": null,
+            "durationCategory": "half-day",
+            "key": "coastFun",
+            "price": "$1,650"
+          },
+          {
+            "descriptionEn": null,
+            "descriptionEs": null,
+            "durationCategory": "half-day",
+            "key": "funPlus",
+            "price": "$1,850"
+          },
+          {
+            "descriptionEn": "<p id=\"\">Celebrate your bachelor party with close friends aboard the Aventura 34. This catamaran offers a private and intimate atmosphere, ideal for a day of fun, premium drinks, and making lasting memories on the stunning Caribbean waters.</p>",
+            "descriptionEs": null,
+            "durationCategory": "half-day",
+            "key": "bachelorParty",
+            "price": "$1,800"
+          },
+          {
+            "descriptionEn": "<p id=\"\">Enjoy a unique and delicious experience with the Pizza Experience package on the Aventura 34. Relish in freshly prepared pizza while sailing the calm Caribbean Sea, taking in the breathtaking views and enjoying the relaxed ambiance of this modern catamaran.</p>",
+            "descriptionEs": null,
+            "durationCategory": "half-day",
+            "key": "coastPizza",
+            "price": "$2,000"
+          },
+          {
+            "descriptionEn": null,
+            "descriptionEs": null,
+            "durationCategory": "full-day",
+            "key": "coastFunFullDay",
+            "price": "$3,100"
+          }
+        ],
+        "reviewIds": [],
+        "specs": {
+          "bathrooms": "1",
+          "cabins": "3",
+          "capacity": "15",
+          "length": "34"
+        }
+      },
+      "convexId": "kn758dfxkws6wydwq35cnmyyw5858srm",
+      "lastUpdated": "2026-04-21T04:51:47.512Z",
+      "locales": {
+        "en": {
+          "boatBody": "<p id=\"\">The Aventura 34 catamaran is the perfect choice for intimate gatherings and family events on the water. Measuring 10.3 meters in length, this modern vessel combines comfort with elegance, offering a serene and relaxing experience as you explore the Caribbean Sea. Designed to accommodate up to 15 people, the Aventura 34 provides ample space for everyone to enjoy the journey.</p><p id=\"\">At the front, you'll find a spacious sunbathing area, ideal for soaking up the warm rays and savoring a refreshing drink as you feel the cool breeze on your skin. The large couch and living room area at the back are perfect for unwinding to the sound of the sea, surrounded by the tranquility that only a sailing vessel can offer. With its three comfortable cabins, an enclosed shower, and a high-end sound system, the Aventura 34 ensures that your time on board is as enjoyable as it is luxurious.</p><p id=\"\">Whether you're looking to sunbathe, relax in the shade, or simply enjoy the company of loved ones, the Aventura 34 catamaran offers a perfect blend of modern amenities and classic sailing charm. With an unlimited premium bar and plenty of shaded areas, this catamaran is your gateway to an unforgettable day on the water in Tulum.</p>",
+          "boatSummary": "Sail the Aventura 34, a modern 10.3-meter catamaran ideal for up to 15 guests. Enjoy sunbathing, shaded relaxation, and luxury amenities like a premium bar and high-end sound system, perfect for intimate gatherings on the Caribbean waters of Tulum.",
+          "name": "Aventura 34",
+          "slug": "aventura-34"
+        },
+        "es": {
+          "boatBody": "<p id=\"\">The Aventura 34 catamaran is the perfect choice for intimate gatherings and family events on the water. Measuring 10.3 meters in length, this modern vessel combines comfort with elegance, offering a serene and relaxing experience as you explore the Caribbean Sea. Designed to accommodate up to 15 people, the Aventura 34 provides ample space for everyone to enjoy the journey.</p><p id=\"\">At the front, you'll find a spacious sunbathing area, ideal for soaking up the warm rays and savoring a refreshing drink as you feel the cool breeze on your skin. The large couch and living room area at the back are perfect for unwinding to the sound of the sea, surrounded by the tranquility that only a sailing vessel can offer. With its three comfortable cabins, an enclosed shower, and a high-end sound system, the Aventura 34 ensures that your time on board is as enjoyable as it is luxurious.</p><p id=\"\">Whether you're looking to sunbathe, relax in the shade, or simply enjoy the company of loved ones, the Aventura 34 catamaran offers a perfect blend of modern amenities and classic sailing charm. With an unlimited premium bar and plenty of shaded areas, this catamaran is your gateway to an unforgettable day on the water in Tulum.</p>",
+          "boatSummary": "Sail the Aventura 34, a modern 10.3-meter catamaran ideal for up to 15 guests. Enjoy sunbathing, shaded relaxation, and luxury amenities like a premium bar and high-end sound system, perfect for intimate gatherings on the Caribbean waters of Tulum.",
+          "name": "Aventura 34",
+          "slug": "aventura-34"
+        }
+      }
+    }
+  ],
   "mode": "published"
 }

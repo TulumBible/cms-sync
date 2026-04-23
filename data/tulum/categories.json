@@ -1,6 +1,121 @@
 {
-  "syncedAt": "2026-04-23T22:11:41.679Z",
+  "syncedAt": "2026-04-23T22:23:24.665Z",
   "citySlug": "tulum",
-  "categories": [],
+  "categories": [
+    {
+      "base": {
+        "icon": null
+      },
+      "convexId": "k175rsgt97v7vvmbbw4w39f20h858ktd",
+      "lastUpdated": "2026-04-21T04:29:38.980Z",
+      "locales": {
+        "en": {
+          "description": "",
+          "name": "Lagoon",
+          "slug": "lagoon"
+        },
+        "es": {
+          "description": "",
+          "name": "Lagoon",
+          "slug": "lagoon"
+        }
+      }
+    },
+    {
+      "base": {
+        "icon": null
+      },
+      "convexId": "k1730yn9cpwwv1df2e6h4fzvgd858txt",
+      "lastUpdated": "2026-04-21T04:29:39.018Z",
+      "locales": {
+        "en": {
+          "description": "",
+          "name": "Restaurant",
+          "slug": "tulum-restaurants"
+        },
+        "es": {
+          "description": "",
+          "name": "Restaurant",
+          "slug": "tulum-restaurants"
+        }
+      }
+    },
+    {
+      "base": {
+        "icon": null
+      },
+      "convexId": "k1717462z3g6gd2njxnzcz5pqs85984a",
+      "lastUpdated": "2026-04-21T04:29:39.045Z",
+      "locales": {
+        "en": {
+          "description": "",
+          "name": "Beach Club",
+          "slug": "tulum-beach-clubs"
+        },
+        "es": {
+          "description": "",
+          "name": "Beach Club",
+          "slug": "tulum-beach-clubs"
+        }
+      }
+    },
+    {
+      "base": {
+        "icon": null
+      },
+      "convexId": "k1710avgvs681f7g1s67gk701x85960j",
+      "lastUpdated": "2026-04-21T04:29:39.073Z",
+      "locales": {
+        "en": {
+          "description": "",
+          "name": "Nightclub",
+          "slug": "tulum-nightclubs"
+        },
+        "es": {
+          "description": "",
+          "name": "Nightclub",
+          "slug": "tulum-nightclubs"
+        }
+      }
+    },
+    {
+      "base": {
+        "icon": null
+      },
+      "convexId": "k1763eesej1c2gk37r419vmhzs859c3h",
+      "lastUpdated": "2026-04-21T04:29:39.098Z",
+      "locales": {
+        "en": {
+          "description": "",
+          "name": "Cenote",
+          "slug": "tulum-cenotes"
+        },
+        "es": {
+          "description": "",
+          "name": "Cenote",
+          "slug": "tulum-cenotes"
+        }
+      }
+    },
+    {
+      "base": {
+        "icon": null
+      },
+      "convexId": "k1767gr2jgc6rbg3x7m02k1eys858fbp",
+      "lastUpdated": "2026-04-21T04:29:39.125Z",
+      "locales": {
+        "en": {
+          "description": "",
+          "name": "Bar",
+          "slug": "bar"
+        },
+        "es": {
+          "description": "",
+          "name": "Bar",
+          "slug": "bar"
+        }
+      }
+    }
+  ],
   "mode": "published"
 }

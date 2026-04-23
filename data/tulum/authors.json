@@ -1,6 +1,31 @@
 {
-  "syncedAt": "2026-04-23T22:11:41.896Z",
+  "syncedAt": "2026-04-23T22:23:24.850Z",
   "citySlug": "tulum",
-  "authors": [],
+  "authors": [
+    {
+      "base": {
+        "email": "hey@tulumbible.com",
+        "headshot": null,
+        "tag": "tulumbible",
+        "twitterProfileLink": "https://twitter.com/TulumBible"
+      },
+      "convexId": "js75p609jv6j2ds568926x6exx858z45",
+      "lastUpdated": "2026-04-21T04:29:40.148Z",
+      "locales": {
+        "en": {
+          "bio": "",
+          "name": "Tulum Bible",
+          "position": "Founder",
+          "slug": "tulum-bible"
+        },
+        "es": {
+          "bio": "",
+          "name": "Tulum Bible",
+          "position": "Founder",
+          "slug": "tulum-bible"
+        }
+      }
+    }
+  ],
   "mode": "published"
 }
