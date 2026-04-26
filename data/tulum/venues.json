@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-04-26T21:55:59.368Z",
+  "syncedAt": "2026-04-26T21:58:53.447Z",
   "citySlug": "tulum",
   "venues": [
     {
@@ -335,18 +335,21 @@
         "openingHoursHtml": "",
         "phone": null,
         "pricing": "$$",
-        "publishedAt": "2026-04-25T21:49:03.239Z",
+        "publishedAt": "2026-04-26T01:08:54.761Z",
         "reservationDisabledDays": "",
         "reservationMaxHours": null,
         "reservationMinHours": null,
-        "reviewIds": [],
+        "reviewIds": [
+          "kd78zkr3gwtn7er0ptrd09fbv985kqeh",
+          "kd7cs3k6egjzpk7g1qs35d3rg185kzwt"
+        ],
         "tableLayoutAlt": null,
         "tableLayoutUrl": null,
         "tags": [],
         "website": null
       },
       "convexId": "jh78tmrpt2hwv07mjr6s6exnj97qy4js",
-      "lastUpdated": "2026-04-26T01:08:46.010Z",
+      "lastUpdated": "2026-04-26T21:58:43.508Z",
       "locales": {
         "en": {
           "address": "km 200, México 307, 77760 Tulum, Q.R.",
@@ -521,18 +524,21 @@
         "openingHoursHtml": "<p id=\"\">09:00 - 18:00</p><p id=\"\">09:00 - 18:00</p><p id=\"\">09:00 - 18:00</p><p id=\"\">09:00 - 18:00</p><p id=\"\">09:00 - 18:00</p><p id=\"\">09:00 - 18:00</p><p id=\"\">09:00 - 18:00</p>",
         "phone": null,
         "pricing": "$$$$",
-        "publishedAt": "2026-04-25T21:49:03.239Z",
+        "publishedAt": "2026-04-26T01:08:54.761Z",
         "reservationDisabledDays": null,
         "reservationMaxHours": 17,
         "reservationMinHours": 9,
-        "reviewIds": [],
+        "reviewIds": [
+          "kd7eebfew9ktywsfrwe53vb88x85kzgm",
+          "kd722msrav4n97z78g9yggqz5585kr4v"
+        ],
         "tableLayoutAlt": null,
         "tableLayoutUrl": null,
         "tags": [],
         "website": null
       },
       "convexId": "jh7c7enep85z0w69t9v1grcarh7qzm2f",
-      "lastUpdated": "2026-04-26T01:08:46.010Z",
+      "lastUpdated": "2026-04-26T21:58:43.508Z",
       "locales": {
         "en": {
           "address": "PARCELA No. 198Z-2P-1 EJIDO, 77760 Tulum, Q.R.",
