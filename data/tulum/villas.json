@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-04-25T08:02:30.718Z",
+  "syncedAt": "2026-04-26T03:44:46.014Z",
   "citySlug": "tulum",
   "villas": [
     {
@@ -204,6 +204,337 @@
           "description": "A stunning villa located in the heart of Tulum, surrounded by lush greenery and just a short walk from the beach.",
           "name": "Tropical Paradise Villa",
           "slug": "tulum-villa-1"
+        }
+      }
+    },
+    {
+      "base": {
+        "amenityIds": [
+          "jn796fkb2npe38c126gkzmhe85858yf5",
+          "jn74axgjrqtsa18w8nxttnxfg5859e39",
+          "jn76cg9jqcvq6gh3xwf0cj2c2s859sx2",
+          "jn759h6mpgpqbe74w1z2sbj4r585k9x3",
+          "jn78c0kww3ghntsrs0x74x0whx85j8ft"
+        ],
+        "bathrooms": "5",
+        "bedrooms": "5",
+        "beds": "6",
+        "categoryIds": [],
+        "faqIds": [],
+        "googleMapsCode": "<iframe src=\"https://maps.google.com/maps?q=20.2001531,-87.4714437&z=16&output=embed\" width=\"100%\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+        "mainImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/dd5b37e6-d424-460b-bad2-9c3566bb4200/public",
+        "mainImageAlt": null,
+        "otherImages": [
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/efa86bce-736f-4ef4-f69a-adfb848a6500/public",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/433a4f29-5f4f-48a7-6a7c-4f52c6901f00/public",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/a0d9d41f-bb9d-44a2-7de0-564d3829af00/public",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/2fadf848-3081-46f7-4c3b-125183af2700/public",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/e45788b1-12b1-4156-f94d-bb66b7aea700/public",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/32bf8fb8-b380-4ac2-6ecc-a93002a1e700/public",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/af8f5d74-ff3a-4618-6acd-858e3d6ed300/public",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/86669a0a-4128-4259-cae9-5821f0291f00/public",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/e1aba69b-7c43-4193-ab20-77e10c724d00/public"
+        ],
+        "otherImagesAlts": [],
+        "reviewIds": [],
+        "secondImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/76ce1269-ff83-44a0-f2ff-fc7220af6900/public",
+        "secondImageAlt": null,
+        "sleeps": "12",
+        "thirdImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/190d364c-bb5f-435d-8ff2-81fa69150200/public",
+        "thirdImageAlt": null
+      },
+      "convexId": "kh75f076g7q0ycm4b17x5xc7s985jgxd",
+      "lastUpdated": "2026-04-26T02:35:34.248Z",
+      "locales": {
+        "en": {
+          "body": "<h1>Soulbox Villa</h1>\n<p>A five-bedroom retreat sleeping twelve — designed for groups that want full privacy and full amenity in one place. Every bedroom has its own ensuite bathroom; the social heart of the property runs from the luxury kitchen to a covered tiki bar and a large pool, with an outdoor gym tucked into the grounds.</p>\n<h2>Bedrooms</h2>\n<ul>\n  <li><strong>Bedroom 1</strong> — Two queen beds with ensuite bathroom</li>\n  <li><strong>Bedroom 2</strong> — King bed with ensuite bathroom</li>\n  <li><strong>Bedroom 3</strong> — King bed with ensuite bathroom</li>\n  <li><strong>Bedroom 4</strong> — King bed with ensuite bathroom</li>\n  <li><strong>Bedroom 5</strong> — King bed with ensuite bathroom (includes bathtub)</li>\n</ul>\n<h2>Property features</h2>\n<ul>\n  <li>Luxury kitchen</li>\n  <li>Tiki bar</li>\n  <li>Large pool</li>\n  <li>Outdoor gym</li>\n</ul>\n<h2>Included services</h2>\n<ul>\n  <li>Concierge</li>\n</ul>",
+          "description": "Soulbox Villa is a 5-bedroom luxury retreat north of Tulum, sleeping 12, with a private pool, outdoor gym, tiki bar, and concierge service.",
+          "name": "Soulbox Villa",
+          "slug": "soulbox-villa"
+        },
+        "es": {
+          "body": "<h1>Soulbox Villa</h1>\n<p>A five-bedroom retreat sleeping twelve — designed for groups that want full privacy and full amenity in one place. Every bedroom has its own ensuite bathroom; the social heart of the property runs from the luxury kitchen to a covered tiki bar and a large pool, with an outdoor gym tucked into the grounds.</p>\n<h2>Bedrooms</h2>\n<ul>\n  <li><strong>Bedroom 1</strong> — Two queen beds with ensuite bathroom</li>\n  <li><strong>Bedroom 2</strong> — King bed with ensuite bathroom</li>\n  <li><strong>Bedroom 3</strong> — King bed with ensuite bathroom</li>\n  <li><strong>Bedroom 4</strong> — King bed with ensuite bathroom</li>\n  <li><strong>Bedroom 5</strong> — King bed with ensuite bathroom (includes bathtub)</li>\n</ul>\n<h2>Property features</h2>\n<ul>\n  <li>Luxury kitchen</li>\n  <li>Tiki bar</li>\n  <li>Large pool</li>\n  <li>Outdoor gym</li>\n</ul>\n<h2>Included services</h2>\n<ul>\n  <li>Concierge</li>\n</ul>",
+          "description": "Soulbox Villa is a 5-bedroom luxury retreat north of Tulum, sleeping 12, with a private pool, outdoor gym, tiki bar, and concierge service.",
+          "name": "Soulbox Villa",
+          "slug": "soulbox-villa"
+        }
+      }
+    },
+    {
+      "base": {
+        "amenityIds": [
+          "jn745gcv24kd3xd6vz8ce4t3sx85jt5w",
+          "jn7aezhd1k49s3sn0r7we2k5h985ksxk",
+          "jn7fwddn9rz72mz61sn4tj4qbs85kb4h",
+          "jn70e7zea8k1cbnab25vmzkf4185kc0b",
+          "jn705g0j2n2cepzkmt4gd3jxr585kbvm",
+          "jn7aqn3qjzw3j6qmesp89m823s85kby8",
+          "jn796fkb2npe38c126gkzmhe85858yf5",
+          "jn74axgjrqtsa18w8nxttnxfg5859e39",
+          "jn78c0kww3ghntsrs0x74x0whx85j8ft"
+        ],
+        "bathrooms": "9",
+        "bedrooms": "9",
+        "beds": "14",
+        "categoryIds": [],
+        "faqIds": [],
+        "googleMapsCode": "<iframe src=\"https://maps.google.com/maps?q=20.181745529174805,-87.47398376464844&z=16&output=embed\" width=\"100%\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+        "mainImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/9f31bb9e-33d1-46d5-8415-63a3a5b61500/public",
+        "mainImageAlt": null,
+        "otherImages": [
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/1fd67dd2-cc82-4b43-b744-9b5757e40b00/public",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/a524640d-b812-4ecc-c01d-855905184000/public",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/09f1ed98-c10f-4481-f6b5-94d869322300/public",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/1d377196-be79-48f0-b7aa-9b2f4a9e0b00/public",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/0a01e2e2-2964-46a2-25d9-483a292fb800/public",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/7d7aa740-d4dd-45b6-f1a5-146681896500/public",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/b36c0c31-0493-4f1f-5644-7e3f6abda400/public",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/c1a90663-fb83-4897-ebdc-a18711ed4400/public",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/9aea8ab4-6f68-4842-bd7e-c5f89f5e9300/public"
+        ],
+        "otherImagesAlts": [],
+        "reviewIds": [],
+        "secondImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/c64a79c4-d25f-4e6a-9e4d-557f7f950300/public",
+        "secondImageAlt": null,
+        "sleeps": "28",
+        "thirdImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/210d6f0e-923c-4da6-7ab9-9ef7e8086900/public",
+        "thirdImageAlt": null
+      },
+      "convexId": "kh733d1hqw42ghtv1ycdb1sgbh85kja2",
+      "lastUpdated": "2026-04-26T02:51:00.680Z",
+      "locales": {
+        "en": {
+          "body": "<h1>Villa Seremonia</h1>\n<p>A nine-bedroom estate in north Tulum (Región 15) sleeping twenty-eight. Built for groups that want both shared experiences and private retreats — every bedroom has its own ensuite, while the main pool, indoor/outdoor kitchen, dining, and bar areas pull the property together. Hidden underneath: an underground speakeasy.</p>\n<h2>Bedrooms</h2>\n<ul>\n  <li><strong>Bedrooms 1–4</strong> — One king bed, ensuite bathroom (×4)</li>\n  <li><strong>Bedrooms 5–9</strong> — Two queen beds, ensuite bathroom (×5)</li>\n</ul>\n<h2>Property features</h2>\n<ul>\n  <li>Main outdoor pool</li>\n  <li>Three private plunge pools</li>\n  <li>Indoor/outdoor kitchen, dining, and social area</li>\n  <li>Lounge with 80″ smart TV</li>\n  <li>Bar area</li>\n  <li>Six queen daybeds</li>\n  <li>Underground speakeasy</li>\n  <li>Pizza oven</li>\n  <li>Yoga area</li>\n  <li>Complimentary access to the public gym next door</li>\n</ul>\n<h2>Included services</h2>\n<ul>\n  <li>Private chef</li>\n  <li>Concierge</li>\n  <li>Daily housekeeping</li>\n  <li>Nighttime security</li>\n</ul>",
+          "description": "Villa Seremonia is a 9-bedroom estate in north Tulum sleeping 28, with a main pool plus three private plunge pools, an underground speakeasy, an outdoor pizza oven, a yoga area, and full chef + concierge service.",
+          "name": "Villa Seremonia",
+          "slug": "villa-seremonia"
+        },
+        "es": {
+          "body": "<h1>Villa Seremonia</h1>\n<p>A nine-bedroom estate in north Tulum (Región 15) sleeping twenty-eight. Built for groups that want both shared experiences and private retreats — every bedroom has its own ensuite, while the main pool, indoor/outdoor kitchen, dining, and bar areas pull the property together. Hidden underneath: an underground speakeasy.</p>\n<h2>Bedrooms</h2>\n<ul>\n  <li><strong>Bedrooms 1–4</strong> — One king bed, ensuite bathroom (×4)</li>\n  <li><strong>Bedrooms 5–9</strong> — Two queen beds, ensuite bathroom (×5)</li>\n</ul>\n<h2>Property features</h2>\n<ul>\n  <li>Main outdoor pool</li>\n  <li>Three private plunge pools</li>\n  <li>Indoor/outdoor kitchen, dining, and social area</li>\n  <li>Lounge with 80″ smart TV</li>\n  <li>Bar area</li>\n  <li>Six queen daybeds</li>\n  <li>Underground speakeasy</li>\n  <li>Pizza oven</li>\n  <li>Yoga area</li>\n  <li>Complimentary access to the public gym next door</li>\n</ul>\n<h2>Included services</h2>\n<ul>\n  <li>Private chef</li>\n  <li>Concierge</li>\n  <li>Daily housekeeping</li>\n  <li>Nighttime security</li>\n</ul>",
+          "description": "Villa Seremonia is a 9-bedroom estate in north Tulum sleeping 28, with a main pool plus three private plunge pools, an underground speakeasy, an outdoor pizza oven, a yoga area, and full chef + concierge service.",
+          "name": "Villa Seremonia",
+          "slug": "villa-seremonia"
+        }
+      }
+    },
+    {
+      "base": {
+        "amenityIds": [
+          "jn74701wrrgsk24wp2wzadpae185kzb5",
+          "jn796fkb2npe38c126gkzmhe85858yf5",
+          "jn77s3v89mkdcb9d9yydgsx3vd858sbk",
+          "jn78c0kww3ghntsrs0x74x0whx85j8ft",
+          "jn705g0j2n2cepzkmt4gd3jxr585kbvm"
+        ],
+        "bathrooms": "6",
+        "bedrooms": "6",
+        "beds": "8",
+        "categoryIds": [],
+        "faqIds": [],
+        "googleMapsCode": "<iframe src=\"https://maps.google.com/maps?q=20.2020797,-87.4559133&z=16&output=embed\" width=\"100%\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+        "mainImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/c583f10d-1c9e-41b4-1b40-2d83c49dff00/public",
+        "mainImageAlt": null,
+        "otherImages": [
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/b821fd03-5082-4a10-56d8-eb75c0a1ec00/public",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/35b5b8cf-3310-43a4-4933-5606586d1400/public",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/bbedb4b9-5b09-4e96-0159-1e0db5ac1e00/public",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/cfaac7a2-579c-42a1-d3ce-e9c3641c8c00/public",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/cfc068e4-4164-4a94-dfb1-6149a138dd00/public",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/d7d6e563-d81b-4610-73e3-be8dcc084900/public",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/8c13003f-31b9-4f9c-235a-81dcf3689c00/public",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/be20253a-8cc9-4623-f323-0b03e37d7f00/public",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/294d6ef3-6d8e-46b3-c58f-71a15c59b500/public"
+        ],
+        "otherImagesAlts": [],
+        "reviewIds": [],
+        "secondImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/23d02a59-e72f-4a34-a8b5-a24e25adeb00/public",
+        "secondImageAlt": null,
+        "sleeps": "16",
+        "thirdImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/0306f4f8-8e29-4720-1e51-93eb397ab200/public",
+        "thirdImageAlt": null
+      },
+      "convexId": "kh7dk3ax48s2zsa05fv2p0vmz985kesj",
+      "lastUpdated": "2026-04-26T03:10:20.853Z",
+      "locales": {
+        "en": {
+          "body": "<h1>Casa Boko</h1>\n<p>A six-bedroom retreat in the heart of Aldea Zama, sleeping sixteen. Designed for groups that want to entertain — a stunning rooftop pool sits at the top of the property, with a dedicated event space and connected indoor/outdoor dining areas at ground level.</p>\n<h2>Bedrooms</h2>\n<ul>\n  <li><strong>Bedrooms 1–2</strong> — King bed with bathtub, ensuite bathroom (×2)</li>\n  <li><strong>Bedrooms 3–4</strong> — King bed, ensuite bathroom (×2)</li>\n  <li><strong>Bedrooms 5–6</strong> — Two queen beds, ensuite bathroom (×2)</li>\n</ul>\n<h2>Property features</h2>\n<ul>\n  <li>Stunning rooftop pool</li>\n  <li>Dedicated event space</li>\n  <li>Indoor and outdoor dining areas</li>\n</ul>\n<h2>Included services</h2>\n<ul>\n  <li>Daily housekeeping</li>\n  <li>Dedicated concierge</li>\n</ul>",
+          "description": "Casa Boko is a 6-bedroom Aldea Zama villa sleeping 16, with a stunning rooftop pool, a dedicated event space, and indoor/outdoor dining areas — full concierge and daily housekeeping included.",
+          "name": "Casa Boko",
+          "slug": "casa-boko"
+        },
+        "es": {
+          "body": "<h1>Casa Boko</h1>\n<p>A six-bedroom retreat in the heart of Aldea Zama, sleeping sixteen. Designed for groups that want to entertain — a stunning rooftop pool sits at the top of the property, with a dedicated event space and connected indoor/outdoor dining areas at ground level.</p>\n<h2>Bedrooms</h2>\n<ul>\n  <li><strong>Bedrooms 1–2</strong> — King bed with bathtub, ensuite bathroom (×2)</li>\n  <li><strong>Bedrooms 3–4</strong> — King bed, ensuite bathroom (×2)</li>\n  <li><strong>Bedrooms 5–6</strong> — Two queen beds, ensuite bathroom (×2)</li>\n</ul>\n<h2>Property features</h2>\n<ul>\n  <li>Stunning rooftop pool</li>\n  <li>Dedicated event space</li>\n  <li>Indoor and outdoor dining areas</li>\n</ul>\n<h2>Included services</h2>\n<ul>\n  <li>Daily housekeeping</li>\n  <li>Dedicated concierge</li>\n</ul>",
+          "description": "Casa Boko is a 6-bedroom Aldea Zama villa sleeping 16, with a stunning rooftop pool, a dedicated event space, and indoor/outdoor dining areas — full concierge and daily housekeeping included.",
+          "name": "Casa Boko",
+          "slug": "casa-boko"
+        }
+      }
+    },
+    {
+      "base": {
+        "amenityIds": [
+          "jn796fkb2npe38c126gkzmhe85858yf5",
+          "jn77s3v89mkdcb9d9yydgsx3vd858sbk",
+          "jn78c0kww3ghntsrs0x74x0whx85j8ft",
+          "jn705g0j2n2cepzkmt4gd3jxr585kbvm"
+        ],
+        "bathrooms": "5",
+        "bedrooms": "6",
+        "beds": "9",
+        "categoryIds": [],
+        "faqIds": [],
+        "googleMapsCode": "<iframe src=\"https://maps.google.com/maps?q=Casa+Shalva,+Aldea+Zama,+77760+Tulum,+Q.R.&z=16&output=embed\" width=\"100%\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+        "mainImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/82c0935e-3144-4901-4e7c-8b8cf955ee00/public",
+        "mainImageAlt": null,
+        "otherImages": [
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/445e6362-389c-4f5f-38f1-8b38a175d600/public",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/a5e4f735-a2e6-4c80-0db4-411ddebe5200/public",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/87b66bbe-754e-4b53-a0ec-835e747a8400/public",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/a3af5ada-c715-4951-d597-1f701e11d700/public",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/083ad671-87f5-47fe-9b98-203686295b00/public",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/175ba135-394c-420a-fd3a-6859680dc000/public",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/ee1ad2cb-cedb-4631-2f0a-15bd742dc700/public",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/30229197-f956-49c7-c77f-52d7368cf900/public",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/c24bc75f-3271-4862-004e-4a63aaabe000/public"
+        ],
+        "otherImagesAlts": [],
+        "reviewIds": [],
+        "secondImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/9127d16e-6595-429d-fa34-98d59bc95800/public",
+        "secondImageAlt": null,
+        "sleeps": "16",
+        "thirdImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/ba928c91-cae5-48da-5267-57b29a0f2700/public",
+        "thirdImageAlt": null
+      },
+      "convexId": "kh73pam2b7n5fs85typjqfkexs85khv7",
+      "lastUpdated": "2026-04-26T03:21:50.994Z",
+      "locales": {
+        "en": {
+          "body": "<h1>Casa Shalva</h1>\n<p>A six-bedroom retreat in Aldea Zama sleeping sixteen. Two pools — a spectacular rooftop pool and a second pool that opens directly off the living room. The interior reads as much like a small art gallery as a villa, with a sunken conversation pit grounding the social spaces.</p>\n<h2>Bedrooms</h2>\n<ul>\n  <li><strong>Bedroom 1</strong> — Two king beds, ensuite bathroom</li>\n  <li><strong>Bedroom 2</strong> — Two queen beds, ensuite bathroom</li>\n  <li><strong>Bedrooms 3–5</strong> — King bed, ensuite bathroom (×3)</li>\n  <li><strong>Bedroom 6</strong> — Single bunk beds</li>\n</ul>\n<h2>Property features</h2>\n<ul>\n  <li>Spectacular rooftop pool</li>\n  <li>Large pool accessible from the living room</li>\n  <li>Art-gallery-style living room</li>\n  <li>Sunken conversation pit</li>\n</ul>\n<h2>Included services</h2>\n<ul>\n  <li>Concierge</li>\n  <li>Housekeeping</li>\n</ul>",
+          "description": "Casa Shalva is a 6-bedroom villa in Aldea Zama sleeping 16, with a spectacular rooftop pool, a second pool off the living room, an art-gallery living space, and a sunken conversation pit.",
+          "name": "Casa Shalva",
+          "slug": "casa-shalva"
+        },
+        "es": {
+          "body": "<h1>Casa Shalva</h1>\n<p>A six-bedroom retreat in Aldea Zama sleeping sixteen. Two pools — a spectacular rooftop pool and a second pool that opens directly off the living room. The interior reads as much like a small art gallery as a villa, with a sunken conversation pit grounding the social spaces.</p>\n<h2>Bedrooms</h2>\n<ul>\n  <li><strong>Bedroom 1</strong> — Two king beds, ensuite bathroom</li>\n  <li><strong>Bedroom 2</strong> — Two queen beds, ensuite bathroom</li>\n  <li><strong>Bedrooms 3–5</strong> — King bed, ensuite bathroom (×3)</li>\n  <li><strong>Bedroom 6</strong> — Single bunk beds</li>\n</ul>\n<h2>Property features</h2>\n<ul>\n  <li>Spectacular rooftop pool</li>\n  <li>Large pool accessible from the living room</li>\n  <li>Art-gallery-style living room</li>\n  <li>Sunken conversation pit</li>\n</ul>\n<h2>Included services</h2>\n<ul>\n  <li>Concierge</li>\n  <li>Housekeeping</li>\n</ul>",
+          "description": "Casa Shalva is a 6-bedroom villa in Aldea Zama sleeping 16, with a spectacular rooftop pool, a second pool off the living room, an art-gallery living space, and a sunken conversation pit.",
+          "name": "Casa Shalva",
+          "slug": "casa-shalva"
+        }
+      }
+    },
+    {
+      "base": {
+        "amenityIds": [
+          "jn796fkb2npe38c126gkzmhe85858yf5",
+          "jn78c0kww3ghntsrs0x74x0whx85j8ft",
+          "jn705g0j2n2cepzkmt4gd3jxr585kbvm"
+        ],
+        "bathrooms": "4",
+        "bedrooms": "4",
+        "beds": "4",
+        "categoryIds": [],
+        "faqIds": [],
+        "googleMapsCode": "<iframe src=\"https://maps.google.com/maps?q=Casa+Aviv,+Aldea+Zama,+77760+Tulum,+Q.R.&z=16&output=embed\" width=\"100%\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+        "mainImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/dfcf8237-ae24-42cd-6f55-f67dc626bc00/public",
+        "mainImageAlt": null,
+        "otherImages": [
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/2cfa5939-3ba9-484a-94ef-d9072bedeb00/public",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/6ab45195-5cd7-49aa-d86e-1ab1ac2ca200/public",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/55bb28c9-e04d-4c18-e10b-c8b15735a900/public",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/f845b0be-1318-4392-91ec-e22ee9d51f00/public",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/08b4bffc-c530-4667-3af7-683e9bfee600/public",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/bcdd0157-78fa-444f-9fed-f210dffc1100/public",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/5465aab3-cfcf-48a2-a44d-5a0c2f525600/public",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/bc9a9116-5b99-4c17-18da-aba81d50ab00/public",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/6eb56dbc-3078-4033-5de1-d49bb2efbd00/public"
+        ],
+        "otherImagesAlts": [],
+        "reviewIds": [],
+        "secondImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/b9df6432-cfac-49bc-a63f-9982bd468e00/public",
+        "secondImageAlt": null,
+        "sleeps": "8",
+        "thirdImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/c299052a-738e-44bd-2af8-3de9945ac600/public",
+        "thirdImageAlt": null
+      },
+      "convexId": "kh7639h2j442pyccd1t5htnkz185jkp3",
+      "lastUpdated": "2026-04-26T03:26:50.153Z",
+      "locales": {
+        "en": {
+          "body": "<h1>Casa Aviv</h1>\n<p>A four-bedroom villa in Aldea Zama sleeping eight, designed for a tight-knit group. Every bedroom carries a king bed and its own ensuite bathroom. The living room opens directly onto the property's large pool — the social spaces and the water feel like one continuous room.</p>\n<h2>Bedrooms</h2>\n<ul>\n  <li><strong>Bedrooms 1–4</strong> — King bed, ensuite bathroom (×4)</li>\n</ul>\n<h2>Property features</h2>\n<ul>\n  <li>Large pool accessible from the living room</li>\n</ul>\n<h2>Included services</h2>\n<ul>\n  <li>Concierge</li>\n  <li>Housekeeping</li>\n</ul>",
+          "description": "Casa Aviv is a 4-bedroom villa in Aldea Zama sleeping 8, with a large pool that opens directly off the living room. Concierge and housekeeping included.",
+          "name": "Casa Aviv",
+          "slug": "casa-aviv"
+        },
+        "es": {
+          "body": "<h1>Casa Aviv</h1>\n<p>A four-bedroom villa in Aldea Zama sleeping eight, designed for a tight-knit group. Every bedroom carries a king bed and its own ensuite bathroom. The living room opens directly onto the property's large pool — the social spaces and the water feel like one continuous room.</p>\n<h2>Bedrooms</h2>\n<ul>\n  <li><strong>Bedrooms 1–4</strong> — King bed, ensuite bathroom (×4)</li>\n</ul>\n<h2>Property features</h2>\n<ul>\n  <li>Large pool accessible from the living room</li>\n</ul>\n<h2>Included services</h2>\n<ul>\n  <li>Concierge</li>\n  <li>Housekeeping</li>\n</ul>",
+          "description": "Casa Aviv is a 4-bedroom villa in Aldea Zama sleeping 8, with a large pool that opens directly off the living room. Concierge and housekeeping included.",
+          "name": "Casa Aviv",
+          "slug": "casa-aviv"
+        }
+      }
+    },
+    {
+      "base": {
+        "amenityIds": [
+          "jn7brzqrezwp2cn80n84arv4t985k77w",
+          "jn72g2rwy1fpwjhq9pjfzd4fdh85ke31",
+          "jn7dw853ezsj5gj6xf6te5gcpn85kxym",
+          "jn7esswnv5546m1yxfdabkgea585jzrs",
+          "jn785xwma32ccwqp23911rkcds85k29g",
+          "jn796fkb2npe38c126gkzmhe85858yf5",
+          "jn7fwddn9rz72mz61sn4tj4qbs85kb4h",
+          "jn71xzs8sx9ef304m6gjqmn5dh859d74",
+          "jn70e7zea8k1cbnab25vmzkf4185kc0b",
+          "jn78c0kww3ghntsrs0x74x0whx85j8ft",
+          "jn705g0j2n2cepzkmt4gd3jxr585kbvm",
+          "jn759h6mpgpqbe74w1z2sbj4r585k9x3"
+        ],
+        "bathrooms": "12",
+        "bedrooms": "12",
+        "beds": "22",
+        "categoryIds": [],
+        "faqIds": [],
+        "googleMapsCode": "<iframe src=\"https://maps.google.com/maps?q=Casa+Luna+Tulum+Mansion&z=16&output=embed\" width=\"100%\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+        "mainImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/8fab43d4-128d-48d2-07bb-e6260d67f500/public",
+        "mainImageAlt": null,
+        "otherImages": [
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/d45ed436-9acc-4301-b45e-0e362d14ed00/public",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/fa8e06d3-87c6-4217-e579-ed45f3d75d00/public",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/0ddf7b85-efd4-4104-30e3-f569cc51ae00/public",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/5240ae18-3d70-4a31-3b4c-22624cb08800/public",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/f3becb61-5b5f-4236-f0c0-2a16554ede00/public",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/15dd40a7-254e-41e8-1235-ed224d0b5b00/public",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/b577bf68-189e-480d-2066-9ebad44ac100/public",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/e96cdd65-5c39-4357-0d9d-1644bf1bf900/public",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/584d08e1-6b13-41ad-45c8-cd3ba004a700/public",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/92a28e3b-bdb6-474d-a9a3-856c931a0600/public",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/8b98fa93-3d5e-4417-d814-4cab3905fc00/public",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/a34d3869-3d99-4a78-b5f3-cee85a4c6900/public",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/26ffe321-ec99-49e5-1330-be0378da4f00/public",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/33991e10-b6ea-4d8d-d9c3-4c649e181500/public"
+        ],
+        "otherImagesAlts": [],
+        "reviewIds": [],
+        "secondImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/9a56c917-35ae-4bad-4ff2-9bebd0a15c00/public",
+        "secondImageAlt": null,
+        "sleeps": "40",
+        "thirdImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/eb490f6f-ac06-4a65-8c49-3f5d11428f00/public",
+        "thirdImageAlt": null
+      },
+      "convexId": "kh74m1cpfn0pwettfdm1befegd85jpz1",
+      "lastUpdated": "2026-04-26T03:42:20.111Z",
+      "locales": {
+        "en": {
+          "body": "<h1>Casa Luna</h1>\n<p>A twelve-bedroom Tulum mansion sleeping forty — designed for large groups, wedding parties, and multi-family stays where everyone wants their own retreat. Two master suites with king beds and walk-in closets anchor the bedroom layout; ten additional bedrooms run the gamut from queen suites to four-person rooms with mixed bed configurations.</p>\n<h2>Bedrooms</h2>\n<ul>\n  <li><strong>Master 1–2</strong> — King bed with walk-in closet (×2)</li>\n  <li><strong>Bedroom 3</strong> — Queen bed</li>\n  <li><strong>Bedroom 4</strong> — Queen bed with walk-in closet</li>\n  <li><strong>Bedroom 5</strong> — 2 double beds + 2 single beds + pull-out bed</li>\n  <li><strong>Bedroom 6</strong> — King bed</li>\n  <li><strong>Bedrooms 7–9</strong> — 2 double beds (×3)</li>\n  <li><strong>Bedrooms 10–11</strong> — 2 double beds (×2)</li>\n  <li><strong>Bedroom 12</strong> — 2 double beds</li>\n</ul>\n<h2>Property features</h2>\n<ul>\n  <li>Stunning main pool</li>\n  <li>Huge main jacuzzi + 2 master-suite jacuzzis</li>\n  <li>Gym</li>\n  <li>Cold plunge</li>\n  <li>Steam room</li>\n  <li>Yoga room</li>\n  <li>Theater room with golf simulator (also doubles as a movie room)</li>\n  <li>Full private nightclub with DJ booth</li>\n</ul>\n<h2>Included services</h2>\n<ul>\n  <li>Personal butler</li>\n  <li>Private chef</li>\n  <li>Dedicated concierge</li>\n  <li>Daily housekeeping</li>\n</ul>",
+          "description": "Casa Luna is a 12-bedroom Tulum mansion sleeping 40, with a stunning main pool, jacuzzis (main + master-suite), a wellness suite (gym, cold plunge, steam room, yoga room), a theater room with golf simulator, and a private nightclub with DJ booth. Personal butler, private chef, and dedicated concierge included.",
+          "name": "Casa Luna",
+          "slug": "casa-luna"
+        },
+        "es": {
+          "body": "<h1>Casa Luna</h1>\n<p>A twelve-bedroom Tulum mansion sleeping forty — designed for large groups, wedding parties, and multi-family stays where everyone wants their own retreat. Two master suites with king beds and walk-in closets anchor the bedroom layout; ten additional bedrooms run the gamut from queen suites to four-person rooms with mixed bed configurations.</p>\n<h2>Bedrooms</h2>\n<ul>\n  <li><strong>Master 1–2</strong> — King bed with walk-in closet (×2)</li>\n  <li><strong>Bedroom 3</strong> — Queen bed</li>\n  <li><strong>Bedroom 4</strong> — Queen bed with walk-in closet</li>\n  <li><strong>Bedroom 5</strong> — 2 double beds + 2 single beds + pull-out bed</li>\n  <li><strong>Bedroom 6</strong> — King bed</li>\n  <li><strong>Bedrooms 7–9</strong> — 2 double beds (×3)</li>\n  <li><strong>Bedrooms 10–11</strong> — 2 double beds (×2)</li>\n  <li><strong>Bedroom 12</strong> — 2 double beds</li>\n</ul>\n<h2>Property features</h2>\n<ul>\n  <li>Stunning main pool</li>\n  <li>Huge main jacuzzi + 2 master-suite jacuzzis</li>\n  <li>Gym</li>\n  <li>Cold plunge</li>\n  <li>Steam room</li>\n  <li>Yoga room</li>\n  <li>Theater room with golf simulator (also doubles as a movie room)</li>\n  <li>Full private nightclub with DJ booth</li>\n</ul>\n<h2>Included services</h2>\n<ul>\n  <li>Personal butler</li>\n  <li>Private chef</li>\n  <li>Dedicated concierge</li>\n  <li>Daily housekeeping</li>\n</ul>",
+          "description": "Casa Luna is a 12-bedroom Tulum mansion sleeping 40, with a stunning main pool, jacuzzis (main + master-suite), a wellness suite (gym, cold plunge, steam room, yoga room), a theater room with golf simulator, and a private nightclub with DJ booth. Personal butler, private chef, and dedicated concierge included.",
+          "name": "Casa Luna",
+          "slug": "casa-luna"
         }
       }
     }
