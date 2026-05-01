@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-05-01T05:47:43.008Z",
+  "syncedAt": "2026-05-01T05:50:05.227Z",
   "citySlug": "tulum",
   "venues": [
     {
@@ -812,7 +812,9 @@
       "base": {
         "amenityIds": [
           "jn7dnm1kp63ahnqvjhhyz7944d859qpv",
-          "jn72f5n145a7gcvx7evwc8yzws8588h6"
+          "jn72f5n145a7gcvx7evwc8yzws8588h6",
+          "jn74axgjrqtsa18w8nxttnxfg5859e39",
+          "jn796fkb2npe38c126gkzmhe85858yf5"
         ],
         "area": "hotel-zone",
         "category": "beachclub",
@@ -850,7 +852,7 @@
         "phone": null,
         "pricing": "$$$",
         "promotion": "editors-pick",
-        "publishedAt": "2026-05-01T05:38:32.197Z",
+        "publishedAt": "2026-05-01T05:44:32.825Z",
         "reservationDisabledDays": "",
         "reservationMaxHours": 23,
         "reservationMinHours": 11,
@@ -861,7 +863,7 @@
         "website": null
       },
       "convexId": "jh71fkmf2b1ddc1n0vjggg0c417qy4kb",
-      "lastUpdated": "2026-05-01T05:44:30.392Z",
+      "lastUpdated": "2026-05-01T05:45:29.252Z",
       "locales": {
         "en": {
           "address": "Carr. Tulum-Boca Paila 8, Tulum Beach, 77760 Q.R",
