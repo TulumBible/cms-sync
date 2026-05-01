@@ -1,14 +1,15 @@
 {
-  "syncedAt": "2026-05-01T05:04:39.784Z",
+  "syncedAt": "2026-05-01T05:05:36.946Z",
   "citySlug": "tulum",
   "amenities": [
     {
       "base": {
-        "slug": "valet-parking",
-        "svgCode": "M240 114h-12.1l-28.3-63.7a14.2 14.2 0 0 0-12.8-8.3H69.2a14.2 14.2 0 0 0-12.8 8.3L28.1 114H16a6 6 0 0 0 0 12h10v82a14 14 0 0 0 14 14h24a14 14 0 0 0 14-14v-18h100v18a14 14 0 0 0 14 14h24a14 14 0 0 0 14-14v-82h10a6 6 0 0 0 0-12ZM67.4 55.2a2 2 0 0 1 1.8-1.2h117.6a2 2 0 0 1 1.8 1.2l26.2 58.8H41.2ZM66 208a2 2 0 0 1-2 2H40a2 2 0 0 1-2-2v-18h28Zm150 2h-24a2 2 0 0 1-2-2v-18h28v18a2 2 0 0 1-2 2Zm2-32H38v-52h180ZM58 152a6 6 0 0 1 6-6h16a6 6 0 0 1 0 12H64a6 6 0 0 1-6-6Zm112 0a6 6 0 0 1 6-6h16a6 6 0 0 1 0 12h-16a6 6 0 0 1-6-6Z"
+        "iconName": null,
+        "showInFilters": false,
+        "slug": "valet-parking"
       },
       "convexId": "jn72f5n145a7gcvx7evwc8yzws8588h6",
-      "lastUpdated": "2026-04-21T04:29:39.262Z",
+      "lastUpdated": "2026-05-01T05:05:26.197Z",
       "locales": {
         "en": {
           "name": "Valet Parking"
@@ -20,11 +21,12 @@
     },
     {
       "base": {
-        "slug": "spa",
-        "svgCode": "M248.7 122.3a13.2 13.2 0 0 0-8.6-6.5a77.6 77.6 0 0 0-29.9-1.5c3.8-18.9.9-33.7-2-42.5a13.9 13.9 0 0 0-16.2-9.4a80.7 80.7 0 0 0-27.4 11.7a92.7 92.7 0 0 0-28.2-35.7a14.1 14.1 0 0 0-16.8 0a92.7 92.7 0 0 0-28.2 35.7A80.7 80.7 0 0 0 64 62.4a13.9 13.9 0 0 0-16.2 9.4c-2.9 8.8-5.8 23.6-2 42.5a77.6 77.6 0 0 0-29.9 1.5a13.2 13.2 0 0 0-8.6 6.5A13.9 13.9 0 0 0 5.9 133c3.5 12.4 14.1 35.9 46.2 54.4S112.7 206 128 206c15.3 0 43.8 0 75.9-18.6s42.7-42 46.2-54.4a13.9 13.9 0 0 0-1.4-10.7Zm-54.2-48.2a2 2 0 0 1 2.3 1.4c2.9 8.7 5.6 24.2-.3 44.2a2.9 2.9 0 0 0-.2.9a111.4 111.4 0 0 1-9.8 22a124.2 124.2 0 0 1-25.8 31.2C168.1 160.7 174 143 174 120a116.7 116.7 0 0 0-5-34.4a70.8 70.8 0 0 1 25.5-11.5ZM126.8 48a2 2 0 0 1 2.4 0c9.9 7.4 32.8 29.1 32.8 72c0 45.3-25.2 66.8-34 72.9c-8.6-6.1-34-27.9-34-72.9c0-42.9 22.9-64.6 32.8-72ZM59.2 75.5a2 2 0 0 1 2.3-1.4A70.8 70.8 0 0 1 87 85.6a116.7 116.7 0 0 0-5 34.4c0 23 5.9 40.7 13.3 53.8a124.2 124.2 0 0 1-25.8-31.2a108.3 108.3 0 0 1-9.8-22a2.9 2.9 0 0 0-.2-.9c-5.9-20-3.2-35.5-.3-44.2Zm-41.7 54.3a2.3 2.3 0 0 1 .1-1.5a1.9 1.9 0 0 1 1.2-.9c6.6-1.7 17-3 30.4-.4a116.4 116.4 0 0 0 9.9 21.6A135.7 135.7 0 0 0 99 192a122.8 122.8 0 0 1-40.9-14.9c-28.5-16.5-37.7-36.7-40.6-47.3Zm221 0c-2.9 10.6-12.1 30.8-40.6 47.3A122.8 122.8 0 0 1 157 192a135.7 135.7 0 0 0 39.9-43.4a116.4 116.4 0 0 0 9.9-21.6c13.4-2.6 23.8-1.3 30.4.4a1.9 1.9 0 0 1 1.2.9a2.3 2.3 0 0 1 .1 1.5Z"
+        "iconName": null,
+        "showInFilters": false,
+        "slug": "spa"
       },
       "convexId": "jn7dnm1kp63ahnqvjhhyz7944d859qpv",
-      "lastUpdated": "2026-04-21T04:29:39.292Z",
+      "lastUpdated": "2026-05-01T05:05:26.197Z",
       "locales": {
         "en": {
           "name": "Spa"
@@ -36,11 +38,12 @@
     },
     {
       "base": {
-        "slug": "rooms",
-        "svgCode": "M208 74H22V48a6 6 0 0 0-12 0v160a6 6 0 0 0 12 0v-34h212v34a6 6 0 0 0 12 0v-96a38 38 0 0 0-38-38ZM22 86h76v76H22Zm88 76V86h98a26.1 26.1 0 0 1 26 26v50Z"
+        "iconName": null,
+        "showInFilters": false,
+        "slug": "rooms"
       },
       "convexId": "jn70zdmazn719gygc3k7335zxn859dvw",
-      "lastUpdated": "2026-04-21T04:29:39.324Z",
+      "lastUpdated": "2026-05-01T05:05:26.197Z",
       "locales": {
         "en": {
           "name": "Rooms"
@@ -52,11 +55,12 @@
     },
     {
       "base": {
-        "slug": "rooftop",
-        "svgCode": "M216,208H136V135.42a56,56,0,1,0-16,0V208H40a8,8,0,0,0,0,16H216a8,8,0,0,0,0-16ZM88,80a40,40,0,1,1,40,40A40,40,0,0,1,88,80Z"
+        "iconName": null,
+        "showInFilters": false,
+        "slug": "rooftop"
       },
       "convexId": "jn77s3v89mkdcb9d9yydgsx3vd858sbk",
-      "lastUpdated": "2026-04-21T04:29:39.353Z",
+      "lastUpdated": "2026-05-01T05:05:26.197Z",
       "locales": {
         "en": {
           "name": "Rooftop"
@@ -68,11 +72,12 @@
     },
     {
       "base": {
-        "slug": "restaurant",
-        "svgCode": "M78 72V32a6 6 0 0 1 12 0v40a6 6 0 0 1-12 0Zm39.9-41a6 6 0 0 0-11.8 2l7.9 47.5a30 30 0 0 1-60 0L61.9 33a6 6 0 1 0-11.8-2l-8 48a3.4 3.4 0 0 0-.1 1a42.2 42.2 0 0 0 36 41.6V224a6 6 0 0 0 12 0V121.6A42.2 42.2 0 0 0 126 80a3.4 3.4 0 0 0-.1-1Zm92.1 1v192a6 6 0 0 1-12 0v-58h-50a6.1 6.1 0 0 1-4.5-2a6.4 6.4 0 0 1-1.5-4.6a412.4 412.4 0 0 1 11.7-59c11.9-41.8 28.1-66.7 48.2-74A6 6 0 0 1 210 32Zm-12 10.1c-25.7 19.4-39.1 81.1-43.2 111.9H198Z"
+        "iconName": null,
+        "showInFilters": false,
+        "slug": "restaurant"
       },
       "convexId": "jn785e6n78fzxfq3e6yc4z206s858vs7",
-      "lastUpdated": "2026-04-21T04:29:39.381Z",
+      "lastUpdated": "2026-05-01T05:05:26.197Z",
       "locales": {
         "en": {
           "name": "Restaurant"
@@ -84,11 +89,12 @@
     },
     {
       "base": {
-        "slug": "pool",
-        "svgCode": "M35.3 75.7a6 6 0 0 1 1-8.4a79 79 0 0 1 28.2-13.1c15.8-4 40.2-4.9 66.8 12.8c43.6 29.1 79.5 1.5 81 .3a6 6 0 0 1 7.4 9.4a79 79 0 0 1-28.2 13.1a78.2 78.2 0 0 1-19.3 2.4c-13.7 0-30.1-3.6-47.5-15.2c-43.6-29.1-79.5-1.5-81-.3a6 6 0 0 1-8.4-1Zm177 47.6c-1.5 1.2-37.4 28.8-81-.3c-26.6-17.7-51-16.8-66.8-12.8a79 79 0 0 0-28.2 13.1a6 6 0 0 0 7.4 9.4c1.5-1.2 37.4-28.8 81 .3c17.4 11.6 33.8 15.2 47.5 15.2a78.2 78.2 0 0 0 19.3-2.4a79 79 0 0 0 28.2-13.1a6 6 0 0 0-7.4-9.4Zm0 56c-1.5 1.2-37.4 28.8-81-.3c-26.6-17.7-51-16.8-66.8-12.8a79 79 0 0 0-28.2 13.1a6 6 0 0 0 7.4 9.4c1.5-1.2 37.4-28.8 81 .3c17.4 11.6 33.8 15.2 47.5 15.2a81.6 81.6 0 0 0 47.5-15.5a6 6 0 0 0-7.4-9.4Z"
+        "iconName": null,
+        "showInFilters": false,
+        "slug": "pool"
       },
       "convexId": "jn796fkb2npe38c126gkzmhe85858yf5",
-      "lastUpdated": "2026-04-21T04:29:39.412Z",
+      "lastUpdated": "2026-05-01T05:05:26.197Z",
       "locales": {
         "en": {
           "name": "Pool"
@@ -100,11 +106,12 @@
     },
     {
       "base": {
-        "slug": "pet-friendly",
-        "svgCode": "M212 82a26 26 0 1 0 26 26a26.1 26.1 0 0 0-26-26Zm0 40a14 14 0 1 1 14-14a14 14 0 0 1-14 14ZM70 108a26 26 0 1 0-26 26a26.1 26.1 0 0 0 26-26Zm-26 14a14 14 0 1 1 14-14a14 14 0 0 1-14 14Zm48-36a26 26 0 1 0-26-26a26.1 26.1 0 0 0 26 26Zm0-40a14 14 0 1 1-14 14a14 14 0 0 1 14-14Zm72 40a26 26 0 1 0-26-26a26.1 26.1 0 0 0 26 26Zm0-40a14 14 0 1 1-14 14a14 14 0 0 1 14-14Zm22.1 104.6a37.4 37.4 0 0 1-17.8-22.3a42 42 0 0 0-80.6 0a37.4 37.4 0 0 1-17.8 22.3a38 38 0 0 0 32.9 68.4a65.7 65.7 0 0 1 50.4 0a38 38 0 0 0 32.9-68.4ZM168 210a25.9 25.9 0 0 1-10.2-2.1A79.1 79.1 0 0 0 128 202a80 80 0 0 0-29.9 5.9A25 25 0 0 1 88 210a26 26 0 0 1-12.3-48.9a49.5 49.5 0 0 0 23.5-29.5a30 30 0 0 1 57.6 0a49.5 49.5 0 0 0 23.5 29.5h.1A26 26 0 0 1 168 210Z"
+        "iconName": null,
+        "showInFilters": false,
+        "slug": "pet-friendly"
       },
       "convexId": "jn78wp2bkm0sv6aber490necah858phw",
-      "lastUpdated": "2026-04-21T04:29:39.451Z",
+      "lastUpdated": "2026-05-01T05:05:26.197Z",
       "locales": {
         "en": {
           "name": "Pet Friendly"
@@ -116,11 +123,12 @@
     },
     {
       "base": {
-        "slug": "nightclub",
-        "svgCode": "M211.7 27.3a5.8 5.8 0 0 0-5.2-1.1l-128 32A5.9 5.9 0 0 0 74 64v114.1A34 34 0 1 0 86 204v-87.3l116-29v58.4a34 34 0 1 0 12 25.9V32a6.1 6.1 0 0 0-2.3-4.7ZM52 226a22 22 0 1 1 22-22a22.1 22.1 0 0 1-22 22Zm34-121.7V68.7l116-29v35.6Zm94 89.7a22 22 0 1 1 22-22a22.1 22.1 0 0 1-22 22Z"
+        "iconName": null,
+        "showInFilters": false,
+        "slug": "nightclub"
       },
       "convexId": "jn71xzs8sx9ef304m6gjqmn5dh859d74",
-      "lastUpdated": "2026-04-21T04:29:39.487Z",
+      "lastUpdated": "2026-05-01T05:05:26.197Z",
       "locales": {
         "en": {
           "name": "Nightclub"
@@ -132,11 +140,12 @@
     },
     {
       "base": {
-        "slug": "no-min-consumption",
-        "svgCode": "M152,120H136V56h8a32,32,0,0,1,32,32,8,8,0,0,0,16,0,48.05,48.05,0,0,0-48-48h-8V24a8,8,0,0,0-16,0V40h-8a48,48,0,0,0,0,96h8v64H104a32,32,0,0,1-32-32,8,8,0,0,0-16,0,48.05,48.05,0,0,0,48,48h16v16a8,8,0,0,0,16,0V216h16a48,48,0,0,0,0-96Zm-40,0a32,32,0,0,1,0-64h8v64Zm40,80H136V136h16a32,32,0,0,1,0,64Z"
+        "iconName": null,
+        "showInFilters": false,
+        "slug": "no-min-consumption"
       },
       "convexId": "jn70tb3pfy3yycjzk8ke3pgtrs8585z7",
-      "lastUpdated": "2026-04-21T04:29:39.520Z",
+      "lastUpdated": "2026-05-01T05:05:26.197Z",
       "locales": {
         "en": {
           "name": "No Min. Consumption"
@@ -148,11 +157,12 @@
     },
     {
       "base": {
-        "slug": "bar",
-        "svgCode": "m207.8 110.6l-26-88.3A6.1 6.1 0 0 0 176 18H80a6.1 6.1 0 0 0-5.8 4.3l-26 88.3a29.8 29.8 0 0 0 1.4 20.8a86.3 86.3 0 0 0 72.4 50.4V226H88a6 6 0 0 0 0 12h80a6 6 0 0 0 0-12h-34v-44.2a86.3 86.3 0 0 0 72.4-50.4a29.8 29.8 0 0 0 1.4-20.8ZM84.5 30h87l21.8 73.6c-10.7 4.9-32.3 10.2-62.6-5c-27.8-13.8-49.5-12.7-64-8.5Zm111 96.5a74.1 74.1 0 0 1-135 0a18.5 18.5 0 0 1-.8-12.5l2.8-9.5c11.2-5.3 32.6-10.2 62.8 4.9c16.9 8.4 31.7 11.3 43.8 11.3a71.3 71.3 0 0 0 27.5-5.4a18.7 18.7 0 0 1-1.1 11.2Z"
+        "iconName": null,
+        "showInFilters": false,
+        "slug": "bar"
       },
       "convexId": "jn74axgjrqtsa18w8nxttnxfg5859e39",
-      "lastUpdated": "2026-04-21T04:29:39.552Z",
+      "lastUpdated": "2026-05-01T05:05:26.197Z",
       "locales": {
         "en": {
           "name": "Bar"
@@ -164,11 +174,12 @@
     },
     {
       "base": {
-        "slug": "wifi",
-        "svgCode": "M167.2 161.7a6 6 0 0 1 .2 8.5a5.9 5.9 0 0 1-4.3 1.9a6.3 6.3 0 0 1-4.2-1.7a44.7 44.7 0 0 0-61.8 0a6 6 0 1 1-8.3-8.7a56.8 56.8 0 0 1 78.4 0ZM128 98a103.7 103.7 0 0 0-73.2 29.8a6 6 0 0 0 8.4 8.6a92.7 92.7 0 0 1 129.6 0a6.3 6.3 0 0 0 4.2 1.7a6 6 0 0 0 4.2-10.3A103.7 103.7 0 0 0 128 98Zm107.1-4.1a152.6 152.6 0 0 0-214.2 0a6 6 0 0 0-.1 8.5a5.9 5.9 0 0 0 8.5 0a140.8 140.8 0 0 1 197.4 0a5.9 5.9 0 0 0 8.5 0a6 6 0 0 0-.1-8.5ZM128 190a10 10 0 1 0 10 10a10 10 0 0 0-10-10Z"
+        "iconName": null,
+        "showInFilters": false,
+        "slug": "wifi"
       },
       "convexId": "jn76cg9jqcvq6gh3xwf0cj2c2s859sx2",
-      "lastUpdated": "2026-04-21T04:29:39.583Z",
+      "lastUpdated": "2026-05-01T05:05:26.197Z",
       "locales": {
         "en": {
           "name": "Great Wifi"
@@ -180,11 +191,12 @@
     },
     {
       "base": {
-        "slug": "free-parking",
-        "svgCode": "M240 114h-12.1l-28.3-63.7a14.2 14.2 0 0 0-12.8-8.3H69.2a14.2 14.2 0 0 0-12.8 8.3L28.1 114H16a6 6 0 0 0 0 12h10v82a14 14 0 0 0 14 14h24a14 14 0 0 0 14-14v-18h100v18a14 14 0 0 0 14 14h24a14 14 0 0 0 14-14v-82h10a6 6 0 0 0 0-12ZM67.4 55.2a2 2 0 0 1 1.8-1.2h117.6a2 2 0 0 1 1.8 1.2l26.2 58.8H41.2ZM66 208a2 2 0 0 1-2 2H40a2 2 0 0 1-2-2v-18h28Zm150 2h-24a2 2 0 0 1-2-2v-18h28v18a2 2 0 0 1-2 2Zm2-32H38v-52h180ZM58 152a6 6 0 0 1 6-6h16a6 6 0 0 1 0 12H64a6 6 0 0 1-6-6Zm112 0a6 6 0 0 1 6-6h16a6 6 0 0 1 0 12h-16a6 6 0 0 1-6-6Z"
+        "iconName": null,
+        "showInFilters": false,
+        "slug": "free-parking"
       },
       "convexId": "jn70zn5gpwjkfxwnbkd4948rv5859d8d",
-      "lastUpdated": "2026-04-21T04:29:39.612Z",
+      "lastUpdated": "2026-05-01T05:05:26.197Z",
       "locales": {
         "en": {
           "name": "Free Parking"
@@ -196,17 +208,256 @@
     },
     {
       "base": {
-        "slug": "card-only",
-        "svgCode": "M224,48H32A16,16,0,0,0,16,64V192a16,16,0,0,0,16,16H224a16,16,0,0,0,16-16V64A16,16,0,0,0,224,48Zm0,16V88H32V64Zm0,128H32V104H224v88Zm-16-24a8,8,0,0,1-8,8H168a8,8,0,0,1,0-16h32A8,8,0,0,1,208,168Zm-64,0a8,8,0,0,1-8,8H120a8,8,0,0,1,0-16h16A8,8,0,0,1,144,168Z"
+        "iconName": null,
+        "showInFilters": false,
+        "slug": "card-only"
       },
       "convexId": "jn73wn3mp1p288pg1ae5sq9k6h8581b5",
-      "lastUpdated": "2026-04-21T04:29:39.639Z",
+      "lastUpdated": "2026-05-01T05:05:26.197Z",
       "locales": {
         "en": {
           "name": "Card Only"
         },
         "es": {
           "name": "Card Only"
+        }
+      }
+    },
+    {
+      "base": {
+        "iconName": null,
+        "showInFilters": false,
+        "slug": "gym"
+      },
+      "convexId": "jn759h6mpgpqbe74w1z2sbj4r585k9x3",
+      "lastUpdated": "2026-05-01T05:05:26.197Z",
+      "locales": {
+        "en": {
+          "name": "Gym"
+        },
+        "es": {
+          "name": "Gimnasio"
+        }
+      }
+    },
+    {
+      "base": {
+        "iconName": null,
+        "showInFilters": false,
+        "slug": "concierge"
+      },
+      "convexId": "jn78c0kww3ghntsrs0x74x0whx85j8ft",
+      "lastUpdated": "2026-05-01T05:05:26.197Z",
+      "locales": {
+        "en": {
+          "name": "Concierge"
+        },
+        "es": {
+          "name": "Concierge"
+        }
+      }
+    },
+    {
+      "base": {
+        "iconName": null,
+        "showInFilters": false,
+        "slug": "tv"
+      },
+      "convexId": "jn745gcv24kd3xd6vz8ce4t3sx85jt5w",
+      "lastUpdated": "2026-05-01T05:05:26.197Z",
+      "locales": {
+        "en": {
+          "name": "TV"
+        },
+        "es": {
+          "name": "Televisión"
+        }
+      }
+    },
+    {
+      "base": {
+        "iconName": null,
+        "showInFilters": false,
+        "slug": "pizza-oven"
+      },
+      "convexId": "jn7aezhd1k49s3sn0r7we2k5h985ksxk",
+      "lastUpdated": "2026-05-01T05:05:26.197Z",
+      "locales": {
+        "en": {
+          "name": "Pizza Oven"
+        },
+        "es": {
+          "name": "Horno de pizza"
+        }
+      }
+    },
+    {
+      "base": {
+        "iconName": null,
+        "showInFilters": false,
+        "slug": "yoga-space"
+      },
+      "convexId": "jn7fwddn9rz72mz61sn4tj4qbs85kb4h",
+      "lastUpdated": "2026-05-01T05:05:26.197Z",
+      "locales": {
+        "en": {
+          "name": "Yoga Space"
+        },
+        "es": {
+          "name": "Espacio de yoga"
+        }
+      }
+    },
+    {
+      "base": {
+        "iconName": null,
+        "showInFilters": false,
+        "slug": "chef-service"
+      },
+      "convexId": "jn70e7zea8k1cbnab25vmzkf4185kc0b",
+      "lastUpdated": "2026-05-01T05:05:26.197Z",
+      "locales": {
+        "en": {
+          "name": "Chef Service"
+        },
+        "es": {
+          "name": "Servicio de chef"
+        }
+      }
+    },
+    {
+      "base": {
+        "iconName": null,
+        "showInFilters": false,
+        "slug": "housekeeping"
+      },
+      "convexId": "jn705g0j2n2cepzkmt4gd3jxr585kbvm",
+      "lastUpdated": "2026-05-01T05:05:26.197Z",
+      "locales": {
+        "en": {
+          "name": "Daily Housekeeping"
+        },
+        "es": {
+          "name": "Limpieza diaria"
+        }
+      }
+    },
+    {
+      "base": {
+        "iconName": null,
+        "showInFilters": false,
+        "slug": "security"
+      },
+      "convexId": "jn7aqn3qjzw3j6qmesp89m823s85kby8",
+      "lastUpdated": "2026-05-01T05:05:26.197Z",
+      "locales": {
+        "en": {
+          "name": "Security"
+        },
+        "es": {
+          "name": "Seguridad"
+        }
+      }
+    },
+    {
+      "base": {
+        "iconName": null,
+        "showInFilters": false,
+        "slug": "event-space"
+      },
+      "convexId": "jn74701wrrgsk24wp2wzadpae185kzb5",
+      "lastUpdated": "2026-05-01T05:05:26.197Z",
+      "locales": {
+        "en": {
+          "name": "Event Space"
+        },
+        "es": {
+          "name": "Espacio para eventos"
+        }
+      }
+    },
+    {
+      "base": {
+        "iconName": null,
+        "showInFilters": false,
+        "slug": "jacuzzi"
+      },
+      "convexId": "jn7brzqrezwp2cn80n84arv4t985k77w",
+      "lastUpdated": "2026-05-01T05:05:26.197Z",
+      "locales": {
+        "en": {
+          "name": "Jacuzzi"
+        },
+        "es": {
+          "name": "Jacuzzi"
+        }
+      }
+    },
+    {
+      "base": {
+        "iconName": null,
+        "showInFilters": false,
+        "slug": "cold-plunge"
+      },
+      "convexId": "jn72g2rwy1fpwjhq9pjfzd4fdh85ke31",
+      "lastUpdated": "2026-05-01T05:05:26.197Z",
+      "locales": {
+        "en": {
+          "name": "Cold Plunge"
+        },
+        "es": {
+          "name": "Pozo frío"
+        }
+      }
+    },
+    {
+      "base": {
+        "iconName": null,
+        "showInFilters": false,
+        "slug": "steam-room"
+      },
+      "convexId": "jn7dw853ezsj5gj6xf6te5gcpn85kxym",
+      "lastUpdated": "2026-05-01T05:05:26.197Z",
+      "locales": {
+        "en": {
+          "name": "Steam Room"
+        },
+        "es": {
+          "name": "Sala de vapor"
+        }
+      }
+    },
+    {
+      "base": {
+        "iconName": null,
+        "showInFilters": false,
+        "slug": "theater-room"
+      },
+      "convexId": "jn7esswnv5546m1yxfdabkgea585jzrs",
+      "lastUpdated": "2026-05-01T05:05:26.197Z",
+      "locales": {
+        "en": {
+          "name": "Theater Room"
+        },
+        "es": {
+          "name": "Sala de cine"
+        }
+      }
+    },
+    {
+      "base": {
+        "iconName": null,
+        "showInFilters": false,
+        "slug": "butler"
+      },
+      "convexId": "jn785xwma32ccwqp23911rkcds85k29g",
+      "lastUpdated": "2026-05-01T05:05:26.197Z",
+      "locales": {
+        "en": {
+          "name": "Butler"
+        },
+        "es": {
+          "name": "Mayordomo"
         }
       }
     }
