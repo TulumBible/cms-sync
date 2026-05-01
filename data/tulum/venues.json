@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-05-01T05:24:52.722Z",
+  "syncedAt": "2026-05-01T05:27:04.137Z",
   "citySlug": "tulum",
   "venues": [
     {
@@ -813,17 +813,25 @@
         "amenityIds": [],
         "area": "hotel-zone",
         "category": "beachclub",
-        "categoryIds": [],
+        "categoryIds": [
+          "k1730yn9cpwwv1df2e6h4fzvgd858txt"
+        ],
         "coordinates": null,
         "coverImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/53c4c012-a9c4-4a94-d929-6f0200f54700/public",
-        "coverImageAlt": null,
+        "coverImageAlt": "",
         "drinkMenuUrl": "https://uploads-ssl.webflow.com/6357fd6cab073f81a8eb1b51/6582356571ed673d2cdd6a3e_Bagatelle%20Spirits%20List.pdf",
         "faqIds": [],
         "foodMenuUrl": "https://uploads-ssl.webflow.com/6357fd6cab073f81a8eb1b51/658234ff9756358cb3c02118_Bagatelle%20Tulum%20Food%20Menu.pdf",
         "googleMapsCode": "5G3V+88 Esmeralda K",
         "googlePlaceId": null,
         "hideReservationForm": false,
-        "imageAlts": [],
+        "imageAlts": [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
         "imageUrls": [
           "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/53c4c012-a9c4-4a94-d929-6f0200f54700/public",
           "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/a2a3a418-c09d-4eb5-4a0f-5f18a986fa00/public",
@@ -837,9 +845,9 @@
         "openingHoursHtml": "<p>11:00 - 01:00</p><p>11:00 - 01:00</p><p>11:00 - 01:00</p><p>11:00 - 01:00</p><p>11:00 - 01:00</p><p>11:00 - 01:00</p><p>11:00 - 01:00</p>",
         "phone": null,
         "pricing": "$$$",
-        "promotion": null,
-        "publishedAt": "2026-04-26T01:08:54.761Z",
-        "reservationDisabledDays": null,
+        "promotion": "normal",
+        "publishedAt": "2026-05-01T05:24:35.044Z",
+        "reservationDisabledDays": "",
         "reservationMaxHours": 23,
         "reservationMinHours": 11,
         "reviewIds": [],
@@ -849,7 +857,7 @@
         "website": null
       },
       "convexId": "jh71fkmf2b1ddc1n0vjggg0c417qy4kb",
-      "lastUpdated": "2026-03-06T13:08:21.712Z",
+      "lastUpdated": "2026-05-01T05:26:46.534Z",
       "locales": {
         "en": {
           "address": "Carr. Tulum-Boca Paila 8, Tulum Beach, 77760 Q.R",
