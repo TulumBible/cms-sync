@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-06-10T05:48:14.652Z",
+  "syncedAt": "2026-06-10T05:49:52.192Z",
   "citySlug": "tulum",
   "venues": [
     {
@@ -748,20 +748,32 @@
     },
     {
       "base": {
-        "amenityIds": [],
+        "amenityIds": [
+          "jn72f5n145a7gcvx7evwc8yzws8588h6",
+          "jn71xzs8sx9ef304m6gjqmn5dh859d74",
+          "jn74axgjrqtsa18w8nxttnxfg5859e39"
+        ],
         "area": "hotel-zone",
         "category": "nightclub",
-        "categoryIds": [],
+        "categoryIds": [
+          "k1710avgvs681f7g1s67gk701x85960j"
+        ],
         "coordinates": null,
         "coverImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/13ee53e1-791e-4e71-ecdf-148fba86b400/public",
-        "coverImageAlt": null,
-        "drinkMenuUrl": null,
+        "coverImageAlt": "",
+        "drinkMenuUrl": "",
         "faqIds": [],
-        "foodMenuUrl": null,
+        "foodMenuUrl": "",
         "googleMapsCode": "5G3R+8W Tulum, Quintana Roo",
         "googlePlaceId": null,
         "hideReservationForm": false,
-        "imageAlts": [],
+        "imageAlts": [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
         "imageUrls": [
           "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/13ee53e1-791e-4e71-ecdf-148fba86b400/public",
           "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/5a955af8-00a5-4793-b6da-8f5db04b6b00/public",
@@ -775,18 +787,19 @@
         "openingHoursHtml": "<p>Closed</p><p>Closed</p><p>22:00 - 02:00</p><p>22:00 - 02:00</p><p>22:00 - 05:00</p><p>22:00 - 05:00</p><p>22:00 - 05:00</p>",
         "phone": null,
         "pricing": "$$",
-        "publishedAt": "2026-04-25T21:49:03.239Z",
+        "promotion": "normal",
+        "publishedAt": "2026-04-26T01:08:54.761Z",
         "reservationDisabledDays": "1,2",
         "reservationMaxHours": 3,
         "reservationMinHours": 22,
         "reviewIds": [],
-        "tableLayoutAlt": null,
+        "tableLayoutAlt": "",
         "tableLayoutUrl": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/2ccb4110-48b5-4589-8cd8-b1757b9e9400/public",
         "tags": [],
         "website": null
       },
       "convexId": "jh7bftnghstjsn114abapgpttd7qyxyq",
-      "lastUpdated": "2026-04-25T21:48:38.368Z",
+      "lastUpdated": "2026-06-10T05:49:41.078Z",
       "locales": {
         "en": {
           "address": "Carretera estatal Tulum - Boca Paila, Parcela 1744-A NCPE José María Pino Suárez, 77760 Tulum, Q.R.",
@@ -795,7 +808,8 @@
           "feesHtml": "<p id><strong id>Cover</strong> from 1000 MXN&nbsp;per person</p><p id><strong id>Bottle Service</strong> from 23000 MXN (Min Consumption) for 8pax</p>",
           "menuDescription": "",
           "name": "Bonbonniere",
-          "slug": "bonbonniere"
+          "slug": "bonbonniere",
+          "tableInformation": ""
         },
         "es": {
           "address": "Carretera estatal Tulum - Boca Paila, Parcela 1744-A NCPE José María Pino Suárez, 77760 Tulum, Q.R.",
@@ -804,7 +818,8 @@
           "feesHtml": "<p id=\"\"><strong id=\"\">Cubierta</strong> desde 1000 MXN por persona</p><p id=\"\"><strong id=\"\">Servicio de Botellas</strong> desde 23000 MXN (Consumo Min) para 8pax</p>",
           "menuDescription": "",
           "name": "Bonbonniere",
-          "slug": "bonbonniere"
+          "slug": "bonbonniere",
+          "tableInformation": ""
         }
       }
     },
