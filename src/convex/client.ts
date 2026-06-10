@@ -60,10 +60,28 @@ export interface FetchSnapshotOptions {
   includeDrafts?: boolean;
 }
 
+/** Total attempts per endpoint (1 initial + 2 retries). */
+const MAX_ATTEMPTS = 3;
+/** Base backoff between attempts; doubles each retry, plus jitter. */
+const BACKOFF_BASE_MS = 1_000;
+
+function sleep(ms: number): Promise<void> {
+  return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
+/** Thrown for responses that retrying can't fix (auth, bad request). */
+class NonRetryableError extends Error {}
+
 /**
  * Fetch one collection's snapshot for one city.
  *
- * Throws on missing env vars, non-2xx responses, or malformed JSON.
+ * Transient failures (network errors, 5xx, 429) are retried with
+ * exponential backoff + jitter — up to MAX_ATTEMPTS total — so a
+ * single TCP hiccup doesn't leave a collection stale until the next
+ * cron run. Other 4xx responses (bad key, bad request) fail fast:
+ * they won't heal on retry.
+ *
+ * Throws on missing env vars, exhausted retries, or malformed JSON.
  * The caller decides whether to bail on the whole sync or just log
  * and skip — `sync.ts` currently logs + skips per-collection so a
  * single broken endpoint doesn't starve the other 11.
@@ -92,6 +110,32 @@ export async function fetchSnapshot(
     url.searchParams.set("drafts", "1");
   }
 
+  let lastError: unknown;
+  for (let attempt = 1; attempt <= MAX_ATTEMPTS; attempt++) {
+    try {
+      return await fetchSnapshotOnce(url, key, collection, citySlug);
+    } catch (err) {
+      if (err instanceof NonRetryableError) throw err;
+      lastError = err;
+      if (attempt === MAX_ATTEMPTS) break;
+      const backoff =
+        BACKOFF_BASE_MS * 2 ** (attempt - 1) + Math.random() * 500;
+      console.warn(
+        `  retry ${attempt}/${MAX_ATTEMPTS - 1} for ${collection} (${citySlug}) ` +
+          `in ${Math.round(backoff)}ms — ${err instanceof Error ? err.message : err}`,
+      );
+      await sleep(backoff);
+    }
+  }
+  throw lastError;
+}
+
+async function fetchSnapshotOnce(
+  url: URL,
+  key: string,
+  collection: string,
+  citySlug: string,
+): Promise<SnapshotEnvelope> {
   // The Convex HTTP action already emits `Cache-Control: no-store`,
   // so responses aren't cached at the transport layer. Node's built-in
   // fetch doesn't expose a `cache` option in its `RequestInit` types
@@ -105,15 +149,20 @@ export async function fetchSnapshot(
 
   if (!res.ok) {
     const body = await res.text().catch(() => "<no body>");
-    throw new Error(
+    const message =
       `/cms-snapshot/${collection}?city=${citySlug}: ` +
-        `${res.status} ${res.statusText} — ${body.slice(0, 200)}`,
-    );
+      `${res.status} ${res.statusText} — ${body.slice(0, 200)}`;
+    // 5xx + 429 are transient; everything else 4xx is a config or
+    // contract problem that retrying can't fix.
+    if (res.status >= 500 || res.status === 429) {
+      throw new Error(message);
+    }
+    throw new NonRetryableError(message);
   }
 
   const parsed = (await res.json()) as SnapshotEnvelope;
   if (!parsed || typeof parsed !== "object" || !("syncedAt" in parsed)) {
-    throw new Error(
+    throw new NonRetryableError(
       `/cms-snapshot/${collection}?city=${citySlug}: response lacks envelope shape`,
     );
   }

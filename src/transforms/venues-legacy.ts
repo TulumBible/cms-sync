@@ -106,6 +106,12 @@ export interface LegacyLiteVenueLocale {
 }
 
 export interface LegacyLiteVenue {
+  /**
+   * The CMS's immutable Convex `_id`. Additive (2026-06): slugs are
+   * mutable in the CMS, so consumers should join on this instead of
+   * `slug`. Mirrors `webflowItemId` in the full shape.
+   */
+  convexId: string;
   slug: string;
   category: string | null;
   area: string | null;
@@ -202,6 +208,7 @@ export function toLegacyLiteVenue(
   if (!slug) return null;
 
   return {
+    convexId: row.convexId,
     slug,
     category: b.category ?? null,
     area: b.area ?? null,
