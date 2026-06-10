@@ -95,22 +95,29 @@ jobs:
           }
           echo "pushed=true" >> "$GITHUB_OUTPUT"
 
-      # Kick the Astro site's host (Cloudflare Pages / Vercel deploy
-      # hook — both are plain POST endpoints) so a data commit actually
-      # reaches production without waiting for the next push to the
-      # tulum-bible-astro repo. Only fires when data changed; silently
-      # skipped until the ASTRO_DEPLOY_HOOK_URL secret is configured.
+      # Kick the Astro site's build workflow (deploy.yml in
+      # TulumBible/tulum-bible-astro) so a data commit actually reaches
+      # the deployed site without waiting for that repo's next push or
+      # its daily cron. The Pages project is direct-upload — GitHub
+      # Actions is the build host, so the "deploy hook" is a
+      # repository_dispatch. Only fires when data changed; silently
+      # skipped until the ASTRO_DISPATCH_TOKEN secret is configured
+      # (fine-grained PAT: repo tulum-bible-astro, Contents read+write).
       - name: Trigger Astro rebuild
         if: steps.commit.outputs.pushed == 'true'
         env:
-          DEPLOY_HOOK_URL: ${{ secrets.ASTRO_DEPLOY_HOOK_URL }}
+          DISPATCH_TOKEN: ${{ secrets.ASTRO_DISPATCH_TOKEN }}
         run: |
-          if [ -z "$DEPLOY_HOOK_URL" ]; then
-            echo "ASTRO_DEPLOY_HOOK_URL secret not set; skipping rebuild trigger."
+          if [ -z "$DISPATCH_TOKEN" ]; then
+            echo "ASTRO_DISPATCH_TOKEN secret not set; skipping rebuild trigger."
             exit 0
           fi
-          curl -sS --fail-with-body -X POST "$DEPLOY_HOOK_URL" \
-            || echo "Deploy hook failed (non-fatal) — data is committed; the next Astro build will pick it up."
+          curl -sS --fail-with-body -X POST \
+            -H "Authorization: Bearer $DISPATCH_TOKEN" \
+            -H "Accept: application/vnd.github+json" \
+            https://api.github.com/repos/TulumBible/tulum-bible-astro/dispatches \
+            -d '{"event_type":"content-updated"}' \
+            || echo "Dispatch failed (non-fatal) — data is committed; the Astro daily cron will pick it up."
 
       # Report status back to Convex so the admin UI can show a green
       # dot + "synced X ago" with the commit SHA. Runs regardless of
