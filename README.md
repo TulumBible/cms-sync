@@ -32,7 +32,7 @@ Downstream consumers:
    - tulum-core         (reads venues-lite.json + venues-full.json, legacy shape)
 ```
 
-The HTTP contract the Convex side exposes is documented in [`events-management/convex/SNAPSHOT_CONTRACT.md`](https://github.com/CerkaB/events-management/blob/main/convex/SNAPSHOT_CONTRACT.md).
+The HTTP contract the Convex side exposes is documented in [`cms/convex/SNAPSHOT_CONTRACT.md`](https://github.com/TulumBible/cms/blob/main/convex/SNAPSHOT_CONTRACT.md).
 
 ## Multi-city architecture
 
@@ -144,7 +144,7 @@ Every `/cms-snapshot/*` file uses the same envelope:
 }
 ```
 
-Row shapes per collection are documented in [`events-management/convex/publish/snapshots.ts`](https://github.com/CerkaB/events-management/blob/main/convex/publish/snapshots.ts) — every row follows `{ convexId, base, locales: { en, es } }`.
+Row shapes per collection are documented in [`cms/convex/publish/snapshots.ts`](https://github.com/TulumBible/cms/blob/main/convex/publish/snapshots.ts) — every row follows `{ convexId, base, locales: { en, es } }`.
 
 ### Legacy — `venues-lite.json` + `venues-full.json`
 

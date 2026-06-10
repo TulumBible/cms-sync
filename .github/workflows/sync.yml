@@ -82,7 +82,17 @@ jobs:
             COMMIT_MSG="chore: sync all cities ($(date -u +%Y-%m-%dT%H:%MZ))"
           fi
           git commit -m "$COMMIT_MSG"
-          git push
+          # The workflow-level concurrency group serializes runs, but
+          # GitHub's check races when two dispatches land seconds apart
+          # (observed 2026-06-10: double-publish → both runs executed,
+          # second push rejected). On rejection, rebase onto the other
+          # run's commit keeping OUR files (-X theirs during a rebase
+          # favors the commits being replayed) — our snapshot was
+          # fetched later, so it is the fresher data — and retry once.
+          git push || {
+            git pull --rebase -X theirs origin main
+            git push
+          }
           echo "pushed=true" >> "$GITHUB_OUTPUT"
 
       # Kick the Astro site's host (Cloudflare Pages / Vercel deploy
