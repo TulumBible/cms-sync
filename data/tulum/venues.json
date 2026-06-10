@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-06-09T10:30:59.459Z",
+  "syncedAt": "2026-06-10T05:39:41.714Z",
   "citySlug": "tulum",
   "venues": [
     {
@@ -847,12 +847,12 @@
         ],
         "isClosed": false,
         "isFeatured": false,
-        "isFeaturedOnCoreTulum": false,
+        "isFeaturedOnCoreTulum": true,
         "openingHoursHtml": "<p>11:00 - 01:00</p><p>11:00 - 01:00</p><p>11:00 - 01:00</p><p>11:00 - 01:00</p><p>11:00 - 01:00</p><p>11:00 - 01:00</p><p>11:00 - 01:00</p>",
         "phone": null,
         "pricing": "$$$",
         "promotion": "editors-pick",
-        "publishedAt": "2026-05-01T05:44:32.825Z",
+        "publishedAt": "2026-06-10T05:39:26.890Z",
         "reservationDisabledDays": "",
         "reservationMaxHours": 23,
         "reservationMinHours": 11,
@@ -863,7 +863,7 @@
         "website": null
       },
       "convexId": "jh71fkmf2b1ddc1n0vjggg0c417qy4kb",
-      "lastUpdated": "2026-05-01T05:45:29.252Z",
+      "lastUpdated": "2026-06-10T05:39:26.561Z",
       "locales": {
         "en": {
           "address": "Carr. Tulum-Boca Paila 8, Tulum Beach, 77760 Q.R",
@@ -872,7 +872,8 @@
           "feesHtml": "",
           "menuDescription": "French Mediterranean dining created by Marco Estrada",
           "name": "Bagatelle Tulum",
-          "slug": "bagatelle-tulum"
+          "slug": "bagatelle-tulum",
+          "tableInformation": ""
         },
         "es": {
           "address": "Carr. Tulum-Boca Paila 8, Tulum Beach, 77760 Q.R",
@@ -881,7 +882,8 @@
           "feesHtml": "",
           "menuDescription": "French Mediterranean dining created by Marco Estrada",
           "name": "Bagatelle Tulum",
-          "slug": "bagatelle-tulum"
+          "slug": "bagatelle-tulum",
+          "tableInformation": ""
         }
       }
     },
