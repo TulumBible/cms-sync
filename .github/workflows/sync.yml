@@ -30,16 +30,19 @@ jobs:
   sync:
     runs-on: ubuntu-latest
     steps:
+      # Actions pinned to commit SHAs — these jobs hold INTERNAL_CMS_KEY
+      # and ASTRO_DISPATCH_TOKEN; a repointed floating tag would run
+      # attacker code with those in reach.
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4
 
       - name: Setup pnpm
-        uses: pnpm/action-setup@v4
+        uses: pnpm/action-setup@b906affcce14559ad1aafd4ab0e942779e9f58b1 # v4
         with:
           version: 9
 
       - name: Setup Node
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4
         with:
           node-version: 22
           cache: pnpm
@@ -67,33 +70,60 @@ jobs:
 
       - name: Commit changes
         id: commit
+        env:
+          # Never interpolate ${{ inputs.* }} into the script body —
+          # classic Actions script injection. Env-pass instead.
+          CITY_SLUG_INPUT: ${{ inputs.citySlug }}
+          # The push-race retry below re-runs `pnpm sync`, which needs
+          # the same env as the Run sync step.
+          CONVEX_SITE_URL: ${{ secrets.CONVEX_SITE_URL }}
+          INTERNAL_CMS_KEY: ${{ secrets.INTERNAL_CMS_KEY }}
+          SYNC_ONLY_CITY: ${{ inputs.citySlug }}
+          SYNC_INCLUDE_DRAFTS: ${{ inputs.includeDrafts && '1' || '' }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/
-          if git diff --staged --quiet; then
+
+          commit_data() {
+            git add data/
+            if git diff --staged --quiet; then return 1; fi
+            if [ -n "$CITY_SLUG_INPUT" ]; then
+              COMMIT_MSG="chore: sync $CITY_SLUG_INPUT ($(date -u +%Y-%m-%dT%H:%MZ))"
+            else
+              COMMIT_MSG="chore: sync all cities ($(date -u +%Y-%m-%dT%H:%MZ))"
+            fi
+            git commit -m "$COMMIT_MSG"
+          }
+
+          if ! commit_data; then
             echo "No changes to commit"
             echo "pushed=false" >> "$GITHUB_OUTPUT"
             exit 0
           fi
-          if [ -n "${{ inputs.citySlug }}" ]; then
-            COMMIT_MSG="chore: sync ${{ inputs.citySlug }} ($(date -u +%Y-%m-%dT%H:%MZ))"
-          else
-            COMMIT_MSG="chore: sync all cities ($(date -u +%Y-%m-%dT%H:%MZ))"
+
+          if git push; then
+            echo "pushed=true" >> "$GITHUB_OUTPUT"
+            exit 0
           fi
-          git commit -m "$COMMIT_MSG"
-          # The workflow-level concurrency group serializes runs, but
-          # GitHub's check races when two dispatches land seconds apart
-          # (observed 2026-06-10: double-publish → both runs executed,
-          # second push rejected). On rejection, rebase onto the other
-          # run's commit keeping OUR files (-X theirs during a rebase
-          # favors the commits being replayed) — our snapshot was
-          # fetched later, so it is the fresher data — and retry once.
-          git push || {
-            git pull --rebase -X theirs origin main
+
+          # Push race: another run landed first (GitHub's concurrency
+          # check races when two dispatches arrive seconds apart —
+          # observed 2026-06-10). Merging stale local files (the old
+          # `-X theirs` rebase) could clobber the other run's snapshot
+          # for cities it fetched later. Don't merge at all: reset onto
+          # the winner and RE-RUN the sync — regenerated output on top
+          # of the new base is fresh for every city by construction.
+          echo "Push rejected — re-syncing on top of the other run's commit."
+          git fetch origin main
+          git reset --hard origin/main
+          pnpm sync
+          if commit_data; then
             git push
-          }
-          echo "pushed=true" >> "$GITHUB_OUTPUT"
+            echo "pushed=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "Re-sync produced no delta over the other run's commit."
+            echo "pushed=false" >> "$GITHUB_OUTPUT"
+          fi
 
       # Kick the Astro site's build workflow (deploy.yml in
       # TulumBible/tulum-bible-astro) so a data commit actually reaches
