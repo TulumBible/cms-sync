@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-06-10T19:46:20.135Z",
+  "syncedAt": "2026-06-11T04:36:29.621Z",
   "citySlug": "tulum",
   "events": [
     {
@@ -1909,6 +1909,57 @@
           "description": "",
           "name": "Tequila Av Eventshugel - by Tequila Av @riu Party Cancún",
           "slug": "",
+          "tableInformation": ""
+        }
+      }
+    },
+    {
+      "base": {
+        "buyLink": null,
+        "categoryIds": [],
+        "cta": "Tickets",
+        "endDate": "2026-07-11T02:30",
+        "eventType": null,
+        "faqIds": [],
+        "flyerAlt": null,
+        "flyerUrl": "https://www.ticketfairy.com/uploaded/public/6a21eb27efaef9.29122848.jpeg",
+        "gaLink": null,
+        "gaPrice": null,
+        "isFeatured": false,
+        "isPublished": true,
+        "noPrice": false,
+        "promotion": "normal",
+        "publishedAt": null,
+        "qrCode": null,
+        "startDate": "2026-07-10T18:00",
+        "status": "Live",
+        "tableLayout": null,
+        "tbeId": "TBE_DV2F5Z",
+        "ticketPrice": null,
+        "ticketTiers": null,
+        "time": null,
+        "url": "https://www.ticketfairy.com/r/4swdeuob",
+        "venueLookupKey": null,
+        "venueName": "Gitano Jungle Tulum",
+        "venueSlug": null,
+        "vipLink": null,
+        "vipPrice": null
+      },
+      "convexId": "j570r08w0c7q4sm9bkkdqn4gq988f3aa",
+      "lastUpdated": "2026-06-11T04:34:09.517Z",
+      "locales": {
+        "en": {
+          "body": "",
+          "description": "",
+          "name": "GYPSY DISCO PARTY | SPECIAL EDITION TBA",
+          "slug": "gypsy-disco-party-special-edition-tba-10jul2026",
+          "tableInformation": ""
+        },
+        "es": {
+          "body": "",
+          "description": "",
+          "name": "GYPSY DISCO PARTY | SPECIAL EDITION TBA",
+          "slug": "gypsy-disco-party-special-edition-tba-10jul2026",
           "tableInformation": ""
         }
       }
