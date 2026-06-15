@@ -39,6 +39,10 @@ export const COLLECTIONS: readonly CollectionDef[] = [
   { slug: "yachts", filename: "yachts.json", publishable: true },
   { slug: "villas", filename: "villas.json", publishable: true },
   { slug: "legals", filename: "legals.json", publishable: true },
+  // Transportation — transfer routes + a reusable vehicle catalog.
+  // Routes reference vehicles by id; both emitted per-city.
+  { slug: "transport-routes", filename: "transport-routes.json", publishable: true },
+  { slug: "transport-vehicles", filename: "transport-vehicles.json", publishable: true },
   // Non-publishable — active redirects only, no draft mode.
   { slug: "redirects", filename: "redirects.json", publishable: false },
 ] as const;
