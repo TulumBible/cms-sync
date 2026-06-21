@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-06-21T17:54:19.968Z",
+  "syncedAt": "2026-06-21T19:38:57.155Z",
   "citySlug": "tulum",
   "villas": [
     {
@@ -11,12 +11,14 @@
           "jn759h6mpgpqbe74w1z2sbj4r585k9x3",
           "jn78c0kww3ghntsrs0x74x0whx85j8ft"
         ],
+        "area": null,
         "bathrooms": "5",
         "bedrooms": "5",
         "beds": "6",
+        "category": "villa",
         "categoryIds": [],
         "faqIds": [],
-        "googleMapsCode": "<iframe src=\"https://maps.google.com/maps?q=20.2001531,-87.4714437&z=16&output=embed\" width=\"100%\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+        "googleMapsCode": "6G2H+3C Tulum, Quintana Roo",
         "mainImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/dd5b37e6-d424-460b-bad2-9c3566bb4200/public",
         "mainImageAlt": null,
         "otherImages": [
@@ -31,6 +33,7 @@
           "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/e1aba69b-7c43-4193-ab20-77e10c724d00/public"
         ],
         "otherImagesAlts": [],
+        "pricePerNight": null,
         "reviewIds": [],
         "secondImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/76ce1269-ff83-44a0-f2ff-fc7220af6900/public",
         "secondImageAlt": null,
@@ -39,7 +42,7 @@
         "thirdImageAlt": null
       },
       "convexId": "kh75f076g7q0ycm4b17x5xc7s985jgxd",
-      "lastUpdated": "2026-04-26T02:35:34.248Z",
+      "lastUpdated": "2026-06-21T18:12:01.668Z",
       "locales": {
         "en": {
           "body": "<h1>Soulbox Villa</h1>\n<p>A five-bedroom retreat sleeping twelve — designed for groups that want full privacy and full amenity in one place. Every bedroom has its own ensuite bathroom; the social heart of the property runs from the luxury kitchen to a covered tiki bar and a large pool, with an outdoor gym tucked into the grounds.</p>\n<h2>Bedrooms</h2>\n<ul>\n  <li><strong>Bedroom 1</strong> — Two queen beds with ensuite bathroom</li>\n  <li><strong>Bedroom 2</strong> — King bed with ensuite bathroom</li>\n  <li><strong>Bedroom 3</strong> — King bed with ensuite bathroom</li>\n  <li><strong>Bedroom 4</strong> — King bed with ensuite bathroom</li>\n  <li><strong>Bedroom 5</strong> — King bed with ensuite bathroom (includes bathtub)</li>\n</ul>\n<h2>Property features</h2>\n<ul>\n  <li>Luxury kitchen</li>\n  <li>Tiki bar</li>\n  <li>Large pool</li>\n  <li>Outdoor gym</li>\n</ul>\n<h2>Included services</h2>\n<ul>\n  <li>Concierge</li>\n</ul>",
@@ -68,12 +71,14 @@
           "jn74axgjrqtsa18w8nxttnxfg5859e39",
           "jn78c0kww3ghntsrs0x74x0whx85j8ft"
         ],
+        "area": null,
         "bathrooms": "9",
         "bedrooms": "9",
         "beds": "14",
+        "category": "villa",
         "categoryIds": [],
         "faqIds": [],
-        "googleMapsCode": "<iframe src=\"https://maps.google.com/maps?q=20.181745529174805,-87.47398376464844&z=16&output=embed\" width=\"100%\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+        "googleMapsCode": "5GJG+MC Tulum, Quintana Roo",
         "mainImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/9f31bb9e-33d1-46d5-8415-63a3a5b61500/public",
         "mainImageAlt": null,
         "otherImages": [
@@ -88,6 +93,7 @@
           "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/9aea8ab4-6f68-4842-bd7e-c5f89f5e9300/public"
         ],
         "otherImagesAlts": [],
+        "pricePerNight": null,
         "reviewIds": [],
         "secondImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/c64a79c4-d25f-4e6a-9e4d-557f7f950300/public",
         "secondImageAlt": null,
@@ -96,7 +102,7 @@
         "thirdImageAlt": null
       },
       "convexId": "kh733d1hqw42ghtv1ycdb1sgbh85kja2",
-      "lastUpdated": "2026-04-26T02:51:00.680Z",
+      "lastUpdated": "2026-06-21T18:12:01.668Z",
       "locales": {
         "en": {
           "body": "<h1>Villa Seremonia</h1>\n<p>A nine-bedroom estate in north Tulum (Región 15) sleeping twenty-eight. Built for groups that want both shared experiences and private retreats — every bedroom has its own ensuite, while the main pool, indoor/outdoor kitchen, dining, and bar areas pull the property together. Hidden underneath: an underground speakeasy.</p>\n<h2>Bedrooms</h2>\n<ul>\n  <li><strong>Bedrooms 1–4</strong> — One king bed, ensuite bathroom (×4)</li>\n  <li><strong>Bedrooms 5–9</strong> — Two queen beds, ensuite bathroom (×5)</li>\n</ul>\n<h2>Property features</h2>\n<ul>\n  <li>Main outdoor pool</li>\n  <li>Three private plunge pools</li>\n  <li>Indoor/outdoor kitchen, dining, and social area</li>\n  <li>Lounge with 80″ smart TV</li>\n  <li>Bar area</li>\n  <li>Six queen daybeds</li>\n  <li>Underground speakeasy</li>\n  <li>Pizza oven</li>\n  <li>Yoga area</li>\n  <li>Complimentary access to the public gym next door</li>\n</ul>\n<h2>Included services</h2>\n<ul>\n  <li>Private chef</li>\n  <li>Concierge</li>\n  <li>Daily housekeeping</li>\n  <li>Nighttime security</li>\n</ul>",
@@ -121,12 +127,14 @@
           "jn78c0kww3ghntsrs0x74x0whx85j8ft",
           "jn705g0j2n2cepzkmt4gd3jxr585kbvm"
         ],
+        "area": null,
         "bathrooms": "6",
         "bedrooms": "6",
         "beds": "8",
+        "category": "villa",
         "categoryIds": [],
         "faqIds": [],
-        "googleMapsCode": "<iframe src=\"https://maps.google.com/maps?q=20.2020797,-87.4559133&z=16&output=embed\" width=\"100%\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+        "googleMapsCode": "6G2V+RJ Tulum, Quintana Roo",
         "mainImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/c583f10d-1c9e-41b4-1b40-2d83c49dff00/public",
         "mainImageAlt": null,
         "otherImages": [
@@ -141,6 +149,7 @@
           "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/294d6ef3-6d8e-46b3-c58f-71a15c59b500/public"
         ],
         "otherImagesAlts": [],
+        "pricePerNight": null,
         "reviewIds": [],
         "secondImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/23d02a59-e72f-4a34-a8b5-a24e25adeb00/public",
         "secondImageAlt": null,
@@ -149,7 +158,7 @@
         "thirdImageAlt": null
       },
       "convexId": "kh7dk3ax48s2zsa05fv2p0vmz985kesj",
-      "lastUpdated": "2026-04-26T03:10:20.853Z",
+      "lastUpdated": "2026-06-21T18:12:01.668Z",
       "locales": {
         "en": {
           "body": "<h1>Casa Boko</h1>\n<p>A six-bedroom retreat in the heart of Aldea Zama, sleeping sixteen. Designed for groups that want to entertain — a stunning rooftop pool sits at the top of the property, with a dedicated event space and connected indoor/outdoor dining areas at ground level.</p>\n<h2>Bedrooms</h2>\n<ul>\n  <li><strong>Bedrooms 1–2</strong> — King bed with bathtub, ensuite bathroom (×2)</li>\n  <li><strong>Bedrooms 3–4</strong> — King bed, ensuite bathroom (×2)</li>\n  <li><strong>Bedrooms 5–6</strong> — Two queen beds, ensuite bathroom (×2)</li>\n</ul>\n<h2>Property features</h2>\n<ul>\n  <li>Stunning rooftop pool</li>\n  <li>Dedicated event space</li>\n  <li>Indoor and outdoor dining areas</li>\n</ul>\n<h2>Included services</h2>\n<ul>\n  <li>Daily housekeeping</li>\n  <li>Dedicated concierge</li>\n</ul>",
@@ -173,9 +182,11 @@
           "jn78c0kww3ghntsrs0x74x0whx85j8ft",
           "jn705g0j2n2cepzkmt4gd3jxr585kbvm"
         ],
+        "area": null,
         "bathrooms": "5",
         "bedrooms": "6",
         "beds": "9",
+        "category": "villa",
         "categoryIds": [],
         "faqIds": [],
         "googleMapsCode": "<iframe src=\"https://maps.google.com/maps?q=Casa+Shalva,+Aldea+Zama,+77760+Tulum,+Q.R.&z=16&output=embed\" width=\"100%\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
@@ -193,6 +204,7 @@
           "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/c24bc75f-3271-4862-004e-4a63aaabe000/public"
         ],
         "otherImagesAlts": [],
+        "pricePerNight": null,
         "reviewIds": [],
         "secondImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/9127d16e-6595-429d-fa34-98d59bc95800/public",
         "secondImageAlt": null,
@@ -224,9 +236,11 @@
           "jn78c0kww3ghntsrs0x74x0whx85j8ft",
           "jn705g0j2n2cepzkmt4gd3jxr585kbvm"
         ],
+        "area": null,
         "bathrooms": "4",
         "bedrooms": "4",
         "beds": "4",
+        "category": "villa",
         "categoryIds": [],
         "faqIds": [],
         "googleMapsCode": "<iframe src=\"https://maps.google.com/maps?q=Casa+Aviv,+Aldea+Zama,+77760+Tulum,+Q.R.&z=16&output=embed\" width=\"100%\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
@@ -244,6 +258,7 @@
           "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/6eb56dbc-3078-4033-5de1-d49bb2efbd00/public"
         ],
         "otherImagesAlts": [],
+        "pricePerNight": null,
         "reviewIds": [],
         "secondImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/b9df6432-cfac-49bc-a63f-9982bd468e00/public",
         "secondImageAlt": null,
@@ -284,9 +299,11 @@
           "jn705g0j2n2cepzkmt4gd3jxr585kbvm",
           "jn759h6mpgpqbe74w1z2sbj4r585k9x3"
         ],
+        "area": null,
         "bathrooms": "12",
         "bedrooms": "12",
         "beds": "22",
+        "category": "villa",
         "categoryIds": [],
         "faqIds": [],
         "googleMapsCode": "<iframe src=\"https://maps.google.com/maps?q=Casa+Luna+Tulum+Mansion&z=16&output=embed\" width=\"100%\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
@@ -309,6 +326,7 @@
           "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/33991e10-b6ea-4d8d-d9c3-4c649e181500/public"
         ],
         "otherImagesAlts": [],
+        "pricePerNight": null,
         "reviewIds": [],
         "secondImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/9a56c917-35ae-4bad-4ff2-9bebd0a15c00/public",
         "secondImageAlt": null,
