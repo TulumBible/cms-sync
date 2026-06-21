@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-06-21T10:26:27.034Z",
+  "syncedAt": "2026-06-21T17:52:27.713Z",
   "citySlug": "tulum",
   "venues": [
     {
@@ -63,7 +63,6 @@
         "amenityIds": [],
         "area": "Lagoon Nopalitos",
         "category": "lagoon",
-        "categoryIds": [],
         "coordinates": null,
         "coverImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/231dc16c-5807-490e-f132-b35494a73900/public",
         "coverImageAlt": null,
@@ -87,10 +86,9 @@
         "openingHoursHtml": "<p id=\"\">10:30 - 19:00</p><p id=\"\">10:30 - 19:00</p><p id=\"\">10:30 - 19:00</p><p id=\"\">10:30 - 19:00</p><p id=\"\">10:30 - 19:00</p><p id=\"\">10:30 - 19:00</p><p id=\"\">10:30 - 19:00</p>",
         "phone": null,
         "pricing": "$$$",
-        "publishedAt": "2026-04-25T21:49:03.239Z",
+        "promotion": null,
+        "publishedAt": "2026-04-26T01:08:54.761Z",
         "reservationDisabledDays": null,
-        "reservationMaxHours": 17,
-        "reservationMinHours": 11,
         "reviewIds": [],
         "tableLayoutAlt": null,
         "tableLayoutUrl": null,
@@ -107,7 +105,8 @@
           "feesHtml": "<p>Cover - 300 MXN</p>",
           "menuDescription": "",
           "name": "Neek Tulum",
-          "slug": "neek-tulum"
+          "slug": "neek-tulum",
+          "tableInformation": ""
         },
         "es": {
           "address": "Parcela 1213-Z1/1, Jose Maria Pino Suarez, 77156 Q.R.",
@@ -116,7 +115,8 @@
           "feesHtml": "<p>Cover - 300 MXN</p>",
           "menuDescription": "",
           "name": "Neek Tulum",
-          "slug": "neek-tulum"
+          "slug": "neek-tulum",
+          "tableInformation": ""
         }
       }
     },
