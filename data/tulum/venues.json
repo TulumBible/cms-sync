@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-06-21T23:58:03.973Z",
+  "syncedAt": "2026-06-21T23:58:25.058Z",
   "citySlug": "tulum",
   "venues": [
     {
@@ -953,14 +953,20 @@
         "category": "beachclub",
         "coordinates": null,
         "coverImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/ee31b325-a36a-4abb-b735-b307ee418400/public",
-        "coverImageAlt": null,
+        "coverImageAlt": "",
         "drinkMenuUrl": "https://www.papayaplayaproject.com/eat-and-drink/menus/main-restaurant-and-beach-club#drinks",
         "faqIds": [],
         "foodMenuUrl": "https://www.papayaplayaproject.com/eat-and-drink/menus/main-restaurant-and-beach-club#breakfast",
         "googleMapsCode": "5HJ3+GX Tulum, Quintana Roo",
         "googlePlaceId": null,
-        "hideReservationForm": false,
-        "imageAlts": [],
+        "hideReservationForm": true,
+        "imageAlts": [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
         "imageUrls": [
           "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/ee31b325-a36a-4abb-b735-b307ee418400/public",
           "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/0b6df04e-1e04-4ac6-562a-fbceb82be200/public",
@@ -968,16 +974,16 @@
           "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/3f519e4d-1143-4c50-341c-041243720c00/public",
           "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/606f13e9-63b5-4973-0585-ee3c8c438f00/public"
         ],
-        "isClosed": true,
+        "isClosed": false,
         "isFeatured": false,
         "isFeaturedOnCoreTulum": false,
         "openingHoursHtml": "<p>10:00 - 18:00</p><p>10:00 - 18:00</p><p>10:00 - 18:00</p><p>10:00 - 18:00</p><p>10:00 - 18:00</p><p>10:00 - 03:00</p><p>10:00 - 18:00</p>",
         "phone": null,
         "pricing": "$$$",
         "priority": 5,
-        "promotion": null,
+        "promotion": "normal",
         "publishedAt": "2026-04-26T01:08:54.761Z",
-        "reservationDisabledDays": null,
+        "reservationDisabledDays": "",
         "reviewIds": [],
         "tableLayoutAlt": null,
         "tableLayoutUrl": null,
@@ -985,13 +991,13 @@
         "website": null
       },
       "convexId": "jh72qvc4pqgb77j2kja14r0ez17qy75p",
-      "lastUpdated": "2026-03-06T13:08:21.883Z",
+      "lastUpdated": "2026-06-21T23:58:12.263Z",
       "locales": {
         "en": {
           "address": "",
           "body": "<h3 id=\"\">A Sustainable Tulum Sanctuary</h3><p id=\"\">Papaya Playa Project (PPP) is more than just a hotel and beach club—it's a haven where Tulum's natural beauty and eco-conscious spirit come together. Located along one of the longest stretches of Tulum's coastline, PPP blends sustainable luxury with the raw energy of the jungle and sea, offering guests a unique escape that harmonizes with nature.</p><h3 id=\"\">Embrace the Rhythm of Tulum</h3><p id=\"\">Relax on beachfront loungers, join rejuvenating yoga classes, or indulge in holistic spa treatments at PPP. As the sun sets, the atmosphere transforms with local and international DJs curating soulful sounds for intimate gatherings. The blend of tranquility and vibrant energy creates an ambiance that resonates with the true essence of Tulum.</p><h3 id=\"\">Where Celebration Meets Consciousness</h3><p id=\"\">Papaya Playa Project has a rich history of hosting significant events. Their \"Gratitude Season\" featured major artists like Monolink, WhoMadeWho, Âme, and Dixon. Today, their signature \"Full Moon Party\" takes place on Saturdays, offering magical nights of connection and celebration under the moonlight. With a new events team eager to enhance the experience and bring the community together, PPP continues to elevate Tulum's social scene.</p><h3 id=\"\">Exclusive Luxury and Peace of Mind</h3><p id=\"\">As one of the most upscale destinations in Tulum, Papaya Playa Project offers an exclusive experience that reflects its commitment to quality and sustainability. While it is among the pricier options—with entry prices generally higher than other beach clubs—the exceptional service, amenities, and attention to detail make it worthwhile. Guests also appreciate the secure and comfortable environment that PPP provides, allowing them to relax and enjoy their stay with peace of mind.</p><h3 id=\"\">Discover the Essence of Tulum</h3><p id=\"\">Papaya Playa Project invites you to experience a different side of Tulum, one rooted in sustainability, authenticity, and a profound connection with nature. Join the Papaya Playa community and create memories that will resonate long after your stay.</p>",
           "description": "Papaya Playa Project, together with Design Hotels™, has set out to discover a new form of hospitality, merging local culture, and sustainability to set the stage for original and aspirational hospitality experiences.",
-          "feesHtml": "<p id=\"\"><strong id=\"\">Event Tickets:</strong> from 1320 MXN, </p><p id=\"\">‍<strong id=\"\">Min Consumption for Sunbed:</strong> 1000 MXN (Per Person)</p><p id=\"\"><strong id=\"\">Bottle Service:</strong> Vip Table Prices depend on the event, message us for quotes.</p>",
+          "feesHtml": "<p></p>",
           "menuDescription": "The just created menu by Edher Cervantes honors Mexico’s two peninsulas. The Yucatan and Baja California.",
           "name": "Papaya Playa Project",
           "slug": "papaya-playa-project",
