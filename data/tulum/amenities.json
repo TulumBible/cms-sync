@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-06-21T20:00:20.506Z",
+  "syncedAt": "2026-06-21T20:51:20.452Z",
   "citySlug": "tulum",
   "amenities": [
     {
@@ -9,13 +9,13 @@
         "slug": "valet-parking"
       },
       "convexId": "jn72f5n145a7gcvx7evwc8yzws8588h6",
-      "lastUpdated": "2026-06-21T20:00:06.695Z",
+      "lastUpdated": "2026-06-21T20:51:06.937Z",
       "locales": {
         "en": {
           "name": "Valet Parking"
         },
         "es": {
-          "name": "Valet Parking"
+          "name": "Valet parking"
         }
       }
     },
@@ -26,7 +26,7 @@
         "slug": "spa"
       },
       "convexId": "jn7dnm1kp63ahnqvjhhyz7944d859qpv",
-      "lastUpdated": "2026-06-21T20:00:06.695Z",
+      "lastUpdated": "2026-06-21T20:51:06.937Z",
       "locales": {
         "en": {
           "name": "Spa"
@@ -43,13 +43,13 @@
         "slug": "rooms"
       },
       "convexId": "jn70zdmazn719gygc3k7335zxn859dvw",
-      "lastUpdated": "2026-06-21T20:00:06.695Z",
+      "lastUpdated": "2026-06-21T20:51:06.937Z",
       "locales": {
         "en": {
           "name": "Rooms"
         },
         "es": {
-          "name": "Rooms"
+          "name": "Habitaciones"
         }
       }
     },
@@ -60,7 +60,7 @@
         "slug": "rooftop"
       },
       "convexId": "jn77s3v89mkdcb9d9yydgsx3vd858sbk",
-      "lastUpdated": "2026-06-21T20:00:06.695Z",
+      "lastUpdated": "2026-06-21T20:51:06.937Z",
       "locales": {
         "en": {
           "name": "Rooftop"
@@ -77,13 +77,13 @@
         "slug": "restaurant"
       },
       "convexId": "jn785e6n78fzxfq3e6yc4z206s858vs7",
-      "lastUpdated": "2026-06-21T20:00:06.695Z",
+      "lastUpdated": "2026-06-21T20:51:06.937Z",
       "locales": {
         "en": {
           "name": "Restaurant"
         },
         "es": {
-          "name": "Restaurant"
+          "name": "Restaurante"
         }
       }
     },
@@ -94,13 +94,13 @@
         "slug": "pool"
       },
       "convexId": "jn796fkb2npe38c126gkzmhe85858yf5",
-      "lastUpdated": "2026-06-21T20:00:06.695Z",
+      "lastUpdated": "2026-06-21T20:51:06.937Z",
       "locales": {
         "en": {
           "name": "Pool"
         },
         "es": {
-          "name": "Pool"
+          "name": "Alberca"
         }
       }
     },
@@ -111,13 +111,13 @@
         "slug": "pet-friendly"
       },
       "convexId": "jn78wp2bkm0sv6aber490necah858phw",
-      "lastUpdated": "2026-06-21T20:00:06.695Z",
+      "lastUpdated": "2026-06-21T20:51:06.937Z",
       "locales": {
         "en": {
           "name": "Pet Friendly"
         },
         "es": {
-          "name": "Pet Friendly"
+          "name": "Pet friendly"
         }
       }
     },
@@ -128,13 +128,13 @@
         "slug": "nightclub"
       },
       "convexId": "jn71xzs8sx9ef304m6gjqmn5dh859d74",
-      "lastUpdated": "2026-06-21T20:00:06.695Z",
+      "lastUpdated": "2026-06-21T20:51:06.937Z",
       "locales": {
         "en": {
           "name": "Nightclub"
         },
         "es": {
-          "name": "Nightclub"
+          "name": "Antro"
         }
       }
     },
@@ -145,13 +145,13 @@
         "slug": "no-min-consumption"
       },
       "convexId": "jn70tb3pfy3yycjzk8ke3pgtrs8585z7",
-      "lastUpdated": "2026-06-21T20:00:06.695Z",
+      "lastUpdated": "2026-06-21T20:51:06.937Z",
       "locales": {
         "en": {
           "name": "No Min. Consumption"
         },
         "es": {
-          "name": "No Min. Consumption"
+          "name": "Sin consumo mínimo"
         }
       }
     },
@@ -162,7 +162,7 @@
         "slug": "bar"
       },
       "convexId": "jn74axgjrqtsa18w8nxttnxfg5859e39",
-      "lastUpdated": "2026-06-21T20:00:06.695Z",
+      "lastUpdated": "2026-06-21T20:51:06.937Z",
       "locales": {
         "en": {
           "name": "Bar"
@@ -179,13 +179,13 @@
         "slug": "wifi"
       },
       "convexId": "jn76cg9jqcvq6gh3xwf0cj2c2s859sx2",
-      "lastUpdated": "2026-06-21T20:00:06.695Z",
+      "lastUpdated": "2026-06-21T20:51:06.937Z",
       "locales": {
         "en": {
           "name": "Great Wifi"
         },
         "es": {
-          "name": "Great Wifi"
+          "name": "Wifi"
         }
       }
     },
@@ -196,13 +196,13 @@
         "slug": "free-parking"
       },
       "convexId": "jn70zn5gpwjkfxwnbkd4948rv5859d8d",
-      "lastUpdated": "2026-06-21T20:00:06.695Z",
+      "lastUpdated": "2026-06-21T20:51:06.937Z",
       "locales": {
         "en": {
           "name": "Free Parking"
         },
         "es": {
-          "name": "Free Parking"
+          "name": "Estacionamiento gratis"
         }
       }
     },
@@ -213,13 +213,13 @@
         "slug": "card-only"
       },
       "convexId": "jn73wn3mp1p288pg1ae5sq9k6h8581b5",
-      "lastUpdated": "2026-06-21T20:00:06.695Z",
+      "lastUpdated": "2026-06-21T20:51:06.937Z",
       "locales": {
         "en": {
           "name": "Card Only"
         },
         "es": {
-          "name": "Card Only"
+          "name": "Solo tarjeta"
         }
       }
     },
@@ -400,13 +400,13 @@
         "slug": "cold-plunge"
       },
       "convexId": "jn72g2rwy1fpwjhq9pjfzd4fdh85ke31",
-      "lastUpdated": "2026-06-21T20:00:06.695Z",
+      "lastUpdated": "2026-06-21T20:51:06.937Z",
       "locales": {
         "en": {
           "name": "Cold Plunge"
         },
         "es": {
-          "name": "Pozo frío"
+          "name": "Alberca fría"
         }
       }
     },
