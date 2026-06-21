@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-06-21T23:21:26.031Z",
+  "syncedAt": "2026-06-21T23:21:41.566Z",
   "citySlug": "tulum",
   "venues": [
     {
@@ -1067,14 +1067,20 @@
         "category": "beachclub",
         "coordinates": null,
         "coverImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/5a115a06-9a35-45fb-db4f-986fca6dba00/public",
-        "coverImageAlt": null,
-        "drinkMenuUrl": null,
+        "coverImageAlt": "",
+        "drinkMenuUrl": "",
         "faqIds": [],
         "foodMenuUrl": "https://uploads-ssl.webflow.com/6357fd6cab073f81a8eb1b51/64fbd28bad4bc0f51d01c81a_menu-ING-taman%CC%83oCarta.pdf",
         "googleMapsCode": "5G3V+XC Tulum, Quintana Roo",
         "googlePlaceId": null,
         "hideReservationForm": false,
-        "imageAlts": [],
+        "imageAlts": [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
         "imageUrls": [
           "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/5a115a06-9a35-45fb-db4f-986fca6dba00/public",
           "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/a90276fa-3989-4fa0-597f-271b41e3bf00/public",
@@ -1089,9 +1095,9 @@
         "phone": null,
         "pricing": "$$",
         "priority": 5,
-        "promotion": null,
+        "promotion": "normal",
         "publishedAt": "2026-04-26T01:08:54.761Z",
-        "reservationDisabledDays": null,
+        "reservationDisabledDays": "",
         "reviewIds": [],
         "tableLayoutAlt": null,
         "tableLayoutUrl": null,
@@ -1099,7 +1105,7 @@
         "website": null
       },
       "convexId": "jh71wfpc46ysmqy16eme40ke857qzqg4",
-      "lastUpdated": "2026-03-06T13:08:22.215Z",
+      "lastUpdated": "2026-06-21T23:21:26.247Z",
       "locales": {
         "en": {
           "address": "Hotel Selina los Lirios, Carr. Tulum-Boca Paila KM 7.5-Interior, Tulum Beach, Punta Piedra, 77780 Tulum, Q.R.",
