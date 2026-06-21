@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-06-21T20:51:20.041Z",
+  "syncedAt": "2026-06-21T23:03:22.070Z",
   "citySlug": "tulum",
   "venues": [
     {
@@ -7,7 +7,6 @@
         "amenityIds": [],
         "area": "hotel-zone",
         "category": "beachclub",
-        "categoryIds": [],
         "coordinates": null,
         "coverImage": null,
         "coverImageAlt": null,
@@ -25,10 +24,10 @@
         "openingHoursHtml": "",
         "phone": null,
         "pricing": "$$",
-        "publishedAt": "2026-04-25T21:49:03.239Z",
+        "priority": 5,
+        "promotion": null,
+        "publishedAt": "2026-04-26T01:08:54.761Z",
         "reservationDisabledDays": "",
-        "reservationMaxHours": null,
-        "reservationMinHours": null,
         "reviewIds": [],
         "tableLayoutAlt": null,
         "tableLayoutUrl": null,
@@ -45,7 +44,8 @@
           "feesHtml": "",
           "menuDescription": "",
           "name": "Umi Tulum",
-          "slug": "umi"
+          "slug": "umi",
+          "tableInformation": ""
         },
         "es": {
           "address": "",
@@ -54,7 +54,8 @@
           "feesHtml": "",
           "menuDescription": "",
           "name": "Umi Tulum",
-          "slug": "umi"
+          "slug": "umi",
+          "tableInformation": ""
         }
       }
     },
@@ -97,8 +98,9 @@
         "openingHoursHtml": "<p id=\"\">10:30 - 19:00</p><p id=\"\">10:30 - 19:00</p><p id=\"\">10:30 - 19:00</p><p id=\"\">10:30 - 19:00</p><p id=\"\">10:30 - 19:00</p><p id=\"\">10:30 - 19:00</p><p id=\"\">10:30 - 19:00</p>",
         "phone": null,
         "pricing": "$$$",
+        "priority": 5,
         "promotion": "normal",
-        "publishedAt": "2026-06-21T17:52:15.103Z",
+        "publishedAt": "2026-06-21T17:54:06.768Z",
         "reservationDisabledDays": "",
         "reviewIds": [],
         "tableLayoutAlt": null,
@@ -136,7 +138,6 @@
         "amenityIds": [],
         "area": "hotel-zone",
         "category": "restaurant",
-        "categoryIds": [],
         "coordinates": null,
         "coverImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/62bb0530-e354-4cea-73fb-03660d93bd00/public",
         "coverImageAlt": null,
@@ -160,10 +161,10 @@
         "openingHoursHtml": "<p>17:00 - 01:00</p><p>17:00 - 01:00</p><p>17:00 - 01:00</p><p>17:00 - 01:00</p><p>17:00 - 01:00</p><p>17:00 - 01:00</p><p>17:00 - 01:00</p>",
         "phone": null,
         "pricing": "$$",
-        "publishedAt": "2026-04-25T21:49:03.239Z",
+        "priority": 5,
+        "promotion": null,
+        "publishedAt": "2026-04-26T01:08:54.761Z",
         "reservationDisabledDays": null,
-        "reservationMaxHours": 23,
-        "reservationMinHours": 17,
         "reviewIds": [],
         "tableLayoutAlt": null,
         "tableLayoutUrl": null,
@@ -180,7 +181,8 @@
           "feesHtml": "",
           "menuDescription": "Greek with contemporary touch",
           "name": "Ilios Tulum",
-          "slug": "ilios-tulum"
+          "slug": "ilios-tulum",
+          "tableInformation": ""
         },
         "es": {
           "address": "Carr. Tulum-Boca Paila Km. 8, Tulum Beach, Zona Hotelera, 77780 Tulum, Q.R.",
@@ -189,7 +191,8 @@
           "feesHtml": "",
           "menuDescription": "Greek with contemporary touch",
           "name": "Ilios Tulum",
-          "slug": "ilios-tulum"
+          "slug": "ilios-tulum",
+          "tableInformation": ""
         }
       }
     },
@@ -198,7 +201,6 @@
         "amenityIds": [],
         "area": "hotel-zone",
         "category": "beachclub",
-        "categoryIds": [],
         "coordinates": null,
         "coverImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/2bf51e9e-0c44-4c20-d718-180671911e00/public",
         "coverImageAlt": null,
@@ -222,10 +224,10 @@
         "openingHoursHtml": "<p>11:00 - 01:00</p><p>11:00 - 01:00</p><p>11:00 - 01:00</p><p>11:00 - 01:00</p><p>11:00 - 01:00</p><p>11:00 - 01:00</p><p>11:00 - 01:00</p>",
         "phone": null,
         "pricing": "$$",
-        "publishedAt": "2026-04-25T21:49:03.239Z",
+        "priority": 5,
+        "promotion": null,
+        "publishedAt": "2026-04-26T01:08:54.761Z",
         "reservationDisabledDays": null,
-        "reservationMaxHours": 19,
-        "reservationMinHours": 11,
         "reviewIds": [],
         "tableLayoutAlt": null,
         "tableLayoutUrl": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/428f7fbd-58e0-4084-beee-b745adae0d00/public",
@@ -242,7 +244,8 @@
           "feesHtml": "<p id=\"\">Sunbeds from $2000 MXN (1 PAX)</p><p id=\"\">Cabanas from $9500 MXN (4 PAX)</p><p id=\"\">Lounges from $14500 MXN (6 PAX)</p>",
           "menuDescription": "Mediterranean cuisine, focusing on fresh, high-quality ingredients.",
           "name": "Taboo Tulum",
-          "slug": "taboo-tulum"
+          "slug": "taboo-tulum",
+          "tableInformation": ""
         },
         "es": {
           "address": "Carretera Tulum-Boca Paila Zona Hotelera Km 7, 77780 Tulum, Q.R.",
@@ -251,7 +254,8 @@
           "feesHtml": "<p id=\"\">Sunbeds from $2000 MXN (1 PAX)</p><p id=\"\">Cabanas from $9500 MXN (4 PAX)</p><p id=\"\">Lounges from $14500 MXN (6 PAX)</p>",
           "menuDescription": "Mediterranean cuisine, focusing on fresh, high-quality ingredients.",
           "name": "Taboo Tulum",
-          "slug": "taboo-tulum"
+          "slug": "taboo-tulum",
+          "tableInformation": ""
         }
       }
     },
@@ -260,7 +264,6 @@
         "amenityIds": [],
         "area": "aldea-zama",
         "category": "rooftop",
-        "categoryIds": [],
         "coordinates": null,
         "coverImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/cd1699e6-2093-4a7c-c367-1ea7c526da00/public",
         "coverImageAlt": null,
@@ -284,10 +287,10 @@
         "openingHoursHtml": "",
         "phone": null,
         "pricing": "$$$",
-        "publishedAt": "2026-04-25T21:49:03.239Z",
+        "priority": 5,
+        "promotion": null,
+        "publishedAt": "2026-04-26T01:08:54.761Z",
         "reservationDisabledDays": null,
-        "reservationMaxHours": null,
-        "reservationMinHours": null,
         "reviewIds": [],
         "tableLayoutAlt": null,
         "tableLayoutUrl": null,
@@ -304,7 +307,8 @@
           "feesHtml": "<p id=\"\">Free Entrance and No Min. Consumption</p>",
           "menuDescription": "Affordable Mexican Menu",
           "name": "Mayan Monkey",
-          "slug": "mayan-monkey-tulum"
+          "slug": "mayan-monkey-tulum",
+          "tableInformation": ""
         },
         "es": {
           "address": "Mayan Monkey Hostel Tulum, Av. Coba Sur S/N, 77780 Tulum, Q.R.",
@@ -313,7 +317,8 @@
           "feesHtml": "<p id=\"\">Free Entrance and No Min. Consumption</p>",
           "menuDescription": "Affordable Mexican Menu",
           "name": "Mayan Monkey",
-          "slug": "mayan-monkey-tulum"
+          "slug": "mayan-monkey-tulum",
+          "tableInformation": ""
         }
       }
     },
@@ -322,7 +327,6 @@
         "amenityIds": [],
         "area": "Aldea Tulum",
         "category": "cenote",
-        "categoryIds": [],
         "coordinates": null,
         "coverImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/a350de2b-2c3c-4af1-f75a-d786e742cb00/public",
         "coverImageAlt": null,
@@ -346,10 +350,10 @@
         "openingHoursHtml": "",
         "phone": null,
         "pricing": "$$",
-        "publishedAt": "2026-04-26T01:08:54.761Z",
+        "priority": 5,
+        "promotion": null,
+        "publishedAt": "2026-04-26T21:58:43.508Z",
         "reservationDisabledDays": "",
-        "reservationMaxHours": null,
-        "reservationMinHours": null,
         "reviewIds": [
           "kd78zkr3gwtn7er0ptrd09fbv985kqeh",
           "kd7cs3k6egjzpk7g1qs35d3rg185kzwt"
@@ -369,7 +373,8 @@
           "feesHtml": "",
           "menuDescription": "",
           "name": "Zamna Tulum",
-          "slug": "zamna-tulum"
+          "slug": "zamna-tulum",
+          "tableInformation": ""
         },
         "es": {
           "address": "km 200, México 307, 77760 Tulum, Q.R.",
@@ -378,7 +383,8 @@
           "feesHtml": "",
           "menuDescription": "",
           "name": "Zamna Tulum",
-          "slug": "zamna-tulum"
+          "slug": "zamna-tulum",
+          "tableInformation": ""
         }
       }
     },
@@ -387,7 +393,6 @@
         "amenityIds": [],
         "area": "downtown",
         "category": "restaurant",
-        "categoryIds": [],
         "coordinates": null,
         "coverImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/3e5e90a5-4b11-47fb-26bd-8aed243c7d00/public",
         "coverImageAlt": null,
@@ -411,10 +416,10 @@
         "openingHoursHtml": "<p>12:00 - 00:00</p><p>12:00 - 00:00</p><p>12:00 - 00:00</p><p>12:00 - 00:00</p><p>12:00 - 00:00</p><p>12:00 - 00:00</p><p>12:00 - 00:00</p>",
         "phone": null,
         "pricing": "$$",
-        "publishedAt": "2026-04-25T21:49:03.239Z",
+        "priority": 5,
+        "promotion": null,
+        "publishedAt": "2026-04-26T01:08:54.761Z",
         "reservationDisabledDays": null,
-        "reservationMaxHours": 23,
-        "reservationMinHours": 12,
         "reviewIds": [],
         "tableLayoutAlt": null,
         "tableLayoutUrl": null,
@@ -431,7 +436,8 @@
           "feesHtml": "",
           "menuDescription": "A blend of local and international cuisines",
           "name": "Onyx",
-          "slug": "onyx-tulum"
+          "slug": "onyx-tulum",
+          "tableInformation": ""
         },
         "es": {
           "address": "6G6Q+HQ Tulum, Quintana Roo",
@@ -440,7 +446,8 @@
           "feesHtml": "",
           "menuDescription": "A blend of local and international cuisines",
           "name": "Onyx",
-          "slug": "onyx-tulum"
+          "slug": "onyx-tulum",
+          "tableInformation": ""
         }
       }
     },
@@ -449,7 +456,6 @@
         "amenityIds": [],
         "area": "downtown",
         "category": "rooftop",
-        "categoryIds": [],
         "coordinates": null,
         "coverImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/13594ecf-7661-4a7a-8c1f-bc34ebdf9b00/public",
         "coverImageAlt": null,
@@ -473,10 +479,10 @@
         "openingHoursHtml": "<p>Closed</p><p>20:00 - 02:30</p><p>20:00 - 02:30</p><p>20:00 - 02:30</p><p>20:00 - 02:30</p><p>20:00 - 02:30</p><p>20:00 - 02:30</p>",
         "phone": null,
         "pricing": "$$$",
-        "publishedAt": "2026-04-25T21:49:03.239Z",
+        "priority": 5,
+        "promotion": null,
+        "publishedAt": "2026-04-26T01:08:54.761Z",
         "reservationDisabledDays": "1",
-        "reservationMaxHours": 1,
-        "reservationMinHours": 20,
         "reviewIds": [],
         "tableLayoutAlt": null,
         "tableLayoutUrl": null,
@@ -493,7 +499,8 @@
           "feesHtml": "<p id=\"\">Free Entrance and No Min. Spend</p>",
           "menuDescription": "Menu from Onyx Restaurant",
           "name": "Obsidiana",
-          "slug": "obsidiana-tulum"
+          "slug": "obsidiana-tulum",
+          "tableInformation": ""
         },
         "es": {
           "address": "C. Orión Sur Manzana 3 L2, entre Andromeda Oriente, Tulum Centro, 77760 Tulum, Q.R.",
@@ -502,7 +509,8 @@
           "feesHtml": "<p id=\"\">Entrada Gratuita y No Min. Consumo</p>",
           "menuDescription": "Menu from Onyx Restaurant",
           "name": "Obsidiana",
-          "slug": "obsidiana-tulum"
+          "slug": "obsidiana-tulum",
+          "tableInformation": ""
         }
       }
     },
@@ -511,7 +519,6 @@
         "amenityIds": [],
         "area": "uptown",
         "category": "cenote",
-        "categoryIds": [],
         "coordinates": null,
         "coverImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/aa848173-7917-4eea-30c7-ff5142ea0c00/public",
         "coverImageAlt": null,
@@ -535,10 +542,10 @@
         "openingHoursHtml": "<p id=\"\">09:00 - 18:00</p><p id=\"\">09:00 - 18:00</p><p id=\"\">09:00 - 18:00</p><p id=\"\">09:00 - 18:00</p><p id=\"\">09:00 - 18:00</p><p id=\"\">09:00 - 18:00</p><p id=\"\">09:00 - 18:00</p>",
         "phone": null,
         "pricing": "$$$$",
-        "publishedAt": "2026-04-26T01:08:54.761Z",
+        "priority": 5,
+        "promotion": null,
+        "publishedAt": "2026-04-26T21:58:43.508Z",
         "reservationDisabledDays": null,
-        "reservationMaxHours": 17,
-        "reservationMinHours": 9,
         "reviewIds": [
           "kd7eebfew9ktywsfrwe53vb88x85kzgm",
           "kd722msrav4n97z78g9yggqz5585kr4v"
@@ -558,7 +565,8 @@
           "feesHtml": "<p id=\"\"><strong id=\"\">Cover </strong>500 MXN<strong id=\"\"> + Min Consumption </strong>500 MXN / 1000 MXN (Per Person)</p>",
           "menuDescription": "Farm-to-table gastronomic experience that merges nature with cuisine, carefully crafting nutritious, delicious, and eco-conscious meals.",
           "name": "Vesica Cenote",
-          "slug": "vesica-tulum"
+          "slug": "vesica-tulum",
+          "tableInformation": ""
         },
         "es": {
           "address": "PARCELA No. 198Z-2P-1 EJIDO, 77760 Tulum, Q.R.",
@@ -567,7 +575,8 @@
           "feesHtml": "<p id=\"\"><strong id=\"\">Cover</strong> 500MX + <strong id=\"\">Consumo Min</strong> 500MX / 1000MX (Por Persona)</p>",
           "menuDescription": "Farm-to-table gastronomic experience that merges nature with cuisine, carefully crafting nutritious, delicious, and eco-conscious meals.",
           "name": "Vesica Cenote",
-          "slug": "vesica-tulum"
+          "slug": "vesica-tulum",
+          "tableInformation": ""
         }
       }
     },
@@ -576,7 +585,6 @@
         "amenityIds": [],
         "area": "hotel-zone",
         "category": "restaurant",
-        "categoryIds": [],
         "coordinates": null,
         "coverImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/68a29f7e-9c77-4f1a-b88c-7ffc3ea9cd00/public",
         "coverImageAlt": null,
@@ -600,10 +608,10 @@
         "openingHoursHtml": "<p>Closed</p><p>Closed</p><p>Closed</p><p>Closed</p><p>Closed</p><p>Closed</p><p>Closed</p>",
         "phone": null,
         "pricing": "$$$$",
-        "publishedAt": "2026-04-25T21:49:03.239Z",
+        "priority": 5,
+        "promotion": null,
+        "publishedAt": "2026-04-26T01:08:54.761Z",
         "reservationDisabledDays": "0,1,2,3,4,5,6",
-        "reservationMaxHours": null,
-        "reservationMinHours": null,
         "reviewIds": [],
         "tableLayoutAlt": null,
         "tableLayoutUrl": null,
@@ -620,7 +628,8 @@
           "feesHtml": "",
           "menuDescription": "Greek Menu",
           "name": "Meze",
-          "slug": "meze-tulum"
+          "slug": "meze-tulum",
+          "tableInformation": ""
         },
         "es": {
           "address": "",
@@ -629,7 +638,8 @@
           "feesHtml": "",
           "menuDescription": "Greek Menu",
           "name": "Meze",
-          "slug": "meze-tulum"
+          "slug": "meze-tulum",
+          "tableInformation": ""
         }
       }
     },
@@ -638,7 +648,6 @@
         "amenityIds": [],
         "area": "hotel-zone",
         "category": "beachclub",
-        "categoryIds": [],
         "coordinates": null,
         "coverImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/86b3da0a-d00f-40e8-b3bf-bd9a17488100/public",
         "coverImageAlt": null,
@@ -662,10 +671,10 @@
         "openingHoursHtml": "<p id=\"\">11:00 - 23:00</p><p id=\"\">11:00 - 23:00</p><p id=\"\">11:00 - 23:00</p><p id=\"\">11:00 - 23:00</p><p id=\"\">11:00 - 23:00</p><p id=\"\">11:00 - 23:00</p><p id=\"\">11:00 - 23:00</p>",
         "phone": null,
         "pricing": "$$$",
-        "publishedAt": "2026-04-25T21:49:03.239Z",
+        "priority": 5,
+        "promotion": null,
+        "publishedAt": "2026-04-26T01:08:54.761Z",
         "reservationDisabledDays": null,
-        "reservationMaxHours": 23,
-        "reservationMinHours": 11,
         "reviewIds": [],
         "tableLayoutAlt": null,
         "tableLayoutUrl": null,
@@ -682,7 +691,8 @@
           "feesHtml": "<p id=\"\"><strong id=\"\">Min Consumption</strong> 1000MX (Per Person) </p><p id=\"\">‍<strong id=\"\">Cover</strong> (Only during special events)</p>",
           "menuDescription": "A fresh Mexican flavors infused with international inspiration",
           "name": "Gitano Beach",
-          "slug": "gitano-beach"
+          "slug": "gitano-beach",
+          "tableInformation": ""
         },
         "es": {
           "address": "Av Boca Paila KM 9.5, Tulum Beach, Zona Costera, 77780 Tulum, Q.R.",
@@ -691,7 +701,8 @@
           "feesHtml": "<p id=\"\"><strong id=\"\">Min Consumption</strong> 1000MX (Per Person) </p><p id=\"\">‍<strong id=\"\">Cover</strong> (Only during special events)</p>",
           "menuDescription": "A fresh Mexican flavors infused with international inspiration",
           "name": "Gitano Beach",
-          "slug": "gitano-beach"
+          "slug": "gitano-beach",
+          "tableInformation": ""
         }
       }
     },
@@ -700,7 +711,6 @@
         "amenityIds": [],
         "area": "hotel-zone",
         "category": "restaurant",
-        "categoryIds": [],
         "coordinates": null,
         "coverImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/13f5a709-4715-47a5-33e0-99de1ec12b00/public",
         "coverImageAlt": null,
@@ -724,10 +734,10 @@
         "openingHoursHtml": "<p>18:00 - 01:00</p><p>18:00 - 01:00</p><p>18:00 - 01:00</p><p>18:00 - 01:00</p><p>18:00 - 03:00</p><p>18:00 - 01:00</p><p>18:00 - 01:00</p>",
         "phone": null,
         "pricing": "$$",
-        "publishedAt": "2026-04-25T21:49:03.239Z",
+        "priority": 5,
+        "promotion": null,
+        "publishedAt": "2026-04-26T01:08:54.761Z",
         "reservationDisabledDays": null,
-        "reservationMaxHours": 23,
-        "reservationMinHours": 18,
         "reviewIds": [],
         "tableLayoutAlt": null,
         "tableLayoutUrl": null,
@@ -744,7 +754,8 @@
           "feesHtml": "<p id=\"\"><strong id=\"\">Cover:</strong> &nbsp;1000 MXN (Per Person)</p><p id=\"\"><strong id=\"\">Bottle Service:</strong> Starting at 4000 MXN&nbsp;(Per Person) +15% Service Fee</p>",
           "menuDescription": "Locally-sourced, and shared-style cuisine with a focus on traditional methods",
           "name": "Gitano Jungle",
-          "slug": "gitano-jungle"
+          "slug": "gitano-jungle",
+          "tableInformation": ""
         },
         "es": {
           "address": "Beach Road Km. 7, 77710 Q.R",
@@ -753,7 +764,8 @@
           "feesHtml": "<p id=\"\"><strong id=\"\">Cover:</strong> &nbsp;1000 MXN (Per Person)</p><p id=\"\"><strong id=\"\">Bottle Service:</strong> Starting at 4000 MXN&nbsp;(Per Person) +15% Service Fee</p>",
           "menuDescription": "Locally-sourced, and shared-style cuisine with a focus on traditional methods",
           "name": "Gitano Jungle",
-          "slug": "gitano-jungle"
+          "slug": "gitano-jungle",
+          "tableInformation": ""
         }
       }
     },
@@ -766,9 +778,6 @@
         ],
         "area": "hotel-zone",
         "category": "nightclub",
-        "categoryIds": [
-          "k1710avgvs681f7g1s67gk701x85960j"
-        ],
         "coordinates": null,
         "coverImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/13ee53e1-791e-4e71-ecdf-148fba86b400/public",
         "coverImageAlt": "",
@@ -798,11 +807,10 @@
         "openingHoursHtml": "<p>Closed</p><p>Closed</p><p>22:00 - 02:00</p><p>22:00 - 02:00</p><p>22:00 - 05:00</p><p>22:00 - 05:00</p><p>22:00 - 05:00</p>",
         "phone": null,
         "pricing": "$$",
+        "priority": 5,
         "promotion": "normal",
-        "publishedAt": "2026-04-26T01:08:54.761Z",
+        "publishedAt": "2026-06-10T05:49:41.425Z",
         "reservationDisabledDays": "1,2",
-        "reservationMaxHours": 3,
-        "reservationMinHours": 22,
         "reviewIds": [],
         "tableLayoutAlt": "",
         "tableLayoutUrl": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/2ccb4110-48b5-4589-8cd8-b1757b9e9400/public",
@@ -844,10 +852,6 @@
         ],
         "area": "hotel-zone",
         "category": "beachclub",
-        "categoryIds": [
-          "k1767gr2jgc6rbg3x7m02k1eys858fbp",
-          "k1717462z3g6gd2njxnzcz5pqs85984a"
-        ],
         "coordinates": null,
         "coverImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/53c4c012-a9c4-4a94-d929-6f0200f54700/public",
         "coverImageAlt": "",
@@ -877,11 +881,10 @@
         "openingHoursHtml": "<p>11:00 - 01:00</p><p>11:00 - 01:00</p><p>11:00 - 01:00</p><p>11:00 - 01:00</p><p>11:00 - 01:00</p><p>11:00 - 01:00</p><p>11:00 - 01:00</p>",
         "phone": null,
         "pricing": "$$$",
+        "priority": 5,
         "promotion": "editors-pick",
-        "publishedAt": "2026-06-10T05:39:26.890Z",
+        "publishedAt": "2026-06-10T05:39:30.133Z",
         "reservationDisabledDays": "",
-        "reservationMaxHours": 23,
-        "reservationMinHours": 11,
         "reviewIds": [],
         "tableLayoutAlt": null,
         "tableLayoutUrl": null,
@@ -918,7 +921,6 @@
         "amenityIds": [],
         "area": "hotel-zone",
         "category": "beachclub",
-        "categoryIds": [],
         "coordinates": null,
         "coverImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/ee31b325-a36a-4abb-b735-b307ee418400/public",
         "coverImageAlt": null,
@@ -942,10 +944,10 @@
         "openingHoursHtml": "<p>10:00 - 18:00</p><p>10:00 - 18:00</p><p>10:00 - 18:00</p><p>10:00 - 18:00</p><p>10:00 - 18:00</p><p>10:00 - 03:00</p><p>10:00 - 18:00</p>",
         "phone": null,
         "pricing": "$$$",
-        "publishedAt": "2026-04-25T21:49:03.239Z",
+        "priority": 5,
+        "promotion": null,
+        "publishedAt": "2026-04-26T01:08:54.761Z",
         "reservationDisabledDays": null,
-        "reservationMaxHours": 23,
-        "reservationMinHours": 10,
         "reviewIds": [],
         "tableLayoutAlt": null,
         "tableLayoutUrl": null,
@@ -962,7 +964,8 @@
           "feesHtml": "<p id=\"\"><strong id=\"\">Event Tickets:</strong> from 1320 MXN, </p><p id=\"\">‍<strong id=\"\">Min Consumption for Sunbed:</strong> 1000 MXN (Per Person)</p><p id=\"\"><strong id=\"\">Bottle Service:</strong> Vip Table Prices depend on the event, message us for quotes.</p>",
           "menuDescription": "The just created menu by Edher Cervantes honors Mexico’s two peninsulas. The Yucatan and Baja California.",
           "name": "Papaya Playa Project",
-          "slug": "papaya-playa-project"
+          "slug": "papaya-playa-project",
+          "tableInformation": ""
         },
         "es": {
           "address": "",
@@ -971,7 +974,8 @@
           "feesHtml": "<p id=\"\"><strong id=\"\">Event Tickets:</strong> from 1320 MXN, </p><p id=\"\">‍<strong id=\"\">Min Consumption for Sunbed:</strong> 1000 MXN (Per Person)</p><p id=\"\"><strong id=\"\">Bottle Service:</strong> Vip Table Prices depend on the event, message us for quotes.</p>",
           "menuDescription": "The just created menu by Edher Cervantes honors Mexico’s two peninsulas. The Yucatan and Baja California.",
           "name": "Papaya Playa Project",
-          "slug": "papaya-playa-project"
+          "slug": "papaya-playa-project",
+          "tableInformation": ""
         }
       }
     },
@@ -980,7 +984,6 @@
         "amenityIds": [],
         "area": "hotel-zone",
         "category": "beachclub",
-        "categoryIds": [],
         "coordinates": null,
         "coverImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/1b6852b9-4a25-4deb-7def-52f6597a6f00/public",
         "coverImageAlt": null,
@@ -1004,10 +1007,10 @@
         "openingHoursHtml": "<p>Closed</p><p>11:00 - 01:00</p><p>11:00 - 01:00</p><p>11:00 - 01:00</p><p>11:00 - 01:00</p><p>11:00 - 01:00</p><p>11:00 - 01:00</p>",
         "phone": null,
         "pricing": "$$$",
-        "publishedAt": "2026-04-25T21:49:03.239Z",
+        "priority": 5,
+        "promotion": null,
+        "publishedAt": "2026-04-26T01:08:54.761Z",
         "reservationDisabledDays": "1",
-        "reservationMaxHours": 23,
-        "reservationMinHours": 11,
         "reviewIds": [],
         "tableLayoutAlt": null,
         "tableLayoutUrl": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/a9330881-2e7b-4c6c-c278-26f4bc5bb400/public",
@@ -1024,7 +1027,8 @@
           "feesHtml": "<p id=\"\"><strong id=\"\">Event Tickets:</strong> from 550 MXN, </p><p id=\"\">‍<strong id=\"\">Min Consumption for Sunbed :</strong> 3000 MXN (Per Person)</p><p id=\"\">‍<strong id=\"\">Min Consumption for Dinner :</strong> 3000 MXN (Per Person)</p><p id=\"\"><strong id=\"\">Bottle Service:</strong> Vip Table Prices depend on the event, message us for quotes.</p>",
           "menuDescription": "Mediterranean",
           "name": "Vagalume Tulum",
-          "slug": "vagalume-tulum"
+          "slug": "vagalume-tulum",
+          "tableInformation": ""
         },
         "es": {
           "address": "Supermanzana QROO 15, Tulum Beach, 77776 Tulum, Quintana Roo",
@@ -1033,7 +1037,8 @@
           "feesHtml": "<p id=\"\"><strong id=\"\">Entradas para eventos:</strong> desde 550 MXN, </p><p id=\"\">‍<strong id=\"\">Consumo mínimo para tumbona :</strong> 0 MXN (Por Persona)</p><p id=\"\">‍<strong id=\"\">Consumo mínimo para &nbsp;mesa de cena:</strong> 0/1500 MXN (Por Persona)</p><p id=\"\"><strong id=\"\">Servicio de Botellas:</strong> Mesa Vip Los precios dependen del evento, envíenos un mensaje para obtener más información.</p>",
           "menuDescription": "Mediterranean",
           "name": "Vagalume Tulum",
-          "slug": "vagalume-tulum"
+          "slug": "vagalume-tulum",
+          "tableInformation": ""
         }
       }
     },
@@ -1042,7 +1047,6 @@
         "amenityIds": [],
         "area": "hotel-zone",
         "category": "beachclub",
-        "categoryIds": [],
         "coordinates": null,
         "coverImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/5a115a06-9a35-45fb-db4f-986fca6dba00/public",
         "coverImageAlt": null,
@@ -1066,10 +1070,10 @@
         "openingHoursHtml": "<p id=\"\">11:00 - 19:00</p><p id=\"\">11:00 - 19:00</p><p id=\"\">11:00 - 19:00</p><p id=\"\">11:00 - 19:00</p><p id=\"\">11:00 - 19:00</p><p id=\"\">11:00 - 19:00</p><p id=\"\">11:00 - 19:00</p>",
         "phone": null,
         "pricing": "$$",
-        "publishedAt": "2026-04-25T21:49:03.239Z",
+        "priority": 5,
+        "promotion": null,
+        "publishedAt": "2026-04-26T01:08:54.761Z",
         "reservationDisabledDays": null,
-        "reservationMaxHours": 23,
-        "reservationMinHours": 11,
         "reviewIds": [],
         "tableLayoutAlt": null,
         "tableLayoutUrl": null,
@@ -1086,7 +1090,8 @@
           "feesHtml": "<p id=\"\"><strong id=\"\">Event Tickets:</strong> from 680 MXN, </p><p id=\"\">‍<strong id=\"\">Min Consumption for Sunbed </strong> 1000 MXN / 1300 MXN on Weekends (Per Person)</p><p id=\"\"><strong id=\"\">Bottle Service:</strong> Vip Table Prices depend on the event, message us for quotes.</p>",
           "menuDescription": "Euro-Mexican Cuisine",
           "name": "Mia Beach Club",
-          "slug": "mia-restaurant-and-beachclub"
+          "slug": "mia-restaurant-and-beachclub",
+          "tableInformation": ""
         },
         "es": {
           "address": "Hotel Selina los Lirios, Carr. Tulum-Boca Paila KM 7.5-Interior, Tulum Beach, Punta Piedra, 77780 Tulum, Q.R.",
@@ -1095,7 +1100,8 @@
           "feesHtml": "<p id=\"\"><strong id=\"\">Event Tickets:</strong> from 680 MXN, </p><p id=\"\">‍<strong id=\"\">Min Consumption for Sunbed </strong> 1000 MXN / 1300 MXN on Weekends (Per Person)</p><p id=\"\"><strong id=\"\">Bottle Service:</strong> Vip Table Prices depend on the event, message us for quotes.</p>",
           "menuDescription": "Euro-Mexican Cuisine",
           "name": "Mia Beach Club",
-          "slug": "mia-restaurant-and-beachclub"
+          "slug": "mia-restaurant-and-beachclub",
+          "tableInformation": ""
         }
       }
     },
@@ -1104,7 +1110,6 @@
         "amenityIds": [],
         "area": "hotel-zone",
         "category": "beachclub",
-        "categoryIds": [],
         "coordinates": null,
         "coverImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/93699296-a458-43d3-5f64-2ce7bec3fb00/public",
         "coverImageAlt": null,
@@ -1128,10 +1133,10 @@
         "openingHoursHtml": "<p>08:00 18:00</p><p id=\"\">08:00 18:00</p><p id=\"\">08:00 18:00</p><p id=\"\">08:00 18:00</p><p id=\"\">08:00 18:00</p><p id=\"\">08:00 18:00</p><p id=\"\">08:00 18:00</p>",
         "phone": null,
         "pricing": "$$$$",
-        "publishedAt": "2026-04-25T21:49:03.239Z",
+        "priority": 5,
+        "promotion": null,
+        "publishedAt": "2026-04-26T01:08:54.761Z",
         "reservationDisabledDays": null,
-        "reservationMaxHours": 18,
-        "reservationMinHours": 8,
         "reviewIds": [],
         "tableLayoutAlt": null,
         "tableLayoutUrl": null,
@@ -1148,7 +1153,8 @@
           "feesHtml": "<p id=\"\"><strong id=\"\">Cover:</strong> only during special events, </p><p id=\"\"><strong>Min Consumption:</strong> (enforced after 30%&nbsp;occupancy has reached) from $1,100 MXN </p>",
           "menuDescription": "",
           "name": "Kanan Beachclub",
-          "slug": "kanan-beachclub"
+          "slug": "kanan-beachclub",
+          "tableInformation": ""
         },
         "es": {
           "address": "Carretera Tulum Boca Paila Km 7.5 Mza 020 reg 009, 77780 Tulum, Q.R.",
@@ -1157,7 +1163,8 @@
           "feesHtml": "<p id=\"\"><strong id=\"\">Cubierta:</strong> sólo durante eventos especiales, </p><p id=\"\"><strong>Consumo mínimo:</strong> (forzado después de que se ha alcanzado el 30% de ocupación) desde $1,100 MXN </p>",
           "menuDescription": "",
           "name": "Kanan Beachclub",
-          "slug": "kanan-beachclub"
+          "slug": "kanan-beachclub",
+          "tableInformation": ""
         }
       }
     }
