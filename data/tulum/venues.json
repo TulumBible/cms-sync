@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-06-21T23:20:17.214Z",
+  "syncedAt": "2026-06-21T23:20:45.382Z",
   "citySlug": "tulum",
   "venues": [
     {
@@ -140,14 +140,20 @@
         "category": "restaurant",
         "coordinates": null,
         "coverImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/62bb0530-e354-4cea-73fb-03660d93bd00/public",
-        "coverImageAlt": null,
-        "drinkMenuUrl": null,
+        "coverImageAlt": "",
+        "drinkMenuUrl": "",
         "faqIds": [],
-        "foodMenuUrl": null,
+        "foodMenuUrl": "",
         "googleMapsCode": "5G3R+7W Tulum, Quintana Roo",
         "googlePlaceId": null,
         "hideReservationForm": false,
-        "imageAlts": [],
+        "imageAlts": [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
         "imageUrls": [
           "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/62bb0530-e354-4cea-73fb-03660d93bd00/public",
           "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/6995d8a0-bc72-49ef-a68d-0a5479239200/public",
@@ -161,10 +167,10 @@
         "openingHoursHtml": "<p>17:00 - 01:00</p><p>17:00 - 01:00</p><p>17:00 - 01:00</p><p>17:00 - 01:00</p><p>17:00 - 01:00</p><p>17:00 - 01:00</p><p>17:00 - 01:00</p>",
         "phone": null,
         "pricing": "$$",
-        "priority": 5,
-        "promotion": null,
-        "publishedAt": "2026-04-26T01:08:54.761Z",
-        "reservationDisabledDays": null,
+        "priority": 1,
+        "promotion": "editors-pick",
+        "publishedAt": "2026-06-21T23:20:33.621Z",
+        "reservationDisabledDays": "",
         "reviewIds": [],
         "tableLayoutAlt": null,
         "tableLayoutUrl": null,
@@ -172,7 +178,7 @@
         "website": null
       },
       "convexId": "jh78a095xj124gadjm89dd42ts7qzg4b",
-      "lastUpdated": "2026-04-25T21:48:38.368Z",
+      "lastUpdated": "2026-06-21T23:20:33.267Z",
       "locales": {
         "en": {
           "address": "Carr. Tulum-Boca Paila Km. 8, Tulum Beach, Zona Hotelera, 77780 Tulum, Q.R.",
