@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-06-21T23:22:03.445Z",
+  "syncedAt": "2026-06-21T23:25:05.377Z",
   "citySlug": "tulum",
   "venues": [
     {
@@ -527,14 +527,20 @@
         "category": "cenote",
         "coordinates": null,
         "coverImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/aa848173-7917-4eea-30c7-ff5142ea0c00/public",
-        "coverImageAlt": null,
+        "coverImageAlt": "",
         "drinkMenuUrl": "https://uploads-ssl.webflow.com/6357fd6cab073f81a8eb1b51/64bd36f4dcceb417ff8fde87_VESICA-BEBIDAS.pdf",
         "faqIds": [],
         "foodMenuUrl": "https://uploads-ssl.webflow.com/6357fd6cab073f81a8eb1b51/64bd36f435f01234721d3ff3_VESICA_MENU-RESTAURANTE-1.pdf",
         "googleMapsCode": "5FWX+P2 Tulum, Quintana Roo",
         "googlePlaceId": null,
         "hideReservationForm": false,
-        "imageAlts": [],
+        "imageAlts": [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
         "imageUrls": [
           "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/aa848173-7917-4eea-30c7-ff5142ea0c00/public",
           "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/bc9c458e-40f7-46a2-558b-8cdb2c0f8000/public",
@@ -548,10 +554,10 @@
         "openingHoursHtml": "<p id=\"\">09:00 - 18:00</p><p id=\"\">09:00 - 18:00</p><p id=\"\">09:00 - 18:00</p><p id=\"\">09:00 - 18:00</p><p id=\"\">09:00 - 18:00</p><p id=\"\">09:00 - 18:00</p><p id=\"\">09:00 - 18:00</p>",
         "phone": null,
         "pricing": "$$$$",
-        "priority": 5,
-        "promotion": null,
-        "publishedAt": "2026-04-26T21:58:43.508Z",
-        "reservationDisabledDays": null,
+        "priority": 1,
+        "promotion": "normal",
+        "publishedAt": "2026-06-21T23:24:51.566Z",
+        "reservationDisabledDays": "",
         "reviewIds": [
           "kd7eebfew9ktywsfrwe53vb88x85kzgm",
           "kd722msrav4n97z78g9yggqz5585kr4v"
@@ -562,7 +568,7 @@
         "website": null
       },
       "convexId": "jh7c7enep85z0w69t9v1grcarh7qzm2f",
-      "lastUpdated": "2026-04-26T21:58:43.508Z",
+      "lastUpdated": "2026-06-21T23:24:51.170Z",
       "locales": {
         "en": {
           "address": "PARCELA No. 198Z-2P-1 EJIDO, 77760 Tulum, Q.R.",
