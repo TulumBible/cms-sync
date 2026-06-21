@@ -1,15 +1,15 @@
 {
-  "syncedAt": "2026-06-21T19:44:50.045Z",
+  "syncedAt": "2026-06-21T20:00:20.506Z",
   "citySlug": "tulum",
   "amenities": [
     {
       "base": {
-        "iconName": null,
-        "showInFilters": false,
+        "iconName": "key",
+        "showInFilters": true,
         "slug": "valet-parking"
       },
       "convexId": "jn72f5n145a7gcvx7evwc8yzws8588h6",
-      "lastUpdated": "2026-05-01T05:05:26.197Z",
+      "lastUpdated": "2026-06-21T20:00:06.695Z",
       "locales": {
         "en": {
           "name": "Valet Parking"
@@ -21,12 +21,12 @@
     },
     {
       "base": {
-        "iconName": null,
-        "showInFilters": false,
+        "iconName": "flower",
+        "showInFilters": true,
         "slug": "spa"
       },
       "convexId": "jn7dnm1kp63ahnqvjhhyz7944d859qpv",
-      "lastUpdated": "2026-05-01T05:05:26.197Z",
+      "lastUpdated": "2026-06-21T20:00:06.695Z",
       "locales": {
         "en": {
           "name": "Spa"
@@ -38,12 +38,12 @@
     },
     {
       "base": {
-        "iconName": null,
-        "showInFilters": false,
+        "iconName": "bed",
+        "showInFilters": true,
         "slug": "rooms"
       },
       "convexId": "jn70zdmazn719gygc3k7335zxn859dvw",
-      "lastUpdated": "2026-05-01T05:05:26.197Z",
+      "lastUpdated": "2026-06-21T20:00:06.695Z",
       "locales": {
         "en": {
           "name": "Rooms"
@@ -55,12 +55,12 @@
     },
     {
       "base": {
-        "iconName": null,
+        "iconName": "buildings",
         "showInFilters": false,
         "slug": "rooftop"
       },
       "convexId": "jn77s3v89mkdcb9d9yydgsx3vd858sbk",
-      "lastUpdated": "2026-05-01T05:05:26.197Z",
+      "lastUpdated": "2026-06-21T20:00:06.695Z",
       "locales": {
         "en": {
           "name": "Rooftop"
@@ -72,12 +72,12 @@
     },
     {
       "base": {
-        "iconName": null,
+        "iconName": "fork-knife",
         "showInFilters": false,
         "slug": "restaurant"
       },
       "convexId": "jn785e6n78fzxfq3e6yc4z206s858vs7",
-      "lastUpdated": "2026-05-01T05:05:26.197Z",
+      "lastUpdated": "2026-06-21T20:00:06.695Z",
       "locales": {
         "en": {
           "name": "Restaurant"
@@ -89,12 +89,12 @@
     },
     {
       "base": {
-        "iconName": null,
+        "iconName": "swimming-pool",
         "showInFilters": false,
         "slug": "pool"
       },
       "convexId": "jn796fkb2npe38c126gkzmhe85858yf5",
-      "lastUpdated": "2026-05-01T05:05:26.197Z",
+      "lastUpdated": "2026-06-21T20:00:06.695Z",
       "locales": {
         "en": {
           "name": "Pool"
@@ -106,12 +106,12 @@
     },
     {
       "base": {
-        "iconName": null,
+        "iconName": "paw-print",
         "showInFilters": false,
         "slug": "pet-friendly"
       },
       "convexId": "jn78wp2bkm0sv6aber490necah858phw",
-      "lastUpdated": "2026-05-01T05:05:26.197Z",
+      "lastUpdated": "2026-06-21T20:00:06.695Z",
       "locales": {
         "en": {
           "name": "Pet Friendly"
@@ -123,12 +123,12 @@
     },
     {
       "base": {
-        "iconName": null,
+        "iconName": "martini",
         "showInFilters": false,
         "slug": "nightclub"
       },
       "convexId": "jn71xzs8sx9ef304m6gjqmn5dh859d74",
-      "lastUpdated": "2026-05-01T05:05:26.197Z",
+      "lastUpdated": "2026-06-21T20:00:06.695Z",
       "locales": {
         "en": {
           "name": "Nightclub"
@@ -140,12 +140,12 @@
     },
     {
       "base": {
-        "iconName": null,
+        "iconName": "coin",
         "showInFilters": false,
         "slug": "no-min-consumption"
       },
       "convexId": "jn70tb3pfy3yycjzk8ke3pgtrs8585z7",
-      "lastUpdated": "2026-05-01T05:05:26.197Z",
+      "lastUpdated": "2026-06-21T20:00:06.695Z",
       "locales": {
         "en": {
           "name": "No Min. Consumption"
@@ -157,12 +157,12 @@
     },
     {
       "base": {
-        "iconName": null,
-        "showInFilters": false,
+        "iconName": "wine",
+        "showInFilters": true,
         "slug": "bar"
       },
       "convexId": "jn74axgjrqtsa18w8nxttnxfg5859e39",
-      "lastUpdated": "2026-05-01T05:05:26.197Z",
+      "lastUpdated": "2026-06-21T20:00:06.695Z",
       "locales": {
         "en": {
           "name": "Bar"
@@ -174,12 +174,12 @@
     },
     {
       "base": {
-        "iconName": null,
+        "iconName": "wifi-high",
         "showInFilters": false,
         "slug": "wifi"
       },
       "convexId": "jn76cg9jqcvq6gh3xwf0cj2c2s859sx2",
-      "lastUpdated": "2026-05-01T05:05:26.197Z",
+      "lastUpdated": "2026-06-21T20:00:06.695Z",
       "locales": {
         "en": {
           "name": "Great Wifi"
@@ -191,12 +191,12 @@
     },
     {
       "base": {
-        "iconName": null,
+        "iconName": "car",
         "showInFilters": false,
         "slug": "free-parking"
       },
       "convexId": "jn70zn5gpwjkfxwnbkd4948rv5859d8d",
-      "lastUpdated": "2026-05-01T05:05:26.197Z",
+      "lastUpdated": "2026-06-21T20:00:06.695Z",
       "locales": {
         "en": {
           "name": "Free Parking"
@@ -208,12 +208,12 @@
     },
     {
       "base": {
-        "iconName": null,
+        "iconName": "credit-card",
         "showInFilters": false,
         "slug": "card-only"
       },
       "convexId": "jn73wn3mp1p288pg1ae5sq9k6h8581b5",
-      "lastUpdated": "2026-05-01T05:05:26.197Z",
+      "lastUpdated": "2026-06-21T20:00:06.695Z",
       "locales": {
         "en": {
           "name": "Card Only"
@@ -225,12 +225,12 @@
     },
     {
       "base": {
-        "iconName": null,
+        "iconName": "barbell",
         "showInFilters": false,
         "slug": "gym"
       },
       "convexId": "jn759h6mpgpqbe74w1z2sbj4r585k9x3",
-      "lastUpdated": "2026-05-01T05:05:26.197Z",
+      "lastUpdated": "2026-06-21T20:00:06.695Z",
       "locales": {
         "en": {
           "name": "Gym"
@@ -242,12 +242,12 @@
     },
     {
       "base": {
-        "iconName": null,
+        "iconName": "bell",
         "showInFilters": false,
         "slug": "concierge"
       },
       "convexId": "jn78c0kww3ghntsrs0x74x0whx85j8ft",
-      "lastUpdated": "2026-05-01T05:05:26.197Z",
+      "lastUpdated": "2026-06-21T20:00:06.695Z",
       "locales": {
         "en": {
           "name": "Concierge"
@@ -259,12 +259,12 @@
     },
     {
       "base": {
-        "iconName": null,
+        "iconName": "television-simple",
         "showInFilters": false,
         "slug": "tv"
       },
       "convexId": "jn745gcv24kd3xd6vz8ce4t3sx85jt5w",
-      "lastUpdated": "2026-05-01T05:05:26.197Z",
+      "lastUpdated": "2026-06-21T20:00:06.695Z",
       "locales": {
         "en": {
           "name": "TV"
@@ -276,12 +276,12 @@
     },
     {
       "base": {
-        "iconName": null,
+        "iconName": "pizza",
         "showInFilters": false,
         "slug": "pizza-oven"
       },
       "convexId": "jn7aezhd1k49s3sn0r7we2k5h985ksxk",
-      "lastUpdated": "2026-05-01T05:05:26.197Z",
+      "lastUpdated": "2026-06-21T20:00:06.695Z",
       "locales": {
         "en": {
           "name": "Pizza Oven"
@@ -293,12 +293,12 @@
     },
     {
       "base": {
-        "iconName": null,
+        "iconName": "flower-lotus",
         "showInFilters": false,
         "slug": "yoga-space"
       },
       "convexId": "jn7fwddn9rz72mz61sn4tj4qbs85kb4h",
-      "lastUpdated": "2026-05-01T05:05:26.197Z",
+      "lastUpdated": "2026-06-21T20:00:06.695Z",
       "locales": {
         "en": {
           "name": "Yoga Space"
@@ -310,12 +310,12 @@
     },
     {
       "base": {
-        "iconName": null,
+        "iconName": "cooking-pot",
         "showInFilters": false,
         "slug": "chef-service"
       },
       "convexId": "jn70e7zea8k1cbnab25vmzkf4185kc0b",
-      "lastUpdated": "2026-05-01T05:05:26.197Z",
+      "lastUpdated": "2026-06-21T20:00:06.695Z",
       "locales": {
         "en": {
           "name": "Chef Service"
@@ -327,12 +327,12 @@
     },
     {
       "base": {
-        "iconName": null,
+        "iconName": "broom",
         "showInFilters": false,
         "slug": "housekeeping"
       },
       "convexId": "jn705g0j2n2cepzkmt4gd3jxr585kbvm",
-      "lastUpdated": "2026-05-01T05:05:26.197Z",
+      "lastUpdated": "2026-06-21T20:00:06.695Z",
       "locales": {
         "en": {
           "name": "Daily Housekeeping"
@@ -344,12 +344,12 @@
     },
     {
       "base": {
-        "iconName": null,
+        "iconName": "shield-check",
         "showInFilters": false,
         "slug": "security"
       },
       "convexId": "jn7aqn3qjzw3j6qmesp89m823s85kby8",
-      "lastUpdated": "2026-05-01T05:05:26.197Z",
+      "lastUpdated": "2026-06-21T20:00:06.695Z",
       "locales": {
         "en": {
           "name": "Security"
@@ -361,12 +361,12 @@
     },
     {
       "base": {
-        "iconName": null,
+        "iconName": "confetti",
         "showInFilters": false,
         "slug": "event-space"
       },
       "convexId": "jn74701wrrgsk24wp2wzadpae185kzb5",
-      "lastUpdated": "2026-05-01T05:05:26.197Z",
+      "lastUpdated": "2026-06-21T20:00:06.695Z",
       "locales": {
         "en": {
           "name": "Event Space"
@@ -378,12 +378,12 @@
     },
     {
       "base": {
-        "iconName": null,
+        "iconName": "bathtub",
         "showInFilters": false,
         "slug": "jacuzzi"
       },
       "convexId": "jn7brzqrezwp2cn80n84arv4t985k77w",
-      "lastUpdated": "2026-05-01T05:05:26.197Z",
+      "lastUpdated": "2026-06-21T20:00:06.695Z",
       "locales": {
         "en": {
           "name": "Jacuzzi"
@@ -395,12 +395,12 @@
     },
     {
       "base": {
-        "iconName": null,
+        "iconName": "snowflake",
         "showInFilters": false,
         "slug": "cold-plunge"
       },
       "convexId": "jn72g2rwy1fpwjhq9pjfzd4fdh85ke31",
-      "lastUpdated": "2026-05-01T05:05:26.197Z",
+      "lastUpdated": "2026-06-21T20:00:06.695Z",
       "locales": {
         "en": {
           "name": "Cold Plunge"
@@ -412,12 +412,12 @@
     },
     {
       "base": {
-        "iconName": null,
+        "iconName": "thermometer-hot",
         "showInFilters": false,
         "slug": "steam-room"
       },
       "convexId": "jn7dw853ezsj5gj6xf6te5gcpn85kxym",
-      "lastUpdated": "2026-05-01T05:05:26.197Z",
+      "lastUpdated": "2026-06-21T20:00:06.695Z",
       "locales": {
         "en": {
           "name": "Steam Room"
@@ -429,12 +429,12 @@
     },
     {
       "base": {
-        "iconName": null,
+        "iconName": "film-slate",
         "showInFilters": false,
         "slug": "theater-room"
       },
       "convexId": "jn7esswnv5546m1yxfdabkgea585jzrs",
-      "lastUpdated": "2026-05-01T05:05:26.197Z",
+      "lastUpdated": "2026-06-21T20:00:06.695Z",
       "locales": {
         "en": {
           "name": "Theater Room"
@@ -446,12 +446,12 @@
     },
     {
       "base": {
-        "iconName": null,
+        "iconName": "user-focus",
         "showInFilters": false,
         "slug": "butler"
       },
       "convexId": "jn785xwma32ccwqp23911rkcds85k29g",
-      "lastUpdated": "2026-05-01T05:05:26.197Z",
+      "lastUpdated": "2026-06-21T20:00:06.695Z",
       "locales": {
         "en": {
           "name": "Butler"
