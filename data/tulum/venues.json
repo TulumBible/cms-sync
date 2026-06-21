@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-06-21T23:03:22.070Z",
+  "syncedAt": "2026-06-21T23:18:38.238Z",
   "citySlug": "tulum",
   "venues": [
     {
@@ -875,15 +875,15 @@
           "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/75acb367-9506-46e1-6353-6557b1ffdd00/public",
           "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/3a00d641-0973-4550-6567-5b2a0e14ed00/public"
         ],
-        "isClosed": false,
+        "isClosed": true,
         "isFeatured": false,
-        "isFeaturedOnCoreTulum": true,
+        "isFeaturedOnCoreTulum": false,
         "openingHoursHtml": "<p>11:00 - 01:00</p><p>11:00 - 01:00</p><p>11:00 - 01:00</p><p>11:00 - 01:00</p><p>11:00 - 01:00</p><p>11:00 - 01:00</p><p>11:00 - 01:00</p>",
         "phone": null,
         "pricing": "$$$",
         "priority": 5,
-        "promotion": "editors-pick",
-        "publishedAt": "2026-06-10T05:39:30.133Z",
+        "promotion": "normal",
+        "publishedAt": "2026-06-21T23:18:28.262Z",
         "reservationDisabledDays": "",
         "reviewIds": [],
         "tableLayoutAlt": null,
@@ -892,7 +892,7 @@
         "website": null
       },
       "convexId": "jh71fkmf2b1ddc1n0vjggg0c417qy4kb",
-      "lastUpdated": "2026-06-10T05:39:26.561Z",
+      "lastUpdated": "2026-06-21T23:18:27.869Z",
       "locales": {
         "en": {
           "address": "Carr. Tulum-Boca Paila 8, Tulum Beach, 77760 Q.R",

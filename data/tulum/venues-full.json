@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-06-21T23:03:22.930Z",
+  "syncedAt": "2026-06-21T23:18:39.056Z",
   "citySlug": "tulum",
   "venues": [
     {
@@ -557,9 +557,9 @@
           "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/75acb367-9506-46e1-6353-6557b1ffdd00/public",
           "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/3a00d641-0973-4550-6567-5b2a0e14ed00/public"
         ],
-        "isClosed": false,
+        "isClosed": true,
         "isFeatured": false,
-        "isFeaturedOnCoreTulum": true,
+        "isFeaturedOnCoreTulum": false,
         "googleMapsCode": "5G3V+88 Esmeralda K",
         "foodMenuUrl": "https://uploads-ssl.webflow.com/6357fd6cab073f81a8eb1b51/658234ff9756358cb3c02118_Bagatelle%20Tulum%20Food%20Menu.pdf",
         "drinkMenuUrl": "https://uploads-ssl.webflow.com/6357fd6cab073f81a8eb1b51/6582356571ed673d2cdd6a3e_Bagatelle%20Spirits%20List.pdf",
@@ -581,8 +581,8 @@
           "feesHtml": ""
         }
       },
-      "lastPublished": "2026-06-10T05:39:30.133Z",
-      "lastUpdated": "2026-06-10T05:39:26.561Z"
+      "lastPublished": "2026-06-21T23:18:28.262Z",
+      "lastUpdated": "2026-06-21T23:18:27.869Z"
     },
     {
       "webflowItemId": "jh72qvc4pqgb77j2kja14r0ez17qy75p",

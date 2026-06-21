@@ -1,27 +1,5 @@
 {
-  "syncedAt": "2026-06-21T23:03:22.930Z",
+  "syncedAt": "2026-06-21T23:18:39.056Z",
   "citySlug": "tulum",
-  "venues": [
-    {
-      "convexId": "jh71fkmf2b1ddc1n0vjggg0c417qy4kb",
-      "slug": "bagatelle-tulum",
-      "category": "beachclub",
-      "area": "hotel-zone",
-      "pricing": "$$$",
-      "coverImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/53c4c012-a9c4-4a94-d929-6f0200f54700/public",
-      "isClosed": false,
-      "tulumBibleSlug": "bagatelle-tulum",
-      "openingHours": "11:00 - 01:00\n11:00 - 01:00\n11:00 - 01:00\n11:00 - 01:00\n11:00 - 01:00\n11:00 - 01:00\n11:00 - 01:00",
-      "locales": {
-        "en": {
-          "name": "Bagatelle Tulum",
-          "description": "Bagatelle Tulum: A taste of French Riviera elegance, top dishes, lively music, and exclusive events in a luxurious Tulum setting."
-        },
-        "es": {
-          "name": "Bagatelle Tulum",
-          "description": "Bagatelle Tulum: A taste of French Riviera elegance, top dishes, lively music, and exclusive events in a luxurious Tulum setting."
-        }
-      }
-    }
-  ]
+  "venues": []
 }
