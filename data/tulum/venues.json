@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-06-21T23:20:03.161Z",
+  "syncedAt": "2026-06-21T23:20:17.214Z",
   "citySlug": "tulum",
   "venues": [
     {
@@ -719,14 +719,20 @@
         "category": "restaurant",
         "coordinates": null,
         "coverImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/13f5a709-4715-47a5-33e0-99de1ec12b00/public",
-        "coverImageAlt": null,
+        "coverImageAlt": "",
         "drinkMenuUrl": "https://uploads-ssl.webflow.com/6357fd6cab073f81a8eb1b51/64c46052534786a2750a201e_GITANO%2BJUNGLE%2BDRINKS.pdf",
         "faqIds": [],
         "foodMenuUrl": "https://uploads-ssl.webflow.com/6357fd6cab073f81a8eb1b51/64c46052a124713eea4a3f58_GITANO%2BJUNGLE%2BDINNER1.pdf",
         "googleMapsCode": "5G2R+29 Tulum, Quintana Roo",
         "googlePlaceId": null,
         "hideReservationForm": false,
-        "imageAlts": [],
+        "imageAlts": [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
         "imageUrls": [
           "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/13f5a709-4715-47a5-33e0-99de1ec12b00/public",
           "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/2208ea1a-445f-4955-8257-b1bd4d0d0000/public",
@@ -740,10 +746,10 @@
         "openingHoursHtml": "<p>18:00 - 01:00</p><p>18:00 - 01:00</p><p>18:00 - 01:00</p><p>18:00 - 01:00</p><p>18:00 - 03:00</p><p>18:00 - 01:00</p><p>18:00 - 01:00</p>",
         "phone": null,
         "pricing": "$$",
-        "priority": 5,
-        "promotion": null,
-        "publishedAt": "2026-04-26T01:08:54.761Z",
-        "reservationDisabledDays": null,
+        "priority": 4,
+        "promotion": "normal",
+        "publishedAt": "2026-06-21T23:20:04.374Z",
+        "reservationDisabledDays": "",
         "reviewIds": [],
         "tableLayoutAlt": null,
         "tableLayoutUrl": null,
@@ -751,7 +757,7 @@
         "website": null
       },
       "convexId": "jh72075epd4m1g8m5ke7qddnmd7qyez8",
-      "lastUpdated": "2026-04-25T21:48:38.368Z",
+      "lastUpdated": "2026-06-21T23:20:04.024Z",
       "locales": {
         "en": {
           "address": "Beach Road Km. 7, 77710 Q.R",
