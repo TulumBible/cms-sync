@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-06-21T23:54:57.263Z",
+  "syncedAt": "2026-06-21T23:58:05.838Z",
   "citySlug": "tulum",
   "venues": [
     {
@@ -394,7 +394,7 @@
         "isFeaturedOnCoreTulum": false,
         "googleMapsCode": "Carretera Tulum-Boca Paila Km 6.5 S/N, 77780 Tulum, Q.R.",
         "foodMenuUrl": "https://uploads-ssl.webflow.com/6357fd6cab073f81a8eb1b51/6557d26af61d77d318cd967a_Meze%20Food%20Menu.pdf",
-        "drinkMenuUrl": null,
+        "drinkMenuUrl": "",
         "openingHoursHtml": "<p>Closed</p><p>Closed</p><p>Closed</p><p>Closed</p><p>Closed</p><p>Closed</p><p>Closed</p>"
       },
       "locales": {
@@ -407,14 +407,14 @@
         },
         "es": {
           "name": "Meze",
-          "description": "MEZE, a creation of the Gitano Group, is a tribute to the beauty of the Aegean Islands. Established in 2019, this Aegean Taverna is beautifully situated in the Tulum Jungle, a short distance from Gitano Jungle.",
-          "body": "<h2>Meze is currently closed</h2><p id=\"\">MEZE is Gitano Group's nod to the serene beauty of the Aegean Islands. Opened in 2019, this Aegean Taverna is nestled in the Tulum Jungle, just a stone's throw away from Gitano Jungle.</p><p id=\"\">Guests at MEZE are welcomed by a majestic bougainvillea-filled archway that leads to a lime-washed front courtyard and fountain, giving way to an elegant stone bar. The bar serves signature cocktails, perfectly complementing the menu that features everything from freshly-caught fish to beloved family recipes.</p><p id=\"\">At MEZE, the dining experience is all about family, friendship, and sharing incredible food and drinks, reinforcing the brand's commitment to fostering connection and joy. For those wanting to experience different facets of the Gitano Group, Gitano Jungle and Gitano Beach are just around the corner.</p>",
+          "description": "MEZE, una creación del Grupo Gitano, es un homenaje a la belleza de las islas del Egeo. Fundada en 2019, esta taberna egea goza de una ubicación privilegiada en la selva de Tulum, a poca distancia de Gitano Jungle.",
+          "body": "<h2 id=\"\">Meze está cerrado actualmente</h2><p id=\"\">MEZE es el homenaje del Grupo Gitano a la serena belleza de las islas del Egeo. Inaugurada en 2019, esta taberna egea se encuentra enclavada en la selva de Tulum, a un paso de Gitano Jungle.</p><p id=\"\">Los huéspedes de MEZE son recibidos por un majestuoso arco cubierto de buganvillas que conduce a un patio delantero encalado con una fuente, que da paso a una elegante barra de piedra. La barra sirve cócteles de autor, que complementan a la perfección la carta, en la que se incluye de todo, desde pescado recién capturado hasta recetas familiares muy apreciadas.</p><p id=\"\">En MEZE, la experiencia gastronómica gira en torno a la familia, la amistad y el hecho de compartir comida y bebidas increíbles, lo que refuerza el compromiso de la marca de fomentar la conexión y la alegría. Para aquellos que deseen descubrir las diferentes facetas del Grupo Gitano, Gitano Jungle y Gitano Beach se encuentran a la vuelta de la esquina.</p>",
           "address": "",
           "feesHtml": ""
         }
       },
       "lastPublished": "2026-04-26T01:08:54.761Z",
-      "lastUpdated": "2026-04-25T21:48:38.368Z"
+      "lastUpdated": "2026-06-21T23:57:49.992Z"
     },
     {
       "webflowItemId": "jh78dedjb1ax2fn62m55q31k857qyzdj",
