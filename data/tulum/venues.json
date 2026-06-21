@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-06-21T23:18:54.720Z",
+  "syncedAt": "2026-06-21T23:19:15.832Z",
   "citySlug": "tulum",
   "venues": [
     {
@@ -801,13 +801,13 @@
           "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/d8d61efc-56ad-4d90-de10-995d40110200/public",
           "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/efe708e4-d48f-4e37-c0a4-018cdf0b1900/public"
         ],
-        "isClosed": false,
+        "isClosed": true,
         "isFeatured": false,
         "isFeaturedOnCoreTulum": false,
         "openingHoursHtml": "<p>Closed</p><p>Closed</p><p>22:00 - 02:00</p><p>22:00 - 02:00</p><p>22:00 - 05:00</p><p>22:00 - 05:00</p><p>22:00 - 05:00</p>",
         "phone": null,
         "pricing": "$$",
-        "priority": 5,
+        "priority": 2,
         "promotion": "normal",
         "publishedAt": "2026-06-10T05:49:41.425Z",
         "reservationDisabledDays": "1,2",
@@ -818,7 +818,7 @@
         "website": null
       },
       "convexId": "jh7bftnghstjsn114abapgpttd7qyxyq",
-      "lastUpdated": "2026-06-10T05:49:41.078Z",
+      "lastUpdated": "2026-06-21T23:18:54.479Z",
       "locales": {
         "en": {
           "address": "Carretera estatal Tulum - Boca Paila, Parcela 1744-A NCPE José María Pino Suárez, 77760 Tulum, Q.R.",
