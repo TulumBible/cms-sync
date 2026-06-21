@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-06-21T17:52:27.713Z",
+  "syncedAt": "2026-06-21T17:54:19.020Z",
   "citySlug": "tulum",
   "venues": [
     {
@@ -60,19 +60,30 @@
     },
     {
       "base": {
-        "amenityIds": [],
+        "amenityIds": [
+          "jn785e6n78fzxfq3e6yc4z206s858vs7",
+          "jn74axgjrqtsa18w8nxttnxfg5859e39",
+          "jn78wp2bkm0sv6aber490necah858phw",
+          "jn70zn5gpwjkfxwnbkd4948rv5859d8d"
+        ],
         "area": "Lagoon Nopalitos",
         "category": "lagoon",
         "coordinates": null,
         "coverImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/231dc16c-5807-490e-f132-b35494a73900/public",
-        "coverImageAlt": null,
-        "drinkMenuUrl": null,
+        "coverImageAlt": "",
+        "drinkMenuUrl": "",
         "faqIds": [],
-        "foodMenuUrl": null,
+        "foodMenuUrl": "",
         "googleMapsCode": "4C59+4W José María Pino Suárez, Quintana Roo",
         "googlePlaceId": null,
         "hideReservationForm": false,
-        "imageAlts": [],
+        "imageAlts": [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
         "imageUrls": [
           "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/231dc16c-5807-490e-f132-b35494a73900/public",
           "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/f3e2d508-7da3-44b5-6228-fa8fde42be00/public",
@@ -80,15 +91,15 @@
           "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/99b05644-f478-467e-4da2-741229caa200/public",
           "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/7f2ff7b3-106d-425d-40cb-71fc207d5000/public"
         ],
-        "isClosed": true,
+        "isClosed": false,
         "isFeatured": false,
         "isFeaturedOnCoreTulum": false,
         "openingHoursHtml": "<p id=\"\">10:30 - 19:00</p><p id=\"\">10:30 - 19:00</p><p id=\"\">10:30 - 19:00</p><p id=\"\">10:30 - 19:00</p><p id=\"\">10:30 - 19:00</p><p id=\"\">10:30 - 19:00</p><p id=\"\">10:30 - 19:00</p>",
         "phone": null,
         "pricing": "$$$",
-        "promotion": null,
-        "publishedAt": "2026-04-26T01:08:54.761Z",
-        "reservationDisabledDays": null,
+        "promotion": "normal",
+        "publishedAt": "2026-06-21T17:52:15.103Z",
+        "reservationDisabledDays": "",
         "reviewIds": [],
         "tableLayoutAlt": null,
         "tableLayoutUrl": null,
@@ -96,7 +107,7 @@
         "website": null
       },
       "convexId": "jh78cwez1x990dm1nzrjpss7ph7qyes0",
-      "lastUpdated": "2026-04-26T01:08:46.010Z",
+      "lastUpdated": "2026-06-21T17:54:06.372Z",
       "locales": {
         "en": {
           "address": "Parcela 1213-Z1/1, Jose Maria Pino Suarez, 77156 Q.R.",

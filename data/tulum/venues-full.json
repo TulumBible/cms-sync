@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-06-21T17:52:29.304Z",
+  "syncedAt": "2026-06-21T17:54:20.304Z",
   "citySlug": "tulum",
   "venues": [
     {
@@ -53,12 +53,12 @@
           "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/99b05644-f478-467e-4da2-741229caa200/public",
           "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/7f2ff7b3-106d-425d-40cb-71fc207d5000/public"
         ],
-        "isClosed": true,
+        "isClosed": false,
         "isFeatured": false,
         "isFeaturedOnCoreTulum": false,
         "googleMapsCode": "4C59+4W José María Pino Suárez, Quintana Roo",
-        "foodMenuUrl": null,
-        "drinkMenuUrl": null,
+        "foodMenuUrl": "",
+        "drinkMenuUrl": "",
         "openingHoursHtml": "<p id=\"\">10:30 - 19:00</p><p id=\"\">10:30 - 19:00</p><p id=\"\">10:30 - 19:00</p><p id=\"\">10:30 - 19:00</p><p id=\"\">10:30 - 19:00</p><p id=\"\">10:30 - 19:00</p><p id=\"\">10:30 - 19:00</p>"
       },
       "locales": {
@@ -77,8 +77,8 @@
           "feesHtml": "<p>Cover - 300 MXN</p>"
         }
       },
-      "lastPublished": "2026-04-26T01:08:54.761Z",
-      "lastUpdated": "2026-04-26T01:08:46.010Z"
+      "lastPublished": "2026-06-21T17:52:15.103Z",
+      "lastUpdated": "2026-06-21T17:54:06.372Z"
     },
     {
       "webflowItemId": "jh78a095xj124gadjm89dd42ts7qzg4b",
