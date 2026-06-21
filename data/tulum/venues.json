@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-06-21T23:19:46.180Z",
+  "syncedAt": "2026-06-21T23:20:03.161Z",
   "citySlug": "tulum",
   "venues": [
     {
@@ -650,14 +650,20 @@
         "category": "beachclub",
         "coordinates": null,
         "coverImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/86b3da0a-d00f-40e8-b3bf-bd9a17488100/public",
-        "coverImageAlt": null,
+        "coverImageAlt": "",
         "drinkMenuUrl": "https://uploads-ssl.webflow.com/6357fd6cab073f81a8eb1b51/6616da309dff3ca9001fa3f4_GITANO%2BBEACH%2BDRINKS%2B(1).pdf",
         "faqIds": [],
         "foodMenuUrl": "https://uploads-ssl.webflow.com/6357fd6cab073f81a8eb1b51/6616d9fb93418ba9a70637ab_GITANO%2BBEACH%2BMENU%2BALL%2BDAY%2BMENU%2B4_3_24.pdf",
         "googleMapsCode": "4GJP+Q9 Tulum, Quintana Roo",
         "googlePlaceId": null,
         "hideReservationForm": false,
-        "imageAlts": [],
+        "imageAlts": [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
         "imageUrls": [
           "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/86b3da0a-d00f-40e8-b3bf-bd9a17488100/public",
           "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/9d44e736-538c-4b47-1dbe-bac280d9cc00/public",
@@ -671,10 +677,10 @@
         "openingHoursHtml": "<p id=\"\">11:00 - 23:00</p><p id=\"\">11:00 - 23:00</p><p id=\"\">11:00 - 23:00</p><p id=\"\">11:00 - 23:00</p><p id=\"\">11:00 - 23:00</p><p id=\"\">11:00 - 23:00</p><p id=\"\">11:00 - 23:00</p>",
         "phone": null,
         "pricing": "$$$",
-        "priority": 5,
-        "promotion": null,
+        "priority": 4,
+        "promotion": "normal",
         "publishedAt": "2026-04-26T01:08:54.761Z",
-        "reservationDisabledDays": null,
+        "reservationDisabledDays": "",
         "reviewIds": [],
         "tableLayoutAlt": null,
         "tableLayoutUrl": null,
@@ -682,7 +688,7 @@
         "website": null
       },
       "convexId": "jh78dedjb1ax2fn62m55q31k857qyzdj",
-      "lastUpdated": "2026-03-06T13:08:21.178Z",
+      "lastUpdated": "2026-06-21T23:19:50.576Z",
       "locales": {
         "en": {
           "address": "Av Boca Paila KM 9.5, Tulum Beach, Zona Costera, 77780 Tulum, Q.R.",
