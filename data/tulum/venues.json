@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-06-21T23:20:45.382Z",
+  "syncedAt": "2026-06-21T23:21:06.996Z",
   "citySlug": "tulum",
   "venues": [
     {
@@ -1130,14 +1130,20 @@
         "category": "beachclub",
         "coordinates": null,
         "coverImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/93699296-a458-43d3-5f64-2ce7bec3fb00/public",
-        "coverImageAlt": null,
-        "drinkMenuUrl": null,
+        "coverImageAlt": "",
+        "drinkMenuUrl": "",
         "faqIds": [],
         "foodMenuUrl": "https://shorturl.at/7OuGi",
         "googleMapsCode": "5G2R+7P Tulum, Quintana Roo",
         "googlePlaceId": null,
         "hideReservationForm": false,
-        "imageAlts": [],
+        "imageAlts": [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
         "imageUrls": [
           "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/93699296-a458-43d3-5f64-2ce7bec3fb00/public",
           "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/fc9b1a91-065b-4737-119c-553b22ff1000/public",
@@ -1151,10 +1157,10 @@
         "openingHoursHtml": "<p>08:00 18:00</p><p id=\"\">08:00 18:00</p><p id=\"\">08:00 18:00</p><p id=\"\">08:00 18:00</p><p id=\"\">08:00 18:00</p><p id=\"\">08:00 18:00</p><p id=\"\">08:00 18:00</p>",
         "phone": null,
         "pricing": "$$$$",
-        "priority": 5,
-        "promotion": null,
-        "publishedAt": "2026-04-26T01:08:54.761Z",
-        "reservationDisabledDays": null,
+        "priority": 2,
+        "promotion": "normal",
+        "publishedAt": "2026-06-21T23:21:04.438Z",
+        "reservationDisabledDays": "",
         "reviewIds": [],
         "tableLayoutAlt": null,
         "tableLayoutUrl": null,
@@ -1162,7 +1168,7 @@
         "website": null
       },
       "convexId": "jh7fs06v4xyxp8zks4970mhzjx82ddw0",
-      "lastUpdated": "2026-04-25T21:48:38.368Z",
+      "lastUpdated": "2026-06-21T23:21:04.028Z",
       "locales": {
         "en": {
           "address": "Carretera Tulum Boca Paila Km 7.5 Mza 020 reg 009, 77780 Tulum, Q.R.",
