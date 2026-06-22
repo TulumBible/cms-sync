@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-06-22T00:17:23.844Z",
+  "syncedAt": "2026-06-22T01:34:18.698Z",
   "citySlug": "tulum",
   "villas": [
     {
@@ -383,6 +383,76 @@
           "description": "Casa Luna is a 12-bedroom Tulum mansion sleeping 40, with a stunning main pool, jacuzzis (main + master-suite), a wellness suite (gym, cold plunge, steam room, yoga room), a theater room with golf simulator, and a private nightclub with DJ booth. Personal butler, private chef, and dedicated concierge included.",
           "name": "Casa Luna",
           "slug": "casa-luna"
+        }
+      }
+    },
+    {
+      "base": {
+        "amenityIds": [
+          "jn796fkb2npe38c126gkzmhe85858yf5",
+          "jn78c0kww3ghntsrs0x74x0whx85j8ft",
+          "jn705g0j2n2cepzkmt4gd3jxr585kbvm"
+        ],
+        "area": "la-veleta",
+        "bathrooms": "7",
+        "bedrooms": "7",
+        "beds": "10",
+        "category": "villa",
+        "categoryIds": [],
+        "faqIds": [],
+        "googleMapsCode": null,
+        "mainImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/987779b4-6b35-463e-e95e-e0aa0e95d600/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+        "mainImageAlt": null,
+        "otherImages": [
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/007b5ab1-292f-4270-e3ec-3ee18873b100/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/cd3bbbf0-33ae-40d6-949d-de2cdd75b600/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/ed8a8443-738d-49a0-a620-db81e7b61b00/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/3596ff2c-03d7-449f-78c2-114394b77200/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/e2c69237-6416-44f1-16eb-07c9a7778100/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/a576da6c-d290-4cff-8349-6493bfdf8200/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/5b7a4efc-32b2-4daa-5f75-0e0e2f71f400/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/d12909e5-34b7-4c10-5d9e-079edfcff800/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/ba8b637e-f883-4691-2eb9-991371bea400/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/6971f769-c5be-4d36-1fb9-f70a80f1e600/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/b7b64fe8-70b1-45d5-41e0-5bbeeeb82000/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/c0e76cf2-3276-4010-88f7-a11ceeeae800/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down"
+        ],
+        "otherImagesAlts": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "pricePerNight": null,
+        "reviewIds": [],
+        "secondImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/482c78c4-06c7-40ec-0060-15453acd2200/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+        "secondImageAlt": null,
+        "sleeps": "20",
+        "thirdImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/76d6bb61-b3aa-4f57-1db7-7351de182200/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+        "thirdImageAlt": null
+      },
+      "convexId": "kh7cm8yn084g69243qfv13c0mn894rqf",
+      "lastUpdated": "2026-06-22T01:34:02.527Z",
+      "locales": {
+        "en": {
+          "body": "<h1>Palacio Papaya</h1>\n<p>A seven-bedroom villa in La Veleta sleeping twenty, built for large groups who want resort-grade amenities behind one private gate. Every bedroom has its own ensuite bathroom, and the property layers three distinct pools — a rooftop pool, a large pool off the living room, and a plunge pool in the master suite — around a private pickleball court.</p>\n<h2>Bedrooms</h2>\n<ul>\n  <li><strong>Primary suite</strong> — King bed, ensuite bathroom, private plunge pool</li>\n  <li><strong>Bedrooms 2–4</strong> — King bed, ensuite bathroom (×3)</li>\n  <li><strong>Bedroom 5</strong> — Two queen beds, ensuite bathroom</li>\n  <li><strong>Bedrooms 6–7</strong> — Two double beds each, ensuite bathroom (×2)</li>\n</ul>\n<h2>Property features</h2>\n<ul>\n  <li>Spectacular rooftop pool</li>\n  <li>Large pool accessible from the living room</li>\n  <li>Plunge pool in the master suite</li>\n  <li>Private pickleball court</li>\n</ul>\n<h2>Included services</h2>\n<ul>\n  <li>Personal concierge</li>\n  <li>Daily housekeeping</li>\n</ul>",
+          "description": "Palacio Papaya is a 7-bedroom villa in La Veleta sleeping 20, with a rooftop pool, a living-room pool, a master-suite plunge pool, and a private pickleball court. Concierge and daily housekeeping included.",
+          "name": "Palacio Papaya",
+          "slug": "palacio-papaya"
+        },
+        "es": {
+          "body": "<h1>Palacio Papaya</h1>\n<p>A seven-bedroom villa in La Veleta sleeping twenty, built for large groups who want resort-grade amenities behind one private gate. Every bedroom has its own ensuite bathroom, and the property layers three distinct pools — a rooftop pool, a large pool off the living room, and a plunge pool in the master suite — around a private pickleball court.</p>\n<h2>Bedrooms</h2>\n<ul>\n  <li><strong>Primary suite</strong> — King bed, ensuite bathroom, private plunge pool</li>\n  <li><strong>Bedrooms 2–4</strong> — King bed, ensuite bathroom (×3)</li>\n  <li><strong>Bedroom 5</strong> — Two queen beds, ensuite bathroom</li>\n  <li><strong>Bedrooms 6–7</strong> — Two double beds each, ensuite bathroom (×2)</li>\n</ul>\n<h2>Property features</h2>\n<ul>\n  <li>Spectacular rooftop pool</li>\n  <li>Large pool accessible from the living room</li>\n  <li>Plunge pool in the master suite</li>\n  <li>Private pickleball court</li>\n</ul>\n<h2>Included services</h2>\n<ul>\n  <li>Personal concierge</li>\n  <li>Daily housekeeping</li>\n</ul>",
+          "description": "Palacio Papaya is a 7-bedroom villa in La Veleta sleeping 20, with a rooftop pool, a living-room pool, a master-suite plunge pool, and a private pickleball court. Concierge and daily housekeeping included.",
+          "name": "Palacio Papaya",
+          "slug": "palacio-papaya"
         }
       }
     }
