@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-06-22T00:08:18.167Z",
+  "syncedAt": "2026-06-22T00:13:32.714Z",
   "citySlug": "tulum",
   "venues": [
     {
@@ -331,18 +331,27 @@
     {
       "base": {
         "amenityIds": [],
-        "area": "Aldea Tulum",
+        "area": "hotel-zone",
         "category": "cenote",
-        "coordinates": null,
+        "coordinates": {
+          "lat": 20.1872787,
+          "lng": -87.5277246
+        },
         "coverImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/a350de2b-2c3c-4af1-f75a-d786e742cb00/public",
-        "coverImageAlt": null,
+        "coverImageAlt": "",
         "drinkMenuUrl": "",
         "faqIds": [],
         "foodMenuUrl": "",
-        "googleMapsCode": "5FPC+WW Tulum, Quintana Roo",
-        "googlePlaceId": null,
+        "googleMapsCode": "5FPC+WW Tulum, Quintana Roo, Mexico",
+        "googlePlaceId": "ChIJObsBnTvWT48RvKW_1bJ2Yj8",
         "hideReservationForm": true,
-        "imageAlts": [],
+        "imageAlts": [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
         "imageUrls": [
           "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/a350de2b-2c3c-4af1-f75a-d786e742cb00/public",
           "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/4c563eb7-b959-42f1-1d3b-d42682666d00/public",
@@ -353,12 +362,12 @@
         "isClosed": false,
         "isFeatured": false,
         "isFeaturedOnCoreTulum": false,
-        "openingHoursHtml": "",
+        "openingHoursHtml": "Monday: Open 24 hours\nTuesday: Open 24 hours\nWednesday: Open 24 hours\nThursday: Open 24 hours\nFriday: Open 24 hours\nSaturday: Open 24 hours\nSunday: Open 24 hours",
         "phone": null,
-        "pricing": "$$",
+        "pricing": "$$$$",
         "priority": 5,
-        "promotion": null,
-        "publishedAt": "2026-04-26T21:58:43.508Z",
+        "promotion": "normal",
+        "publishedAt": "2026-06-22T00:13:22.059Z",
         "reservationDisabledDays": "",
         "reviewIds": [
           "kd78zkr3gwtn7er0ptrd09fbv985kqeh",
@@ -367,15 +376,15 @@
         "tableLayoutAlt": null,
         "tableLayoutUrl": null,
         "tags": [],
-        "website": null
+        "website": "http://zamnatulum.com/"
       },
       "convexId": "jh78tmrpt2hwv07mjr6s6exnj97qy4js",
-      "lastUpdated": "2026-04-26T21:58:43.508Z",
+      "lastUpdated": "2026-06-22T00:13:21.598Z",
       "locales": {
         "en": {
-          "address": "km 200, México 307, 77760 Tulum, Q.R.",
-          "body": "<h3 id=\"\">The Venue</h3><p id=\"\">Zamna Tulum is a unique venue known for its natural beauty and vibrant atmosphere. Located in the heart of Tulum, this venue features a stunning cenote that provides a breathtaking backdrop for various events. The cenote is surrounded by lush greenery, creating a serene and immersive experience for visitors.</p><h3 id=\"\">The Cabanas</h3><p id=\"\">Zamna Tulum offers eco cabanas, allowing guests to stay close to nature while enjoying modern amenities. The cabanas are designed to blend seamlessly with the natural environment, providing a peaceful retreat for guests. Each cabana is equipped with essential amenities to ensure a comfortable stay.</p><h3 id=\"\">Amenities</h3><p id=\"\">Guests at Zamna Tulum can enjoy a range of amenities, including a swimming pool, on-site dining options, and various recreational activities. The venue also hosts regular events and festivals, making it a hub of entertainment and culture in Tulum.</p><h3 id=\"\">Experience</h3><p id=\"\">Whether you’re staying in one of the charming cabanas or attending an event by the cenote, Zamna Tulum offers a unique and memorable experience. The combination of natural beauty, comfortable accommodations, and a lively atmosphere makes it a must-visit destination in Tulum.</p><h3 id=\"\">Guest Reviews</h3><p id=\"\">Visitors to Zamna Tulum praise the venue for its stunning natural setting, comfortable accommodations, and the unique atmosphere it offers. The cenote, in particular, is a highlight, providing a tranquil yet vibrant environment that enhances the overall experience.</p>",
-          "description": "Zamna Tulum offers eco cabanas, a stunning cenote, and a range of amenities in a vibrant natural setting. Enjoy events and a unique stay experience.",
+          "address": "km 200, México 307, Tulum",
+          "body": "<h2>Zamna Tulum: Jungle Hotel and Private Cenote in Aldea Tulum</h2>\n<p>Zamna Tulum is an 11-hectare eco-hotel and cenote property set inside the Mayan jungle in Aldea Tulum, roughly at km 200 on Highway 307. The property centers on a private natural cenote surrounded by 15 eco-cabins, a 300m² pool, and an open-air restaurant, making it a self-contained retreat distinct from Tulum's hotel zone beach properties.</p>\n<h3>Eco-Cabins, Chef-Led Dining, and Cenote Activities</h3>\n<p>Each of the 15 cabins measures 40m² and includes a king bed, terrace, air conditioning, maxi-bar, and a private shower, with views oriented toward the cenote and the property's island stage. Guests can kayak, paddleboard, or snorkel directly in the zamna tulum cenote, or book yoga classes and massages through the front desk. The on-site restaurant is led by Chef Maximiliano Sola, whose wood-fire cooking method uses a fire cage and slow cooks locally sourced ingredients for up to ten hours — a program that stands apart from the typical hotel buffet. The property also hosts electronic music festivals and private events, so checking the calendar before booking is worth doing if a quiet stay is the priority.</p>\n<h3>Plan Your Stay at the Cenote</h3>\n<p>The property operates 24 hours and includes complimentary breakfast, free parking, Wi-Fi, and on-site security. For things to do in Tulum that combine jungle accommodation with direct cenote access, Zamna Tulum sits in a category of its own in the Aldea Tulum corridor. Book directly through zamnatulum.com to confirm availability, particularly around festival dates when rooms fill quickly.</p>",
+          "description": "Zamna Tulum is an 11-hectare jungle cenote hosting electronic music festivals and pool experiences, blending music, art, and gastronomy across hotel accommodations and a restaurant.",
           "feesHtml": "",
           "menuDescription": "",
           "name": "Zamna Tulum",
@@ -383,7 +392,7 @@
           "tableInformation": ""
         },
         "es": {
-          "address": "km 200, México 307, 77760 Tulum, Q.R.",
+          "address": "km 200, México 307, Tulum",
           "body": "<h3 id=\"\">El lugar</h3><p id=\"\">Zamna Tulum es un lugar único conocido por su belleza natural y su ambiente vibrante. Situado en el corazón de Tulum, este lugar cuenta con un impresionante cenote que proporciona un impresionante telón de fondo para diversos eventos. El cenote está rodeado de exuberante vegetación, creando una experiencia serena y envolvente para los visitantes.</p><h3 id=\"\">Las cabañas</h3><p id=\"\">Zamna Tulum ofrece cabañas ecológicas, que permiten a los huéspedes estar cerca de la naturaleza mientras disfrutan de las comodidades modernas. Las cabañas están diseñadas para fundirse a la perfección con el entorno natural, proporcionando un refugio tranquilo para los huéspedes. Cada cabaña está equipada con las comodidades esenciales para garantizar una estancia confortable.</p><h3 id=\"\">Servicios</h3><p id=\"\">Los huéspedes del Zamna Tulum pueden disfrutar de una serie de servicios, como piscina, restaurantes y diversas actividades recreativas. El lugar también alberga eventos y festivales regulares, por lo que es un centro de entretenimiento y cultura en Tulum.</p><h3 id=\"\">Visite</h3><p id=\"\">Tanto si se aloja en una de las encantadoras cabañas como si asiste a un evento junto al cenote, Zamna Tulum ofrece una experiencia única y memorable. La combinación de belleza natural, alojamiento confortable y un ambiente animado lo convierten en un destino de visita obligada en Tulum.</p><h3 id=\"\">Opiniones de huéspedes</h3><p id=\"\">Los visitantes de Zamna Tulum elogian el lugar por su impresionante entorno natural, sus cómodos alojamientos y el ambiente único que ofrece. El cenote, en particular, es un punto culminante, proporcionando un ambiente tranquilo pero vibrante que mejora la experiencia en general.</p>",
           "description": "Zamna Tulum ofrece cabañas ecológicas, un impresionante cenote y toda una serie de servicios en un vibrante entorno natural. Disfrute de eventos y de una experiencia de estancia única.",
           "feesHtml": "",
