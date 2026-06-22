@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-06-22T00:16:47.308Z",
+  "syncedAt": "2026-06-22T00:17:00.894Z",
   "citySlug": "tulum",
   "venues": [
     {
@@ -410,14 +410,20 @@
         "category": "restaurant",
         "coordinates": null,
         "coverImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/3e5e90a5-4b11-47fb-26bd-8aed243c7d00/public",
-        "coverImageAlt": null,
-        "drinkMenuUrl": null,
+        "coverImageAlt": "",
+        "drinkMenuUrl": "",
         "faqIds": [],
-        "foodMenuUrl": null,
+        "foodMenuUrl": "",
         "googleMapsCode": "M4 L09-1, C. Orión Sur entre Calle Andromeda y Av. Tulum, Tulum Centro, 77760 Tulum, Q.R.",
         "googlePlaceId": null,
         "hideReservationForm": false,
-        "imageAlts": [],
+        "imageAlts": [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
         "imageUrls": [
           "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/3e5e90a5-4b11-47fb-26bd-8aed243c7d00/public",
           "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/a6a36623-c31c-4919-a0b6-57b025350e00/public",
@@ -431,10 +437,10 @@
         "openingHoursHtml": "<p>12:00 - 00:00</p><p>12:00 - 00:00</p><p>12:00 - 00:00</p><p>12:00 - 00:00</p><p>12:00 - 00:00</p><p>12:00 - 00:00</p><p>12:00 - 00:00</p>",
         "phone": null,
         "pricing": "$$",
-        "priority": 5,
-        "promotion": null,
-        "publishedAt": "2026-04-26T01:08:54.761Z",
-        "reservationDisabledDays": null,
+        "priority": 1,
+        "promotion": "normal",
+        "publishedAt": "2026-06-22T00:16:49.735Z",
+        "reservationDisabledDays": "",
         "reviewIds": [],
         "tableLayoutAlt": null,
         "tableLayoutUrl": null,
@@ -442,7 +448,7 @@
         "website": null
       },
       "convexId": "jh7f70c6n0hxh5h57hxkvb1y0d7qztbb",
-      "lastUpdated": "2026-04-25T21:48:38.368Z",
+      "lastUpdated": "2026-06-22T00:16:49.377Z",
       "locales": {
         "en": {
           "address": "6G6Q+HQ Tulum, Quintana Roo",
