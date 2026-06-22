@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-06-22T01:34:37.733Z",
+  "syncedAt": "2026-06-22T03:15:59.305Z",
   "citySlug": "tulum",
   "villas": [
     {
@@ -453,6 +453,451 @@
           "description": "Palacio Papaya is a 7-bedroom villa in La Veleta sleeping 20, with a rooftop pool, a living-room pool, a master-suite plunge pool, and a private pickleball court. Concierge and daily housekeeping included.",
           "name": "Palacio Papaya",
           "slug": "palacio-papaya"
+        }
+      }
+    },
+    {
+      "base": {
+        "amenityIds": [
+          "jn785xwma32ccwqp23911rkcds85k29g",
+          "jn70e7zea8k1cbnab25vmzkf4185kc0b",
+          "jn78c0kww3ghntsrs0x74x0whx85j8ft",
+          "jn705g0j2n2cepzkmt4gd3jxr585kbvm",
+          "jn796fkb2npe38c126gkzmhe85858yf5",
+          "jn77s3v89mkdcb9d9yydgsx3vd858sbk",
+          "jn74701wrrgsk24wp2wzadpae185kzb5",
+          "jn7aqn3qjzw3j6qmesp89m823s85kby8"
+        ],
+        "area": "hotel-zone",
+        "bathrooms": "10",
+        "bedrooms": "10",
+        "beds": "11",
+        "category": "villa",
+        "categoryIds": [],
+        "faqIds": [],
+        "googleMapsCode": "5G7W+7F Tulum, Quintana Roo",
+        "mainImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/800576b8-3f47-429b-3c1f-a5ac01fb2700/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+        "mainImageAlt": null,
+        "otherImages": [
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/cb3738e7-e595-4d7f-7171-79cf13c3a300/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/c4ed7807-69eb-47bb-3930-c6dd0c899d00/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/6b222471-41c7-4f45-299a-422bf480de00/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/a81231c5-b617-4830-16e4-8ede1da6a300/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/c7261abc-5635-4607-6dbe-fd6e8628f100/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/2b1ce8e5-2079-4140-3c1a-cfb8fe979700/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/69557dc4-712f-468f-4d3c-1672b5e16000/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/b6a5ecbb-57a7-4422-0d5a-df59fc0b6500/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/da47e95d-64c3-4f2a-ab4a-ec12b6379700/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/5dd79d87-f642-4af6-c82d-97ce0f02c700/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/49efc41e-6c3a-4d6a-5449-3d64041d0300/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/3ee6adbf-93bd-4c27-b8a5-3167dd50db00/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/e5957459-af78-431c-9fc8-2a6e87fafa00/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/2d750f8b-c14f-4f4a-b826-86b158fce100/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down"
+        ],
+        "otherImagesAlts": [],
+        "pricePerNight": null,
+        "reviewIds": [],
+        "secondImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/e225823c-fe28-4dc3-bb8c-29011ee21f00/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+        "secondImageAlt": null,
+        "sleeps": "22",
+        "thirdImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/82feffd8-094b-4f63-c9d7-e633e0c57c00/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+        "thirdImageAlt": null
+      },
+      "convexId": "kh73kj2xahwkbyr2qxbj4a6pd1895hta",
+      "lastUpdated": "2026-06-22T01:53:11.391Z",
+      "locales": {
+        "en": {
+          "body": "<h1>Villa Privada</h1>\n<p>A beachfront villa in Tulum's Hotel Zone with ten ensuite suites sleeping twenty-two — a fully-staffed estate for large groups who want the sand at their doorstep and a private team running the day. The social spaces open onto a beachfront pool and deck, with a rooftop lounge above and an outdoor event space for gatherings.</p>\n<h2>Suites</h2>\n<ul>\n  <li><strong>Beachview Suites 1–2</strong> — King bed, ensuite bathroom (×2)</li>\n  <li><strong>Suites 3–9</strong> — King bed, ensuite bathroom (×7)</li>\n  <li><strong>Suite 10</strong> — Two queen beds, ensuite bathroom</li>\n</ul>\n<h2>Property features</h2>\n<ul>\n  <li>Beachfront location</li>\n  <li>Beachfront pool & deck</li>\n  <li>Plunge pool</li>\n  <li>Rooftop lounge area</li>\n  <li>Outdoor event space</li>\n</ul>\n<h2>Included services</h2>\n<ul>\n  <li>Personal butler</li>\n  <li>Private chef</li>\n  <li>Exclusive concierge</li>\n  <li>Daily housekeeping</li>\n  <li>Security guard</li>\n</ul>",
+          "description": "Villa Privada is a beachfront 10-suite villa in the Hotel Zone sleeping 22, with a beachfront pool and deck, a rooftop lounge, and an outdoor event space. Butler, private chef, concierge, daily housekeeping, and security included.",
+          "name": "Villa Privada",
+          "slug": "villa-privada"
+        },
+        "es": {
+          "body": "<h1>Villa Privada</h1>\n<p>A beachfront villa in Tulum's Hotel Zone with ten ensuite suites sleeping twenty-two — a fully-staffed estate for large groups who want the sand at their doorstep and a private team running the day. The social spaces open onto a beachfront pool and deck, with a rooftop lounge above and an outdoor event space for gatherings.</p>\n<h2>Suites</h2>\n<ul>\n  <li><strong>Beachview Suites 1–2</strong> — King bed, ensuite bathroom (×2)</li>\n  <li><strong>Suites 3–9</strong> — King bed, ensuite bathroom (×7)</li>\n  <li><strong>Suite 10</strong> — Two queen beds, ensuite bathroom</li>\n</ul>\n<h2>Property features</h2>\n<ul>\n  <li>Beachfront location</li>\n  <li>Beachfront pool & deck</li>\n  <li>Plunge pool</li>\n  <li>Rooftop lounge area</li>\n  <li>Outdoor event space</li>\n</ul>\n<h2>Included services</h2>\n<ul>\n  <li>Personal butler</li>\n  <li>Private chef</li>\n  <li>Exclusive concierge</li>\n  <li>Daily housekeeping</li>\n  <li>Security guard</li>\n</ul>",
+          "description": "Villa Privada is a beachfront 10-suite villa in the Hotel Zone sleeping 22, with a beachfront pool and deck, a rooftop lounge, and an outdoor event space. Butler, private chef, concierge, daily housekeeping, and security included.",
+          "name": "Villa Privada",
+          "slug": "villa-privada"
+        }
+      }
+    },
+    {
+      "base": {
+        "amenityIds": [
+          "jn705g0j2n2cepzkmt4gd3jxr585kbvm",
+          "jn78c0kww3ghntsrs0x74x0whx85j8ft",
+          "jn70e7zea8k1cbnab25vmzkf4185kc0b",
+          "jn785xwma32ccwqp23911rkcds85k29g",
+          "jn7aqn3qjzw3j6qmesp89m823s85kby8",
+          "jn77s3v89mkdcb9d9yydgsx3vd858sbk",
+          "jn796fkb2npe38c126gkzmhe85858yf5",
+          "jn745gcv24kd3xd6vz8ce4t3sx85jt5w",
+          "jn70zn5gpwjkfxwnbkd4948rv5859d8d",
+          "jn7brzqrezwp2cn80n84arv4t985k77w"
+        ],
+        "area": "hotel-zone",
+        "bathrooms": "12",
+        "bedrooms": "12",
+        "beds": "13",
+        "category": "villa",
+        "categoryIds": [],
+        "faqIds": [],
+        "googleMapsCode": "5HG3+M7 Tulum, Quintana Roo",
+        "mainImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/706cc6ff-c723-487b-239a-e29b207e2600/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+        "mainImageAlt": null,
+        "otherImages": [
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/73f5fa22-b948-4d40-4ab6-6045c8186700/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/31ea9d97-7c68-4135-1f39-ff9c44263e00/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/89fea5aa-69dd-42bb-87ea-69c24064d600/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/e3e554af-c7ee-42f3-d5e1-c2722c901800/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/2f0e522b-0f02-48df-406b-ff58a0986600/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/5fd553ce-38c1-4dda-44fd-144543cd8100/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/5108d51a-28f7-47c5-b255-86118b206800/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/411e5492-9d2d-4c00-656e-56ca8db60400/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/4c1b2139-fc58-437c-92c7-4e79bf9acd00/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/df0aadd4-11b8-4156-d635-c277cd4a8500/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/5148f2ed-9103-4a97-58e5-f0b2f8af4a00/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down"
+        ],
+        "otherImagesAlts": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "pricePerNight": null,
+        "reviewIds": [],
+        "secondImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/bed24f38-cc5b-4be9-c4a2-349053438a00/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+        "secondImageAlt": null,
+        "sleeps": "24",
+        "thirdImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/e78090ac-f694-4fb1-57ae-78b0c456e700/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+        "thirdImageAlt": null
+      },
+      "convexId": "kh79yk38bhz8qst2xxkkjfvzmd89578g",
+      "lastUpdated": "2026-06-22T02:48:00.072Z",
+      "locales": {
+        "en": {
+          "body": "<h1>Hacienda Medina</h1>\n<p>A twelve-bedroom hacienda sleeping twenty-four, built as two mirrored wings — double kitchens, dining rooms, and living rooms — around a huge central pool. Every bedroom has its own ensuite bathroom, four of them with a private jacuzzi, and twin rooftop terraces each carry their own grill.</p>\n<h2>Bedrooms</h2>\n<ul>\n  <li><strong>Bedrooms 1–4</strong> — King bed, private jacuzzi, ensuite bathroom (×4)</li>\n  <li><strong>Bedrooms 5–9</strong> — King bed, ensuite bathroom (×5)</li>\n  <li><strong>Bedroom 10</strong> — Two single beds, ensuite bathroom</li>\n  <li><strong>Bedrooms 11–12</strong> — King bed, ensuite bathroom (×2)</li>\n</ul>\n<h2>Property features</h2>\n<ul>\n  <li>Huge central pool</li>\n  <li>Two rooftop terraces, each with a grill</li>\n  <li>Two dining areas seating 18</li>\n  <li>Two kitchens, two dining rooms, two living rooms</li>\n  <li>Two break rooms with TV</li>\n  <li>Private parking for up to 3 cars</li>\n</ul>\n<h2>Included services</h2>\n<ul>\n  <li>Daily cleaning</li>\n  <li>Concierge</li>\n  <li>Private chef</li>\n  <li>Butler</li>\n  <li>Night security</li>\n</ul>",
+          "description": "Hacienda Medina is a 12-bedroom villa sleeping 24, with a huge central pool, two rooftop grill terraces, jacuzzis in four suites, and double kitchens, dining, and living rooms. Butler, private chef, concierge, daily cleaning, and night security included.",
+          "name": "Hacienda Medina",
+          "slug": "hacienda-medina"
+        },
+        "es": {
+          "body": "<h1>Hacienda Medina</h1>\n<p>A twelve-bedroom hacienda sleeping twenty-four, built as two mirrored wings — double kitchens, dining rooms, and living rooms — around a huge central pool. Every bedroom has its own ensuite bathroom, four of them with a private jacuzzi, and twin rooftop terraces each carry their own grill.</p>\n<h2>Bedrooms</h2>\n<ul>\n  <li><strong>Bedrooms 1–4</strong> — King bed, private jacuzzi, ensuite bathroom (×4)</li>\n  <li><strong>Bedrooms 5–9</strong> — King bed, ensuite bathroom (×5)</li>\n  <li><strong>Bedroom 10</strong> — Two single beds, ensuite bathroom</li>\n  <li><strong>Bedrooms 11–12</strong> — King bed, ensuite bathroom (×2)</li>\n</ul>\n<h2>Property features</h2>\n<ul>\n  <li>Huge central pool</li>\n  <li>Two rooftop terraces, each with a grill</li>\n  <li>Two dining areas seating 18</li>\n  <li>Two kitchens, two dining rooms, two living rooms</li>\n  <li>Two break rooms with TV</li>\n  <li>Private parking for up to 3 cars</li>\n</ul>\n<h2>Included services</h2>\n<ul>\n  <li>Daily cleaning</li>\n  <li>Concierge</li>\n  <li>Private chef</li>\n  <li>Butler</li>\n  <li>Night security</li>\n</ul>",
+          "description": "Hacienda Medina is a 12-bedroom villa sleeping 24, with a huge central pool, two rooftop grill terraces, jacuzzis in four suites, and double kitchens, dining, and living rooms. Butler, private chef, concierge, daily cleaning, and night security included.",
+          "name": "Hacienda Medina",
+          "slug": "hacienda-medina"
+        }
+      }
+    },
+    {
+      "base": {
+        "amenityIds": [
+          "jn796fkb2npe38c126gkzmhe85858yf5",
+          "jn7esswnv5546m1yxfdabkgea585jzrs",
+          "jn759h6mpgpqbe74w1z2sbj4r585k9x3",
+          "jn7dnm1kp63ahnqvjhhyz7944d859qpv",
+          "jn785xwma32ccwqp23911rkcds85k29g",
+          "jn70e7zea8k1cbnab25vmzkf4185kc0b",
+          "jn78c0kww3ghntsrs0x74x0whx85j8ft",
+          "jn705g0j2n2cepzkmt4gd3jxr585kbvm",
+          "jn7aqn3qjzw3j6qmesp89m823s85kby8"
+        ],
+        "area": "la-veleta",
+        "bathrooms": "8",
+        "bedrooms": "8",
+        "beds": "8",
+        "category": "villa",
+        "categoryIds": [],
+        "faqIds": [],
+        "googleMapsCode": "5GWG+JJ Tulum, Quintana Roo",
+        "mainImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/997cbe05-7376-461a-c4bb-3ef96f521000/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+        "mainImageAlt": null,
+        "otherImages": [
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/a76ae455-3ea2-4459-89bd-082dd2277600/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down"
+        ],
+        "otherImagesAlts": [],
+        "pricePerNight": null,
+        "reviewIds": [],
+        "secondImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/1f8fba4e-d040-4eb3-8d71-8a9b70527900/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+        "secondImageAlt": null,
+        "sleeps": "16",
+        "thirdImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/c5e516ff-3548-4234-9934-5f27814a4000/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+        "thirdImageAlt": null
+      },
+      "convexId": "kh74q21qae88hg01d3yng5b7s589417n",
+      "lastUpdated": "2026-06-22T02:49:58.305Z",
+      "locales": {
+        "en": {
+          "body": "<h1>Villa Chamana</h1>\n<p>An eight-bedroom wellness retreat in La Veleta sleeping sixteen, built around ritual and recovery as much as rest. The grounds pair a stunning pool with an ojo de agua, and the wellness program runs deep — a spa, a temazcal, a mirror temple, a gym, and a boxing ring — alongside a movie room and coworking cabins for groups balancing switching off with getting things done.</p>\n<h2>Bedrooms</h2>\n<ul>\n  <li><strong>Bedrooms 1–8</strong> — King bed, ensuite bathroom with shower and free-standing bathtub, perfume counter (×8)</li>\n</ul>\n<h2>Wellness &amp; amenities</h2>\n<ul>\n  <li>Stunning pool and ojo de agua</li>\n  <li>Spa, temazcal, and mirror temple</li>\n  <li>Gym and boxing ring</li>\n  <li>Movie room</li>\n  <li>Coworking cabins</li>\n</ul>\n<h2>Included services</h2>\n<ul>\n  <li>Butler</li>\n  <li>Private chef</li>\n  <li>Concierge</li>\n  <li>Daily cleaning</li>\n  <li>Round-trip transportation</li>\n  <li>Security</li>\n</ul>",
+          "description": "Villa Chamana is an 8-bedroom wellness retreat in La Veleta sleeping 16 — a stunning pool and ojo de agua, plus a spa, temazcal, gym, boxing ring, movie room, and coworking cabins. Butler, chef, concierge, daily cleaning, round-trip transport, and security included.",
+          "name": "Villa Chamana",
+          "slug": "villa-chamana"
+        },
+        "es": {
+          "body": "<h1>Villa Chamana</h1>\n<p>An eight-bedroom wellness retreat in La Veleta sleeping sixteen, built around ritual and recovery as much as rest. The grounds pair a stunning pool with an ojo de agua, and the wellness program runs deep — a spa, a temazcal, a mirror temple, a gym, and a boxing ring — alongside a movie room and coworking cabins for groups balancing switching off with getting things done.</p>\n<h2>Bedrooms</h2>\n<ul>\n  <li><strong>Bedrooms 1–8</strong> — King bed, ensuite bathroom with shower and free-standing bathtub, perfume counter (×8)</li>\n</ul>\n<h2>Wellness &amp; amenities</h2>\n<ul>\n  <li>Stunning pool and ojo de agua</li>\n  <li>Spa, temazcal, and mirror temple</li>\n  <li>Gym and boxing ring</li>\n  <li>Movie room</li>\n  <li>Coworking cabins</li>\n</ul>\n<h2>Included services</h2>\n<ul>\n  <li>Butler</li>\n  <li>Private chef</li>\n  <li>Concierge</li>\n  <li>Daily cleaning</li>\n  <li>Round-trip transportation</li>\n  <li>Security</li>\n</ul>",
+          "description": "Villa Chamana is an 8-bedroom wellness retreat in La Veleta sleeping 16 — a stunning pool and ojo de agua, plus a spa, temazcal, gym, boxing ring, movie room, and coworking cabins. Butler, chef, concierge, daily cleaning, round-trip transport, and security included.",
+          "name": "Villa Chamana",
+          "slug": "villa-chamana"
+        }
+      }
+    },
+    {
+      "base": {
+        "amenityIds": [
+          "jn796fkb2npe38c126gkzmhe85858yf5",
+          "jn7brzqrezwp2cn80n84arv4t985k77w",
+          "jn7esswnv5546m1yxfdabkgea585jzrs",
+          "jn74701wrrgsk24wp2wzadpae185kzb5",
+          "jn705g0j2n2cepzkmt4gd3jxr585kbvm",
+          "jn78c0kww3ghntsrs0x74x0whx85j8ft"
+        ],
+        "area": "la-veleta",
+        "bathrooms": "8",
+        "bedrooms": "8",
+        "beds": "10",
+        "category": "villa",
+        "categoryIds": [],
+        "faqIds": [],
+        "googleMapsCode": "6G2J+RG La Veleta, Tulum, Quintana Roo",
+        "mainImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/a1a723fa-56fa-4186-7fd0-4bf503b74600/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+        "mainImageAlt": null,
+        "otherImages": [
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/76749b3e-ea57-4744-81e7-b46f9ec42300/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/2f7fd8cf-9793-4ed1-535a-c51b5f394100/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/7cf0f298-f1ce-48ea-b543-cd1d43360f00/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/f9a981c0-e402-4880-d37f-ff9883015100/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/51a58d9c-705c-478d-5977-54564d6fd400/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/358b3db2-b891-434c-befc-012b0d8d7300/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/66d3be28-f747-4c45-36dd-a635f6d59200/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/4b204ae4-70b0-4320-0e66-2f9f3b1aaf00/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/c7e41791-7b8a-461d-9d58-2bea8e13ca00/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/58d2506e-2471-4916-d782-a65584b89900/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/3f83de9f-e776-4dd4-a2f6-d2b3ad0fc700/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/cebad380-40ca-4e6e-0a7e-2f3ef1494d00/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/c20317ee-5bae-450a-1b3c-6bd574580300/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down"
+        ],
+        "otherImagesAlts": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "pricePerNight": null,
+        "reviewIds": [],
+        "secondImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/797f14b6-349e-425c-c7f9-01a9ca7ae300/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+        "secondImageAlt": null,
+        "sleeps": "18",
+        "thirdImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/50befc52-dd30-4911-ec32-e1838fb83000/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+        "thirdImageAlt": null
+      },
+      "convexId": "kh7c0k8pxkx2a2505xy0sfa0r18945jz",
+      "lastUpdated": "2026-06-22T03:15:23.978Z",
+      "locales": {
+        "en": {
+          "body": "<h1>16Tulum</h1>\n<p>An eight-bedroom villa in La Veleta sleeping eighteen, with a huge pool and lounge at its centre and a large space built for events. Every bedroom has its own ensuite bathroom; the primary suite adds two single beds alongside its king, making room for a family or a larger group.</p>\n<h2>Bedrooms</h2>\n<ul>\n  <li><strong>Primary suite</strong> — King bed plus two single beds, ensuite bathroom</li>\n  <li><strong>Bedrooms 2–8</strong> — King bed, ensuite bathroom (×7)</li>\n</ul>\n<h2>Property features</h2>\n<ul>\n  <li>Huge pool and lounge</li>\n  <li>Jacuzzi</li>\n  <li>Movie room with projector</li>\n  <li>Chef's kitchen</li>\n  <li>Large event space</li>\n</ul>\n<h2>Included services</h2>\n<ul>\n  <li>Housekeeping</li>\n  <li>Concierge</li>\n</ul>",
+          "description": "16Tulum is an 8-bedroom villa in La Veleta sleeping 18, with a huge pool and lounge, a jacuzzi, a projector movie room, a chef's kitchen, and a large event space. Housekeeping and concierge included.",
+          "name": "16Tulum",
+          "slug": "16tulum"
+        },
+        "es": {
+          "body": "<h1>16Tulum</h1>\n<p>An eight-bedroom villa in La Veleta sleeping eighteen, with a huge pool and lounge at its centre and a large space built for events. Every bedroom has its own ensuite bathroom; the primary suite adds two single beds alongside its king, making room for a family or a larger group.</p>\n<h2>Bedrooms</h2>\n<ul>\n  <li><strong>Primary suite</strong> — King bed plus two single beds, ensuite bathroom</li>\n  <li><strong>Bedrooms 2–8</strong> — King bed, ensuite bathroom (×7)</li>\n</ul>\n<h2>Property features</h2>\n<ul>\n  <li>Huge pool and lounge</li>\n  <li>Jacuzzi</li>\n  <li>Movie room with projector</li>\n  <li>Chef's kitchen</li>\n  <li>Large event space</li>\n</ul>\n<h2>Included services</h2>\n<ul>\n  <li>Housekeeping</li>\n  <li>Concierge</li>\n</ul>",
+          "description": "16Tulum is an 8-bedroom villa in La Veleta sleeping 18, with a huge pool and lounge, a jacuzzi, a projector movie room, a chef's kitchen, and a large event space. Housekeeping and concierge included.",
+          "name": "16Tulum",
+          "slug": "16tulum"
+        }
+      }
+    },
+    {
+      "base": {
+        "amenityIds": [
+          "jn796fkb2npe38c126gkzmhe85858yf5",
+          "jn74701wrrgsk24wp2wzadpae185kzb5",
+          "jn74axgjrqtsa18w8nxttnxfg5859e39",
+          "jn7aezhd1k49s3sn0r7we2k5h985ksxk",
+          "jn70e7zea8k1cbnab25vmzkf4185kc0b",
+          "jn705g0j2n2cepzkmt4gd3jxr585kbvm",
+          "jn78c0kww3ghntsrs0x74x0whx85j8ft"
+        ],
+        "area": "region-8",
+        "bathrooms": "8",
+        "bedrooms": "8",
+        "beds": "9",
+        "category": "villa",
+        "categoryIds": [],
+        "faqIds": [],
+        "googleMapsCode": null,
+        "mainImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/51d56447-54be-484a-8702-f5ca41429b00/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+        "mainImageAlt": null,
+        "otherImages": [
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/9f71b59f-b9be-4299-2300-387251681500/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/8aa1acfb-f506-4235-fd05-9c58703e0a00/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/2a177d4b-757f-429a-b227-193773e8ff00/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/4dad8ab5-2621-4182-7a5e-f704bfb6f900/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/3b857a77-f721-4ba0-c7d2-e45beb594200/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/ebb19447-f9bd-4ca8-7bde-f41cd84ff200/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/7c94e27c-b1be-435f-b604-c5ae4772ff00/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/62dffc9c-9043-450c-f0d7-ca3d2b602300/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/43f15397-10b0-44ea-e982-cb002a15d700/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/6ef426cc-f3ab-4f38-51e9-4fae3a870400/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down"
+        ],
+        "otherImagesAlts": [],
+        "pricePerNight": null,
+        "reviewIds": [],
+        "secondImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/e689eac5-5031-4893-21e5-2a5bf8cec700/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+        "secondImageAlt": null,
+        "sleeps": "18",
+        "thirdImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/abb2c7f3-ad60-48ad-e036-39eb5fb90500/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+        "thirdImageAlt": null
+      },
+      "convexId": "kh7914thstfdgczta9sjbhgpds895sb4",
+      "lastUpdated": "2026-06-22T03:05:37.600Z",
+      "locales": {
+        "en": {
+          "body": "<h1>Villa Raes</h1>\n<p>An eight-bedroom villa in Region 8 sleeping eighteen, built for groups that want to host. Dual pools — including an upper-level plunge pool — anchor the grounds alongside an event pavilion, a cabana bar, a pickleball court, and a covered outdoor dining area served by a BBQ, grill, and pizza oven. Every bedroom has its own ensuite bathroom, and the master adds a private terrace with its own plunge pool.</p>\n<h2>Bedrooms</h2>\n<ul>\n  <li><strong>Master suite</strong> — King bed, private terrace with plunge pool, ensuite bathroom</li>\n  <li><strong>Bedrooms 2–7</strong> — King bed, ensuite bathroom (×6)</li>\n  <li><strong>Bedroom 8</strong> — Two single bunk beds, ensuite bathroom</li>\n</ul>\n<h2>Property features</h2>\n<ul>\n  <li>Dual pools, including an upper-level plunge pool</li>\n  <li>Pickleball court with equipment</li>\n  <li>Event pavilion</li>\n  <li>Cabana bar</li>\n  <li>Outdoor BBQ, grill, and pizza oven</li>\n  <li>Covered outdoor dining</li>\n</ul>\n<h2>Included services</h2>\n<ul>\n  <li>Chef service</li>\n  <li>Daily housekeeping</li>\n  <li>Concierge</li>\n</ul>",
+          "description": "Villa Raes is an 8-bedroom villa in Tulum's Region 8 sleeping 18, with dual pools (including an upper-level plunge pool), a pickleball court, an event pavilion, a cabana bar, and an outdoor BBQ kitchen with pizza oven. Chef service, daily housekeeping, and concierge included.",
+          "name": "Villa Raes",
+          "slug": "villa-raes"
+        },
+        "es": {
+          "body": "<h1>Villa Raes</h1>\n<p>An eight-bedroom villa in Region 8 sleeping eighteen, built for groups that want to host. Dual pools — including an upper-level plunge pool — anchor the grounds alongside an event pavilion, a cabana bar, a pickleball court, and a covered outdoor dining area served by a BBQ, grill, and pizza oven. Every bedroom has its own ensuite bathroom, and the master adds a private terrace with its own plunge pool.</p>\n<h2>Bedrooms</h2>\n<ul>\n  <li><strong>Master suite</strong> — King bed, private terrace with plunge pool, ensuite bathroom</li>\n  <li><strong>Bedrooms 2–7</strong> — King bed, ensuite bathroom (×6)</li>\n  <li><strong>Bedroom 8</strong> — Two single bunk beds, ensuite bathroom</li>\n</ul>\n<h2>Property features</h2>\n<ul>\n  <li>Dual pools, including an upper-level plunge pool</li>\n  <li>Pickleball court with equipment</li>\n  <li>Event pavilion</li>\n  <li>Cabana bar</li>\n  <li>Outdoor BBQ, grill, and pizza oven</li>\n  <li>Covered outdoor dining</li>\n</ul>\n<h2>Included services</h2>\n<ul>\n  <li>Chef service</li>\n  <li>Daily housekeeping</li>\n  <li>Concierge</li>\n</ul>",
+          "description": "Villa Raes is an 8-bedroom villa in Tulum's Region 8 sleeping 18, with dual pools (including an upper-level plunge pool), a pickleball court, an event pavilion, a cabana bar, and an outdoor BBQ kitchen with pizza oven. Chef service, daily housekeeping, and concierge included.",
+          "name": "Villa Raes",
+          "slug": "villa-raes"
+        }
+      }
+    },
+    {
+      "base": {
+        "amenityIds": [
+          "jn74axgjrqtsa18w8nxttnxfg5859e39",
+          "jn796fkb2npe38c126gkzmhe85858yf5",
+          "jn7aqn3qjzw3j6qmesp89m823s85kby8",
+          "jn759h6mpgpqbe74w1z2sbj4r585k9x3",
+          "jn705g0j2n2cepzkmt4gd3jxr585kbvm",
+          "jn78c0kww3ghntsrs0x74x0whx85j8ft"
+        ],
+        "area": "aldea-zama",
+        "bathrooms": "12",
+        "bedrooms": "12",
+        "beds": "12",
+        "category": "villa",
+        "categoryIds": [],
+        "faqIds": [],
+        "googleMapsCode": null,
+        "mainImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/87de4f49-4a23-482a-0e57-2a1f3e130b00/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+        "mainImageAlt": null,
+        "otherImages": [
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/0b15b9c2-cc21-43f9-da4a-50f0f4876a00/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/d08c31e6-06b8-4651-a35f-aa4d1f24ac00/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/99d5de69-d24e-4454-176d-fa41a4f10500/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/4e7a6345-6a9a-473a-25f3-d28750e5f500/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/13871988-f79e-485e-42a4-fecc680e3d00/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/e63551e3-2962-4fa8-e10a-aa5e38b80800/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/b2a1f1db-b9a3-418e-7605-5a7ab9db0000/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/a493b9d5-21ff-4c95-9380-db56d10c6400/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/303d04eb-35eb-4766-1bb5-d737b294f800/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/daf5efa8-e214-4e02-15ad-e8629e898600/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down"
+        ],
+        "otherImagesAlts": [],
+        "pricePerNight": null,
+        "reviewIds": [],
+        "secondImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/61840dc3-f00a-4f40-a94b-ebc68341be00/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+        "secondImageAlt": null,
+        "sleeps": "24",
+        "thirdImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/a05f2b70-6add-4caf-f2a7-fd4a35dd4000/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+        "thirdImageAlt": null
+      },
+      "convexId": "kh78wwcp584744qkc4hnpjsqy5894q7q",
+      "lastUpdated": "2026-06-22T03:09:05.919Z",
+      "locales": {
+        "en": {
+          "body": "<h1>Villa Sand</h1>\n<p>A twelve-bedroom compound in the gated Losantos community in Aldea Zama, sleeping twenty-four across four private units — two four-bedroom units and two two-bedroom penthouses, each with its own pool. Every group gets private bar and lounge space, an outdoor dining area, and a BBQ grill, while Losantos adds a massive shared pool, a fully-equipped gym, a paddle court, sundeck lounges, a dining space, and a firepit-and-grill area, all behind 24/7 security.</p>\n<h2>Bedrooms</h2>\n<ul>\n  <li><strong>Two units</strong> — four bedrooms each (eight bedrooms)</li>\n  <li><strong>Two penthouses</strong> — two bedrooms each (four bedrooms)</li>\n  <li>Twelve bedrooms in total — eight king beds and four queen beds</li>\n</ul>\n<h2>Private amenities</h2>\n<ul>\n  <li>Four pools — one per unit</li>\n  <li>Bar and lounge space</li>\n  <li>BBQ grill and outdoor dining area</li>\n</ul>\n<h2>Community amenities (Losantos)</h2>\n<ul>\n  <li>Massive community swimming pool</li>\n  <li>Fully equipped gym</li>\n  <li>Paddle court</li>\n  <li>Sundeck and lounge areas</li>\n  <li>Dining space</li>\n  <li>Firepit and grill area</li>\n  <li>24/7 security</li>\n</ul>\n<h2>Included services</h2>\n<ul>\n  <li>Daily cleaning</li>\n  <li>Concierge assistance</li>\n</ul>",
+          "description": "Villa Sand is a 12-bedroom compound in Aldea Zama's gated Losantos community, sleeping 24 across two 4-bedroom units and two penthouses — four units, four private pools. Private bar and BBQ, plus a community gym, pool, and paddle court behind 24/7 security. Daily cleaning and concierge included.",
+          "name": "Villa Sand",
+          "slug": "villa-sand"
+        },
+        "es": {
+          "body": "<h1>Villa Sand</h1>\n<p>A twelve-bedroom compound in the gated Losantos community in Aldea Zama, sleeping twenty-four across four private units — two four-bedroom units and two two-bedroom penthouses, each with its own pool. Every group gets private bar and lounge space, an outdoor dining area, and a BBQ grill, while Losantos adds a massive shared pool, a fully-equipped gym, a paddle court, sundeck lounges, a dining space, and a firepit-and-grill area, all behind 24/7 security.</p>\n<h2>Bedrooms</h2>\n<ul>\n  <li><strong>Two units</strong> — four bedrooms each (eight bedrooms)</li>\n  <li><strong>Two penthouses</strong> — two bedrooms each (four bedrooms)</li>\n  <li>Twelve bedrooms in total — eight king beds and four queen beds</li>\n</ul>\n<h2>Private amenities</h2>\n<ul>\n  <li>Four pools — one per unit</li>\n  <li>Bar and lounge space</li>\n  <li>BBQ grill and outdoor dining area</li>\n</ul>\n<h2>Community amenities (Losantos)</h2>\n<ul>\n  <li>Massive community swimming pool</li>\n  <li>Fully equipped gym</li>\n  <li>Paddle court</li>\n  <li>Sundeck and lounge areas</li>\n  <li>Dining space</li>\n  <li>Firepit and grill area</li>\n  <li>24/7 security</li>\n</ul>\n<h2>Included services</h2>\n<ul>\n  <li>Daily cleaning</li>\n  <li>Concierge assistance</li>\n</ul>",
+          "description": "Villa Sand is a 12-bedroom compound in Aldea Zama's gated Losantos community, sleeping 24 across two 4-bedroom units and two penthouses — four units, four private pools. Private bar and BBQ, plus a community gym, pool, and paddle court behind 24/7 security. Daily cleaning and concierge included.",
+          "name": "Villa Sand",
+          "slug": "villa-sand"
+        }
+      }
+    },
+    {
+      "base": {
+        "amenityIds": [
+          "jn796fkb2npe38c126gkzmhe85858yf5",
+          "jn7brzqrezwp2cn80n84arv4t985k77w",
+          "jn77s3v89mkdcb9d9yydgsx3vd858sbk",
+          "jn74axgjrqtsa18w8nxttnxfg5859e39",
+          "jn7dnm1kp63ahnqvjhhyz7944d859qpv",
+          "jn70zn5gpwjkfxwnbkd4948rv5859d8d",
+          "jn76cg9jqcvq6gh3xwf0cj2c2s859sx2",
+          "jn705g0j2n2cepzkmt4gd3jxr585kbvm",
+          "jn78c0kww3ghntsrs0x74x0whx85j8ft"
+        ],
+        "area": "aldea-zama",
+        "bathrooms": "5",
+        "bedrooms": "5",
+        "beds": "7",
+        "category": "villa",
+        "categoryIds": [],
+        "faqIds": [],
+        "googleMapsCode": null,
+        "mainImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/4d5f4e6f-8273-46e5-76c3-ca057f2ad500/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+        "mainImageAlt": null,
+        "otherImages": [
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/c7b2bc7b-9e13-4f91-d9af-812da0c97e00/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/507ea5b5-4618-43b0-ec43-f0c170489c00/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/b6663b48-ebc7-49d9-8cef-60a3fb7d1400/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/20d76013-3919-4416-3593-d81d72732000/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/b73ad6f8-ef0e-4d83-7865-7594dc4a3600/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/d731f57c-59ec-4447-ec08-06d74c744100/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/5a4149b8-a87f-4254-224d-387b8c035300/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/8ee1bfb6-e8d6-4d52-816e-fd735c52ff00/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/c7bcf70c-b428-4368-0629-f283b6026d00/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/ae2cb7d3-c0ee-41dd-4a78-f1ce46b14e00/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/4277e730-851b-489b-338d-296b8d160800/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down"
+        ],
+        "otherImagesAlts": [],
+        "pricePerNight": null,
+        "reviewIds": [],
+        "secondImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/ffddbea4-b6e0-4c44-a3e6-7096aadd2b00/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+        "secondImageAlt": null,
+        "sleeps": "14",
+        "thirdImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/792c64b9-972f-431d-cc32-871100e77f00/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+        "thirdImageAlt": null
+      },
+      "convexId": "kh7athsra1bn9zqdjkbjw19zd18948t4",
+      "lastUpdated": "2026-06-22T03:13:47.356Z",
+      "locales": {
+        "en": {
+          "body": "<h1>Villa Mao</h1>\n<p>A five-bedroom villa in the gated Losantos community in Aldea Zama, sleeping fourteen just eight minutes from the beach. A large garden pool with a lap line sits below a spectacular rooftop pool and hot tub, with a firepit, grill, lounge, and bar for the evenings and a dedicated massage suite for slower mornings. Every bedroom has its own ensuite bathroom and balcony, and the two primary suites add private jacuzzis.</p>\n<h2>Bedrooms</h2>\n<ul>\n  <li><strong>Primary suites 1–2</strong> — King bed, private jacuzzi, ensuite bathroom, balcony (×2)</li>\n  <li><strong>Suite 3</strong> — King bed, ensuite bathroom, balcony</li>\n  <li><strong>Suites 4–5</strong> — Two queen beds each, ensuite bathroom, balcony (×2)</li>\n</ul>\n<h2>Amenities</h2>\n<ul>\n  <li>Eight minutes from the beach</li>\n  <li>Large garden pool with lap line</li>\n  <li>Rooftop pool and hot tub</li>\n  <li>Firepit, grill, lounge, and bar area</li>\n  <li>Massage suite</li>\n  <li>Paddle court</li>\n</ul>\n<h2>Extras</h2>\n<ul>\n  <li>Two fully-equipped kitchens plus pantry</li>\n  <li>Full-villa water purification</li>\n  <li>Seamless power backup</li>\n  <li>Parking for three vehicles</li>\n  <li>High-speed Wi-Fi</li>\n</ul>\n<h2>Included services</h2>\n<ul>\n  <li>Housekeeping</li>\n  <li>Concierge</li>\n</ul>",
+          "description": "Villa Mao is a 5-bedroom villa in Aldea Zama's gated Losantos community, sleeping 14 just eight minutes from the beach — a lap-line garden pool, a rooftop pool and hot tub, a massage suite, and a firepit-grill-bar lounge. Housekeeping and concierge included.",
+          "name": "Villa Mao",
+          "slug": "villa-mao"
+        },
+        "es": {
+          "body": "<h1>Villa Mao</h1>\n<p>A five-bedroom villa in the gated Losantos community in Aldea Zama, sleeping fourteen just eight minutes from the beach. A large garden pool with a lap line sits below a spectacular rooftop pool and hot tub, with a firepit, grill, lounge, and bar for the evenings and a dedicated massage suite for slower mornings. Every bedroom has its own ensuite bathroom and balcony, and the two primary suites add private jacuzzis.</p>\n<h2>Bedrooms</h2>\n<ul>\n  <li><strong>Primary suites 1–2</strong> — King bed, private jacuzzi, ensuite bathroom, balcony (×2)</li>\n  <li><strong>Suite 3</strong> — King bed, ensuite bathroom, balcony</li>\n  <li><strong>Suites 4–5</strong> — Two queen beds each, ensuite bathroom, balcony (×2)</li>\n</ul>\n<h2>Amenities</h2>\n<ul>\n  <li>Eight minutes from the beach</li>\n  <li>Large garden pool with lap line</li>\n  <li>Rooftop pool and hot tub</li>\n  <li>Firepit, grill, lounge, and bar area</li>\n  <li>Massage suite</li>\n  <li>Paddle court</li>\n</ul>\n<h2>Extras</h2>\n<ul>\n  <li>Two fully-equipped kitchens plus pantry</li>\n  <li>Full-villa water purification</li>\n  <li>Seamless power backup</li>\n  <li>Parking for three vehicles</li>\n  <li>High-speed Wi-Fi</li>\n</ul>\n<h2>Included services</h2>\n<ul>\n  <li>Housekeeping</li>\n  <li>Concierge</li>\n</ul>",
+          "description": "Villa Mao is a 5-bedroom villa in Aldea Zama's gated Losantos community, sleeping 14 just eight minutes from the beach — a lap-line garden pool, a rooftop pool and hot tub, a massage suite, and a firepit-grill-bar lounge. Housekeeping and concierge included.",
+          "name": "Villa Mao",
+          "slug": "villa-mao"
         }
       }
     }
