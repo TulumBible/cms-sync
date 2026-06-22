@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-06-22T03:18:34.054Z",
+  "syncedAt": "2026-06-22T03:51:06.782Z",
   "citySlug": "tulum",
   "villas": [
     {
@@ -32,7 +32,17 @@
           "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/86669a0a-4128-4259-cae9-5821f0291f00/public",
           "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/e1aba69b-7c43-4193-ab20-77e10c724d00/public"
         ],
-        "otherImagesAlts": [],
+        "otherImagesAlts": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
         "pricePerNight": null,
         "reviewIds": [],
         "secondImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/76ce1269-ff83-44a0-f2ff-fc7220af6900/public",
@@ -42,19 +52,19 @@
         "thirdImageAlt": null
       },
       "convexId": "kh75f076g7q0ycm4b17x5xc7s985jgxd",
-      "lastUpdated": "2026-06-21T18:12:01.668Z",
+      "lastUpdated": "2026-06-22T03:21:03.738Z",
       "locales": {
         "en": {
           "body": "<h1>Soulbox Villa</h1>\n<p>A five-bedroom retreat sleeping twelve — designed for groups that want full privacy and full amenity in one place. Every bedroom has its own ensuite bathroom; the social heart of the property runs from the luxury kitchen to a covered tiki bar and a large pool, with an outdoor gym tucked into the grounds.</p>\n<h2>Bedrooms</h2>\n<ul>\n  <li><strong>Bedroom 1</strong> — Two queen beds with ensuite bathroom</li>\n  <li><strong>Bedroom 2</strong> — King bed with ensuite bathroom</li>\n  <li><strong>Bedroom 3</strong> — King bed with ensuite bathroom</li>\n  <li><strong>Bedroom 4</strong> — King bed with ensuite bathroom</li>\n  <li><strong>Bedroom 5</strong> — King bed with ensuite bathroom (includes bathtub)</li>\n</ul>\n<h2>Property features</h2>\n<ul>\n  <li>Luxury kitchen</li>\n  <li>Tiki bar</li>\n  <li>Large pool</li>\n  <li>Outdoor gym</li>\n</ul>\n<h2>Included services</h2>\n<ul>\n  <li>Concierge</li>\n</ul>",
           "description": "Soulbox Villa is a 5-bedroom luxury retreat north of Tulum, sleeping 12, with a private pool, outdoor gym, tiki bar, and concierge service.",
-          "name": "Soulbox Villa",
-          "slug": "soulbox-villa"
+          "name": "Villa Soulbox",
+          "slug": "villa-soulbox"
         },
         "es": {
           "body": "<h1>Soulbox Villa</h1>\n<p>A five-bedroom retreat sleeping twelve — designed for groups that want full privacy and full amenity in one place. Every bedroom has its own ensuite bathroom; the social heart of the property runs from the luxury kitchen to a covered tiki bar and a large pool, with an outdoor gym tucked into the grounds.</p>\n<h2>Bedrooms</h2>\n<ul>\n  <li><strong>Bedroom 1</strong> — Two queen beds with ensuite bathroom</li>\n  <li><strong>Bedroom 2</strong> — King bed with ensuite bathroom</li>\n  <li><strong>Bedroom 3</strong> — King bed with ensuite bathroom</li>\n  <li><strong>Bedroom 4</strong> — King bed with ensuite bathroom</li>\n  <li><strong>Bedroom 5</strong> — King bed with ensuite bathroom (includes bathtub)</li>\n</ul>\n<h2>Property features</h2>\n<ul>\n  <li>Luxury kitchen</li>\n  <li>Tiki bar</li>\n  <li>Large pool</li>\n  <li>Outdoor gym</li>\n</ul>\n<h2>Included services</h2>\n<ul>\n  <li>Concierge</li>\n</ul>",
           "description": "Soulbox Villa is a 5-bedroom luxury retreat north of Tulum, sleeping 12, with a private pool, outdoor gym, tiki bar, and concierge service.",
-          "name": "Soulbox Villa",
-          "slug": "soulbox-villa"
+          "name": "Villa Soulbox",
+          "slug": "villa-soulbox"
         }
       }
     },
@@ -706,18 +716,18 @@
         "thirdImageAlt": null
       },
       "convexId": "kh7c0k8pxkx2a2505xy0sfa0r18945jz",
-      "lastUpdated": "2026-06-22T03:15:23.978Z",
+      "lastUpdated": "2026-06-22T03:51:02.891Z",
       "locales": {
         "en": {
           "body": "<h1>16Tulum</h1>\n<p>An eight-bedroom villa in La Veleta sleeping eighteen, with a huge pool and lounge at its centre and a large space built for events. Every bedroom has its own ensuite bathroom; the primary suite adds two single beds alongside its king, making room for a family or a larger group.</p>\n<h2>Bedrooms</h2>\n<ul>\n  <li><strong>Primary suite</strong> — King bed plus two single beds, ensuite bathroom</li>\n  <li><strong>Bedrooms 2–8</strong> — King bed, ensuite bathroom (×7)</li>\n</ul>\n<h2>Property features</h2>\n<ul>\n  <li>Huge pool and lounge</li>\n  <li>Jacuzzi</li>\n  <li>Movie room with projector</li>\n  <li>Chef's kitchen</li>\n  <li>Large event space</li>\n</ul>\n<h2>Included services</h2>\n<ul>\n  <li>Housekeeping</li>\n  <li>Concierge</li>\n</ul>",
           "description": "16Tulum is an 8-bedroom villa in La Veleta sleeping 18, with a huge pool and lounge, a jacuzzi, a projector movie room, a chef's kitchen, and a large event space. Housekeeping and concierge included.",
-          "name": "16Tulum",
+          "name": "16 Tulum",
           "slug": "16tulum"
         },
         "es": {
           "body": "<h1>16Tulum</h1>\n<p>An eight-bedroom villa in La Veleta sleeping eighteen, with a huge pool and lounge at its centre and a large space built for events. Every bedroom has its own ensuite bathroom; the primary suite adds two single beds alongside its king, making room for a family or a larger group.</p>\n<h2>Bedrooms</h2>\n<ul>\n  <li><strong>Primary suite</strong> — King bed plus two single beds, ensuite bathroom</li>\n  <li><strong>Bedrooms 2–8</strong> — King bed, ensuite bathroom (×7)</li>\n</ul>\n<h2>Property features</h2>\n<ul>\n  <li>Huge pool and lounge</li>\n  <li>Jacuzzi</li>\n  <li>Movie room with projector</li>\n  <li>Chef's kitchen</li>\n  <li>Large event space</li>\n</ul>\n<h2>Included services</h2>\n<ul>\n  <li>Housekeeping</li>\n  <li>Concierge</li>\n</ul>",
           "description": "16Tulum is an 8-bedroom villa in La Veleta sleeping 18, with a huge pool and lounge, a jacuzzi, a projector movie room, a chef's kitchen, and a large event space. Housekeeping and concierge included.",
-          "name": "16Tulum",
+          "name": "16 Tulum",
           "slug": "16tulum"
         }
       }
