@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-06-24T14:28:53.523Z",
+  "syncedAt": "2026-06-24T15:58:53.658Z",
   "citySlug": "tulum",
   "yachts": [
     {
@@ -755,6 +755,143 @@
           "boatSummary": "Sail the Aventura 34, a modern 10.3-meter catamaran ideal for up to 15 guests. Enjoy sunbathing, shaded relaxation, and luxury amenities like a premium bar and high-end sound system, perfect for intimate gatherings on the Caribbean waters of Tulum.",
           "name": "Aventura 34",
           "slug": "aventura-34"
+        }
+      }
+    },
+    {
+      "base": {
+        "categoryIds": [],
+        "faqIds": [],
+        "images": {
+          "extras": [
+            "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/c914f2c3-9dce-4753-77d7-fbc7cbba3800/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+            "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/5c765d31-d8f8-4f4d-4ceb-88786b525600/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+            "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/9a959678-ec0a-4cd9-479f-fc9c5bde3000/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+            "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/2a82b9fe-8f0d-424c-de8c-b53cc82cc200/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+            "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/ce4e114d-f480-4fb9-672c-7d36e9acca00/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+            "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/bb450a2d-3fad-4986-bbbb-5ddd664e6500/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down"
+          ],
+          "extrasAlts": [
+            "Azimut 58 luxury yacht charter in Tulum",
+            "Azimut 58 luxury yacht charter in Tulum",
+            "Azimut 58 luxury yacht charter in Tulum",
+            "Azimut 58 luxury yacht charter in Tulum",
+            "Azimut 58 luxury yacht charter in Tulum",
+            "Azimut 58 luxury yacht charter in Tulum"
+          ],
+          "image1": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/bda797dc-a915-46d2-5ee4-02cd0e514e00/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+          "image1Alt": "Azimut 58 luxury yacht charter in Tulum",
+          "image2": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/92021a6b-4972-4833-5388-cddb6b23ea00/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+          "image2Alt": "Azimut 58 luxury yacht charter in Tulum",
+          "image3": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/e49816f8-31e2-4de5-4118-1f86a6c51e00/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+          "image3Alt": "Azimut 58 luxury yacht charter in Tulum",
+          "image4": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/e6a4b1a1-acda-4af6-53f4-abbb60e77d00/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down",
+          "image4Alt": "Azimut 58 luxury yacht charter in Tulum"
+        },
+        "packages": [
+          {
+            "descriptionEn": "An intimate evening charter from 8pm — sunset on the water with a private chef's dinner and top-shelf open bar, captain and crew aboard.",
+            "descriptionEs": null,
+            "durationCategory": "half-day",
+            "key": "romanticDinner",
+            "price": "$950",
+            "title": "Romantic Dinner"
+          },
+          {
+            "descriptionEn": "A three-hour morning cruise along the coast — captain, crew, and an onboard chef, fresh food, and a top-shelf open bar. The quick, polished way onto the water.",
+            "descriptionEs": null,
+            "durationCategory": "half-day",
+            "key": "hours3",
+            "price": "$2,450",
+            "title": "3 Hours"
+          },
+          {
+            "descriptionEn": "Five hours along the coastline with time to swim and snorkel — full crew and an onboard chef, gourmet food, and a top-shelf open bar throughout.",
+            "descriptionEs": null,
+            "durationCategory": "half-day",
+            "key": "hours5",
+            "price": "$2,850",
+            "title": "5 Hours"
+          },
+          {
+            "descriptionEn": "Six hours with room to roam the coast — swim stops, a chef-prepared spread, and a top-shelf open bar, all with captain and crew aboard.",
+            "descriptionEs": null,
+            "durationCategory": "half-day",
+            "key": "hours6",
+            "price": "$3,250",
+            "title": "6 Hours"
+          },
+          {
+            "descriptionEn": "A full day on the water — nine hours to reach the best spots and swim at leisure, with captain, crew, an onboard chef, and top-shelf open bar from start to finish.",
+            "descriptionEs": null,
+            "durationCategory": "full-day",
+            "key": "hours9",
+            "price": "$4,850",
+            "title": "9 Hours"
+          },
+          {
+            "descriptionEn": "Two days aboard with the night free — sleep on the water, wake to the sea, and enjoy chef-prepared meals and full crew service across the whole stay.",
+            "descriptionEs": null,
+            "durationCategory": "full-day",
+            "key": "overnight",
+            "price": "$9,700",
+            "title": "Overnight (2 days · free night)"
+          },
+          {
+            "descriptionEn": "A bachelorette add-on for the bride-to-be and her crew, layered onto your 5h, 6h, or 9h charter.",
+            "descriptionEs": null,
+            "durationCategory": "add-on",
+            "key": "bachelorette",
+            "price": "+$200",
+            "title": "Bachelorette"
+          },
+          {
+            "descriptionEn": "Bring a DJ aboard for the evening — a live set to turn the golden hours into a party. Available on 5h, 6h, and 9h charters.",
+            "descriptionEs": null,
+            "durationCategory": "add-on",
+            "key": "djEveningBeat",
+            "price": "+$400 (5h) · +$500 (6h) · +$900 (9h)",
+            "title": "DJ Evening Beat"
+          },
+          {
+            "descriptionEn": "Add a stop at El Cielo, Cozumel's shallow reef and starfish sanctuary — crystal water and snorkeling over white sand. Full-day and overnight charters (marine-park fee applies).",
+            "descriptionEs": null,
+            "durationCategory": "add-on",
+            "key": "elCieloCozumel",
+            "price": "+$300 (9h) · +$600 (overnight)",
+            "title": "El Cielo Cozumel"
+          },
+          {
+            "descriptionEn": "Add a tender trip to Akumal to snorkel with wild sea turtles in their feeding grounds. Available on the 9-hour charter (park marine fee applies).",
+            "descriptionEs": null,
+            "durationCategory": "add-on",
+            "key": "turtlesAkumal",
+            "price": "+$550 (9h)",
+            "title": "Turtles at Akumal"
+          }
+        ],
+        "reviewIds": [],
+        "specs": {
+          "bathrooms": "2",
+          "cabins": "3",
+          "capacity": "15",
+          "length": "58"
+        }
+      },
+      "convexId": "kn7bpj3d01t4b45pm4x7mv6w4h899zs9",
+      "lastUpdated": "2026-06-24T15:58:37.080Z",
+      "locales": {
+        "en": {
+          "boatBody": "<p>Our beautiful Azimut 58' is one of the most luxurious and comfortable boats in the area. The brand is renowned as one of the finest in Italian design and comfort, and the harmonious combination of a sport exterior and elegant interiors will please guests of any age and lifestyle. It was designed to provide an experience of total luxury.</p>\n<h3>Details</h3>\n<ul>\n  <li>Designer: Azimut Yachts — 58 ft (12.2 m)</li>\n  <li>Up to 15 guests · 3 cabins · 2 showers · 2 toilets</li>\n  <li>Kitchen and living room for 10</li>\n  <li>Plenty of shaded areas</li>\n  <li>High-end sound system and air conditioning</li>\n  <li>Unlimited premium open bar</li>\n  <li>Snorkeling equipment, two paddle boards, inflatables, and towels</li>\n</ul>",
+          "boatSummary": "One of the area's most luxurious yachts — 58 feet of Italian design and comfort for up to 15 guests.",
+          "name": "Azimut 58",
+          "slug": "azimut-58"
+        },
+        "es": {
+          "boatBody": "<p>Nuestro hermoso Azimut 58' es uno de los yates más lujosos y cómodos de la zona. La marca es reconocida como una de las mejores en diseño y comodidad italianos, y la combinación armoniosa de un exterior deportivo y la elegancia de los interiores complace a los pasajeros de todas las edades y estilos de vida. Fue diseñado para brindar una experiencia de lujo total.</p>\n<h3>Detalles</h3>\n<ul>\n  <li>Diseñador: Azimut Yachts — 58 ft (12.2 m)</li>\n  <li>Hasta 15 personas · 3 camarotes · 2 regaderas · 2 baños</li>\n  <li>Cocina y sala para 10 personas</li>\n  <li>Amplias zonas de sombra</li>\n  <li>Sistema de sonido de alta gama y aire acondicionado</li>\n  <li>Barra libre premium ilimitada</li>\n  <li>Equipo de snorkel, dos tablas de paddle, juguetes inflables y toallas</li>\n</ul>",
+          "boatSummary": "Uno de los yates más lujosos de la zona: 58 pies de diseño y confort italianos para hasta 15 personas.",
+          "name": "Azimut 58",
+          "slug": "azimut-58"
         }
       }
     }
