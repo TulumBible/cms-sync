@@ -1,6 +1,507 @@
 {
-  "syncedAt": "2026-06-25T02:22:59.475Z",
+  "syncedAt": "2026-06-25T02:34:43.807Z",
   "citySlug": "tulum",
-  "events": [],
+  "events": [
+    {
+      "base": {
+        "buyLink": "https://wa.me/529841301037?text=Hello!%20I'm%20interested%20in%20tickets%20for%20Rufus%20Du%20Sol%20Tulum%202026",
+        "categoryIds": [],
+        "cta": "Tickets",
+        "endDate": "2026-06-26T23:59:00-05:00",
+        "eventType": "Festival",
+        "faqIds": [],
+        "flyerAlt": null,
+        "flyerUrl": "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/68b8829c8e38349d32387c73_WhatsApp%20Image%202025-09-03%20at%2018.40.00.jpeg",
+        "gaLink": null,
+        "gaPrice": null,
+        "isFeatured": false,
+        "isPublished": true,
+        "noPrice": false,
+        "promotion": "featured",
+        "publishedAt": "2026-06-25T02:22:48.797Z",
+        "qrCode": null,
+        "startDate": "2026-06-26T22:00:00-05:00",
+        "status": "Ended",
+        "tableLayout": null,
+        "ticketPrice": "MXN $2185",
+        "ticketTiers": null,
+        "time": "22:00 - 08:00",
+        "url": null,
+        "venueLookupKey": "tbv:jh78tmrpt2hwv07mjr6s6exnj97qy4js",
+        "venueName": "Zamna Tulum",
+        "venueSlug": "zamna-tulum",
+        "vipLink": null,
+        "vipPrice": null
+      },
+      "convexId": "j57en05kaszj9gm028fmbjdnf57qywmc",
+      "lastUpdated": "2026-06-25T02:34:26.146Z",
+      "locales": {
+        "en": {
+          "body": "<p id=\"\">On <strong id=\"\">January 4, 2026</strong>, the Australian trio <strong id=\"\">RÜFÜS DU SOL</strong> step into the jungle of Tulum for a rare <strong id=\"\">DJ set</strong> at Zamna. Known worldwide for their deeply emotional productions and Grammy-winning live shows, this appearance offers a different perspective: a chance to hear their influences, inspirations, and personal selections woven into a night built for the dancefloor.<br>‍<br>The evening features an exceptional supporting cast: <strong id=\"\">Dixon B2B Jimi Jules</strong>, a pairing that represents the cutting edge of Berlin’s house and techno scene; <strong id=\"\">Carlita</strong>, whose eclectic and boundary-pushing sets have made her a rising star across global festivals; and <strong id=\"\">Tripolism</strong>, the Copenhagen trio celebrated for their hypnotic grooves and atmospheric sound. Together, the lineup bridges continents and styles while staying rooted in Zamna’s melodic identity.<br>‍<br>RÜFÜS DU SOL’s connection to Tulum is well established, but their DJ appearances remain rare. Instead of the full band setup, this format strips the experience back to the decks, offering an intimate window into their tastes as selectors. Paired with Zamna’s iconic cenote and multi-stage production, it sets the stage for one of the season’s most anticipated nights — an intersection of artistry, atmosphere, and community that Tulum is uniquely known for.</p>",
+          "description": "RÜFÜS DU SOL return to Tulum on January 4, 2026 with a rare DJ set at Zamna. Joined by Dixon B2B Jimi Jules, Carlita, and Tripolism, this night promises deep, melodic journeys in the jungle.",
+          "name": "Rufus Du Sol Tulum 2026",
+          "slug": "rufus-du-sol-tulum-2026",
+          "tableInformation": ""
+        },
+        "es": {
+          "body": "<p id=\"\">Entorno <strong id=\"\">4 de enero de 2026</strong>, el trío australiano <strong id=\"\">LÄFÖR DU SOL</strong> adéntrate en la jungla de Tulum por un raro <strong id=\"\">Set de DJ</strong> en Zamna. Conocida mundialmente por sus producciones profundamente emotivas y shows en vivo ganadores del Grammy, esta aparición ofrece una perspectiva diferente: la oportunidad de escuchar sus influencias, inspiraciones y selecciones personales entretejidas en una noche construida para la pista de baile.<br>‍<br>La noche cuenta con un reparto excepcional: <strong id=\"\">Dixon B2B Jimi Jules</strong>, una maridaje que representa la vanguardia de la escena house y techno de Berlín; <strong id=\"\">Carlita</strong>, cuyos sets eclécticos y que van más allá de los límites la han convertido en una estrella en ascenso en los festivales mundiales; y <strong id=\"\">Tripolismo</strong>, el trío de Copenhague celebrado por sus hipnóticos surcos y su sonido atmosférico. Juntos, la alineación une continentes y estilos mientras se mantiene arraigada en la identidad melódica de Zamna.<br>‍<br>La conexión de RÜFÜS DU SOL con Tulum está bien establecida, pero sus apariciones como DJ siguen siendo raras. En lugar de la configuración completa de la banda, este formato devuelve la experiencia a las barajas, ofreciendo una ventana íntima a sus gustos como selectores. Combinado con el icónico cenote y la producción multietapa de Zamna, prepara el escenario para una de las noches más esperadas de la temporada: una intersección de arte, ambiente y comunidad por la que Tulum es excepcionalmente conocido.</p>",
+          "description": "RÜFÜS DU SOL regresa a Tulum el 4 de enero de 2026 con un raro set de DJ en Zamna. Aunada por Dixon B2B Jimi Jules, Carlita y Tripolismo, esta noche promete viajes profundos y melódicos en la selva.",
+          "name": "Rufus Du Sol Tulum 2026",
+          "slug": "rufus-du-sol-tulum-2026",
+          "tableInformation": ""
+        }
+      }
+    },
+    {
+      "base": {
+        "buyLink": "https://www.ticketfairy.com/r/44511/932645",
+        "categoryIds": [],
+        "cta": "Tickets",
+        "endDate": "2026-07-18T23:59:00-05:00",
+        "eventType": "NightClub",
+        "faqIds": [],
+        "flyerAlt": null,
+        "flyerUrl": "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/68b37a5369993d8326d50dfd_db_file_img_128388_1200xauto.jpeg",
+        "gaLink": null,
+        "gaPrice": null,
+        "isFeatured": false,
+        "isPublished": true,
+        "noPrice": false,
+        "promotion": "featured",
+        "publishedAt": "2026-06-25T02:22:48.797Z",
+        "qrCode": null,
+        "startDate": "2026-07-18T22:00:00-05:00",
+        "status": "Ended",
+        "tableLayout": null,
+        "ticketPrice": "MEX $605",
+        "ticketTiers": null,
+        "time": "19:00 - 01:00",
+        "url": null,
+        "venueLookupKey": "tbv:jh7d5y9hs0chnen3mezf0bdn997qz086",
+        "venueName": "Vagalume Tulum",
+        "venueSlug": "vagalume-tulum",
+        "vipLink": null,
+        "vipPrice": null
+      },
+      "convexId": "j577hgyn55tm68sab4awb35ngh7qzrvf",
+      "lastUpdated": "2026-06-25T02:34:26.146Z",
+      "locales": {
+        "en": {
+          "body": "<h2>NEGRINM, RENÊ, &amp; MIUL: Curating Disorder's Latest Chapter</h2><p>This edition of Disorder, presented by Vagalume, features a compelling lineup with NEGRINM, RENÊ, and MIUL at the forefront. Each artist contributes to the dynamic soundscape expected at this Tulum gathering, delivering selections that typically span afro house, melodic techno, and organic. </p><h2>Vagalume Tulum: A Beachfront Rhythmic Sanctuary</h2><p>Vagalume Tulum, renowned for its premium setting in the hotel zone, provides the ideal environment for Disorder's sonic explorations. As a high-end beach club, it is engineered for energetic parties, featuring a robust sound system designed to articulate the nuanced frequencies of electronic music. The vibrant atmosphere, set against the backdrop of Tulum's enchanting beaches, transforms the space into a dynamic dancefloor where the rhythms of the jungle meet sophisticated sound production.</p><h2>Evening Flow &amp; Ticket Procurement</h2><p>Disorder commences at 19:00, offering attendees a full evening of music until 01:00. The event encourages a Boho Chic dress code, aligning with Tulum's aesthetic. Tickets begin at $605 MXN for Early Bird access, with subsequent releases priced at $880 MXN for First Release and $1,210 MXN for Second Release.</p>",
+          "description": "Disorder brings NEGRINM, RENÊ, and MIUL with high-energy electronic beats, letting loose under Tulum's stars for a night of wild abandon.",
+          "name": "Disorder Negrinm",
+          "slug": "disorder-negrinm-vagalume-september-20",
+          "tableInformation": ""
+        },
+        "es": {
+          "body": "<h2>NEGRINM, RENÊ y MIUL: Curando el Último Capítulo de Disorder</h2><p>En esta edición de Disorder, presentada por Vagalume, se destaca una alineación impresionante con NEGRINM, RENÊ y MIUL a la cabeza. Cada artista contribuye al paisaje sonoro dinámico esperado en este encuentro en Tulum, entregando selecciones que típicamente abarcan desde afro house, techno melódico hasta orgánico.</p><h2>Vagalume Tulum: Un Santuario Rítmico Frente al Mar</h2><p>Vagalume Tulum, reconocido por su ubicación premium en la zona hotelera, proporciona el ambiente ideal para las exploraciones sónicas de Disorder. Como un club de playa de alta gama, está diseñado para fiestas energéticas, contando con un sistema de sonido robusto diseñado para articular las frecuencias matizadas de la música electrónica. La atmósfera vibrante, contra el telón de fondo de las encantadoras playas de Tulum, transforma el espacio en una pista de baile dinámica donde los ritmos de la jungla se encuentran con una producción de sonido sofisticada.</p><h2>Flujo de la Noche y Adquisición de Boletos</h2><p>Disorder comienza a las 19:00, ofreciendo a los asistentes una noche completa de música hasta la 01:00. El evento fomenta un código de vestimenta Boho Chic, alineándose con la estética de Tulum. Los boletos comienzan desde $605 MXN para el Acceso Early Bird, con lanzamientos subsiguientes a $880 MXN para la Primera Emisión y $1,210 MXN para la Segunda Emisión.</p>",
+          "description": "Disorder presenta a NEGRINM, RENÊ y MIUL con ritmos electrónicos llenos de energía, desatándose bajo las estrellas de Tulum para una noche de desenfreno total.",
+          "name": "Disorder Negrinm",
+          "slug": "disorder-negrinm-vagalume-september-20",
+          "tableInformation": ""
+        }
+      }
+    },
+    {
+      "base": {
+        "buyLink": "https://www.ticketfairy.com/r/43658/932645",
+        "categoryIds": [],
+        "cta": "Tickets",
+        "endDate": "2026-07-02T23:59:00-05:00",
+        "eventType": "NightClub",
+        "faqIds": [],
+        "flyerAlt": null,
+        "flyerUrl": "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/68b37a50dda7a31960d885a5_db_file_img_127071_1200xauto.jpeg",
+        "gaLink": null,
+        "gaPrice": null,
+        "isFeatured": false,
+        "isPublished": true,
+        "noPrice": false,
+        "promotion": "featured",
+        "publishedAt": "2026-06-25T02:22:48.797Z",
+        "qrCode": null,
+        "startDate": "2026-07-02T22:00:00-05:00",
+        "status": "Ended",
+        "tableLayout": null,
+        "ticketPrice": "MEX $1,540",
+        "ticketTiers": null,
+        "time": "12:00 - 03:00",
+        "url": null,
+        "venueLookupKey": "tbv:jh72qvc4pqgb77j2kja14r0ez17qy75p",
+        "venueName": "Papaya Playa Project",
+        "venueSlug": "papaya-playa-project",
+        "vipLink": null,
+        "vipPrice": null
+      },
+      "convexId": "j57fhv90esf5mtdphhzfenjsrx7qyxk7",
+      "lastUpdated": "2026-06-25T02:34:26.146Z",
+      "locales": {
+        "en": {
+          "body": "<h2>Jan Blomqvist's Celestial Journey</h2>\n<p>This edition of SATURDAY CELEBRATION, aptly titled \"The New Moon,\" showcases the distinctive live electronic performance of Jan Blomqvist. As a Berlin-based artist, Blomqvist is celebrated for seamlessly integrating live instruments with electronic soundscapes, crafting a melodic techno experience that has captivated audiences globally, from Coachella to Burning Man. His sets are known for their narrative progression and ability to create a profound, engaging sonic expedition, with further artists expected to be announced, promising to deepen the night's cosmic offerings.</p>\n\n<h2>PPP's Curatorial Legacy in Tulum</h2>\n<p>The SATURDAY CELEBRATION series, meticulously presented by PPP (Papaya Playa Project), holds a significant position within Tulum's vibrant electronic music calendar. PPP has cultivated a reputation for curating original and aspirational hospitality experiences, consistently blending high-caliber electronic music with unique thematic concepts that resonate deeply with the locale. This series reflects a broader commitment to artistic direction and thoughtful programming, establishing it as a consistent, respected fixture for those seeking carefully crafted musical journeys in the Riviera Maya.</p>\n\n<h2>Papaya Playa Project's Coastal Sanctuary</h2>\n<p>The chosen setting for \"The New Moon\" is the Papaya Playa Project, a renowned beach club nestled along Tulum's coast, celebrated for its intimate and cozy atmosphere. This venue uniquely merges local culture with principles of sustainability, providing an authentic backdrop that perfectly complements the contemplative yet energetic nature of sophisticated electronic music. Its open-air design and inherent connection to the natural environment enhance the \"celestial beats\" theme, offering a distinct space where the sound architecture and surrounding nature converge for a truly memorable event experience.</p>\n\n<h2>Navigating the New Moon Event</h2>\n<p>Entry for \"The New Moon\" commences at 7:00 PM, with the final admission at 12:50 AM, allowing attendees ample time to immerse themselves in the night's unfolding progression. General admission tickets, with prices starting at MEX $1,540, grant access to the musical journey, Jan Blomqvist's performance, a welcome drink, and various immersive art installations. For a more elevated experience, dinner and VIP table packages are also available, offering enhanced culinary and service options within the distinct Papaya Playa Project setting. Early ticket acquisition is highly recommended for this anticipated gathering.</p>",
+          "description": "The New Moon event by Jan Blomqvist features the artist Jan Blomqvist's live electronic music and melodic techno, with celestial beats.",
+          "name": "Jan Blomqvist",
+          "slug": "jan-blomqvist-papaya-playa-project-september-20",
+          "tableInformation": ""
+        },
+        "es": {
+          "body": "<h2>El Viaje Celestial de Jan Blomqvist</h2>\n<p>Esta edición de SATURDAY CELEBRATION, titulada apropiadamente \"La Nueva Luna\", presenta la distintiva actuación electrónica en vivo de Jan Blomqvist. Como artista con base en Berlín, Blomqvist es celebrado por integrar a la perfección instrumentos en vivo con paisajes sonoros electrónicos, creando una experiencia de techno melódico que ha cautivado a audiencias globalmente, desde Coachella hasta Burning Man. Sus sets son conocidos por su progresión narrativa y la capacidad de crear una expedición sonora profunda y cautivadora, con más artistas por anunciarse, prometiendo profundizar las ofertas cósmicas de la noche.</p>\n\n<h2>El Legado Curatorial de PPP en Tulum</h2>\n<p>La serie SATURDAY CELEBRATION, meticulosamente presentada por PPP (Papaya Playa Project), ocupa una posición significativa dentro del vibrante calendario de música electrónica de Tulum. PPP ha cultivado una reputación por curar experiencias de hospitalidad originales y aspiracionales, mezclando consistentemente música electrónica de alto calibre con conceptos temáticos únicos que resuenan profundamente con el lugar. Esta serie refleja un compromiso más amplio con la dirección artística y la programación cuidadosa, estableciéndola como una cita consistente y respetada para aquellos que buscan viajes musicales cuidadosamente elaborados en la Riviera Maya.</p>\n\n<h2>El Santuario Costero de Papaya Playa Project</h2>\n<p>El escenario elegido para \"La Nueva Luna\" es el Papaya Playa Project, un club de playa renombrado ubicado a lo largo de la costa de Tulum, celebrado por su atmósfera íntima y acogedora. Este lugar fusiona de manera única la cultura local con principios de sostenibilidad, proporcionando un telón de fondo auténtico que complementa perfectamente la naturaleza contemplativa pero enérgica de la música electrónica sofisticada. Su diseño al aire libre y la conexión inherente con el entorno natural realzan el tema de \"ritmos celestiales\", ofreciendo un espacio distinto donde la arquitectura del sonido y la naturaleza circundante convergen para una experiencia de evento verdaderamente memorable.</p>\n\n<h2>Navegando el Evento de la Nueva Luna</h2>\n<p>La entrada para \"La Nueva Luna\" comienza a las 7:00 PM, con la última admisión a las 12:50 AM, brindando a los asistentes tiempo suficiente para sumergirse en la progresión de la noche. Los boletos de entrada general, con precios a partir de MEX $1,540, otorgan acceso a la travesía musical, la actuación de Jan Blomqvist, una bebida de bienvenida y diversas instalaciones artísticas inmersivas. Para una experiencia más elevada, también están disponibles paquetes de cena y mesas VIP, ofreciendo opciones culinarias y de servicio mejoradas dentro del distintivo entorno de Papaya Playa Project. Se recomienda encarecidamente la adquisición anticipada de boletos para esta reunión anticipada.</p>",
+          "description": "El evento New Moon de Jan Blomqvist presenta la música electrónica en vivo y el techno melódico del artista Jan Blomqvist, con ritmos celestiales.",
+          "name": "Jan Blomqvist",
+          "slug": "jan-blomqvist-papaya-playa-project-september-20",
+          "tableInformation": ""
+        }
+      }
+    },
+    {
+      "base": {
+        "buyLink": "https://www.ticketfairy.com/r/44706/932645",
+        "categoryIds": [],
+        "cta": "Tickets",
+        "endDate": "2026-07-16T23:59:00-05:00",
+        "eventType": "NightClub",
+        "faqIds": [],
+        "flyerAlt": null,
+        "flyerUrl": "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/68b37a4d1db4824e5324f728_db_file_img_128903_1200xauto.png",
+        "gaLink": null,
+        "gaPrice": null,
+        "isFeatured": false,
+        "isPublished": true,
+        "noPrice": false,
+        "promotion": "featured",
+        "publishedAt": "2026-06-25T02:22:48.797Z",
+        "qrCode": null,
+        "startDate": "2026-07-16T22:00:00-05:00",
+        "status": "Ended",
+        "tableLayout": null,
+        "ticketPrice": "MEX $1,430",
+        "ticketTiers": null,
+        "time": "12:00 - 03:00",
+        "url": null,
+        "venueLookupKey": "tbv:jh72qvc4pqgb77j2kja14r0ez17qy75p",
+        "venueName": "Papaya Playa Project",
+        "venueSlug": "papaya-playa-project",
+        "vipLink": null,
+        "vipPrice": null
+      },
+      "convexId": "j57bc2ypgq1q5gyfssm56p2yph7qz0vc",
+      "lastUpdated": "2026-06-25T02:34:26.146Z",
+      "locales": {
+        "en": {
+          "body": "<h2>A Curated Full Moon Journey</h2><p>For this December 13th edition of THE FULL MOON, PPP Presents continues its tradition of a meticulously curated sonic journey. While the specific lineup remains under wraps, attendees are invited to trust the collective's reputation for delivering a sophisticated array of electronic music, typically spanning deep house, organic grooves, and melodic techno. This approach ensures a cohesive and evolving soundscape, prioritising the overall flow of the night over individual artist hype, a hallmark of Tulum's discerning scene.</p><h2>PPP's Full Moon Legacy</h2><p>The Full Moon series, a cornerstone of Tulum's vibrant electronic music calendar, represents more than just a party; it's a recurring celebration deeply embedded in the region's cultural fabric. PPP Presents, the organization behind these gatherings, has cultivated a reputation for fostering an environment where music, nature, and community converge under the lunar cycle. Each edition builds upon a legacy of carefully selected artists and an unwavering commitment to a distinctive auditory and communal experience, solidifying its place as a quintessential Tulum event.</p><h2>Papaya Playa's Jungle-Beach Ambiance</h2><p>The setting for THE FULL MOON is the iconic Papaya Playa Project, a BeachClub renowned for its unique blend of rustic charm and refined hospitality. Its intimate and cozy setting, designed with a focus on local culture and sustainability, provides an unparalleled backdrop for electronic music. The natural acoustics of the open-air space, nestled between the jungle and the Caribbean Sea, allow for a raw yet polished sound delivery, enhancing the connection between the music and its tropical surroundings, creating a truly immersive atmosphere.</p><h2>Navigating the Full Moon</h2><p>THE FULL MOON commences on December 13th, with the event scheduled to unfold from 12:00 to 03:00. General admission tickets are available starting at MEX $1,430, with a special 'Local Price' offered for Tulum residents presenting a valid INE at check-in. For those seeking an elevated experience, VIP tables can be arranged by contacting the organizers directly. Furthermore, accommodation options at Papaya Playa Project or Art Village Tulum are available, offering a complete stay experience for this highly anticipated gathering.</p>",
+          "description": "The Full Moon delivers unmatched energy with a legendary, curated lineup. Trust the vibe for a night of incredible beats and pure musical faith.",
+          "name": "The Full Moon",
+          "slug": "the-full-moon-papaya-playa-project-december-13",
+          "tableInformation": ""
+        },
+        "es": {
+          "body": "<h2>A Curated Full Moon Journey</h2><p>For this December 13th edition of THE FULL MOON, PPP Presents continues its tradition of a meticulously curated sonic journey. While the specific lineup remains under wraps, attendees are invited to trust the collective's reputation for delivering a sophisticated array of electronic music, typically spanning deep house, organic grooves, and melodic techno. This approach ensures a cohesive and evolving soundscape, prioritising the overall flow of the night over individual artist hype, a hallmark of Tulum's discerning scene.</p><h2>PPP's Full Moon Legacy</h2><p>The Full Moon series, a cornerstone of Tulum's vibrant electronic music calendar, represents more than just a party; it's a recurring celebration deeply embedded in the region's cultural fabric. PPP Presents, the organization behind these gatherings, has cultivated a reputation for fostering an environment where music, nature, and community converge under the lunar cycle. Each edition builds upon a legacy of carefully selected artists and an unwavering commitment to a distinctive auditory and communal experience, solidifying its place as a quintessential Tulum event.</p><h2>Papaya Playa's Jungle-Beach Ambiance</h2><p>The setting for THE FULL MOON is the iconic Papaya Playa Project, a BeachClub renowned for its unique blend of rustic charm and refined hospitality. Its intimate and cozy setting, designed with a focus on local culture and sustainability, provides an unparalleled backdrop for electronic music. The natural acoustics of the open-air space, nestled between the jungle and the Caribbean Sea, allow for a raw yet polished sound delivery, enhancing the connection between the music and its tropical surroundings, creating a truly immersive atmosphere.</p><h2>Navigating the Full Moon</h2><p>THE FULL MOON commences on December 13th, with the event scheduled to unfold from 12:00 to 03:00. General admission tickets are available starting at MEX $1,430, with a special 'Local Price' offered for Tulum residents presenting a valid INE at check-in. For those seeking an elevated experience, VIP tables can be arranged by contacting the organizers directly. Furthermore, accommodation options at Papaya Playa Project or Art Village Tulum are available, offering a complete stay experience for this highly anticipated gathering.</p>",
+          "description": "The Full Moon delivers unmatched energy with a legendary, curated lineup. Trust the vibe for a night of incredible beats and pure musical faith.",
+          "name": "The Full Moon",
+          "slug": "the-full-moon-papaya-playa-project-december-13",
+          "tableInformation": ""
+        }
+      }
+    },
+    {
+      "base": {
+        "buyLink": "https://wa.me/529841301037?text=Hello!%20I'm%20interested%20in%20tickets%20for%20David%20Guetta%20Tulum%202026",
+        "categoryIds": [],
+        "cta": "Tickets",
+        "endDate": "2026-06-27T23:59:00-05:00",
+        "eventType": "Festival",
+        "faqIds": [],
+        "flyerAlt": null,
+        "flyerUrl": "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/68b37a46b5afd3daedb5b9ae_689f9fe6824cf9a25bcd8e71_2b26e34f-5792-4514-a821-47ca32111399.png",
+        "gaLink": null,
+        "gaPrice": null,
+        "isFeatured": false,
+        "isPublished": true,
+        "noPrice": false,
+        "promotion": "featured",
+        "publishedAt": "2026-06-25T02:22:48.797Z",
+        "qrCode": null,
+        "startDate": "2026-06-27T22:00:00-05:00",
+        "status": "Ended",
+        "tableLayout": null,
+        "ticketPrice": "MXN $2185",
+        "ticketTiers": null,
+        "time": "22:00 - 08:00",
+        "url": null,
+        "venueLookupKey": "tbv:jh78tmrpt2hwv07mjr6s6exnj97qy4js",
+        "venueName": "Zamna Tulum",
+        "venueSlug": "zamna-tulum",
+        "vipLink": null,
+        "vipPrice": null
+      },
+      "convexId": "j57drcd32gy1xsx5j2t432xdjn7qza8k",
+      "lastUpdated": "2026-06-25T02:34:26.146Z",
+      "locales": {
+        "en": {
+          "body": "<p>David Guetta, a pioneering figure in electronic dance music, has significantly shaped the global music scene over the past two decades. Born in Paris, Guetta began his career in the late 1980s and has since become a household name, known for his chart-topping hits and collaborations with top artists across various genres. His influential tracks, such as \"Titanium,\" \"When Love Takes Over,\" and \"Memories,\" have solidified his status as a leader in the industry, earning multiple awards, including Grammy recognition.</p><p>In recent years, Guetta has continued to evolve his sound, embracing new styles and trends. His recent releases, including collaborations and remixes, showcase his ability to stay relevant in an ever-changing musical landscape. With an extensive touring history that includes major festivals and headline shows around the world, Guetta's performances are characterized by high energy and a commitment to engaging his audience.</p><p>The event will take place at Zamna Tulum, a renowned festival venue set in the lush jungle of the Riviera Maya. This large-scale festival grounds features multiple stages that enhance the lively atmosphere, making it an ideal location for a performance by an artist of Guetta's caliber. Attendees can expect a night filled with music and excitement.</p><p>Tickets for this event start at $2185 MXN, with VIP table options available for those seeking a premium experience. It’s advisable to purchase tickets early, as prices at the door may be higher.</p>",
+          "description": "David Guetta returns to Tulum in 2026 for a highly anticipated performance at Zamna Tulum, set within the vibrant jungle landscape of the Riviera Maya.",
+          "name": "David Guetta Tulum 2026",
+          "slug": "david-guetta-tulum-2026",
+          "tableInformation": ""
+        },
+        "es": {
+          "body": "David Guetta, una figura pionera en la música electrónica de baile, ha dado forma significativamente a la escena musical global durante las últimas dos décadas. Nacido en París, Guetta comenzó su carrera a finales de los años 80 y desde entonces se ha convertido en un nombre familiar, conocido por sus éxitos que encabezan las listas y colaboraciones con los principales artistas de diversos géneros. Sus pistas influyentes, como \"Titanium\", \"When Love Takes Over\" y \"Memories\", han consolidado su estatus como líder en la industria, obteniendo múltiples premios, incluido el reconocimiento de los Grammy.\n\nEn los últimos años, Guetta ha continuado evolucionando su sonido, adoptando nuevos estilos y tendencias. Sus lanzamientos recientes, incluidas colaboraciones y remixes, muestran su capacidad para mantenerse relevante en un paisaje musical en constante cambio. Con una extensa historia de giras que incluye festivales importantes y conciertos como cabeza de cartel en todo el mundo, las actuaciones de Guetta se caracterizan por su alta energía y compromiso para involucrar a su audiencia.\n\nEl evento tendrá lugar en Zamna Tulum, un renombrado recinto de festivales ubicado en la exuberante selva de la Riviera Maya. Este recinto de gran escala cuenta con múltiples escenarios que realzan el ambiente animado, lo que lo convierte en una ubicación ideal para una actuación de un artista del calibre de Guetta. Los asistentes pueden esperar una noche llena de música y emoción.\n\nLos boletos para este evento comienzan desde $2185 MXN, con opciones de mesa VIP disponibles para aquellos que buscan una experiencia premium. Es aconsejable comprar los boletos con anticipación, ya que los precios en la puerta pueden ser más altos.",
+          "description": "David Guetta regresa a Tulum en 2026 para una actuación muy esperada en Zamna Tulum, ubicado en el vibrante paisaje selvático de la Riviera Maya.",
+          "name": "David Guetta Tulum 2026",
+          "slug": "david-guetta-tulum-2026",
+          "tableInformation": ""
+        }
+      }
+    },
+    {
+      "base": {
+        "buyLink": "https://wa.me/?text=Hello!%20I'm%20interested%20in%20tickets%20for%20No%20Art%20Tulum%202026",
+        "categoryIds": [],
+        "cta": "Tickets",
+        "endDate": "2026-07-10T23:59:00-05:00",
+        "eventType": "Festival",
+        "faqIds": [],
+        "flyerAlt": null,
+        "flyerUrl": "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/68b37a42d4556f97fc47e7b0_954cb6ea-ef90-43b6-9f34-caa0b111ba03.jpeg",
+        "gaLink": null,
+        "gaPrice": null,
+        "isFeatured": false,
+        "isPublished": true,
+        "noPrice": false,
+        "promotion": "featured",
+        "publishedAt": "2026-06-25T02:22:48.797Z",
+        "qrCode": null,
+        "startDate": "2026-07-10T22:00:00-05:00",
+        "status": "Ended",
+        "tableLayout": null,
+        "ticketPrice": "MXN $2622",
+        "ticketTiers": null,
+        "time": "22:00 - 08:00",
+        "url": null,
+        "venueLookupKey": "tbv:jh78tmrpt2hwv07mjr6s6exnj97qy4js",
+        "venueName": "Zamna Tulum",
+        "venueSlug": "zamna-tulum",
+        "vipLink": null,
+        "vipPrice": null
+      },
+      "convexId": "j57508yrsp67p06kf2g5vfzdf17qye1c",
+      "lastUpdated": "2026-06-25T02:34:26.146Z",
+      "locales": {
+        "en": {
+          "body": "<h2>Curated Electronic Journey</h2>\n<p>Ants Tulum 2026, the anticipated return of the renowned party series, promises a meticulously curated selection of house and techno architects. The collective behind Ants is celebrated for its discerning taste, consistently featuring artists who command global dancefloors with their innovative soundscapes. This edition at Zamna Tulum is poised to deliver a high-energy atmosphere, characteristic of the brand's global presence. Attendees can anticipate a sonic journey built on driving rhythms and compelling grooves, expertly crafted to ignite the unique energy of the Tulum night.</p>\n\n<h2>From Ibiza to Tulum: The Colony's Global Reach</h2>\n<p>Originating from the iconic white isle of Ibiza, the Ants series has transcended its underground roots to become a global institution, instantly recognizable by its distinct black and white aesthetic and unwavering commitment to quality electronic music. What began as a seminal summer residency at Ushuaïa has expanded to major international destinations, including its significant presence in Tulum. Ants consistently delivers meticulously planned events that prioritize the dancefloor experience, fostering a collective, unifying energy that resonates with enthusiasts of forward-thinking house and tech house. Its return to Tulum underscores its role as a key player in the global circuit.</p>\n\n<h2>Zamna's Jungle Oasis: A Rhythmic Sanctuary</h2>\n<p>The setting for this highly anticipated edition of Ants is Zamna Tulum, a truly distinctive venue located within the heart of the Riviera Maya jungle. Famed for its breathtaking natural cenote and verdant tropical surroundings, Zamna offers a vibrant and energetic ambiance that seamlessly integrates the raw beauty of nature with cutting-edge sound production. This unique environment transforms the electronic music experience, creating an all-encompassing backdrop where the natural acoustics of the open-air space enhance every beat. The expansive grounds allow for multiple stages and areas, ensuring a diverse and explorative journey through the night.</p>\n\n<h2>Navigating the Colony: Essential Details</h2>\n<p>Doors for Ants Tulum 2026 will open promptly at 22:00 on January 3, 2026, inviting attendees to embark on a marathon dance session that is scheduled to run until 08:00 the following morning, promising a sunrise spectacle. Standard admission tickets are priced starting at MXN $2622, reflecting the premium production and curated experience associated with the Ants brand. Given the series' immense popularity and its prime placement during the peak Tulum season, securing tickets in advance is not merely recommended but often essential to guarantee entry to this highly sought-after gathering.</p>",
+          "description": "Ants Tulum 2026 makes its highly anticipated return, delivering signature underground house and techno with raw, driving rhythms and an energetic vibe.",
+          "name": "Ants Tulum 2026",
+          "slug": "ants-tulum-2026-zamna-january-3",
+          "tableInformation": ""
+        },
+        "es": {
+          "body": "<h2>Curated Electronic Journey</h2>\n<p>Ants Tulum 2026, the anticipated return of the renowned party series, promises a meticulously curated selection of house and techno architects. The collective behind Ants is celebrated for its discerning taste, consistently featuring artists who command global dancefloors with their innovative soundscapes. This edition at Zamna Tulum is poised to deliver a high-energy atmosphere, characteristic of the brand's global presence. Attendees can anticipate a sonic journey built on driving rhythms and compelling grooves, expertly crafted to ignite the unique energy of the Tulum night.</p>\n\n<h2>From Ibiza to Tulum: The Colony's Global Reach</h2>\n<p>Originating from the iconic white isle of Ibiza, the Ants series has transcended its underground roots to become a global institution, instantly recognizable by its distinct black and white aesthetic and unwavering commitment to quality electronic music. What began as a seminal summer residency at Ushuaïa has expanded to major international destinations, including its significant presence in Tulum. Ants consistently delivers meticulously planned events that prioritize the dancefloor experience, fostering a collective, unifying energy that resonates with enthusiasts of forward-thinking house and tech house. Its return to Tulum underscores its role as a key player in the global circuit.</p>\n\n<h2>Zamna's Jungle Oasis: A Rhythmic Sanctuary</h2>\n<p>The setting for this highly anticipated edition of Ants is Zamna Tulum, a truly distinctive venue located within the heart of the Riviera Maya jungle. Famed for its breathtaking natural cenote and verdant tropical surroundings, Zamna offers a vibrant and energetic ambiance that seamlessly integrates the raw beauty of nature with cutting-edge sound production. This unique environment transforms the electronic music experience, creating an all-encompassing backdrop where the natural acoustics of the open-air space enhance every beat. The expansive grounds allow for multiple stages and areas, ensuring a diverse and explorative journey through the night.</p>\n\n<h2>Navigating the Colony: Essential Details</h2>\n<p>Doors for Ants Tulum 2026 will open promptly at 22:00 on January 3, 2026, inviting attendees to embark on a marathon dance session that is scheduled to run until 08:00 the following morning, promising a sunrise spectacle. Standard admission tickets are priced starting at MXN $2622, reflecting the premium production and curated experience associated with the Ants brand. Given the series' immense popularity and its prime placement during the peak Tulum season, securing tickets in advance is not merely recommended but often essential to guarantee entry to this highly sought-after gathering.</p>",
+          "description": "Ants Tulum 2026 makes its highly anticipated return, delivering signature underground house and techno with raw, driving rhythms and an energetic vibe.",
+          "name": "Ants Tulum 2026",
+          "slug": "ants-tulum-2026-zamna-january-3",
+          "tableInformation": ""
+        }
+      }
+    },
+    {
+      "base": {
+        "buyLink": "https://wa.me/?text=Hello!%20I'm%20interested%20in%20tickets%20for%20No%20Art%20Tulum%202026",
+        "categoryIds": [],
+        "cta": "Tickets",
+        "endDate": "2026-07-11T23:59:00-05:00",
+        "eventType": "Festival",
+        "faqIds": [],
+        "flyerAlt": null,
+        "flyerUrl": "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/68b37a3f696895f918f930bd_202beaa9-e07d-4765-96e1-40bebdead5ca.jpeg",
+        "gaLink": null,
+        "gaPrice": null,
+        "isFeatured": false,
+        "isPublished": true,
+        "noPrice": false,
+        "promotion": "featured",
+        "publishedAt": "2026-06-25T02:22:48.797Z",
+        "qrCode": null,
+        "startDate": "2026-07-11T22:00:00-05:00",
+        "status": "Ended",
+        "tableLayout": null,
+        "ticketPrice": "MXN $2622",
+        "ticketTiers": null,
+        "time": "22:00 - 08:00",
+        "url": null,
+        "venueLookupKey": "tbv:jh78tmrpt2hwv07mjr6s6exnj97qy4js",
+        "venueName": "Zamna Tulum",
+        "venueSlug": "zamna-tulum",
+        "vipLink": null,
+        "vipPrice": null
+      },
+      "convexId": "j5715x4vncvq15km5paryfxbn17qz38t",
+      "lastUpdated": "2026-06-25T02:34:26.146Z",
+      "locales": {
+        "en": {
+          "body": "<h2>No Art: Unconventional Art-Performances</h2><p>No Art operates as an independent label and event organizer, carving a distinct niche in the global electronic music landscape by programming unconventional art-performances and pioneering musicians across unique locations. Far from merely staging conventional parties, the collective's core aim is to broaden the minds of its visitors, fostering both musical and artistic discovery through meticulously crafted sonic and visual experiences. With roots established in curating thought-provoking events that extend beyond the dancefloor, No Art consistently challenges traditional event formats, encouraging dialogue and fresh perspectives through its immersive offerings. Its commitment to artistic integrity has solidified its position as a significant force in the experiential event circuit.</p><h2>Pioneering Sounds &amp; Undisclosed Lineups</h2><p>Central to No Art's ethos is the commitment to showcasing pioneering musicians, a professional lineup that remains intentionally undisclosed to encourage an unmediated encounter with sound. This approach cultivates an environment where genre boundaries are not just blurred but actively explored, ranging from intricate, syncopated house rhythms to expansive, atmospheric techno soundscapes, often traversing BPMs that prioritize deep groove and narrative over peak-time predictability. The selection focuses on artists who construct intricate sonic journeys designed to challenge perceptions and stimulate intellectual engagement, aligning perfectly with No Art's mission for profound musical and artistic expansion, offering a platform for genuine sonic discovery.</p><h2>A Cenote Exploration at Zamna Tulum</h2><p>The No Art Tulum 2026 event at Zamna Tulum is poised to transform the cenote environment into a canvas for profound sonic and artistic exploration. With an extensive runtime from 22:00 to 08:00, this performance allows for an expansive, evolving narrative, where the natural acoustics of the cenote will undoubtedly enhance the carefully curated sound design, from sub-bass frequencies to intricate percussive details. </p><h2>Planning Your No Art Tulum Experience</h2><p>Tickets are available starting at MXN $2622 for general admission. Given No Art's reputation for curating unique, high-demand events and Zamna Tulum's status as a premier destination for global electronic music, securing advance tickets is highly recommended to guarantee participation in this distinctive gathering and avoid potential price increases at the door.</p>",
+          "description": "No Art curates pioneering musicians, delivering a mind-broadening selection of house and tech house. Expect unconventional art and an amazing lineup.",
+          "name": "No Art Tulum 2026",
+          "slug": "no-art-tulum-2026-zamna-january-5",
+          "tableInformation": ""
+        },
+        "es": {
+          "body": "<h2 id=\"\">No Art: Representaciones artísticas no convencionales</h2><p id=\"\">No Art opera como un sello independiente y organizador de eventos, labrando un nicho distinto en el panorama mundial de la música electrónica mediante la programación de presentaciones artísticas no convencionales y músicos pioneros en lugares únicos. Lejos de simplemente celebrar fiestas convencionales, el objetivo principal del colectivo es ampliar la mente de sus visitantes, fomentando el descubrimiento musical y artístico a través de experiencias sonoras y visuales meticulosamente elaboradas. Con raíces establecidas en la curaduría de eventos que invitan a la reflexión que se extienden más allá de la pista de baile, No Art desafía constantemente los formatos tradicionales de eventos, fomentando el diálogo y nuevas perspectivas a través de sus ofertas inmersivas. Su compromiso con la integridad artística ha solidificado su posición como fuerza significativa en el circuito experiencial de eventos.</p><h2 id=\"\">Sonidos pioneros y alineaciones no reveladas</h2><p id=\"\">Un elemento central del ethos de No Art es el compromiso de mostrar músicos pioneros, una formación profesional que no se revela intencionalmente para fomentar un encuentro sin mediación con el sonido. Este enfoque cultiva un entorno donde los límites de género no solo se desdibujan sino que se exploran activamente, que van desde ritmos house intrincados y sincopados hasta paisajes sonoros techno atmosféricos expansivos, a menudo atravesando BPM que priorizan el groove profundo y la narrativa sobre la previsibilidad en tiempo pico. La selección se centra en artistas que construyen intrincados viajes sónicos diseñados para desafiar las percepciones y estimular el compromiso intelectual, alineándose perfectamente con la misión de No Art de una profunda expansión musical y artística, ofreciendo una plataforma para el descubrimiento sónico genuino.</p><h2 id=\"\">Una exploración de cenote en Zamna Tulum</h2><p id=\"\">El evento No Art Tulum 2026 en Zamna Tulum está a punto de transformar el ambiente cenote en un lienzo para una profunda exploración sónica y artística. Con un extenso tiempo de ejecución de 22:00 a 08:00, esta performance permite una narrativa expansiva y evolutiva, donde la acústica natural del cenote sin duda realzará el diseño sonoro cuidadosamente curado, desde frecuencias subgraves hasta intrincados detalles percusivos. </p><h2 id=\"\">Planificando tu Experiencia En No Art Tulum</h2><p id=\"\">Los boletos están disponibles a partir de MXN $2622 para la entrada general. Dada la reputación de No Art por ser curadora de eventos únicos y de alta demanda y el estatus de Zamna Tulum como un destino de primer nivel para la música electrónica global, es muy recomendable asegurar entradas anticipadas para garantizar la participación en este distintivo encuentro y evitar posibles aumentos de precios en la puerta.</p>",
+          "description": "No Art selecciona músicos pioneros, ofreciendo una selección de house y tech house que amplía la mente. Espere arte poco convencional y una alineación increíble.",
+          "name": "No Art Tulum 2026",
+          "slug": "no-art-tulum-2026-zamna-january-5",
+          "tableInformation": ""
+        }
+      }
+    },
+    {
+      "base": {
+        "buyLink": "https://wa.me/529841301037?text=Hello%20I%20would%20like%20to%20hear%20more%20about%20Keinemusik%202026%20Tickets%20and%20Backstage%20Experience",
+        "categoryIds": [],
+        "cta": "Tickets",
+        "endDate": "2026-07-03T23:59:00-05:00",
+        "eventType": "NightClub",
+        "faqIds": [],
+        "flyerAlt": null,
+        "flyerUrl": "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/68b37a3c69993d8326d4fed9_689dfdd6103a1a6189d5fb0e_688139a1d681c4779e11c9e7_keinemusik-tulum-zamna-2026.jpeg",
+        "gaLink": null,
+        "gaPrice": null,
+        "isFeatured": false,
+        "isPublished": true,
+        "noPrice": false,
+        "promotion": "normal",
+        "publishedAt": "2026-06-25T02:22:48.797Z",
+        "qrCode": null,
+        "startDate": "2026-07-03T22:00:00-05:00",
+        "status": "Ended",
+        "tableLayout": null,
+        "ticketPrice": "MXN $3059",
+        "ticketTiers": null,
+        "time": "22:00 - 10:00",
+        "url": null,
+        "venueLookupKey": "tbv:jh78tmrpt2hwv07mjr6s6exnj97qy4js",
+        "venueName": "Zamna Tulum",
+        "venueSlug": "zamna-tulum",
+        "vipLink": null,
+        "vipPrice": null
+      },
+      "convexId": "j570f3bzstp5jby9t4j0gtshy97qy5p7",
+      "lastUpdated": "2026-06-25T02:34:26.146Z",
+      "locales": {
+        "en": {
+          "body": "<h2>&amp;ME, Rampa &amp; Adam Port: A Collective Vision</h2><p>The highly anticipated Keinemusik Tulum 2026 event showcases the Berlin trio &amp;ME, Rampa, and Adam Port, performing together for an exclusive session. Known for their extended back-to-back sets, these artists blur the lines between afro house, deep house, and melodic techno. This edition presents their unique chemistry behind the decks, weaving individual sounds into a cohesive, evolving narrative that defines the collective's celebrated sound.</p><h2>Keinemusik's Global Footprint</h2><p>Since forming their eponymous label in 2009, the Keinemusik collective has solidified its position as an influential force in electronic music, originating from Berlin's vibrant underground. Their ethos, \"no music without Keinemusik,\" has cultivated a dedicated global community, with each performance representing the full spectrum of their shared artistic vision. The collective's consistent appearances at Zamna Tulum have become annual highlights, deeply resonating with the jungle environment and creating a profound connection between music, setting, and audience.</p><h2>Cenote Rhythms at Zamna Tulum</h2><p>Zamna Tulum, a renowned cenote venue set amidst stunning jungle surroundings, provides an ideal backdrop for the Keinemusik experience. Its natural acoustics allow the collective's deep frequencies and intricate rhythms to resonate within the environment, enhancing the organic sound that defines their sets. The vibrant natural setting of Zamna Tulum offers a unique dancefloor dynamic, where the energetic atmosphere merges seamlessly with the raw beauty of the Riviera Maya.</p><h2>Extended Hours, Essential Entry</h2><p>The Keinemusik Tulum 2026 event commences at 22:00 and extends until 10:00, offering a prolonged session for attendees. General admission tickets are available starting at MXN $3059. For those seeking an elevated experience, VIP tables for up to eight people can be reserved, from $10,000 USD, which serves as a consumption credit. Exclusive hotel packages are also offered, including accommodation, backstage access, and priority entry. Advanced ticket purchase is highly recommended, as demand for this single exclusive date is exceptionally high.</p>",
+          "description": "&ME, Rampa, and Adam Port deliver their collective vision of afro house and melodic techno rhythms, with hypnotic grooves and intricate percussion.",
+          "name": "Keinemusik Tulum 2026",
+          "slug": "keinemusik-tulum-2026-zamna-january-6",
+          "tableInformation": ""
+        },
+        "es": {
+          "body": "<h2>&ME, Rampa & Adam Port: Una Visión Colectiva</h2>\n<p>El muy esperado evento Keinemusik Tulum 2026 presenta al trío berlinés &ME, Rampa y Adam Port, actuando juntos en una sesión exclusiva. Conocidos por sus extensos sets back-to-back, estos artistas difuminan las líneas entre el afro house, deep house y melodic techno. Esta edición muestra su química única detrás de las consolas, entrelazando sonidos individuales en una narrativa cohesiva y evolutiva que define el sonido celebrado del colectivo.</p>\n\n<h2>La Huella Global de Keinemusik</h2>\n<p>Desde la formación de su sello homónimo en 2009, el colectivo Keinemusik ha consolidado su posición como una fuerza influyente en la música electrónica, originaria del vibrante underground de Berlín. Su lema, \"no hay música sin Keinemusik\", ha cultivado una comunidad global dedicada, con cada actuación representando el espectro completo de su visión artística compartida. Las apariciones consistentes del colectivo en Zamna Tulum se han convertido en puntos destacados anuales, resonando profundamente con el ambiente selvático y creando una conexión profunda entre la música, el entorno y la audiencia.</p>\n\n<h2>Ritmos de Cenote en Zamna Tulum</h2>\n<p>Zamna Tulum, un reconocido escenario de cenote en medio de impresionantes entornos selváticos, proporciona el telón de fondo ideal para la experiencia Keinemusik. Su acústica natural permite que las frecuencias profundas y ritmos intrincados del colectivo resuenen dentro del entorno, realzando el sonido orgánico que define sus sets. El vibrante entorno natural de Zamna Tulum ofrece una dinámica de pista de baile única, donde la atmósfera enérgica se fusiona a la perfección con la belleza cruda de la Riviera Maya.</p>\n\n<h2>Horas Extendidas, Entrada Esencial</h2>\n<p>El evento Keinemusik Tulum 2026 comienza a las 22:00 y se extiende hasta las 10:00, ofreciendo una sesión prolongada para los asistentes. Los boletos de entrada general están disponibles a partir de MXN $3059. Para aquellos que buscan una experiencia elevada, se pueden reservar mesas VIP para hasta ocho personas, comenzando en $5,000 USD, lo cual sirve como crédito de consumo. También se ofrecen paquetes de hotel exclusivos, que incluyen alojamiento, acceso tras bambalinas y entrada prioritaria. Se recomienda encarecidamente la compra anticipada de boletos, ya que la demanda para esta fecha exclusiva es excepcionalmente alta.</p>",
+          "description": "&ME, Rampa y Adam Port presentan su visión colectiva del afro house y los ritmos del techno melódico, con grooves hipnóticos y percusiones complejas.",
+          "name": "Keinemusik Tulum 2026",
+          "slug": "keinemusik-tulum-2026-zamna-january-6",
+          "tableInformation": ""
+        }
+      }
+    },
+    {
+      "base": {
+        "buyLink": "https://wa.me/529841301037?text=Hello!%20I'm%20interested%20in%20tickets%20for%20Pulse%20of%20Gaia%20Tulum%202026",
+        "categoryIds": [],
+        "cta": "Tickets",
+        "endDate": "2026-07-17T23:59:00-05:00",
+        "eventType": "Festival",
+        "faqIds": [],
+        "flyerAlt": null,
+        "flyerUrl": "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/68b37a38f9785c42c8cbe85d_18fd5726-e8ed-439e-94be-166d90ac4922.jpeg",
+        "gaLink": null,
+        "gaPrice": null,
+        "isFeatured": false,
+        "isPublished": true,
+        "noPrice": false,
+        "promotion": "featured",
+        "publishedAt": "2026-06-25T02:22:48.797Z",
+        "qrCode": null,
+        "startDate": "2026-07-17T22:00:00-05:00",
+        "status": "Ended",
+        "tableLayout": null,
+        "ticketPrice": "MXN $2185",
+        "ticketTiers": null,
+        "time": "22:00 - 08:00",
+        "url": null,
+        "venueLookupKey": "tbv:jh78tmrpt2hwv07mjr6s6exnj97qy4js",
+        "venueName": "Zamna Tulum",
+        "venueSlug": "zamna-tulum",
+        "vipLink": null,
+        "vipPrice": null
+      },
+      "convexId": "j57130ny5mqr2fba13b44z0k4x7qyp46",
+      "lastUpdated": "2026-06-25T02:34:26.146Z",
+      "locales": {
+        "en": {
+          "body": "<h2>Justice's Tulum Debut</h2><p>Justice, the acclaimed French duo, is set to headline the inaugural Pulse of Gaia Tulum, marking a significant moment for the series' debut in the Riviera Maya. Presenting their renowned blend of electro, disco, and house, this edition offers a rare dual experience: both a live performance and a DJ set, showcasing the breadth of their genre-defining sound within Zamna's jungle. While other artists for the curated lineup remain unannounced, the presence of Justice ensures an evening rooted in explosive energy and a forward-thinking electronic sound, setting the tone for the series' commitment to experimentation and emotional connection.</p><h2>Pulse of Gaia's Ritualistic Vision</h2><p>Originating in Madrid, Pulse of Gaia arrives in Tulum as more than a party; it's conceived as a multi-sensory ritual designed to fuse electronic music with environmental design and human connection. This debut edition at Zamna Festival on January 8, 2026, marks the series' first foray into the vibrant Mexican scene. The organization behind Pulse of Gaia is known for its meticulous approach to production, focusing on storytelling through custom staging, bold visuals, and atmospheric cues. This artistic direction aims to transcend a typical club night, establishing a deeper, more resonant experience within Tulum's rich cultural landscape.</p><h2>Zamna's Cenote Embrace</h2><p>The selection of Zamna Tulum as the venue for Pulse of Gaia's debut is deliberate, leveraging the site's unique jungle cenote environment. Known for its stunning natural beauty, Zamna offers a vibrant, energetic atmosphere where eco-cabanas and lush surroundings create an unparalleled backdrop. The event's production will integrate seamlessly with this natural setting, with custom-designed visuals and staging enhancing the raw, organic feel of the cenote. This synergy promises an auditory and visual spectacle, where the pristine acoustics of the open-air space amplify the intricate layers of electronic music, creating a truly immersive dance floor experience beneath the Riviera Maya sky.</p><h2>Entry &amp; Sunrise Sessions</h2><p>This highly anticipated event is scheduled to unfold from 22:00 to 08:00, offering an extended session of music and connection. Tickets for Pulse of Gaia Tulum 2026 begin at MXN $2185. Given the series' reputation and the significant headliner, securing advanced tickets is strongly advised. Attendees should prepare for an evening that transitions into a sunrise experience, embracing the unique energy of Tulum's early morning hours. This debut promises to be a landmark event within Zamna Festival's calendar, and early arrival is recommended to fully engage with the unfolding multi-sensory journey.</p>",
+          "description": "Pulse of Gaia presents Justice with a live + DJ set, unleashing their iconic electro, disco, and house. Expect a multi-sensory ritual of music and art.",
+          "name": "Pulse of Gaia Tulum 2026",
+          "slug": "pulse-of-gaia-tulum-2026-zamna-january-8",
+          "tableInformation": ""
+        },
+        "es": {
+          "body": "<h2>El Debut de Justice en Tulum</h2><p>Justice, el aclamado dúo francés, está listo para encabezar la primera edición de Pulse of Gaia Tulum, marcando un momento significativo para el debut de la serie en la Riviera Maya. Presentando su reconocida mezcla de electro, disco y house, esta edición ofrece una experiencia doblemente única: tanto una actuación en vivo como un set de DJ, mostrando la amplitud de su sonido definitorio del género dentro de la jungla de Zamna. Aunque otros artistas del lineup curado permanecen sin anunciarse, la presencia de Justice asegura una noche arraigada en energía explosiva y un sonido electrónico vanguardista, estableciendo el tono para el compromiso de la serie con la experimentación y la conexión emocional.</p><h2>La Visión Ritualista de Pulse of Gaia</h2><p>Originando en Madrid, Pulse of Gaia llega a Tulum como algo más que una fiesta; está concebido como un ritual multisensorial diseñado para fusionar la música electrónica con el diseño ambiental y la conexión humana. Esta primera edición en el Festival Zamna el 8 de enero de 2026, marca la primera incursión de la serie en la vibrante escena mexicana. La organización detrás de Pulse of Gaia es conocida por su enfoque meticuloso en la producción, enfocándose en contar historias a través de escenarios personalizados, visuales audaces y señales atmosféricas. Esta dirección artística tiene como objetivo trascender una noche de club típica, estableciendo una experiencia más profunda y resonante dentro del rico paisaje cultural de Tulum.</p><h2>El Abrazo del Cenote de Zamna</h2><p>La selección de Zamna Tulum como sede para el debut de Pulse of Gaia es deliberada, aprovechando el único ambiente de jungla y cenote del sitio. Conocido por su impresionante belleza natural, Zamna ofrece un ambiente vibrante y enérgico donde las eco-cabañas y los alrededores exuberantes crean un telón de fondo sin igual. La producción del evento se integrará a la perfección con este entorno natural, con visuales y escenarios diseñados a medida que realzan la sensación cruda y orgánica del cenote. Esta sinergia promete un espectáculo auditivo y visual, donde la acústica prístina del espacio al aire libre amplifica las capas intrincadas de la música electrónica, creando una experiencia de pista de baile verdaderamente inmersiva bajo el cielo de la Riviera Maya.</p><h2>Entrada y Sesiones al Amanecer</h2><p>Este evento tan anticipado está programado para desarrollarse de 22:00 a 08:00, ofreciendo una sesión extendida de música y conexión. Los boletos para Pulse of Gaia Tulum 2026 comienzan desde MXN $2185. Dada la reputación de la serie y el importante headliner, se recomienda encarecidamente asegurar los boletos con anticipación. Los asistentes deben prepararse para una noche que transiciona hacia una experiencia de amanecer, abrazando la energía única de las primeras horas de la mañana de Tulum. Este debut promete ser un evento emblemático dentro del calendario del Festival Zamna, y se recomienda llegar temprano para participar plenamente en el viaje multisensorial que se desplegará.</p>",
+          "description": "Pulse of Gaia presenta a Justice con un set en vivo + DJ, desatando su icónico electro, disco y house. Espera un ritual multisensorial de música y arte.",
+          "name": "Pulse of Gaia Tulum 2026",
+          "slug": "pulse-of-gaia-tulum-2026-zamna-january-8",
+          "tableInformation": ""
+        }
+      }
+    },
+    {
+      "base": {
+        "buyLink": "https://wa.me/529841301037?text=Hello!%20I'm%20interested%20in%20tickets%20for%20Mayan%20Warrior%20Tulum%202026",
+        "categoryIds": [],
+        "cta": "Tickets",
+        "endDate": "2026-07-04T23:59:00-05:00",
+        "eventType": "Festival",
+        "faqIds": [],
+        "flyerAlt": null,
+        "flyerUrl": "https://cdn.prod.website-files.com/6361c1cb824f9237a0ff1717/68b37a36b5afd3daedb5aa78_6854571be7060cad2ae07c5d_C2uZEo58BRK-5aku5W_VouIq_l_RwU85b8tGK6O_2vA.jpeg",
+        "gaLink": null,
+        "gaPrice": null,
+        "isFeatured": false,
+        "isPublished": true,
+        "noPrice": false,
+        "promotion": "featured",
+        "publishedAt": "2026-06-25T02:22:48.797Z",
+        "qrCode": null,
+        "startDate": "2026-07-04T22:00:00-05:00",
+        "status": "Ended",
+        "tableLayout": null,
+        "ticketPrice": "MXN $2622",
+        "ticketTiers": null,
+        "time": "22:00 - 08:00",
+        "url": null,
+        "venueLookupKey": "tbv:jh78tmrpt2hwv07mjr6s6exnj97qy4js",
+        "venueName": "Zamna Tulum",
+        "venueSlug": "zamna-tulum",
+        "vipLink": null,
+        "vipPrice": null
+      },
+      "convexId": "j57c0ehw6603fz5m3xyv6qr6bs7qz3ek",
+      "lastUpdated": "2026-06-25T02:34:26.146Z",
+      "locales": {
+        "en": {
+          "body": "<h2>Curated Electronic Journey</h2><p>The Mayan Warrior collective's return to Tulum on January 9, 2026, promises a meticulously curated electronic journey. This session is poised to showcase their signature synthesis of house, renowned for its percussive storytelling. Attendees can anticipate a nuanced auditory presentation, where traditional rhythms seamlessly bridge with modern electronic production, reflecting the collective's distinct curatorial vision for this highly anticipated event.</p><h2>From Nomadic Art Car to Riviera Maya Staple</h2><p>Originating as an iconic nomadic art car at Burning Man, Mayan Warrior has significantly evolved into a global institution, celebrated for its unique fusion of sonic and visual spectacles. This annual pilgrimage to Tulum has firmly cemented its place within the Riviera Maya's electronic music calendar, consistently championing a sound profile that balances ancestral echoes with contemporary electronic textures. For this 2026 edition, the esteemed series marks a pivotal artistic evolution, departing from its previous homes at Papaya Playa Project and Tehmplo to debut within the evocative landscape of Zamna Tulum, signaling an adaptive yet consistent artistic direction.</p><h2>Navigating the Night at Zamna</h2><p>Mayan Warrior returns to Zamna Tulum on January 9, 2026, with doors scheduled to open at 10 PM for an extended night that typically stretches into the early morning hours. General admission tickets for this event begin at MXN $2622. Given the series' stature and consistent demand for Mayan Warrior gatherings in Tulum, securing advanced tickets is strongly advised to guarantee entry. </p>",
+          "description": "The Mayan Warrior collective brings its signature Afro house & classic house sound tonight. Expect percussive storytelling and ancestral echoes in a vibrant setting.",
+          "name": "Mayan Warrior Tulum 2026",
+          "slug": "mayan-warrior-tulum-2026-zamna-january-9",
+          "tableInformation": ""
+        },
+        "es": {
+          "body": "<h2>Viaje Electrónico Curado</h2><p>El regreso del colectivo Mayan Warrior a Tulum el 9 de enero de 2026 promete un viaje electrónico meticulosamente curado. Esta sesión está preparada para mostrar su síntesis característica de house, conocida por su narrativa percusiva. Los asistentes pueden anticipar una presentación auditiva matizada, donde los ritmos tradicionales se fusionan sin esfuerzo con la producción electrónica moderna, reflejando la visión curatorial distintiva del colectivo para este evento tan esperado.</p><h2>De Carro de Arte Nómada a Pilar de la Riviera Maya</h2><p>Originando como un icónico carro de arte nómada en Burning Man, Mayan Warrior ha evolucionado significativamente hasta convertirse en una institución global, celebrada por su fusión única de espectáculos sonoros y visuales. Esta peregrinación anual a Tulum ha cimentado firmemente su lugar dentro del calendario de música electrónica de la Riviera Maya, promoviendo constantemente un perfil sonoro que equilibra ecos ancestrales con texturas electrónicas contemporáneas. Para esta edición de 2026, la estimada serie marca una evolución artística pivotal, partiendo de sus anteriores hogares en Papaya Playa Project y Tehmplo para debutar dentro del paisaje evocador de Zamna Tulum, señalando una dirección artística adaptativa pero consistente.</p><h2>Navegando la Noche en Zamna</h2><p>Mayan Warrior regresa a Zamna Tulum el 9 de enero de 2026, con puertas programadas para abrir a las 10 PM para una noche extendida que típicamente se alarga hasta las primeras horas de la mañana. Los boletos de entrada general para este evento comienzan desde MXN $2622. Dada la estatura de la serie y la demanda consistente por los encuentros de Mayan Warrior en Tulum, se recomienda encarecidamente asegurar boletos avanzados para garantizar la entrada.</p>",
+          "description": "El colectivo Mayan Warrior trae su distintivo sonido de Afro house y house clásico esta noche. Espera una narrativa percusiva y ecos ancestrales en un ambiente vibrante.",
+          "name": "Mayan Warrior Tulum 2026",
+          "slug": "mayan-warrior-tulum-2026-zamna-january-9",
+          "tableInformation": ""
+        }
+      }
+    }
+  ],
   "mode": "published"
 }
