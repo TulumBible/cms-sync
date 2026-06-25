@@ -1,7 +1,115 @@
 {
-  "syncedAt": "2026-06-25T00:23:06.787Z",
+  "syncedAt": "2026-06-25T02:22:59.788Z",
   "citySlug": "tulum",
   "yachts": [
+    {
+      "base": {
+        "categoryIds": [],
+        "faqIds": [],
+        "images": {
+          "extras": [
+            "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/9400013c-b9b9-4988-2058-45cb697a8400/public",
+            "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/8cce4ec1-06ed-4014-e1d9-7b575b312600/public",
+            "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/b959b46f-df3e-4194-9d8c-e4b6ecfa9400/public",
+            "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/dfe56f83-d8b9-4c7a-ec69-4906ff2e0400/public",
+            "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/989dcab6-6d8e-4daa-331f-76a12b50fb00/public",
+            "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/da0aecab-511e-404c-2dec-873c61404700/public",
+            "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/d0acf845-d2f4-4b9b-00f5-a0716b288b00/public",
+            "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/b9800764-ac11-4b5f-6645-62012fd88f00/public"
+          ],
+          "extrasAlts": [],
+          "image1": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/e584c075-ee1b-4f09-5e9b-1a9e7a2dd100/public",
+          "image1Alt": null,
+          "image2": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/8b548b78-454d-47ee-44dd-841ff847f800/public",
+          "image2Alt": null,
+          "image3": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/16df0c68-81b3-4531-c6f7-496509402000/public",
+          "image3Alt": null,
+          "image4": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/3dc6b5e2-72f2-47f2-5dc7-3196d65e8c00/public",
+          "image4Alt": null
+        },
+        "packages": [
+          {
+            "descriptionEn": "An intimate evening charter from 8pm — sunset on the water with a private chef's dinner and top-shelf open bar, captain and crew aboard.",
+            "descriptionEs": "Un charter íntimo al atardecer desde las 8pm: la puesta de sol en el mar con una cena de chef privado y barra libre premium, con capitán y tripulación a bordo.",
+            "durationCategory": "half-day",
+            "key": "romanticDinner",
+            "price": "$950",
+            "title": "Romantic Dinner"
+          },
+          {
+            "descriptionEn": "A three-hour morning cruise along the coast — captain, crew, and an onboard chef, fresh food, and a top-shelf open bar. The quick, polished way onto the water.",
+            "descriptionEs": "Un paseo matutino de tres horas por la costa: capitán, tripulación y chef a bordo, comida fresca y barra libre premium. La manera rápida y elegante de salir al mar.",
+            "durationCategory": "half-day",
+            "key": "hours3",
+            "price": "$1,550",
+            "title": "3 Hours"
+          },
+          {
+            "descriptionEn": "Five hours along the coastline with time to swim and snorkel — full crew and an onboard chef, gourmet food, and a top-shelf open bar throughout.",
+            "descriptionEs": "Cinco horas por la costa con tiempo para nadar y hacer snorkel: tripulación completa y chef a bordo, comida gourmet y barra libre premium durante todo el recorrido.",
+            "durationCategory": "half-day",
+            "key": "hours5",
+            "price": "$1,750",
+            "title": "5 Hours"
+          },
+          {
+            "descriptionEn": "Six hours with room to roam the coast — swim stops, a chef-prepared spread, and a top-shelf open bar, all with captain and crew aboard.",
+            "descriptionEs": "Seis horas para recorrer la costa con calma: paradas para nadar, un banquete preparado por el chef y barra libre premium, todo con capitán y tripulación a bordo.",
+            "durationCategory": "half-day",
+            "key": "hours6",
+            "price": "$1,950",
+            "title": "6 Hours"
+          },
+          {
+            "descriptionEn": "A full day on the water — nine hours to reach the best spots and swim at leisure, with captain, crew, an onboard chef, and top-shelf open bar from start to finish.",
+            "descriptionEs": "Un día completo en el mar: nueve horas para llegar a los mejores lugares y nadar sin prisas, con capitán, tripulación, chef a bordo y barra libre premium de principio a fin.",
+            "durationCategory": "full-day",
+            "key": "hours9",
+            "price": "$2,950",
+            "title": "9 Hours"
+          },
+          {
+            "descriptionEn": "A bachelorette add-on for the bride-to-be and her crew, layered onto your 5h, 6h, or 9h charter.",
+            "descriptionEs": "Un complemento de despedida de soltera para la novia y sus acompañantes, que se suma a tu charter de 5h, 6h o 9h.",
+            "durationCategory": "add-on",
+            "key": "bachelorette",
+            "price": "+$200",
+            "title": "Bachelorette"
+          },
+          {
+            "descriptionEn": "Add a stop at El Cielo, Cozumel's shallow reef and starfish sanctuary — crystal water and snorkeling over white sand. Full-day and overnight charters (marine-park fee applies).",
+            "descriptionEs": "Agrega una parada en El Cielo, el arrecife poco profundo y santuario de estrellas de mar de Cozumel: agua cristalina y snorkel sobre arena blanca. En charters de día completo y overnight (aplica cuota del parque marino).",
+            "durationCategory": "add-on",
+            "key": "elCieloCozumel",
+            "price": "+$300 (9h)",
+            "title": "El Cielo Cozumel"
+          }
+        ],
+        "reviewIds": [],
+        "specs": {
+          "bathrooms": "1",
+          "cabins": "1",
+          "capacity": "8",
+          "length": "40"
+        }
+      },
+      "convexId": "kn72c688httzpht5zgcx3yhsgh858ff8",
+      "lastUpdated": "2026-06-25T02:22:47.054Z",
+      "locales": {
+        "en": {
+          "boatBody": "<p id=\"\">Step aboard the VanDutch 40', an icon of modern luxury and design that feels like it's straight out of a James Bond movie. This 12-meter yacht is the epitome of style and sophistication, combining daring aesthetics with advanced technology to deliver a truly unforgettable experience. With a sleek and sporty exterior, the VanDutch 40' stands out as a bold statement on the water, making it the ideal choice for those who seek both adventure and elegance.</p><p id=\"\">Designed to comfortably accommodate up to 8 passengers, the VanDutch 40' offers a tailor-made interior that blends luxury and functionality. Whether you're lounging in the shaded areas, enjoying the high-end sound system, or taking in the breathtaking views of the Caribbean, every moment on this yacht is a testament to refined living. The VanDutch 40' also features a spacious cabin, an enclosed shower, and a toilet, ensuring that you have all the comforts you need while exploring Tulum’s stunning coastline.</p><p id=\"\">Equipped with air conditioning, a fully stocked premium bar, and snorkeling gear, the VanDutch 40' is perfect for intimate gatherings or a luxurious day out on the water. Sail through the crystal-clear waters of the Riviera Maya in a yacht that embodies both speed and sophistication, and create memories that will last a lifetime.</p>",
+          "boatSummary": "Sail in style aboard the VanDutch 40', a 12-meter luxury yacht with a daring, modern design. Perfect for up to 8 guests, this sleek vessel combines advanced technology with refined comfort for an unforgettable Caribbean adventure in Tulum’s stunning waters.",
+          "name": "Van Dutch 40",
+          "slug": "van-dutch-40"
+        },
+        "es": {
+          "boatBody": "<p id=\"\">Step aboard the VanDutch 40', an icon of modern luxury and design that feels like it's straight out of a James Bond movie. This 12-meter yacht is the epitome of style and sophistication, combining daring aesthetics with advanced technology to deliver a truly unforgettable experience. With a sleek and sporty exterior, the VanDutch 40' stands out as a bold statement on the water, making it the ideal choice for those who seek both adventure and elegance.</p><p id=\"\">Designed to comfortably accommodate up to 8 passengers, the VanDutch 40' offers a tailor-made interior that blends luxury and functionality. Whether you're lounging in the shaded areas, enjoying the high-end sound system, or taking in the breathtaking views of the Caribbean, every moment on this yacht is a testament to refined living. The VanDutch 40' also features a spacious cabin, an enclosed shower, and a toilet, ensuring that you have all the comforts you need while exploring Tulum’s stunning coastline.</p><p id=\"\">Equipped with air conditioning, a fully stocked premium bar, and snorkeling gear, the VanDutch 40' is perfect for intimate gatherings or a luxurious day out on the water. Sail through the crystal-clear waters of the Riviera Maya in a yacht that embodies both speed and sophistication, and create memories that will last a lifetime.</p>",
+          "boatSummary": "Sail in style aboard the VanDutch 40', a 12-meter luxury yacht with a daring, modern design. Perfect for up to 8 guests, this sleek vessel combines advanced technology with refined comfort for an unforgettable Caribbean adventure in Tulum’s stunning waters.",
+          "name": "Van Dutch 40",
+          "slug": "van-dutch-40"
+        }
+      }
+    },
     {
       "base": {
         "categoryIds": [],
