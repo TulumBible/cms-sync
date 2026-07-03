@@ -1,0 +1,53 @@
+{
+  "syncedAt": "2026-07-03T21:04:01.334Z",
+  "cities": [
+    {
+      "convexId": "ks7227knh86n4g12tr80vw1kj9858dzc",
+      "countryCode": "MX",
+      "currency": "MXN",
+      "domainProd": "tulumbible.com",
+      "domainStaging": "staging.tulumbible.com",
+      "name": "Tulum Bible",
+      "shortName": "Tulum",
+      "slug": "tulum",
+      "sortOrder": 0,
+      "timezone": "America/Cancun"
+    },
+    {
+      "convexId": "ks74xswxm2z81e5jzawjm3vmds89fext",
+      "countryCode": "MX",
+      "currency": "MXN",
+      "domainProd": null,
+      "domainStaging": null,
+      "name": "Cabos Bible",
+      "shortName": "Cabos",
+      "slug": "cabos",
+      "sortOrder": 1,
+      "timezone": "America/Mazatlan"
+    },
+    {
+      "convexId": "ks747nx9nqxh2z1evatwh6j00n89ebya",
+      "countryCode": "GR",
+      "currency": "EUR",
+      "domainProd": null,
+      "domainStaging": null,
+      "name": "Mykonos Bible",
+      "shortName": "Mykonos",
+      "slug": "mykonos",
+      "sortOrder": 2,
+      "timezone": "Europe/Athens"
+    },
+    {
+      "convexId": "ks7dhybmry0kr7tg9p2k0emf7s89e57m",
+      "countryCode": "CO",
+      "currency": "COP",
+      "domainProd": null,
+      "domainStaging": null,
+      "name": "Medellin Bible",
+      "shortName": "Medellin",
+      "slug": "medellin",
+      "sortOrder": 3,
+      "timezone": "America/Bogota"
+    }
+  ]
+}
