@@ -3,7 +3,7 @@
  *
  * Adding a new collection = add a line here + add a registration on
  * the Convex side (see events-management/convex/http.ts). The sync
- * loop iterates this list in order.
+ * fetches all collections in this list concurrently per city.
  *
  * The `publishable` flag mirrors events-management's split between
  * `registerPublishableSnapshotRoute` (venues, events, blogs, …) and

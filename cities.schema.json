@@ -1,0 +1,38 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "cms-sync fallback city registry",
+  "description": "Fallback city list used when the Convex /cms-snapshot/cities endpoint is unreachable. The Convex cities table is the primary registry.",
+  "type": "object",
+  "required": ["cities"],
+  "properties": {
+    "$schema": { "type": "string" },
+    "cities": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["slug", "displayName", "active"],
+        "additionalProperties": false,
+        "properties": {
+          "slug": {
+            "type": "string",
+            "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$",
+            "description": "URL-safe city slug — must match the slug in the Convex cities table."
+          },
+          "displayName": {
+            "type": "string",
+            "minLength": 1
+          },
+          "active": {
+            "type": "boolean",
+            "description": "false keeps the city configured but skips its sync."
+          }
+        }
+      }
+    },
+    "_notes": {
+      "type": "array",
+      "items": { "type": "string" }
+    }
+  },
+  "additionalProperties": false
+}

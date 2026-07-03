@@ -34,7 +34,7 @@
  * ignores the param — but it's a code smell, so guard at the call
  * site by branching on the collection kind.
  */
-const NON_PUBLISHABLE_COLLECTIONS = new Set(["redirects"]);
+const NON_PUBLISHABLE_COLLECTIONS = new Set(["redirects", "cities"]);
 
 export interface SnapshotEnvelope<Row = unknown> {
   syncedAt: string;
@@ -64,6 +64,12 @@ export interface FetchSnapshotOptions {
 const MAX_ATTEMPTS = 3;
 /** Base backoff between attempts; doubles each retry, plus jitter. */
 const BACKOFF_BASE_MS = 1_000;
+/**
+ * Per-request deadline. Node's fetch has no default timeout worth
+ * relying on (undici's is minutes) — without this, one hung TCP
+ * connection stalls the whole run.
+ */
+const FETCH_TIMEOUT_MS = 30_000;
 
 function sleep(ms: number): Promise<void> {
   return new Promise((resolve) => setTimeout(resolve, ms));
@@ -71,6 +77,19 @@ function sleep(ms: number): Promise<void> {
 
 /** Thrown for responses that retrying can't fix (auth, bad request). */
 class NonRetryableError extends Error {}
+
+/**
+ * Thrown for transient failures (5xx, 429). Carries the server's
+ * `Retry-After` hint when present so the retry loop can honor it
+ * instead of guessing with backoff alone.
+ */
+class RetryableError extends Error {
+  retryAfterMs?: number;
+  constructor(message: string, retryAfterMs?: number) {
+    super(message);
+    this.retryAfterMs = retryAfterMs;
+  }
+}
 
 /**
  * Fetch one collection's snapshot for one city.
@@ -88,7 +107,7 @@ class NonRetryableError extends Error {}
  */
 export async function fetchSnapshot(
   collection: string,
-  citySlug: string,
+  citySlug: string | null,
   options: FetchSnapshotOptions = {},
 ): Promise<SnapshotEnvelope> {
   const baseUrl = process.env.CONVEX_SITE_URL;
@@ -101,7 +120,11 @@ export async function fetchSnapshot(
   }
 
   const url = new URL(`/cms-snapshot/${collection}`, baseUrl);
-  url.searchParams.set("city", citySlug);
+  // `cities` is the one route that isn't city-scoped (it IS the city
+  // list) — callers pass null to skip the param.
+  if (citySlug !== null) {
+    url.searchParams.set("city", citySlug);
+  }
 
   // Only publishable routes honor ?drafts. Skip sending it to
   // `/cms-snapshot/redirects` etc. so the URL stays minimal + the
@@ -118,23 +141,38 @@ export async function fetchSnapshot(
       if (err instanceof NonRetryableError) throw err;
       lastError = err;
       if (attempt === MAX_ATTEMPTS) break;
+      // Honor the server's Retry-After hint when it exceeds our own
+      // exponential backoff (e.g. a 429 that asks for a longer pause).
       const backoff =
         BACKOFF_BASE_MS * 2 ** (attempt - 1) + Math.random() * 500;
+      const retryAfterMs =
+        err instanceof RetryableError ? (err.retryAfterMs ?? 0) : 0;
+      const waitMs = Math.max(backoff, retryAfterMs);
       console.warn(
-        `  retry ${attempt}/${MAX_ATTEMPTS - 1} for ${collection} (${citySlug}) ` +
-          `in ${Math.round(backoff)}ms — ${err instanceof Error ? err.message : err}`,
+        `  retry ${attempt}/${MAX_ATTEMPTS - 1} for ${collection} (${citySlug ?? "-"}) ` +
+          `in ${Math.round(waitMs)}ms — ${err instanceof Error ? err.message : err}`,
       );
-      await sleep(backoff);
+      await sleep(waitMs);
     }
   }
   throw lastError;
+}
+
+/** Parse a Retry-After header (delta-seconds or HTTP-date) → ms. */
+function parseRetryAfterMs(header: string | null): number | undefined {
+  if (!header) return undefined;
+  const seconds = Number(header);
+  if (Number.isFinite(seconds)) return Math.max(0, seconds * 1_000);
+  const date = Date.parse(header);
+  if (!Number.isNaN(date)) return Math.max(0, date - Date.now());
+  return undefined;
 }
 
 async function fetchSnapshotOnce(
   url: URL,
   key: string,
   collection: string,
-  citySlug: string,
+  citySlug: string | null,
 ): Promise<SnapshotEnvelope> {
   // The Convex HTTP action already emits `Cache-Control: no-store`,
   // so responses aren't cached at the transport layer. Node's built-in
@@ -145,17 +183,23 @@ async function fetchSnapshotOnce(
       "x-internal-cms-key": key,
       accept: "application/json",
     },
+    // Hard per-request deadline — a hung connection becomes a
+    // retryable failure instead of stalling the run.
+    signal: AbortSignal.timeout(FETCH_TIMEOUT_MS),
   });
 
   if (!res.ok) {
     const body = await res.text().catch(() => "<no body>");
     const message =
-      `/cms-snapshot/${collection}?city=${citySlug}: ` +
+      `/cms-snapshot/${collection}?city=${citySlug ?? "-"}: ` +
       `${res.status} ${res.statusText} — ${body.slice(0, 200)}`;
     // 5xx + 429 are transient; everything else 4xx is a config or
     // contract problem that retrying can't fix.
     if (res.status >= 500 || res.status === 429) {
-      throw new Error(message);
+      throw new RetryableError(
+        message,
+        parseRetryAfterMs(res.headers.get("retry-after")),
+      );
     }
     throw new NonRetryableError(message);
   }
@@ -163,7 +207,7 @@ async function fetchSnapshotOnce(
   const parsed = (await res.json()) as SnapshotEnvelope;
   if (!parsed || typeof parsed !== "object" || !("syncedAt" in parsed)) {
     throw new NonRetryableError(
-      `/cms-snapshot/${collection}?city=${citySlug}: response lacks envelope shape`,
+      `/cms-snapshot/${collection}?city=${citySlug ?? "-"}: response lacks envelope shape`,
     );
   }
   return parsed;

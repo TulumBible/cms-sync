@@ -30,6 +30,16 @@ jobs:
   sync:
     runs-on: ubuntu-latest
     steps:
+      # Draft mode commits unpublished content to whatever branch this
+      # runs on — and this repo is PUBLIC. Refuse includeDrafts anywhere
+      # except the draft branch so a mis-clicked dispatch can't ship
+      # draft data to main (and from there to production consumers).
+      - name: Guard draft-mode dispatch
+        if: inputs.includeDrafts && github.ref != 'refs/heads/draft'
+        run: |
+          echo "::error::includeDrafts=true is only allowed on the draft branch (got $GITHUB_REF). Draft content must never land on main."
+          exit 1
+
       # Actions pinned to commit SHAs — these jobs hold INTERNAL_CMS_KEY
       # and ASTRO_DISPATCH_TOKEN; a repointed floating tag would run
       # attacker code with those in reach.

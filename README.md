@@ -1,10 +1,10 @@
 # cms-sync
 
-Serves every Core market — Tulum, Cabos, Mykonos, etc. Add new cities by editing `cities.json`.
+Serves every Core market — Tulum, Cabos, Mykonos, etc. Cities are managed in the CMS (Convex `cities` table); activating a region there is all it takes to start syncing it.
 
 Standalone **Convex → JSON sync** for the Core hospitality network. Polls the `events-management` Convex deployment's `/cms-snapshot/*` HTTP endpoints, writes per-city JSON files into `data/{slug}/`, and commits them back to this repo. Downstream apps (`tulum-bible-astro`, `tb-ai-concierge`, `tulum-core`) read those committed JSON files directly from GitHub.
 
-**Migrated from Webflow to Convex** — the `events-management` repo is now the editorial source of truth. The output JSON shapes for `venues-lite.json` and `venues-full.json` are preserved byte-compatible for legacy consumers; everything else is new additive output.
+**Migrated from Webflow to Convex** — the `events-management` repo is the editorial source of truth. All output uses the Convex envelope shape; the Webflow-era legacy files (`venues-lite.json`, `venues-full.json`) were retired in 2026-07 once tulum-core and the concierge migrated to `venues.json`.
 
 ## Why a separate repo
 
@@ -13,64 +13,59 @@ Zero coupling to the main stacks. It only needs:
 - A shared secret for auth
 - GitHub permissions to push commits back to itself
 
-Runs on a GitHub Actions cron and commits its output. Consumers fetch the raw JSON from GitHub or add this repo as a git submodule.
+Runs on a GitHub Actions cron (daily backstop) and on `workflow_dispatch` triggers fired by the CMS on every publish/unpublish. Consumers fetch the raw JSON from GitHub.
 
 ## Data flow
 
 ```
 events-management (Convex)
-   │   HTTP GET /cms-snapshot/*  (x-internal-cms-key header)
+   │   HTTP GET /cms-snapshot/cities      (city registry)
+   │   HTTP GET /cms-snapshot/*?city=…    (x-internal-cms-key header)
    ▼
-cms-sync  (this repo — GitHub Actions cron)
-   │   writes JSON → commits to GitHub
+cms-sync  (this repo — GitHub Actions)
+   │   writes JSON → commits to GitHub (only when content changed)
    ▼
 data/{city}/*.json on GitHub
    ▼
 Downstream consumers:
-   - tulum-bible-astro  (reads all 12 collections)
-   - tb-ai-concierge    (reads venues-lite.json + venues-full.json, legacy shape)
-   - tulum-core         (reads venues-lite.json + venues-full.json, legacy shape)
+   - tulum-bible-astro  (reads all collections)
+   - tulum-core         (reads venues.json)
+   - tb-ai-concierge    (reads venues, events, faqs, reviews, blogs, villas, yachts)
 ```
 
 The HTTP contract the Convex side exposes is documented in [`cms/convex/SNAPSHOT_CONTRACT.md`](https://github.com/TulumBible/cms/blob/main/convex/SNAPSHOT_CONTRACT.md).
 
 ## Multi-city architecture
 
-Each city is listed in `cities.json` with a slug the Convex deployment also knows about:
+The city registry lives in the Convex `cities` table and is fetched at the start of every run via `/cms-snapshot/cities` (active cities only). The local [`cities.json`](cities.json) is a **fallback** used only when that endpoint is unreachable, so a Convex outage can't stop the daily backstop run.
 
-```json
-{
-  "cities": [
-    { "slug": "tulum", "displayName": "Tulum", "active": true },
-    { "slug": "los-cabos", "displayName": "Los Cabos", "active": false }
-  ]
-}
-```
+**Adding a new city** = create it in the CMS admin with `isActive: true` and scope content to it. No change in this repo needed. (Optionally mirror it into `cities.json` so the fallback stays current.)
 
-Each run iterates over the **active** cities, fetches every registered collection from Convex for that city, and writes:
+Each run iterates over the active cities, fetches every registered collection for that city, and writes:
 
 ```
 data/
+├── cities.json                # City registry envelope (from Convex)
 ├── tulum/
-│   ├── venues.json            # NEW — Convex envelope passthrough
-│   ├── events.json            # NEW
-│   ├── blogs.json             # NEW
-│   ├── categories.json        # NEW
-│   ├── amenities.json         # NEW
-│   ├── authors.json           # NEW
-│   ├── faqs.json              # NEW
-│   ├── reviews.json           # NEW
-│   ├── yachts.json            # NEW
-│   ├── villas.json            # NEW
-│   ├── legals.json            # NEW
-│   ├── redirects.json         # NEW
-│   ├── venues-full.json       # LEGACY — preserved for concierge + core-tulum
-│   └── venues-lite.json       # LEGACY — preserved for concierge + core-tulum
+│   ├── venues.json            # Convex envelope passthrough
+│   ├── events.json
+│   ├── blogs.json
+│   ├── categories.json
+│   ├── amenities.json
+│   ├── authors.json
+│   ├── faqs.json
+│   ├── reviews.json
+│   ├── yachts.json
+│   ├── villas.json
+│   ├── legals.json
+│   ├── transport-routes.json
+│   ├── transport-vehicles.json
+│   └── redirects.json
 └── los-cabos/
-    └── … (same set when active: true)
+    └── … (same set once active in the CMS)
 ```
 
-Adding a new city = add a row to `cities.json` with `active: true` AND ensure the city exists in the `events-management` cities table with content scoped to it. No code changes needed.
+Files are only rewritten (and therefore committed) when their content actually changed — the volatile `syncedAt` stamp is ignored during comparison, so no-op runs produce no commits and no downstream rebuilds. A file's `syncedAt` reflects the last **content** change.
 
 ## Required env vars
 
@@ -83,7 +78,7 @@ Optional:
 
 | Variable                | Description                                                                                                |
 | ----------------------- | ---------------------------------------------------------------------------------------------------------- |
-| `SYNC_ONLY_CITY`        | Restrict to a single city slug (as defined in `cities.json`). Used by manual dispatch.                     |
+| `SYNC_ONLY_CITY`        | Restrict to a single city slug. Used by manual dispatch.                                                    |
 | `SYNC_INCLUDE_DRAFTS`   | Set to `"1"` on the `draft` branch to fetch publishable routes with `?drafts=1` (live projection).         |
 
 For local runs, copy `.env.example` to `.env.local` and fill in values. For the GitHub Action, add `CONVEX_SITE_URL` and `INTERNAL_CMS_KEY` as repository secrets.
@@ -95,14 +90,16 @@ For local runs, copy `.env.example` to `.env.local` and fill in values. For the 
 | `main`  | unset                 | Frozen published snapshots      | Production Astro + concierge + core    |
 | `draft` | `"1"`                 | Live projection w/ `isDraft`    | Staging Astro (staging.tulumbible.com) |
 
-Set up two workflow runs — one on each branch — or use a single workflow with branch-aware env wiring. The current `.github/workflows/sync.yml` uses `workflow_dispatch` input for manual draft-mode runs; wire up a cron on the `draft` branch when staging comes online.
+The workflow **refuses** `includeDrafts=true` on any branch except `draft` — this repo is public, and draft mode would commit unpublished content where the world (and production consumers) can read it.
+
+> ⚠️ Before wiring up the `draft` branch: unpublished drafts on a **public** repo are world-readable. Make the repo private, or point draft output somewhere access-controlled.
 
 ## Run locally
 
 ```bash
 pnpm install
 
-# Sync every active city in cities.json (published-only):
+# Sync every active city (published-only):
 pnpm sync
 
 # Sync just one city:
@@ -123,21 +120,21 @@ gh workflow run sync.yml
 # Sync just one city
 gh workflow run sync.yml -f citySlug=tulum
 
-# Draft-mode sync
-gh workflow run sync.yml -f includeDrafts=true
+# Draft-mode sync (only allowed on the draft branch)
+gh workflow run sync.yml --ref draft -f includeDrafts=true
 ```
 
-The workflow also runs daily at 07:00 UTC via cron.
+The workflow also runs daily at 07:00 UTC via cron as a backstop; fast propagation comes from the CMS firing a `workflow_dispatch` on every publish/unpublish.
 
 ## Output schemas
 
-### Convex envelope (new — all 12 files)
+### Convex envelope (all collection files)
 
 Every `/cms-snapshot/*` file uses the same envelope:
 
 ```ts
 {
-  syncedAt: string;           // ISO-8601 timestamp, fresh per fetch
+  syncedAt: string;           // ISO-8601 — last CONTENT change, not last run
   citySlug: string;           // echoes ?city=
   [collection]: Row[];        // key matches URL slug + filename
   mode?: "published" | "draft"; // publishable routes only
@@ -146,50 +143,22 @@ Every `/cms-snapshot/*` file uses the same envelope:
 
 Row shapes per collection are documented in [`cms/convex/publish/snapshots.ts`](https://github.com/TulumBible/cms/blob/main/convex/publish/snapshots.ts) — every row follows `{ convexId, base, locales: { en, es } }`.
 
-### Legacy — `venues-lite.json` + `venues-full.json`
-
-Preserved byte-compatible from the Webflow era for `tb-ai-concierge` and `tulum-core`. See `src/transforms/venues-legacy.ts` for the exact shape definitions and filter logic.
-
-`venues-lite.json` — featured-on-core subset, closed venues excluded:
+### `data/cities.json`
 
 ```ts
 {
   syncedAt: string;
-  citySlug: string;
-  venues: Array<{
-    slug: string;
-    category: string | null;
-    area: string | null;
-    pricing: string | null;
-    coverImage: string | null;
-    isClosed: boolean;          // always false (closed venues filtered out)
-    tulumBibleSlug: string;     // === slug
-    openingHours: string | null; // HTML stripped, one line per day
-    locales: {
-      en: { name: string; description: string };
-      es: { name: string; description: string };
-    };
-  }>;
-}
-```
-
-`venues-full.json` — every published venue with all legacy fields:
-
-```ts
-{
-  syncedAt: string;
-  citySlug: string;
-  venues: Array<{
-    webflowItemId: string;      // now holds the Convex row _id, field name preserved for compat
-    base: { slug, category, area, pricing, coverImage, imageUrls,
-            isClosed, isFeatured, isFeaturedOnCoreTulum,
-            googleMapsCode, foodMenuUrl, drinkMenuUrl, openingHoursHtml };
-    locales: {
-      en: { name, description, body, address, feesHtml };
-      es: { name, description, body, address, feesHtml };
-    };
-    lastPublished?: string;     // falls back to lastUpdated when no publish stamp
-    lastUpdated?: string;
+  cities: Array<{
+    convexId: string;
+    slug: string;              // "tulum"
+    name: string;              // "Tulum Bible"
+    shortName: string | null;  // "Tulum"
+    countryCode: string | null;
+    timezone: string | null;
+    currency: string | null;
+    domainProd: string | null;
+    domainStaging: string | null;
+    sortOrder: number | null;
   }>;
 }
 ```
@@ -197,31 +166,28 @@ Preserved byte-compatible from the Webflow era for `tb-ai-concierge` and `tulum-
 ## Repo layout
 
 ```
-cities.json                  Multi-city config — one row per market
+cities.json                   FALLBACK city registry (primary lives in Convex)
+cities.schema.json            JSON Schema for the fallback file
 src/
 ├── convex/
 │   └── client.ts             fetchSnapshot + rowsOf — HTTP client for /cms-snapshot/*
-├── transforms/
-│   └── venues-legacy.ts      Convex venue → legacy venues-full + venues-lite shapes
 ├── collections.ts            Registry of collections to sync (slug + publishable flag)
-└── sync.ts                   Entrypoint — loops cities × collections
+└── sync.ts                   Entrypoint — city registry → parallel collection fan-out
 data/
+├── cities.json               City registry envelope (committed by GitHub Action)
 ├── tulum/                    Per-city JSON (committed by GitHub Action)
-│   ├── venues.json           new — Convex envelope
-│   ├── events.json           new
-│   ├── ... (9 more)
-│   ├── venues-full.json      legacy shape
-│   └── venues-lite.json      legacy shape
 .github/workflows/
-└── sync.yml                  Daily cron + workflow_dispatch with citySlug + includeDrafts inputs
+└── sync.yml                  Daily cron backstop + workflow_dispatch (citySlug, includeDrafts)
 ```
 
 ## Roadmap
 
 - ✅ Single-city sync (Tulum)
-- ✅ Multi-city refactor (cities.json + per-city data folders)
-- ✅ Webflow → Convex source migration (this PR)
-- ✅ Expanded to 12 collections (events, blogs, authors, etc.)
-- ⏳ `draft` branch wiring for staging Astro preview
-- ⏳ Add second city (Los Cabos) — requires content in events-management first
-- ⏳ Migrate `tb-ai-concierge` + `tulum-core` to read new `venues.json` shape, then retire the legacy `venues-full` + `venues-lite` outputs
+- ✅ Multi-city refactor (per-city data folders)
+- ✅ Webflow → Convex source migration
+- ✅ Expanded to 14 collections (events, blogs, authors, transport, etc.)
+- ✅ Dynamic city registry from Convex (`/cms-snapshot/cities`, 2026-07)
+- ✅ Change-detected writes — no more timestamp-churn commits (2026-07)
+- ✅ Retired the legacy Webflow-era outputs — `venues-lite.json` (tulum-core migrated), then `venues-full.json` + the transform (concierge migrated)
+- ⏳ `draft` branch wiring for staging Astro preview — **repo must go private first** (see Branch discipline)
+- ⏳ Add second city (Los Cabos) — activate in the CMS once content is scoped
