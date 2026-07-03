@@ -67,6 +67,8 @@ data/
 
 Files are only rewritten (and therefore committed) when their content actually changed — the volatile `syncedAt` stamp is ignored during comparison, so no-op runs produce no commits and no downstream rebuilds. A file's `syncedAt` reflects the last **content** change.
 
+**Mass-deletion guard**: because commits propagate to every consumer within seconds, a collection that suddenly comes back empty (had ≥ 3 rows) or loses more than 80% of its rows (had ≥ 10) is treated as an upstream accident — the previous file is kept and the run fails so the CMS admin shows red. If the removal is intentional, re-run the workflow with the `allowShrink` input checked. See [`src/lib/shrink-guard.ts`](src/lib/shrink-guard.ts).
+
 ## Required env vars
 
 | Variable            | Description                                                                           |
@@ -80,6 +82,7 @@ Optional:
 | ----------------------- | ---------------------------------------------------------------------------------------------------------- |
 | `SYNC_ONLY_CITY`        | Restrict to a single city slug. Used by manual dispatch.                                                    |
 | `SYNC_INCLUDE_DRAFTS`   | Set to `"1"` on the `draft` branch to fetch publishable routes with `?drafts=1` (live projection).         |
+| `SYNC_ALLOW_SHRINK`     | Set to `"1"` to bypass the mass-deletion guard when a large content removal is intentional.                 |
 
 For local runs, copy `.env.example` to `.env.local` and fill in values. For the GitHub Action, add `CONVEX_SITE_URL` and `INTERNAL_CMS_KEY` as repository secrets.
 
@@ -171,6 +174,9 @@ cities.schema.json            JSON Schema for the fallback file
 src/
 ├── convex/
 │   └── client.ts             fetchSnapshot + rowsOf — HTTP client for /cms-snapshot/*
+├── lib/
+│   ├── compare.ts            Change detection (syncedAt-insensitive envelope compare)
+│   └── shrink-guard.ts       Mass-deletion guard (wipe / >80% shrink protection)
 ├── collections.ts            Registry of collections to sync (slug + publishable flag)
 └── sync.ts                   Entrypoint — city registry → parallel collection fan-out
 data/

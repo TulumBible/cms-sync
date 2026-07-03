@@ -47,6 +47,9 @@
  *   SYNC_INCLUDE_DRAFTS  (optional) "1"|"true" to flip publishable
  *                     routes to live-projection mode. Used on the
  *                     staging (`draft`) branch of this repo.
+ *   SYNC_ALLOW_SHRINK (optional) "1"|"true" to bypass the mass-
+ *                     deletion guard (see src/lib/shrink-guard.ts)
+ *                     when a large content removal is intentional.
  *
  * ## Branch discipline
  *
@@ -66,6 +69,8 @@ import { fileURLToPath } from "node:url";
 
 import { fetchSnapshot, rowsOf } from "./convex/client.js";
 import { COLLECTIONS, type CollectionDef } from "./collections.js";
+import { sameIgnoringSyncedAt } from "./lib/compare.js";
+import { evaluateShrinkGuard } from "./lib/shrink-guard.js";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT_DIR = resolve(__dirname, "..");
@@ -115,6 +120,12 @@ async function loadCities(): Promise<{
   try {
     const envelope = await fetchSnapshot("cities", null);
     const rows = rowsOf<ConvexCityRow>(envelope, "cities");
+    // An empty registry would deactivate every city at once — treat it
+    // as an upstream problem (same spirit as the mass-deletion guard)
+    // rather than silently syncing nothing / wiping data/cities.json.
+    if (rows.length === 0) {
+      throw new Error("endpoint returned zero active cities");
+    }
     await writeDataJson("cities.json", envelope);
     return {
       cities: rows.map((c) => ({
@@ -145,23 +156,6 @@ async function loadCities(): Promise<{
 // ---------------------------------------------------------------------------
 // JSON output helpers
 // ---------------------------------------------------------------------------
-
-/**
- * Compare two parsed envelopes ignoring the volatile top-level
- * `syncedAt` stamp. Key order is stable for unchanged content (both
- * sides originate from the same serializer), so string comparison of
- * the stripped objects is sufficient and cheap.
- */
-function sameIgnoringSyncedAt(a: unknown, b: unknown): boolean {
-  const strip = (v: unknown): unknown => {
-    if (v && typeof v === "object" && !Array.isArray(v)) {
-      const { syncedAt: _ignored, ...rest } = v as Record<string, unknown>;
-      return rest;
-    }
-    return v;
-  };
-  return JSON.stringify(strip(a)) === JSON.stringify(strip(b));
-}
 
 /**
  * Write `payload` to `path` unless the existing file already holds the
@@ -203,6 +197,27 @@ async function writeCityJson(
   return writeJsonIfChanged(resolve(cityDir, filename), payload);
 }
 
+/**
+ * Row count in the previously committed file for a collection, or
+ * null when the file is missing/unparsable (first sync of a city).
+ * Feeds the mass-deletion guard.
+ */
+async function readExistingRowCount(
+  citySlug: string,
+  filename: string,
+  key: string,
+): Promise<number | null> {
+  try {
+    const parsed = JSON.parse(
+      await readFile(resolve(DATA_DIR, citySlug, filename), "utf8"),
+    ) as Record<string, unknown>;
+    const rows = parsed[key];
+    return Array.isArray(rows) ? rows.length : null;
+  } catch {
+    return null;
+  }
+}
+
 // ---------------------------------------------------------------------------
 // Per-city sync
 // ---------------------------------------------------------------------------
@@ -231,12 +246,39 @@ async function syncCollection(
   collection: CollectionDef,
   citySlug: string,
   includeDrafts: boolean,
+  allowShrink: boolean,
 ): Promise<CollectionResult> {
   try {
     const envelope = await fetchSnapshot(collection.slug, citySlug, {
       includeDrafts: collection.publishable && includeDrafts,
     });
     const rows = rowsOf(envelope, collection.slug);
+
+    // Mass-deletion guard — a wiped or >80%-shrunk collection is more
+    // likely a CMS accident than an editorial decision, and this
+    // pipeline propagates to every consumer within seconds. Keep the
+    // previously committed file and fail the run instead; re-run with
+    // SYNC_ALLOW_SHRINK=1 (allowShrink input) when it's intentional.
+    if (!allowShrink) {
+      const prevCount = await readExistingRowCount(
+        citySlug,
+        collection.filename,
+        collection.slug,
+      );
+      const verdict = evaluateShrinkGuard(prevCount, rows.length);
+      if (verdict.blocked) {
+        return {
+          def: collection,
+          ok: false,
+          rowCount: rows.length,
+          written: false,
+          error:
+            `${verdict.reason} — previous file kept. ` +
+            `Re-run with allowShrink if this removal is intentional.`,
+        };
+      }
+    }
+
     const written = await writeCityJson(
       citySlug,
       collection.filename,
@@ -262,6 +304,7 @@ async function syncCollection(
 async function syncCity(
   city: CityConfig,
   includeDrafts: boolean,
+  allowShrink: boolean,
 ): Promise<CitySyncResult> {
   console.log(`\n→ ${city.displayName} (${city.slug})`);
   console.log(`  mode: ${includeDrafts ? "draft (live projection)" : "published (frozen)"}`);
@@ -271,7 +314,7 @@ async function syncCity(
   // roughly the slowest single fetch instead of the sum of all.
   const results = await Promise.all(
     COLLECTIONS.map((collection) =>
-      syncCollection(collection, city.slug, includeDrafts),
+      syncCollection(collection, city.slug, includeDrafts, allowShrink),
     ),
   );
 
@@ -311,8 +354,8 @@ async function syncCity(
 // Main: loop over cities
 // ---------------------------------------------------------------------------
 
-function parseIncludeDrafts(): boolean {
-  const raw = process.env.SYNC_INCLUDE_DRAFTS?.toLowerCase() ?? "";
+function parseBoolEnv(name: string): boolean {
+  const raw = process.env[name]?.toLowerCase() ?? "";
   return raw === "1" || raw === "true" || raw === "yes";
 }
 
@@ -330,9 +373,14 @@ async function main(): Promise<void> {
     return;
   }
 
-  const includeDrafts = parseIncludeDrafts();
+  const includeDrafts = parseBoolEnv("SYNC_INCLUDE_DRAFTS");
   if (includeDrafts) {
     console.log("  ! SYNC_INCLUDE_DRAFTS set — draft-branch mode");
+  }
+
+  const allowShrink = parseBoolEnv("SYNC_ALLOW_SHRINK");
+  if (allowShrink) {
+    console.log("  ! SYNC_ALLOW_SHRINK set — mass-deletion guard bypassed");
   }
 
   // Optional: filter to a single city via env var (used by
@@ -362,7 +410,7 @@ async function main(): Promise<void> {
 
   for (const city of citiesToSync) {
     try {
-      const result = await syncCity(city, includeDrafts);
+      const result = await syncCity(city, includeDrafts, allowShrink);
       results.push(result);
     } catch (err) {
       errors.push({

@@ -6,7 +6,8 @@
   "type": "module",
   "scripts": {
     "sync": "tsx --env-file-if-exists=.env.local src/sync.ts",
-    "type-check": "tsc --noEmit"
+    "type-check": "tsc --noEmit",
+    "test": "node --import tsx --test src/lib/*.test.ts src/convex/*.test.ts"
   },
   "devDependencies": {
     "@types/node": "^22.0.0",

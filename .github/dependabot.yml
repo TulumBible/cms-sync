@@ -1,0 +1,22 @@
+version: 2
+updates:
+  # Keeps the SHA-pinned actions in sync.yml + ci.yml current — PRs
+  # arrive with the new pinned SHA and are validated by the CI
+  # type-check + test gate before merging.
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: weekly
+    groups:
+      actions:
+        patterns: ["*"]
+
+  # devDependencies only (tsx, typescript, @types/node) — monthly is
+  # plenty for a repo with no runtime dependencies.
+  - package-ecosystem: npm
+    directory: /
+    schedule:
+      interval: monthly
+    groups:
+      dev-dependencies:
+        patterns: ["*"]

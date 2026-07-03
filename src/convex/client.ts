@@ -158,8 +158,9 @@ export async function fetchSnapshot(
   throw lastError;
 }
 
-/** Parse a Retry-After header (delta-seconds or HTTP-date) → ms. */
-function parseRetryAfterMs(header: string | null): number | undefined {
+/** Parse a Retry-After header (delta-seconds or HTTP-date) → ms.
+ *  Exported for unit tests. */
+export function parseRetryAfterMs(header: string | null): number | undefined {
   if (!header) return undefined;
   const seconds = Number(header);
   if (Number.isFinite(seconds)) return Math.max(0, seconds * 1_000);

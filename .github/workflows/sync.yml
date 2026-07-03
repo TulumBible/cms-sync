@@ -18,6 +18,11 @@ on:
         required: false
         type: boolean
         default: false
+      allowShrink:
+        description: 'Bypass the mass-deletion guard (collection wiped or shrunk >80%). Check ONLY when a large content removal is intentional.'
+        required: false
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -76,6 +81,9 @@ jobs:
           # published snapshots. Used on the `draft` branch of this
           # repo by a separate workflow (or manual dispatch).
           SYNC_INCLUDE_DRAFTS: ${{ inputs.includeDrafts && '1' || '' }}
+          # When "1", bypasses the mass-deletion guard for runs where
+          # a large removal is known to be intentional.
+          SYNC_ALLOW_SHRINK: ${{ inputs.allowShrink && '1' || '' }}
         run: pnpm sync
 
       - name: Commit changes
@@ -90,6 +98,7 @@ jobs:
           INTERNAL_CMS_KEY: ${{ secrets.INTERNAL_CMS_KEY }}
           SYNC_ONLY_CITY: ${{ inputs.citySlug }}
           SYNC_INCLUDE_DRAFTS: ${{ inputs.includeDrafts && '1' || '' }}
+          SYNC_ALLOW_SHRINK: ${{ inputs.allowShrink && '1' || '' }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -97,12 +106,30 @@ jobs:
           commit_data() {
             git add data/
             if git diff --staged --quiet; then return 1; fi
-            if [ -n "$CITY_SLUG_INPUT" ]; then
-              COMMIT_MSG="chore: sync $CITY_SLUG_INPUT ($(date -u +%Y-%m-%dT%H:%MZ))"
-            else
-              COMMIT_MSG="chore: sync all cities ($(date -u +%Y-%m-%dT%H:%MZ))"
+
+            # Subject summarises what changed per city, e.g.
+            #   chore: sync tulum (venues, events); cabos (faqs)
+            # Falls back to counts when the list is too long (a new
+            # city's first sync touches every collection). Full file
+            # list goes in the body either way.
+            CHANGED_FILES=$(git diff --staged --name-only -- data/)
+            SUMMARY=$(echo "$CHANGED_FILES" | awk -F/ '
+              NF >= 3 { c = $2; f = $3; sub(/\.json$/, "", f)
+                        cols[c] = cols[c] (cols[c] ? ", " : "") f }
+              NF == 2 { reg = 1 }
+              END {
+                out = ""
+                for (c in cols) out = out (out ? "; " : "") c " (" cols[c] ")"
+                if (reg) out = out (out ? "; " : "") "city registry"
+                print out
+              }')
+            if [ ${#SUMMARY} -gt 100 ]; then
+              NFILES=$(echo "$CHANGED_FILES" | wc -l | tr -d " ")
+              NCITIES=$(echo "$CHANGED_FILES" | awk -F/ 'NF>=3 {print $2}' | sort -u | wc -l | tr -d " ")
+              SUMMARY="$NFILES files across $NCITIES cities"
             fi
-            git commit -m "$COMMIT_MSG"
+            COMMIT_MSG="chore: sync ${SUMMARY:-data} ($(date -u +%Y-%m-%dT%H:%MZ))"
+            git commit -m "$COMMIT_MSG" -m "$CHANGED_FILES"
           }
 
           if ! commit_data; then
