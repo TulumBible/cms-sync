@@ -103,7 +103,7 @@ class RetryableError extends Error {
  * Throws on missing env vars, exhausted retries, or malformed JSON.
  * The caller decides whether to bail on the whole sync or just log
  * and skip — `sync.ts` currently logs + skips per-collection so a
- * single broken endpoint doesn't starve the other 11.
+ * single broken endpoint doesn't starve the rest.
  */
 export async function fetchSnapshot(
   collection: string,
