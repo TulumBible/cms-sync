@@ -10,7 +10,7 @@
     "test": "node --import tsx --test src/lib/*.test.ts src/convex/*.test.ts"
   },
   "devDependencies": {
-    "@types/node": "^24.13.2",
+    "@types/node": "^26.1.0",
     "tsx": "^4.23.0",
     "typescript": "^6.0.3"
   },
