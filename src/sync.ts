@@ -158,22 +158,46 @@ async function loadCities(): Promise<{
 // ---------------------------------------------------------------------------
 
 /**
- * Write `payload` to `path` unless the existing file already holds the
- * same content (ignoring `syncedAt`). Skipping the write keeps no-op
- * sync runs from producing timestamp-only git churn — no commit, no
- * downstream rebuild trigger.
+ * Read + parse the currently committed file at `path`, or `undefined`
+ * when it's missing or unparsable (first sync of a city). Read once
+ * per file and reused for BOTH the mass-deletion guard (row count) and
+ * change detection (deep compare), so the file is never parsed twice.
+ */
+async function readExistingJson(path: string): Promise<unknown | undefined> {
+  try {
+    return JSON.parse(await readFile(path, "utf8")) as unknown;
+  } catch {
+    return undefined;
+  }
+}
+
+/**
+ * Row count for `key` in an already-read envelope, or null when the
+ * file was missing/unparsable. Feeds the mass-deletion guard.
+ */
+function rowCountOf(existing: unknown | undefined, key: string): number | null {
+  if (!existing || typeof existing !== "object") return null;
+  const rows = (existing as Record<string, unknown>)[key];
+  return Array.isArray(rows) ? rows.length : null;
+}
+
+/**
+ * Write `payload` to `path` unless `existing` already holds the same
+ * content (ignoring `syncedAt`). Skipping the write keeps no-op sync
+ * runs from producing timestamp-only git churn — no commit, no
+ * downstream rebuild trigger. `existing` is passed in (not re-read)
+ * so a caller that already read the file for the guard doesn't parse
+ * it a second time.
  *
  * Returns true when the file was (re)written.
  */
 async function writeJsonIfChanged(
   path: string,
   payload: unknown,
+  existing: unknown | undefined,
 ): Promise<boolean> {
-  try {
-    const existing = JSON.parse(await readFile(path, "utf8")) as unknown;
-    if (sameIgnoringSyncedAt(existing, payload)) return false;
-  } catch {
-    // Missing or unparsable existing file → write fresh.
+  if (existing !== undefined && sameIgnoringSyncedAt(existing, payload)) {
+    return false;
   }
   await writeFile(path, JSON.stringify(payload, null, 2) + "\n", "utf8");
   return true;
@@ -184,38 +208,8 @@ async function writeDataJson(
   payload: unknown,
 ): Promise<boolean> {
   await mkdir(DATA_DIR, { recursive: true });
-  return writeJsonIfChanged(resolve(DATA_DIR, filename), payload);
-}
-
-async function writeCityJson(
-  citySlug: string,
-  filename: string,
-  payload: unknown,
-): Promise<boolean> {
-  const cityDir = resolve(DATA_DIR, citySlug);
-  await mkdir(cityDir, { recursive: true });
-  return writeJsonIfChanged(resolve(cityDir, filename), payload);
-}
-
-/**
- * Row count in the previously committed file for a collection, or
- * null when the file is missing/unparsable (first sync of a city).
- * Feeds the mass-deletion guard.
- */
-async function readExistingRowCount(
-  citySlug: string,
-  filename: string,
-  key: string,
-): Promise<number | null> {
-  try {
-    const parsed = JSON.parse(
-      await readFile(resolve(DATA_DIR, citySlug, filename), "utf8"),
-    ) as Record<string, unknown>;
-    const rows = parsed[key];
-    return Array.isArray(rows) ? rows.length : null;
-  } catch {
-    return null;
-  }
+  const path = resolve(DATA_DIR, filename);
+  return writeJsonIfChanged(path, payload, await readExistingJson(path));
 }
 
 // ---------------------------------------------------------------------------
@@ -254,17 +248,20 @@ async function syncCollection(
     });
     const rows = rowsOf(envelope, collection.slug);
 
+    const cityDir = resolve(DATA_DIR, citySlug);
+    await mkdir(cityDir, { recursive: true });
+    const path = resolve(cityDir, collection.filename);
+    // Read the committed file ONCE — reused for the guard's row count
+    // and the change-detection compare below.
+    const existing = await readExistingJson(path);
+
     // Mass-deletion guard — a wiped or >80%-shrunk collection is more
     // likely a CMS accident than an editorial decision, and this
     // pipeline propagates to every consumer within seconds. Keep the
     // previously committed file and fail the run instead; re-run with
     // SYNC_ALLOW_SHRINK=1 (allowShrink input) when it's intentional.
     if (!allowShrink) {
-      const prevCount = await readExistingRowCount(
-        citySlug,
-        collection.filename,
-        collection.slug,
-      );
+      const prevCount = rowCountOf(existing, collection.slug);
       const verdict = evaluateShrinkGuard(prevCount, rows.length);
       if (verdict.blocked) {
         return {
@@ -279,11 +276,7 @@ async function syncCollection(
       }
     }
 
-    const written = await writeCityJson(
-      citySlug,
-      collection.filename,
-      envelope,
-    );
+    const written = await writeJsonIfChanged(path, envelope, existing);
     return {
       def: collection,
       ok: true,
