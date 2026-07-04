@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-07-04T02:16:10.913Z",
+  "syncedAt": "2026-07-04T04:31:41.710Z",
   "citySlug": "tulum",
   "yachts": [
     {
@@ -30,7 +30,7 @@
         "location": "cozumel",
         "packages": [
           {
-            "capacity": 8,
+            "capacity": 6,
             "descriptionEn": "3 hours on the Van Dutch 40, a 40-foot motor yacht. Out of the marina in the morning, cruise along Cozumel's coast, and stop to swim in clear water. Captain, crew, and a chef are aboard, with a full open bar.",
             "descriptionEs": "3 horas en el Van Dutch 40, un yate a motor de 40 pies. Salida de la marina por la mañana, navega por la costa de Cozumel y para nadar en aguas claras. Capitán, tripulación y un chef están a bordo, con barra libre.",
             "durationCategory": "half-day",
@@ -39,7 +39,7 @@
             "title": "3 Hours"
           },
           {
-            "capacity": 8,
+            "capacity": 6,
             "descriptionEn": "5 hours on the Van Dutch 40. Reach a couple of spots and swim without rushing. Snorkel, eat a chef-made lunch on deck, and let the crew handle everything. Captain, chef, and open bar throughout.",
             "descriptionEs": "5 horas en el Van Dutch 40. Llega a un par de lugares y nada sin prisa. Haz snorkel, come un almuerzo preparado por el chef en la cubierta y deja que la tripulación se encargue de todo. Capitán, chef y barra libre durante todo el tiempo.",
             "durationCategory": "half-day",
@@ -48,7 +48,7 @@
             "title": "5 Hours"
           },
           {
-            "capacity": 8,
+            "capacity": 6,
             "descriptionEn": "6 hours on the Van Dutch 40, allowing you to explore farther along the coast. Swim stops, a chef-cooked meal, and a full open bar are included, with captain and crew on board.",
             "descriptionEs": "6 horas en el Van Dutch 40, permitiéndote explorar más lejos por la costa. Paradas para nadar, una comida cocinada por el chef y barra libre están incluidas, con capitán y tripulación a bordo.",
             "durationCategory": "half-day",
@@ -57,7 +57,7 @@
             "title": "6 Hours"
           },
           {
-            "capacity": 8,
+            "capacity": 6,
             "descriptionEn": "A full day on the Van Dutch 40 — 9 hours to reach the further reefs, swim at your own pace, and cruise back at sunset. Chef-cooked meals and an open bar from the marina and back, with captain and crew aboard.",
             "descriptionEs": "Un día completo en el Van Dutch 40 — 9 horas para llegar a los arrecifes más lejanos, nadar a tu ritmo y regresar al atardecer. Comidas cocinadas por el chef y barra libre de la marina de ida y vuelta, con capitán y tripulación a bordo.",
             "durationCategory": "full-day",
@@ -85,12 +85,30 @@
           },
           {
             "capacity": null,
-            "descriptionEn": "Add a stop at El Cielo, Cozumel's shallow reef and starfish sanctuary. take in crystal-clear water and snorkeling over white sand. Available for full-day and overnight rentals (marine-park fee applies).",
-            "descriptionEs": "Agrega una parada en El Cielo, el arrecife poco profundo de Cozumel y santuario de estrellas de mar. Disfruta de aguas cristalinas y snorkel sobre arena blanca. Disponible para rentas de día completo y pernoctaciones (se aplica tarifa del parque marino).",
+            "descriptionEn": "Add a crossing to El Cielo, Cozumel's shallow reef and starfish sanctuary. The price covers your group's marine-park bracelet; on arrival, an authorised park vessel takes anyone who wants to snorkel across to the reef. Priced by group size: $600 up to 8 guests, $800 for 8–12, $1,200 for 12–18, and $1,400 up to 20.",
+            "descriptionEs": "Agrega un cruce a El Cielo, el arrecife poco profundo de Cozumel y santuario de estrellas de mar. El precio incluye la pulsera del parque marino para tu grupo; al llegar, una embarcación autorizada del parque lleva a quien quiera hacer snorkel hasta el arrecife. Precio por tamaño de grupo: $600 hasta 8 personas, $800 de 8 a 12, $1,200 de 12 a 18 y $1,400 hasta 20.",
             "durationCategory": "add-on",
             "key": "elCieloCozumel",
+            "price": "+$600–$1,400 by group size",
+            "title": "El Cielo, Cozumel (with tender)"
+          },
+          {
+            "capacity": null,
+            "descriptionEn": "The lower-cost way to reach El Cielo, Cozumel's shallow reef and starfish sanctuary, without the park's tender. Snorkelers arrange their own crossing on arrival; the marine-park bracelet isn't included.",
+            "descriptionEs": "La opción más económica para llegar a El Cielo, el arrecife poco profundo de Cozumel y santuario de estrellas de mar, sin la lancha del parque. Quienes quieran hacer snorkel organizan su propio cruce al llegar; la pulsera del parque marino no está incluida.",
+            "durationCategory": "add-on",
+            "key": "elCieloNoTender",
             "price": "+$300 (9h)",
-            "title": "El Cielo Cozumel"
+            "title": "El Cielo, Cozumel (no tender)"
+          },
+          {
+            "capacity": null,
+            "descriptionEn": "Add a guided two-tank scuba dive to your charter. $450 USD per boat covers up to 10 guests, plus $95 USD per diver — a certified guide and two tanks are included. Up to 8 divers can take part.",
+            "descriptionEs": "Agrega un buceo guiado de dos tanques a tu charter. $450 USD por embarcación cubre hasta 10 personas, más $95 USD por buzo — se incluye guía certificado y dos tanques. Pueden participar hasta 8 buzos.",
+            "durationCategory": "add-on",
+            "key": "diveAndYacht",
+            "price": "+$450/boat · +$95/diver",
+            "title": "Dive & Yacht"
           }
         ],
         "reviewIds": [],
@@ -102,16 +120,16 @@
         }
       },
       "convexId": "kn72c688httzpht5zgcx3yhsgh858ff8",
-      "lastUpdated": "2026-06-25T02:22:47.054Z",
+      "lastUpdated": "2026-07-04T04:07:48.658Z",
       "locales": {
         "en": {
-          "boatBody": "<h2>The Van Dutch 40</h2>\n<p>The Van Dutch 40 is a 40-foot motor yacht designed to fit up to 8 guests. It features 1 cabin and 1 bath, providing ample space for a comfortable day on the water.</p> <h2>What's included</h2>\n<p>Your rental includes a professional captain, crew, and an onboard chef. You will also have access to a full open bar during your time on the yacht.</p> <h2>Yacht rental in Cozumel</h2>\n<p>While on the water, you can explore Cozumel's reefs, including Palancar, Colombia, and El Cielo's starfish sandbar. These spots are known for some of the clearest water and best snorkeling in Mexico.</p> <h2>Half-day and full-day rentals</h2>\n<ul>\n<li>3 Hours</li>\n<li>5 Hours</li>\n<li>6 Hours</li>\n<li>9 Hours</li>\n</ul>\n<p>We also offer a romantic dinner option for 2. The price includes 8 guests for standard rentals.</p> <h2>How to book</h2>\n<p>A 50% deposit is required to reserve your rental. There is a $20 dock fee at the marina, and $180 for each extra guest beyond the included 8. We handle the booking from start to finish.</p>",
+          "boatBody": "<h2>The Van Dutch 40</h2>\n<p>The Van Dutch 40 is a 40-foot motor yacht designed to fit up to 8 guests. It features 1 cabin and 1 bath, providing ample space for a comfortable day on the water.</p> <h2>What's included</h2>\n<p>Your rental includes a professional captain, crew, and an onboard chef. You will also have access to a full open bar during your time on the yacht.</p> <h2>Yacht rental in Cozumel</h2>\n<p>While on the water, you can explore Cozumel's reefs, including Palancar, Colombia, and El Cielo's starfish sandbar. These spots are known for some of the clearest water and best snorkeling in Mexico.</p> <h2>Half-day and full-day rentals</h2>\n<ul>\n<li>3 Hours</li>\n<li>5 Hours</li>\n<li>6 Hours</li>\n<li>9 Hours</li>\n</ul>\n<p>We also offer a romantic dinner option for 2. The price includes 6 guests for standard rentals.</p> <h2>How to book</h2>\n<p>A 50% deposit is required to reserve your rental. There is a $20 dock fee at the marina, and $180 for each extra guest beyond the included 6. We handle the booking from start to finish.</p>",
           "boatSummary": "The Van Dutch 40 is a 40-foot motor yacht for up to 8 guests. This sleek boat rental in Cozumel is quick and easy to handle for half or full days. Every rental includes a captain, crew, and an onboard chef. We take care of everything from start to finish.",
           "name": "Van Dutch 40",
           "slug": "van-dutch-40"
         },
         "es": {
-          "boatBody": "<h2>El Van Dutch 40</h2>\n<p>El Van Dutch 40 es un yate motorizado de 40 pies diseñado para acomodar hasta 8 huéspedes. Cuenta con 1 cabina y 1 baño, proporcionando un amplio espacio para un día cómodo en el agua.</p> <h2>Qué incluye</h2>\n<p>Tu renta incluye un capitán profesional, tripulación y un chef a bordo. También tendrás acceso a una barra libre completa durante tu tiempo en el yate.</p> <h2>Renta de yate en Cozumel</h2>\n<p>Mientras estés en el agua, puedes explorar los arrecifes de Cozumel, incluyendo Palancar, Colombia y la barra de estrellas de El Cielo. Estos lugares son conocidos por tener algunas de las aguas más claras y el mejor esnórquel en México.</p> <h2>Rentas de medio día y día completo</h2>\n<ul>\n<li>3 Horas</li>\n<li>5 Horas</li>\n<li>6 Horas</li>\n<li>9 Horas</li>\n</ul>\n<p>También ofrecemos una opción de cena romántica para 2. El precio incluye 8 huéspedes para rentas estándar.</p> <h2>Cómo reservar</h2>\n<p>Se requiere un depósito del 50% para reservar tu renta. Hay una tarifa de muelle de $20 en la marina, y $180 por cada huésped extra más allá de los 8 incluidos. Nos encargamos de la reserva de principio a fin.</p>",
+          "boatBody": "<h2>El Van Dutch 40</h2>\n<p>El Van Dutch 40 es un yate motorizado de 40 pies diseñado para acomodar hasta 8 huéspedes. Cuenta con 1 cabina y 1 baño, proporcionando un amplio espacio para un día cómodo en el agua.</p> <h2>Qué incluye</h2>\n<p>Tu renta incluye un capitán profesional, tripulación y un chef a bordo. También tendrás acceso a una barra libre completa durante tu tiempo en el yate.</p> <h2>Renta de yate en Cozumel</h2>\n<p>Mientras estés en el agua, puedes explorar los arrecifes de Cozumel, incluyendo Palancar, Colombia y la barra de estrellas de El Cielo. Estos lugares son conocidos por tener algunas de las aguas más claras y el mejor esnórquel en México.</p> <h2>Rentas de medio día y día completo</h2>\n<ul>\n<li>3 Horas</li>\n<li>5 Horas</li>\n<li>6 Horas</li>\n<li>9 Horas</li>\n</ul>\n<p>También ofrecemos una opción de cena romántica para 2. El precio incluye 6 huéspedes para rentas estándar.</p> <h2>Cómo reservar</h2>\n<p>Se requiere un depósito del 50% para reservar tu renta. Hay una tarifa de muelle de $20 en la marina, y $180 por cada huésped extra más allá de los 6 incluidos. Nos encargamos de la reserva de principio a fin.</p>",
           "boatSummary": "El Van Dutch 40 es un yate a motor de 40 pies para hasta 8 invitados. Esta lancha en Cozumel es rápida y fácil de manejar por medio día o día completo. Cada renta incluye capitán, tripulación y chef a bordo. Nos encargamos de todo de principio a fin.",
           "name": "Van Dutch 40",
           "slug": "van-dutch-40"
@@ -198,8 +216,8 @@
           },
           {
             "capacity": null,
-            "descriptionEn": "Add a DJ for the evening to create a live set and turn the golden hours into a party. Available on 5-hour, 6-hour, and 9-hour rentals.",
-            "descriptionEs": "Agrega un DJ para la noche y crea un set en vivo para convertir las horas doradas en una fiesta. Disponible en rentas de 5 horas, 6 horas y 9 horas.",
+            "descriptionEn": "Add a DJ for the evening to turn your time into a party. This option is available on 5-hour, 6-hour, and 9-hour rentals.",
+            "descriptionEs": "Agrega un DJ para la noche y convierte tu tiempo en una fiesta. Esta opción está disponible en rentas de 5 horas, 6 horas o 9 horas.",
             "durationCategory": "add-on",
             "key": "djEveningBeat",
             "price": "+$400 (5h) · +$500 (6h) · +$900 (9h)",
@@ -207,21 +225,39 @@
           },
           {
             "capacity": null,
-            "descriptionEn": "Add a stop at El Cielo, Cozumel's shallow reef and starfish sanctuary. take in crystal-clear water and snorkeling over white sand. Available for full-day and overnight rentals (marine-park fee applies).",
-            "descriptionEs": "Agrega una parada en El Cielo, el arrecife poco profundo de Cozumel y santuario de estrellas de mar. Disfruta de aguas cristalinas y snorkel sobre arena blanca. Disponible para rentas de día completo y pernoctaciones (se aplica tarifa del parque marino).",
+            "descriptionEn": "Add a crossing to El Cielo, Cozumel's shallow reef and starfish sanctuary. The price covers your group's marine-park bracelet; on arrival, an authorised park vessel takes anyone who wants to snorkel across to the reef. Priced by group size: $600 up to 8 guests, $800 for 8–12, $1,200 for 12–18, and $1,400 up to 20.",
+            "descriptionEs": "Agrega un cruce a El Cielo, el arrecife poco profundo de Cozumel y santuario de estrellas de mar. El precio incluye la pulsera del parque marino para tu grupo; al llegar, una embarcación autorizada del parque lleva a quien quiera hacer snorkel hasta el arrecife. Precio por tamaño de grupo: $600 hasta 8 personas, $800 de 8 a 12, $1,200 de 12 a 18 y $1,400 hasta 20.",
             "durationCategory": "add-on",
             "key": "elCieloCozumel",
-            "price": "+$300 (9h) · +$600 (overnight)",
-            "title": "El Cielo Cozumel"
+            "price": "+$600–$1,400 by group size",
+            "title": "El Cielo, Cozumel (with tender)"
           },
           {
             "capacity": null,
-            "descriptionEn": "Add a trip to Akumal to snorkel with wild sea turtles in their feeding grounds. This is available on the 9-hour rental (marine park fee applies).",
-            "descriptionEs": "Agrega un viaje a Akumal para hacer snorkel con tortugas marinas en su hábitat. Esto está disponible en la renta de 9 horas (se aplica tarifa del parque marino).",
+            "descriptionEn": "The lower-cost way to reach El Cielo, Cozumel's shallow reef and starfish sanctuary, without the park's tender. Snorkelers arrange their own crossing on arrival; the marine-park bracelet isn't included.",
+            "descriptionEs": "La opción más económica para llegar a El Cielo, el arrecife poco profundo de Cozumel y santuario de estrellas de mar, sin la lancha del parque. Quienes quieran hacer snorkel organizan su propio cruce al llegar; la pulsera del parque marino no está incluida.",
+            "durationCategory": "add-on",
+            "key": "elCieloNoTender",
+            "price": "+$300 (9h) · +$600 (overnight)",
+            "title": "El Cielo, Cozumel (no tender)"
+          },
+          {
+            "capacity": null,
+            "descriptionEn": "Head to the Tulum and Akumal marine park to snorkel with wild sea turtles in their feeding grounds. A $550 USD marine-park fee is paid before boarding.",
+            "descriptionEs": "Ve al parque marino de Tulum y Akumal para hacer snorkel con tortugas marinas en sus áreas de alimentación. Se paga una cuota del parque marino de $550 USD antes de abordar.",
             "durationCategory": "add-on",
             "key": "turtlesAkumal",
-            "price": "+$550 (9h)",
-            "title": "Turtles at Akumal"
+            "price": "+$550 park fee",
+            "title": "Tulum & Akumal"
+          },
+          {
+            "capacity": null,
+            "descriptionEn": "Add a guided two-tank scuba dive to your charter. $450 USD per boat covers up to 10 guests, plus $95 USD per diver — a certified guide and two tanks are included. Up to 8 divers can take part.",
+            "descriptionEs": "Agrega un buceo guiado de dos tanques a tu charter. $450 USD por embarcación cubre hasta 10 personas, más $95 USD por buzo — se incluye guía certificado y dos tanques. Pueden participar hasta 8 buzos.",
+            "durationCategory": "add-on",
+            "key": "diveAndYacht",
+            "price": "+$450/boat · +$95/diver",
+            "title": "Dive & Yacht"
           }
         ],
         "reviewIds": [],
@@ -233,7 +269,7 @@
         }
       },
       "convexId": "kn75vp9dpga1ge06hq1ya9z6kh859vqn",
-      "lastUpdated": "2026-06-24T16:55:25.334Z",
+      "lastUpdated": "2026-07-04T04:07:48.658Z",
       "locales": {
         "en": {
           "boatBody": "<h2>The Cranchi Mediterranee 50</h2>\n<p>The Cranchi Mediterranee 50 is a 50-foot motor yacht that fits up to 10 guests. It features 3 cabins and 2 baths, providing ample space for relaxation and comfort while on the water.</p>\n<h2>What's included</h2>\n<p>Your rental includes a captain and crew to handle all the details, along with an onboard chef to prepare meals. take in a full open bar stocked with various beverages throughout your time on the yacht.</p>\n<h2>Yacht rental in Tulum</h2>\n<p>Experience the Tulum coast and reef, with options for a full-day run down to Cozumel. You can explore the vibrant marine life, snorkel in clear waters, or simply relax on deck.</p>\n<h2>Half-day and full-day rentals</h2>\n<ul>\n<li>3 Hours</li>\n<li>5 Hours</li>\n<li>6 Hours</li>\n<li>9 Hours</li>\n</ul>\n<p>We also offer a romantic dinner option for 2. The price includes up to 8 guests, with additional charges for extra guests.</p>\n<h2>How to book</h2>\n<p>A 50% deposit is required to reserve your rental. There is a $20 dock fee at the marina, and it costs $180 for each extra guest beyond the initial 8. We handle the booking process from start to finish.</p>",
@@ -338,8 +374,8 @@
           },
           {
             "capacity": null,
-            "descriptionEn": "Add a DJ for the evening to create a live set and turn your time into a party. Available on 5-hour, 6-hour, and 9-hour rentals.",
-            "descriptionEs": "Agrega un DJ para la noche y convierte tu tiempo en una fiesta. Esta opción está disponible en rentas de 5 horas, 6 horas y 9 horas.",
+            "descriptionEn": "Add a DJ for the evening to turn your time into a party. This option is available on 5-hour, 6-hour, and 9-hour rentals.",
+            "descriptionEs": "Agrega un DJ para la noche y convierte tu tiempo en una fiesta. Esta opción está disponible en rentas de 5 horas, 6 horas o 9 horas.",
             "durationCategory": "add-on",
             "key": "djEveningBeat",
             "price": "+$400 (5h) · +$500 (6h) · +$900 (9h)",
@@ -347,21 +383,39 @@
           },
           {
             "capacity": null,
-            "descriptionEn": "Add a stop at El Cielo, Cozumel’s shallow reef and starfish sanctuary. This is available for full-day and overnight rentals (marine-park fee applies).",
-            "descriptionEs": "Agrega una parada en El Cielo, el arrecife poco profundo de Cozumel y santuario de estrellas de mar. Esto está disponible para rentas de día completo y pernoctaciones (se aplica tarifa del parque marino).",
+            "descriptionEn": "Add a crossing to El Cielo, Cozumel's shallow reef and starfish sanctuary. The price covers your group's marine-park bracelet; on arrival, an authorised park vessel takes anyone who wants to snorkel across to the reef. Priced by group size: $600 up to 8 guests, $800 for 8–12, $1,200 for 12–18, and $1,400 up to 20.",
+            "descriptionEs": "Agrega un cruce a El Cielo, el arrecife poco profundo de Cozumel y santuario de estrellas de mar. El precio incluye la pulsera del parque marino para tu grupo; al llegar, una embarcación autorizada del parque lleva a quien quiera hacer snorkel hasta el arrecife. Precio por tamaño de grupo: $600 hasta 8 personas, $800 de 8 a 12, $1,200 de 12 a 18 y $1,400 hasta 20.",
             "durationCategory": "add-on",
             "key": "elCieloCozumel",
-            "price": "+$300 (9h) · +$600 (overnight)",
-            "title": "El Cielo Cozumel"
+            "price": "+$600–$1,400 by group size",
+            "title": "El Cielo, Cozumel (with tender)"
           },
           {
             "capacity": null,
-            "descriptionEn": "Add a tender trip to Akumal to snorkel with wild sea turtles. This is available on the 9-hour rental (marine park fee applies).",
-            "descriptionEs": "Agrega un viaje a Akumal para hacer snorkel con tortugas marinas. Esto está disponible en la renta de 9 horas (se aplica tarifa del parque marino).",
+            "descriptionEn": "The lower-cost way to reach El Cielo, Cozumel's shallow reef and starfish sanctuary, without the park's tender. Snorkelers arrange their own crossing on arrival; the marine-park bracelet isn't included.",
+            "descriptionEs": "La opción más económica para llegar a El Cielo, el arrecife poco profundo de Cozumel y santuario de estrellas de mar, sin la lancha del parque. Quienes quieran hacer snorkel organizan su propio cruce al llegar; la pulsera del parque marino no está incluida.",
+            "durationCategory": "add-on",
+            "key": "elCieloNoTender",
+            "price": "+$300 (9h) · +$600 (overnight)",
+            "title": "El Cielo, Cozumel (no tender)"
+          },
+          {
+            "capacity": null,
+            "descriptionEn": "Head to the Tulum and Akumal marine park to snorkel with wild sea turtles in their feeding grounds. A $550 USD marine-park fee is paid before boarding.",
+            "descriptionEs": "Ve al parque marino de Tulum y Akumal para hacer snorkel con tortugas marinas en sus áreas de alimentación. Se paga una cuota del parque marino de $550 USD antes de abordar.",
             "durationCategory": "add-on",
             "key": "turtlesAkumal",
-            "price": "+$550 (9h)",
-            "title": "Turtles at Akumal"
+            "price": "+$550 park fee",
+            "title": "Tulum & Akumal"
+          },
+          {
+            "capacity": null,
+            "descriptionEn": "Add a guided two-tank scuba dive to your charter. $450 USD per boat covers up to 10 guests, plus $95 USD per diver — a certified guide and two tanks are included. Up to 8 divers can take part.",
+            "descriptionEs": "Agrega un buceo guiado de dos tanques a tu charter. $450 USD por embarcación cubre hasta 10 personas, más $95 USD por buzo — se incluye guía certificado y dos tanques. Pueden participar hasta 8 buzos.",
+            "durationCategory": "add-on",
+            "key": "diveAndYacht",
+            "price": "+$450/boat · +$95/diver",
+            "title": "Dive & Yacht"
           }
         ],
         "reviewIds": [],
@@ -373,7 +427,7 @@
         }
       },
       "convexId": "kn759eawg7arav0e0k0grbfysd85851a",
-      "lastUpdated": "2026-06-24T16:55:25.334Z",
+      "lastUpdated": "2026-07-04T04:07:48.658Z",
       "locales": {
         "en": {
           "boatBody": "<h2>The Sunseeker 60</h2>\n<p>The Sunseeker 60 is a 60-foot motor yacht that fits up to 15 guests. It features 3 cabins and 2 baths, providing ample space for relaxation and enjoyment on the water.</p>\n<h2>What's included</h2>\n<p>Your rental includes a professional captain and crew to ensure a smooth experience, along with an onboard chef. A full open bar is also part of the package.</p>\n<h2>Yacht rental in Tulum</h2>\n<p>Experience the Tulum coast and reef, with options for a full-day run down to Cozumel. Snorkel, swim, or just soak in the sun as you cruise the waters.</p>\n<h2>Half-day and full-day rentals</h2>\n<ul>\n<li>3 Hours</li>\n<li>5 Hours</li>\n<li>6 Hours</li>\n<li>9 Hours</li>\n<li>Overnight (2 days · free night)</li>\n</ul>\n<p>Each package includes space for 8 guests, with dinner options available for 2.</p>\n<h2>How to book</h2>\n<p>To reserve your rental, a 50% deposit is required. There is a $20 dock fee at the marina, and $180 for each extra guest beyond the initial 8. We handle the booking from start to finish.</p>",
@@ -481,8 +535,8 @@
           },
           {
             "capacity": null,
-            "descriptionEn": "Bring a DJ aboard for the evening. A live set to turn your 5-hour, 6-hour, or 9-hour rental into a party.",
-            "descriptionEs": "Trae un DJ a bordo para la noche. Un set en vivo para convertir tu renta de 5 horas, 6 horas o 9 horas en una fiesta.",
+            "descriptionEn": "Add a DJ for the evening to turn your time into a party. This option is available on 5-hour, 6-hour, and 9-hour rentals.",
+            "descriptionEs": "Agrega un DJ para la noche y convierte tu tiempo en una fiesta. Esta opción está disponible en rentas de 5 horas, 6 horas o 9 horas.",
             "durationCategory": "add-on",
             "key": "djEveningBeat",
             "price": "+$400 (5h) · +$500 (6h) · +$900 (9h)",
@@ -490,21 +544,39 @@
           },
           {
             "capacity": null,
-            "descriptionEn": "Add a stop at El Cielo, Cozumel's shallow reef and starfish sanctuary. Available on full-day and overnight rentals (marine-park fee applies).",
-            "descriptionEs": "Agrega una parada en El Cielo, el arrecife poco profundo de Cozumel y santuario de estrellas de mar. Disfruta de aguas cristalinas y snorkel sobre arena blanca. Disponible para rentas de día completo y pernoctaciones (se aplica tarifa del parque marino).",
+            "descriptionEn": "Add a crossing to El Cielo, Cozumel's shallow reef and starfish sanctuary. The price covers your group's marine-park bracelet; on arrival, an authorised park vessel takes anyone who wants to snorkel across to the reef. Priced by group size: $600 up to 8 guests, $800 for 8–12, $1,200 for 12–18, and $1,400 up to 20.",
+            "descriptionEs": "Agrega un cruce a El Cielo, el arrecife poco profundo de Cozumel y santuario de estrellas de mar. El precio incluye la pulsera del parque marino para tu grupo; al llegar, una embarcación autorizada del parque lleva a quien quiera hacer snorkel hasta el arrecife. Precio por tamaño de grupo: $600 hasta 8 personas, $800 de 8 a 12, $1,200 de 12 a 18 y $1,400 hasta 20.",
             "durationCategory": "add-on",
             "key": "elCieloCozumel",
-            "price": "+$300 (9h) · +$600 (overnight)",
-            "title": "El Cielo Cozumel"
+            "price": "+$600–$1,400 by group size",
+            "title": "El Cielo, Cozumel (with tender)"
           },
           {
             "capacity": null,
-            "descriptionEn": "Add a tender trip to Akumal to snorkel with wild sea turtles. Available on the 9-hour rental (marine park fee applies).",
-            "descriptionEs": "Agrega un viaje a Akumal para hacer snorkel con tortugas marinas en su hábitat. Este complemento está disponible en la renta de 9 horas (se aplica tarifa del parque marino).",
+            "descriptionEn": "The lower-cost way to reach El Cielo, Cozumel's shallow reef and starfish sanctuary, without the park's tender. Snorkelers arrange their own crossing on arrival; the marine-park bracelet isn't included.",
+            "descriptionEs": "La opción más económica para llegar a El Cielo, el arrecife poco profundo de Cozumel y santuario de estrellas de mar, sin la lancha del parque. Quienes quieran hacer snorkel organizan su propio cruce al llegar; la pulsera del parque marino no está incluida.",
+            "durationCategory": "add-on",
+            "key": "elCieloNoTender",
+            "price": "+$300 (9h) · +$600 (overnight)",
+            "title": "El Cielo, Cozumel (no tender)"
+          },
+          {
+            "capacity": null,
+            "descriptionEn": "Head to the Tulum and Akumal marine park to snorkel with wild sea turtles in their feeding grounds. A $550 USD marine-park fee is paid before boarding.",
+            "descriptionEs": "Ve al parque marino de Tulum y Akumal para hacer snorkel con tortugas marinas en sus áreas de alimentación. Se paga una cuota del parque marino de $550 USD antes de abordar.",
             "durationCategory": "add-on",
             "key": "turtlesAkumal",
-            "price": "+$550 (9h)",
-            "title": "Turtles at Akumal"
+            "price": "+$550 park fee",
+            "title": "Tulum & Akumal"
+          },
+          {
+            "capacity": null,
+            "descriptionEn": "Add a guided two-tank scuba dive to your charter. $450 USD per boat covers up to 10 guests, plus $95 USD per diver — a certified guide and two tanks are included. Up to 8 divers can take part.",
+            "descriptionEs": "Agrega un buceo guiado de dos tanques a tu charter. $450 USD por embarcación cubre hasta 10 personas, más $95 USD por buzo — se incluye guía certificado y dos tanques. Pueden participar hasta 8 buzos.",
+            "durationCategory": "add-on",
+            "key": "diveAndYacht",
+            "price": "+$450/boat · +$95/diver",
+            "title": "Dive & Yacht"
           }
         ],
         "reviewIds": [],
@@ -516,7 +588,7 @@
         }
       },
       "convexId": "kn7a7zkqn26d4cam9n4wkzd08h858wgp",
-      "lastUpdated": "2026-06-24T16:55:25.334Z",
+      "lastUpdated": "2026-07-04T04:07:48.658Z",
       "locales": {
         "en": {
           "boatBody": "<h2>The Leopard PowerCat 51</h2>\n<p>The Leopard PowerCat 51 is a 51-foot power catamaran that can fit up to 30 guests. It features 4 cabins and 3 baths, making it spacious enough for a group outing or a family gathering.</p> <h2>What's included</h2>\n<p>Your rental includes a captain and crew to ensure a smooth experience. An onboard chef is available to prepare meals, and a full open bar is provided for all guests.</p> <h2>Catamaran rental in Tulum</h2>\n<p>When you rent the Leopard PowerCat 51, you can explore the Tulum coast and the nearby reef. A full-day run down to Cozumel offers opportunities for snorkeling and swimming in clear waters.</p> <h2>Half-day and full-day rentals</h2>\n<ul>\n<li>3 Hours</li>\n<li>5 Hours</li>\n<li>6 Hours</li>\n<li>9 Hours</li>\n<li>Overnight (2 days · free night)</li>\n</ul>\n<p>Packages are designed to cater to different needs. The pricing includes up to 8 guests, with a romantic dinner option available for 2.</p> <h2>How to book</h2>\n<p>To reserve your rental, a 50% deposit is required. There is a $20 dock fee at the marina, and it’s $180 for each extra guest beyond the initial 8. We handle the booking from start to finish.</p>",
@@ -617,7 +689,7 @@
           {
             "capacity": null,
             "descriptionEn": "Add a DJ for the evening to turn your time into a party. This option is available on 5-hour, 6-hour, and 9-hour rentals.",
-            "descriptionEs": "Agrega un DJ para la noche y convierte tu tiempo en una fiesta. Esta opción está disponible en rentas de 5 horas, 6 horas y 9 horas.",
+            "descriptionEs": "Agrega un DJ para la noche y convierte tu tiempo en una fiesta. Esta opción está disponible en rentas de 5 horas, 6 horas o 9 horas.",
             "durationCategory": "add-on",
             "key": "djEveningBeat",
             "price": "+$400 (5h) · +$500 (6h) · +$900 (9h)",
@@ -625,21 +697,39 @@
           },
           {
             "capacity": null,
-            "descriptionEn": "Include a stop at El Cielo, Cozumel’s shallow reef and starfish sanctuary. This add-on is available for full-day and overnight rentals (marine-park fee applies).",
-            "descriptionEs": "Incluye una parada en El Cielo, el arrecife poco profundo de Cozumel y santuario de estrellas de mar. Este complemento está disponible para rentas de día completo y pernoctaciones (se aplica tarifa del parque marino).",
+            "descriptionEn": "Add a crossing to El Cielo, Cozumel's shallow reef and starfish sanctuary. The price covers your group's marine-park bracelet; on arrival, an authorised park vessel takes anyone who wants to snorkel across to the reef. Priced by group size: $600 up to 8 guests, $800 for 8–12, $1,200 for 12–18, and $1,400 up to 20.",
+            "descriptionEs": "Agrega un cruce a El Cielo, el arrecife poco profundo de Cozumel y santuario de estrellas de mar. El precio incluye la pulsera del parque marino para tu grupo; al llegar, una embarcación autorizada del parque lleva a quien quiera hacer snorkel hasta el arrecife. Precio por tamaño de grupo: $600 hasta 8 personas, $800 de 8 a 12, $1,200 de 12 a 18 y $1,400 hasta 20.",
             "durationCategory": "add-on",
             "key": "elCieloCozumel",
-            "price": "+$300 (9h) · +$600 (overnight)",
-            "title": "El Cielo Cozumel"
+            "price": "+$600–$1,400 by group size",
+            "title": "El Cielo, Cozumel (with tender)"
           },
           {
             "capacity": null,
-            "descriptionEn": "Add a trip to Akumal to snorkel with wild sea turtles in their feeding grounds. This option is available on the 9-hour rental (marine-park fee applies).",
-            "descriptionEs": "Agrega un viaje a Akumal para hacer snorkel con tortugas marinas en sus áreas de alimentación. Esta opción está disponible en la renta de 9 horas (se aplica tarifa del parque marino).",
+            "descriptionEn": "The lower-cost way to reach El Cielo, Cozumel's shallow reef and starfish sanctuary, without the park's tender. Snorkelers arrange their own crossing on arrival; the marine-park bracelet isn't included.",
+            "descriptionEs": "La opción más económica para llegar a El Cielo, el arrecife poco profundo de Cozumel y santuario de estrellas de mar, sin la lancha del parque. Quienes quieran hacer snorkel organizan su propio cruce al llegar; la pulsera del parque marino no está incluida.",
+            "durationCategory": "add-on",
+            "key": "elCieloNoTender",
+            "price": "+$300 (9h) · +$600 (overnight)",
+            "title": "El Cielo, Cozumel (no tender)"
+          },
+          {
+            "capacity": null,
+            "descriptionEn": "Head to the Tulum and Akumal marine park to snorkel with wild sea turtles in their feeding grounds. A $550 USD marine-park fee is paid before boarding.",
+            "descriptionEs": "Ve al parque marino de Tulum y Akumal para hacer snorkel con tortugas marinas en sus áreas de alimentación. Se paga una cuota del parque marino de $550 USD antes de abordar.",
             "durationCategory": "add-on",
             "key": "turtlesAkumal",
-            "price": "+$550 (9h)",
-            "title": "Turtles at Akumal"
+            "price": "+$550 park fee",
+            "title": "Tulum & Akumal"
+          },
+          {
+            "capacity": null,
+            "descriptionEn": "Add a guided two-tank scuba dive to your charter. $450 USD per boat covers up to 10 guests, plus $95 USD per diver — a certified guide and two tanks are included. Up to 8 divers can take part.",
+            "descriptionEs": "Agrega un buceo guiado de dos tanques a tu charter. $450 USD por embarcación cubre hasta 10 personas, más $95 USD por buzo — se incluye guía certificado y dos tanques. Pueden participar hasta 8 buzos.",
+            "durationCategory": "add-on",
+            "key": "diveAndYacht",
+            "price": "+$450/boat · +$95/diver",
+            "title": "Dive & Yacht"
           }
         ],
         "reviewIds": [],
@@ -651,7 +741,7 @@
         }
       },
       "convexId": "kn733aevzr01vfvh2d1vg3z90x85973j",
-      "lastUpdated": "2026-06-24T16:55:25.334Z",
+      "lastUpdated": "2026-07-04T04:07:48.658Z",
       "locales": {
         "en": {
           "boatBody": "<h2>The Azimut 43</h2>\n<p>The Azimut 43 is a 43-foot motor yacht that can fit up to 12 guests. It features 2 cabins and 2 baths, providing ample space for your group. This yacht combines comfort with performance, making it a great choice for your time on the water.</p> <h2>What's included</h2>\n<p>Your rental includes a captain and crew to handle all the details, along with an onboard chef who can prepare meals for you. A full open bar is also included, ensuring you have refreshments throughout your journey.</p> <h2>Yacht rental in Tulum</h2>\n<p>The Tulum coast and reef offer views and opportunities for exploration. A full-day run down to Cozumel allows you to experience the vibrant marine life and clear waters. You can take in swimming, snorkeling, or simply relaxing on the deck.</p> <h2>Half-day and full-day rentals</h2>\n<ul>\n<li>3 Hours</li>\n<li>5 Hours</li>\n<li>6 Hours</li>\n<li>9 Hours</li>\n</ul>\n<p>For a romantic dinner, we provide an option for 2 guests. The price includes up to 8 guests for standard rentals.</p> <h2>How to book</h2>\n<p>A 50% deposit is required to reserve your rental. There is a $20 dock fee at the marina. If you have more than 8 guests, it’s $180 per extra guest. We handle the booking process from start to finish.</p>",
@@ -737,8 +827,8 @@
           },
           {
             "capacity": null,
-            "descriptionEn": "A bachelorette add-on for the bride-to-be and her crew, available on your 5-hour, 6-hour, or 9-hour rental.",
-            "descriptionEs": "Un complemento para despedida de soltera para la novia y su grupo, disponible en tu renta de 5 horas, 6 horas o 9 horas.",
+            "descriptionEn": "A bachelorette add-on for the bride-to-be and her crew, available with your 5-hour, 6-hour, or 9-hour rental.",
+            "descriptionEs": "Un complemento para despedida de soltera para la novia y su grupo, disponible con tu renta de 5 horas, 6 horas o 9 horas.",
             "durationCategory": "add-on",
             "key": "bachelorette",
             "price": "+$200",
@@ -746,8 +836,8 @@
           },
           {
             "capacity": null,
-            "descriptionEn": "Bring a DJ aboard for the evening — a live set to turn the golden hours into a party. Available on 5-hour, 6-hour, and 9-hour rentals.",
-            "descriptionEs": "Trae un DJ a bordo para la noche — un set en vivo para convertir las horas doradas en una fiesta. Disponible en rentas de 5 horas, 6 horas y 9 horas.",
+            "descriptionEn": "Add a DJ for the evening to turn your time into a party. This option is available on 5-hour, 6-hour, and 9-hour rentals.",
+            "descriptionEs": "Agrega un DJ para la noche y convierte tu tiempo en una fiesta. Esta opción está disponible en rentas de 5 horas, 6 horas o 9 horas.",
             "durationCategory": "add-on",
             "key": "djEveningBeat",
             "price": "+$400 (5h) · +$500 (6h) · +$900 (9h)",
@@ -755,21 +845,39 @@
           },
           {
             "capacity": null,
-            "descriptionEn": "Add a stop at El Cielo, Cozumel's shallow reef and starfish sanctuary. This option is available for full-day and overnight rentals (marine park fee applies).",
-            "descriptionEs": "Agrega una parada en El Cielo, el arrecife poco profundo de Cozumel y santuario de estrellas de mar. Esta opción está disponible para rentas de día completo y pernoctaciones (se aplica tarifa del parque marino).",
+            "descriptionEn": "Add a crossing to El Cielo, Cozumel's shallow reef and starfish sanctuary. The price covers your group's marine-park bracelet; on arrival, an authorised park vessel takes anyone who wants to snorkel across to the reef. Priced by group size: $600 up to 8 guests, $800 for 8–12, $1,200 for 12–18, and $1,400 up to 20.",
+            "descriptionEs": "Agrega un cruce a El Cielo, el arrecife poco profundo de Cozumel y santuario de estrellas de mar. El precio incluye la pulsera del parque marino para tu grupo; al llegar, una embarcación autorizada del parque lleva a quien quiera hacer snorkel hasta el arrecife. Precio por tamaño de grupo: $600 hasta 8 personas, $800 de 8 a 12, $1,200 de 12 a 18 y $1,400 hasta 20.",
             "durationCategory": "add-on",
             "key": "elCieloCozumel",
-            "price": "+$300 (9h) · +$600 (overnight)",
-            "title": "El Cielo Cozumel"
+            "price": "+$600–$1,400 by group size",
+            "title": "El Cielo, Cozumel (with tender)"
           },
           {
             "capacity": null,
-            "descriptionEn": "Add a trip to Akumal to snorkel with wild sea turtles in their feeding grounds. This option is available on the 9-hour rental (marine park fee applies).",
-            "descriptionEs": "Agrega un viaje a Akumal para hacer snorkel con tortugas marinas en sus áreas de alimentación. Esta opción está disponible en la renta de 9 horas (se aplica tarifa del parque marino).",
+            "descriptionEn": "The lower-cost way to reach El Cielo, Cozumel's shallow reef and starfish sanctuary, without the park's tender. Snorkelers arrange their own crossing on arrival; the marine-park bracelet isn't included.",
+            "descriptionEs": "La opción más económica para llegar a El Cielo, el arrecife poco profundo de Cozumel y santuario de estrellas de mar, sin la lancha del parque. Quienes quieran hacer snorkel organizan su propio cruce al llegar; la pulsera del parque marino no está incluida.",
+            "durationCategory": "add-on",
+            "key": "elCieloNoTender",
+            "price": "+$300 (9h) · +$600 (overnight)",
+            "title": "El Cielo, Cozumel (no tender)"
+          },
+          {
+            "capacity": null,
+            "descriptionEn": "Head to the Tulum and Akumal marine park to snorkel with wild sea turtles in their feeding grounds. A $550 USD marine-park fee is paid before boarding.",
+            "descriptionEs": "Ve al parque marino de Tulum y Akumal para hacer snorkel con tortugas marinas en sus áreas de alimentación. Se paga una cuota del parque marino de $550 USD antes de abordar.",
             "durationCategory": "add-on",
             "key": "turtlesAkumal",
-            "price": "+$550 (9h)",
-            "title": "Turtles at Akumal"
+            "price": "+$550 park fee",
+            "title": "Tulum & Akumal"
+          },
+          {
+            "capacity": null,
+            "descriptionEn": "Add a guided two-tank scuba dive to your charter. $450 USD per boat covers up to 10 guests, plus $95 USD per diver — a certified guide and two tanks are included. Up to 8 divers can take part.",
+            "descriptionEs": "Agrega un buceo guiado de dos tanques a tu charter. $450 USD por embarcación cubre hasta 10 personas, más $95 USD por buzo — se incluye guía certificado y dos tanques. Pueden participar hasta 8 buzos.",
+            "durationCategory": "add-on",
+            "key": "diveAndYacht",
+            "price": "+$450/boat · +$95/diver",
+            "title": "Dive & Yacht"
           }
         ],
         "reviewIds": [],
@@ -781,7 +889,7 @@
         }
       },
       "convexId": "kn758dfxkws6wydwq35cnmyyw5858srm",
-      "lastUpdated": "2026-06-24T16:55:25.334Z",
+      "lastUpdated": "2026-07-04T04:07:48.658Z",
       "locales": {
         "en": {
           "boatBody": "<h2>The Aventura 34</h2>\n<p>The Aventura 34 is a 34-foot catamaran designed for comfort and space. This vessel features 3 cabins and 1 bath, making it suitable for up to 15 guests. Whether you're planning a day out with friends or a family gathering, this boat provides ample space for everyone.</p> <h2>What's included</h2>\n<p>Your rental includes a skilled captain and crew to ensure a smooth experience. We also provide an onboard chef to prepare meals and a full open bar for refreshments throughout your trip.</p> <h2>Catamaran rental in Tulum</h2>\n<p>Experience the Tulum coast and reef with our catamaran rental. A full-day run can take you down to Cozumel, where you can explore the vibrant marine life and take in activities like snorkeling. The waters here offer a unique opportunity to see the natural beauty of the Riviera Maya.</p> <h2>Half-day and full-day rentals</h2>\n<ul>\n<li>3 Hours</li>\n<li>5 Hours</li>\n<li>6 Hours</li>\n<li>9 Hours</li>\n</ul>\n<p>We also offer a romantic dinner option for 2 guests. The base price includes up to 8 guests, with additional charges for extra guests.</p> <h2>How to book</h2>\n<p>To reserve your rental, a 50% deposit is required. There is a $20 dock fee at the marina, and an additional $180 for each extra guest beyond the initial 8. We handle the booking process from start to finish.</p>",
@@ -894,8 +1002,8 @@
           },
           {
             "capacity": null,
-            "descriptionEn": "Bring a DJ aboard for the evening. Available on 5-hour, 6-hour, and 9-hour rentals to turn the golden hours into a party.",
-            "descriptionEs": "Trae un DJ a bordo para la noche. Disponible en rentas de 5 horas, 6 horas y 9 horas para convertir las horas doradas en una fiesta.",
+            "descriptionEn": "Add a DJ for the evening to turn your time into a party. This option is available on 5-hour, 6-hour, and 9-hour rentals.",
+            "descriptionEs": "Agrega un DJ para la noche y convierte tu tiempo en una fiesta. Esta opción está disponible en rentas de 5 horas, 6 horas o 9 horas.",
             "durationCategory": "add-on",
             "key": "djEveningBeat",
             "price": "+$400 (5h) · +$500 (6h) · +$900 (9h)",
@@ -903,21 +1011,39 @@
           },
           {
             "capacity": null,
-            "descriptionEn": "Add a stop at El Cielo, Cozumel's shallow reef and starfish sanctuary. Available on full-day and overnight rentals (marine-park fee applies).",
-            "descriptionEs": "Agrega una parada en El Cielo, el arrecife poco profundo de Cozumel y santuario de estrellas de mar. Disfruta de aguas cristalinas y snorkel sobre arena blanca. Disponible para rentas de día completo y pernoctaciones (se aplica tarifa del parque marino).",
+            "descriptionEn": "Add a crossing to El Cielo, Cozumel's shallow reef and starfish sanctuary. The price covers your group's marine-park bracelet; on arrival, an authorised park vessel takes anyone who wants to snorkel across to the reef. Priced by group size: $600 up to 8 guests, $800 for 8–12, $1,200 for 12–18, and $1,400 up to 20.",
+            "descriptionEs": "Agrega un cruce a El Cielo, el arrecife poco profundo de Cozumel y santuario de estrellas de mar. El precio incluye la pulsera del parque marino para tu grupo; al llegar, una embarcación autorizada del parque lleva a quien quiera hacer snorkel hasta el arrecife. Precio por tamaño de grupo: $600 hasta 8 personas, $800 de 8 a 12, $1,200 de 12 a 18 y $1,400 hasta 20.",
             "durationCategory": "add-on",
             "key": "elCieloCozumel",
-            "price": "+$300 (9h) · +$600 (overnight)",
-            "title": "El Cielo Cozumel"
+            "price": "+$600–$1,400 by group size",
+            "title": "El Cielo, Cozumel (with tender)"
           },
           {
             "capacity": null,
-            "descriptionEn": "Add a tender trip to Akumal to snorkel with wild sea turtles. Available on the 9-hour rental (marine park fee applies).",
-            "descriptionEs": "Agrega un viaje a Akumal para hacer snorkel con tortugas marinas en su hábitat. Este complemento está disponible en la renta de 9 horas (se aplica tarifa del parque marino).",
+            "descriptionEn": "The lower-cost way to reach El Cielo, Cozumel's shallow reef and starfish sanctuary, without the park's tender. Snorkelers arrange their own crossing on arrival; the marine-park bracelet isn't included.",
+            "descriptionEs": "La opción más económica para llegar a El Cielo, el arrecife poco profundo de Cozumel y santuario de estrellas de mar, sin la lancha del parque. Quienes quieran hacer snorkel organizan su propio cruce al llegar; la pulsera del parque marino no está incluida.",
+            "durationCategory": "add-on",
+            "key": "elCieloNoTender",
+            "price": "+$300 (9h) · +$600 (overnight)",
+            "title": "El Cielo, Cozumel (no tender)"
+          },
+          {
+            "capacity": null,
+            "descriptionEn": "Head to the Tulum and Akumal marine park to snorkel with wild sea turtles in their feeding grounds. A $550 USD marine-park fee is paid before boarding.",
+            "descriptionEs": "Ve al parque marino de Tulum y Akumal para hacer snorkel con tortugas marinas en sus áreas de alimentación. Se paga una cuota del parque marino de $550 USD antes de abordar.",
             "durationCategory": "add-on",
             "key": "turtlesAkumal",
-            "price": "+$550 (9h)",
-            "title": "Turtles at Akumal"
+            "price": "+$550 park fee",
+            "title": "Tulum & Akumal"
+          },
+          {
+            "capacity": null,
+            "descriptionEn": "Add a guided two-tank scuba dive to your charter. $450 USD per boat covers up to 10 guests, plus $95 USD per diver — a certified guide and two tanks are included. Up to 8 divers can take part.",
+            "descriptionEs": "Agrega un buceo guiado de dos tanques a tu charter. $450 USD por embarcación cubre hasta 10 personas, más $95 USD por buzo — se incluye guía certificado y dos tanques. Pueden participar hasta 8 buzos.",
+            "durationCategory": "add-on",
+            "key": "diveAndYacht",
+            "price": "+$450/boat · +$95/diver",
+            "title": "Dive & Yacht"
           }
         ],
         "reviewIds": [],
@@ -929,7 +1055,7 @@
         }
       },
       "convexId": "kn7bpj3d01t4b45pm4x7mv6w4h899zs9",
-      "lastUpdated": "2026-06-24T16:55:25.334Z",
+      "lastUpdated": "2026-07-04T04:07:48.658Z",
       "locales": {
         "en": {
           "boatBody": "<h2>The Azimut 58</h2>\n<p>The Azimut 58 is a 58-foot motor yacht that fits up to 15 guests. It features 3 cabins and 2 baths, providing ample space for relaxation and fun on the water.</p>\n<h2>What's included</h2>\n<p>Your rental includes a captain, crew, and an onboard chef. A full open bar is also provided to keep your drinks flowing throughout your time on the yacht.</p>\n<h2>Yacht rental in Tulum</h2>\n<p>Experience the Tulum coast and its vibrant reef. For a full-day rental, we offer a run down to Cozumel, where you can explore the waters and take in various activities.</p>\n<h2>Half-day and full-day rentals</h2>\n<ul>\n<li>3 Hours</li>\n<li>5 Hours</li>\n<li>6 Hours</li>\n<li>9 Hours</li>\n<li>Overnight (2 days, free night)</li>\n</ul>\n<p>The price includes up to 8 guests, with dinner for 2 available for romantic evenings.</p>\n<h2>How to book</h2>\n<p>A 50% deposit is required to reserve your rental. There is a $20 dock fee at the marina, and $180 for each extra guest. We handle the booking process from start to finish.</p>",
@@ -1034,8 +1160,8 @@
           },
           {
             "capacity": null,
-            "descriptionEn": "Bring a DJ aboard for the evening. A live set to turn the golden hours into a party, available on 5-hour, 6-hour, and 9-hour rentals.",
-            "descriptionEs": "Trae un DJ a bordo para la noche. Un set en vivo para convertir las horas doradas en una fiesta, disponible en rentas de 5 horas, 6 horas y 9 horas.",
+            "descriptionEn": "Add a DJ for the evening to turn your time into a party. This option is available on 5-hour, 6-hour, and 9-hour rentals.",
+            "descriptionEs": "Agrega un DJ para la noche y convierte tu tiempo en una fiesta. Esta opción está disponible en rentas de 5 horas, 6 horas o 9 horas.",
             "durationCategory": "add-on",
             "key": "djEveningBeat",
             "price": "+$400 (5h) · +$500 (6h) · +$900 (9h)",
@@ -1043,21 +1169,39 @@
           },
           {
             "capacity": null,
-            "descriptionEn": "Add a stop at El Cielo, Cozumel's shallow reef and starfish sanctuary. Crystal clear water and snorkeling over white sand are included. Available on full-day and overnight rentals (marine-park fee applies).",
-            "descriptionEs": "Agrega una parada en El Cielo, el arrecife poco profundo de Cozumel y santuario de estrellas de mar. Aguas cristalinas y snorkel sobre arena blanca están incluidos. Disponible para rentas de día completo y pernoctaciones (se aplica tarifa del parque marino).",
+            "descriptionEn": "Add a crossing to El Cielo, Cozumel's shallow reef and starfish sanctuary. The price covers your group's marine-park bracelet; on arrival, an authorised park vessel takes anyone who wants to snorkel across to the reef. Priced by group size: $600 up to 8 guests, $800 for 8–12, $1,200 for 12–18, and $1,400 up to 20.",
+            "descriptionEs": "Agrega un cruce a El Cielo, el arrecife poco profundo de Cozumel y santuario de estrellas de mar. El precio incluye la pulsera del parque marino para tu grupo; al llegar, una embarcación autorizada del parque lleva a quien quiera hacer snorkel hasta el arrecife. Precio por tamaño de grupo: $600 hasta 8 personas, $800 de 8 a 12, $1,200 de 12 a 18 y $1,400 hasta 20.",
             "durationCategory": "add-on",
             "key": "elCieloCozumel",
-            "price": "+$300 (9h) · +$600 (overnight)",
-            "title": "El Cielo Cozumel"
+            "price": "+$600–$1,400 by group size",
+            "title": "El Cielo, Cozumel (with tender)"
           },
           {
             "capacity": null,
-            "descriptionEn": "Add a tender trip to Akumal to snorkel with wild sea turtles in their feeding grounds. Available on the 9-hour rental (marine park fee applies).",
-            "descriptionEs": "Agrega un viaje a Akumal para hacer snorkel con tortugas marinas en sus áreas de alimentación. Disponible en la renta de 9 horas (se aplica tarifa del parque marino).",
+            "descriptionEn": "The lower-cost way to reach El Cielo, Cozumel's shallow reef and starfish sanctuary, without the park's tender. Snorkelers arrange their own crossing on arrival; the marine-park bracelet isn't included.",
+            "descriptionEs": "La opción más económica para llegar a El Cielo, el arrecife poco profundo de Cozumel y santuario de estrellas de mar, sin la lancha del parque. Quienes quieran hacer snorkel organizan su propio cruce al llegar; la pulsera del parque marino no está incluida.",
+            "durationCategory": "add-on",
+            "key": "elCieloNoTender",
+            "price": "+$300 (9h) · +$600 (overnight)",
+            "title": "El Cielo, Cozumel (no tender)"
+          },
+          {
+            "capacity": null,
+            "descriptionEn": "Head to the Tulum and Akumal marine park to snorkel with wild sea turtles in their feeding grounds. A $550 USD marine-park fee is paid before boarding.",
+            "descriptionEs": "Ve al parque marino de Tulum y Akumal para hacer snorkel con tortugas marinas en sus áreas de alimentación. Se paga una cuota del parque marino de $550 USD antes de abordar.",
             "durationCategory": "add-on",
             "key": "turtlesAkumal",
-            "price": "+$550 (9h)",
-            "title": "Turtles at Akumal"
+            "price": "+$550 park fee",
+            "title": "Tulum & Akumal"
+          },
+          {
+            "capacity": null,
+            "descriptionEn": "Add a guided two-tank scuba dive to your charter. $450 USD per boat covers up to 10 guests, plus $95 USD per diver — a certified guide and two tanks are included. Up to 8 divers can take part.",
+            "descriptionEs": "Agrega un buceo guiado de dos tanques a tu charter. $450 USD por embarcación cubre hasta 10 personas, más $95 USD por buzo — se incluye guía certificado y dos tanques. Pueden participar hasta 8 buzos.",
+            "durationCategory": "add-on",
+            "key": "diveAndYacht",
+            "price": "+$450/boat · +$95/diver",
+            "title": "Dive & Yacht"
           }
         ],
         "reviewIds": [],
@@ -1069,7 +1213,7 @@
         }
       },
       "convexId": "kn7dgzfwx9n8gngtcg5tfhmb4d89w06k",
-      "lastUpdated": "2026-07-04T00:08:26.510Z",
+      "lastUpdated": "2026-07-04T04:07:48.658Z",
       "locales": {
         "en": {
           "boatBody": "<h2>The Bali 40</h2>\n<p>The Bali 40 is a 40-foot catamaran that fits up to 20 guests. It features 3 cabins and 2 baths, providing ample space for everyone on board. This design ensures you have a comfortable experience while taking in the waters around Tulum.</p> <h2>What's included</h2>\n<p>Your rental includes a captain and crew to handle everything on the water. An onboard chef is available to prepare meals, and a full open bar keeps drinks flowing throughout your time on the boat.</p> <h2>Catamaran rental in Tulum</h2>\n<p>When you rent the Bali 40, you’ll explore the Tulum coast and its vibrant reef. A full-day run down to Cozumel offers opportunities for snorkeling and swimming in crystal-clear waters.</p> <h2>Half-day and full-day rentals</h2>\n<ul>\n<li>3 Hours</li>\n<li>5 Hours</li>\n<li>6 Hours</li>\n<li>9 Hours</li>\n<li>Overnight (2 days, free night)</li>\n</ul>\n<p>Prices include up to 8 guests, with dinner options available for 2.</p> <h2>How to book</h2>\n<p>A 50% deposit is required to reserve your rental. There is a $20 dock fee at the marina. For every extra guest beyond the initial 8, there is a charge of $180. We handle the booking process from start to finish.</p>",
@@ -1109,67 +1253,103 @@
         "location": "cancun",
         "packages": [
           {
-            "capacity": null,
-            "descriptionEn": "Host a romantic dinner for two on the Lagoon 42. This catamaran provides an intimate setting for a gourmet meal under the stars. Sail through the calm Caribbean waters with your loved one.",
-            "descriptionEs": "Organiza una cena romántica para dos en el Lagoon 42. Este catamarán ofrece un ambiente íntimo para una comida gourmet bajo las estrellas. Navega por las tranquilas aguas del Caribe con tu ser querido.",
+            "capacity": 8,
+            "descriptionEn": "3 hours on the Lagoon 42, a stable 42-foot sailing catamaran with room to spread out. Leave the Cancún marina, cruise the coast, and take a swim stop in clear water. Captain, crew, and chef are included.",
+            "descriptionEs": "3 horas en el Lagoon 42, un catamarán de vela de 42 pies estable y con espacio de sobra. Sal de la marina de Cancún, navega por la costa y haz una parada para nadar en agua clara. Capitán, tripulación y chef incluidos.",
             "durationCategory": "half-day",
-            "key": "romanticDinner",
-            "price": "$900",
-            "title": null
-          },
-          {
-            "capacity": null,
-            "descriptionEn": "Join the Coast & Fun Package aboard the Lagoon 42. This stable catamaran offers a great platform for snorkeling and exploring hidden beaches. Experience the vibrant marine life off Cancún.",
-            "descriptionEs": "Únete al Paquete Coast & Fun a bordo del Lagoon 42. Este catamarán estable ofrece una excelente plataforma para hacer snorkel y explorar playas escondidas. Experimenta la vibrante vida marina de Cancún.",
-            "durationCategory": "half-day",
-            "key": "coastFun",
+            "key": "hours3",
             "price": "$1,950",
-            "title": null
+            "title": "3 Hours"
           },
           {
-            "capacity": null,
-            "descriptionEn": "Choose the Fun Plus Package for a day filled with activities on the Lagoon 42. This rental includes options for water sports and relaxation. Gather your friends for a memorable day on the water.",
-            "descriptionEs": "Elige el Paquete Fun Plus para un día lleno de actividades en el Lagoon 42. Esta renta incluye opciones para deportes acuáticos y relajación. Reúne a tus amigos para un día memorable en el agua.",
+            "capacity": 8,
+            "descriptionEn": "5 hours on the Lagoon 42 catamaran — time to reach Isla Mujeres, snorkel the reef, and sit down to a chef-made lunch. The crew handles the day while your group relaxes on deck. Captain, chef, and open bar included.",
+            "descriptionEs": "5 horas en el catamarán Lagoon 42 — tiempo para llegar a Isla Mujeres, hacer snorkel en el arrecife y sentarte a un almuerzo del chef. La tripulación se encarga del día mientras tu grupo descansa en cubierta. Capitán, chef y barra libre incluidos.",
             "durationCategory": "half-day",
-            "key": "funPlus",
-            "price": "$2,250",
-            "title": null
+            "key": "hours5",
+            "price": "$2,050",
+            "title": "5 Hours"
           },
           {
-            "capacity": null,
-            "descriptionEn": "Rent the Lagoon 42 for a bachelor party that combines fun and adventure. With space for up to 20 guests, this catamaran is perfect for a lively day on the water. Enjoy premium drinks and great views.",
-            "descriptionEs": "Renta el Lagoon 42 para una despedida de soltero que combina diversión y aventura. Con espacio para hasta 20 invitados, este catamarán es perfecto para un día animado en el agua. Disfruta de bebidas premium y grandes vistas.",
+            "capacity": 8,
+            "descriptionEn": "6 hours on the Lagoon 42, giving your group more time along the Cancún coast and around Isla Mujeres. Swim stops, a chef-cooked meal, and a full open bar come with captain and crew aboard.",
+            "descriptionEs": "6 horas en el Lagoon 42, dándole a tu grupo más tiempo por la costa de Cancún y alrededor de Isla Mujeres. Paradas para nadar, una comida del chef y barra libre completa, con capitán y tripulación a bordo.",
             "durationCategory": "half-day",
-            "key": "bachelorParty",
-            "price": "$2,100",
-            "title": null
+            "key": "hours6",
+            "price": "$2,350",
+            "title": "6 Hours"
           },
           {
-            "capacity": null,
-            "descriptionEn": "Try the Coast Pizza Package on the Lagoon 42. This rental offers a day of sailing and freshly made stone-oven pizza. Relax on the spacious deck while exploring the coastline off Cancún.",
-            "descriptionEs": "Prueba el Paquete Coast Pizza en el Lagoon 42. Esta renta ofrece un día de navegación y pizza recién hecha en horno de piedra. Relájate en la amplia cubierta mientras exploras la costa de Cancún.",
-            "durationCategory": "half-day",
-            "key": "coastPizza",
-            "price": "$2,400",
-            "title": null
-          },
-          {
-            "capacity": null,
-            "descriptionEn": "Get ready for a DJ Party on the Lagoon 42. This catamaran features a high-end sound system and ample space for dancing. Enjoy premium drinks and lively celebrations as you sail the waters of Cancún.",
-            "descriptionEs": "Prepárate para una Fiesta con DJ en el Lagoon 42. Este catamarán cuenta con un sistema de sonido de alta gama y amplio espacio para bailar. Disfruta de bebidas premium y celebraciones animadas mientras navegas por las aguas de Cancún.",
-            "durationCategory": "half-day",
-            "key": "djParty",
-            "price": "$2,600",
-            "title": null
-          },
-          {
-            "capacity": null,
-            "descriptionEn": "Opt for the Coast Fun Full Day Package on the Lagoon 42. Spend an entire day exploring the waters off Cancún, snorkeling, and relaxing. This rental is designed for a full day of fun with friends.",
-            "descriptionEs": "Opta por el Paquete Coast Fun Full Day en el Lagoon 42. Pasa un día entero explorando las aguas de Cancún, haciendo snorkel y relajándote. Esta renta está diseñada para un día completo de diversión con amigos.",
+            "capacity": 8,
+            "descriptionEn": "A full day on the Lagoon 42 — 9 hours to sail out to Isla Mujeres and Contoy and spend the day on the water with your whole group. Chef-cooked meals and an open bar are included, with captain and crew throughout.",
+            "descriptionEs": "Un día completo en el Lagoon 42 — 9 horas para navegar hasta Isla Mujeres y Contoy y pasar el día en el agua con todo tu grupo. Comidas del chef y barra libre incluidas, con capitán y tripulación durante todo el paseo.",
             "durationCategory": "full-day",
-            "key": "coastFunFullDay",
-            "price": "$,3950",
-            "title": null
+            "key": "hours9",
+            "price": "$3,500",
+            "title": "9 Hours"
+          },
+          {
+            "capacity": 2,
+            "descriptionEn": "A 2-hour dinner charter for two on the Lagoon 42 catamaran. Board at 8pm off Cancún while the chef cooks on the water and the crew runs the evening. An open bar is included for a private dinner afloat.",
+            "descriptionEs": "Un charter de cena de 2 horas para dos en el catamarán Lagoon 42. Aborda a las 8pm frente a Cancún mientras el chef cocina sobre el agua y la tripulación se encarga de la velada. Se incluye barra libre para una cena privada a flote.",
+            "durationCategory": "romantic-dinner",
+            "key": "romanticDinner",
+            "price": "$950",
+            "title": "Romantic Dinner"
+          },
+          {
+            "capacity": null,
+            "descriptionEn": "A bachelorette add-on for the bride-to-be and her crew, available with your 5-hour, 6-hour, or 9-hour rental.",
+            "descriptionEs": "Un complemento para despedida de soltera para la novia y su grupo, disponible con tu renta de 5 horas, 6 horas o 9 horas.",
+            "durationCategory": "add-on",
+            "key": "bachelorette",
+            "price": "+$200",
+            "title": "Bachelorette"
+          },
+          {
+            "capacity": null,
+            "descriptionEn": "Add a DJ for the evening to turn your time into a party. This option is available on 5-hour, 6-hour, and 9-hour rentals.",
+            "descriptionEs": "Agrega un DJ para la noche y convierte tu tiempo en una fiesta. Esta opción está disponible en rentas de 5 horas, 6 horas o 9 horas.",
+            "durationCategory": "add-on",
+            "key": "djEveningBeat",
+            "price": "+$400 (5h) · +$500 (6h) · +$900 (9h)",
+            "title": "DJ Evening Beat"
+          },
+          {
+            "capacity": null,
+            "descriptionEn": "Add a visit to Isla Contoy, the protected bird and marine sanctuary north of Isla Mujeres. The park tender is $1,200 USD for up to 10 guests, or $2,400 USD for 11 to 20.",
+            "descriptionEs": "Agrega una visita a Isla Contoy, el santuario protegido de aves y vida marina al norte de Isla Mujeres. La lancha del parque cuesta $1,200 USD hasta 10 personas, o $2,400 USD de 11 a 20.",
+            "durationCategory": "add-on",
+            "key": "contoy",
+            "price": "+$1,200 (up to 10) · +$2,400 (11–20)",
+            "title": "Isla Contoy"
+          },
+          {
+            "capacity": null,
+            "descriptionEn": "Add a private-island stop for a stretch of beach to yourselves. $500 USD, available on the 9-hour and overnight charters.",
+            "descriptionEs": "Agrega una parada en una isla privada para tener un tramo de playa para ustedes. $500 USD, disponible en los charters de 9 horas y de noche.",
+            "durationCategory": "add-on",
+            "key": "privateIsland",
+            "price": "+$500",
+            "title": "Private Island"
+          },
+          {
+            "capacity": null,
+            "descriptionEn": "Add a whale-shark snorkel tour in season. The park tender is $1,300 USD for up to 10 guests, with the crew taking you out to the feeding grounds off Cancún.",
+            "descriptionEs": "Agrega un tour de snorkel con tiburón ballena en temporada. La lancha del parque cuesta $1,300 USD hasta 10 personas, con la tripulación llevándote a las zonas de alimentación frente a Cancún.",
+            "durationCategory": "add-on",
+            "key": "whaleShark",
+            "price": "+$1,300 (up to 10)",
+            "title": "Whale Shark"
+          },
+          {
+            "capacity": null,
+            "descriptionEn": "Add a guided two-tank scuba dive to your charter. $450 USD per boat covers up to 10 guests, plus $95 USD per diver — a certified guide and two tanks are included. Up to 8 divers can take part.",
+            "descriptionEs": "Agrega un buceo guiado de dos tanques a tu charter. $450 USD por embarcación cubre hasta 10 personas, más $95 USD por buzo — se incluye guía certificado y dos tanques. Pueden participar hasta 8 buzos.",
+            "durationCategory": "add-on",
+            "key": "diveAndYacht",
+            "price": "+$450/boat · +$95/diver",
+            "title": "Dive & Yacht"
           }
         ],
         "reviewIds": [],
@@ -1181,16 +1361,16 @@
         }
       },
       "convexId": "kn700cj7jj3gw9bbdqknasemes89wrtf",
-      "lastUpdated": "2026-07-04T01:36:07.033Z",
+      "lastUpdated": "2026-07-04T04:07:48.658Z",
       "locales": {
         "en": {
-          "boatBody": "<h2>The Lagoon 42</h2>\n<p>The Lagoon 42 is a 42-foot catamaran that fits up to 20 guests. It features 4 cabins and 4 baths, providing ample space for your group. This boat is designed for comfort and stability on the water.</p> <h2>What's included</h2>\n<p>Your rental includes a captain and crew to handle all the details. An onboard chef prepares meals, and a full open bar is available for your enjoyment throughout the trip.</p> <h2>Catamaran rental in Cancún</h2>\n<p>From the Cancún marina, we head out for a short run to Isla Mujeres, the reefs off Punta Nizuc, and the nearby sandbar. You can snorkel, swim, or relax while taking in the sights along the way.</p> <h2>Half-day and full-day rentals</h2>\n<ul>\n<li>Half-day options: 4 hours</li>\n<li>Full-day options: 8 hours</li>\n<li>Packages available: romanticDinner, coastFun, funPlus, bachelorParty, coastPizza, djParty, coastFunFullDay</li>\n</ul>\n<p>Pricing includes up to 8 guests for dinner options. Additional guests can join for a fee.</p> <h2>How to book</h2>\n<p>A 50% deposit is required to reserve your rental. There is a $20 dock fee at the marina, and each extra guest is $180. We handle the booking from start to finish.</p>",
+          "boatBody": "<h2>The Lagoon 42</h2>\n<p>The Lagoon 42 is a 42-foot catamaran that fits up to 20 guests. It features 4 cabins and 4 baths, providing ample space for your group. This boat is designed for comfort and stability on the water.</p> <h2>What's included</h2>\n<p>Your rental includes a captain and crew to handle all the details. An onboard chef prepares meals, and a full open bar is available for your enjoyment throughout the trip.</p> <h2>Catamaran rental in Cancún</h2>\n<p>From the Cancún marina, we head out for a short run to Isla Mujeres, the reefs off Punta Nizuc, and the nearby sandbar. You can snorkel, swim, or relax while taking in the sights along the way.</p> <h2>Half-day and full-day rentals</h2>\n<ul>\n<li>Half-day options: 4 hours</li>\n<li>Full-day options: 8 hours</li>\n<li>Packages available: romanticDinner, coastFun, funPlus, bachelorParty, coastPizza, djParty, coastFunFullDay</li>\n</ul>\n<p>Pricing includes up to 8 guests for dinner options. Additional guests can join for a fee.</p> <h2>How to book</h2>\n<p>A 50% deposit is required to reserve your rental. There is a $15 dock fee at the marina, and each extra guest is $180. We handle the booking from start to finish.</p>",
           "boatSummary": "Rent the Lagoon 42, a 12.8-meter catamaran in Cancún, designed for up to 20 guests. This vessel features four cabins, a spacious living area, and shaded spaces. Explore the waters off Cancún toward Isla Mujeres and the reefs with comfort and style.",
           "name": "Lagoon 42",
           "slug": "lagoon-42"
         },
         "es": {
-          "boatBody": "<h2>El Lagoon 42</h2>\n<p>El Lagoon 42 es un catamarán de 42 pies que acomoda hasta 20 huéspedes. Cuenta con 4 cabinas y 4 baños, proporcionando un amplio espacio para tu grupo. Este barco está diseñado para comodidad y estabilidad en el agua.</p> <h2>Qué incluye</h2>\n<p>Tu renta incluye un capitán y tripulación para manejar todos los detalles. Un chef a bordo prepara comidas, y una barra libre completa está disponible para tu disfrute durante el viaje.</p> <h2>Renta de catamarán en Cancún</h2>\n<p>Desde la marina de Cancún, nos dirigimos a un recorrido corto hacia Isla Mujeres, los arrecifes frente a Punta Nizuc, y la barra de arena cercana. Puedes hacer esnórquel, nadar o relajarte mientras disfrutas de las vistas en el camino.</p> <h2>Rentas de medio día y día completo</h2>\n<ul>\n<li>Opciones de medio día: 4 horas</li>\n<li>Opciones de día completo: 8 horas</li>\n<li>Paquetes disponibles: cenaRomántica, diversiónCostera, diversiónPlus, fiestaSoltero, pizzaCostera, fiestaDJ, diversiónCosteraDíaCompleto</li>\n</ul>\n<p>Los precios incluyen hasta 8 huéspedes para opciones de cena. Los huéspedes adicionales pueden unirse por una tarifa.</p> <h2>Cómo reservar</h2>\n<p>Se requiere un depósito del 50% para reservar tu renta. Hay una tarifa de muelle de $20 en la marina, y cada huésped extra cuesta $180. Nos encargamos de la reserva de principio a fin.</p>",
+          "boatBody": "<h2>El Lagoon 42</h2>\n<p>El Lagoon 42 es un catamarán de 42 pies que acomoda hasta 20 huéspedes. Cuenta con 4 cabinas y 4 baños, proporcionando un amplio espacio para tu grupo. Este barco está diseñado para comodidad y estabilidad en el agua.</p> <h2>Qué incluye</h2>\n<p>Tu renta incluye un capitán y tripulación para manejar todos los detalles. Un chef a bordo prepara comidas, y una barra libre completa está disponible para tu disfrute durante el viaje.</p> <h2>Renta de catamarán en Cancún</h2>\n<p>Desde la marina de Cancún, nos dirigimos a un recorrido corto hacia Isla Mujeres, los arrecifes frente a Punta Nizuc, y la barra de arena cercana. Puedes hacer esnórquel, nadar o relajarte mientras disfrutas de las vistas en el camino.</p> <h2>Rentas de medio día y día completo</h2>\n<ul>\n<li>Opciones de medio día: 4 horas</li>\n<li>Opciones de día completo: 8 horas</li>\n<li>Paquetes disponibles: cenaRomántica, diversiónCostera, diversiónPlus, fiestaSoltero, pizzaCostera, fiestaDJ, diversiónCosteraDíaCompleto</li>\n</ul>\n<p>Los precios incluyen hasta 8 huéspedes para opciones de cena. Los huéspedes adicionales pueden unirse por una tarifa.</p> <h2>Cómo reservar</h2>\n<p>Se requiere un depósito del 50% para reservar tu renta. Hay una tarifa de muelle de $15 en la marina, y cada huésped extra cuesta $180. Nos encargamos de la reserva de principio a fin.</p>",
           "boatSummary": "Renta el Lagoon 42, un catamarán de 12.8 metros en Cancún, diseñado para hasta 20 invitados. Esta embarcación cuenta con cuatro cabinas, una amplia área de estar y espacios sombreados. Explora las aguas de Cancún hacia Isla Mujeres y los arrecifes con comodidad y estilo.",
           "name": "Lagoon 42",
           "slug": "lagoon-42"
@@ -1280,8 +1460,8 @@
           },
           {
             "capacity": null,
-            "descriptionEn": "A bachelorette add-on for the bride-to-be and her crew, available with your 5-hour, 6-hour, or 9-hour charter.",
-            "descriptionEs": "Un complemento para la despedida de soltera de la novia y su grupo, disponible con tu charter de 5 horas, 6 horas o 9 horas.",
+            "descriptionEn": "A bachelorette add-on for the bride-to-be and her crew, available with your 5-hour, 6-hour, or 9-hour rental.",
+            "descriptionEs": "Un complemento para despedida de soltera para la novia y su grupo, disponible con tu renta de 5 horas, 6 horas o 9 horas.",
             "durationCategory": "add-on",
             "key": "bachelorette",
             "price": "+$200",
@@ -1289,8 +1469,8 @@
           },
           {
             "capacity": null,
-            "descriptionEn": "Bring a DJ aboard for the evening to create a lively atmosphere. This option is available on 5-hour, 6-hour, and 9-hour charters.",
-            "descriptionEs": "Lleva un DJ a bordo por la noche para crear un ambiente animado. Esta opción está disponible en charters de 5 horas, 6 horas y 9 horas.",
+            "descriptionEn": "Add a DJ for the evening to turn your time into a party. This option is available on 5-hour, 6-hour, and 9-hour rentals.",
+            "descriptionEs": "Agrega un DJ para la noche y convierte tu tiempo en una fiesta. Esta opción está disponible en rentas de 5 horas, 6 horas o 9 horas.",
             "durationCategory": "add-on",
             "key": "djEveningBeat",
             "price": "+$400 (5h) · +$500 (6h) · +$900 (9h)",
@@ -1298,21 +1478,39 @@
           },
           {
             "capacity": null,
-            "descriptionEn": "Add a stop at El Cielo, Cozumel's shallow reef and starfish sanctuary, for crystal-clear waters and snorkeling. Available on full-day and overnight charters (marine-park fee applies).",
-            "descriptionEs": "Agrega una parada en El Cielo, el arrecife poco profundo de Cozumel y santuario de estrellas de mar, para aguas cristalinas y snorkel. Disponible en charters de día completo y de noche (se aplica tarifa del parque marino).",
+            "descriptionEn": "Add a visit to Isla Contoy, the protected bird and marine sanctuary north of Isla Mujeres. The park tender is $1,200 USD for up to 10 guests, or $2,400 USD for 11 to 20.",
+            "descriptionEs": "Agrega una visita a Isla Contoy, el santuario protegido de aves y vida marina al norte de Isla Mujeres. La lancha del parque cuesta $1,200 USD hasta 10 personas, o $2,400 USD de 11 a 20.",
             "durationCategory": "add-on",
-            "key": "elCieloCozumel",
-            "price": "+$300 (9h) · +$600 (overnight)",
-            "title": "El Cielo Cozumel"
+            "key": "contoy",
+            "price": "+$1,200 (up to 10) · +$2,400 (11–20)",
+            "title": "Isla Contoy"
           },
           {
             "capacity": null,
-            "descriptionEn": "Add a tender trip to Akumal to snorkel with wild sea turtles in their feeding grounds. This option is available on the 9-hour charter (marine park fee applies).",
-            "descriptionEs": "Agrega un viaje en lancha a Akumal para hacer snorkel con tortugas marinas salvajes en sus áreas de alimentación. Esta opción está disponible en el charter de 9 horas (se aplica tarifa del parque marino).",
+            "descriptionEn": "Add a private-island stop for a stretch of beach to yourselves. $500 USD, available on the 9-hour and overnight charters.",
+            "descriptionEs": "Agrega una parada en una isla privada para tener un tramo de playa para ustedes. $500 USD, disponible en los charters de 9 horas y de noche.",
             "durationCategory": "add-on",
-            "key": "turtlesAkumal",
-            "price": "+$550 (9h)",
-            "title": "Turtles at Akumal"
+            "key": "privateIsland",
+            "price": "+$500",
+            "title": "Private Island"
+          },
+          {
+            "capacity": null,
+            "descriptionEn": "Add a whale-shark snorkel tour in season. The park tender is $1,300 USD for up to 10 guests, with the crew taking you out to the feeding grounds off Cancún.",
+            "descriptionEs": "Agrega un tour de snorkel con tiburón ballena en temporada. La lancha del parque cuesta $1,300 USD hasta 10 personas, con la tripulación llevándote a las zonas de alimentación frente a Cancún.",
+            "durationCategory": "add-on",
+            "key": "whaleShark",
+            "price": "+$1,300 (up to 10)",
+            "title": "Whale Shark"
+          },
+          {
+            "capacity": null,
+            "descriptionEn": "Add a guided two-tank scuba dive to your charter. $450 USD per boat covers up to 10 guests, plus $95 USD per diver — a certified guide and two tanks are included. Up to 8 divers can take part.",
+            "descriptionEs": "Agrega un buceo guiado de dos tanques a tu charter. $450 USD por embarcación cubre hasta 10 personas, más $95 USD por buzo — se incluye guía certificado y dos tanques. Pueden participar hasta 8 buzos.",
+            "durationCategory": "add-on",
+            "key": "diveAndYacht",
+            "price": "+$450/boat · +$95/diver",
+            "title": "Dive & Yacht"
           }
         ],
         "reviewIds": [],
@@ -1324,16 +1522,16 @@
         }
       },
       "convexId": "kn7e6e6pz32a9skxnnahc89wts89xp1d",
-      "lastUpdated": "2026-07-04T01:36:07.033Z",
+      "lastUpdated": "2026-07-04T04:07:48.658Z",
       "locales": {
         "en": {
-          "boatBody": "<h2>The Leopard PowerCat 51</h2>\n<p>The Leopard PowerCat 51 is a 51-foot power catamaran that fits up to 30 guests. It features 4 cabins and 3 baths, providing ample space for your group. This boat is designed for those who want to take in the water with friends and family.</p> <h2>What's included</h2>\n<p>Your rental includes a skilled captain and crew to ensure a smooth experience. An onboard chef is available to prepare meals, and a full open bar is provided for your enjoyment.</p> <h2>Catamaran rental in Cancún</h2>\n<p>The Leopard PowerCat 51 offers quick access from the Cancún marina to Isla Mujeres, the reefs off Punta Nizuc, and the nearby sandbar. You can snorkel, swim, or simply relax on the water during your trip.</p> <h2>Half-day and full-day rentals</h2>\n<ul>\n<li>3 Hours</li>\n<li>5 Hours</li>\n<li>6 Hours</li>\n<li>9 Hours</li>\n<li>Overnight (2 days · free night)</li>\n</ul>\n<p>Prices include up to 8 guests, with the option for a romantic dinner for 2 available.</p> <h2>How to book</h2>\n<p>A 50% deposit is required to reserve your rental. There is a $20 dock fee at the marina, and $180 for each extra guest beyond the initial 8. We handle the booking process from start to finish.</p>",
+          "boatBody": "<h2>The Leopard PowerCat 51</h2>\n<p>The Leopard PowerCat 51 is a 51-foot power catamaran that fits up to 30 guests. It features 4 cabins and 3 baths, providing ample space for your group. This boat is designed for those who want to take in the water with friends and family.</p> <h2>What's included</h2>\n<p>Your rental includes a skilled captain and crew to ensure a smooth experience. An onboard chef is available to prepare meals, and a full open bar is provided for your enjoyment.</p> <h2>Catamaran rental in Cancún</h2>\n<p>The Leopard PowerCat 51 offers quick access from the Cancún marina to Isla Mujeres, the reefs off Punta Nizuc, and the nearby sandbar. You can snorkel, swim, or simply relax on the water during your trip.</p> <h2>Half-day and full-day rentals</h2>\n<ul>\n<li>3 Hours</li>\n<li>5 Hours</li>\n<li>6 Hours</li>\n<li>9 Hours</li>\n<li>Overnight (2 days · free night)</li>\n</ul>\n<p>Prices include up to 8 guests, with the option for a romantic dinner for 2 available.</p> <h2>How to book</h2>\n<p>A 50% deposit is required to reserve your rental. There is a $15 dock fee at the marina, and $180 for each extra guest beyond the initial 8. We handle the booking process from start to finish.</p>",
           "boatSummary": "The Leopard 51 is a 51-foot power catamaran available for rental in Cancún, accommodating up to 30 guests. This spacious vessel combines speed and stability, making it perfect for larger groups looking to explore the waters. Each charter includes a captain, crew, and an onboard chef to handle all your needs.",
           "name": "Leopard PowerCat 51",
           "slug": "leopard-powercat-51-cancun"
         },
         "es": {
-          "boatBody": "<h2>El Leopard PowerCat 51</h2>\n<p>El Leopard PowerCat 51 es un catamarán motorizado de 51 pies que acomoda hasta 30 huéspedes. Cuenta con 4 cabinas y 3 baños, proporcionando un amplio espacio para tu grupo. Este barco está diseñado para aquellos que quieren disfrutar del agua con amigos y familiares.</p> <h2>Qué incluye</h2>\n<p>Tu renta incluye un capitán y tripulación calificados para asegurar una experiencia fluida. Un chef a bordo está disponible para preparar comidas, y se proporciona una barra libre completa para tu disfrute.</p> <h2>Renta de catamarán en Cancún</h2>\n<p>El Leopard PowerCat 51 ofrece acceso rápido desde la marina de Cancún a Isla Mujeres, los arrecifes frente a Punta Nizuc, y la barra de arena cercana. Puedes hacer esnórquel, nadar, o simplemente relajarte en el agua durante tu viaje.</p> <h2>Rentas de medio día y día completo</h2>\n<ul>\n<li>3 Horas</li>\n<li>5 Horas</li>\n<li>6 Horas</li>\n<li>9 Horas</li>\n<li>Nocturna (2 días · noche gratis)</li>\n</ul>\n<p>Los precios incluyen hasta 8 huéspedes, con la opción de una cena romántica para 2 disponible.</p> <h2>Cómo reservar</h2>\n<p>Se requiere un depósito del 50% para reservar tu renta. Hay una tarifa de muelle de $20 en la marina, y $180 por cada huésped extra más allá de los 8 iniciales. Nos encargamos del proceso de reserva de principio a fin.</p>",
+          "boatBody": "<h2>El Leopard PowerCat 51</h2>\n<p>El Leopard PowerCat 51 es un catamarán motorizado de 51 pies que acomoda hasta 30 huéspedes. Cuenta con 4 cabinas y 3 baños, proporcionando un amplio espacio para tu grupo. Este barco está diseñado para aquellos que quieren disfrutar del agua con amigos y familiares.</p> <h2>Qué incluye</h2>\n<p>Tu renta incluye un capitán y tripulación calificados para asegurar una experiencia fluida. Un chef a bordo está disponible para preparar comidas, y se proporciona una barra libre completa para tu disfrute.</p> <h2>Renta de catamarán en Cancún</h2>\n<p>El Leopard PowerCat 51 ofrece acceso rápido desde la marina de Cancún a Isla Mujeres, los arrecifes frente a Punta Nizuc, y la barra de arena cercana. Puedes hacer esnórquel, nadar, o simplemente relajarte en el agua durante tu viaje.</p> <h2>Rentas de medio día y día completo</h2>\n<ul>\n<li>3 Horas</li>\n<li>5 Horas</li>\n<li>6 Horas</li>\n<li>9 Horas</li>\n<li>Nocturna (2 días · noche gratis)</li>\n</ul>\n<p>Los precios incluyen hasta 8 huéspedes, con la opción de una cena romántica para 2 disponible.</p> <h2>Cómo reservar</h2>\n<p>Se requiere un depósito del 50% para reservar tu renta. Hay una tarifa de muelle de $15 en la marina, y $180 por cada huésped extra más allá de los 8 iniciales. Nos encargamos del proceso de reserva de principio a fin.</p>",
           "boatSummary": "El Leopard 51 es un catamarán de potencia de 51 pies disponible para renta en Cancún, con capacidad para hasta 30 invitados. Esta embarcación espaciosa combina velocidad y estabilidad, haciéndola perfecta para grupos grandes que buscan explorar las aguas. Cada charter incluye un capitán, tripulación y un chef a bordo para atender todas tus necesidades.",
           "name": "Leopard PowerCat 51",
           "slug": "leopard-powercat-51-cancun"
