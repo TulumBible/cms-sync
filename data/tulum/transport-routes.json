@@ -1,11 +1,11 @@
 {
-  "syncedAt": "2026-07-20T01:24:31.851Z",
+  "syncedAt": "2026-07-20T01:45:32.572Z",
   "citySlug": "tulum",
   "transport-routes": [
     {
       "base": {
-        "distance": null,
-        "duration": null,
+        "distance": "35 km",
+        "duration": "~40 min",
         "extras": [],
         "extrasAlts": [],
         "fromLocation": "Tulum Airport",
@@ -31,9 +31,9 @@
                 "price": "1200"
               }
             ],
-            "note": null,
-            "noteEs": null,
-            "price": null,
+            "note": "One way · round trip $2,600 MXN",
+            "noteEs": "Sencillo · redondo $2,600 MXN",
+            "price": "$1,400 MXN",
             "vehicleId": "mh7dq9s851gqkgc40ctbfvas6s8arj8n"
           },
           {
@@ -54,9 +54,9 @@
                 "price": "1300"
               }
             ],
-            "note": null,
-            "noteEs": null,
-            "price": null,
+            "note": "One way · round trip $2,900 MXN",
+            "noteEs": "Sencillo · redondo $2,900 MXN",
+            "price": "$1,600 MXN",
             "vehicleId": "mh70ng1qnn1k4x2c8xgeewxebh8asq3r"
           },
           {
@@ -77,9 +77,9 @@
                 "price": "1800"
               }
             ],
-            "note": null,
-            "noteEs": null,
-            "price": null,
+            "note": "One way · round trip $3,800 MXN",
+            "noteEs": "Sencillo · redondo $3,800 MXN",
+            "price": "$2,000 MXN",
             "vehicleId": "mh72ab4495ym9hrccgkxtq86jx8ar0pt"
           },
           {
@@ -100,34 +100,34 @@
                 "price": "2300"
               }
             ],
-            "note": null,
-            "noteEs": null,
-            "price": null,
+            "note": "One way · round trip $4,800 MXN",
+            "noteEs": "Sencillo · redondo $4,800 MXN",
+            "price": "$2,500 MXN",
             "vehicleId": "mh74686mztvpnyfst2vyj78a958ar5nr"
           }
         ]
       },
       "convexId": "md75h96v0m6n2ga59yfsx47q798asyhm",
-      "lastUpdated": "2026-07-18T02:48:31.808Z",
+      "lastUpdated": "2026-07-20T01:45:16.604Z",
       "locales": {
         "en": {
-          "body": "",
+          "body": "<h2>About this transfer</h2><p>Tulum's new international airport (TQO) sits about 35 km south of town — roughly 40 minutes by road. Your driver meets you at arrivals and takes Highway 307 straight to your address in Tulum Centro, La Veleta, or Aldea Zama, with no shared stops along the way.</p><h2>What's included</h2><ul><li>Private, air-conditioned vehicle — never shared</li><li>Door-to-door service with a fixed, all-in rate</li><li>Flight tracking — your driver adjusts to delays at no extra cost</li><li>Meet & greet at arrivals with your name sign</li><li>Child seats and extra stops available on request</li></ul><h2>Pricing</h2><p>Rates below are per vehicle, not per person — pick the size that fits your group. Round-trip bookings lock in the return at a reduced combined rate, and every price is final: no fuel surcharges, tolls, or waiting fees.</p><h2>Good to know</h2><p>TQO is compact and quick to clear, but allow extra time in December–January when several international arrivals land close together. Heading home, we recommend leaving Tulum 2.5 hours before an international departure.</p>",
           "name": "Tulum Airport → Tulum Centro / La Veleta / Aldea Zama",
           "slug": "tulum-airport-to-tulum-centro-veleta-aldea-zama",
-          "summary": ""
+          "summary": "Private transfer from Tulum International Airport (TQO) to Tulum Centro, La Veleta, or Aldea Zama — fixed rates, flight tracking, door-to-door."
         },
         "es": {
-          "body": "",
+          "body": "<h2>Sobre este traslado</h2><p>El nuevo aeropuerto internacional de Tulum (TQO) está a unos 35 km al sur del pueblo — aproximadamente 40 minutos por carretera. Tu chofer te recibe en llegadas y toma la carretera 307 directo a tu dirección en Tulum Centro, La Veleta o Aldea Zama, sin paradas compartidas.</p><h2>Qué incluye</h2><ul><li>Vehículo privado con aire acondicionado — nunca compartido</li><li>Servicio puerta a puerta con tarifa fija, todo incluido</li><li>Monitoreo de vuelo — tu chofer se ajusta a retrasos sin costo extra</li><li>Recibimiento en llegadas con letrero con tu nombre</li><li>Sillas para niños y paradas adicionales disponibles a solicitud</li></ul><h2>Tarifas</h2><p>Las tarifas son por vehículo, no por persona — elige el tamaño según tu grupo. Reservar viaje redondo asegura el regreso con tarifa combinada reducida, y cada precio es final: sin cargos de gasolina, casetas ni tiempos de espera.</p><h2>Bueno saber</h2><p>TQO es compacto y rápido, pero considera tiempo extra en diciembre–enero cuando coinciden varias llegadas internacionales. Para el regreso, recomendamos salir de Tulum 2.5 horas antes de un vuelo internacional.</p>",
           "name": "Tulum Airport → Tulum Centro / La Veleta / Aldea Zama",
-          "slug": "tulum-airport-to-tulum-centro-veleta-aldea-zama",
-          "summary": ""
+          "slug": "aeropuerto-tulum-a-tulum-centro-veleta-aldea-zama",
+          "summary": "Traslado privado del Aeropuerto Internacional de Tulum (TQO) a Tulum Centro, La Veleta o Aldea Zama — tarifa fija, monitoreo de vuelo, puerta a puerta."
         }
       }
     },
     {
       "base": {
-        "distance": null,
-        "duration": null,
+        "distance": "40 km",
+        "duration": "~45 min",
         "extras": [],
         "extrasAlts": [],
         "fromLocation": "Tulum Airport",
@@ -153,9 +153,9 @@
                 "price": "1400"
               }
             ],
-            "note": null,
-            "noteEs": null,
-            "price": null,
+            "note": "One way · round trip $3,100 MXN",
+            "noteEs": "Sencillo · redondo $3,100 MXN",
+            "price": "$1,700 MXN",
             "vehicleId": "mh7dq9s851gqkgc40ctbfvas6s8arj8n"
           },
           {
@@ -176,9 +176,9 @@
                 "price": "1600"
               }
             ],
-            "note": null,
-            "noteEs": null,
-            "price": null,
+            "note": "One way · round trip $3,400 MXN",
+            "noteEs": "Sencillo · redondo $3,400 MXN",
+            "price": "$1,800 MXN",
             "vehicleId": "mh70ng1qnn1k4x2c8xgeewxebh8asq3r"
           },
           {
@@ -199,9 +199,9 @@
                 "price": "2000"
               }
             ],
-            "note": null,
-            "noteEs": null,
-            "price": null,
+            "note": "One way · round trip $4,300 MXN",
+            "noteEs": "Sencillo · redondo $4,300 MXN",
+            "price": "$2,300 MXN",
             "vehicleId": "mh72ab4495ym9hrccgkxtq86jx8ar0pt"
           },
           {
@@ -222,34 +222,34 @@
                 "price": "2500"
               }
             ],
-            "note": null,
-            "noteEs": null,
-            "price": null,
+            "note": "One way · round trip $5,300 MXN",
+            "noteEs": "Sencillo · redondo $5,300 MXN",
+            "price": "$2,800 MXN",
             "vehicleId": "mh74686mztvpnyfst2vyj78a958ar5nr"
           }
         ]
       },
       "convexId": "md76effwn9mmadvz8m88fsqn8n8as5y0",
-      "lastUpdated": "2026-07-18T02:48:31.808Z",
+      "lastUpdated": "2026-07-20T01:45:16.604Z",
       "locales": {
         "en": {
-          "body": "",
+          "body": "<h2>About this transfer</h2><p>From Tulum International Airport (TQO) to the beachfront hotel zone is about 40 km — around 45 minutes depending on beach-road traffic. Your driver meets you at arrivals and drops you at your hotel or beach club door, whether you're staying at the north entrance or deep in the south end near the biosphere.</p><h2>What's included</h2><ul><li>Private, air-conditioned vehicle — never shared</li><li>Door-to-door service with a fixed, all-in rate</li><li>Flight tracking — your driver adjusts to delays at no extra cost</li><li>Meet & greet at arrivals with your name sign</li><li>Child seats and extra stops available on request</li></ul><h2>Pricing</h2><p>Rates below are per vehicle, not per person — pick the size that fits your group. Round-trip bookings lock in the return at a reduced combined rate, and every price is final: no fuel surcharges, tolls, or waiting fees.</p><h2>Good to know</h2><p>The beach road is single-lane and slows noticeably between 11am and sunset; early-morning and evening transfers run fastest. For departures, allow up to an hour extra in high season.</p>",
           "name": "Tulum Airport → Tulum Hotel Zone",
           "slug": "tulum-airport-to-tulum-hotel-zone",
-          "summary": ""
+          "summary": "Private transfer from Tulum Airport (TQO) to the Tulum Hotel Zone and beach road — fixed rates, flight tracking, and door-to-door service."
         },
         "es": {
-          "body": "",
+          "body": "<h2>Sobre este traslado</h2><p>Del Aeropuerto Internacional de Tulum (TQO) a la zona hotelera frente al mar son unos 40 km — alrededor de 45 minutos según el tráfico de la carretera de playa. Tu chofer te recibe en llegadas y te deja en la puerta de tu hotel o club de playa, ya sea en la entrada norte o al fondo del sur cerca de la biósfera.</p><h2>Qué incluye</h2><ul><li>Vehículo privado con aire acondicionado — nunca compartido</li><li>Servicio puerta a puerta con tarifa fija, todo incluido</li><li>Monitoreo de vuelo — tu chofer se ajusta a retrasos sin costo extra</li><li>Recibimiento en llegadas con letrero con tu nombre</li><li>Sillas para niños y paradas adicionales disponibles a solicitud</li></ul><h2>Tarifas</h2><p>Las tarifas son por vehículo, no por persona — elige el tamaño según tu grupo. Reservar viaje redondo asegura el regreso con tarifa combinada reducida, y cada precio es final: sin cargos de gasolina, casetas ni tiempos de espera.</p><h2>Bueno saber</h2><p>La carretera de playa es de un solo carril y se congestiona entre 11am y el atardecer; los traslados de mañana temprano y noche son los más rápidos. Para salidas, considera hasta una hora extra en temporada alta.</p>",
           "name": "Tulum Airport → Tulum Hotel Zone",
-          "slug": "tulum-airport-to-tulum-hotel-zone",
-          "summary": ""
+          "slug": "aeropuerto-tulum-a-zona-hotelera-tulum",
+          "summary": "Traslado privado del Aeropuerto de Tulum (TQO) a la Zona Hotelera y carretera de playa — tarifa fija, monitoreo de vuelo y servicio puerta a puerta."
         }
       }
     },
     {
       "base": {
-        "distance": null,
-        "duration": null,
+        "distance": "118 km",
+        "duration": "~1 h 45 min",
         "extras": [],
         "extrasAlts": [],
         "fromLocation": "Cancún Airport",
@@ -275,9 +275,9 @@
                 "price": "2200"
               }
             ],
-            "note": null,
-            "noteEs": null,
-            "price": null,
+            "note": "One way · round trip $4,600 MXN",
+            "noteEs": "Sencillo · redondo $4,600 MXN",
+            "price": "$2,400 MXN",
             "vehicleId": "mh7dq9s851gqkgc40ctbfvas6s8arj8n"
           },
           {
@@ -298,9 +298,9 @@
                 "price": "2300"
               }
             ],
-            "note": null,
-            "noteEs": null,
-            "price": null,
+            "note": "One way · round trip $4,800 MXN",
+            "noteEs": "Sencillo · redondo $4,800 MXN",
+            "price": "$2,500 MXN",
             "vehicleId": "mh70ng1qnn1k4x2c8xgeewxebh8asq3r"
           },
           {
@@ -321,9 +321,9 @@
                 "price": "3000"
               }
             ],
-            "note": null,
-            "noteEs": null,
-            "price": null,
+            "note": "One way · round trip $6,200 MXN",
+            "noteEs": "Sencillo · redondo $6,200 MXN",
+            "price": "$3,200 MXN",
             "vehicleId": "mh72ab4495ym9hrccgkxtq86jx8ar0pt"
           },
           {
@@ -344,34 +344,34 @@
                 "price": "3400"
               }
             ],
-            "note": null,
-            "noteEs": null,
-            "price": null,
+            "note": "One way · round trip $7,000 MXN",
+            "noteEs": "Sencillo · redondo $7,000 MXN",
+            "price": "$3,600 MXN",
             "vehicleId": "mh74686mztvpnyfst2vyj78a958ar5nr"
           }
         ]
       },
       "convexId": "md7epm19s272b9takby3fv4fts8aspvd",
-      "lastUpdated": "2026-07-18T02:48:31.808Z",
+      "lastUpdated": "2026-07-20T01:45:16.604Z",
       "locales": {
         "en": {
-          "body": "",
+          "body": "<h2>About this transfer</h2><p>The classic Riviera Maya run: 118 km from Cancún International Airport down Highway 307 to Tulum, typically 1 h 45 min door-to-door. Your driver is waiting past customs with a name sign, and the ride is non-stop — no shared-shuttle detours through Playa del Carmen hotels.</p><h2>What's included</h2><ul><li>Private, air-conditioned vehicle — never shared</li><li>Door-to-door service with a fixed, all-in rate</li><li>Flight tracking — your driver adjusts to delays at no extra cost</li><li>Meet & greet at arrivals with your name sign</li><li>Child seats and extra stops available on request</li></ul><h2>Pricing</h2><p>Rates below are per vehicle, not per person — pick the size that fits your group. Round-trip bookings lock in the return at a reduced combined rate, and every price is final: no fuel surcharges, tolls, or waiting fees.</p><h2>Good to know</h2><p>Cancún arrivals can take 30–60 minutes to clear immigration in peak season — your driver tracks your flight and waits at no extra charge. Stock up on water for the ride; there's a good OXXO stop at Puerto Aventuras if you need a break.</p>",
           "name": "Cancún Airport → Tulum Centro / La Veleta / Aldea Zama",
           "slug": "cancun-airport-to-tulum-centro-veleta-aldea-zama",
-          "summary": ""
+          "summary": "Private Cancún Airport to Tulum transfer — Centro, La Veleta, or Aldea Zama. Fixed rates, flight tracking, meet & greet, straight down the coast."
         },
         "es": {
-          "body": "",
+          "body": "<h2>Sobre este traslado</h2><p>La ruta clásica de la Riviera Maya: 118 km del Aeropuerto Internacional de Cancún por la carretera 307 hasta Tulum, típicamente 1 h 45 min puerta a puerta. Tu chofer te espera saliendo de aduana con un letrero, y el viaje es directo — sin desvíos por hoteles de Playa del Carmen.</p><h2>Qué incluye</h2><ul><li>Vehículo privado con aire acondicionado — nunca compartido</li><li>Servicio puerta a puerta con tarifa fija, todo incluido</li><li>Monitoreo de vuelo — tu chofer se ajusta a retrasos sin costo extra</li><li>Recibimiento en llegadas con letrero con tu nombre</li><li>Sillas para niños y paradas adicionales disponibles a solicitud</li></ul><h2>Tarifas</h2><p>Las tarifas son por vehículo, no por persona — elige el tamaño según tu grupo. Reservar viaje redondo asegura el regreso con tarifa combinada reducida, y cada precio es final: sin cargos de gasolina, casetas ni tiempos de espera.</p><h2>Bueno saber</h2><p>Migración en Cancún puede tomar de 30 a 60 minutos en temporada alta — tu chofer monitorea el vuelo y espera sin costo extra. Si necesitas una parada, hay un buen OXXO en Puerto Aventuras a mitad de camino.</p>",
           "name": "Cancún Airport → Tulum Centro / La Veleta / Aldea Zama",
-          "slug": "cancun-airport-to-tulum-centro-veleta-aldea-zama",
-          "summary": ""
+          "slug": "aeropuerto-cancun-a-tulum-centro-veleta-aldea-zama",
+          "summary": "Traslado privado del Aeropuerto de Cancún a Tulum — Centro, La Veleta o Aldea Zama. Tarifa fija, monitoreo de vuelo y recibimiento personalizado."
         }
       }
     },
     {
       "base": {
-        "distance": null,
-        "duration": null,
+        "distance": "128 km",
+        "duration": "~2 h",
         "extras": [],
         "extrasAlts": [],
         "fromLocation": "Cancún Airport",
@@ -397,9 +397,9 @@
                 "price": "2300"
               }
             ],
-            "note": null,
-            "noteEs": null,
-            "price": null,
+            "note": "One way · round trip $4,800 MXN",
+            "noteEs": "Sencillo · redondo $4,800 MXN",
+            "price": "$2,500 MXN",
             "vehicleId": "mh7dq9s851gqkgc40ctbfvas6s8arj8n"
           },
           {
@@ -420,9 +420,9 @@
                 "price": "2400"
               }
             ],
-            "note": null,
-            "noteEs": null,
-            "price": null,
+            "note": "One way · round trip $5,000 MXN",
+            "noteEs": "Sencillo · redondo $5,000 MXN",
+            "price": "$2,600 MXN",
             "vehicleId": "mh70ng1qnn1k4x2c8xgeewxebh8asq3r"
           },
           {
@@ -443,9 +443,9 @@
                 "price": "3200"
               }
             ],
-            "note": null,
-            "noteEs": null,
-            "price": null,
+            "note": "One way · round trip $6,600 MXN",
+            "noteEs": "Sencillo · redondo $6,600 MXN",
+            "price": "$3,400 MXN",
             "vehicleId": "mh72ab4495ym9hrccgkxtq86jx8ar0pt"
           },
           {
@@ -466,34 +466,34 @@
                 "price": "3600"
               }
             ],
-            "note": null,
-            "noteEs": null,
-            "price": null,
+            "note": "One way · round trip $7,400 MXN",
+            "noteEs": "Sencillo · redondo $7,400 MXN",
+            "price": "$3,800 MXN",
             "vehicleId": "mh74686mztvpnyfst2vyj78a958ar5nr"
           }
         ]
       },
       "convexId": "md78zrnrvkebx4da54kfez3jt58ask1v",
-      "lastUpdated": "2026-07-18T02:48:31.808Z",
+      "lastUpdated": "2026-07-20T01:45:16.604Z",
       "locales": {
         "en": {
-          "body": "",
+          "body": "<h2>About this transfer</h2><p>About 128 km and two hours from Cancún International Airport to Tulum's beachfront hotel zone. Your driver meets you at arrivals, takes Highway 307 south, and continues down the beach road to your hotel's door — the single-lane final stretch is where a private car really beats the shuttle vans.</p><h2>What's included</h2><ul><li>Private, air-conditioned vehicle — never shared</li><li>Door-to-door service with a fixed, all-in rate</li><li>Flight tracking — your driver adjusts to delays at no extra cost</li><li>Meet & greet at arrivals with your name sign</li><li>Child seats and extra stops available on request</li></ul><h2>Pricing</h2><p>Rates below are per vehicle, not per person — pick the size that fits your group. Round-trip bookings lock in the return at a reduced combined rate, and every price is final: no fuel surcharges, tolls, or waiting fees.</p><h2>Good to know</h2><p>Time the beach road if you can: before 11am or after sunset it flows freely, mid-afternoon it crawls. Your driver knows both hotel-zone entrances and will pick the faster approach for your address.</p>",
           "name": "Cancún Airport → Tulum Hotel Zone",
           "slug": "cancun-airport-to-tulum-hotel-zone",
-          "summary": ""
+          "summary": "Private Cancún Airport to Tulum Hotel Zone transfer — fixed rates, flight tracking, and drop-off at your beachfront hotel or club door."
         },
         "es": {
-          "body": "",
+          "body": "<h2>Sobre este traslado</h2><p>Unos 128 km y dos horas del Aeropuerto Internacional de Cancún a la zona hotelera de Tulum frente al mar. Tu chofer te recibe en llegadas, toma la carretera 307 al sur y continúa por la carretera de playa hasta la puerta de tu hotel — en ese último tramo de un solo carril es donde un auto privado realmente supera a las vans compartidas.</p><h2>Qué incluye</h2><ul><li>Vehículo privado con aire acondicionado — nunca compartido</li><li>Servicio puerta a puerta con tarifa fija, todo incluido</li><li>Monitoreo de vuelo — tu chofer se ajusta a retrasos sin costo extra</li><li>Recibimiento en llegadas con letrero con tu nombre</li><li>Sillas para niños y paradas adicionales disponibles a solicitud</li></ul><h2>Tarifas</h2><p>Las tarifas son por vehículo, no por persona — elige el tamaño según tu grupo. Reservar viaje redondo asegura el regreso con tarifa combinada reducida, y cada precio es final: sin cargos de gasolina, casetas ni tiempos de espera.</p><h2>Bueno saber</h2><p>Si puedes, programa la carretera de playa: antes de las 11am o después del atardecer fluye libre; a media tarde avanza lento. Tu chofer conoce ambas entradas de la zona hotelera y elegirá la más rápida para tu dirección.</p>",
           "name": "Cancún Airport → Tulum Hotel Zone",
-          "slug": "cancun-airport-to-tulum-hotel-zone",
-          "summary": ""
+          "slug": "aeropuerto-cancun-a-zona-hotelera-tulum",
+          "summary": "Traslado privado del Aeropuerto de Cancún a la Zona Hotelera de Tulum — tarifa fija, monitoreo de vuelo y llegada a la puerta de tu hotel frente al mar."
         }
       }
     },
     {
       "base": {
-        "distance": null,
-        "duration": null,
+        "distance": "8 km",
+        "duration": "~20 min",
         "extras": [],
         "extrasAlts": [],
         "fromLocation": "Tulum Centro",
@@ -514,9 +514,9 @@
                 "price": "600"
               }
             ],
-            "note": null,
-            "noteEs": null,
-            "price": null,
+            "note": "One way · round trip $1,100 MXN",
+            "noteEs": "Sencillo · redondo $1,100 MXN",
+            "price": "$600 MXN",
             "vehicleId": "mh7dq9s851gqkgc40ctbfvas6s8arj8n"
           },
           {
@@ -532,9 +532,9 @@
                 "price": "700"
               }
             ],
-            "note": null,
-            "noteEs": null,
-            "price": null,
+            "note": "One way · round trip $1,200 MXN",
+            "noteEs": "Sencillo · redondo $1,200 MXN",
+            "price": "$700 MXN",
             "vehicleId": "mh70ng1qnn1k4x2c8xgeewxebh8asq3r"
           },
           {
@@ -550,9 +550,9 @@
                 "price": "1100"
               }
             ],
-            "note": null,
-            "noteEs": null,
-            "price": null,
+            "note": "One way · round trip $2,000 MXN",
+            "noteEs": "Sencillo · redondo $2,000 MXN",
+            "price": "$1,100 MXN",
             "vehicleId": "mh72ab4495ym9hrccgkxtq86jx8ar0pt"
           },
           {
@@ -568,9 +568,9 @@
                 "price": "1200"
               }
             ],
-            "note": null,
-            "noteEs": null,
-            "price": null,
+            "note": "One way · round trip $2,200 MXN",
+            "noteEs": "Sencillo · redondo $2,200 MXN",
+            "price": "$1,200 MXN",
             "vehicleId": "mh70jq1nc6vxh3rcv1jzyhzvv98artr1"
           },
           {
@@ -586,34 +586,34 @@
                 "price": "1100"
               }
             ],
-            "note": null,
-            "noteEs": null,
-            "price": null,
+            "note": "One way · round trip $1,900 MXN",
+            "noteEs": "Sencillo · redondo $1,900 MXN",
+            "price": "$1,100 MXN",
             "vehicleId": "mh74686mztvpnyfst2vyj78a958ar5nr"
           }
         ]
       },
       "convexId": "md7cegyg45pyqqnv8kej0ecbx58ashxx",
-      "lastUpdated": "2026-07-18T02:48:31.808Z",
+      "lastUpdated": "2026-07-20T01:45:16.604Z",
       "locales": {
         "en": {
-          "body": "",
+          "body": "<h2>About this transfer</h2><p>The quick hop from town to the mid beach road — about 8 km to the stretch around Rosa Negra, Gitano Beach, and the party corridor. A fixed-rate private car beats haggling with beach-road taxis, especially on the way to dinner reservations.</p><h2>What's included</h2><ul><li>Private, air-conditioned vehicle — never shared</li><li>Door-to-door service with a fixed, all-in rate</li><li>Child seats and extra stops available on request</li></ul><h2>Pricing</h2><p>Rates below are per vehicle, not per person — pick the size that fits your group. Round-trip bookings lock in the return at a reduced combined rate, and every price is final: no fuel surcharges, tolls, or waiting fees.</p><h2>Good to know</h2><p>Friday and Saturday nights the beach road backs up near the party zone — leave 15 minutes earlier for dinner bookings. Your driver can wait and run a return leg if you book round trip.</p>",
           "name": "Tulum Centro → Tulum Hotel Zone (up to Rosa Negra)",
           "slug": "tulum-centro-to-tulum-hotel-zone-rosa-negra",
-          "summary": ""
+          "summary": "Private ride from Tulum Centro to the Hotel Zone up to Rosa Negra — fixed rate, no surge pricing, door-to-door along the beach road."
         },
         "es": {
-          "body": "",
+          "body": "<h2>Sobre este traslado</h2><p>El salto rápido del pueblo a la carretera de playa media — unos 8 km al tramo de Rosa Negra, Gitano Beach y el corredor de fiesta. Un auto privado con tarifa fija supera regatear con los taxis de la playa, sobre todo camino a una reservación de cena.</p><h2>Qué incluye</h2><ul><li>Vehículo privado con aire acondicionado — nunca compartido</li><li>Servicio puerta a puerta con tarifa fija, todo incluido</li><li>Sillas para niños y paradas adicionales disponibles a solicitud</li></ul><h2>Tarifas</h2><p>Las tarifas son por vehículo, no por persona — elige el tamaño según tu grupo. Reservar viaje redondo asegura el regreso con tarifa combinada reducida, y cada precio es final: sin cargos de gasolina, casetas ni tiempos de espera.</p><h2>Bueno saber</h2><p>Viernes y sábado por la noche la carretera de playa se congestiona cerca de la zona de fiesta — sal 15 minutos antes para tus reservaciones. Tu chofer puede esperar y hacer el regreso si reservas viaje redondo.</p>",
           "name": "Tulum Centro → Tulum Hotel Zone (up to Rosa Negra)",
-          "slug": "tulum-centro-to-tulum-hotel-zone-rosa-negra",
-          "summary": ""
+          "slug": "tulum-centro-a-zona-hotelera-rosa-negra",
+          "summary": "Traslado privado de Tulum Centro a la Zona Hotelera hasta Rosa Negra — tarifa fija, sin precios dinámicos, puerta a puerta por la carretera de playa."
         }
       }
     },
     {
       "base": {
-        "distance": null,
-        "duration": null,
+        "distance": "10 km",
+        "duration": "~25 min",
         "extras": [],
         "extrasAlts": [],
         "fromLocation": "Tulum Centro",
@@ -634,9 +634,9 @@
                 "price": "700"
               }
             ],
-            "note": null,
-            "noteEs": null,
-            "price": null,
+            "note": "One way · round trip $1,200 MXN",
+            "noteEs": "Sencillo · redondo $1,200 MXN",
+            "price": "$700 MXN",
             "vehicleId": "mh7dq9s851gqkgc40ctbfvas6s8arj8n"
           },
           {
@@ -652,9 +652,9 @@
                 "price": "800"
               }
             ],
-            "note": null,
-            "noteEs": null,
-            "price": null,
+            "note": "One way · round trip $1,300 MXN",
+            "noteEs": "Sencillo · redondo $1,300 MXN",
+            "price": "$800 MXN",
             "vehicleId": "mh70ng1qnn1k4x2c8xgeewxebh8asq3r"
           },
           {
@@ -670,9 +670,9 @@
                 "price": "1200"
               }
             ],
-            "note": null,
-            "noteEs": null,
-            "price": null,
+            "note": "One way · round trip $2,200 MXN",
+            "noteEs": "Sencillo · redondo $2,200 MXN",
+            "price": "$1,200 MXN",
             "vehicleId": "mh72ab4495ym9hrccgkxtq86jx8ar0pt"
           },
           {
@@ -688,9 +688,9 @@
                 "price": "1300"
               }
             ],
-            "note": null,
-            "noteEs": null,
-            "price": null,
+            "note": "One way · round trip $2,300 MXN",
+            "noteEs": "Sencillo · redondo $2,300 MXN",
+            "price": "$1,300 MXN",
             "vehicleId": "mh70jq1nc6vxh3rcv1jzyhzvv98artr1"
           },
           {
@@ -706,34 +706,34 @@
                 "price": "1200"
               }
             ],
-            "note": null,
-            "noteEs": null,
-            "price": null,
+            "note": "One way · round trip $2,200 MXN",
+            "noteEs": "Sencillo · redondo $2,200 MXN",
+            "price": "$1,200 MXN",
             "vehicleId": "mh74686mztvpnyfst2vyj78a958ar5nr"
           }
         ]
       },
       "convexId": "md76fs260t1y5430h7qyve4bf98asyt9",
-      "lastUpdated": "2026-07-18T02:48:31.808Z",
+      "lastUpdated": "2026-07-20T01:45:16.604Z",
       "locales": {
         "en": {
-          "body": "",
+          "body": "<h2>About this transfer</h2><p>Covers the full beach road from town to El Arco at the southern end — about 10 km, reaching the quieter boutique-hotel stretch toward the Sian Ka'an biosphere. Fixed pricing all the way to the last address on the road.</p><h2>What's included</h2><ul><li>Private, air-conditioned vehicle — never shared</li><li>Door-to-door service with a fixed, all-in rate</li><li>Child seats and extra stops available on request</li></ul><h2>Pricing</h2><p>Rates below are per vehicle, not per person — pick the size that fits your group. Round-trip bookings lock in the return at a reduced combined rate, and every price is final: no fuel surcharges, tolls, or waiting fees.</p><h2>Good to know</h2><p>The south end has patchy cell coverage — agree on your pickup time in advance rather than relying on messaging your driver from the beach.</p>",
           "name": "Tulum Centro → Tulum Hotel Zone (up to El Arco)",
           "slug": "tulum-centro-to-tulum-hotel-zone-el-arco",
-          "summary": ""
+          "summary": "Private ride from Tulum Centro to the south Hotel Zone up to El Arco — fixed rate, door-to-door, ideal for beach clubs and the biosphere end."
         },
         "es": {
-          "body": "",
+          "body": "<h2>Sobre este traslado</h2><p>Cubre toda la carretera de playa del pueblo hasta El Arco en el extremo sur — unos 10 km, llegando al tramo tranquilo de hoteles boutique hacia la biósfera de Sian Ka'an. Tarifa fija hasta la última dirección de la carretera.</p><h2>Qué incluye</h2><ul><li>Vehículo privado con aire acondicionado — nunca compartido</li><li>Servicio puerta a puerta con tarifa fija, todo incluido</li><li>Sillas para niños y paradas adicionales disponibles a solicitud</li></ul><h2>Tarifas</h2><p>Las tarifas son por vehículo, no por persona — elige el tamaño según tu grupo. Reservar viaje redondo asegura el regreso con tarifa combinada reducida, y cada precio es final: sin cargos de gasolina, casetas ni tiempos de espera.</p><h2>Bueno saber</h2><p>El extremo sur tiene señal celular irregular — acuerda tu hora de recogida con anticipación en lugar de depender de mensajes desde la playa.</p>",
           "name": "Tulum Centro → Tulum Hotel Zone (up to El Arco)",
-          "slug": "tulum-centro-to-tulum-hotel-zone-el-arco",
-          "summary": ""
+          "slug": "tulum-centro-a-zona-hotelera-el-arco",
+          "summary": "Traslado privado de Tulum Centro a la Zona Hotelera sur hasta El Arco — tarifa fija, puerta a puerta, ideal para clubes de playa y el extremo de la biósfera."
         }
       }
     },
     {
       "base": {
-        "distance": null,
-        "duration": null,
+        "distance": "62 km",
+        "duration": "~55 min",
         "extras": [],
         "extrasAlts": [],
         "fromLocation": "Tulum Centro",
@@ -754,9 +754,9 @@
                 "price": "1400"
               }
             ],
-            "note": null,
-            "noteEs": null,
-            "price": null,
+            "note": "One way · round trip $2,800 MXN",
+            "noteEs": "Sencillo · redondo $2,800 MXN",
+            "price": "$1,400 MXN",
             "vehicleId": "mh7dq9s851gqkgc40ctbfvas6s8arj8n"
           },
           {
@@ -772,9 +772,9 @@
                 "price": "1700"
               }
             ],
-            "note": null,
-            "noteEs": null,
-            "price": null,
+            "note": "One way · round trip $3,000 MXN",
+            "noteEs": "Sencillo · redondo $3,000 MXN",
+            "price": "$1,700 MXN",
             "vehicleId": "mh70ng1qnn1k4x2c8xgeewxebh8asq3r"
           },
           {
@@ -790,9 +790,9 @@
                 "price": "2000"
               }
             ],
-            "note": null,
-            "noteEs": null,
-            "price": null,
+            "note": "One way · round trip $3,800 MXN",
+            "noteEs": "Sencillo · redondo $3,800 MXN",
+            "price": "$2,000 MXN",
             "vehicleId": "mh72ab4495ym9hrccgkxtq86jx8ar0pt"
           },
           {
@@ -808,9 +808,9 @@
                 "price": "2300"
               }
             ],
-            "note": null,
-            "noteEs": null,
-            "price": null,
+            "note": "One way · round trip $4,200 MXN",
+            "noteEs": "Sencillo · redondo $4,200 MXN",
+            "price": "$2,300 MXN",
             "vehicleId": "mh70jq1nc6vxh3rcv1jzyhzvv98artr1"
           },
           {
@@ -826,34 +826,34 @@
                 "price": "2200"
               }
             ],
-            "note": null,
-            "noteEs": null,
-            "price": null,
+            "note": "One way · round trip $4,100 MXN",
+            "noteEs": "Sencillo · redondo $4,100 MXN",
+            "price": "$2,200 MXN",
             "vehicleId": "mh74686mztvpnyfst2vyj78a958ar5nr"
           }
         ]
       },
       "convexId": "md70m1xc2bqafjqf2gaabmnc8h8as6cb",
-      "lastUpdated": "2026-07-18T02:48:31.808Z",
+      "lastUpdated": "2026-07-20T01:45:16.604Z",
       "locales": {
         "en": {
-          "body": "",
+          "body": "<h2>About this transfer</h2><p>62 km up Highway 307 — under an hour door-to-door. Popular for Quinta Avenida shopping days, catching the Cozumel ferry, and nights out that end later than the last colectivo. Your driver drops you exactly where you're going, not at a highway corner.</p><h2>What's included</h2><ul><li>Private, air-conditioned vehicle — never shared</li><li>Door-to-door service with a fixed, all-in rate</li><li>Child seats and extra stops available on request</li></ul><h2>Pricing</h2><p>Rates below are per vehicle, not per person — pick the size that fits your group. Round-trip bookings lock in the return at a reduced combined rate, and every price is final: no fuel surcharges, tolls, or waiting fees.</p><h2>Good to know</h2><p>If you're catching the Cozumel ferry, tell us your boat time — we'll pad the pickup so a slow stretch of the 307 can't cost you the crossing.</p>",
           "name": "Tulum Centro → Playa del Carmen",
           "slug": "tulum-centro-to-playa-del-carmen",
-          "summary": ""
+          "summary": "Private transfer from Tulum Centro to Playa del Carmen — fixed rate, door-to-door, ideal for Quinta Avenida, the ferry to Cozumel, or a night out."
         },
         "es": {
-          "body": "",
+          "body": "<h2>Sobre este traslado</h2><p>62 km por la carretera 307 — menos de una hora puerta a puerta. Popular para días de compras en la Quinta Avenida, tomar el ferry a Cozumel y noches que terminan después del último colectivo. Tu chofer te deja exactamente donde vas, no en una esquina de la carretera.</p><h2>Qué incluye</h2><ul><li>Vehículo privado con aire acondicionado — nunca compartido</li><li>Servicio puerta a puerta con tarifa fija, todo incluido</li><li>Sillas para niños y paradas adicionales disponibles a solicitud</li></ul><h2>Tarifas</h2><p>Las tarifas son por vehículo, no por persona — elige el tamaño según tu grupo. Reservar viaje redondo asegura el regreso con tarifa combinada reducida, y cada precio es final: sin cargos de gasolina, casetas ni tiempos de espera.</p><h2>Bueno saber</h2><p>Si vas a tomar el ferry a Cozumel, dinos tu horario — ajustamos la recogida para que un tramo lento de la 307 no te cueste el cruce.</p>",
           "name": "Tulum Centro → Playa del Carmen",
-          "slug": "tulum-centro-to-playa-del-carmen",
-          "summary": ""
+          "slug": "tulum-centro-a-playa-del-carmen",
+          "summary": "Traslado privado de Tulum Centro a Playa del Carmen — tarifa fija, puerta a puerta, ideal para la Quinta Avenida, el ferry a Cozumel o una salida nocturna."
         }
       }
     },
     {
       "base": {
-        "distance": null,
-        "duration": null,
+        "distance": "70 km",
+        "duration": "~1 h 5 min",
         "extras": [],
         "extrasAlts": [],
         "fromLocation": "Tulum Hotel Zone",
@@ -874,9 +874,9 @@
                 "price": "1700"
               }
             ],
-            "note": null,
-            "noteEs": null,
-            "price": null,
+            "note": "One way · round trip $3,100 MXN",
+            "noteEs": "Sencillo · redondo $3,100 MXN",
+            "price": "$1,700 MXN",
             "vehicleId": "mh7dq9s851gqkgc40ctbfvas6s8arj8n"
           },
           {
@@ -892,9 +892,9 @@
                 "price": "1900"
               }
             ],
-            "note": null,
-            "noteEs": null,
-            "price": null,
+            "note": "One way · round trip $3,600 MXN",
+            "noteEs": "Sencillo · redondo $3,600 MXN",
+            "price": "$1,900 MXN",
             "vehicleId": "mh70ng1qnn1k4x2c8xgeewxebh8asq3r"
           },
           {
@@ -910,9 +910,9 @@
                 "price": "2300"
               }
             ],
-            "note": null,
-            "noteEs": null,
-            "price": null,
+            "note": "One way · round trip $4,300 MXN",
+            "noteEs": "Sencillo · redondo $4,300 MXN",
+            "price": "$2,300 MXN",
             "vehicleId": "mh72ab4495ym9hrccgkxtq86jx8ar0pt"
           },
           {
@@ -928,9 +928,9 @@
                 "price": "2600"
               }
             ],
-            "note": null,
-            "noteEs": null,
-            "price": null,
+            "note": "One way · round trip $4,800 MXN",
+            "noteEs": "Sencillo · redondo $4,800 MXN",
+            "price": "$2,600 MXN",
             "vehicleId": "mh70jq1nc6vxh3rcv1jzyhzvv98artr1"
           },
           {
@@ -946,34 +946,34 @@
                 "price": "2600"
               }
             ],
-            "note": null,
-            "noteEs": null,
-            "price": null,
+            "note": "One way · round trip $4,800 MXN",
+            "noteEs": "Sencillo · redondo $4,800 MXN",
+            "price": "$2,600 MXN",
             "vehicleId": "mh74686mztvpnyfst2vyj78a958ar5nr"
           }
         ]
       },
       "convexId": "md7cywsvdcdzxd8s9ajtxftr3s8as3p3",
-      "lastUpdated": "2026-07-18T02:48:31.808Z",
+      "lastUpdated": "2026-07-20T01:45:16.604Z",
       "locales": {
         "en": {
-          "body": "",
+          "body": "<h2>About this transfer</h2><p>From the beach road out to Highway 307 and up to Playa del Carmen — about 70 km, just over an hour. Pickup at your hotel or beach club door, drop-off anywhere in Playa: Quinta Avenida, the ferry pier, or a specific restaurant.</p><h2>What's included</h2><ul><li>Private, air-conditioned vehicle — never shared</li><li>Door-to-door service with a fixed, all-in rate</li><li>Child seats and extra stops available on request</li></ul><h2>Pricing</h2><p>Rates below are per vehicle, not per person — pick the size that fits your group. Round-trip bookings lock in the return at a reduced combined rate, and every price is final: no fuel surcharges, tolls, or waiting fees.</p><h2>Good to know</h2><p>Add the beach-road factor: pickups deep in the south hotel zone can add 15 minutes before you even reach the highway. Book round trip if you're coming back the same night.</p>",
           "name": "Tulum Hotel Zone → Playa del Carmen",
           "slug": "tulum-hotel-zone-to-playa-del-carmen",
-          "summary": ""
+          "summary": "Private transfer from the Tulum Hotel Zone to Playa del Carmen — fixed rate from your beachfront hotel door to anywhere in Playa."
         },
         "es": {
-          "body": "",
+          "body": "<h2>Sobre este traslado</h2><p>De la carretera de playa a la 307 y hasta Playa del Carmen — unos 70 km, poco más de una hora. Recogida en la puerta de tu hotel o club de playa, y llegada a cualquier punto de Playa: Quinta Avenida, el muelle del ferry o un restaurante específico.</p><h2>Qué incluye</h2><ul><li>Vehículo privado con aire acondicionado — nunca compartido</li><li>Servicio puerta a puerta con tarifa fija, todo incluido</li><li>Sillas para niños y paradas adicionales disponibles a solicitud</li></ul><h2>Tarifas</h2><p>Las tarifas son por vehículo, no por persona — elige el tamaño según tu grupo. Reservar viaje redondo asegura el regreso con tarifa combinada reducida, y cada precio es final: sin cargos de gasolina, casetas ni tiempos de espera.</p><h2>Bueno saber</h2><p>Considera el factor carretera de playa: recogidas al fondo de la zona sur pueden sumar 15 minutos antes de llegar a la carretera. Reserva viaje redondo si vuelves la misma noche.</p>",
           "name": "Tulum Hotel Zone → Playa del Carmen",
-          "slug": "tulum-hotel-zone-to-playa-del-carmen",
-          "summary": ""
+          "slug": "zona-hotelera-tulum-a-playa-del-carmen",
+          "summary": "Traslado privado de la Zona Hotelera de Tulum a Playa del Carmen — tarifa fija desde la puerta de tu hotel frente al mar a cualquier punto de Playa."
         }
       }
     },
     {
       "base": {
-        "distance": null,
-        "duration": null,
+        "distance": "130 km",
+        "duration": "~2 h",
         "extras": [],
         "extrasAlts": [],
         "fromLocation": "Tulum Centro",
@@ -994,9 +994,9 @@
                 "price": "2400"
               }
             ],
-            "note": null,
-            "noteEs": null,
-            "price": null,
+            "note": "One way · round trip $4,800 MXN",
+            "noteEs": "Sencillo · redondo $4,800 MXN",
+            "price": "$2,400 MXN",
             "vehicleId": "mh7dq9s851gqkgc40ctbfvas6s8arj8n"
           },
           {
@@ -1012,9 +1012,9 @@
                 "price": "2800"
               }
             ],
-            "note": null,
-            "noteEs": null,
-            "price": null,
+            "note": "One way · round trip $5,300 MXN",
+            "noteEs": "Sencillo · redondo $5,300 MXN",
+            "price": "$2,800 MXN",
             "vehicleId": "mh70ng1qnn1k4x2c8xgeewxebh8asq3r"
           },
           {
@@ -1030,9 +1030,9 @@
                 "price": "3100"
               }
             ],
-            "note": null,
-            "noteEs": null,
-            "price": null,
+            "note": "One way · round trip $6,000 MXN",
+            "noteEs": "Sencillo · redondo $6,000 MXN",
+            "price": "$3,100 MXN",
             "vehicleId": "mh72ab4495ym9hrccgkxtq86jx8ar0pt"
           },
           {
@@ -1048,9 +1048,9 @@
                 "price": "3600"
               }
             ],
-            "note": null,
-            "noteEs": null,
-            "price": null,
+            "note": "One way · round trip $7,000 MXN",
+            "noteEs": "Sencillo · redondo $7,000 MXN",
+            "price": "$3,600 MXN",
             "vehicleId": "mh70jq1nc6vxh3rcv1jzyhzvv98artr1"
           },
           {
@@ -1066,34 +1066,34 @@
                 "price": "3400"
               }
             ],
-            "note": null,
-            "noteEs": null,
-            "price": null,
+            "note": "One way · round trip $6,200 MXN",
+            "noteEs": "Sencillo · redondo $6,200 MXN",
+            "price": "$3,400 MXN",
             "vehicleId": "mh74686mztvpnyfst2vyj78a958ar5nr"
           }
         ]
       },
       "convexId": "md73hqa8h1dasgpcj0yxmxgyq18arpec",
-      "lastUpdated": "2026-07-18T02:48:31.808Z",
+      "lastUpdated": "2026-07-20T01:45:16.604Z",
       "locales": {
         "en": {
-          "body": "",
+          "body": "<h2>About this transfer</h2><p>130 km north to Cancún's hotel zone — about two hours door-to-door. The private-car choice for concert nights, cruise-ship departures from Puerto Cancún, and hotel moves between the two destinations without wrestling luggage through a bus terminal.</p><h2>What's included</h2><ul><li>Private, air-conditioned vehicle — never shared</li><li>Door-to-door service with a fixed, all-in rate</li><li>Child seats and extra stops available on request</li></ul><h2>Pricing</h2><p>Rates below are per vehicle, not per person — pick the size that fits your group. Round-trip bookings lock in the return at a reduced combined rate, and every price is final: no fuel surcharges, tolls, or waiting fees.</p><h2>Good to know</h2><p>For cruise or event deadlines, tell us the time that matters and we'll build in a buffer — the 307 is reliable but Cancún city traffic can add 20 minutes at rush hour.</p>",
           "name": "Tulum Centro → Cancún Hotel Zone",
           "slug": "tulum-centro-to-cancun-hotel-zone",
-          "summary": ""
+          "summary": "Private transfer from Tulum Centro to the Cancún Hotel Zone — fixed rate, door-to-door, the comfortable way to make dinners, concerts, or cruises."
         },
         "es": {
-          "body": "",
+          "body": "<h2>Sobre este traslado</h2><p>130 km al norte hasta la zona hotelera de Cancún — unas dos horas puerta a puerta. La opción de auto privado para noches de concierto, salidas de crucero desde Puerto Cancún y cambios de hotel entre ambos destinos sin batallar con maletas en una terminal de autobús.</p><h2>Qué incluye</h2><ul><li>Vehículo privado con aire acondicionado — nunca compartido</li><li>Servicio puerta a puerta con tarifa fija, todo incluido</li><li>Sillas para niños y paradas adicionales disponibles a solicitud</li></ul><h2>Tarifas</h2><p>Las tarifas son por vehículo, no por persona — elige el tamaño según tu grupo. Reservar viaje redondo asegura el regreso con tarifa combinada reducida, y cada precio es final: sin cargos de gasolina, casetas ni tiempos de espera.</p><h2>Bueno saber</h2><p>Para cruceros o eventos con horario, dinos la hora que importa y agregamos margen — la 307 es confiable, pero el tráfico de la ciudad de Cancún puede sumar 20 minutos en hora pico.</p>",
           "name": "Tulum Centro → Cancún Hotel Zone",
-          "slug": "tulum-centro-to-cancun-hotel-zone",
-          "summary": ""
+          "slug": "tulum-centro-a-zona-hotelera-cancun",
+          "summary": "Traslado privado de Tulum Centro a la Zona Hotelera de Cancún — tarifa fija, puerta a puerta, la forma cómoda de llegar a cenas, conciertos o cruceros."
         }
       }
     },
     {
       "base": {
-        "distance": null,
-        "duration": null,
+        "distance": "140 km",
+        "duration": "~2 h 10 min",
         "extras": [],
         "extrasAlts": [],
         "fromLocation": "Tulum Hotel Zone",
@@ -1114,9 +1114,9 @@
                 "price": "2600"
               }
             ],
-            "note": null,
-            "noteEs": null,
-            "price": null,
+            "note": "One way · round trip $5,000 MXN",
+            "noteEs": "Sencillo · redondo $5,000 MXN",
+            "price": "$2,600 MXN",
             "vehicleId": "mh7dq9s851gqkgc40ctbfvas6s8arj8n"
           },
           {
@@ -1132,9 +1132,9 @@
                 "price": "3000"
               }
             ],
-            "note": null,
-            "noteEs": null,
-            "price": null,
+            "note": "One way · round trip $5,500 MXN",
+            "noteEs": "Sencillo · redondo $5,500 MXN",
+            "price": "$3,000 MXN",
             "vehicleId": "mh70ng1qnn1k4x2c8xgeewxebh8asq3r"
           },
           {
@@ -1150,9 +1150,9 @@
                 "price": "3400"
               }
             ],
-            "note": null,
-            "noteEs": null,
-            "price": null,
+            "note": "One way · round trip $6,500 MXN",
+            "noteEs": "Sencillo · redondo $6,500 MXN",
+            "price": "$3,400 MXN",
             "vehicleId": "mh72ab4495ym9hrccgkxtq86jx8ar0pt"
           },
           {
@@ -1168,9 +1168,9 @@
                 "price": "3800"
               }
             ],
-            "note": null,
-            "noteEs": null,
-            "price": null,
+            "note": "One way · round trip $7,400 MXN",
+            "noteEs": "Sencillo · redondo $7,400 MXN",
+            "price": "$3,800 MXN",
             "vehicleId": "mh70jq1nc6vxh3rcv1jzyhzvv98artr1"
           },
           {
@@ -1186,34 +1186,34 @@
                 "price": "3600"
               }
             ],
-            "note": null,
-            "noteEs": null,
-            "price": null,
+            "note": "One way · round trip $7,000 MXN",
+            "noteEs": "Sencillo · redondo $7,000 MXN",
+            "price": "$3,600 MXN",
             "vehicleId": "mh74686mztvpnyfst2vyj78a958ar5nr"
           }
         ]
       },
       "convexId": "md7c5j70d9aft6r6bp0wya2k2d8arvgk",
-      "lastUpdated": "2026-07-18T02:48:31.808Z",
+      "lastUpdated": "2026-07-20T01:45:16.604Z",
       "locales": {
         "en": {
-          "body": "",
+          "body": "<h2>About this transfer</h2><p>Beachfront to beachfront: from your Tulum hotel-zone door up to any resort on Cancún's Boulevard Kukulcán — about 140 km, a little over two hours. One car, one rate, both sets of hotel-zone traffic handled by someone who drives them daily.</p><h2>What's included</h2><ul><li>Private, air-conditioned vehicle — never shared</li><li>Door-to-door service with a fixed, all-in rate</li><li>Child seats and extra stops available on request</li></ul><h2>Pricing</h2><p>Rates below are per vehicle, not per person — pick the size that fits your group. Round-trip bookings lock in the return at a reduced combined rate, and every price is final: no fuel surcharges, tolls, or waiting fees.</p><h2>Good to know</h2><p>Resort check-in is usually 3pm — a late-morning pickup from Tulum lands you in Cancún right on time without waiting in a lobby.</p>",
           "name": "Tulum Hotel Zone → Cancún Hotel Zone",
           "slug": "tulum-hotel-zone-to-cancun-hotel-zone",
-          "summary": ""
+          "summary": "Private transfer between the Tulum and Cancún hotel zones — beachfront door to beachfront door at a fixed, all-in rate."
         },
         "es": {
-          "body": "",
+          "body": "<h2>Sobre este traslado</h2><p>De playa a playa: de la puerta de tu hotel en Tulum a cualquier resort del Boulevard Kukulcán en Cancún — unos 140 km, poco más de dos horas. Un auto, una tarifa, y ambos tráficos de zona hotelera en manos de alguien que los maneja a diario.</p><h2>Qué incluye</h2><ul><li>Vehículo privado con aire acondicionado — nunca compartido</li><li>Servicio puerta a puerta con tarifa fija, todo incluido</li><li>Sillas para niños y paradas adicionales disponibles a solicitud</li></ul><h2>Tarifas</h2><p>Las tarifas son por vehículo, no por persona — elige el tamaño según tu grupo. Reservar viaje redondo asegura el regreso con tarifa combinada reducida, y cada precio es final: sin cargos de gasolina, casetas ni tiempos de espera.</p><h2>Bueno saber</h2><p>El check-in de los resorts suele ser a las 3pm — una recogida a media mañana desde Tulum te deja en Cancún justo a tiempo sin esperar en un lobby.</p>",
           "name": "Tulum Hotel Zone → Cancún Hotel Zone",
-          "slug": "tulum-hotel-zone-to-cancun-hotel-zone",
-          "summary": ""
+          "slug": "zona-hotelera-tulum-a-zona-hotelera-cancun",
+          "summary": "Traslado privado entre las zonas hoteleras de Tulum y Cancún — de puerta frente al mar a puerta frente al mar con tarifa fija todo incluido."
         }
       }
     },
     {
       "base": {
-        "distance": null,
-        "duration": null,
+        "distance": "40 km",
+        "duration": "~35 min",
         "extras": [],
         "extrasAlts": [],
         "fromLocation": "Tulum Centro",
@@ -1234,9 +1234,9 @@
                 "price": "1200"
               }
             ],
-            "note": null,
-            "noteEs": null,
-            "price": null,
+            "note": "One way · round trip $2,400 MXN",
+            "noteEs": "Sencillo · redondo $2,400 MXN",
+            "price": "$1,200 MXN",
             "vehicleId": "mh7dq9s851gqkgc40ctbfvas6s8arj8n"
           },
           {
@@ -1252,9 +1252,9 @@
                 "price": "1400"
               }
             ],
-            "note": null,
-            "noteEs": null,
-            "price": null,
+            "note": "One way · round trip $2,900 MXN",
+            "noteEs": "Sencillo · redondo $2,900 MXN",
+            "price": "$1,400 MXN",
             "vehicleId": "mh70ng1qnn1k4x2c8xgeewxebh8asq3r"
           },
           {
@@ -1270,9 +1270,9 @@
                 "price": "1900"
               }
             ],
-            "note": null,
-            "noteEs": null,
-            "price": null,
+            "note": "One way · round trip $3,600 MXN",
+            "noteEs": "Sencillo · redondo $3,600 MXN",
+            "price": "$1,900 MXN",
             "vehicleId": "mh72ab4495ym9hrccgkxtq86jx8ar0pt"
           },
           {
@@ -1288,9 +1288,9 @@
                 "price": "2200"
               }
             ],
-            "note": null,
-            "noteEs": null,
-            "price": null,
+            "note": "One way · round trip $4,100 MXN",
+            "noteEs": "Sencillo · redondo $4,100 MXN",
+            "price": "$2,200 MXN",
             "vehicleId": "mh70jq1nc6vxh3rcv1jzyhzvv98artr1"
           },
           {
@@ -1306,34 +1306,34 @@
                 "price": "2200"
               }
             ],
-            "note": null,
-            "noteEs": null,
-            "price": null,
+            "note": "One way · round trip $4,200 MXN",
+            "noteEs": "Sencillo · redondo $4,200 MXN",
+            "price": "$2,200 MXN",
             "vehicleId": "mh74686mztvpnyfst2vyj78a958ar5nr"
           }
         ]
       },
       "convexId": "md7ap3vqs85r3x81jd64ghhq7s8ark1z",
-      "lastUpdated": "2026-07-18T02:48:31.808Z",
+      "lastUpdated": "2026-07-20T01:45:16.604Z",
       "locales": {
         "en": {
-          "body": "",
+          "body": "<h2>About this transfer</h2><p>40 km north to Puerto Aventuras' gated marina community — around 35 minutes. Common for marina lunches, dolphin-habitat visits, golf, and fishing-charter departures where a fixed pickup time actually matters.</p><h2>What's included</h2><ul><li>Private, air-conditioned vehicle — never shared</li><li>Door-to-door service with a fixed, all-in rate</li><li>Child seats and extra stops available on request</li></ul><h2>Pricing</h2><p>Rates below are per vehicle, not per person — pick the size that fits your group. Round-trip bookings lock in the return at a reduced combined rate, and every price is final: no fuel surcharges, tolls, or waiting fees.</p><h2>Good to know</h2><p>Puerto Aventuras is gated: have your marina restaurant or charter name handy for the guard at the entrance — your driver will handle the rest.</p>",
           "name": "Tulum Centro → Puerto Aventuras",
           "slug": "tulum-centro-to-puerto-aventuras",
-          "summary": ""
+          "summary": "Private transfer from Tulum Centro to Puerto Aventuras — fixed rate to the marina, resorts, or dolphin habitat, door-to-door."
         },
         "es": {
-          "body": "",
+          "body": "<h2>Sobre este traslado</h2><p>40 km al norte a la comunidad cerrada con marina de Puerto Aventuras — alrededor de 35 minutos. Común para comidas en la marina, visitas al hábitat de delfines, golf y salidas de charters de pesca donde una hora fija de recogida realmente importa.</p><h2>Qué incluye</h2><ul><li>Vehículo privado con aire acondicionado — nunca compartido</li><li>Servicio puerta a puerta con tarifa fija, todo incluido</li><li>Sillas para niños y paradas adicionales disponibles a solicitud</li></ul><h2>Tarifas</h2><p>Las tarifas son por vehículo, no por persona — elige el tamaño según tu grupo. Reservar viaje redondo asegura el regreso con tarifa combinada reducida, y cada precio es final: sin cargos de gasolina, casetas ni tiempos de espera.</p><h2>Bueno saber</h2><p>Puerto Aventuras es privado: ten a la mano el nombre de tu restaurante o charter para el guardia de la entrada — tu chofer se encarga del resto.</p>",
           "name": "Tulum Centro → Puerto Aventuras",
-          "slug": "tulum-centro-to-puerto-aventuras",
-          "summary": ""
+          "slug": "tulum-centro-a-puerto-aventuras",
+          "summary": "Traslado privado de Tulum Centro a Puerto Aventuras — tarifa fija a la marina, los resorts o el hábitat de delfines, puerta a puerta."
         }
       }
     },
     {
       "base": {
-        "distance": null,
-        "duration": null,
+        "distance": "48 km",
+        "duration": "~45 min",
         "extras": [],
         "extrasAlts": [],
         "fromLocation": "Tulum Hotel Zone",
@@ -1354,9 +1354,9 @@
                 "price": "1400"
               }
             ],
-            "note": null,
-            "noteEs": null,
-            "price": null,
+            "note": "One way · round trip $2,900 MXN",
+            "noteEs": "Sencillo · redondo $2,900 MXN",
+            "price": "$1,400 MXN",
             "vehicleId": "mh7dq9s851gqkgc40ctbfvas6s8arj8n"
           },
           {
@@ -1372,9 +1372,9 @@
                 "price": "1700"
               }
             ],
-            "note": null,
-            "noteEs": null,
-            "price": null,
+            "note": "One way · round trip $3,400 MXN",
+            "noteEs": "Sencillo · redondo $3,400 MXN",
+            "price": "$1,700 MXN",
             "vehicleId": "mh70ng1qnn1k4x2c8xgeewxebh8asq3r"
           },
           {
@@ -1390,9 +1390,9 @@
                 "price": "2200"
               }
             ],
-            "note": null,
-            "noteEs": null,
-            "price": null,
+            "note": "One way · round trip $4,100 MXN",
+            "noteEs": "Sencillo · redondo $4,100 MXN",
+            "price": "$2,200 MXN",
             "vehicleId": "mh72ab4495ym9hrccgkxtq86jx8ar0pt"
           },
           {
@@ -1408,9 +1408,9 @@
                 "price": "2400"
               }
             ],
-            "note": null,
-            "noteEs": null,
-            "price": null,
+            "note": "One way · round trip $4,600 MXN",
+            "noteEs": "Sencillo · redondo $4,600 MXN",
+            "price": "$2,400 MXN",
             "vehicleId": "mh70jq1nc6vxh3rcv1jzyhzvv98artr1"
           },
           {
@@ -1426,34 +1426,34 @@
                 "price": "2400"
               }
             ],
-            "note": null,
-            "noteEs": null,
-            "price": null,
+            "note": "One way · round trip $4,600 MXN",
+            "noteEs": "Sencillo · redondo $4,600 MXN",
+            "price": "$2,400 MXN",
             "vehicleId": "mh74686mztvpnyfst2vyj78a958ar5nr"
           }
         ]
       },
       "convexId": "md71hzdr8f2p3qhj45a1schhss8arx9k",
-      "lastUpdated": "2026-07-18T02:48:31.808Z",
+      "lastUpdated": "2026-07-20T01:45:16.604Z",
       "locales": {
         "en": {
-          "body": "",
+          "body": "<h2>About this transfer</h2><p>From your beach-road hotel to Puerto Aventuras' marina — about 48 km, 45 minutes with the beach-road exit included. Ideal for charter mornings and marina dinners when you'd rather not drive the 307 at night.</p><h2>What's included</h2><ul><li>Private, air-conditioned vehicle — never shared</li><li>Door-to-door service with a fixed, all-in rate</li><li>Child seats and extra stops available on request</li></ul><h2>Pricing</h2><p>Rates below are per vehicle, not per person — pick the size that fits your group. Round-trip bookings lock in the return at a reduced combined rate, and every price is final: no fuel surcharges, tolls, or waiting fees.</p><h2>Good to know</h2><p>Early charter departures beat the beach-road traffic entirely — a 7am pickup runs a good 10 minutes faster than a mid-morning one.</p>",
           "name": "Tulum Hotel Zone → Puerto Aventuras",
           "slug": "tulum-hotel-zone-to-puerto-aventuras",
-          "summary": ""
+          "summary": "Private transfer from the Tulum Hotel Zone to Puerto Aventuras — beach-road pickup, fixed rate to the marina and resorts."
         },
         "es": {
-          "body": "",
+          "body": "<h2>Sobre este traslado</h2><p>De tu hotel en la carretera de playa a la marina de Puerto Aventuras — unos 48 km, 45 minutos incluida la salida de la carretera de playa. Ideal para mañanas de charter y cenas en la marina cuando prefieres no manejar la 307 de noche.</p><h2>Qué incluye</h2><ul><li>Vehículo privado con aire acondicionado — nunca compartido</li><li>Servicio puerta a puerta con tarifa fija, todo incluido</li><li>Sillas para niños y paradas adicionales disponibles a solicitud</li></ul><h2>Tarifas</h2><p>Las tarifas son por vehículo, no por persona — elige el tamaño según tu grupo. Reservar viaje redondo asegura el regreso con tarifa combinada reducida, y cada precio es final: sin cargos de gasolina, casetas ni tiempos de espera.</p><h2>Bueno saber</h2><p>Las salidas tempranas de charter evitan por completo el tráfico de la playa — una recogida a las 7am corre unos 10 minutos más rápido que una a media mañana.</p>",
           "name": "Tulum Hotel Zone → Puerto Aventuras",
-          "slug": "tulum-hotel-zone-to-puerto-aventuras",
-          "summary": ""
+          "slug": "zona-hotelera-tulum-a-puerto-aventuras",
+          "summary": "Traslado privado de la Zona Hotelera de Tulum a Puerto Aventuras — recogida en la carretera de playa, tarifa fija a la marina y los resorts."
         }
       }
     },
     {
       "base": {
         "distance": null,
-        "duration": null,
+        "duration": "Flexible",
         "extras": [],
         "extrasAlts": [],
         "fromLocation": "Tulum",
@@ -1469,9 +1469,9 @@
                 "price": "500"
               }
             ],
-            "note": null,
-            "noteEs": null,
-            "price": null,
+            "note": "Per hour · max 25 km round trip",
+            "noteEs": "Por hora · máx. 25 km redondos",
+            "price": "$500 MXN",
             "vehicleId": "mh7dq9s851gqkgc40ctbfvas6s8arj8n"
           },
           {
@@ -1482,9 +1482,9 @@
                 "price": "600"
               }
             ],
-            "note": null,
-            "noteEs": null,
-            "price": null,
+            "note": "Per hour · max 25 km round trip",
+            "noteEs": "Por hora · máx. 25 km redondos",
+            "price": "$600 MXN",
             "vehicleId": "mh70ng1qnn1k4x2c8xgeewxebh8asq3r"
           },
           {
@@ -1495,9 +1495,9 @@
                 "price": "1000"
               }
             ],
-            "note": null,
-            "noteEs": null,
-            "price": null,
+            "note": "Per hour · max 25 km round trip",
+            "noteEs": "Por hora · máx. 25 km redondos",
+            "price": "$1,000 MXN",
             "vehicleId": "mh72ab4495ym9hrccgkxtq86jx8ar0pt"
           },
           {
@@ -1508,9 +1508,9 @@
                 "price": "1200"
               }
             ],
-            "note": null,
-            "noteEs": null,
-            "price": null,
+            "note": "Per hour · max 25 km round trip",
+            "noteEs": "Por hora · máx. 25 km redondos",
+            "price": "$1,200 MXN",
             "vehicleId": "mh70jq1nc6vxh3rcv1jzyhzvv98artr1"
           },
           {
@@ -1521,27 +1521,27 @@
                 "price": "1700"
               }
             ],
-            "note": null,
-            "noteEs": null,
-            "price": null,
+            "note": "Per hour · max 25 km round trip",
+            "noteEs": "Por hora · máx. 25 km redondos",
+            "price": "$1,700 MXN",
             "vehicleId": "mh74686mztvpnyfst2vyj78a958ar5nr"
           }
         ]
       },
       "convexId": "md7djty4f694d0s401qn2hnv258asfta",
-      "lastUpdated": "2026-07-18T02:48:31.808Z",
+      "lastUpdated": "2026-07-20T01:45:16.604Z",
       "locales": {
         "en": {
-          "body": "",
+          "body": "<h2>About this transfer</h2><p>Your own car and driver on standby: string together cenotes, beach clubs, the ruins, and dinner without renegotiating a taxi at every stop. The hourly rate covers up to 25 km of driving per hour round trip — perfect for in-town and nearby-cenote days.</p><h2>What's included</h2><ul><li>Private, air-conditioned vehicle — never shared</li><li>Door-to-door service with a fixed, all-in rate</li><li>Child seats and extra stops available on request</li></ul><h2>Pricing</h2><p>Rates below are per vehicle, not per person — pick the size that fits your group. Round-trip bookings lock in the return at a reduced combined rate, and every price is final: no fuel surcharges, tolls, or waiting fees.</p><h2>Good to know</h2><p>For longer excursions (Cobá, Chichén Itzá, Bacalar), ask us for a day-trip quote instead — it prices better than stacking hourly blocks.</p>",
           "name": "Hourly Service (max 25 km round trip)",
           "slug": "hourly-service",
-          "summary": ""
+          "summary": "Private driver by the hour in Tulum — cenote hops, dinner runs, and multi-stop days at a flat hourly rate (max 25 km round trip per hour)."
         },
         "es": {
-          "body": "",
+          "body": "<h2>Sobre este traslado</h2><p>Tu propio auto y chofer en espera: encadena cenotes, clubes de playa, las ruinas y la cena sin renegociar un taxi en cada parada. La tarifa por hora cubre hasta 25 km de recorrido redondo por hora — perfecta para días en el pueblo y cenotes cercanos.</p><h2>Qué incluye</h2><ul><li>Vehículo privado con aire acondicionado — nunca compartido</li><li>Servicio puerta a puerta con tarifa fija, todo incluido</li><li>Sillas para niños y paradas adicionales disponibles a solicitud</li></ul><h2>Tarifas</h2><p>Las tarifas son por vehículo, no por persona — elige el tamaño según tu grupo. Reservar viaje redondo asegura el regreso con tarifa combinada reducida, y cada precio es final: sin cargos de gasolina, casetas ni tiempos de espera.</p><h2>Bueno saber</h2><p>Para excursiones largas (Cobá, Chichén Itzá, Bacalar), pídenos cotización de día completo — sale mejor que acumular bloques por hora.</p>",
           "name": "Hourly Service (max 25 km round trip)",
-          "slug": "hourly-service",
-          "summary": ""
+          "slug": "servicio-por-hora",
+          "summary": "Chofer privado por hora en Tulum — cenotes, cenas y días de varias paradas con tarifa fija por hora (máx. 25 km redondos por hora)."
         }
       }
     }
