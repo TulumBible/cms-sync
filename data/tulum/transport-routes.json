@@ -1,6 +1,1417 @@
 {
-  "syncedAt": "2026-07-03T09:52:24.474Z",
+  "syncedAt": "2026-07-20T01:24:31.851Z",
   "citySlug": "tulum",
-  "transport-routes": [],
+  "transport-routes": [
+    {
+      "base": {
+        "distance": null,
+        "duration": null,
+        "extras": [],
+        "extrasAlts": [],
+        "fromLocation": "Tulum Airport",
+        "heroImage": null,
+        "heroImageAlt": null,
+        "toLocation": "Tulum Centro / La Veleta / Aldea Zama",
+        "vehicleOptions": [
+          {
+            "fares": [
+              {
+                "kind": "round-trip",
+                "price": "2600"
+              },
+              {
+                "kind": "arrival",
+                "price": "1400"
+              },
+              {
+                "kind": "departure",
+                "price": "1200"
+              }
+            ],
+            "note": null,
+            "noteEs": null,
+            "price": null,
+            "vehicleId": "mh7dq9s851gqkgc40ctbfvas6s8arj8n"
+          },
+          {
+            "fares": [
+              {
+                "kind": "round-trip",
+                "price": "2900"
+              },
+              {
+                "kind": "arrival",
+                "price": "1600"
+              },
+              {
+                "kind": "departure",
+                "price": "1300"
+              }
+            ],
+            "note": null,
+            "noteEs": null,
+            "price": null,
+            "vehicleId": "mh70ng1qnn1k4x2c8xgeewxebh8asq3r"
+          },
+          {
+            "fares": [
+              {
+                "kind": "round-trip",
+                "price": "3800"
+              },
+              {
+                "kind": "arrival",
+                "price": "2000"
+              },
+              {
+                "kind": "departure",
+                "price": "1800"
+              }
+            ],
+            "note": null,
+            "noteEs": null,
+            "price": null,
+            "vehicleId": "mh72ab4495ym9hrccgkxtq86jx8ar0pt"
+          },
+          {
+            "fares": [
+              {
+                "kind": "round-trip",
+                "price": "4800"
+              },
+              {
+                "kind": "arrival",
+                "price": "2500"
+              },
+              {
+                "kind": "departure",
+                "price": "2300"
+              }
+            ],
+            "note": null,
+            "noteEs": null,
+            "price": null,
+            "vehicleId": "mh74686mztvpnyfst2vyj78a958ar5nr"
+          }
+        ]
+      },
+      "convexId": "md75h96v0m6n2ga59yfsx47q798asyhm",
+      "lastUpdated": "2026-07-18T02:48:31.808Z",
+      "locales": {
+        "en": {
+          "body": "",
+          "name": "Tulum Airport → Tulum Centro / La Veleta / Aldea Zama",
+          "slug": "tulum-airport-to-tulum-centro-veleta-aldea-zama",
+          "summary": ""
+        },
+        "es": {
+          "body": "",
+          "name": "Tulum Airport → Tulum Centro / La Veleta / Aldea Zama",
+          "slug": "tulum-airport-to-tulum-centro-veleta-aldea-zama",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "base": {
+        "distance": null,
+        "duration": null,
+        "extras": [],
+        "extrasAlts": [],
+        "fromLocation": "Tulum Airport",
+        "heroImage": null,
+        "heroImageAlt": null,
+        "toLocation": "Tulum Hotel Zone",
+        "vehicleOptions": [
+          {
+            "fares": [
+              {
+                "kind": "round-trip",
+                "price": "3100"
+              },
+              {
+                "kind": "arrival",
+                "price": "1700"
+              },
+              {
+                "kind": "departure",
+                "price": "1400"
+              }
+            ],
+            "note": null,
+            "noteEs": null,
+            "price": null,
+            "vehicleId": "mh7dq9s851gqkgc40ctbfvas6s8arj8n"
+          },
+          {
+            "fares": [
+              {
+                "kind": "round-trip",
+                "price": "3400"
+              },
+              {
+                "kind": "arrival",
+                "price": "1800"
+              },
+              {
+                "kind": "departure",
+                "price": "1600"
+              }
+            ],
+            "note": null,
+            "noteEs": null,
+            "price": null,
+            "vehicleId": "mh70ng1qnn1k4x2c8xgeewxebh8asq3r"
+          },
+          {
+            "fares": [
+              {
+                "kind": "round-trip",
+                "price": "4300"
+              },
+              {
+                "kind": "arrival",
+                "price": "2300"
+              },
+              {
+                "kind": "departure",
+                "price": "2000"
+              }
+            ],
+            "note": null,
+            "noteEs": null,
+            "price": null,
+            "vehicleId": "mh72ab4495ym9hrccgkxtq86jx8ar0pt"
+          },
+          {
+            "fares": [
+              {
+                "kind": "round-trip",
+                "price": "5300"
+              },
+              {
+                "kind": "arrival",
+                "price": "2800"
+              },
+              {
+                "kind": "departure",
+                "price": "2500"
+              }
+            ],
+            "note": null,
+            "noteEs": null,
+            "price": null,
+            "vehicleId": "mh74686mztvpnyfst2vyj78a958ar5nr"
+          }
+        ]
+      },
+      "convexId": "md76effwn9mmadvz8m88fsqn8n8as5y0",
+      "lastUpdated": "2026-07-18T02:48:31.808Z",
+      "locales": {
+        "en": {
+          "body": "",
+          "name": "Tulum Airport → Tulum Hotel Zone",
+          "slug": "tulum-airport-to-tulum-hotel-zone",
+          "summary": ""
+        },
+        "es": {
+          "body": "",
+          "name": "Tulum Airport → Tulum Hotel Zone",
+          "slug": "tulum-airport-to-tulum-hotel-zone",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "base": {
+        "distance": null,
+        "duration": null,
+        "extras": [],
+        "extrasAlts": [],
+        "fromLocation": "Cancún Airport",
+        "heroImage": null,
+        "heroImageAlt": null,
+        "toLocation": "Tulum Centro / La Veleta / Aldea Zama",
+        "vehicleOptions": [
+          {
+            "fares": [
+              {
+                "kind": "round-trip",
+                "price": "4600"
+              },
+              {
+                "kind": "arrival",
+                "price": "2400"
+              },
+              {
+                "kind": "departure",
+                "price": "2200"
+              }
+            ],
+            "note": null,
+            "noteEs": null,
+            "price": null,
+            "vehicleId": "mh7dq9s851gqkgc40ctbfvas6s8arj8n"
+          },
+          {
+            "fares": [
+              {
+                "kind": "round-trip",
+                "price": "4800"
+              },
+              {
+                "kind": "arrival",
+                "price": "2500"
+              },
+              {
+                "kind": "departure",
+                "price": "2300"
+              }
+            ],
+            "note": null,
+            "noteEs": null,
+            "price": null,
+            "vehicleId": "mh70ng1qnn1k4x2c8xgeewxebh8asq3r"
+          },
+          {
+            "fares": [
+              {
+                "kind": "round-trip",
+                "price": "6200"
+              },
+              {
+                "kind": "arrival",
+                "price": "3200"
+              },
+              {
+                "kind": "departure",
+                "price": "3000"
+              }
+            ],
+            "note": null,
+            "noteEs": null,
+            "price": null,
+            "vehicleId": "mh72ab4495ym9hrccgkxtq86jx8ar0pt"
+          },
+          {
+            "fares": [
+              {
+                "kind": "round-trip",
+                "price": "7000"
+              },
+              {
+                "kind": "arrival",
+                "price": "3600"
+              },
+              {
+                "kind": "departure",
+                "price": "3400"
+              }
+            ],
+            "note": null,
+            "noteEs": null,
+            "price": null,
+            "vehicleId": "mh74686mztvpnyfst2vyj78a958ar5nr"
+          }
+        ]
+      },
+      "convexId": "md7epm19s272b9takby3fv4fts8aspvd",
+      "lastUpdated": "2026-07-18T02:48:31.808Z",
+      "locales": {
+        "en": {
+          "body": "",
+          "name": "Cancún Airport → Tulum Centro / La Veleta / Aldea Zama",
+          "slug": "cancun-airport-to-tulum-centro-veleta-aldea-zama",
+          "summary": ""
+        },
+        "es": {
+          "body": "",
+          "name": "Cancún Airport → Tulum Centro / La Veleta / Aldea Zama",
+          "slug": "cancun-airport-to-tulum-centro-veleta-aldea-zama",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "base": {
+        "distance": null,
+        "duration": null,
+        "extras": [],
+        "extrasAlts": [],
+        "fromLocation": "Cancún Airport",
+        "heroImage": null,
+        "heroImageAlt": null,
+        "toLocation": "Tulum Hotel Zone",
+        "vehicleOptions": [
+          {
+            "fares": [
+              {
+                "kind": "round-trip",
+                "price": "4800"
+              },
+              {
+                "kind": "arrival",
+                "price": "2500"
+              },
+              {
+                "kind": "departure",
+                "price": "2300"
+              }
+            ],
+            "note": null,
+            "noteEs": null,
+            "price": null,
+            "vehicleId": "mh7dq9s851gqkgc40ctbfvas6s8arj8n"
+          },
+          {
+            "fares": [
+              {
+                "kind": "round-trip",
+                "price": "5000"
+              },
+              {
+                "kind": "arrival",
+                "price": "2600"
+              },
+              {
+                "kind": "departure",
+                "price": "2400"
+              }
+            ],
+            "note": null,
+            "noteEs": null,
+            "price": null,
+            "vehicleId": "mh70ng1qnn1k4x2c8xgeewxebh8asq3r"
+          },
+          {
+            "fares": [
+              {
+                "kind": "round-trip",
+                "price": "6600"
+              },
+              {
+                "kind": "arrival",
+                "price": "3400"
+              },
+              {
+                "kind": "departure",
+                "price": "3200"
+              }
+            ],
+            "note": null,
+            "noteEs": null,
+            "price": null,
+            "vehicleId": "mh72ab4495ym9hrccgkxtq86jx8ar0pt"
+          },
+          {
+            "fares": [
+              {
+                "kind": "round-trip",
+                "price": "7400"
+              },
+              {
+                "kind": "arrival",
+                "price": "3800"
+              },
+              {
+                "kind": "departure",
+                "price": "3600"
+              }
+            ],
+            "note": null,
+            "noteEs": null,
+            "price": null,
+            "vehicleId": "mh74686mztvpnyfst2vyj78a958ar5nr"
+          }
+        ]
+      },
+      "convexId": "md78zrnrvkebx4da54kfez3jt58ask1v",
+      "lastUpdated": "2026-07-18T02:48:31.808Z",
+      "locales": {
+        "en": {
+          "body": "",
+          "name": "Cancún Airport → Tulum Hotel Zone",
+          "slug": "cancun-airport-to-tulum-hotel-zone",
+          "summary": ""
+        },
+        "es": {
+          "body": "",
+          "name": "Cancún Airport → Tulum Hotel Zone",
+          "slug": "cancun-airport-to-tulum-hotel-zone",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "base": {
+        "distance": null,
+        "duration": null,
+        "extras": [],
+        "extrasAlts": [],
+        "fromLocation": "Tulum Centro",
+        "heroImage": null,
+        "heroImageAlt": null,
+        "toLocation": "Tulum Hotel Zone (up to Rosa Negra)",
+        "vehicleOptions": [
+          {
+            "fares": [
+              {
+                "kind": "round-trip",
+                "price": "1100"
+              },
+              {
+                "kind": "one-way",
+                "price": "600"
+              }
+            ],
+            "note": null,
+            "noteEs": null,
+            "price": null,
+            "vehicleId": "mh7dq9s851gqkgc40ctbfvas6s8arj8n"
+          },
+          {
+            "fares": [
+              {
+                "kind": "round-trip",
+                "price": "1200"
+              },
+              {
+                "kind": "one-way",
+                "price": "700"
+              }
+            ],
+            "note": null,
+            "noteEs": null,
+            "price": null,
+            "vehicleId": "mh70ng1qnn1k4x2c8xgeewxebh8asq3r"
+          },
+          {
+            "fares": [
+              {
+                "kind": "round-trip",
+                "price": "2000"
+              },
+              {
+                "kind": "one-way",
+                "price": "1100"
+              }
+            ],
+            "note": null,
+            "noteEs": null,
+            "price": null,
+            "vehicleId": "mh72ab4495ym9hrccgkxtq86jx8ar0pt"
+          },
+          {
+            "fares": [
+              {
+                "kind": "round-trip",
+                "price": "2200"
+              },
+              {
+                "kind": "one-way",
+                "price": "1200"
+              }
+            ],
+            "note": null,
+            "noteEs": null,
+            "price": null,
+            "vehicleId": "mh70jq1nc6vxh3rcv1jzyhzvv98artr1"
+          },
+          {
+            "fares": [
+              {
+                "kind": "round-trip",
+                "price": "1900"
+              },
+              {
+                "kind": "one-way",
+                "price": "1100"
+              }
+            ],
+            "note": null,
+            "noteEs": null,
+            "price": null,
+            "vehicleId": "mh74686mztvpnyfst2vyj78a958ar5nr"
+          }
+        ]
+      },
+      "convexId": "md7cegyg45pyqqnv8kej0ecbx58ashxx",
+      "lastUpdated": "2026-07-18T02:48:31.808Z",
+      "locales": {
+        "en": {
+          "body": "",
+          "name": "Tulum Centro → Tulum Hotel Zone (up to Rosa Negra)",
+          "slug": "tulum-centro-to-tulum-hotel-zone-rosa-negra",
+          "summary": ""
+        },
+        "es": {
+          "body": "",
+          "name": "Tulum Centro → Tulum Hotel Zone (up to Rosa Negra)",
+          "slug": "tulum-centro-to-tulum-hotel-zone-rosa-negra",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "base": {
+        "distance": null,
+        "duration": null,
+        "extras": [],
+        "extrasAlts": [],
+        "fromLocation": "Tulum Centro",
+        "heroImage": null,
+        "heroImageAlt": null,
+        "toLocation": "Tulum Hotel Zone (up to El Arco)",
+        "vehicleOptions": [
+          {
+            "fares": [
+              {
+                "kind": "round-trip",
+                "price": "1200"
+              },
+              {
+                "kind": "one-way",
+                "price": "700"
+              }
+            ],
+            "note": null,
+            "noteEs": null,
+            "price": null,
+            "vehicleId": "mh7dq9s851gqkgc40ctbfvas6s8arj8n"
+          },
+          {
+            "fares": [
+              {
+                "kind": "round-trip",
+                "price": "1300"
+              },
+              {
+                "kind": "one-way",
+                "price": "800"
+              }
+            ],
+            "note": null,
+            "noteEs": null,
+            "price": null,
+            "vehicleId": "mh70ng1qnn1k4x2c8xgeewxebh8asq3r"
+          },
+          {
+            "fares": [
+              {
+                "kind": "round-trip",
+                "price": "2200"
+              },
+              {
+                "kind": "one-way",
+                "price": "1200"
+              }
+            ],
+            "note": null,
+            "noteEs": null,
+            "price": null,
+            "vehicleId": "mh72ab4495ym9hrccgkxtq86jx8ar0pt"
+          },
+          {
+            "fares": [
+              {
+                "kind": "round-trip",
+                "price": "2300"
+              },
+              {
+                "kind": "one-way",
+                "price": "1300"
+              }
+            ],
+            "note": null,
+            "noteEs": null,
+            "price": null,
+            "vehicleId": "mh70jq1nc6vxh3rcv1jzyhzvv98artr1"
+          },
+          {
+            "fares": [
+              {
+                "kind": "round-trip",
+                "price": "2200"
+              },
+              {
+                "kind": "one-way",
+                "price": "1200"
+              }
+            ],
+            "note": null,
+            "noteEs": null,
+            "price": null,
+            "vehicleId": "mh74686mztvpnyfst2vyj78a958ar5nr"
+          }
+        ]
+      },
+      "convexId": "md76fs260t1y5430h7qyve4bf98asyt9",
+      "lastUpdated": "2026-07-18T02:48:31.808Z",
+      "locales": {
+        "en": {
+          "body": "",
+          "name": "Tulum Centro → Tulum Hotel Zone (up to El Arco)",
+          "slug": "tulum-centro-to-tulum-hotel-zone-el-arco",
+          "summary": ""
+        },
+        "es": {
+          "body": "",
+          "name": "Tulum Centro → Tulum Hotel Zone (up to El Arco)",
+          "slug": "tulum-centro-to-tulum-hotel-zone-el-arco",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "base": {
+        "distance": null,
+        "duration": null,
+        "extras": [],
+        "extrasAlts": [],
+        "fromLocation": "Tulum Centro",
+        "heroImage": null,
+        "heroImageAlt": null,
+        "toLocation": "Playa del Carmen",
+        "vehicleOptions": [
+          {
+            "fares": [
+              {
+                "kind": "round-trip",
+                "price": "2800"
+              },
+              {
+                "kind": "one-way",
+                "price": "1400"
+              }
+            ],
+            "note": null,
+            "noteEs": null,
+            "price": null,
+            "vehicleId": "mh7dq9s851gqkgc40ctbfvas6s8arj8n"
+          },
+          {
+            "fares": [
+              {
+                "kind": "round-trip",
+                "price": "3000"
+              },
+              {
+                "kind": "one-way",
+                "price": "1700"
+              }
+            ],
+            "note": null,
+            "noteEs": null,
+            "price": null,
+            "vehicleId": "mh70ng1qnn1k4x2c8xgeewxebh8asq3r"
+          },
+          {
+            "fares": [
+              {
+                "kind": "round-trip",
+                "price": "3800"
+              },
+              {
+                "kind": "one-way",
+                "price": "2000"
+              }
+            ],
+            "note": null,
+            "noteEs": null,
+            "price": null,
+            "vehicleId": "mh72ab4495ym9hrccgkxtq86jx8ar0pt"
+          },
+          {
+            "fares": [
+              {
+                "kind": "round-trip",
+                "price": "4200"
+              },
+              {
+                "kind": "one-way",
+                "price": "2300"
+              }
+            ],
+            "note": null,
+            "noteEs": null,
+            "price": null,
+            "vehicleId": "mh70jq1nc6vxh3rcv1jzyhzvv98artr1"
+          },
+          {
+            "fares": [
+              {
+                "kind": "round-trip",
+                "price": "4100"
+              },
+              {
+                "kind": "one-way",
+                "price": "2200"
+              }
+            ],
+            "note": null,
+            "noteEs": null,
+            "price": null,
+            "vehicleId": "mh74686mztvpnyfst2vyj78a958ar5nr"
+          }
+        ]
+      },
+      "convexId": "md70m1xc2bqafjqf2gaabmnc8h8as6cb",
+      "lastUpdated": "2026-07-18T02:48:31.808Z",
+      "locales": {
+        "en": {
+          "body": "",
+          "name": "Tulum Centro → Playa del Carmen",
+          "slug": "tulum-centro-to-playa-del-carmen",
+          "summary": ""
+        },
+        "es": {
+          "body": "",
+          "name": "Tulum Centro → Playa del Carmen",
+          "slug": "tulum-centro-to-playa-del-carmen",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "base": {
+        "distance": null,
+        "duration": null,
+        "extras": [],
+        "extrasAlts": [],
+        "fromLocation": "Tulum Hotel Zone",
+        "heroImage": null,
+        "heroImageAlt": null,
+        "toLocation": "Playa del Carmen",
+        "vehicleOptions": [
+          {
+            "fares": [
+              {
+                "kind": "round-trip",
+                "price": "3100"
+              },
+              {
+                "kind": "one-way",
+                "price": "1700"
+              }
+            ],
+            "note": null,
+            "noteEs": null,
+            "price": null,
+            "vehicleId": "mh7dq9s851gqkgc40ctbfvas6s8arj8n"
+          },
+          {
+            "fares": [
+              {
+                "kind": "round-trip",
+                "price": "3600"
+              },
+              {
+                "kind": "one-way",
+                "price": "1900"
+              }
+            ],
+            "note": null,
+            "noteEs": null,
+            "price": null,
+            "vehicleId": "mh70ng1qnn1k4x2c8xgeewxebh8asq3r"
+          },
+          {
+            "fares": [
+              {
+                "kind": "round-trip",
+                "price": "4300"
+              },
+              {
+                "kind": "one-way",
+                "price": "2300"
+              }
+            ],
+            "note": null,
+            "noteEs": null,
+            "price": null,
+            "vehicleId": "mh72ab4495ym9hrccgkxtq86jx8ar0pt"
+          },
+          {
+            "fares": [
+              {
+                "kind": "round-trip",
+                "price": "4800"
+              },
+              {
+                "kind": "one-way",
+                "price": "2600"
+              }
+            ],
+            "note": null,
+            "noteEs": null,
+            "price": null,
+            "vehicleId": "mh70jq1nc6vxh3rcv1jzyhzvv98artr1"
+          },
+          {
+            "fares": [
+              {
+                "kind": "round-trip",
+                "price": "4800"
+              },
+              {
+                "kind": "one-way",
+                "price": "2600"
+              }
+            ],
+            "note": null,
+            "noteEs": null,
+            "price": null,
+            "vehicleId": "mh74686mztvpnyfst2vyj78a958ar5nr"
+          }
+        ]
+      },
+      "convexId": "md7cywsvdcdzxd8s9ajtxftr3s8as3p3",
+      "lastUpdated": "2026-07-18T02:48:31.808Z",
+      "locales": {
+        "en": {
+          "body": "",
+          "name": "Tulum Hotel Zone → Playa del Carmen",
+          "slug": "tulum-hotel-zone-to-playa-del-carmen",
+          "summary": ""
+        },
+        "es": {
+          "body": "",
+          "name": "Tulum Hotel Zone → Playa del Carmen",
+          "slug": "tulum-hotel-zone-to-playa-del-carmen",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "base": {
+        "distance": null,
+        "duration": null,
+        "extras": [],
+        "extrasAlts": [],
+        "fromLocation": "Tulum Centro",
+        "heroImage": null,
+        "heroImageAlt": null,
+        "toLocation": "Cancún Hotel Zone",
+        "vehicleOptions": [
+          {
+            "fares": [
+              {
+                "kind": "round-trip",
+                "price": "4800"
+              },
+              {
+                "kind": "one-way",
+                "price": "2400"
+              }
+            ],
+            "note": null,
+            "noteEs": null,
+            "price": null,
+            "vehicleId": "mh7dq9s851gqkgc40ctbfvas6s8arj8n"
+          },
+          {
+            "fares": [
+              {
+                "kind": "round-trip",
+                "price": "5300"
+              },
+              {
+                "kind": "one-way",
+                "price": "2800"
+              }
+            ],
+            "note": null,
+            "noteEs": null,
+            "price": null,
+            "vehicleId": "mh70ng1qnn1k4x2c8xgeewxebh8asq3r"
+          },
+          {
+            "fares": [
+              {
+                "kind": "round-trip",
+                "price": "6000"
+              },
+              {
+                "kind": "one-way",
+                "price": "3100"
+              }
+            ],
+            "note": null,
+            "noteEs": null,
+            "price": null,
+            "vehicleId": "mh72ab4495ym9hrccgkxtq86jx8ar0pt"
+          },
+          {
+            "fares": [
+              {
+                "kind": "round-trip",
+                "price": "7000"
+              },
+              {
+                "kind": "one-way",
+                "price": "3600"
+              }
+            ],
+            "note": null,
+            "noteEs": null,
+            "price": null,
+            "vehicleId": "mh70jq1nc6vxh3rcv1jzyhzvv98artr1"
+          },
+          {
+            "fares": [
+              {
+                "kind": "round-trip",
+                "price": "6200"
+              },
+              {
+                "kind": "one-way",
+                "price": "3400"
+              }
+            ],
+            "note": null,
+            "noteEs": null,
+            "price": null,
+            "vehicleId": "mh74686mztvpnyfst2vyj78a958ar5nr"
+          }
+        ]
+      },
+      "convexId": "md73hqa8h1dasgpcj0yxmxgyq18arpec",
+      "lastUpdated": "2026-07-18T02:48:31.808Z",
+      "locales": {
+        "en": {
+          "body": "",
+          "name": "Tulum Centro → Cancún Hotel Zone",
+          "slug": "tulum-centro-to-cancun-hotel-zone",
+          "summary": ""
+        },
+        "es": {
+          "body": "",
+          "name": "Tulum Centro → Cancún Hotel Zone",
+          "slug": "tulum-centro-to-cancun-hotel-zone",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "base": {
+        "distance": null,
+        "duration": null,
+        "extras": [],
+        "extrasAlts": [],
+        "fromLocation": "Tulum Hotel Zone",
+        "heroImage": null,
+        "heroImageAlt": null,
+        "toLocation": "Cancún Hotel Zone",
+        "vehicleOptions": [
+          {
+            "fares": [
+              {
+                "kind": "round-trip",
+                "price": "5000"
+              },
+              {
+                "kind": "one-way",
+                "price": "2600"
+              }
+            ],
+            "note": null,
+            "noteEs": null,
+            "price": null,
+            "vehicleId": "mh7dq9s851gqkgc40ctbfvas6s8arj8n"
+          },
+          {
+            "fares": [
+              {
+                "kind": "round-trip",
+                "price": "5500"
+              },
+              {
+                "kind": "one-way",
+                "price": "3000"
+              }
+            ],
+            "note": null,
+            "noteEs": null,
+            "price": null,
+            "vehicleId": "mh70ng1qnn1k4x2c8xgeewxebh8asq3r"
+          },
+          {
+            "fares": [
+              {
+                "kind": "round-trip",
+                "price": "6500"
+              },
+              {
+                "kind": "one-way",
+                "price": "3400"
+              }
+            ],
+            "note": null,
+            "noteEs": null,
+            "price": null,
+            "vehicleId": "mh72ab4495ym9hrccgkxtq86jx8ar0pt"
+          },
+          {
+            "fares": [
+              {
+                "kind": "round-trip",
+                "price": "7400"
+              },
+              {
+                "kind": "one-way",
+                "price": "3800"
+              }
+            ],
+            "note": null,
+            "noteEs": null,
+            "price": null,
+            "vehicleId": "mh70jq1nc6vxh3rcv1jzyhzvv98artr1"
+          },
+          {
+            "fares": [
+              {
+                "kind": "round-trip",
+                "price": "7000"
+              },
+              {
+                "kind": "one-way",
+                "price": "3600"
+              }
+            ],
+            "note": null,
+            "noteEs": null,
+            "price": null,
+            "vehicleId": "mh74686mztvpnyfst2vyj78a958ar5nr"
+          }
+        ]
+      },
+      "convexId": "md7c5j70d9aft6r6bp0wya2k2d8arvgk",
+      "lastUpdated": "2026-07-18T02:48:31.808Z",
+      "locales": {
+        "en": {
+          "body": "",
+          "name": "Tulum Hotel Zone → Cancún Hotel Zone",
+          "slug": "tulum-hotel-zone-to-cancun-hotel-zone",
+          "summary": ""
+        },
+        "es": {
+          "body": "",
+          "name": "Tulum Hotel Zone → Cancún Hotel Zone",
+          "slug": "tulum-hotel-zone-to-cancun-hotel-zone",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "base": {
+        "distance": null,
+        "duration": null,
+        "extras": [],
+        "extrasAlts": [],
+        "fromLocation": "Tulum Centro",
+        "heroImage": null,
+        "heroImageAlt": null,
+        "toLocation": "Puerto Aventuras",
+        "vehicleOptions": [
+          {
+            "fares": [
+              {
+                "kind": "round-trip",
+                "price": "2400"
+              },
+              {
+                "kind": "one-way",
+                "price": "1200"
+              }
+            ],
+            "note": null,
+            "noteEs": null,
+            "price": null,
+            "vehicleId": "mh7dq9s851gqkgc40ctbfvas6s8arj8n"
+          },
+          {
+            "fares": [
+              {
+                "kind": "round-trip",
+                "price": "2900"
+              },
+              {
+                "kind": "one-way",
+                "price": "1400"
+              }
+            ],
+            "note": null,
+            "noteEs": null,
+            "price": null,
+            "vehicleId": "mh70ng1qnn1k4x2c8xgeewxebh8asq3r"
+          },
+          {
+            "fares": [
+              {
+                "kind": "round-trip",
+                "price": "3600"
+              },
+              {
+                "kind": "one-way",
+                "price": "1900"
+              }
+            ],
+            "note": null,
+            "noteEs": null,
+            "price": null,
+            "vehicleId": "mh72ab4495ym9hrccgkxtq86jx8ar0pt"
+          },
+          {
+            "fares": [
+              {
+                "kind": "round-trip",
+                "price": "4100"
+              },
+              {
+                "kind": "one-way",
+                "price": "2200"
+              }
+            ],
+            "note": null,
+            "noteEs": null,
+            "price": null,
+            "vehicleId": "mh70jq1nc6vxh3rcv1jzyhzvv98artr1"
+          },
+          {
+            "fares": [
+              {
+                "kind": "round-trip",
+                "price": "4200"
+              },
+              {
+                "kind": "one-way",
+                "price": "2200"
+              }
+            ],
+            "note": null,
+            "noteEs": null,
+            "price": null,
+            "vehicleId": "mh74686mztvpnyfst2vyj78a958ar5nr"
+          }
+        ]
+      },
+      "convexId": "md7ap3vqs85r3x81jd64ghhq7s8ark1z",
+      "lastUpdated": "2026-07-18T02:48:31.808Z",
+      "locales": {
+        "en": {
+          "body": "",
+          "name": "Tulum Centro → Puerto Aventuras",
+          "slug": "tulum-centro-to-puerto-aventuras",
+          "summary": ""
+        },
+        "es": {
+          "body": "",
+          "name": "Tulum Centro → Puerto Aventuras",
+          "slug": "tulum-centro-to-puerto-aventuras",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "base": {
+        "distance": null,
+        "duration": null,
+        "extras": [],
+        "extrasAlts": [],
+        "fromLocation": "Tulum Hotel Zone",
+        "heroImage": null,
+        "heroImageAlt": null,
+        "toLocation": "Puerto Aventuras",
+        "vehicleOptions": [
+          {
+            "fares": [
+              {
+                "kind": "round-trip",
+                "price": "2900"
+              },
+              {
+                "kind": "one-way",
+                "price": "1400"
+              }
+            ],
+            "note": null,
+            "noteEs": null,
+            "price": null,
+            "vehicleId": "mh7dq9s851gqkgc40ctbfvas6s8arj8n"
+          },
+          {
+            "fares": [
+              {
+                "kind": "round-trip",
+                "price": "3400"
+              },
+              {
+                "kind": "one-way",
+                "price": "1700"
+              }
+            ],
+            "note": null,
+            "noteEs": null,
+            "price": null,
+            "vehicleId": "mh70ng1qnn1k4x2c8xgeewxebh8asq3r"
+          },
+          {
+            "fares": [
+              {
+                "kind": "round-trip",
+                "price": "4100"
+              },
+              {
+                "kind": "one-way",
+                "price": "2200"
+              }
+            ],
+            "note": null,
+            "noteEs": null,
+            "price": null,
+            "vehicleId": "mh72ab4495ym9hrccgkxtq86jx8ar0pt"
+          },
+          {
+            "fares": [
+              {
+                "kind": "round-trip",
+                "price": "4600"
+              },
+              {
+                "kind": "one-way",
+                "price": "2400"
+              }
+            ],
+            "note": null,
+            "noteEs": null,
+            "price": null,
+            "vehicleId": "mh70jq1nc6vxh3rcv1jzyhzvv98artr1"
+          },
+          {
+            "fares": [
+              {
+                "kind": "round-trip",
+                "price": "4600"
+              },
+              {
+                "kind": "one-way",
+                "price": "2400"
+              }
+            ],
+            "note": null,
+            "noteEs": null,
+            "price": null,
+            "vehicleId": "mh74686mztvpnyfst2vyj78a958ar5nr"
+          }
+        ]
+      },
+      "convexId": "md71hzdr8f2p3qhj45a1schhss8arx9k",
+      "lastUpdated": "2026-07-18T02:48:31.808Z",
+      "locales": {
+        "en": {
+          "body": "",
+          "name": "Tulum Hotel Zone → Puerto Aventuras",
+          "slug": "tulum-hotel-zone-to-puerto-aventuras",
+          "summary": ""
+        },
+        "es": {
+          "body": "",
+          "name": "Tulum Hotel Zone → Puerto Aventuras",
+          "slug": "tulum-hotel-zone-to-puerto-aventuras",
+          "summary": ""
+        }
+      }
+    },
+    {
+      "base": {
+        "distance": null,
+        "duration": null,
+        "extras": [],
+        "extrasAlts": [],
+        "fromLocation": "Tulum",
+        "heroImage": null,
+        "heroImageAlt": null,
+        "toLocation": "Hourly / as directed",
+        "vehicleOptions": [
+          {
+            "fares": [
+              {
+                "kind": "hourly",
+                "price": "500"
+              }
+            ],
+            "note": null,
+            "noteEs": null,
+            "price": null,
+            "vehicleId": "mh7dq9s851gqkgc40ctbfvas6s8arj8n"
+          },
+          {
+            "fares": [
+              {
+                "kind": "hourly",
+                "price": "600"
+              }
+            ],
+            "note": null,
+            "noteEs": null,
+            "price": null,
+            "vehicleId": "mh70ng1qnn1k4x2c8xgeewxebh8asq3r"
+          },
+          {
+            "fares": [
+              {
+                "kind": "hourly",
+                "price": "1000"
+              }
+            ],
+            "note": null,
+            "noteEs": null,
+            "price": null,
+            "vehicleId": "mh72ab4495ym9hrccgkxtq86jx8ar0pt"
+          },
+          {
+            "fares": [
+              {
+                "kind": "hourly",
+                "price": "1200"
+              }
+            ],
+            "note": null,
+            "noteEs": null,
+            "price": null,
+            "vehicleId": "mh70jq1nc6vxh3rcv1jzyhzvv98artr1"
+          },
+          {
+            "fares": [
+              {
+                "kind": "hourly",
+                "price": "1700"
+              }
+            ],
+            "note": null,
+            "noteEs": null,
+            "price": null,
+            "vehicleId": "mh74686mztvpnyfst2vyj78a958ar5nr"
+          }
+        ]
+      },
+      "convexId": "md7djty4f694d0s401qn2hnv258asfta",
+      "lastUpdated": "2026-07-18T02:48:31.808Z",
+      "locales": {
+        "en": {
+          "body": "",
+          "name": "Hourly Service (max 25 km round trip)",
+          "slug": "hourly-service",
+          "summary": ""
+        },
+        "es": {
+          "body": "",
+          "name": "Hourly Service (max 25 km round trip)",
+          "slug": "hourly-service",
+          "summary": ""
+        }
+      }
+    }
+  ],
   "mode": "published"
 }
