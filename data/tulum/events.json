@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-07-21T20:00:32.777Z",
+  "syncedAt": "2026-07-22T00:00:24.666Z",
   "citySlug": "tulum",
   "events": [
     {
@@ -28,7 +28,7 @@
         "ticketTiers": [
           {
             "currency": "MXN",
-            "id": "74O1V30cMXj5npXY4PaglioNf8bxjVeoOuP9vUi3JSKneLMY9Klqi9JECdfQJGv219OH45AO2xbHjzNsJ3YXrQ==",
+            "id": "ODwEL9y9urMMpkVMyd/VNV7hGf0DGf75h0U9uf2u/XwBC4swsPIPJE9uRuam0PA0LCK60U6pdiTsyaiPUr5OGQ==",
             "isTable": false,
             "name": "Guest List",
             "price": 0,
@@ -40,7 +40,7 @@
           },
           {
             "currency": "MXN",
-            "id": "UKBNDsnXRgUabtV/nLaU8YrT8eCrEbncL8cla/0H9LMoi1I5T23IyKjYdfEKmz5UEoj3Z7+tgw/JC4ijrXzTMw==",
+            "id": "Z43ib1YSbQeH2xPET10l/AslLZ2EY3lhZovw6ZG4JPC6nTMGar9OHRuqVGkUUvt3j2Uz0ceZaiYCt5NbopiQNw==",
             "isTable": true,
             "maxGuests": 4,
             "minGuests": 2,
@@ -53,7 +53,7 @@
           },
           {
             "currency": "MXN",
-            "id": "4aDTj4im9nwu5z5FF5HuXakl4uCUOmgTIiVWML4LGzelDujmJobF8zMWQgp/zIguuWI+GBvk5dMGteuRHZAseg==",
+            "id": "LyRMZKJMrvQ0Fw7mKkQFy4XGn2uy2nOhTTfvZzFUYq0p0Ai7KSMVi+hVoT3EvCbbSdsFpIALIzVKv1RhHBuZ8Q==",
             "isTable": false,
             "name": "Early Bird",
             "price": 240,
@@ -64,7 +64,7 @@
           },
           {
             "currency": "MXN",
-            "id": "9XtBYWlrcqS391eqSDRqPNgy2FUQ/gshxOCaukgTOlMkJMX3XlcxznCaz1hFOo5qZGTaKmnxJSkqgCt0n9tnzQ==",
+            "id": "7EBac0lFus143dtKr/OtA+OpiEW7o0Lj3yJfVIpbccAPN6+M5V83YOHONBSPA4MsOroHVSCgyu88EHcZQAPFUg==",
             "isTable": false,
             "name": "Concert & Wine Experience",
             "price": 390,
