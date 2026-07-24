@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-07-24T19:01:30.734Z",
+  "syncedAt": "2026-07-24T19:02:00.501Z",
   "citySlug": "tulum",
   "venues": [
     {
@@ -272,14 +272,20 @@
         "category": "rooftop",
         "coordinates": null,
         "coverImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/cd1699e6-2093-4a7c-c367-1ea7c526da00/public",
-        "coverImageAlt": null,
+        "coverImageAlt": "",
         "drinkMenuUrl": "https://cdn.prod.website-files.com/6357fd6cab073f81a8eb1b51/66d3b2878fa4a872b510634a_Tulum%20Menu%20English.pdf",
         "faqIds": [],
         "foodMenuUrl": "https://cdn.prod.website-files.com/6357fd6cab073f81a8eb1b51/66d3b2878fa4a872b51062d6_Tulum%20M.A%20ING.pdf",
         "googleMapsCode": "6G3X+WV Tulum, Quintana Roo",
         "googlePlaceId": null,
         "hideReservationForm": true,
-        "imageAlts": [],
+        "imageAlts": [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
         "imageUrls": [
           "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/cd1699e6-2093-4a7c-c367-1ea7c526da00/public",
           "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/4996c0f3-1ee9-4a66-a134-ccf8c789f200/public",
@@ -293,10 +299,10 @@
         "openingHoursHtml": "",
         "phone": null,
         "pricing": "$$$",
-        "priority": 5,
-        "promotion": null,
+        "priority": 2,
+        "promotion": "normal",
         "publishedAt": "2026-04-26T01:08:54.761Z",
-        "reservationDisabledDays": null,
+        "reservationDisabledDays": "",
         "reviewIds": [],
         "tableLayoutAlt": null,
         "tableLayoutUrl": null,
@@ -304,7 +310,7 @@
         "website": null
       },
       "convexId": "jh7bbszfqy5r93mtpscfzmqdv17qznez",
-      "lastUpdated": "2026-04-26T01:08:46.010Z",
+      "lastUpdated": "2026-07-24T19:01:47.126Z",
       "locales": {
         "en": {
           "address": "Mayan Monkey Hostel Tulum, Av. Coba Sur S/N, 77780 Tulum, Q.R.",
@@ -312,6 +318,7 @@
           "description": "Mayan Monkey Tulum’s rooftop bar located between Downtown and Hotel Zone is a vibrant venue where you can enjoy a mix of live music, DJ sets, and themed events.",
           "feesHtml": "<p id=\"\">Free Entrance and No Min. Consumption</p>",
           "menuDescription": "Affordable Mexican Menu",
+          "metaDescription": "",
           "name": "Mayan Monkey",
           "slug": "mayan-monkey-tulum",
           "tableInformation": ""
@@ -322,6 +329,7 @@
           "description": "Mayan Monkey Tulum’s rooftop bar located between Downtown and Hotel Zone is a vibrant venue where you can enjoy a mix of live music, DJ sets, and themed events.",
           "feesHtml": "<p id=\"\">Free Entrance and No Min. Consumption</p>",
           "menuDescription": "Affordable Mexican Menu",
+          "metaDescription": "",
           "name": "Mayan Monkey",
           "slug": "mayan-monkey-tulum",
           "tableInformation": ""
