@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-07-24T19:00:01.889Z",
+  "syncedAt": "2026-07-24T19:00:25.015Z",
   "citySlug": "tulum",
   "venues": [
     {
@@ -678,7 +678,12 @@
     },
     {
       "base": {
-        "amenityIds": [],
+        "amenityIds": [
+          "jn70zdmazn719gygc3k7335zxn859dvw",
+          "jn785e6n78fzxfq3e6yc4z206s858vs7",
+          "jn78wp2bkm0sv6aber490necah858phw",
+          "jn70zn5gpwjkfxwnbkd4948rv5859d8d"
+        ],
         "area": "hotel-zone",
         "category": "beachclub",
         "coordinates": null,
@@ -712,7 +717,7 @@
         "pricing": "$$$",
         "priority": 4,
         "promotion": "normal",
-        "publishedAt": "2026-06-21T23:19:50.945Z",
+        "publishedAt": "2026-07-24T18:59:43.059Z",
         "reservationDisabledDays": "",
         "reviewIds": [],
         "tableLayoutAlt": null,
@@ -721,7 +726,7 @@
         "website": null
       },
       "convexId": "jh78dedjb1ax2fn62m55q31k857qyzdj",
-      "lastUpdated": "2026-07-24T18:59:42.837Z",
+      "lastUpdated": "2026-07-24T19:00:01.706Z",
       "locales": {
         "en": {
           "address": "Av Boca Paila KM 9.5, Tulum Beach, Zona Costera, 77780 Tulum, Q.R.",
