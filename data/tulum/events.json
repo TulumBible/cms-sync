@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-07-24T04:00:24.157Z",
+  "syncedAt": "2026-07-24T08:00:29.081Z",
   "citySlug": "tulum",
   "events": [
     {
@@ -28,48 +28,36 @@
         "ticketTiers": [
           {
             "currency": "MXN",
-            "id": "0yvm2RDpDAxR1seqTsCukMUXPtuFNQKhMdv6h1RR855npFPXwd1+/ehXjm6peHzOk+27301OW842TI0IGMYlxA==",
-            "isTable": false,
-            "name": "Guest List",
-            "price": 0,
-            "priceWithFees": 0,
-            "replacementText": "Free",
-            "sortOrder": 1,
-            "status": "sold_out",
-            "symbol": "Mex$"
-          },
-          {
-            "currency": "MXN",
-            "id": "kuZp4DV3lvjIMu4gtijwGmRUD+N7z3pB0iLn70HTCNiVn6VZzDtTB76t+bb6lsbMRESxXR7U3FINvVvMtE/zAA==",
+            "id": "U3/JXtM1CWTUQPvXVBLwUw+1C3O7HixtkVcA9fF0rsLwH2JEmrtqfoTO0k0swx5r18qlvAyhlAJP8p0uigLAbw==",
             "isTable": true,
             "maxGuests": 4,
             "minGuests": 2,
             "name": "Table Experience",
             "price": 2200,
             "priceWithFees": 2200,
+            "sortOrder": 1,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "vq3K8eGm29N0d2K4kf1iGkvIXbS/0Nmv7XTe/2kQTYtYMwXlufq9LO9kBus/UW7Vy7F12KHY+0SeTgIkjWAZ8g==",
+            "isTable": false,
+            "name": "Early Bird",
+            "price": 240,
+            "priceWithFees": 240,
             "sortOrder": 2,
             "status": "on_sale",
             "symbol": "Mex$"
           },
           {
             "currency": "MXN",
-            "id": "wylZbFEDpZ+95y8oH/jYgsPZj/XcSh5vmLmRGpL9mRV/MBhBVnoRRt4EW93SJc9RPWr156gNKblksZjg8GgKTA==",
-            "isTable": false,
-            "name": "Early Bird",
-            "price": 240,
-            "priceWithFees": 240,
-            "sortOrder": 3,
-            "status": "on_sale",
-            "symbol": "Mex$"
-          },
-          {
-            "currency": "MXN",
-            "id": "NEURl2kaByUrPZWlwaf7ttg2WdJafNZ+5X1tB2GV4ZSjJkUJ+2tWg+J+KaVIAix6P3uNv2YwP3xs6croGOzcFQ==",
+            "id": "/2kFvGyICD5CB7WSxsI+i6Nob1fhtfIWdwXZgTFTzc3qSg30/Y0edLinAfdANKoVlU4pgH7277cQRxOcYW1adQ==",
             "isTable": false,
             "name": "Concert & Wine Experience",
             "price": 390,
             "priceWithFees": 390,
-            "sortOrder": 4,
+            "sortOrder": 3,
             "status": "on_sale",
             "symbol": "Mex$"
           }
