@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-07-30T04:00:40.579Z",
+  "syncedAt": "2026-07-30T04:18:25.204Z",
   "citySlug": "tulum",
   "venues": [
     {
@@ -22,7 +22,6 @@
         "isFeatured": false,
         "isFeaturedOnCoreTulum": false,
         "openingHoursHtml": "",
-        "phone": null,
         "pricing": "$$",
         "priority": 5,
         "promotion": null,
@@ -31,8 +30,7 @@
         "reviewIds": [],
         "tableLayoutAlt": null,
         "tableLayoutUrl": null,
-        "tags": [],
-        "website": null
+        "tags": []
       },
       "convexId": "jh73h95kjmbasdwd5dqpqfsxd17qygvv",
       "lastUpdated": "2026-04-19T04:15:44.671Z",
@@ -43,6 +41,7 @@
           "description": "",
           "feesHtml": "",
           "menuDescription": "",
+          "metaDescription": "",
           "name": "Umi Tulum",
           "slug": "umi",
           "tableInformation": ""
@@ -53,6 +52,7 @@
           "description": "",
           "feesHtml": "",
           "menuDescription": "",
+          "metaDescription": "",
           "name": "Umi Tulum",
           "slug": "umi",
           "tableInformation": ""
@@ -67,7 +67,7 @@
           "jn78wp2bkm0sv6aber490necah858phw",
           "jn70zn5gpwjkfxwnbkd4948rv5859d8d"
         ],
-        "area": "Lagoon Nopalitos",
+        "area": "lagoon-nopalitos",
         "category": "lagoon",
         "coordinates": null,
         "coverImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/231dc16c-5807-490e-f132-b35494a73900/public",
@@ -96,7 +96,6 @@
         "isFeatured": false,
         "isFeaturedOnCoreTulum": false,
         "openingHoursHtml": "<p id=\"\">10:30 - 19:00</p><p id=\"\">10:30 - 19:00</p><p id=\"\">10:30 - 19:00</p><p id=\"\">10:30 - 19:00</p><p id=\"\">10:30 - 19:00</p><p id=\"\">10:30 - 19:00</p><p id=\"\">10:30 - 19:00</p>",
-        "phone": null,
         "pricing": "$$$",
         "priority": 1,
         "promotion": "normal",
@@ -105,8 +104,7 @@
         "reviewIds": [],
         "tableLayoutAlt": null,
         "tableLayoutUrl": null,
-        "tags": [],
-        "website": null
+        "tags": []
       },
       "convexId": "jh78cwez1x990dm1nzrjpss7ph7qyes0",
       "lastUpdated": "2026-06-22T00:16:33.773Z",
@@ -117,6 +115,7 @@
           "description": "Neek Tulum is a pet-friendly lagoon retreat offering a relaxed and exclusive escape. Enjoy crystal-clear waters, complimentary kayaks & paddle boards, and a laid-back atmosphere.",
           "feesHtml": "<p>Cover - 300 MXN</p>",
           "menuDescription": "",
+          "metaDescription": "",
           "name": "Neek Tulum",
           "slug": "neek-tulum",
           "tableInformation": ""
@@ -127,6 +126,7 @@
           "description": "Neek Tulum is a pet-friendly lagoon retreat offering a relaxed and exclusive escape. Enjoy crystal-clear waters, complimentary kayaks & paddle boards, and a laid-back atmosphere.",
           "feesHtml": "<p>Cover - 300 MXN</p>",
           "menuDescription": "",
+          "metaDescription": "",
           "name": "Neek Tulum",
           "slug": "neek-tulum",
           "tableInformation": ""
@@ -165,7 +165,6 @@
         "isFeatured": false,
         "isFeaturedOnCoreTulum": false,
         "openingHoursHtml": "<p>17:00 - 01:00</p><p>17:00 - 01:00</p><p>17:00 - 01:00</p><p>17:00 - 01:00</p><p>17:00 - 01:00</p><p>17:00 - 01:00</p><p>17:00 - 01:00</p>",
-        "phone": null,
         "pricing": "$$",
         "priority": 1,
         "promotion": "editors-pick",
@@ -174,8 +173,7 @@
         "reviewIds": [],
         "tableLayoutAlt": null,
         "tableLayoutUrl": null,
-        "tags": [],
-        "website": null
+        "tags": []
       },
       "convexId": "jh78a095xj124gadjm89dd42ts7qzg4b",
       "lastUpdated": "2026-06-21T23:20:33.267Z",
@@ -186,6 +184,7 @@
           "description": "Ilios: Greek cuisine and warm hospitality, this elegant restaurant provides exceptional service and remains vibrant year-round.",
           "feesHtml": "",
           "menuDescription": "Greek with contemporary touch",
+          "metaDescription": "",
           "name": "Ilios Tulum",
           "slug": "ilios-tulum",
           "tableInformation": ""
@@ -196,6 +195,7 @@
           "description": "Ilios: Greek cuisine and warm hospitality, this elegant restaurant provides exceptional service and remains vibrant year-round.",
           "feesHtml": "",
           "menuDescription": "Greek with contemporary touch",
+          "metaDescription": "",
           "name": "Ilios Tulum",
           "slug": "ilios-tulum",
           "tableInformation": ""
@@ -228,7 +228,6 @@
         "isFeatured": false,
         "isFeaturedOnCoreTulum": false,
         "openingHoursHtml": "<p>11:00 - 01:00</p><p>11:00 - 01:00</p><p>11:00 - 01:00</p><p>11:00 - 01:00</p><p>11:00 - 01:00</p><p>11:00 - 01:00</p><p>11:00 - 01:00</p>",
-        "phone": null,
         "pricing": "$$",
         "priority": 5,
         "promotion": null,
@@ -237,8 +236,7 @@
         "reviewIds": [],
         "tableLayoutAlt": null,
         "tableLayoutUrl": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/428f7fbd-58e0-4084-beee-b745adae0d00/public",
-        "tags": [],
-        "website": null
+        "tags": []
       },
       "convexId": "jh7ehet0e05w6684ntc93av3cs7qyebe",
       "lastUpdated": "2026-03-06T13:08:18.550Z",
@@ -249,6 +247,7 @@
           "description": "Taboo Beach Club stands out as a premier destination in Tulum, offering guests a unique blend of Mediterranean cuisine and live entertainment.",
           "feesHtml": "<p id=\"\">Sunbeds from $2000 MXN (1 PAX)</p><p id=\"\">Cabanas from $9500 MXN (4 PAX)</p><p id=\"\">Lounges from $14500 MXN (6 PAX)</p>",
           "menuDescription": "Mediterranean cuisine, focusing on fresh, high-quality ingredients.",
+          "metaDescription": "",
           "name": "Taboo Tulum",
           "slug": "taboo-tulum",
           "tableInformation": ""
@@ -259,6 +258,7 @@
           "description": "Taboo Beach Club stands out as a premier destination in Tulum, offering guests a unique blend of Mediterranean cuisine and live entertainment.",
           "feesHtml": "<p id=\"\">Sunbeds from $2000 MXN (1 PAX)</p><p id=\"\">Cabanas from $9500 MXN (4 PAX)</p><p id=\"\">Lounges from $14500 MXN (6 PAX)</p>",
           "menuDescription": "Mediterranean cuisine, focusing on fresh, high-quality ingredients.",
+          "metaDescription": "",
           "name": "Taboo Tulum",
           "slug": "taboo-tulum",
           "tableInformation": ""
@@ -297,17 +297,15 @@
         "isFeatured": false,
         "isFeaturedOnCoreTulum": false,
         "openingHoursHtml": "",
-        "phone": null,
         "pricing": "$$$",
         "priority": 2,
         "promotion": "normal",
-        "publishedAt": "2026-04-26T01:08:54.761Z",
+        "publishedAt": "2026-07-24T19:01:47.317Z",
         "reservationDisabledDays": "",
         "reviewIds": [],
         "tableLayoutAlt": null,
         "tableLayoutUrl": null,
-        "tags": [],
-        "website": null
+        "tags": []
       },
       "convexId": "jh7bbszfqy5r93mtpscfzmqdv17qznez",
       "lastUpdated": "2026-07-24T19:01:47.126Z",
@@ -371,7 +369,6 @@
         "isFeatured": false,
         "isFeaturedOnCoreTulum": false,
         "openingHoursHtml": "Monday: Open 24 hours\nTuesday: Open 24 hours\nWednesday: Open 24 hours\nThursday: Open 24 hours\nFriday: Open 24 hours\nSaturday: Open 24 hours\nSunday: Open 24 hours",
-        "phone": null,
         "pricing": "$$$$",
         "priority": 5,
         "promotion": "normal",
@@ -383,8 +380,7 @@
         ],
         "tableLayoutAlt": null,
         "tableLayoutUrl": null,
-        "tags": [],
-        "website": "http://zamnatulum.com/"
+        "tags": []
       },
       "convexId": "jh78tmrpt2hwv07mjr6s6exnj97qy4js",
       "lastUpdated": "2026-07-30T04:00:25.151Z",
@@ -445,7 +441,6 @@
         "isFeatured": false,
         "isFeaturedOnCoreTulum": false,
         "openingHoursHtml": "<p>12:00 - 00:00</p><p>12:00 - 00:00</p><p>12:00 - 00:00</p><p>12:00 - 00:00</p><p>12:00 - 00:00</p><p>12:00 - 00:00</p><p>12:00 - 00:00</p>",
-        "phone": null,
         "pricing": "$$",
         "priority": 1,
         "promotion": "normal",
@@ -454,8 +449,7 @@
         "reviewIds": [],
         "tableLayoutAlt": null,
         "tableLayoutUrl": null,
-        "tags": [],
-        "website": null
+        "tags": []
       },
       "convexId": "jh7f70c6n0hxh5h57hxkvb1y0d7qztbb",
       "lastUpdated": "2026-06-22T00:16:49.377Z",
@@ -466,6 +460,7 @@
           "description": "Onyx: an exceptional dining experience with elegant ambiance and vibrant flavors.",
           "feesHtml": "",
           "menuDescription": "A blend of local and international cuisines",
+          "metaDescription": "",
           "name": "Onyx",
           "slug": "onyx-tulum",
           "tableInformation": ""
@@ -476,6 +471,7 @@
           "description": "Onyx: an exceptional dining experience with elegant ambiance and vibrant flavors.",
           "feesHtml": "",
           "menuDescription": "A blend of local and international cuisines",
+          "metaDescription": "",
           "name": "Onyx",
           "slug": "onyx-tulum",
           "tableInformation": ""
@@ -508,7 +504,6 @@
         "isFeatured": false,
         "isFeaturedOnCoreTulum": false,
         "openingHoursHtml": "<p>Closed</p><p>20:00 - 02:30</p><p>20:00 - 02:30</p><p>20:00 - 02:30</p><p>20:00 - 02:30</p><p>20:00 - 02:30</p><p>20:00 - 02:30</p>",
-        "phone": null,
         "pricing": "$$$",
         "priority": 5,
         "promotion": null,
@@ -517,8 +512,7 @@
         "reviewIds": [],
         "tableLayoutAlt": null,
         "tableLayoutUrl": null,
-        "tags": [],
-        "website": null
+        "tags": []
       },
       "convexId": "jh785n3282gy1cqwmhn2z2ch397qyj1p",
       "lastUpdated": "2026-04-25T21:48:38.368Z",
@@ -529,6 +523,7 @@
           "description": "Obsidiana, a rooftop in downtown Tulum, offers a vibrant dining experience that transitions into an energetic dancefloor.",
           "feesHtml": "<p id=\"\">Free Entrance and No Min. Spend</p>",
           "menuDescription": "Menu from Onyx Restaurant",
+          "metaDescription": "",
           "name": "Obsidiana",
           "slug": "obsidiana-tulum",
           "tableInformation": ""
@@ -539,6 +534,7 @@
           "description": "Obsidiana, a rooftop in downtown Tulum, offers a vibrant dining experience that transitions into an energetic dancefloor.",
           "feesHtml": "<p id=\"\">Entrada Gratuita y No Min. Consumo</p>",
           "menuDescription": "Menu from Onyx Restaurant",
+          "metaDescription": "",
           "name": "Obsidiana",
           "slug": "obsidiana-tulum",
           "tableInformation": ""
@@ -577,7 +573,6 @@
         "isFeatured": true,
         "isFeaturedOnCoreTulum": false,
         "openingHoursHtml": "<p id=\"\">09:00 - 18:00</p><p id=\"\">09:00 - 18:00</p><p id=\"\">09:00 - 18:00</p><p id=\"\">09:00 - 18:00</p><p id=\"\">09:00 - 18:00</p><p id=\"\">09:00 - 18:00</p><p id=\"\">09:00 - 18:00</p>",
-        "phone": null,
         "pricing": "$$$$",
         "priority": 1,
         "promotion": "normal",
@@ -589,8 +584,7 @@
         ],
         "tableLayoutAlt": null,
         "tableLayoutUrl": null,
-        "tags": [],
-        "website": null
+        "tags": []
       },
       "convexId": "jh7c7enep85z0w69t9v1grcarh7qzm2f",
       "lastUpdated": "2026-06-21T23:24:51.170Z",
@@ -601,6 +595,7 @@
           "description": "Vesica: a cenote club in Mayan jungle, offering a unique experience. Dip your feet in crystal-clear waters, enjoy comfortable lounges, and stunning views.",
           "feesHtml": "<p id=\"\"><strong id=\"\">Cover </strong>500 MXN<strong id=\"\"> + Min Consumption </strong>500 MXN / 1000 MXN (Per Person)</p>",
           "menuDescription": "Farm-to-table gastronomic experience that merges nature with cuisine, carefully crafting nutritious, delicious, and eco-conscious meals.",
+          "metaDescription": "",
           "name": "Vesica Cenote",
           "slug": "vesica-tulum",
           "tableInformation": ""
@@ -611,6 +606,7 @@
           "description": "Vesica: a cenote club in Mayan jungle, offering a unique experience. Dip your feet in crystal-clear waters, enjoy comfortable lounges, and stunning views.",
           "feesHtml": "<p id=\"\"><strong id=\"\">Cover</strong> 500MX + <strong id=\"\">Consumo Min</strong> 500MX / 1000MX (Por Persona)</p>",
           "menuDescription": "Farm-to-table gastronomic experience that merges nature with cuisine, carefully crafting nutritious, delicious, and eco-conscious meals.",
+          "metaDescription": "",
           "name": "Vesica Cenote",
           "slug": "vesica-tulum",
           "tableInformation": ""
@@ -649,7 +645,6 @@
         "isFeatured": false,
         "isFeaturedOnCoreTulum": false,
         "openingHoursHtml": "<p>Closed</p><p>Closed</p><p>Closed</p><p>Closed</p><p>Closed</p><p>Closed</p><p>Closed</p>",
-        "phone": null,
         "pricing": "$$$$",
         "priority": 5,
         "promotion": "normal",
@@ -658,8 +653,7 @@
         "reviewIds": [],
         "tableLayoutAlt": null,
         "tableLayoutUrl": null,
-        "tags": [],
-        "website": null
+        "tags": []
       },
       "convexId": "jh77f9f8ntttn93xyn961kw43x7qzyw9",
       "lastUpdated": "2026-06-21T23:57:49.992Z",
@@ -670,6 +664,7 @@
           "description": "MEZE, a creation of the Gitano Group, is a tribute to the beauty of the Aegean Islands. Established in 2019, this Aegean Taverna is beautifully situated in the Tulum Jungle, a short distance from Gitano Jungle.",
           "feesHtml": "",
           "menuDescription": "Greek Menu",
+          "metaDescription": "",
           "name": "Meze",
           "slug": "meze-tulum",
           "tableInformation": ""
@@ -680,6 +675,7 @@
           "description": "MEZE, una creación del Grupo Gitano, es un homenaje a la belleza de las islas del Egeo. Fundada en 2019, esta taberna egea goza de una ubicación privilegiada en la selva de Tulum, a poca distancia de Gitano Jungle.",
           "feesHtml": "",
           "menuDescription": "Menú griego",
+          "metaDescription": "",
           "name": "Meze",
           "slug": "meze-tulum",
           "tableInformation": ""
@@ -723,17 +719,15 @@
         "isFeatured": false,
         "isFeaturedOnCoreTulum": false,
         "openingHoursHtml": "<p id=\"\">11:00 - 23:00</p><p id=\"\">11:00 - 23:00</p><p id=\"\">11:00 - 23:00</p><p id=\"\">11:00 - 23:00</p><p id=\"\">11:00 - 23:00</p><p id=\"\">11:00 - 23:00</p><p id=\"\">11:00 - 23:00</p>",
-        "phone": null,
         "pricing": "$$$",
         "priority": 4,
         "promotion": "normal",
-        "publishedAt": "2026-07-24T19:00:01.894Z",
+        "publishedAt": "2026-07-24T19:01:09.474Z",
         "reservationDisabledDays": "",
         "reviewIds": [],
         "tableLayoutAlt": null,
         "tableLayoutUrl": null,
-        "tags": [],
-        "website": null
+        "tags": []
       },
       "convexId": "jh78dedjb1ax2fn62m55q31k857qyzdj",
       "lastUpdated": "2026-07-24T19:01:09.276Z",
@@ -794,7 +788,6 @@
         "isFeatured": false,
         "isFeaturedOnCoreTulum": false,
         "openingHoursHtml": "<p>18:00 - 01:00</p><p>18:00 - 01:00</p><p>18:00 - 01:00</p><p>18:00 - 01:00</p><p>18:00 - 03:00</p><p>18:00 - 01:00</p><p>18:00 - 01:00</p>",
-        "phone": null,
         "pricing": "$$",
         "priority": 4,
         "promotion": "normal",
@@ -803,8 +796,7 @@
         "reviewIds": [],
         "tableLayoutAlt": null,
         "tableLayoutUrl": null,
-        "tags": [],
-        "website": null
+        "tags": []
       },
       "convexId": "jh72075epd4m1g8m5ke7qddnmd7qyez8",
       "lastUpdated": "2026-06-21T23:20:04.024Z",
@@ -815,6 +807,7 @@
           "description": "Gitano Jungle: A Tulum staple for 10 years, offering a shared dining experience with local flavors, artisanal cocktails, and a bohemian vibe.",
           "feesHtml": "<p id=\"\"><strong id=\"\">Cover:</strong> &nbsp;1000 MXN (Per Person)</p><p id=\"\"><strong id=\"\">Bottle Service:</strong> Starting at 4000 MXN&nbsp;(Per Person) +15% Service Fee</p>",
           "menuDescription": "Locally-sourced, and shared-style cuisine with a focus on traditional methods",
+          "metaDescription": "",
           "name": "Gitano Jungle",
           "slug": "gitano-jungle",
           "tableInformation": ""
@@ -825,6 +818,7 @@
           "description": "Gitano Jungle: A Tulum staple for 10 years, offering a shared dining experience with local flavors, artisanal cocktails, and a bohemian vibe.",
           "feesHtml": "<p id=\"\"><strong id=\"\">Cover:</strong> &nbsp;1000 MXN (Per Person)</p><p id=\"\"><strong id=\"\">Bottle Service:</strong> Starting at 4000 MXN&nbsp;(Per Person) +15% Service Fee</p>",
           "menuDescription": "Locally-sourced, and shared-style cuisine with a focus on traditional methods",
+          "metaDescription": "",
           "name": "Gitano Jungle",
           "slug": "gitano-jungle",
           "tableInformation": ""
@@ -867,7 +861,6 @@
         "isFeatured": false,
         "isFeaturedOnCoreTulum": false,
         "openingHoursHtml": "<p>Closed</p><p>Closed</p><p>22:00 - 02:00</p><p>22:00 - 02:00</p><p>22:00 - 05:00</p><p>22:00 - 05:00</p><p>22:00 - 05:00</p>",
-        "phone": null,
         "pricing": "$$",
         "priority": 1,
         "promotion": "normal",
@@ -876,8 +869,7 @@
         "reviewIds": [],
         "tableLayoutAlt": "",
         "tableLayoutUrl": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/2ccb4110-48b5-4589-8cd8-b1757b9e9400/public",
-        "tags": [],
-        "website": null
+        "tags": []
       },
       "convexId": "jh7bftnghstjsn114abapgpttd7qyxyq",
       "lastUpdated": "2026-06-21T23:19:33.378Z",
@@ -888,6 +880,7 @@
           "description": "Bonbonniere Tulum: The top nightlife spot open till late, blending luxury with a lively dance floor, top DJs, and an elegant dress code.",
           "feesHtml": "<p id><strong id>Cover</strong> from 1000 MXN&nbsp;per person</p><p id><strong id>Bottle Service</strong> from 23000 MXN (Min Consumption) for 8pax</p>",
           "menuDescription": "",
+          "metaDescription": "",
           "name": "Bonbonniere",
           "slug": "bonbonniere",
           "tableInformation": ""
@@ -898,6 +891,7 @@
           "description": "Bonbonniere Tulum: The top nightlife spot open till late, blending luxury with a lively dance floor, top DJs, and an elegant dress code.",
           "feesHtml": "<p id=\"\"><strong id=\"\">Cubierta</strong> desde 1000 MXN por persona</p><p id=\"\"><strong id=\"\">Servicio de Botellas</strong> desde 23000 MXN (Consumo Min) para 8pax</p>",
           "menuDescription": "",
+          "metaDescription": "",
           "name": "Bonbonniere",
           "slug": "bonbonniere",
           "tableInformation": ""
@@ -941,7 +935,6 @@
         "isFeatured": false,
         "isFeaturedOnCoreTulum": false,
         "openingHoursHtml": "<p>11:00 - 01:00</p><p>11:00 - 01:00</p><p>11:00 - 01:00</p><p>11:00 - 01:00</p><p>11:00 - 01:00</p><p>11:00 - 01:00</p><p>11:00 - 01:00</p>",
-        "phone": null,
         "pricing": "$$$",
         "priority": 5,
         "promotion": "normal",
@@ -950,8 +943,7 @@
         "reviewIds": [],
         "tableLayoutAlt": null,
         "tableLayoutUrl": null,
-        "tags": [],
-        "website": null
+        "tags": []
       },
       "convexId": "jh71fkmf2b1ddc1n0vjggg0c417qy4kb",
       "lastUpdated": "2026-06-21T23:18:27.869Z",
@@ -962,6 +954,7 @@
           "description": "Bagatelle Tulum: A taste of French Riviera elegance, top dishes, lively music, and exclusive events in a luxurious Tulum setting.",
           "feesHtml": "",
           "menuDescription": "French Mediterranean dining created by Marco Estrada",
+          "metaDescription": "",
           "name": "Bagatelle Tulum",
           "slug": "bagatelle-tulum",
           "tableInformation": ""
@@ -972,6 +965,7 @@
           "description": "Bagatelle Tulum: A taste of French Riviera elegance, top dishes, lively music, and exclusive events in a luxurious Tulum setting.",
           "feesHtml": "",
           "menuDescription": "French Mediterranean dining created by Marco Estrada",
+          "metaDescription": "",
           "name": "Bagatelle Tulum",
           "slug": "bagatelle-tulum",
           "tableInformation": ""
@@ -1010,7 +1004,6 @@
         "isFeatured": false,
         "isFeaturedOnCoreTulum": false,
         "openingHoursHtml": "<p>10:00 - 18:00</p><p>10:00 - 18:00</p><p>10:00 - 18:00</p><p>10:00 - 18:00</p><p>10:00 - 18:00</p><p>10:00 - 03:00</p><p>10:00 - 18:00</p>",
-        "phone": null,
         "pricing": "$$$",
         "priority": 5,
         "promotion": "normal",
@@ -1019,8 +1012,7 @@
         "reviewIds": [],
         "tableLayoutAlt": null,
         "tableLayoutUrl": null,
-        "tags": [],
-        "website": null
+        "tags": []
       },
       "convexId": "jh72qvc4pqgb77j2kja14r0ez17qy75p",
       "lastUpdated": "2026-06-22T00:06:41.889Z",
@@ -1031,6 +1023,7 @@
           "description": "Papaya Playa Project, together with Design Hotels™, has set out to discover a new form of hospitality, merging local culture, and sustainability to set the stage for original and aspirational hospitality experiences.",
           "feesHtml": "<p></p>",
           "menuDescription": "The just created menu by Edher Cervantes honors Mexico’s two peninsulas. The Yucatan and Baja California.",
+          "metaDescription": "",
           "name": "Papaya Playa Project",
           "slug": "papaya-playa-project",
           "tableInformation": ""
@@ -1041,6 +1034,7 @@
           "description": "Papaya Playa Project, together with Design Hotels™, has set out to discover a new form of hospitality, merging local culture, and sustainability to set the stage for original and aspirational hospitality experiences.",
           "feesHtml": "<p id=\"\"><strong id=\"\">Event Tickets:</strong> from 1320 MXN, </p><p id=\"\">‍<strong id=\"\">Min Consumption for Sunbed:</strong> 1000 MXN (Per Person)</p><p id=\"\"><strong id=\"\">Bottle Service:</strong> Vip Table Prices depend on the event, message us for quotes.</p>",
           "menuDescription": "The just created menu by Edher Cervantes honors Mexico’s two peninsulas. The Yucatan and Baja California.",
+          "metaDescription": "",
           "name": "Papaya Playa Project",
           "slug": "papaya-playa-project",
           "tableInformation": ""
@@ -1079,7 +1073,6 @@
         "isFeatured": false,
         "isFeaturedOnCoreTulum": false,
         "openingHoursHtml": "<p>Closed</p><p>11:00 - 01:00</p><p>11:00 - 01:00</p><p>11:00 - 01:00</p><p>11:00 - 01:00</p><p>11:00 - 01:00</p><p>11:00 - 01:00</p>",
-        "phone": null,
         "pricing": "$$$",
         "priority": 1,
         "promotion": "normal",
@@ -1088,8 +1081,7 @@
         "reviewIds": [],
         "tableLayoutAlt": "",
         "tableLayoutUrl": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/a9330881-2e7b-4c6c-c278-26f4bc5bb400/public",
-        "tags": [],
-        "website": null
+        "tags": []
       },
       "convexId": "jh7d5y9hs0chnen3mezf0bdn997qz086",
       "lastUpdated": "2026-06-21T23:54:03.980Z",
@@ -1100,6 +1092,7 @@
           "description": "Vagalume Tulum: A premium beach club known for energetic parties, fine dining, and a high-end atmosphere in Tulum's hotel zone.",
           "feesHtml": "<p id=\"\"><strong id=\"\">Event Tickets:</strong> from 550 MXN, </p><p id=\"\">‍<strong id=\"\">Min Consumption for Sunbed :</strong> 3000 MXN (Per Person)</p><p id=\"\">‍<strong id=\"\">Min Consumption for Dinner :</strong> 3000 MXN (Per Person)</p><p id=\"\"><strong id=\"\">Bottle Service:</strong> Vip Table Prices depend on the event, message us for quotes.</p>",
           "menuDescription": "Mediterranean",
+          "metaDescription": "",
           "name": "Vagalume Tulum",
           "slug": "vagalume-tulum",
           "tableInformation": ""
@@ -1110,6 +1103,7 @@
           "description": "Vagalume Tulum: Un beach club premium conocido por fiestas inolvidables, buena comida y un ambiente de alta gama en la zona hotelera de Tulum.",
           "feesHtml": "<p id=\"\"><strong id=\"\">Entradas para eventos:</strong> desde 550 MXN, </p><p id=\"\">‍<strong id=\"\">Consumo mínimo para tumbona :</strong> 0 MXN (Por Persona)</p><p id=\"\">‍<strong id=\"\">Consumo mínimo para &nbsp;mesa de cena:</strong> 0/1500 MXN (Por Persona)</p><p id=\"\"><strong id=\"\">Servicio de Botellas:</strong> Mesa Vip Los precios dependen del evento, envíenos un mensaje para obtener más información.</p>",
           "menuDescription": "Mediterranean",
+          "metaDescription": "",
           "name": "Vagalume Tulum",
           "slug": "vagalume-tulum",
           "tableInformation": ""
@@ -1148,7 +1142,6 @@
         "isFeatured": false,
         "isFeaturedOnCoreTulum": false,
         "openingHoursHtml": "<p id=\"\">11:00 - 19:00</p><p id=\"\">11:00 - 19:00</p><p id=\"\">11:00 - 19:00</p><p id=\"\">11:00 - 19:00</p><p id=\"\">11:00 - 19:00</p><p id=\"\">11:00 - 19:00</p><p id=\"\">11:00 - 19:00</p>",
-        "phone": null,
         "pricing": "$$",
         "priority": 5,
         "promotion": "normal",
@@ -1157,8 +1150,7 @@
         "reviewIds": [],
         "tableLayoutAlt": null,
         "tableLayoutUrl": null,
-        "tags": [],
-        "website": null
+        "tags": []
       },
       "convexId": "jh71wfpc46ysmqy16eme40ke857qzqg4",
       "lastUpdated": "2026-06-21T23:21:26.247Z",
@@ -1169,6 +1161,7 @@
           "description": "Mía Tulum: A beach club and a resort with diverse cuisine, vibrant DJ sets, beachfront weddings, free parking, and stunning sea views.",
           "feesHtml": "<p id=\"\"><strong id=\"\">Event Tickets:</strong> from 680 MXN, </p><p id=\"\">‍<strong id=\"\">Min Consumption for Sunbed </strong> 1000 MXN / 1300 MXN on Weekends (Per Person)</p><p id=\"\"><strong id=\"\">Bottle Service:</strong> Vip Table Prices depend on the event, message us for quotes.</p>",
           "menuDescription": "Euro-Mexican Cuisine",
+          "metaDescription": "",
           "name": "Mia Beach Club",
           "slug": "mia-restaurant-and-beachclub",
           "tableInformation": ""
@@ -1179,6 +1172,7 @@
           "description": "Mía Tulum: A beach club and a resort with diverse cuisine, vibrant DJ sets, beachfront weddings, free parking, and stunning sea views.",
           "feesHtml": "<p id=\"\"><strong id=\"\">Event Tickets:</strong> from 680 MXN, </p><p id=\"\">‍<strong id=\"\">Min Consumption for Sunbed </strong> 1000 MXN / 1300 MXN on Weekends (Per Person)</p><p id=\"\"><strong id=\"\">Bottle Service:</strong> Vip Table Prices depend on the event, message us for quotes.</p>",
           "menuDescription": "Euro-Mexican Cuisine",
+          "metaDescription": "",
           "name": "Mia Beach Club",
           "slug": "mia-restaurant-and-beachclub",
           "tableInformation": ""
@@ -1217,7 +1211,6 @@
         "isFeatured": false,
         "isFeaturedOnCoreTulum": false,
         "openingHoursHtml": "<p>08:00 18:00</p><p id=\"\">08:00 18:00</p><p id=\"\">08:00 18:00</p><p id=\"\">08:00 18:00</p><p id=\"\">08:00 18:00</p><p id=\"\">08:00 18:00</p><p id=\"\">08:00 18:00</p>",
-        "phone": null,
         "pricing": "$$$$",
         "priority": 2,
         "promotion": "normal",
@@ -1226,8 +1219,7 @@
         "reviewIds": [],
         "tableLayoutAlt": null,
         "tableLayoutUrl": null,
-        "tags": [],
-        "website": null
+        "tags": []
       },
       "convexId": "jh7fs06v4xyxp8zks4970mhzjx82ddw0",
       "lastUpdated": "2026-07-30T03:42:43.944Z",
