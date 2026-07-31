@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-07-31T23:00:34.521Z",
+  "syncedAt": "2026-07-31T23:32:28.593Z",
   "citySlug": "tulum",
   "venues": [
     {
@@ -1232,6 +1232,72 @@
           "metaDescription": "",
           "name": "Kanan Beachclub",
           "slug": "kanan-beachclub",
+          "tableInformation": ""
+        }
+      }
+    },
+    {
+      "base": {
+        "amenityIds": [],
+        "area": "coba-road",
+        "category": "cenote",
+        "coordinates": {
+          "lat": 20.246581799999998,
+          "lng": -87.464201
+        },
+        "coverImage": null,
+        "coverImageAlt": null,
+        "drinkMenuUrl": "",
+        "faqIds": [
+          "k57ddbdffpnk3fvba42wghnj5x8b5rrp",
+          "k573jjk8gjsye1y53gvdt5jqfd8b5nek",
+          "k57entad06hvxn249wz8ezqh258b45r7",
+          "k57c7xs3zetvtprg02ftan7yyn8b4afz",
+          "k570ta83vae1gerhv9n26wb3gx8b5fpj"
+        ],
+        "foodMenuUrl": "",
+        "googleMapsCode": "6GWP+J8 Rancho Viejo, Q.R., Mexico",
+        "googlePlaceId": "ChIJ_xjkInTUT48Rit_t2yqp8M4",
+        "hideReservationForm": false,
+        "imageAlts": [],
+        "imageUrls": [],
+        "isClosed": false,
+        "isFeatured": false,
+        "isFeaturedOnCoreTulum": false,
+        "openingHoursHtml": "<p>08:00 - 15:45</p><p>08:00 - 15:45</p><p>08:00 - 15:45</p><p>08:00 - 15:45</p><p>08:00 - 15:45</p><p>08:00 - 15:45</p><p>08:00 - 15:45</p>",
+        "pricing": "$$$",
+        "priority": 5,
+        "promotion": "normal",
+        "publishedAt": null,
+        "reviewIds": [],
+        "tableLayoutAlt": null,
+        "tableLayoutUrl": null,
+        "tags": [],
+        "tbvId": "TBV_JT33XU"
+      },
+      "convexId": "jh79zj36t615xshjpdczvsanh58b4hqy",
+      "lastUpdated": "2026-07-31T23:32:05.841Z",
+      "locales": {
+        "en": {
+          "address": "77796 Quintana Roo, Mexico",
+          "body": "<h2>Gran Cenote Tulum: Clear Water, Caves, and Turtle Sightings</h2>\n<p>Gran Cenote is a semi-open cenote north of town, part of the Sac Actun cave system. You swim between open sections and cave passages in very clear water, with small fish, turtles, wooden decks, and a bat-filled tunnel that links the site together. It is one of the best-known things to do in Tulum, but popularity is also the main drawback.</p>\n<h3>What to Expect in the Water and Around the Site</h3>\n<p>This is a swim-and-snorkel stop, not a full-day hangout. The draw is the water clarity, the cave section, and the mix of sunlit swimming areas with darker rock tunnels overhead. Facilities are basic but useful, with showers, toilets, and lockers available on site. You may also see simple food stalls outside the entrance, but this is not a stop for tulum bars and restaurants.</p>\n<p>The honest take: Gran Cenote gets crowded early and can feel packed by midday. There are platforms and some spots to pause, but not proper lounge areas, so many people leave sooner than planned. If you want a cenote where you can stay for hours with a bar and restaurant, Vesica is the better fit.</p>\n<h3>How to Visit Gran Cenote Tulum</h3>\n<p>Gran Cenote sits about 4-5km from central Tulum on the road toward Cobá, around a 7-minute drive. It is usually open daily from 8am to 4:45pm, with cash entry around 500 MXN and lockers for a small extra fee. Go early on a weekday if you can, and plan your visit on the venue page before you go.</p>",
+          "description": "A semi-open cenote with clear water, caves, turtles, and a bat tunnel. Come early: it gets busy fast, and there are no lounge areas for a long stay.",
+          "feesHtml": "",
+          "menuDescription": "",
+          "metaDescription": "Popular cenote in Tulum with clear water, turtles, and cave swims. Gets crowded fast, so plan your visit on Tulum Bible.",
+          "name": "Gran Cenote",
+          "slug": "gran-cenote",
+          "tableInformation": ""
+        },
+        "es": {
+          "address": "77796 Quintana Roo, Mexico",
+          "body": "",
+          "description": "",
+          "feesHtml": "",
+          "menuDescription": "",
+          "metaDescription": "",
+          "name": "Gran Cenote",
+          "slug": "gran-cenote",
           "tableInformation": ""
         }
       }
