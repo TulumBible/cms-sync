@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-08-01T01:45:25.555Z",
+  "syncedAt": "2026-08-01T16:15:34.111Z",
   "citySlug": "tulum",
   "categories": [
     {
@@ -8,17 +8,17 @@
         "venueCategory": "lagoon"
       },
       "convexId": "k175rsgt97v7vvmbbw4w39f20h858ktd",
-      "lastUpdated": "2026-08-01T01:18:29.346Z",
+      "lastUpdated": "2026-08-01T16:11:21.460Z",
       "locales": {
         "en": {
           "description": "The lagoons around Tulum trade waves for still water — daybeds at the shore, kayaks, and long unhurried afternoons. These are the lagoon venues we trust with a full day. Each page has hours, fees, and what to bring.",
           "name": "Lagoon",
-          "slug": "lagoon"
+          "slug": "tulum-lagoons"
         },
         "es": {
           "description": "Las lagunas alrededor de Tulum cambian olas por agua quieta: camastros a la orilla, kayaks y tardes largas sin prisa. A estos lugares les confiamos un día completo. Cada página tiene horarios, tarifas y qué llevar.",
           "name": "Lagoon",
-          "slug": "lagoon"
+          "slug": "tulum-lagoons"
         }
       }
     },
@@ -28,7 +28,7 @@
         "venueCategory": "restaurant"
       },
       "convexId": "k1730yn9cpwwv1df2e6h4fzvgd858txt",
-      "lastUpdated": "2026-08-01T01:18:29.346Z",
+      "lastUpdated": "2026-08-01T16:10:35.953Z",
       "locales": {
         "en": {
           "description": "Tulum has more restaurants than nights in your trip, and most are fine at best. These are the kitchens we send friends to — chef-led menus, honest portions, and service that holds up in high season. Reserve through the venue page and skip the guesswork.",
@@ -104,20 +104,21 @@
     },
     {
       "base": {
-        "icon": null
+        "icon": null,
+        "venueCategory": "bar"
       },
       "convexId": "k1767gr2jgc6rbg3x7m02k1eys858fbp",
-      "lastUpdated": "2026-04-21T04:29:39.125Z",
+      "lastUpdated": "2026-08-01T16:15:16.045Z",
       "locales": {
         "en": {
-          "description": "",
+          "description": "A bar in Tulum can mean an eight-seat mezcal counter or a beach club that stays loud long after dinner. The ones here are worth going out of your way for — drinks made properly, and a room you'd happily stay in for a second round. Each page has hours, what you'll pay, and how to find it.",
           "name": "Bar",
-          "slug": "bar"
+          "slug": "tulum-bars"
         },
         "es": {
-          "description": "",
+          "description": "Un bar en Tulum puede ser una barra de mezcal con ocho asientos o un club de playa que sigue fuerte mucho después de la cena. Los de esta lista valen el viaje: coctelería de verdad y un lugar donde te quedarías por una segunda ronda. Cada página tiene horarios, cuánto cuesta y cómo llegar.",
           "name": "Bar",
-          "slug": "bar"
+          "slug": "tulum-bars"
         }
       }
     },
@@ -127,17 +128,17 @@
         "venueCategory": "cafe"
       },
       "convexId": "k1710mp6a5p7apknrvng27z7cd8bmd5j",
-      "lastUpdated": "2026-08-01T01:44:34.931Z",
+      "lastUpdated": "2026-08-01T16:10:14.749Z",
       "locales": {
         "en": {
           "description": "Good coffee is not a given in Tulum. These cafes are where we actually work, meet, and eat breakfast — real espresso, reliable Wi-Fi where noted, and kitchens that take the daytime menu seriously.",
           "name": "Cafe",
-          "slug": "cafe"
+          "slug": "tulum-cafes"
         },
         "es": {
           "description": "El buen café no está garantizado en Tulum. En estos cafés es donde realmente trabajamos, nos reunimos y desayunamos: espresso de verdad, Wi-Fi confiable donde se indica y cocinas que se toman en serio el menú de día.",
           "name": "Cafe",
-          "slug": "cafe"
+          "slug": "tulum-cafes"
         }
       }
     },
@@ -147,17 +148,17 @@
         "venueCategory": "rooftop"
       },
       "convexId": "k17bfq663pxdsd6zf8dxx87shn8bma2g",
-      "lastUpdated": "2026-08-01T01:44:34.931Z",
+      "lastUpdated": "2026-08-01T16:10:27.081Z",
       "locales": {
         "en": {
           "description": "Rooftops are how Tulum does a slower evening — cocktails, small plates, and a view of the jungle or the coast. The rooftops on this list earn the elevator ride with real cocktail programs, not just the view. Reserve through the venue page for sunset hours.",
           "name": "Rooftop",
-          "slug": "rooftop"
+          "slug": "tulum-rooftops"
         },
         "es": {
           "description": "Los rooftops son la versión pausada de la noche en Tulum: cócteles, platos pequeños y vista a la selva o a la costa. Los de esta lista se ganan el viaje en elevador con coctelería de verdad, no solo la vista. Reserva en la página del lugar para la hora del atardecer.",
           "name": "Rooftop",
-          "slug": "rooftop"
+          "slug": "tulum-rooftops"
         }
       }
     }
