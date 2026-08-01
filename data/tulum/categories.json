@@ -1,22 +1,26 @@
 {
-  "syncedAt": "2026-08-01T16:15:34.111Z",
+  "syncedAt": "2026-08-01T16:27:01.184Z",
   "citySlug": "tulum",
   "categories": [
     {
       "base": {
-        "icon": null,
+        "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"32\" height=\"32\" fill=\"#000000\" viewBox=\"0 0 256 256\"><path d=\"M222.16,177.25a8,8,0,0,1-1,11.25c-17.36,14.39-32.86,19.5-47,19.5-18.58,0-34.82-8.82-49.93-17-25.35-13.76-47.24-25.64-79.07.74a8,8,0,1,1-10.22-12.31c40.17-33.28,70.32-16.92,96.93-2.48,25.35,13.75,47.24,25.63,79.07-.74A8,8,0,0,1,222.16,177.25Zm-11.27-57c-31.83,26.38-53.72,14.5-79.07.74-26.61-14.43-56.76-30.79-96.93,2.49a8,8,0,0,0,10.22,12.31c31.83-26.38,53.72-14.5,79.07-.74,15.11,8.19,31.35,17,49.93,17,14.14,0,29.64-5.11,47-19.5a8,8,0,1,0-10.22-12.31ZM45.11,79.8c31.83-26.37,53.72-14.49,79.07-.74,15.11,8.2,31.35,17,49.93,17,14.14,0,29.64-5.12,47-19.5a8,8,0,1,0-10.22-12.31c-31.83,26.38-53.72,14.5-79.07.74C105.21,50.58,75.06,34.22,34.89,67.5A8,8,0,1,0,45.11,79.8Z\"></path></svg>",
         "venueCategory": "lagoon"
       },
       "convexId": "k175rsgt97v7vvmbbw4w39f20h858ktd",
-      "lastUpdated": "2026-08-01T16:11:21.460Z",
+      "lastUpdated": "2026-08-01T16:26:29.892Z",
       "locales": {
         "en": {
           "description": "The lagoons around Tulum trade waves for still water — daybeds at the shore, kayaks, and long unhurried afternoons. These are the lagoon venues we trust with a full day. Each page has hours, fees, and what to bring.",
+          "hubTitle": "Best Lagoon Venues in Tulum",
+          "metaDescription": "Lagoon venues around Tulum for a slow day on still water — vetted and bookable through Tulum Bible.",
           "name": "Lagoon",
           "slug": "tulum-lagoons"
         },
         "es": {
           "description": "Las lagunas alrededor de Tulum cambian olas por agua quieta: camastros a la orilla, kayaks y tardes largas sin prisa. A estos lugares les confiamos un día completo. Cada página tiene horarios, tarifas y qué llevar.",
+          "hubTitle": "Los mejores lugares de laguna en Tulum",
+          "metaDescription": "Lugares de laguna cerca de Tulum para un día lento en agua quieta — evaluados y reservables con Tulum Bible.",
           "name": "Lagoon",
           "slug": "tulum-lagoons"
         }
@@ -24,19 +28,23 @@
     },
     {
       "base": {
-        "icon": null,
+        "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"32\" height=\"32\" fill=\"#000000\" viewBox=\"0 0 256 256\"><path d=\"M74,88V40a6,6,0,0,1,12,0V88a6,6,0,0,1-12,0ZM214,40V224a6,6,0,0,1-12,0V174H152a6,6,0,0,1-6-6c0-4.41.68-108.25,59.64-133.51A6,6,0,0,1,214,40ZM202,50c-36.79,24.29-42.82,91.48-43.81,112H202ZM117.92,39a6,6,0,1,0-11.84,2L114,88.48a34,34,0,0,1-68,0L53.92,41a6,6,0,0,0-11.84-2l-8,48A6.61,6.61,0,0,0,34,88a46.06,46.06,0,0,0,40,45.6V224a6,6,0,0,0,12,0V133.6A46.06,46.06,0,0,0,126,88a6.61,6.61,0,0,0-.08-1Z\"></path></svg>",
         "venueCategory": "restaurant"
       },
       "convexId": "k1730yn9cpwwv1df2e6h4fzvgd858txt",
-      "lastUpdated": "2026-08-01T16:10:35.953Z",
+      "lastUpdated": "2026-08-01T16:26:29.892Z",
       "locales": {
         "en": {
           "description": "Tulum has more restaurants than nights in your trip, and most are fine at best. These are the kitchens we send friends to — chef-led menus, honest portions, and service that holds up in high season. Reserve through the venue page and skip the guesswork.",
+          "hubTitle": "Best Restaurants in Tulum",
+          "metaDescription": "Where to eat in Tulum: the restaurants we'd book again — chef-led kitchens vetted by Tulum Bible. Reserve a table in minutes.",
           "name": "Restaurant",
           "slug": "tulum-restaurants"
         },
         "es": {
           "description": "Tulum tiene más restaurantes que noches en tu viaje, y la mayoría son apenas aceptables. Estas son las cocinas a las que mandamos a nuestros amigos: menús de chef, porciones honestas y servicio que aguanta la temporada alta. Reserva en la página del lugar y evita las adivinanzas.",
+          "hubTitle": "Los mejores restaurantes de Tulum",
+          "metaDescription": "Dónde comer en Tulum: los restaurantes que volveríamos a reservar, seleccionados por Tulum Bible. Reserva mesa en minutos.",
           "name": "Restaurant",
           "slug": "tulum-restaurants"
         }
@@ -44,19 +52,23 @@
     },
     {
       "base": {
-        "icon": null,
+        "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"32\" height=\"32\" fill=\"#000000\" viewBox=\"0 0 256 256\"><path d=\"M236.69,227.75a6,6,0,0,1-8.44.94C227.87,228.38,189,198,128,198c-61.19,0-99.87,30.38-100.25,30.69a6,6,0,0,1-7.5-9.38c1.63-1.3,39-30.65,99.59-33.14A118.31,118.31,0,0,1,116,146.53c1.76-22.07,11.39-51.75,45.8-73.43A70.48,70.48,0,0,0,140.19,70c-19.74.64-32.65,12.56-38.37,35.43A6,6,0,0,1,96,110a6.14,6.14,0,0,1-1.46-.18,6,6,0,0,1-4.36-7.28c8.95-35.74,31.92-43.93,49.63-44.5a83,83,0,0,1,25.64,3.61C161.55,54,155,44.69,145,40.41c-10.55-4.51-23.36-2.62-38.09,5.59a6,6,0,1,1-5.84-10.47c18.17-10.14,34.56-12.2,48.71-6.12,13.42,5.76,21.77,17.64,26.57,27.16,4.65-8.13,12.14-17.51,23.1-21.08,11.2-3.65,23.37-.6,36.16,9.07a6,6,0,1,1-7.24,9.57c-9.46-7.15-17.93-9.59-25.17-7.24-9.3,3-15.45,13.07-18.7,20A68.92,68.92,0,0,1,207,74.8c14.15,8.09,31,25.27,31,61.21a6,6,0,0,1-12,0c0-37.92-21.2-51-36-55.59a54.08,54.08,0,0,1,7.38,36.49,57.2,57.2,0,0,1-8.51,22.56,6,6,0,0,1-9.82-6.91c.78-1.12,17.81-26.37-4.39-53.06C146.19,95,130.5,117.69,128,147.05a106.68,106.68,0,0,0,4.3,39c62.82,1.35,101.77,31.92,103.43,33.25A6,6,0,0,1,236.69,227.75ZM26,140a26,26,0,1,1,26,26A26,26,0,0,1,26,140Zm12,0a14,14,0,1,0,14-14A14,14,0,0,0,38,140Z\"></path></svg>",
         "venueCategory": "beachclub"
       },
       "convexId": "k1717462z3g6gd2njxnzcz5pqs85984a",
-      "lastUpdated": "2026-08-01T01:18:29.346Z",
+      "lastUpdated": "2026-08-01T16:26:29.892Z",
       "locales": {
         "en": {
           "description": "Tulum's beach clubs run from quiet daybed lounges to full-scale party venues, and prices vary just as widely. We've spent the days and paid the minimums, and this list is what survived: clubs where the service, the sound, and the bill all hold up. Book a table through the venue page, or ask the concierge which one fits your group.",
+          "hubTitle": "Best Beach Clubs in Tulum",
+          "metaDescription": "The beach clubs in Tulum actually worth your day — vetted for sunbeds, service, music, and real cost. Book a table through Tulum Bible.",
           "name": "Beach Club",
           "slug": "tulum-beach-clubs"
         },
         "es": {
           "description": "Los beach clubs de Tulum van desde camastros tranquilos hasta fiestas de día completo, con precios igual de variados. Pasamos los días y pagamos los consumos mínimos; esta lista es lo que sobrevivió: clubes donde el servicio, el sonido y la cuenta se sostienen. Reserva tu mesa en la página del lugar o pregunta al concierge cuál le queda a tu grupo.",
+          "hubTitle": "Los mejores beach clubs de Tulum",
+          "metaDescription": "Los beach clubs de Tulum que sí valen tu día — evaluados por camastros, servicio, música y costo real. Reserva con Tulum Bible.",
           "name": "Beach Club",
           "slug": "tulum-beach-clubs"
         }
@@ -64,19 +76,23 @@
     },
     {
       "base": {
-        "icon": null,
+        "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"32\" height=\"32\" fill=\"#000000\" viewBox=\"0 0 256 256\"><path d=\"M118,66.23V16a6,6,0,0,0-12,0V66.23a86,86,0,1,0,12,0ZM185.74,146H149.87c-1.3-32.59-13-54.15-22.36-66.35A74.15,74.15,0,0,1,185.74,146Zm-99.6,12h51.72c-1.63,37.69-18.33,58.46-25.86,66C104.46,216.45,87.77,195.67,86.14,158Zm0-12c1.63-37.69,18.33-58.46,25.86-66,7.54,7.51,24.23,28.29,25.86,66ZM96.49,79.65C87.11,91.85,75.43,113.41,74.13,146H38.26A74.15,74.15,0,0,1,96.49,79.65ZM38.26,158H74.13c1.3,32.59,13,54.15,22.36,66.35A74.15,74.15,0,0,1,38.26,158Zm89.25,66.35c9.38-12.2,21.06-33.76,22.36-66.35h35.87A74.15,74.15,0,0,1,127.51,224.35ZM254,88a6,6,0,0,1-6,6H238v10a6,6,0,0,1-12,0V94H216a6,6,0,0,1,0-12h10V72a6,6,0,0,1,12,0V82h10A6,6,0,0,1,254,88ZM208,46H190V64a6,6,0,0,1-12,0V46H160a6,6,0,0,1,0-12h18V16a6,6,0,0,1,12,0V34h18a6,6,0,0,1,0,12Z\"></path></svg>",
         "venueCategory": "nightclub"
       },
       "convexId": "k1710avgvs681f7g1s67gk701x85960j",
-      "lastUpdated": "2026-08-01T01:18:29.346Z",
+      "lastUpdated": "2026-08-01T16:26:29.892Z",
       "locales": {
         "en": {
           "description": "Tulum's club scene is small but serious — a handful of rooms that book international DJs most weeks of high season. These are the ones with the sound systems and the crowds to match. Check each venue's events calendar and book tables before the weekend rush.",
+          "hubTitle": "Best Nightclubs in Tulum",
+          "metaDescription": "Tulum's nightclubs, vetted: where the real bookings, sound systems, and crowds are. Tables and event tickets through Tulum Bible.",
           "name": "Nightclub",
           "slug": "tulum-nightclubs"
         },
         "es": {
           "description": "La escena de clubes de Tulum es pequeña pero seria: unas cuantas salas que traen DJs internacionales casi cada semana en temporada alta. Estas son las que tienen el sonido y el público a la altura. Revisa el calendario de eventos de cada lugar y reserva mesa antes del fin de semana.",
+          "hubTitle": "Los mejores antros de Tulum",
+          "metaDescription": "Los antros de Tulum, evaluados: dónde están los bookings, el sonido y el público. Mesas y boletos con Tulum Bible.",
           "name": "Nightclub",
           "slug": "tulum-nightclubs"
         }
@@ -84,19 +100,23 @@
     },
     {
       "base": {
-        "icon": null,
+        "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"32\" height=\"32\" fill=\"#000000\" viewBox=\"0 0 256 256\"><path d=\"M222.16,177.25a8,8,0,0,1-1,11.25c-17.36,14.39-32.86,19.5-47,19.5-18.58,0-34.82-8.82-49.93-17-25.35-13.76-47.24-25.64-79.07.74a8,8,0,1,1-10.22-12.31c40.17-33.28,70.32-16.92,96.93-2.48,25.35,13.75,47.24,25.63,79.07-.74A8,8,0,0,1,222.16,177.25Zm-11.27-57c-31.83,26.38-53.72,14.5-79.07.74-26.61-14.43-56.76-30.79-96.93,2.49a8,8,0,0,0,10.22,12.31c31.83-26.38,53.72-14.5,79.07-.74,15.11,8.19,31.35,17,49.93,17,14.14,0,29.64-5.11,47-19.5a8,8,0,1,0-10.22-12.31ZM45.11,79.8c31.83-26.37,53.72-14.49,79.07-.74,15.11,8.2,31.35,17,49.93,17,14.14,0,29.64-5.12,47-19.5a8,8,0,1,0-10.22-12.31c-31.83,26.38-53.72,14.5-79.07.74C105.21,50.58,75.06,34.22,34.89,67.5A8,8,0,1,0,45.11,79.8Z\"></path></svg>",
         "venueCategory": "cenote"
       },
       "convexId": "k1763eesej1c2gk37r419vmhzs859c3h",
-      "lastUpdated": "2026-08-01T01:18:29.346Z",
+      "lastUpdated": "2026-08-01T16:26:29.892Z",
       "locales": {
         "en": {
           "description": "Cenotes — the freshwater sinkholes the Yucatán is built on — are the best swim you'll have in Mexico, but not every one earns its entrance fee. The cenotes here clear our bar: clean water, fair pricing, and enough space to stay a while. Each page has hours, fees, and how to get there.",
+          "hubTitle": "Best Cenotes in Tulum",
+          "metaDescription": "The cenotes near Tulum worth the entrance fee — clean water, fair prices, and real details on hours and access, from Tulum Bible.",
           "name": "Cenote",
           "slug": "tulum-cenotes"
         },
         "es": {
           "description": "Los cenotes — los pozos de agua dulce sobre los que está construido el Yucatán — son el mejor chapuzón de México, pero no todos valen la entrada. Los de esta lista pasan nuestro filtro: agua limpia, precios justos y espacio para quedarte un rato. Cada página tiene horarios, tarifas y cómo llegar.",
+          "hubTitle": "Los mejores cenotes de Tulum",
+          "metaDescription": "Los cenotes cerca de Tulum que valen la entrada — agua limpia, precios justos y detalles reales, por Tulum Bible.",
           "name": "Cenote",
           "slug": "tulum-cenotes"
         }
@@ -104,19 +124,23 @@
     },
     {
       "base": {
-        "icon": null,
+        "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"32\" height=\"32\" fill=\"#000000\" viewBox=\"0 0 256 256\"><path d=\"M236.24,44.24A6,6,0,0,0,232,34H24a6,6,0,0,0-4.24,10.24L122,146.49V210H88a6,6,0,0,0,0,12h80a6,6,0,0,0,0-12H134V146.49ZM70.49,78h115L128,135.51Zm147-32-20,20h-139l-20-20Z\"></path></svg>",
         "venueCategory": "bar"
       },
       "convexId": "k1767gr2jgc6rbg3x7m02k1eys858fbp",
-      "lastUpdated": "2026-08-01T16:15:16.045Z",
+      "lastUpdated": "2026-08-01T16:26:29.892Z",
       "locales": {
         "en": {
           "description": "A bar in Tulum can mean an eight-seat mezcal counter or a beach club that stays loud long after dinner. The ones here are worth going out of your way for — drinks made properly, and a room you'd happily stay in for a second round. Each page has hours, what you'll pay, and how to find it.",
+          "hubTitle": "Best Bars in Tulum",
+          "metaDescription": "The bars in Tulum worth going out of your way for — proper drinks, rooms worth staying in, and honest detail on hours and prices.",
           "name": "Bar",
           "slug": "tulum-bars"
         },
         "es": {
           "description": "Un bar en Tulum puede ser una barra de mezcal con ocho asientos o un club de playa que sigue fuerte mucho después de la cena. Los de esta lista valen el viaje: coctelería de verdad y un lugar donde te quedarías por una segunda ronda. Cada página tiene horarios, cuánto cuesta y cómo llegar.",
+          "hubTitle": "Los mejores bares de Tulum",
+          "metaDescription": "Los bares de Tulum que valen el viaje — coctelería real, buenos lugares y detalles honestos de horarios y precios.",
           "name": "Bar",
           "slug": "tulum-bars"
         }
@@ -124,19 +148,23 @@
     },
     {
       "base": {
-        "icon": null,
+        "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"32\" height=\"32\" fill=\"#000000\" viewBox=\"0 0 256 256\"><path d=\"M80,56V24a8,8,0,0,1,16,0V56a8,8,0,0,1-16,0Zm40,8a8,8,0,0,0,8-8V24a8,8,0,0,0-16,0V56A8,8,0,0,0,120,64Zm32,0a8,8,0,0,0,8-8V24a8,8,0,0,0-16,0V56A8,8,0,0,0,152,64Zm96,56v8a40,40,0,0,1-37.51,39.91,96.59,96.59,0,0,1-27,40.09H208a8,8,0,0,1,0,16H32a8,8,0,0,1,0-16H56.54A96.3,96.3,0,0,1,24,136V88a8,8,0,0,1,8-8H208A40,40,0,0,1,248,120ZM200,96H40v40a80.27,80.27,0,0,0,45.12,72h69.76A80.27,80.27,0,0,0,200,136Zm32,24a24,24,0,0,0-16-22.62V136a95.78,95.78,0,0,1-1.2,15A24,24,0,0,0,232,128Z\"></path></svg>",
         "venueCategory": "cafe"
       },
       "convexId": "k1710mp6a5p7apknrvng27z7cd8bmd5j",
-      "lastUpdated": "2026-08-01T16:10:14.749Z",
+      "lastUpdated": "2026-08-01T16:26:29.892Z",
       "locales": {
         "en": {
           "description": "Good coffee is not a given in Tulum. These cafes are where we actually work, meet, and eat breakfast — real espresso, reliable Wi-Fi where noted, and kitchens that take the daytime menu seriously.",
+          "hubTitle": "Best Cafes in Tulum",
+          "metaDescription": "The cafes in Tulum worth your morning — real espresso and daytime kitchens, hand-picked by Tulum Bible.",
           "name": "Cafe",
           "slug": "tulum-cafes"
         },
         "es": {
           "description": "El buen café no está garantizado en Tulum. En estos cafés es donde realmente trabajamos, nos reunimos y desayunamos: espresso de verdad, Wi-Fi confiable donde se indica y cocinas que se toman en serio el menú de día.",
+          "hubTitle": "Los mejores cafés de Tulum",
+          "metaDescription": "Los cafés de Tulum que valen tu mañana — espresso de verdad y cocinas de día, seleccionados por Tulum Bible.",
           "name": "Cafe",
           "slug": "tulum-cafes"
         }
@@ -144,19 +172,23 @@
     },
     {
       "base": {
-        "icon": null,
+        "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"32\" height=\"32\" fill=\"#000000\" viewBox=\"0 0 256 256\"><path d=\"M26.22,94.41A6,6,0,0,0,26,96v16A38,38,0,0,0,42,143V216a6,6,0,0,0,6,6H208a6,6,0,0,0,6-6V143A38,38,0,0,0,230,112V96a5.91,5.91,0,0,0-.23-1.64L215.43,44.15A14.07,14.07,0,0,0,202,34H54A14.07,14.07,0,0,0,40.57,44.15Zm25.89-47A2,2,0,0,1,54,46H202a2,2,0,0,1,1.92,1.45L216.05,90H40ZM102,102h52v10a26,26,0,0,1-52,0Zm-64,0H90v10a26,26,0,0,1-38.18,23,6,6,0,0,0-1.65-1A26,26,0,0,1,38,112ZM202,210H54V148.66a38,38,0,0,0,42-16.21,37.95,37.95,0,0,0,64,0,38,38,0,0,0,42,16.21Zm3.83-76a6,6,0,0,0-1.65,1A26,26,0,0,1,166,112V102h52v10A26,26,0,0,1,205.83,134Z\"></path></svg>",
         "venueCategory": "rooftop"
       },
       "convexId": "k17bfq663pxdsd6zf8dxx87shn8bma2g",
-      "lastUpdated": "2026-08-01T16:10:27.081Z",
+      "lastUpdated": "2026-08-01T16:26:29.892Z",
       "locales": {
         "en": {
           "description": "Rooftops are how Tulum does a slower evening — cocktails, small plates, and a view of the jungle or the coast. The rooftops on this list earn the elevator ride with real cocktail programs, not just the view. Reserve through the venue page for sunset hours.",
+          "hubTitle": "Best Rooftop Bars in Tulum",
+          "metaDescription": "Tulum's rooftop bars worth the elevator ride — real cocktail programs and views, hand-picked by Tulum Bible.",
           "name": "Rooftop",
           "slug": "tulum-rooftops"
         },
         "es": {
           "description": "Los rooftops son la versión pausada de la noche en Tulum: cócteles, platos pequeños y vista a la selva o a la costa. Los de esta lista se ganan el viaje en elevador con coctelería de verdad, no solo la vista. Reserva en la página del lugar para la hora del atardecer.",
+          "hubTitle": "Los mejores rooftops de Tulum",
+          "metaDescription": "Los rooftops de Tulum que valen la pena — coctelería real y vistas, seleccionados por Tulum Bible.",
           "name": "Rooftop",
           "slug": "tulum-rooftops"
         }
