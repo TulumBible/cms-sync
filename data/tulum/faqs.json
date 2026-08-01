@@ -1,6 +1,277 @@
 {
-  "syncedAt": "2026-07-03T09:52:24.217Z",
+  "syncedAt": "2026-08-01T16:59:59.882Z",
   "citySlug": "tulum",
-  "faqs": [],
+  "faqs": [
+    {
+      "base": {
+        "category": null,
+        "slug": "do-i-need-a-reservation-for-gran-cenote"
+      },
+      "convexId": "k57ddbdffpnk3fvba42wghnj5x8b5rrp",
+      "lastUpdated": "2026-08-01T16:45:08.934Z",
+      "locales": {
+        "en": {
+          "answer": "No. Gran Cenote works as a walk-in visit, not a reservation venue. Go early because it gets busy fast and late arrivals may face heavier crowds.",
+          "name": "Do I need a reservation for Gran Cenote?"
+        },
+        "es": {
+          "answer": "No. El Gran Cenote funciona sin cita previa, no es un lugar en el que haya que reservar. Ve temprano, porque se llena rápidamente y, si llegas tarde, es posible que te encuentres con mucha gente.",
+          "name": "¿Es necesario reservar para ir a Gran Cenote?"
+        }
+      }
+    },
+    {
+      "base": {
+        "category": null,
+        "slug": "what-are-gran-cenote-s-opening-hours"
+      },
+      "convexId": "k573jjk8gjsye1y53gvdt5jqfd8b5nek",
+      "lastUpdated": "2026-08-01T16:48:18.925Z",
+      "locales": {
+        "en": {
+          "answer": "Gran Cenote is usually open daily from 8am to 4:45pm. Morning is the best window if you want a quieter swim.",
+          "name": "What are Gran Cenote's opening hours?"
+        },
+        "es": {
+          "answer": "El Gran Cenote suele estar abierto todos los días de 8:00 a 16:45. Por la mañana es el mejor momento si quieres darte un baño con más tranquilidad.",
+          "name": "¿Cuál es el horario de apertura de Gran Cenote?"
+        }
+      }
+    },
+    {
+      "base": {
+        "category": null,
+        "slug": "how-much-is-entry-to-gran-cenote"
+      },
+      "convexId": "k57entad06hvxn249wz8ezqh258b45r7",
+      "lastUpdated": "2026-08-01T16:47:49.983Z",
+      "locales": {
+        "en": {
+          "answer": "Entry is around 500 MXN per adult. Snorkel equipment, and lockers cost extra fee.",
+          "name": "How much is entry to Gran Cenote?"
+        },
+        "es": {
+          "answer": "La entrada cuesta unos 500 MXN por adulto. El equipo de snorkel y las taquillas tienen un coste adicional.",
+          "name": "¿Cuánto cuesta la entrada al Gran Cenote?"
+        }
+      }
+    },
+    {
+      "base": {
+        "category": null,
+        "slug": "does-gran-cenote-have-facilities-on-site"
+      },
+      "convexId": "k57c7xs3zetvtprg02ftan7yyn8b4afz",
+      "lastUpdated": "2026-08-01T16:47:27.602Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. There are showers, toilets, and lockers on site, and life jackets are commonly provided with entry.",
+          "name": "Does Gran Cenote have facilities on site?"
+        },
+        "es": {
+          "answer": "Sí. Hay duchas, aseos y taquillas en las instalaciones, y normalmente se proporcionan chalecos salvavidas al entrar.",
+          "name": "¿Dispone Gran Cenote de instalaciones en el propio recinto?"
+        }
+      }
+    },
+    {
+      "base": {
+        "category": null,
+        "slug": "can-i-spend-the-whole-day-at-gran-cenote"
+      },
+      "convexId": "k570ta83vae1gerhv9n26wb3gx8b5fpj",
+      "lastUpdated": "2026-08-01T16:44:55.831Z",
+      "locales": {
+        "en": {
+          "answer": "You can stay for a few hours, but it is not set up like a day club. There are no lounges, so if you want a full-day cenote with a bar and restaurant, Vesica or Atta is a better pick.",
+          "name": "Can I spend the whole day at Gran Cenote?"
+        },
+        "es": {
+          "answer": "Puedes quedarte unas horas, pero no está concebido como un club diurno. No hay zonas de descanso, así que si buscas un cenote donde pasar todo el día y que cuente con bar y restaurante, Vesica o Atta son mejores opciones.",
+          "name": "¿Puedo pasar todo el día en Gran Cenote?"
+        }
+      }
+    },
+    {
+      "base": {
+        "category": null,
+        "slug": "do-i-need-a-reservation-to-visit-casa-cenote"
+      },
+      "convexId": "k57395pzjbnj9mc52zpmbzvefh8b5et7",
+      "lastUpdated": "2026-08-01T16:45:29.750Z",
+      "locales": {
+        "en": {
+          "answer": "No. Cenote entry is walk-in, and you can swim or snorkel without hiring a guide.",
+          "name": "Do I need a reservation to visit Casa Cenote?"
+        },
+        "es": {
+          "answer": "No. El acceso al cenote es libre y puedes nadar o hacer snorkel sin necesidad de contratar a un guía.",
+          "name": "¿Es necesario reservar para visitar Casa Cenote?"
+        }
+      }
+    },
+    {
+      "base": {
+        "category": null,
+        "slug": "what-are-the-opening-hours-for-casa-cenote"
+      },
+      "convexId": "k573c0pgn33fzxcyvpgxn39a1h8b437x",
+      "lastUpdated": "2026-08-01T16:49:30.257Z",
+      "locales": {
+        "en": {
+          "answer": "Venue hours are 9:30am to 8pm Monday through Saturday and 9:30am to 7pm Sunday.",
+          "name": "What are the opening hours for Casa Cenote?"
+        },
+        "es": {
+          "answer": "El horario del recinto es de 9:30 a 20:00 de lunes a sábado y de 9:30 a 19:00 los domingos.",
+          "name": "¿Cuál es el horario de apertura de Casa Cenote?"
+        }
+      }
+    },
+    {
+      "base": {
+        "category": null,
+        "slug": "does-casa-cenote-charge-an-entry-fee"
+      },
+      "convexId": "k57emg1snqcx5zhh37zkfnqr618b4809",
+      "lastUpdated": "2026-08-01T16:45:53.117Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. Paid entry is required for cenote access, and snorkel equipment may cost extra.",
+          "name": "Does Casa Cenote charge an entry fee?"
+        },
+        "es": {
+          "answer": "Sí. Para acceder al cenote hay que pagar entrada, y el equipo de buceo con esnórquel puede suponer un coste adicional.",
+          "name": "¿Hay que pagar entrada para entrar en Casa Cenote?"
+        }
+      }
+    },
+    {
+      "base": {
+        "category": null,
+        "slug": "what-can-i-do-at-casa-cenote"
+      },
+      "convexId": "k57719abhw6b8femfz0ycsjm8x8b5m1j",
+      "lastUpdated": "2026-08-01T16:49:39.304Z",
+      "locales": {
+        "en": {
+          "answer": "You can swim, snorkel, kayak, paddleboard and dive. The open water runs through mangroves and contains a mix of fresh and salt water.",
+          "name": "What can I do at Casa Cenote?"
+        },
+        "es": {
+          "answer": "Puedes nadar, hacer snorkel, practicar kayak, paddle surf y bucear. Las aguas abiertas atraviesan los manglares y contienen una mezcla de agua dulce y salada.",
+          "name": "¿Qué puedo hacer en Casa Cenote?"
+        }
+      }
+    },
+    {
+      "base": {
+        "category": null,
+        "slug": "is-casa-cenote-close-to-the-beach"
+      },
+      "convexId": "k575m8tcej3gr9kgahhakhs3zd8b54z3",
+      "lastUpdated": "2026-08-01T16:48:02.985Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. The Caribbean beach is directly across the road, so you can visit the cenote and sea in the same short trip.",
+          "name": "Is Casa Cenote close to the beach?"
+        },
+        "es": {
+          "answer": "Sí. La playa caribeña está justo al otro lado de la carretera, así que puedes visitar el cenote y el mar en la misma excursión corta.",
+          "name": "¿Está Casa Cenote cerca de la playa?"
+        }
+      }
+    },
+    {
+      "base": {
+        "category": null,
+        "slug": "is-there-parking-at-casa-cenote"
+      },
+      "convexId": "k57eaf8qfjr5cv3xa9qveyhec58b43k2",
+      "lastUpdated": "2026-08-01T16:48:10.717Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. Free parking is available on the property.",
+          "name": "Is there parking at Casa Cenote?"
+        },
+        "es": {
+          "answer": "Sí. Hay aparcamiento gratuito disponible en el recinto.",
+          "name": "¿Hay aparcamiento en Casa Cenote?"
+        }
+      }
+    },
+    {
+      "base": {
+        "category": null,
+        "slug": "is-umi-tulum-a-hotel-and-beach-club"
+      },
+      "convexId": "k575k5mws8808veqr6ta3s3s3n8bjbck",
+      "lastUpdated": "2026-08-01T16:48:42.186Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. Umi Tulum is a beachfront hotel with a daytime beach club, restaurant and a cocktail bar.",
+          "name": "Is Umi Tulum a hotel and beach club?"
+        },
+        "es": {
+          "answer": "Sí. Umi Tulum es un hotel situado frente al mar que cuenta con un club de playa abierto durante el día, un restaurante y un bar de cócteles.",
+          "name": "¿Umi Tulum es un hotel y un club de playa?"
+        }
+      }
+    },
+    {
+      "base": {
+        "category": null,
+        "slug": "what-are-the-opening-hours-at-umi-tulum"
+      },
+      "convexId": "k5755y2yjtgtdj7mw90fm9tkgd8bjjg9",
+      "lastUpdated": "2026-08-01T16:49:09.420Z",
+      "locales": {
+        "en": {
+          "answer": "Umi Tulum is open daily from 10am to 6pm.",
+          "name": "What are the opening hours at Umi Tulum?"
+        },
+        "es": {
+          "answer": "Umi Tulum abre todos los días de 10:00 a 18:00.",
+          "name": "¿Cuál es el horario de apertura de Umi Tulum?"
+        }
+      }
+    },
+    {
+      "base": {
+        "category": null,
+        "slug": "where-is-umi-tulum"
+      },
+      "convexId": "k570p2cmy42nf5zx7drxjxybrs8bj1kf",
+      "lastUpdated": "2026-08-01T16:50:03.016Z",
+      "locales": {
+        "en": {
+          "answer": "Umi Tulum is at Carretera Tulum-Boca Paila km 8.5 in Tulum's Hotel Zone.",
+          "name": "Where is Umi Tulum?"
+        },
+        "es": {
+          "answer": "Umi Tulum se encuentra en el kilómetro 8,5 de la carretera Tulum-Boca Paila, en la zona hotelera de Tulum.",
+          "name": "¿Dónde está Umi Tulum?"
+        }
+      }
+    },
+    {
+      "base": {
+        "category": null,
+        "slug": "what-food-does-umi-tulum-serve"
+      },
+      "convexId": "k577mp37t0wpd2ptfd9n8fsdax8bkrb8",
+      "lastUpdated": "2026-08-01T16:49:54.632Z",
+      "locales": {
+        "en": {
+          "answer": "The menu covers Mexican and seafood dishes.",
+          "name": "What food does Umi Tulum serve?"
+        },
+        "es": {
+          "answer": "El menú incluye platos mexicanos y de marisco.",
+          "name": "¿Qué tipo de comida se sirve en Umi Tulum?"
+        }
+      }
+    }
+  ],
   "mode": "published"
 }
