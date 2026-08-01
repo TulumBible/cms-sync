@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-08-01T01:31:01.862Z",
+  "syncedAt": "2026-08-01T01:45:25.555Z",
   "citySlug": "tulum",
   "categories": [
     {
@@ -118,6 +118,46 @@
           "description": "",
           "name": "Bar",
           "slug": "bar"
+        }
+      }
+    },
+    {
+      "base": {
+        "icon": null,
+        "venueCategory": "cafe"
+      },
+      "convexId": "k1710mp6a5p7apknrvng27z7cd8bmd5j",
+      "lastUpdated": "2026-08-01T01:44:34.931Z",
+      "locales": {
+        "en": {
+          "description": "Good coffee is not a given in Tulum. These cafes are where we actually work, meet, and eat breakfast — real espresso, reliable Wi-Fi where noted, and kitchens that take the daytime menu seriously.",
+          "name": "Cafe",
+          "slug": "cafe"
+        },
+        "es": {
+          "description": "El buen café no está garantizado en Tulum. En estos cafés es donde realmente trabajamos, nos reunimos y desayunamos: espresso de verdad, Wi-Fi confiable donde se indica y cocinas que se toman en serio el menú de día.",
+          "name": "Cafe",
+          "slug": "cafe"
+        }
+      }
+    },
+    {
+      "base": {
+        "icon": null,
+        "venueCategory": "rooftop"
+      },
+      "convexId": "k17bfq663pxdsd6zf8dxx87shn8bma2g",
+      "lastUpdated": "2026-08-01T01:44:34.931Z",
+      "locales": {
+        "en": {
+          "description": "Rooftops are how Tulum does a slower evening — cocktails, small plates, and a view of the jungle or the coast. The rooftops on this list earn the elevator ride with real cocktail programs, not just the view. Reserve through the venue page for sunset hours.",
+          "name": "Rooftop",
+          "slug": "rooftop"
+        },
+        "es": {
+          "description": "Los rooftops son la versión pausada de la noche en Tulum: cócteles, platos pequeños y vista a la selva o a la costa. Los de esta lista se ganan el viaje en elevador con coctelería de verdad, no solo la vista. Reserva en la página del lugar para la hora del atardecer.",
+          "name": "Rooftop",
+          "slug": "rooftop"
         }
       }
     }
