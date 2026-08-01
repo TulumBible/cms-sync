@@ -1,21 +1,22 @@
 {
-  "syncedAt": "2026-07-03T09:52:24.103Z",
+  "syncedAt": "2026-08-01T01:31:01.862Z",
   "citySlug": "tulum",
   "categories": [
     {
       "base": {
-        "icon": null
+        "icon": null,
+        "venueCategory": "lagoon"
       },
       "convexId": "k175rsgt97v7vvmbbw4w39f20h858ktd",
-      "lastUpdated": "2026-04-21T04:29:38.980Z",
+      "lastUpdated": "2026-08-01T01:18:29.346Z",
       "locales": {
         "en": {
-          "description": "",
+          "description": "The lagoons around Tulum trade waves for still water — daybeds at the shore, kayaks, and long unhurried afternoons. These are the lagoon venues we trust with a full day. Each page has hours, fees, and what to bring.",
           "name": "Lagoon",
           "slug": "lagoon"
         },
         "es": {
-          "description": "",
+          "description": "Las lagunas alrededor de Tulum cambian olas por agua quieta: camastros a la orilla, kayaks y tardes largas sin prisa. A estos lugares les confiamos un día completo. Cada página tiene horarios, tarifas y qué llevar.",
           "name": "Lagoon",
           "slug": "lagoon"
         }
@@ -23,18 +24,19 @@
     },
     {
       "base": {
-        "icon": null
+        "icon": null,
+        "venueCategory": "restaurant"
       },
       "convexId": "k1730yn9cpwwv1df2e6h4fzvgd858txt",
-      "lastUpdated": "2026-04-21T04:29:39.018Z",
+      "lastUpdated": "2026-08-01T01:18:29.346Z",
       "locales": {
         "en": {
-          "description": "",
+          "description": "Tulum has more restaurants than nights in your trip, and most are fine at best. These are the kitchens we send friends to — chef-led menus, honest portions, and service that holds up in high season. Reserve through the venue page and skip the guesswork.",
           "name": "Restaurant",
           "slug": "tulum-restaurants"
         },
         "es": {
-          "description": "",
+          "description": "Tulum tiene más restaurantes que noches en tu viaje, y la mayoría son apenas aceptables. Estas son las cocinas a las que mandamos a nuestros amigos: menús de chef, porciones honestas y servicio que aguanta la temporada alta. Reserva en la página del lugar y evita las adivinanzas.",
           "name": "Restaurant",
           "slug": "tulum-restaurants"
         }
@@ -42,18 +44,19 @@
     },
     {
       "base": {
-        "icon": null
+        "icon": null,
+        "venueCategory": "beachclub"
       },
       "convexId": "k1717462z3g6gd2njxnzcz5pqs85984a",
-      "lastUpdated": "2026-04-21T04:29:39.045Z",
+      "lastUpdated": "2026-08-01T01:18:29.346Z",
       "locales": {
         "en": {
-          "description": "",
+          "description": "Tulum's beach clubs run from quiet daybed lounges to full-scale party venues, and prices vary just as widely. We've spent the days and paid the minimums, and this list is what survived: clubs where the service, the sound, and the bill all hold up. Book a table through the venue page, or ask the concierge which one fits your group.",
           "name": "Beach Club",
           "slug": "tulum-beach-clubs"
         },
         "es": {
-          "description": "",
+          "description": "Los beach clubs de Tulum van desde camastros tranquilos hasta fiestas de día completo, con precios igual de variados. Pasamos los días y pagamos los consumos mínimos; esta lista es lo que sobrevivió: clubes donde el servicio, el sonido y la cuenta se sostienen. Reserva tu mesa en la página del lugar o pregunta al concierge cuál le queda a tu grupo.",
           "name": "Beach Club",
           "slug": "tulum-beach-clubs"
         }
@@ -61,18 +64,19 @@
     },
     {
       "base": {
-        "icon": null
+        "icon": null,
+        "venueCategory": "nightclub"
       },
       "convexId": "k1710avgvs681f7g1s67gk701x85960j",
-      "lastUpdated": "2026-04-21T04:29:39.073Z",
+      "lastUpdated": "2026-08-01T01:18:29.346Z",
       "locales": {
         "en": {
-          "description": "",
+          "description": "Tulum's club scene is small but serious — a handful of rooms that book international DJs most weeks of high season. These are the ones with the sound systems and the crowds to match. Check each venue's events calendar and book tables before the weekend rush.",
           "name": "Nightclub",
           "slug": "tulum-nightclubs"
         },
         "es": {
-          "description": "",
+          "description": "La escena de clubes de Tulum es pequeña pero seria: unas cuantas salas que traen DJs internacionales casi cada semana en temporada alta. Estas son las que tienen el sonido y el público a la altura. Revisa el calendario de eventos de cada lugar y reserva mesa antes del fin de semana.",
           "name": "Nightclub",
           "slug": "tulum-nightclubs"
         }
@@ -80,18 +84,19 @@
     },
     {
       "base": {
-        "icon": null
+        "icon": null,
+        "venueCategory": "cenote"
       },
       "convexId": "k1763eesej1c2gk37r419vmhzs859c3h",
-      "lastUpdated": "2026-04-21T04:29:39.098Z",
+      "lastUpdated": "2026-08-01T01:18:29.346Z",
       "locales": {
         "en": {
-          "description": "",
+          "description": "Cenotes — the freshwater sinkholes the Yucatán is built on — are the best swim you'll have in Mexico, but not every one earns its entrance fee. The cenotes here clear our bar: clean water, fair pricing, and enough space to stay a while. Each page has hours, fees, and how to get there.",
           "name": "Cenote",
           "slug": "tulum-cenotes"
         },
         "es": {
-          "description": "",
+          "description": "Los cenotes — los pozos de agua dulce sobre los que está construido el Yucatán — son el mejor chapuzón de México, pero no todos valen la entrada. Los de esta lista pasan nuestro filtro: agua limpia, precios justos y espacio para quedarte un rato. Cada página tiene horarios, tarifas y cómo llegar.",
           "name": "Cenote",
           "slug": "tulum-cenotes"
         }
