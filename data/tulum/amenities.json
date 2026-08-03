@@ -1,15 +1,16 @@
 {
-  "syncedAt": "2026-07-03T09:52:24.145Z",
+  "syncedAt": "2026-08-03T01:15:27.277Z",
   "citySlug": "tulum",
   "amenities": [
     {
       "base": {
+        "filterSortOrder": 80,
         "iconName": "key",
         "showInFilters": true,
         "slug": "valet-parking"
       },
       "convexId": "jn72f5n145a7gcvx7evwc8yzws8588h6",
-      "lastUpdated": "2026-06-21T20:51:06.937Z",
+      "lastUpdated": "2026-08-02T21:01:26.047Z",
       "locales": {
         "en": {
           "name": "Valet Parking"
@@ -21,12 +22,13 @@
     },
     {
       "base": {
+        "filterSortOrder": 40,
         "iconName": "flower",
         "showInFilters": true,
         "slug": "spa"
       },
       "convexId": "jn7dnm1kp63ahnqvjhhyz7944d859qpv",
-      "lastUpdated": "2026-06-21T20:51:06.937Z",
+      "lastUpdated": "2026-08-02T21:01:26.047Z",
       "locales": {
         "en": {
           "name": "Spa"
@@ -38,12 +40,13 @@
     },
     {
       "base": {
+        "filterSortOrder": 60,
         "iconName": "bed",
         "showInFilters": true,
         "slug": "rooms"
       },
       "convexId": "jn70zdmazn719gygc3k7335zxn859dvw",
-      "lastUpdated": "2026-06-21T20:51:06.937Z",
+      "lastUpdated": "2026-08-02T21:01:26.047Z",
       "locales": {
         "en": {
           "name": "Rooms"
@@ -55,6 +58,7 @@
     },
     {
       "base": {
+        "filterSortOrder": null,
         "iconName": "buildings",
         "showInFilters": false,
         "slug": "rooftop"
@@ -72,6 +76,7 @@
     },
     {
       "base": {
+        "filterSortOrder": null,
         "iconName": "fork-knife",
         "showInFilters": false,
         "slug": "restaurant"
@@ -89,12 +94,13 @@
     },
     {
       "base": {
+        "filterSortOrder": 20,
         "iconName": "swimming-pool",
-        "showInFilters": false,
+        "showInFilters": true,
         "slug": "pool"
       },
       "convexId": "jn796fkb2npe38c126gkzmhe85858yf5",
-      "lastUpdated": "2026-06-21T20:51:06.937Z",
+      "lastUpdated": "2026-08-02T21:01:26.047Z",
       "locales": {
         "en": {
           "name": "Pool"
@@ -106,12 +112,13 @@
     },
     {
       "base": {
+        "filterSortOrder": 30,
         "iconName": "paw-print",
-        "showInFilters": false,
+        "showInFilters": true,
         "slug": "pet-friendly"
       },
       "convexId": "jn78wp2bkm0sv6aber490necah858phw",
-      "lastUpdated": "2026-06-21T20:51:06.937Z",
+      "lastUpdated": "2026-08-02T21:01:26.047Z",
       "locales": {
         "en": {
           "name": "Pet Friendly"
@@ -123,6 +130,7 @@
     },
     {
       "base": {
+        "filterSortOrder": null,
         "iconName": "martini",
         "showInFilters": false,
         "slug": "nightclub"
@@ -140,12 +148,13 @@
     },
     {
       "base": {
+        "filterSortOrder": 10,
         "iconName": "coin",
-        "showInFilters": false,
+        "showInFilters": true,
         "slug": "no-min-consumption"
       },
       "convexId": "jn70tb3pfy3yycjzk8ke3pgtrs8585z7",
-      "lastUpdated": "2026-06-21T20:51:06.937Z",
+      "lastUpdated": "2026-08-02T21:01:26.047Z",
       "locales": {
         "en": {
           "name": "No Min. Consumption"
@@ -157,12 +166,13 @@
     },
     {
       "base": {
+        "filterSortOrder": 50,
         "iconName": "wine",
         "showInFilters": true,
         "slug": "bar"
       },
       "convexId": "jn74axgjrqtsa18w8nxttnxfg5859e39",
-      "lastUpdated": "2026-06-21T20:51:06.937Z",
+      "lastUpdated": "2026-08-02T21:01:26.047Z",
       "locales": {
         "en": {
           "name": "Bar"
@@ -174,12 +184,13 @@
     },
     {
       "base": {
+        "filterSortOrder": 90,
         "iconName": "wifi-high",
-        "showInFilters": false,
+        "showInFilters": true,
         "slug": "wifi"
       },
       "convexId": "jn76cg9jqcvq6gh3xwf0cj2c2s859sx2",
-      "lastUpdated": "2026-06-21T20:51:06.937Z",
+      "lastUpdated": "2026-08-02T21:01:26.047Z",
       "locales": {
         "en": {
           "name": "Great Wifi"
@@ -191,12 +202,13 @@
     },
     {
       "base": {
+        "filterSortOrder": 70,
         "iconName": "car",
-        "showInFilters": false,
+        "showInFilters": true,
         "slug": "free-parking"
       },
       "convexId": "jn70zn5gpwjkfxwnbkd4948rv5859d8d",
-      "lastUpdated": "2026-06-21T20:51:06.937Z",
+      "lastUpdated": "2026-08-02T21:01:26.047Z",
       "locales": {
         "en": {
           "name": "Free Parking"
@@ -208,12 +220,13 @@
     },
     {
       "base": {
+        "filterSortOrder": 100,
         "iconName": "credit-card",
-        "showInFilters": false,
+        "showInFilters": true,
         "slug": "card-only"
       },
       "convexId": "jn73wn3mp1p288pg1ae5sq9k6h8581b5",
-      "lastUpdated": "2026-06-21T20:51:06.937Z",
+      "lastUpdated": "2026-08-02T21:01:26.047Z",
       "locales": {
         "en": {
           "name": "Card Only"
@@ -225,6 +238,7 @@
     },
     {
       "base": {
+        "filterSortOrder": null,
         "iconName": "barbell",
         "showInFilters": false,
         "slug": "gym"
@@ -242,6 +256,7 @@
     },
     {
       "base": {
+        "filterSortOrder": null,
         "iconName": "bell",
         "showInFilters": false,
         "slug": "concierge"
@@ -259,6 +274,7 @@
     },
     {
       "base": {
+        "filterSortOrder": null,
         "iconName": "television-simple",
         "showInFilters": false,
         "slug": "tv"
@@ -276,6 +292,7 @@
     },
     {
       "base": {
+        "filterSortOrder": null,
         "iconName": "pizza",
         "showInFilters": false,
         "slug": "pizza-oven"
@@ -293,6 +310,7 @@
     },
     {
       "base": {
+        "filterSortOrder": null,
         "iconName": "flower-lotus",
         "showInFilters": false,
         "slug": "yoga-space"
@@ -310,6 +328,7 @@
     },
     {
       "base": {
+        "filterSortOrder": null,
         "iconName": "cooking-pot",
         "showInFilters": false,
         "slug": "chef-service"
@@ -327,6 +346,7 @@
     },
     {
       "base": {
+        "filterSortOrder": null,
         "iconName": "broom",
         "showInFilters": false,
         "slug": "housekeeping"
@@ -344,6 +364,7 @@
     },
     {
       "base": {
+        "filterSortOrder": null,
         "iconName": "shield-check",
         "showInFilters": false,
         "slug": "security"
@@ -361,6 +382,7 @@
     },
     {
       "base": {
+        "filterSortOrder": null,
         "iconName": "confetti",
         "showInFilters": false,
         "slug": "event-space"
@@ -378,6 +400,7 @@
     },
     {
       "base": {
+        "filterSortOrder": null,
         "iconName": "bathtub",
         "showInFilters": false,
         "slug": "jacuzzi"
@@ -395,6 +418,7 @@
     },
     {
       "base": {
+        "filterSortOrder": null,
         "iconName": "snowflake",
         "showInFilters": false,
         "slug": "cold-plunge"
@@ -412,6 +436,7 @@
     },
     {
       "base": {
+        "filterSortOrder": null,
         "iconName": "thermometer-hot",
         "showInFilters": false,
         "slug": "steam-room"
@@ -429,6 +454,7 @@
     },
     {
       "base": {
+        "filterSortOrder": null,
         "iconName": "film-slate",
         "showInFilters": false,
         "slug": "theater-room"
@@ -446,6 +472,7 @@
     },
     {
       "base": {
+        "filterSortOrder": null,
         "iconName": "user-focus",
         "showInFilters": false,
         "slug": "butler"
