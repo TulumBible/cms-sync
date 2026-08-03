@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-08-03T00:20:04.592Z",
+  "syncedAt": "2026-08-03T19:18:52.053Z",
   "citySlug": "tulum",
   "venues": [
     {
@@ -7,14 +7,22 @@
         "amenityIds": [],
         "area": "hotel-zone",
         "category": "beachclub",
-        "coordinates": null,
+        "coordinates": {
+          "lat": 20.148110000000003,
+          "lng": -87.4595042
+        },
         "coverImage": null,
         "coverImageAlt": null,
         "drinkMenuUrl": "",
-        "faqIds": [],
+        "faqIds": [
+          "k575k5mws8808veqr6ta3s3s3n8bjbck",
+          "k5755y2yjtgtdj7mw90fm9tkgd8bjjg9",
+          "k570p2cmy42nf5zx7drxjxybrs8bj1kf",
+          "k577mp37t0wpd2ptfd9n8fsdax8bkrb8"
+        ],
         "foodMenuUrl": "",
         "googleMapsCode": "",
-        "googlePlaceId": null,
+        "googlePlaceId": "ChIJ85yjXfPRT48RbRZsqdAPOug",
         "hideReservationForm": false,
         "imageAlts": [],
         "imageUrls": [],
@@ -32,7 +40,7 @@
         "tags": []
       },
       "convexId": "jh73h95kjmbasdwd5dqpqfsxd17qygvv",
-      "lastUpdated": "2026-07-31T22:06:31.765Z",
+      "lastUpdated": "2026-07-31T23:47:42.566Z",
       "locales": {
         "en": {
           "address": "",
@@ -1203,7 +1211,7 @@
         "pricing": "$$$$",
         "priority": 2,
         "promotion": "normal",
-        "publishedAt": "2026-07-31T22:37:13.916Z",
+        "publishedAt": "2026-07-31T23:00:14.074Z",
         "reviewIds": [],
         "tableLayoutAlt": null,
         "tableLayoutUrl": null,
@@ -1268,7 +1276,7 @@
         "pricing": "$$$",
         "priority": 5,
         "promotion": "normal",
-        "publishedAt": "2026-07-31T23:32:06.765Z",
+        "publishedAt": "2026-07-31T23:34:35.792Z",
         "reviewIds": [],
         "tableLayoutAlt": null,
         "tableLayoutUrl": null,
