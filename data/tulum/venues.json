@@ -1,10 +1,19 @@
 {
-  "syncedAt": "2026-08-03T19:18:52.053Z",
+  "syncedAt": "2026-08-06T23:01:34.547Z",
   "citySlug": "tulum",
   "venues": [
     {
       "base": {
-        "amenityIds": [],
+        "amenityIds": [
+          "jn785e6n78fzxfq3e6yc4z206s858vs7",
+          "jn796fkb2npe38c126gkzmhe85858yf5",
+          "jn77s3v89mkdcb9d9yydgsx3vd858sbk",
+          "jn74axgjrqtsa18w8nxttnxfg5859e39",
+          "jn70zn5gpwjkfxwnbkd4948rv5859d8d",
+          "jn78wp2bkm0sv6aber490necah858phw",
+          "jn70tb3pfy3yycjzk8ke3pgtrs8585z7",
+          "jn70zdmazn719gygc3k7335zxn859dvw"
+        ],
         "area": "hotel-zone",
         "category": "beachclub",
         "coordinates": {
@@ -32,7 +41,7 @@
         "openingHoursHtml": "",
         "pricing": "$$",
         "priority": 5,
-        "promotion": null,
+        "promotion": "normal",
         "publishedAt": "2026-04-26T01:08:54.761Z",
         "reviewIds": [],
         "tableLayoutAlt": null,
@@ -40,7 +49,7 @@
         "tags": []
       },
       "convexId": "jh73h95kjmbasdwd5dqpqfsxd17qygvv",
-      "lastUpdated": "2026-07-31T23:47:42.566Z",
+      "lastUpdated": "2026-08-06T19:08:51.504Z",
       "locales": {
         "en": {
           "address": "",
@@ -72,7 +81,8 @@
           "jn785e6n78fzxfq3e6yc4z206s858vs7",
           "jn74axgjrqtsa18w8nxttnxfg5859e39",
           "jn78wp2bkm0sv6aber490necah858phw",
-          "jn70zn5gpwjkfxwnbkd4948rv5859d8d"
+          "jn70zn5gpwjkfxwnbkd4948rv5859d8d",
+          "jn73kazzzpkvxrnc9h64cr5fe98by92f"
         ],
         "area": "lagoon-nopalitos",
         "category": "lagoon",
@@ -113,7 +123,7 @@
         "tags": []
       },
       "convexId": "jh78cwez1x990dm1nzrjpss7ph7qyes0",
-      "lastUpdated": "2026-07-31T22:06:31.765Z",
+      "lastUpdated": "2026-08-06T19:11:22.412Z",
       "locales": {
         "en": {
           "address": "Parcela 1213-Z1/1, Jose Maria Pino Suarez, 77156 Q.R.",
@@ -141,7 +151,12 @@
     },
     {
       "base": {
-        "amenityIds": [],
+        "amenityIds": [
+          "jn785e6n78fzxfq3e6yc4z206s858vs7",
+          "jn76cg9jqcvq6gh3xwf0cj2c2s859sx2",
+          "jn74axgjrqtsa18w8nxttnxfg5859e39",
+          "jn789ppm3v02c83qr73j8xf4tn8bz6f5"
+        ],
         "area": "hotel-zone",
         "category": "restaurant",
         "coordinates": null,
@@ -181,7 +196,7 @@
         "tags": []
       },
       "convexId": "jh78a095xj124gadjm89dd42ts7qzg4b",
-      "lastUpdated": "2026-07-31T22:06:31.765Z",
+      "lastUpdated": "2026-08-06T19:07:41.288Z",
       "locales": {
         "en": {
           "address": "Carr. Tulum-Boca Paila Km. 8, Tulum Beach, Zona Hotelera, 77780 Tulum, Q.R.",
@@ -209,19 +224,32 @@
     },
     {
       "base": {
-        "amenityIds": [],
+        "amenityIds": [
+          "jn796fkb2npe38c126gkzmhe85858yf5",
+          "jn785e6n78fzxfq3e6yc4z206s858vs7",
+          "jn74axgjrqtsa18w8nxttnxfg5859e39",
+          "jn76cg9jqcvq6gh3xwf0cj2c2s859sx2",
+          "jn72f5n145a7gcvx7evwc8yzws8588h6",
+          "jn789ppm3v02c83qr73j8xf4tn8bz6f5"
+        ],
         "area": "hotel-zone",
         "category": "beachclub",
         "coordinates": null,
         "coverImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/2bf51e9e-0c44-4c20-d718-180671911e00/public",
-        "coverImageAlt": null,
-        "drinkMenuUrl": null,
+        "coverImageAlt": "",
+        "drinkMenuUrl": "",
         "faqIds": [],
-        "foodMenuUrl": null,
+        "foodMenuUrl": "",
         "googleMapsCode": "5G5V+HR Tulum, Quintana Roo",
         "googlePlaceId": null,
         "hideReservationForm": false,
-        "imageAlts": [],
+        "imageAlts": [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
         "imageUrls": [
           "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/2bf51e9e-0c44-4c20-d718-180671911e00/public",
           "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/8292ca07-b1f6-4cf6-94bb-c9063da5e000/public",
@@ -235,15 +263,15 @@
         "openingHoursHtml": "<p>11:00 - 01:00</p><p>11:00 - 01:00</p><p>11:00 - 01:00</p><p>11:00 - 01:00</p><p>11:00 - 01:00</p><p>11:00 - 01:00</p><p>11:00 - 01:00</p>",
         "pricing": "$$",
         "priority": 5,
-        "promotion": null,
+        "promotion": "normal",
         "publishedAt": "2026-04-26T01:08:54.761Z",
         "reviewIds": [],
-        "tableLayoutAlt": null,
+        "tableLayoutAlt": "",
         "tableLayoutUrl": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/428f7fbd-58e0-4084-beee-b745adae0d00/public",
         "tags": []
       },
       "convexId": "jh7ehet0e05w6684ntc93av3cs7qyebe",
-      "lastUpdated": "2026-07-30T05:47:37.245Z",
+      "lastUpdated": "2026-08-06T19:09:14.146Z",
       "locales": {
         "en": {
           "address": "Carretera Tulum-Boca Paila Zona Hotelera Km 7, 77780 Tulum, Q.R.",
@@ -413,7 +441,11 @@
     },
     {
       "base": {
-        "amenityIds": [],
+        "amenityIds": [
+          "jn70tb3pfy3yycjzk8ke3pgtrs8585z7",
+          "jn74axgjrqtsa18w8nxttnxfg5859e39",
+          "jn785e6n78fzxfq3e6yc4z206s858vs7"
+        ],
         "area": "downtown",
         "category": "restaurant",
         "coordinates": null,
@@ -453,7 +485,7 @@
         "tags": []
       },
       "convexId": "jh7f70c6n0hxh5h57hxkvb1y0d7qztbb",
-      "lastUpdated": "2026-07-31T22:06:31.765Z",
+      "lastUpdated": "2026-08-06T19:02:55.390Z",
       "locales": {
         "en": {
           "address": "6G6Q+HQ Tulum, Quintana Roo",
@@ -481,19 +513,33 @@
     },
     {
       "base": {
-        "amenityIds": [],
+        "amenityIds": [
+          "jn77s3v89mkdcb9d9yydgsx3vd858sbk",
+          "jn785e6n78fzxfq3e6yc4z206s858vs7",
+          "jn796fkb2npe38c126gkzmhe85858yf5",
+          "jn789ppm3v02c83qr73j8xf4tn8bz6f5",
+          "jn70tb3pfy3yycjzk8ke3pgtrs8585z7",
+          "jn71xzs8sx9ef304m6gjqmn5dh859d74",
+          "jn74axgjrqtsa18w8nxttnxfg5859e39"
+        ],
         "area": "downtown",
         "category": "rooftop",
         "coordinates": null,
         "coverImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/13594ecf-7661-4a7a-8c1f-bc34ebdf9b00/public",
-        "coverImageAlt": null,
-        "drinkMenuUrl": null,
+        "coverImageAlt": "",
+        "drinkMenuUrl": "",
         "faqIds": [],
-        "foodMenuUrl": null,
+        "foodMenuUrl": "",
         "googleMapsCode": "6G6Q+CR Tulum, Quintana Roo",
         "googlePlaceId": null,
         "hideReservationForm": false,
-        "imageAlts": [],
+        "imageAlts": [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
         "imageUrls": [
           "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/13594ecf-7661-4a7a-8c1f-bc34ebdf9b00/public",
           "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/4e61cd92-38e5-4cbe-28bd-14f292590b00/public",
@@ -507,7 +553,7 @@
         "openingHoursHtml": "<p>Closed</p><p>20:00 - 02:30</p><p>20:00 - 02:30</p><p>20:00 - 02:30</p><p>20:00 - 02:30</p><p>20:00 - 02:30</p><p>20:00 - 02:30</p>",
         "pricing": "$$$",
         "priority": 5,
-        "promotion": null,
+        "promotion": "normal",
         "publishedAt": "2026-04-26T01:08:54.761Z",
         "reviewIds": [],
         "tableLayoutAlt": null,
@@ -515,7 +561,7 @@
         "tags": []
       },
       "convexId": "jh785n3282gy1cqwmhn2z2ch397qyj1p",
-      "lastUpdated": "2026-07-31T22:06:31.765Z",
+      "lastUpdated": "2026-08-06T19:10:02.388Z",
       "locales": {
         "en": {
           "address": "C. Orión Sur Manzana 3 L2, entre Andromeda Oriente, Tulum Centro, 77760 Tulum, Q.R.",
@@ -543,7 +589,13 @@
     },
     {
       "base": {
-        "amenityIds": [],
+        "amenityIds": [
+          "jn70zn5gpwjkfxwnbkd4948rv5859d8d",
+          "jn73wn3mp1p288pg1ae5sq9k6h8581b5",
+          "jn74axgjrqtsa18w8nxttnxfg5859e39",
+          "jn785e6n78fzxfq3e6yc4z206s858vs7",
+          "jn78wp2bkm0sv6aber490necah858phw"
+        ],
         "area": "uptown",
         "category": "cenote",
         "coordinates": null,
@@ -586,7 +638,7 @@
         "tags": []
       },
       "convexId": "jh7c7enep85z0w69t9v1grcarh7qzm2f",
-      "lastUpdated": "2026-08-03T00:19:45.175Z",
+      "lastUpdated": "2026-08-06T19:08:25.007Z",
       "locales": {
         "en": {
           "address": "PARCELA No. 198Z-2P-1 EJIDO, 77760 Tulum, Q.R.",
@@ -755,7 +807,12 @@
     },
     {
       "base": {
-        "amenityIds": [],
+        "amenityIds": [
+          "jn74axgjrqtsa18w8nxttnxfg5859e39",
+          "jn76cg9jqcvq6gh3xwf0cj2c2s859sx2",
+          "jn785e6n78fzxfq3e6yc4z206s858vs7",
+          "jn789ppm3v02c83qr73j8xf4tn8bz6f5"
+        ],
         "area": "hotel-zone",
         "category": "restaurant",
         "coordinates": null,
@@ -795,7 +852,7 @@
         "tags": []
       },
       "convexId": "jh72075epd4m1g8m5ke7qddnmd7qyez8",
-      "lastUpdated": "2026-08-03T00:19:45.175Z",
+      "lastUpdated": "2026-08-06T19:07:15.459Z",
       "locales": {
         "en": {
           "address": "Beach Road Km. 7, 77710 Q.R",
@@ -826,7 +883,8 @@
         "amenityIds": [
           "jn72f5n145a7gcvx7evwc8yzws8588h6",
           "jn71xzs8sx9ef304m6gjqmn5dh859d74",
-          "jn74axgjrqtsa18w8nxttnxfg5859e39"
+          "jn74axgjrqtsa18w8nxttnxfg5859e39",
+          "jn789ppm3v02c83qr73j8xf4tn8bz6f5"
         ],
         "area": "hotel-zone",
         "category": "nightclub",
@@ -867,7 +925,7 @@
         "tags": []
       },
       "convexId": "jh7bftnghstjsn114abapgpttd7qyxyq",
-      "lastUpdated": "2026-07-31T22:06:31.765Z",
+      "lastUpdated": "2026-08-06T19:05:59.964Z",
       "locales": {
         "en": {
           "address": "Carretera estatal Tulum - Boca Paila, Parcela 1744-A NCPE José María Pino Suárez, 77760 Tulum, Q.R.",
@@ -968,7 +1026,13 @@
     },
     {
       "base": {
-        "amenityIds": [],
+        "amenityIds": [
+          "jn70zn5gpwjkfxwnbkd4948rv5859d8d",
+          "jn70zdmazn719gygc3k7335zxn859dvw",
+          "jn77s3v89mkdcb9d9yydgsx3vd858sbk",
+          "jn785e6n78fzxfq3e6yc4z206s858vs7",
+          "jn789ppm3v02c83qr73j8xf4tn8bz6f5"
+        ],
         "area": "hotel-zone",
         "category": "beachclub",
         "coordinates": null,
@@ -1008,7 +1072,7 @@
         "tags": []
       },
       "convexId": "jh72qvc4pqgb77j2kja14r0ez17qy75p",
-      "lastUpdated": "2026-07-31T22:06:31.765Z",
+      "lastUpdated": "2026-08-06T19:08:03.407Z",
       "locales": {
         "en": {
           "address": "",
@@ -1205,7 +1269,7 @@
           "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/61e6e7a5-00bb-4635-f3f4-a534ff7aab00/public"
         ],
         "isClosed": false,
-        "isFeatured": false,
+        "isFeatured": true,
         "isFeaturedOnCoreTulum": false,
         "openingHoursHtml": "<p>08:00 - 18:00</p><p>08:00 - 18:00</p><p>08:00 - 18:00</p><p>08:00 - 18:00</p><p>08:00 - 18:00</p><p>08:00 - 18:00</p><p>08:00 - 18:00</p>",
         "pricing": "$$$$",
@@ -1218,13 +1282,13 @@
         "tags": []
       },
       "convexId": "jh7fs06v4xyxp8zks4970mhzjx82ddw0",
-      "lastUpdated": "2026-07-31T23:00:13.870Z",
+      "lastUpdated": "2026-08-06T19:01:37.280Z",
       "locales": {
         "en": {
           "address": "Carretera Tulum Boca Paila Km 7.5 Mza 020 reg 009, 77780 Tulum, Q.R.",
           "body": "<h2 id=\"\">A Jungle-Meets-Sea Escape at Kanan Tulum</h2><p id=\"\">Kanan Beach Club invites you to enjoy Tulum with a unique twist: rustic-chic architecture built from tropical woods, soft sand underfoot, and open-air lounges that blend jungle and sea. The design evokes a treehouse feel, making the beach experience feel more immersive — like you’re part of the landscape rather than just visiting.&nbsp;</p><h3 id=\"\">Adults-Only Beach Club</h3><p id=\"\">Kanan operates as an <strong id=\"\">adults-only beach club</strong>, creating a calm-yet-styled atmosphere ideal for couples or friends looking for laid-back beach time. Music — mostly soft house or chill beats — plays during the day to complement the breeze and ocean views.</p><h3 id=\"\">Beachfront Lounging</h3><p id=\"\">The layout offers a variety of beachfront seating: from rustic cabanas to shaded loungers right on the sand and above on private decks. Setups with sand-floor restaurants, wooden decks, and swings or “nest”-style lounges make Kanan feel organic and relaxed, rather than polished or over-styled. Guests mention it feels intimate and personal — not overcrowded.</p><p id=\"\">Because the design embraces nature (wood, sand, jungle greenery), the whole venue feels grounded and low-key. It’s a space where you can choose calm (sunbathing, reading, swimming) or simple sociability (drinks, casual meals, lounging).</p><h3 id=\"\">Experiences, Events &amp; Easy Access to Tulum’s Hotspots</h3><p id=\"\">Although it keeps a relaxed vibe: during high season it hosts beach club sessions, DJ sets, and parties that attract a fun, social crowd.&nbsp;</p><p id=\"\">Its location in Tulum’s hotel zone is another big plus: you're close to trendy bars, night venues, restaurants and shops — but still have a peaceful beach base to return to.</p><p id=\"\">Guests consistently highlight the combination of good design, friendly staff, oceanfront access, and freedom (no strict dress codes or formalities) as what keeps drawing them back.</p>",
           "description": "Kanan Beachclub is an adults-only venue with a restaurant, pool, and pet-friendly spaces, offering a relaxed jungle-meets-sea escape in the hotel zone.",
-          "feesHtml": "<p id=\"\"><strong id=\"\">Cover:</strong> only during special events, </p><p id=\"\"><strong>Min Consumption:</strong> (enforced after 30%&nbsp;occupancy has reached) from $1,100 MXN </p>",
+          "feesHtml": "<p><strong>Cover:</strong> only during special events,</p><p><strong>No Min Consumption</strong></p>",
           "menuDescription": "",
           "metaDescription": "Kanan Beachclub is an adults-only beach club in Tulum's Hotel Zone, with treehouse-style lounges by the sea. Book your sunbed on Tulum Bible.",
           "name": "Kanan Beachclub",
