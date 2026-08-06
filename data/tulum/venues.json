@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-08-06T23:01:34.547Z",
+  "syncedAt": "2026-08-06T23:18:44.164Z",
   "citySlug": "tulum",
   "venues": [
     {
@@ -20,8 +20,6 @@
           "lat": 20.148110000000003,
           "lng": -87.4595042
         },
-        "coverImage": null,
-        "coverImageAlt": null,
         "drinkMenuUrl": "",
         "faqIds": [
           "k575k5mws8808veqr6ta3s3s3n8bjbck",
@@ -33,8 +31,7 @@
         "googleMapsCode": "",
         "googlePlaceId": "ChIJ85yjXfPRT48RbRZsqdAPOug",
         "hideReservationForm": false,
-        "imageAlts": [],
-        "imageUrls": [],
+        "images": [],
         "isClosed": false,
         "isFeatured": false,
         "isFeaturedOnCoreTulum": false,
@@ -42,14 +39,13 @@
         "pricing": "$$",
         "priority": 5,
         "promotion": "normal",
-        "publishedAt": "2026-04-26T01:08:54.761Z",
+        "publishedAt": "2026-08-06T19:08:51.699Z",
         "reviewIds": [],
-        "tableLayoutAlt": null,
-        "tableLayoutUrl": null,
+        "tableLayoutImage": null,
         "tags": []
       },
       "convexId": "jh73h95kjmbasdwd5dqpqfsxd17qygvv",
-      "lastUpdated": "2026-08-06T19:08:51.504Z",
+      "lastUpdated": "2026-08-06T22:02:24.884Z",
       "locales": {
         "en": {
           "address": "",
@@ -87,27 +83,28 @@
         "area": "lagoon-nopalitos",
         "category": "lagoon",
         "coordinates": null,
-        "coverImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/231dc16c-5807-490e-f132-b35494a73900/public",
-        "coverImageAlt": "",
         "drinkMenuUrl": "",
         "faqIds": [],
         "foodMenuUrl": "",
         "googleMapsCode": "4C59+4W José María Pino Suárez, Quintana Roo",
         "googlePlaceId": null,
         "hideReservationForm": false,
-        "imageAlts": [
-          "",
-          "",
-          "",
-          "",
-          ""
-        ],
-        "imageUrls": [
-          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/231dc16c-5807-490e-f132-b35494a73900/public",
-          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/f3e2d508-7da3-44b5-6228-fa8fde42be00/public",
-          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/8a568f95-b7b4-4713-2f23-4ac3f5e2b200/public",
-          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/99b05644-f478-467e-4da2-741229caa200/public",
-          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/7f2ff7b3-106d-425d-40cb-71fc207d5000/public"
+        "images": [
+          {
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/231dc16c-5807-490e-f132-b35494a73900/public"
+          },
+          {
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/f3e2d508-7da3-44b5-6228-fa8fde42be00/public"
+          },
+          {
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/8a568f95-b7b4-4713-2f23-4ac3f5e2b200/public"
+          },
+          {
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/99b05644-f478-467e-4da2-741229caa200/public"
+          },
+          {
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/7f2ff7b3-106d-425d-40cb-71fc207d5000/public"
+          }
         ],
         "isClosed": false,
         "isFeatured": false,
@@ -116,14 +113,13 @@
         "pricing": "$$$",
         "priority": 1,
         "promotion": "normal",
-        "publishedAt": "2026-06-22T00:16:34.110Z",
+        "publishedAt": "2026-08-06T19:11:22.622Z",
         "reviewIds": [],
-        "tableLayoutAlt": null,
-        "tableLayoutUrl": null,
+        "tableLayoutImage": null,
         "tags": []
       },
       "convexId": "jh78cwez1x990dm1nzrjpss7ph7qyes0",
-      "lastUpdated": "2026-08-06T19:11:22.412Z",
+      "lastUpdated": "2026-08-06T22:02:24.884Z",
       "locales": {
         "en": {
           "address": "Parcela 1213-Z1/1, Jose Maria Pino Suarez, 77156 Q.R.",
@@ -160,27 +156,28 @@
         "area": "hotel-zone",
         "category": "restaurant",
         "coordinates": null,
-        "coverImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/62bb0530-e354-4cea-73fb-03660d93bd00/public",
-        "coverImageAlt": "",
         "drinkMenuUrl": "",
         "faqIds": [],
         "foodMenuUrl": "",
         "googleMapsCode": "5G3R+7W Tulum, Quintana Roo",
         "googlePlaceId": null,
         "hideReservationForm": false,
-        "imageAlts": [
-          "",
-          "",
-          "",
-          "",
-          ""
-        ],
-        "imageUrls": [
-          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/62bb0530-e354-4cea-73fb-03660d93bd00/public",
-          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/6995d8a0-bc72-49ef-a68d-0a5479239200/public",
-          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/396b8dc3-3ead-495a-34ec-8d0160670300/public",
-          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/134e35ce-d836-4dfc-51be-9f62168b2b00/public",
-          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/2bd0e0e9-761c-4363-3cdf-b31eef650600/public"
+        "images": [
+          {
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/62bb0530-e354-4cea-73fb-03660d93bd00/public"
+          },
+          {
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/6995d8a0-bc72-49ef-a68d-0a5479239200/public"
+          },
+          {
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/396b8dc3-3ead-495a-34ec-8d0160670300/public"
+          },
+          {
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/134e35ce-d836-4dfc-51be-9f62168b2b00/public"
+          },
+          {
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/2bd0e0e9-761c-4363-3cdf-b31eef650600/public"
+          }
         ],
         "isClosed": false,
         "isFeatured": false,
@@ -189,14 +186,13 @@
         "pricing": "$$",
         "priority": 1,
         "promotion": "editors-pick",
-        "publishedAt": "2026-06-21T23:20:36.229Z",
+        "publishedAt": "2026-08-06T19:07:41.482Z",
         "reviewIds": [],
-        "tableLayoutAlt": null,
-        "tableLayoutUrl": null,
+        "tableLayoutImage": null,
         "tags": []
       },
       "convexId": "jh78a095xj124gadjm89dd42ts7qzg4b",
-      "lastUpdated": "2026-08-06T19:07:41.288Z",
+      "lastUpdated": "2026-08-06T22:02:24.884Z",
       "locales": {
         "en": {
           "address": "Carr. Tulum-Boca Paila Km. 8, Tulum Beach, Zona Hotelera, 77780 Tulum, Q.R.",
@@ -235,27 +231,28 @@
         "area": "hotel-zone",
         "category": "beachclub",
         "coordinates": null,
-        "coverImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/2bf51e9e-0c44-4c20-d718-180671911e00/public",
-        "coverImageAlt": "",
         "drinkMenuUrl": "",
         "faqIds": [],
         "foodMenuUrl": "",
         "googleMapsCode": "5G5V+HR Tulum, Quintana Roo",
         "googlePlaceId": null,
         "hideReservationForm": false,
-        "imageAlts": [
-          "",
-          "",
-          "",
-          "",
-          ""
-        ],
-        "imageUrls": [
-          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/2bf51e9e-0c44-4c20-d718-180671911e00/public",
-          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/8292ca07-b1f6-4cf6-94bb-c9063da5e000/public",
-          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/91373704-141d-4606-da28-1d5d7c847000/public",
-          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/1c64327f-e6c8-4fdb-b9ce-cda220882b00/public",
-          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/8b184206-f38a-4aee-3309-75359d09cd00/public"
+        "images": [
+          {
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/2bf51e9e-0c44-4c20-d718-180671911e00/public"
+          },
+          {
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/8292ca07-b1f6-4cf6-94bb-c9063da5e000/public"
+          },
+          {
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/91373704-141d-4606-da28-1d5d7c847000/public"
+          },
+          {
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/1c64327f-e6c8-4fdb-b9ce-cda220882b00/public"
+          },
+          {
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/8b184206-f38a-4aee-3309-75359d09cd00/public"
+          }
         ],
         "isClosed": false,
         "isFeatured": false,
@@ -264,14 +261,15 @@
         "pricing": "$$",
         "priority": 5,
         "promotion": "normal",
-        "publishedAt": "2026-04-26T01:08:54.761Z",
+        "publishedAt": "2026-08-06T19:09:14.461Z",
         "reviewIds": [],
-        "tableLayoutAlt": "",
-        "tableLayoutUrl": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/428f7fbd-58e0-4084-beee-b745adae0d00/public",
+        "tableLayoutImage": {
+          "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/428f7fbd-58e0-4084-beee-b745adae0d00/public"
+        },
         "tags": []
       },
       "convexId": "jh7ehet0e05w6684ntc93av3cs7qyebe",
-      "lastUpdated": "2026-08-06T19:09:14.146Z",
+      "lastUpdated": "2026-08-06T22:02:30.753Z",
       "locales": {
         "en": {
           "address": "Carretera Tulum-Boca Paila Zona Hotelera Km 7, 77780 Tulum, Q.R.",
@@ -303,27 +301,28 @@
         "area": "aldea-zama",
         "category": "rooftop",
         "coordinates": null,
-        "coverImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/cd1699e6-2093-4a7c-c367-1ea7c526da00/public",
-        "coverImageAlt": "",
         "drinkMenuUrl": "https://assets.tulumbible.com/menus/tulum/mayan-monkey-tulum-drinks-menu.pdf",
         "faqIds": [],
         "foodMenuUrl": "https://assets.tulumbible.com/menus/tulum/mayan-monkey-tulum-food-menu.pdf",
         "googleMapsCode": "6G3X+WV Tulum, Quintana Roo",
         "googlePlaceId": null,
         "hideReservationForm": true,
-        "imageAlts": [
-          "",
-          "",
-          "",
-          "",
-          ""
-        ],
-        "imageUrls": [
-          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/cd1699e6-2093-4a7c-c367-1ea7c526da00/public",
-          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/4996c0f3-1ee9-4a66-a134-ccf8c789f200/public",
-          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/78cbea1c-5e22-4971-2039-22bfa8575100/public",
-          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/abbc272e-4bc4-4a04-3d9f-7f3143592a00/public",
-          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/ce89b2e6-11a7-42da-0c07-1408abbefe00/public"
+        "images": [
+          {
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/cd1699e6-2093-4a7c-c367-1ea7c526da00/public"
+          },
+          {
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/4996c0f3-1ee9-4a66-a134-ccf8c789f200/public"
+          },
+          {
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/78cbea1c-5e22-4971-2039-22bfa8575100/public"
+          },
+          {
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/abbc272e-4bc4-4a04-3d9f-7f3143592a00/public"
+          },
+          {
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/ce89b2e6-11a7-42da-0c07-1408abbefe00/public"
+          }
         ],
         "isClosed": false,
         "isFeatured": false,
@@ -334,12 +333,11 @@
         "promotion": "normal",
         "publishedAt": "2026-07-24T19:01:47.317Z",
         "reviewIds": [],
-        "tableLayoutAlt": null,
-        "tableLayoutUrl": null,
+        "tableLayoutImage": null,
         "tags": []
       },
       "convexId": "jh7bbszfqy5r93mtpscfzmqdv17qznez",
-      "lastUpdated": "2026-08-03T00:19:45.175Z",
+      "lastUpdated": "2026-08-06T22:02:24.884Z",
       "locales": {
         "en": {
           "address": "Mayan Monkey Hostel Tulum, Av. Coba Sur S/N, 77780 Tulum, Q.R.",
@@ -374,27 +372,28 @@
           "lat": 20.1872787,
           "lng": -87.5277246
         },
-        "coverImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/a350de2b-2c3c-4af1-f75a-d786e742cb00/public",
-        "coverImageAlt": "",
         "drinkMenuUrl": "",
         "faqIds": [],
         "foodMenuUrl": "",
         "googleMapsCode": "5FPC+WW Tulum, Quintana Roo, Mexico",
         "googlePlaceId": "ChIJObsBnTvWT48RvKW_1bJ2Yj8",
         "hideReservationForm": true,
-        "imageAlts": [
-          "",
-          "",
-          "",
-          "",
-          ""
-        ],
-        "imageUrls": [
-          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/a350de2b-2c3c-4af1-f75a-d786e742cb00/public",
-          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/4c563eb7-b959-42f1-1d3b-d42682666d00/public",
-          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/8c0c8a01-ade0-49c0-3ada-6cebe1298600/public",
-          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/49c1d409-8e64-4261-b8d6-47e4ca98ca00/public",
-          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/c0b6fdfc-ce4f-4400-55d4-cefb6f136800/public"
+        "images": [
+          {
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/a350de2b-2c3c-4af1-f75a-d786e742cb00/public"
+          },
+          {
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/4c563eb7-b959-42f1-1d3b-d42682666d00/public"
+          },
+          {
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/8c0c8a01-ade0-49c0-3ada-6cebe1298600/public"
+          },
+          {
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/49c1d409-8e64-4261-b8d6-47e4ca98ca00/public"
+          },
+          {
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/c0b6fdfc-ce4f-4400-55d4-cefb6f136800/public"
+          }
         ],
         "isClosed": false,
         "isFeatured": false,
@@ -408,12 +407,11 @@
           "kd78zkr3gwtn7er0ptrd09fbv985kqeh",
           "kd7cs3k6egjzpk7g1qs35d3rg185kzwt"
         ],
-        "tableLayoutAlt": null,
-        "tableLayoutUrl": null,
+        "tableLayoutImage": null,
         "tags": []
       },
       "convexId": "jh78tmrpt2hwv07mjr6s6exnj97qy4js",
-      "lastUpdated": "2026-07-31T22:06:31.765Z",
+      "lastUpdated": "2026-08-06T22:02:24.884Z",
       "locales": {
         "en": {
           "address": "km 200, México 307, Tulum",
@@ -449,27 +447,28 @@
         "area": "downtown",
         "category": "restaurant",
         "coordinates": null,
-        "coverImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/3e5e90a5-4b11-47fb-26bd-8aed243c7d00/public",
-        "coverImageAlt": "",
         "drinkMenuUrl": "",
         "faqIds": [],
         "foodMenuUrl": "",
         "googleMapsCode": "M4 L09-1, C. Orión Sur entre Calle Andromeda y Av. Tulum, Tulum Centro, 77760 Tulum, Q.R.",
         "googlePlaceId": null,
         "hideReservationForm": false,
-        "imageAlts": [
-          "",
-          "",
-          "",
-          "",
-          ""
-        ],
-        "imageUrls": [
-          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/3e5e90a5-4b11-47fb-26bd-8aed243c7d00/public",
-          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/a6a36623-c31c-4919-a0b6-57b025350e00/public",
-          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/f983fe02-8b8e-4363-1cab-ebd1461f7400/public",
-          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/ad0dfa90-6d1e-4bab-abac-5624a345fe00/public",
-          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/4ddaf500-de40-46a6-1a85-1584d9939600/public"
+        "images": [
+          {
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/3e5e90a5-4b11-47fb-26bd-8aed243c7d00/public"
+          },
+          {
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/a6a36623-c31c-4919-a0b6-57b025350e00/public"
+          },
+          {
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/f983fe02-8b8e-4363-1cab-ebd1461f7400/public"
+          },
+          {
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/ad0dfa90-6d1e-4bab-abac-5624a345fe00/public"
+          },
+          {
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/4ddaf500-de40-46a6-1a85-1584d9939600/public"
+          }
         ],
         "isClosed": false,
         "isFeatured": false,
@@ -478,14 +477,13 @@
         "pricing": "$$",
         "priority": 1,
         "promotion": "normal",
-        "publishedAt": "2026-06-22T00:16:50.465Z",
+        "publishedAt": "2026-08-06T19:02:55.585Z",
         "reviewIds": [],
-        "tableLayoutAlt": null,
-        "tableLayoutUrl": null,
+        "tableLayoutImage": null,
         "tags": []
       },
       "convexId": "jh7f70c6n0hxh5h57hxkvb1y0d7qztbb",
-      "lastUpdated": "2026-08-06T19:02:55.390Z",
+      "lastUpdated": "2026-08-06T22:02:24.884Z",
       "locales": {
         "en": {
           "address": "6G6Q+HQ Tulum, Quintana Roo",
@@ -525,27 +523,28 @@
         "area": "downtown",
         "category": "rooftop",
         "coordinates": null,
-        "coverImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/13594ecf-7661-4a7a-8c1f-bc34ebdf9b00/public",
-        "coverImageAlt": "",
         "drinkMenuUrl": "",
         "faqIds": [],
         "foodMenuUrl": "",
         "googleMapsCode": "6G6Q+CR Tulum, Quintana Roo",
         "googlePlaceId": null,
         "hideReservationForm": false,
-        "imageAlts": [
-          "",
-          "",
-          "",
-          "",
-          ""
-        ],
-        "imageUrls": [
-          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/13594ecf-7661-4a7a-8c1f-bc34ebdf9b00/public",
-          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/4e61cd92-38e5-4cbe-28bd-14f292590b00/public",
-          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/8201c4e7-31c6-4f02-57e9-d9909c92c900/public",
-          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/a0227924-859a-4d6e-b2f9-b86e446c5800/public",
-          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/50dcc015-1cbd-4bb4-6085-1150ba3a8400/public"
+        "images": [
+          {
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/13594ecf-7661-4a7a-8c1f-bc34ebdf9b00/public"
+          },
+          {
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/4e61cd92-38e5-4cbe-28bd-14f292590b00/public"
+          },
+          {
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/8201c4e7-31c6-4f02-57e9-d9909c92c900/public"
+          },
+          {
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/a0227924-859a-4d6e-b2f9-b86e446c5800/public"
+          },
+          {
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/50dcc015-1cbd-4bb4-6085-1150ba3a8400/public"
+          }
         ],
         "isClosed": false,
         "isFeatured": false,
@@ -554,14 +553,13 @@
         "pricing": "$$$",
         "priority": 5,
         "promotion": "normal",
-        "publishedAt": "2026-04-26T01:08:54.761Z",
+        "publishedAt": "2026-08-06T19:10:02.578Z",
         "reviewIds": [],
-        "tableLayoutAlt": null,
-        "tableLayoutUrl": null,
+        "tableLayoutImage": null,
         "tags": []
       },
       "convexId": "jh785n3282gy1cqwmhn2z2ch397qyj1p",
-      "lastUpdated": "2026-08-06T19:10:02.388Z",
+      "lastUpdated": "2026-08-06T22:02:24.884Z",
       "locales": {
         "en": {
           "address": "C. Orión Sur Manzana 3 L2, entre Andromeda Oriente, Tulum Centro, 77760 Tulum, Q.R.",
@@ -599,27 +597,28 @@
         "area": "uptown",
         "category": "cenote",
         "coordinates": null,
-        "coverImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/aa848173-7917-4eea-30c7-ff5142ea0c00/public",
-        "coverImageAlt": "",
         "drinkMenuUrl": "https://assets.tulumbible.com/menus/tulum/vesica-tulum-drinks-menu.pdf",
         "faqIds": [],
         "foodMenuUrl": "https://assets.tulumbible.com/menus/tulum/vesica-tulum-food-menu.pdf",
         "googleMapsCode": "5FWX+P2 Tulum, Quintana Roo",
         "googlePlaceId": null,
         "hideReservationForm": false,
-        "imageAlts": [
-          "",
-          "",
-          "",
-          "",
-          ""
-        ],
-        "imageUrls": [
-          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/aa848173-7917-4eea-30c7-ff5142ea0c00/public",
-          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/bc9c458e-40f7-46a2-558b-8cdb2c0f8000/public",
-          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/d8d23256-0387-4762-dc72-38aac3efdb00/public",
-          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/7ded522c-ce99-438d-c734-81af56599500/public",
-          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/7050c505-557f-4b38-2cc2-8d9763ab8f00/public"
+        "images": [
+          {
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/aa848173-7917-4eea-30c7-ff5142ea0c00/public"
+          },
+          {
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/bc9c458e-40f7-46a2-558b-8cdb2c0f8000/public"
+          },
+          {
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/d8d23256-0387-4762-dc72-38aac3efdb00/public"
+          },
+          {
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/7ded522c-ce99-438d-c734-81af56599500/public"
+          },
+          {
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/7050c505-557f-4b38-2cc2-8d9763ab8f00/public"
+          }
         ],
         "isClosed": false,
         "isFeatured": true,
@@ -628,17 +627,16 @@
         "pricing": "$$$$",
         "priority": 1,
         "promotion": "normal",
-        "publishedAt": "2026-06-21T23:24:52.764Z",
+        "publishedAt": "2026-08-06T19:08:25.473Z",
         "reviewIds": [
           "kd7eebfew9ktywsfrwe53vb88x85kzgm",
           "kd722msrav4n97z78g9yggqz5585kr4v"
         ],
-        "tableLayoutAlt": null,
-        "tableLayoutUrl": null,
+        "tableLayoutImage": null,
         "tags": []
       },
       "convexId": "jh7c7enep85z0w69t9v1grcarh7qzm2f",
-      "lastUpdated": "2026-08-06T19:08:25.007Z",
+      "lastUpdated": "2026-08-06T22:02:24.884Z",
       "locales": {
         "en": {
           "address": "PARCELA No. 198Z-2P-1 EJIDO, 77760 Tulum, Q.R.",
@@ -670,27 +668,28 @@
         "area": "hotel-zone",
         "category": "restaurant",
         "coordinates": null,
-        "coverImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/68a29f7e-9c77-4f1a-b88c-7ffc3ea9cd00/public",
-        "coverImageAlt": "",
         "drinkMenuUrl": "",
         "faqIds": [],
         "foodMenuUrl": "https://assets.tulumbible.com/menus/tulum/meze-tulum-food-menu.pdf",
         "googleMapsCode": "Carretera Tulum-Boca Paila Km 6.5 S/N, 77780 Tulum, Q.R.",
         "googlePlaceId": null,
         "hideReservationForm": true,
-        "imageAlts": [
-          "",
-          "",
-          "",
-          "",
-          ""
-        ],
-        "imageUrls": [
-          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/68a29f7e-9c77-4f1a-b88c-7ffc3ea9cd00/public",
-          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/bacb6599-8429-44b2-db3c-06eca4dee600/public",
-          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/554fa985-2d7b-465e-b20c-d185d7c43a00/public",
-          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/ed296360-180e-48ad-cd8b-e6e307158300/public",
-          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/7a8a2294-6d21-4e33-5820-0ef46269e700/public"
+        "images": [
+          {
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/68a29f7e-9c77-4f1a-b88c-7ffc3ea9cd00/public"
+          },
+          {
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/bacb6599-8429-44b2-db3c-06eca4dee600/public"
+          },
+          {
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/554fa985-2d7b-465e-b20c-d185d7c43a00/public"
+          },
+          {
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/ed296360-180e-48ad-cd8b-e6e307158300/public"
+          },
+          {
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/7a8a2294-6d21-4e33-5820-0ef46269e700/public"
+          }
         ],
         "isClosed": true,
         "isFeatured": false,
@@ -701,12 +700,11 @@
         "promotion": "normal",
         "publishedAt": "2026-06-21T23:57:50.349Z",
         "reviewIds": [],
-        "tableLayoutAlt": null,
-        "tableLayoutUrl": null,
+        "tableLayoutImage": null,
         "tags": []
       },
       "convexId": "jh77f9f8ntttn93xyn961kw43x7qzyw9",
-      "lastUpdated": "2026-08-03T00:19:45.175Z",
+      "lastUpdated": "2026-08-06T22:02:24.884Z",
       "locales": {
         "en": {
           "address": "",
@@ -743,27 +741,28 @@
         "area": "hotel-zone",
         "category": "beachclub",
         "coordinates": null,
-        "coverImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/86b3da0a-d00f-40e8-b3bf-bd9a17488100/public",
-        "coverImageAlt": "",
         "drinkMenuUrl": "https://assets.tulumbible.com/menus/tulum/gitano-beach-drinks-menu.pdf",
         "faqIds": [],
         "foodMenuUrl": "https://assets.tulumbible.com/menus/tulum/gitano-beach-food-menu.pdf",
         "googleMapsCode": "4GJP+Q9 Tulum, Quintana Roo",
         "googlePlaceId": null,
         "hideReservationForm": false,
-        "imageAlts": [
-          "",
-          "",
-          "",
-          "",
-          ""
-        ],
-        "imageUrls": [
-          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/86b3da0a-d00f-40e8-b3bf-bd9a17488100/public",
-          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/9d44e736-538c-4b47-1dbe-bac280d9cc00/public",
-          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/f31bd2b2-c754-4a94-b95f-20d45be91b00/public",
-          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/cf60895d-b38d-4d0c-c921-ace344c9c100/public",
-          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/6a215c15-9f7c-4315-a2ea-63e36693da00/public"
+        "images": [
+          {
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/86b3da0a-d00f-40e8-b3bf-bd9a17488100/public"
+          },
+          {
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/9d44e736-538c-4b47-1dbe-bac280d9cc00/public"
+          },
+          {
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/f31bd2b2-c754-4a94-b95f-20d45be91b00/public"
+          },
+          {
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/cf60895d-b38d-4d0c-c921-ace344c9c100/public"
+          },
+          {
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/6a215c15-9f7c-4315-a2ea-63e36693da00/public"
+          }
         ],
         "isClosed": false,
         "isFeatured": false,
@@ -774,12 +773,11 @@
         "promotion": "normal",
         "publishedAt": "2026-07-24T19:01:09.474Z",
         "reviewIds": [],
-        "tableLayoutAlt": null,
-        "tableLayoutUrl": null,
+        "tableLayoutImage": null,
         "tags": []
       },
       "convexId": "jh78dedjb1ax2fn62m55q31k857qyzdj",
-      "lastUpdated": "2026-08-03T00:19:45.175Z",
+      "lastUpdated": "2026-08-06T22:02:24.884Z",
       "locales": {
         "en": {
           "address": "Av Boca Paila KM 9.5, Tulum Beach, Zona Costera, 77780 Tulum, Q.R.",
@@ -816,27 +814,28 @@
         "area": "hotel-zone",
         "category": "restaurant",
         "coordinates": null,
-        "coverImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/13f5a709-4715-47a5-33e0-99de1ec12b00/public",
-        "coverImageAlt": "",
         "drinkMenuUrl": "https://assets.tulumbible.com/menus/tulum/gitano-jungle-drinks-menu.pdf",
         "faqIds": [],
         "foodMenuUrl": "https://assets.tulumbible.com/menus/tulum/gitano-jungle-food-menu.pdf",
         "googleMapsCode": "5G2R+29 Tulum, Quintana Roo",
         "googlePlaceId": null,
         "hideReservationForm": false,
-        "imageAlts": [
-          "",
-          "",
-          "",
-          "",
-          ""
-        ],
-        "imageUrls": [
-          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/13f5a709-4715-47a5-33e0-99de1ec12b00/public",
-          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/2208ea1a-445f-4955-8257-b1bd4d0d0000/public",
-          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/45743285-1a6b-4d19-535e-e761bc5d1900/public",
-          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/07561622-56e2-4a05-f78f-342d4df6e400/public",
-          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/8d7c254b-e78b-497c-b512-be7bc7c84c00/public"
+        "images": [
+          {
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/13f5a709-4715-47a5-33e0-99de1ec12b00/public"
+          },
+          {
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/2208ea1a-445f-4955-8257-b1bd4d0d0000/public"
+          },
+          {
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/45743285-1a6b-4d19-535e-e761bc5d1900/public"
+          },
+          {
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/07561622-56e2-4a05-f78f-342d4df6e400/public"
+          },
+          {
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/8d7c254b-e78b-497c-b512-be7bc7c84c00/public"
+          }
         ],
         "isClosed": false,
         "isFeatured": false,
@@ -845,14 +844,13 @@
         "pricing": "$$",
         "priority": 4,
         "promotion": "normal",
-        "publishedAt": "2026-06-21T23:20:05.185Z",
+        "publishedAt": "2026-08-06T19:07:15.652Z",
         "reviewIds": [],
-        "tableLayoutAlt": null,
-        "tableLayoutUrl": null,
+        "tableLayoutImage": null,
         "tags": []
       },
       "convexId": "jh72075epd4m1g8m5ke7qddnmd7qyez8",
-      "lastUpdated": "2026-08-06T19:07:15.459Z",
+      "lastUpdated": "2026-08-06T22:02:24.884Z",
       "locales": {
         "en": {
           "address": "Beach Road Km. 7, 77710 Q.R",
@@ -889,27 +887,28 @@
         "area": "hotel-zone",
         "category": "nightclub",
         "coordinates": null,
-        "coverImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/13ee53e1-791e-4e71-ecdf-148fba86b400/public",
-        "coverImageAlt": "",
         "drinkMenuUrl": "",
         "faqIds": [],
         "foodMenuUrl": "",
         "googleMapsCode": "5G3R+8W Tulum, Quintana Roo",
         "googlePlaceId": null,
         "hideReservationForm": false,
-        "imageAlts": [
-          "",
-          "",
-          "",
-          "",
-          ""
-        ],
-        "imageUrls": [
-          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/13ee53e1-791e-4e71-ecdf-148fba86b400/public",
-          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/5a955af8-00a5-4793-b6da-8f5db04b6b00/public",
-          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/ce9df7ce-84b7-4722-4dd3-cc409518be00/public",
-          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/d8d61efc-56ad-4d90-de10-995d40110200/public",
-          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/efe708e4-d48f-4e37-c0a4-018cdf0b1900/public"
+        "images": [
+          {
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/13ee53e1-791e-4e71-ecdf-148fba86b400/public"
+          },
+          {
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/5a955af8-00a5-4793-b6da-8f5db04b6b00/public"
+          },
+          {
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/ce9df7ce-84b7-4722-4dd3-cc409518be00/public"
+          },
+          {
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/d8d61efc-56ad-4d90-de10-995d40110200/public"
+          },
+          {
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/efe708e4-d48f-4e37-c0a4-018cdf0b1900/public"
+          }
         ],
         "isClosed": true,
         "isFeatured": false,
@@ -918,14 +917,15 @@
         "pricing": "$$",
         "priority": 1,
         "promotion": "normal",
-        "publishedAt": "2026-06-21T23:19:34.108Z",
+        "publishedAt": "2026-08-06T19:06:00.162Z",
         "reviewIds": [],
-        "tableLayoutAlt": "",
-        "tableLayoutUrl": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/2ccb4110-48b5-4589-8cd8-b1757b9e9400/public",
+        "tableLayoutImage": {
+          "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/2ccb4110-48b5-4589-8cd8-b1757b9e9400/public"
+        },
         "tags": []
       },
       "convexId": "jh7bftnghstjsn114abapgpttd7qyxyq",
-      "lastUpdated": "2026-08-06T19:05:59.964Z",
+      "lastUpdated": "2026-08-06T22:02:30.753Z",
       "locales": {
         "en": {
           "address": "Carretera estatal Tulum - Boca Paila, Parcela 1744-A NCPE José María Pino Suárez, 77760 Tulum, Q.R.",
@@ -962,27 +962,28 @@
         "area": "hotel-zone",
         "category": "beachclub",
         "coordinates": null,
-        "coverImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/53c4c012-a9c4-4a94-d929-6f0200f54700/public",
-        "coverImageAlt": "",
         "drinkMenuUrl": "https://assets.tulumbible.com/menus/tulum/bagatelle-tulum-drinks-menu.pdf",
         "faqIds": [],
         "foodMenuUrl": "https://assets.tulumbible.com/menus/tulum/bagatelle-tulum-food-menu.pdf",
         "googleMapsCode": "5G3V+88 Esmeralda K",
         "googlePlaceId": null,
         "hideReservationForm": false,
-        "imageAlts": [
-          "",
-          "",
-          "",
-          "",
-          ""
-        ],
-        "imageUrls": [
-          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/53c4c012-a9c4-4a94-d929-6f0200f54700/public",
-          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/a2a3a418-c09d-4eb5-4a0f-5f18a986fa00/public",
-          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/613dffdf-e8b1-4cf5-e2eb-4010a2c03d00/public",
-          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/75acb367-9506-46e1-6353-6557b1ffdd00/public",
-          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/3a00d641-0973-4550-6567-5b2a0e14ed00/public"
+        "images": [
+          {
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/53c4c012-a9c4-4a94-d929-6f0200f54700/public"
+          },
+          {
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/a2a3a418-c09d-4eb5-4a0f-5f18a986fa00/public"
+          },
+          {
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/613dffdf-e8b1-4cf5-e2eb-4010a2c03d00/public"
+          },
+          {
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/75acb367-9506-46e1-6353-6557b1ffdd00/public"
+          },
+          {
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/3a00d641-0973-4550-6567-5b2a0e14ed00/public"
+          }
         ],
         "isClosed": true,
         "isFeatured": false,
@@ -993,12 +994,11 @@
         "promotion": "normal",
         "publishedAt": "2026-06-21T23:18:30.065Z",
         "reviewIds": [],
-        "tableLayoutAlt": null,
-        "tableLayoutUrl": null,
+        "tableLayoutImage": null,
         "tags": []
       },
       "convexId": "jh71fkmf2b1ddc1n0vjggg0c417qy4kb",
-      "lastUpdated": "2026-08-03T00:19:45.175Z",
+      "lastUpdated": "2026-08-06T22:02:24.884Z",
       "locales": {
         "en": {
           "address": "Carr. Tulum-Boca Paila 8, Tulum Beach, 77760 Q.R",
@@ -1036,27 +1036,28 @@
         "area": "hotel-zone",
         "category": "beachclub",
         "coordinates": null,
-        "coverImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/ee31b325-a36a-4abb-b735-b307ee418400/public",
-        "coverImageAlt": "",
         "drinkMenuUrl": "https://www.papayaplayaproject.com/eat-and-drink/menus/main-restaurant-and-beach-club#drinks",
         "faqIds": [],
         "foodMenuUrl": "https://www.papayaplayaproject.com/eat-and-drink/menus/main-restaurant-and-beach-club#breakfast",
         "googleMapsCode": "5HJ3+GX Tulum, Quintana Roo",
         "googlePlaceId": null,
         "hideReservationForm": true,
-        "imageAlts": [
-          "",
-          "",
-          "",
-          "",
-          ""
-        ],
-        "imageUrls": [
-          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/ee31b325-a36a-4abb-b735-b307ee418400/public",
-          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/0b6df04e-1e04-4ac6-562a-fbceb82be200/public",
-          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/f2509ca1-b5a9-4ded-e780-a93f6e6b7500/public",
-          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/3f519e4d-1143-4c50-341c-041243720c00/public",
-          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/606f13e9-63b5-4973-0585-ee3c8c438f00/public"
+        "images": [
+          {
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/ee31b325-a36a-4abb-b735-b307ee418400/public"
+          },
+          {
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/0b6df04e-1e04-4ac6-562a-fbceb82be200/public"
+          },
+          {
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/f2509ca1-b5a9-4ded-e780-a93f6e6b7500/public"
+          },
+          {
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/3f519e4d-1143-4c50-341c-041243720c00/public"
+          },
+          {
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/606f13e9-63b5-4973-0585-ee3c8c438f00/public"
+          }
         ],
         "isClosed": false,
         "isFeatured": false,
@@ -1065,14 +1066,13 @@
         "pricing": "$$$",
         "priority": 5,
         "promotion": "normal",
-        "publishedAt": "2026-06-22T00:08:06.145Z",
+        "publishedAt": "2026-08-06T19:08:03.600Z",
         "reviewIds": [],
-        "tableLayoutAlt": null,
-        "tableLayoutUrl": null,
+        "tableLayoutImage": null,
         "tags": []
       },
       "convexId": "jh72qvc4pqgb77j2kja14r0ez17qy75p",
-      "lastUpdated": "2026-08-06T19:08:03.407Z",
+      "lastUpdated": "2026-08-06T22:02:24.884Z",
       "locales": {
         "en": {
           "address": "",
@@ -1104,27 +1104,28 @@
         "area": "hotel-zone",
         "category": "beachclub",
         "coordinates": null,
-        "coverImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/1b6852b9-4a25-4deb-7def-52f6597a6f00/public",
-        "coverImageAlt": "",
         "drinkMenuUrl": "https://assets.tulumbible.com/menus/tulum/vagalume-tulum-drinks-menu.pdf",
         "faqIds": [],
         "foodMenuUrl": "https://assets.tulumbible.com/menus/tulum/vagalume-tulum-food-menu.pdf",
         "googleMapsCode": "5G2R+JW Tulum, Quintana Roo",
         "googlePlaceId": null,
         "hideReservationForm": false,
-        "imageAlts": [
-          "",
-          "",
-          "",
-          "",
-          ""
-        ],
-        "imageUrls": [
-          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/1b6852b9-4a25-4deb-7def-52f6597a6f00/public",
-          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/47989cb2-c230-4d63-6bbc-bc00892a5400/public",
-          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/2e9ec086-f223-4f72-4cae-ef8461cb7800/public",
-          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/030c68aa-88d1-4ee9-8c25-437366b70900/public",
-          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/c915b860-faa3-438b-591a-53a03125d700/public"
+        "images": [
+          {
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/1b6852b9-4a25-4deb-7def-52f6597a6f00/public"
+          },
+          {
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/47989cb2-c230-4d63-6bbc-bc00892a5400/public"
+          },
+          {
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/2e9ec086-f223-4f72-4cae-ef8461cb7800/public"
+          },
+          {
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/030c68aa-88d1-4ee9-8c25-437366b70900/public"
+          },
+          {
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/c915b860-faa3-438b-591a-53a03125d700/public"
+          }
         ],
         "isClosed": true,
         "isFeatured": false,
@@ -1135,12 +1136,13 @@
         "promotion": "normal",
         "publishedAt": "2026-06-21T23:54:17.794Z",
         "reviewIds": [],
-        "tableLayoutAlt": "",
-        "tableLayoutUrl": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/a9330881-2e7b-4c6c-c278-26f4bc5bb400/public",
+        "tableLayoutImage": {
+          "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/a9330881-2e7b-4c6c-c278-26f4bc5bb400/public"
+        },
         "tags": []
       },
       "convexId": "jh7d5y9hs0chnen3mezf0bdn997qz086",
-      "lastUpdated": "2026-08-03T00:19:45.175Z",
+      "lastUpdated": "2026-08-06T22:02:30.753Z",
       "locales": {
         "en": {
           "address": "Supermanzana QROO 15, Tulum Beach, 77776 Tulum, Quintana Roo",
@@ -1172,27 +1174,28 @@
         "area": "hotel-zone",
         "category": "beachclub",
         "coordinates": null,
-        "coverImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/5a115a06-9a35-45fb-db4f-986fca6dba00/public",
-        "coverImageAlt": "",
         "drinkMenuUrl": "",
         "faqIds": [],
         "foodMenuUrl": "https://assets.tulumbible.com/menus/tulum/mia-restaurant-and-beachclub-food-menu.pdf",
         "googleMapsCode": "5G3V+XC Tulum, Quintana Roo",
         "googlePlaceId": null,
         "hideReservationForm": false,
-        "imageAlts": [
-          "",
-          "",
-          "",
-          "",
-          ""
-        ],
-        "imageUrls": [
-          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/5a115a06-9a35-45fb-db4f-986fca6dba00/public",
-          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/a90276fa-3989-4fa0-597f-271b41e3bf00/public",
-          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/dde39dab-4abf-4b62-7372-999978aeba00/public",
-          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/46997968-c5be-4bff-c49b-e361a9d04b00/public",
-          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/77974c8f-7c02-4af5-bfbd-d291aa113500/public"
+        "images": [
+          {
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/5a115a06-9a35-45fb-db4f-986fca6dba00/public"
+          },
+          {
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/a90276fa-3989-4fa0-597f-271b41e3bf00/public"
+          },
+          {
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/dde39dab-4abf-4b62-7372-999978aeba00/public"
+          },
+          {
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/46997968-c5be-4bff-c49b-e361a9d04b00/public"
+          },
+          {
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/77974c8f-7c02-4af5-bfbd-d291aa113500/public"
+          }
         ],
         "isClosed": false,
         "isFeatured": false,
@@ -1203,12 +1206,11 @@
         "promotion": "normal",
         "publishedAt": "2026-06-21T23:21:53.605Z",
         "reviewIds": [],
-        "tableLayoutAlt": null,
-        "tableLayoutUrl": null,
+        "tableLayoutImage": null,
         "tags": []
       },
       "convexId": "jh71wfpc46ysmqy16eme40ke857qzqg4",
-      "lastUpdated": "2026-08-03T00:19:45.175Z",
+      "lastUpdated": "2026-08-06T22:02:24.884Z",
       "locales": {
         "en": {
           "address": "Hotel Selina los Lirios, Carr. Tulum-Boca Paila KM 7.5-Interior, Tulum Beach, Punta Piedra, 77780 Tulum, Q.R.",
@@ -1246,27 +1248,28 @@
         "area": "hotel-zone",
         "category": "beachclub",
         "coordinates": null,
-        "coverImage": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/93699296-a458-43d3-5f64-2ce7bec3fb00/public",
-        "coverImageAlt": "",
         "drinkMenuUrl": "",
         "faqIds": [],
         "foodMenuUrl": "https://shorturl.at/7OuGi",
         "googleMapsCode": "5G2R+7P Tulum, Quintana Roo",
         "googlePlaceId": null,
         "hideReservationForm": false,
-        "imageAlts": [
-          "",
-          "",
-          "",
-          "",
-          ""
-        ],
-        "imageUrls": [
-          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/93699296-a458-43d3-5f64-2ce7bec3fb00/public",
-          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/fc9b1a91-065b-4737-119c-553b22ff1000/public",
-          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/3eefc607-5886-49a7-d8c3-70e9e1b53c00/public",
-          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/a6fd67dd-637c-4e9f-878b-2a28c7ecbc00/public",
-          "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/61e6e7a5-00bb-4635-f3f4-a534ff7aab00/public"
+        "images": [
+          {
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/93699296-a458-43d3-5f64-2ce7bec3fb00/public"
+          },
+          {
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/fc9b1a91-065b-4737-119c-553b22ff1000/public"
+          },
+          {
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/3eefc607-5886-49a7-d8c3-70e9e1b53c00/public"
+          },
+          {
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/a6fd67dd-637c-4e9f-878b-2a28c7ecbc00/public"
+          },
+          {
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/61e6e7a5-00bb-4635-f3f4-a534ff7aab00/public"
+          }
         ],
         "isClosed": false,
         "isFeatured": true,
@@ -1275,14 +1278,13 @@
         "pricing": "$$$$",
         "priority": 2,
         "promotion": "normal",
-        "publishedAt": "2026-07-31T23:00:14.074Z",
+        "publishedAt": "2026-08-06T19:01:37.505Z",
         "reviewIds": [],
-        "tableLayoutAlt": null,
-        "tableLayoutUrl": null,
+        "tableLayoutImage": null,
         "tags": []
       },
       "convexId": "jh7fs06v4xyxp8zks4970mhzjx82ddw0",
-      "lastUpdated": "2026-08-06T19:01:37.280Z",
+      "lastUpdated": "2026-08-06T22:02:24.884Z",
       "locales": {
         "en": {
           "address": "Carretera Tulum Boca Paila Km 7.5 Mza 020 reg 009, 77780 Tulum, Q.R.",
@@ -1317,8 +1319,6 @@
           "lat": 20.246581799999998,
           "lng": -87.464201
         },
-        "coverImage": null,
-        "coverImageAlt": null,
         "drinkMenuUrl": "",
         "faqIds": [
           "k57ddbdffpnk3fvba42wghnj5x8b5rrp",
@@ -1331,8 +1331,7 @@
         "googleMapsCode": "6GWP+J8 Rancho Viejo, Q.R., Mexico",
         "googlePlaceId": "ChIJ_xjkInTUT48Rit_t2yqp8M4",
         "hideReservationForm": false,
-        "imageAlts": [],
-        "imageUrls": [],
+        "images": [],
         "isClosed": false,
         "isFeatured": false,
         "isFeaturedOnCoreTulum": false,
@@ -1342,13 +1341,12 @@
         "promotion": "normal",
         "publishedAt": "2026-07-31T23:34:35.792Z",
         "reviewIds": [],
-        "tableLayoutAlt": null,
-        "tableLayoutUrl": null,
+        "tableLayoutImage": null,
         "tags": [],
         "tbvId": "TBV_JT33XU"
       },
       "convexId": "jh79zj36t615xshjpdczvsanh58b4hqy",
-      "lastUpdated": "2026-07-31T23:34:35.599Z",
+      "lastUpdated": "2026-08-06T22:02:24.884Z",
       "locales": {
         "en": {
           "address": "77796 Quintana Roo, Mexico",
