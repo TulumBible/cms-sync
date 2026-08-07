@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-08-07T22:44:55.324Z",
+  "syncedAt": "2026-08-07T22:45:34.211Z",
   "citySlug": "tulum",
   "venues": [
     {
@@ -301,7 +301,17 @@
     },
     {
       "base": {
-        "amenityIds": [],
+        "amenityIds": [
+          "jn70zdmazn719gygc3k7335zxn859dvw",
+          "jn785e6n78fzxfq3e6yc4z206s858vs7",
+          "jn77s3v89mkdcb9d9yydgsx3vd858sbk",
+          "jn796fkb2npe38c126gkzmhe85858yf5",
+          "jn76cg9jqcvq6gh3xwf0cj2c2s859sx2",
+          "jn70zn5gpwjkfxwnbkd4948rv5859d8d",
+          "jn78wp2bkm0sv6aber490necah858phw",
+          "jn70tb3pfy3yycjzk8ke3pgtrs8585z7",
+          "jn74axgjrqtsa18w8nxttnxfg5859e39"
+        ],
         "area": "aldea-zama",
         "category": "rooftop",
         "coordinates": null,
@@ -336,13 +346,13 @@
         "priority": 2,
         "promotion": "normal",
         "publishedAt": "2026-07-24T19:01:47.317Z",
-        "reelUrl": null,
+        "reelUrl": "",
         "reviewIds": [],
         "tableLayoutImage": null,
         "tags": []
       },
       "convexId": "jh7bbszfqy5r93mtpscfzmqdv17qznez",
-      "lastUpdated": "2026-08-06T22:02:24.884Z",
+      "lastUpdated": "2026-08-07T22:45:17.844Z",
       "locales": {
         "en": {
           "address": "Mayan Monkey Hostel Tulum, Av. Coba Sur S/N, 77780 Tulum, Q.R.",
