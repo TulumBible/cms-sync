@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-08-07T16:12:01.865Z",
+  "syncedAt": "2026-08-07T22:44:55.324Z",
   "citySlug": "tulum",
   "venues": [
     {
@@ -1186,7 +1186,12 @@
     },
     {
       "base": {
-        "amenityIds": [],
+        "amenityIds": [
+          "jn785e6n78fzxfq3e6yc4z206s858vs7",
+          "jn796fkb2npe38c126gkzmhe85858yf5",
+          "jn72f5n145a7gcvx7evwc8yzws8588h6",
+          "jn74axgjrqtsa18w8nxttnxfg5859e39"
+        ],
         "area": "hotel-zone",
         "category": "beachclub",
         "coordinates": null,
@@ -1221,13 +1226,13 @@
         "priority": 5,
         "promotion": "normal",
         "publishedAt": "2026-06-21T23:21:53.605Z",
-        "reelUrl": null,
+        "reelUrl": "",
         "reviewIds": [],
         "tableLayoutImage": null,
         "tags": []
       },
       "convexId": "jh71wfpc46ysmqy16eme40ke857qzqg4",
-      "lastUpdated": "2026-08-06T22:02:24.884Z",
+      "lastUpdated": "2026-08-07T22:44:34.043Z",
       "locales": {
         "en": {
           "address": "Hotel Selina los Lirios, Carr. Tulum-Boca Paila KM 7.5-Interior, Tulum Beach, Punta Piedra, 77780 Tulum, Q.R.",
