@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-08-06T23:18:44.352Z",
+  "syncedAt": "2026-08-10T15:42:41.599Z",
   "citySlug": "tulum",
   "events": [
     {
@@ -72,6 +72,176 @@
           "description": "",
           "name": "Concert Nights | Vesica Santuario",
           "slug": "concert-nights-vesica-santuario",
+          "tableInformation": ""
+        }
+      }
+    },
+    {
+      "base": {
+        "buyLink": "https://tf.link/irofui3h",
+        "categoryIds": [],
+        "cta": "Tickets",
+        "endDate": "2027-01-01T03:00",
+        "eventType": null,
+        "faqIds": [],
+        "flyerImage": {
+          "url": "https://www.ticketfairy.com/uploaded/public/6a69313ad059b5.04543648.png"
+        },
+        "gaLink": null,
+        "gaPrice": null,
+        "isFeatured": false,
+        "isPublished": true,
+        "noPrice": false,
+        "promotion": "normal",
+        "publishedAt": null,
+        "qrCode": null,
+        "startDate": "2026-12-31",
+        "status": "Live",
+        "tableLayoutImage": null,
+        "tbeId": "TBE_4K47ES",
+        "ticketPrice": null,
+        "ticketTiers": [
+          {
+            "currency": "MXN",
+            "id": "jC+dsPt30kHqNxfWVWeDSWAnUF5TUuPX07Uj1ipVIlfu0nsKczONZJ0Y5Fr6DVQBv64jq3DkUY9MKG/GEzukrA==",
+            "isTable": true,
+            "maxGuests": 20,
+            "minGuests": 2,
+            "name": "Dinner And Dancing NYE",
+            "price": 5280,
+            "priceWithFees": 5280,
+            "sortOrder": 1,
+            "status": "ended",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "UtVdaQJ16186TBgxAN7csr3fuhVAobfnKZhb3nCr5Yyg2cgP0dnhaxgrc4a5KDnpXiydVhNb6R82Y5ai/Q8ztw==",
+            "isTable": false,
+            "name": "General Admission / Open Bar",
+            "price": 4400,
+            "priceWithFees": 4400,
+            "sortOrder": 2,
+            "status": "ended",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "GOLZ0Kv/OGHmS2kc5/kiNzeVxALGyzWmJFr7bcZ/S51jtqo/0BZWeA1Bf6tZWIfsDuJNNLl/RZ8eAQVoj1vr7A==",
+            "isTable": true,
+            "maxGuests": 20,
+            "minGuests": 2,
+            "name": "Dinner And Bottle Service NYE - Gold",
+            "price": 9680,
+            "priceWithFees": 9680,
+            "sortOrder": 3,
+            "status": "ended",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "VX0jaQn0TnFYdGRLtsYDb1XKxy5iwS0/1/wP031oPAJRk9UMGA0nTYqRIeIs9IjN8+3wCFzcxpl1MMbo91av7g==",
+            "isTable": true,
+            "maxGuests": 20,
+            "minGuests": 2,
+            "name": "Dinner And Bottle Service NYE - Premium",
+            "price": 10780,
+            "priceWithFees": 10780,
+            "sortOrder": 4,
+            "status": "ended",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "eyKIdCRWUyi23xvuMJWSwXvzfiZxehXnsB7UHA4M6nnzA5TJz+DY6oXkD2uPBwGdUwhDkAhLna6JHM0K44Yb2Q==",
+            "isTable": true,
+            "maxGuests": 8,
+            "minGuests": 4,
+            "name": "Dinner And Bottle Service / Black VIP Beach Cabañas (Min 4 Ppl)",
+            "price": 14256,
+            "priceWithFees": 14256,
+            "sortOrder": 5,
+            "status": "ended",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "eqCN3Px4X+jYyXczKGDUlXUSqAWzVwRu2P6VMH2iu7HVqZY1trhMvsRmqL66OvHcaFciTU31Qmu/q2ccDpvOYA==",
+            "isTable": false,
+            "name": "Ocean Front 6 Days / 5 Nights",
+            "price": 107568,
+            "priceWithFees": 107568,
+            "sortOrder": 6,
+            "status": "ended",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "hpq4cPjYqAi+nr+Sn9NeR9kJALWiwl0NRJSkFtm7Eu9LzR/IHpnEz7wRTLGThkcnzcrSB5P2LmhAaIiHk16qUA==",
+            "isTable": false,
+            "name": "Villa Package 6 Days / 5 Nights",
+            "price": 129168,
+            "priceWithFees": 129168,
+            "sortOrder": 7,
+            "status": "ended",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "zlh57AEnmoah+Bks118bAHR5dft1LD/IMgwbmFq5dPoOGYyJd+0McEXw8LF75hXw+xHKwgVb35fgtDs/xHkABQ==",
+            "isTable": false,
+            "name": "Ocean View 6 Days / 5 Nights",
+            "price": 96768,
+            "priceWithFees": 96768,
+            "sortOrder": 8,
+            "status": "ended",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "ZYVRvL5yjGQvKw52CsiR4XWyz8r9Z+/Reb8Os9wpozwZ4zRqwN/sT57FfcERKC8xaFqbIDEKyq8iqPki9Z8H4Q==",
+            "isTable": false,
+            "name": "Jungle Loft 6 Days / 5 Nights",
+            "price": 85968,
+            "priceWithFees": 85968,
+            "sortOrder": 9,
+            "status": "ended",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "ZaAi7YV1q/AGqyiP2kkvPgErNBqp7uOE4vkPH9WlQRZMWRs5byURAsmzMog2HiTnPoboo+gvE0OdM2Ud9cJGPg==",
+            "isTable": false,
+            "name": "Jungle Suite 6 Days / 5 Nights",
+            "price": 85968,
+            "priceWithFees": 85968,
+            "sortOrder": 10,
+            "status": "ended",
+            "symbol": "Mex$"
+          }
+        ],
+        "time": null,
+        "url": "https://tf.link/irofui3h",
+        "venueName": "Gitano Beach",
+        "venueSlug": "gitano-beach",
+        "vipLink": null,
+        "vipPrice": null
+      },
+      "convexId": "j571e4z65h0abmezv12mqncjns8bed0c",
+      "lastUpdated": "2026-08-10T15:42:11.315Z",
+      "locales": {
+        "en": {
+          "body": "<h2 style=\"text-align: center;\" data-start=\"163\" data-end=\"239\"><strong data-start=\"163\" data-end=\"182\"><img src=\"https://ttf-public.s3.amazonaws.com/uploads/XXTGFC9ljM6sXLCXvSy32gQeoFaEvDgU5BJZCLXFlpUQRSZqSy7sNy4y8owCeyEQ.png\" alt=\"\" width=\"800\" height=\"437\"></strong></h2>\n<h2 style=\"text-align: center;\" data-start=\"163\" data-end=\"239\"><strong data-start=\"163\" data-end=\"182\">GITANO BEACH NYE 2027</strong><br data-start=\"182\" data-end=\"185\">A new year. A new chapter. A night you won&rsquo;t forget.</h2>\n<p>&nbsp;</p>\n<p style=\"text-align: center;\" data-start=\"163\" data-end=\"239\">Hosted at <strong data-start=\"201\" data-end=\"217\">GITANO BEACH</strong>, our beautiful beachfront club and restaurant nestled in the most exclusive part of <strong data-start=\"302\" data-end=\"317\">South Tulum</strong>, known for its <strong data-start=\"333\" data-end=\"351\">pristine beach</strong> and <strong>Renowned DJ performances.</strong></p>\n<p style=\"text-align: center;\" data-start=\"241\" data-end=\"380\">We can&rsquo;t reveal much (yet), just that this night will be EPIC!</p>\n<p style=\"text-align: center;\" data-start=\"241\" data-end=\"380\">Pre-sale tickets are now live &mdash; secure your place before the rest of the world catches on.</p>\n<p style=\"text-align: center;\" data-start=\"297\" data-end=\"584\"><strong>Reserve tickets according to your party size to ensure you&rsquo;re seated together.</strong></p>\n<p data-start=\"699\" data-end=\"768\">&nbsp;</p>\n<p style=\"text-align: center;\" data-start=\"241\" data-end=\"380\">&nbsp;</p>\n<h5 style=\"text-align: center;\" data-start=\"476\" data-end=\"535\">NYE 2027 &mdash; The countdown begins!</h5>\n<p style=\"text-align: center;\" data-start=\"241\" data-end=\"380\"><img src=\"https://ttf-public.s3.amazonaws.com/uploads/yfsHOe5j4hL8CKCji8rGpQNITyxSgT7EBuIb2fYzwGNDJaGZNVTgGxrqghL120V6.png\" alt=\"\" width=\"329\" height=\"153\"></p>\n<h6 style=\"text-align: center;\" data-start=\"178\" data-end=\"219\"><strong data-start=\"185\" data-end=\"200\">Av Boca Paila KM 9.5, Tulum Beach, Zona Costera, 77780 Tulum, Q.R.</strong></h6>\n<h5 style=\"text-align: center;\" data-start=\"476\" data-end=\"535\">&nbsp;</h5>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://ttf-public.s3.amazonaws.com/uploads/GEvNjGZv1Zr41JKGPQU8RAKvtF9oZBeG9unhQ1VQcXw72FZPLY7jPeGka6Bkxn3D.jpeg\" alt=\"\" width=\"942\" height=\"1675\"></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 24pt;\"><strong>Dinner &amp; Dancing</strong></span>&nbsp;</p>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://ttf-public.s3.amazonaws.com/uploads/m4cBPEWbBiUouoSoNhzTwgZKocG3xNviUMjQYGTJRABG5lrn0aXuAcqg4VA90GgH.jpg\" alt=\"\" width=\"953\" height=\"630\"></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 24pt;\"><strong>Bottle Service Gold</strong></span></p>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://ttf-public.s3.amazonaws.com/uploads/PgJqPjwsnLnLAp02VuY8LwSMy9Ss5w92KfzS1EAdYdEQxPEm9O24Ogx8j01QzbK8.JPG\" alt=\"\" width=\"933\" height=\"622\"></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 24pt;\"><strong>Lounges and Caba&ntilde;as&nbsp;</strong></span></p>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://ttf-public.s3.amazonaws.com/uploads/MKBbsMhgTCdndaV4xt5A3NvGDGqRUem2JKUP75gC6QScycREtUoKik4LGsfF8QgO.jpg\" alt=\"\" width=\"949\" height=\"711\"></p>\n<p>&nbsp;</p>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://ttf-public.s3.amazonaws.com/uploads/Pbe0uwmINHURS7O0UXBfA2wI86WorJuWzkCAeNSOVZwQh8zdq0LA1trMlVxRZAXA.png\" alt=\"\" width=\"945\" height=\"1328\"></p>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://ttf-public.s3.amazonaws.com/uploads/N9Wu5FQdXxBsFujFJ1EBghcVu3nFySdtscwXhFNugCgWfMntZxG7ahUBO6Cz0NQa.png\" alt=\"\" width=\"944\" height=\"1418\"></p>",
+          "description": "GITANO BEACH NYE 2027\nA new year. A new chapter. A night you won’t forget.\n\nHosted at GITANO BEACH, our beautiful beachfront club and restaurant nestled in the most exclusive part of South Tulum, known for its pristine beach and Renowned DJ performances.\n\nWe can’t reveal much (yet), just that this night will be EPIC!\n\nPre-sale tickets are now live — secure your place before the rest of the world catches on.\n\nReserve tickets according to your party size to ensure you’re seated together.\n\nNYE 2027 — The countdown begins!\n\nAv Boca Paila KM 9.5, Tulum Beach, Zona Costera, 77780 Tulum, Q.R.\n\nDinner & Dancing\n\nBottle Service Gold\n\nLounges and Cabañas",
+          "name": "NYE 2027 GITANO BEACH",
+          "slug": "nye-2027-gitano-beach-31dec2025",
+          "tableInformation": ""
+        },
+        "es": {
+          "body": "",
+          "description": "",
+          "name": "NYE 2027 GITANO BEACH",
+          "slug": "nye-2027-gitano-beach-31dec2025",
           "tableInformation": ""
         }
       }
