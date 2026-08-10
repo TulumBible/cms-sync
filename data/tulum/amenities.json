@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-08-06T23:18:44.173Z",
+  "syncedAt": "2026-08-10T22:18:28.755Z",
   "citySlug": "tulum",
   "amenities": [
     {
@@ -485,6 +485,42 @@
         },
         "es": {
           "name": "Mayordomo"
+        }
+      }
+    },
+    {
+      "base": {
+        "filterSortOrder": null,
+        "iconName": "champagne",
+        "showInFilters": true,
+        "slug": "table-service"
+      },
+      "convexId": "jn789ppm3v02c83qr73j8xf4tn8bz6f5",
+      "lastUpdated": "2026-08-06T19:05:45.141Z",
+      "locales": {
+        "en": {
+          "name": "Table Service"
+        },
+        "es": {
+          "name": "Servicio de mesa"
+        }
+      }
+    },
+    {
+      "base": {
+        "filterSortOrder": null,
+        "iconName": "wifi-slash",
+        "showInFilters": false,
+        "slug": "no-wifi"
+      },
+      "convexId": "jn73kazzzpkvxrnc9h64cr5fe98by92f",
+      "lastUpdated": "2026-08-06T19:11:06.678Z",
+      "locales": {
+        "en": {
+          "name": "No Wifi"
+        },
+        "es": {
+          "name": "No hay wifi"
         }
       }
     }

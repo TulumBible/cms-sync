@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-08-01T16:59:59.882Z",
+  "syncedAt": "2026-08-10T22:18:28.789Z",
   "citySlug": "tulum",
   "faqs": [
     {
@@ -269,6 +269,96 @@
         "es": {
           "answer": "El menú incluye platos mexicanos y de marisco.",
           "name": "¿Qué tipo de comida se sirve en Umi Tulum?"
+        }
+      }
+    },
+    {
+      "base": {
+        "category": null,
+        "slug": "what-time-does-la-guarida-open"
+      },
+      "convexId": "k57fgst2schf3rxekzjpevk37s8c6167",
+      "lastUpdated": "2026-08-10T05:01:11.596Z",
+      "locales": {
+        "en": {
+          "answer": "La Guarida is open daily from 11am to 1:30am.",
+          "name": "What time does La Guarida open?"
+        },
+        "es": {
+          "answer": "La Guarida is open daily from 11am to 1:30am.",
+          "name": "What time does La Guarida open?"
+        }
+      }
+    },
+    {
+      "base": {
+        "category": null,
+        "slug": "what-events-does-la-guarida-host"
+      },
+      "convexId": "k571x6h93d676gbbr5k3qsms0n8c6hy9",
+      "lastUpdated": "2026-08-10T05:01:11.596Z",
+      "locales": {
+        "en": {
+          "answer": "The program includes live music, jam sessions and film screenings. Check the venue page on Tulum Bible for the current schedule.",
+          "name": "What events does La Guarida host?"
+        },
+        "es": {
+          "answer": "The program includes live music, jam sessions and film screenings. Check the venue page on Tulum Bible for the current schedule.",
+          "name": "What events does La Guarida host?"
+        }
+      }
+    },
+    {
+      "base": {
+        "category": null,
+        "slug": "does-la-guarida-have-a-rooftop"
+      },
+      "convexId": "k572hzns3gky4ff62tzz9f5z7n8c78j1",
+      "lastUpdated": "2026-08-10T05:01:11.596Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. The multi-level building includes a rooftop terrace and a balcony overlooking the street.",
+          "name": "Does La Guarida have a rooftop?"
+        },
+        "es": {
+          "answer": "Yes. The multi-level building includes a rooftop terrace and a balcony overlooking the street.",
+          "name": "Does La Guarida have a rooftop?"
+        }
+      }
+    },
+    {
+      "base": {
+        "category": null,
+        "slug": "where-is-la-guarida-in-tulum"
+      },
+      "convexId": "k574vkerrvrkmp0n7799n8ht7x8c62qc",
+      "lastUpdated": "2026-08-10T05:01:11.596Z",
+      "locales": {
+        "en": {
+          "answer": "It is at the corner of Calle Orión Sur and Calle Andrómeda Oriente in Tulum Centro.",
+          "name": "Where is La Guarida in Tulum?"
+        },
+        "es": {
+          "answer": "It is at the corner of Calle Orión Sur and Calle Andrómeda Oriente in Tulum Centro.",
+          "name": "Where is La Guarida in Tulum?"
+        }
+      }
+    },
+    {
+      "base": {
+        "category": null,
+        "slug": "does-la-guarida-have-restrooms"
+      },
+      "convexId": "k575bzvtgzz1agycjwrzfmd63d8c7gmb",
+      "lastUpdated": "2026-08-10T05:01:11.596Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. Restrooms are available on site.",
+          "name": "Does La Guarida have restrooms?"
+        },
+        "es": {
+          "answer": "Yes. Restrooms are available on site.",
+          "name": "Does La Guarida have restrooms?"
         }
       }
     }
