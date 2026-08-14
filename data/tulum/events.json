@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-08-14T20:52:28.067Z",
+  "syncedAt": "2026-08-14T22:43:23.073Z",
   "citySlug": "tulum",
   "events": [
     {
@@ -8047,6 +8047,291 @@
           "description": "Manuel Negrete lidera este tributo a los Beatles al violonchelo, junto a Mayte Caamal, Eduardo Vásquez y Josías Sánchez. Un concierto acústico íntimo con artistas invitados.",
           "name": "Concert Nights | Vesica Santuario",
           "slug": "concert-nights-vesica-santuario",
+          "tableInformation": ""
+        }
+      }
+    },
+    {
+      "base": {
+        "buyLink": "https://tf.link/exuei6wx",
+        "categoryIds": [],
+        "cta": "Tickets",
+        "endDate": "2026-12-31T23:59",
+        "eventType": "NYE",
+        "faqIds": [],
+        "flyerImage": {
+          "url": "https://www.ticketfairy.com/uploaded/public/6a693065e87054.39040390.png"
+        },
+        "gaLink": null,
+        "gaPrice": null,
+        "isFeatured": false,
+        "isPublished": true,
+        "noPrice": false,
+        "promotion": "normal",
+        "publishedAt": null,
+        "qrCode": "M0 0.5h7m2 0h1m3 0h2m1 0h1m1 0h7M0 1.5h1m5 0h1m1 0h2m1 0h2m2 0h2m1 0h1m5 0h1M0 2.5h1m1 0h3m1 0h1m2 0h3m3 0h2m1 0h1m1 0h3m1 0h1M0 3.5h1m1 0h3m1 0h1m1 0h2m1 0h1m1 0h3m2 0h1m1 0h3m1 0h1M0 4.5h1m1 0h3m1 0h1m3 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h3m1 0h1M0 5.5h1m5 0h1m1 0h1m1 0h1m3 0h3m1 0h1m5 0h1M0 6.5h7m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h7M12 7.5h1m1 0h1m1 0h1M0 8.5h5m1 0h5m1 0h3m2 0h1m1 0h1m1 0h1m1 0h1M5 9.5h1m3 0h1m9 0h1m3 0h1M1 10.5h1m2 0h3m2 0h1m1 0h2m1 0h5m2 0h1m1 0h2M0 11.5h1m1 0h2m1 0h1m3 0h3m2 0h1m4 0h1m4 0h1M2 12.5h8m1 0h1m1 0h2m3 0h3m1 0h3M0 13.5h2m1 0h1m1 0h1m2 0h1m1 0h1m1 0h2m2 0h1m2 0h1m1 0h1m1 0h1M0 14.5h1m2 0h1m2 0h3m6 0h1m1 0h1m1 0h3m1 0h2M0 15.5h1m1 0h1m4 0h1m2 0h1m1 0h1m1 0h1m1 0h1m2 0h2m3 0h1M0 16.5h1m1 0h2m2 0h1m2 0h2m1 0h2m2 0h5m1 0h1M8 17.5h1m5 0h3m3 0h2M0 18.5h7m1 0h7m1 0h1m1 0h1m1 0h1m1 0h3M0 19.5h1m5 0h1m4 0h1m4 0h1m3 0h2m2 0h1M0 20.5h1m1 0h3m1 0h1m1 0h2m1 0h10m1 0h1M0 21.5h1m1 0h3m1 0h1m1 0h2m2 0h1m1 0h1m2 0h2m1 0h5M0 22.5h1m1 0h3m1 0h1m1 0h1m3 0h5m4 0h2m1 0h1M0 23.5h1m5 0h1m1 0h1m1 0h1m1 0h1m1 0h4m1 0h3m2 0h1M0 24.5h7m1 0h2m1 0h1m1 0h2m3 0h7<!--vb:25-->",
+        "startDate": "2026-12-31",
+        "status": "Live",
+        "tableLayoutImage": null,
+        "tbeId": "TBE_RSZYR9",
+        "ticketPrice": null,
+        "ticketTiers": [
+          {
+            "currency": "MXN",
+            "id": "OPlfmzhdPx0P3C2Ip7TQCPpXolte2lJZVCt6lnOfDEMWii0hEvC3OsCzxGlIalU4g2LxO6mhFsjptACjhVWAEA==",
+            "isTable": false,
+            "name": "General Admission & Open Bar / 10 Pm",
+            "price": 4000,
+            "priceWithFees": 4400,
+            "sortOrder": 1,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "PK2gn7QFpAKFi30EhJGGErwiHnzg4W/8NoPDs4BgeVjxpPktUd7EkcKZOLa2Dy+gMR0p4puqdE9BuWLetoOKeA==",
+            "isTable": false,
+            "name": "Dinner & Dancing / 8:00 Pm",
+            "price": 8000,
+            "priceWithFees": 8800,
+            "sortOrder": 2,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "vbhBiRA86SI3bLBUY28XHAEEC93x2qeSjBXVXhIErJdd3fq92cA2hNRcfPiSdSUbOGocLMJo8YHshD4xiXHYCQ==",
+            "isTable": false,
+            "name": "Gold / Dinner & Bottle Service / 9:00 Pm",
+            "price": 12000,
+            "priceWithFees": 12960,
+            "sortOrder": 3,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "AeND5t1t8bwrqKClDN1JJSpibdUCj67QgWhQCInnaQn14k7/5w+Q1HQt+G76fTDD7a51lQWyd1F+lQehtKB/xQ==",
+            "isTable": false,
+            "name": "VIP / Dinner & Bottle Service / 9:00 Pm",
+            "price": 14000,
+            "priceWithFees": 15120,
+            "sortOrder": 4,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "rCuHxZ7SU0cdVYJcJpUxFOOcBFOPiQEFeZhzKT7Zb6VpKO78Duk992xRLsFIw5T6VonUJUl74ucGIHATsf5UBA==",
+            "isTable": false,
+            "name": "The Moon Roof Experience / 8:00 Pm",
+            "price": 8000,
+            "priceWithFees": 8800,
+            "sortOrder": 5,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "NOSDFaGVquOfYdTBOQjZsI2RU3mGsRMnbMpk73B9hIjCjbmASAUd9aEr6L1lCDt1bFk+SNkZHuxAgJIoTH0GKQ==",
+            "isTable": false,
+            "name": "The Jungle Room Experience / 9:00 Pm",
+            "price": 12000,
+            "priceWithFees": 12960,
+            "sortOrder": 6,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "oLHBWEY57mV/GuScsHc25HK6VftFrvbt6/PFmxmnEo8LzWHa8n9cchdWjAqRvREUPARrCcslkdS9gi6a2JohWg==",
+            "isTable": false,
+            "name": "VIP Backstage & Bottle Service 10:00pm",
+            "price": 16000,
+            "priceWithFees": 17280,
+            "sortOrder": 7,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "xpQKRABWzv1p60aCAai9SeGlkCAw53XX+1wWZsoLc/DbVYQffVFzjFmT4SjDcsgpyyJeGDCZT3DxMbxzuKGtfA==",
+            "isTable": false,
+            "name": "General Admission & Open Bar / 10 Pm",
+            "price": 5000,
+            "priceWithFees": 5500,
+            "sortOrder": 8,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "jGojt3IUdus8jxwWAkwK8BnlhBG0J6Lv8aDVNBJ5qLlhfVl+gx+LAwZSuu11AeUBBUO3FwQf5gEea+/sEhnagg==",
+            "isTable": false,
+            "name": "Dinner & Dancing / 8:00 Pm",
+            "price": 9000,
+            "priceWithFees": 9900,
+            "sortOrder": 9,
+            "status": "upcoming",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "V2gL82bdEaXQ+byUkP7mR5B9O7xr6XSu71e8EUJlVBYoDPvg3UKLsa0lQXfDnqXpivgwp1JA/E/SH/3GJMT8nQ==",
+            "isTable": false,
+            "name": "Gold / Dinner & Bottle Service / 9 Pm",
+            "price": 14000,
+            "priceWithFees": 15120,
+            "sortOrder": 10,
+            "status": "upcoming",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "stMZccjgKoCganBIX4hsNKigHqAimjIr9ehNfdlSx9Idz98fmKdmg7JVeEvj6KExSyBvYHU3xLIaEQ1BJmwKaQ==",
+            "isTable": false,
+            "name": "VIP / Dinner & Bottle Service / 9:00 Pm",
+            "price": 16000,
+            "priceWithFees": 17280,
+            "sortOrder": 11,
+            "status": "upcoming",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "zUXKsdlyLU39cXsYJtK16vtDzZWEOWscWQHYeoAMxA3/EzE01Rs8AtXRfFK9CCFD91QANqzNPrE9BfFXnlqGwg==",
+            "isTable": false,
+            "name": "The Jungle Room Experience / 9:00 Pm",
+            "price": 13000,
+            "priceWithFees": 14040,
+            "sortOrder": 12,
+            "status": "upcoming",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "iURWHCr5EFfeWuNGvmtchsby4H/IW90xA8ahURyCfSVLq6Fu/P7/Nj6XioeGPMVF1Tp9WrKuZB3QPT8LjzsJgw==",
+            "isTable": false,
+            "name": "The Moon Roof Experience / 8:00 Pm",
+            "price": 9000,
+            "priceWithFees": 9900,
+            "sortOrder": 13,
+            "status": "upcoming",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "5/JayorzyqoMAHUaYhHJ/WzJY7a4qWlP+IEm2Y9tGwcUA5gt/ZLzl1Zw/Mm+bFHG07hbs0a/GWc0fX99PxMK4w==",
+            "isTable": false,
+            "name": "VIP Backstage & Bottle Service / 10:00 Pm",
+            "price": 18000,
+            "priceWithFees": 19440,
+            "sortOrder": 14,
+            "status": "upcoming",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "h2NXbUCoeSBV1+tvWWz5mGW1+jozBRCRAGwo9bBVioMoDDHtaIbme4u1im8+IE1YVdpC+tAbxCdp7NpkT4vzwg==",
+            "isTable": false,
+            "name": "General Admission & Open Bar / 10 Pm",
+            "price": 6000,
+            "priceWithFees": 6600,
+            "sortOrder": 15,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "ucOQ5M33MRDibjIWNtIDdUy2ndL1dVugToPIiFOGL95gCdKd8//xTFUaRBDKkguInxh73ZwRd9Yspjupve2wGQ==",
+            "isTable": false,
+            "name": "Dinner & Dancing / 8 Pm",
+            "price": 10000,
+            "priceWithFees": 11000,
+            "sortOrder": 16,
+            "status": "upcoming",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "p1haLAg7kbg/FFVoIOWmTlbkuQWTlT5rVjjoB2UWK1kLvV2tUM72eYNgwCv2HK4ragoUi929vH2KHZ1CAME0NA==",
+            "isTable": false,
+            "name": "Gold / Dinner & Bottle Service / 9:00 Pm",
+            "price": 15000,
+            "priceWithFees": 16200,
+            "sortOrder": 17,
+            "status": "upcoming",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "L2aXlea3sC/F/XQrzVyHgzX/6S0eGqsObLJEM0ob2Z/OevqkVdkHbEaoPFLM6ZhBVJz3hg/gtvpBrNqQx1dakw==",
+            "isTable": false,
+            "name": "VIP / Dinner & Bottle Service / 9:00 Pm",
+            "price": 18000,
+            "priceWithFees": 19440,
+            "sortOrder": 18,
+            "status": "upcoming",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "FjVOUyTHx4U9omsPVRTX4pOjg8iUfhGgEEajI+7Ufqq6FDnNqqcfIp5pRV7c2NIDGWR7z9G8o8celsHT7Se7qA==",
+            "isTable": false,
+            "name": "The Moon Roof Experience 8:00 Pm",
+            "price": 10000,
+            "priceWithFees": 11000,
+            "sortOrder": 19,
+            "status": "upcoming",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "eida6EOZu7Z9SasE7UbY7HITRku1PM0whaqU7M0beN8pKXF8lbL5fYvGBLfn2jhkvFfLvYuHuahsRurscbiiEg==",
+            "isTable": false,
+            "name": "The Jungle Room Experience / 9:00 Pm",
+            "price": 14000,
+            "priceWithFees": 15120,
+            "sortOrder": 20,
+            "status": "upcoming",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "8g2iA5xy9xqUmxQyMTYUyrlqmJA/jTUz9LREOHdbxwWf87uTnLJOMeLwGrAmznKHHy0PsuSoTkxBpI0JgnoWxQ==",
+            "isTable": false,
+            "name": "VIP Backstage & Bottle Service 10:00 Pm",
+            "price": 20000,
+            "priceWithFees": 21600,
+            "sortOrder": 21,
+            "status": "upcoming",
+            "symbol": "Mex$"
+          }
+        ],
+        "time": "20:00",
+        "url": "https://tf.link/exuei6wx",
+        "venueName": "GITANO TULUM",
+        "venueSlug": null,
+        "vipLink": null,
+        "vipPrice": null
+      },
+      "convexId": "j57bj4et15v7sgm5y5zfhd09yd8bfrrf",
+      "lastUpdated": "2026-08-14T22:42:57.650Z",
+      "locales": {
+        "en": {
+          "body": "<h2>NYE 2027 at GITANO Jungle</h2>\n<p>NYE 2027 Jungle brings dinner, cocktails, international DJs, live entertainment, and the GITANO Cabaret show to GITANO Jungle on December 31, 2026. You can book the full 4-course dinner or arrive later for open-bar access and dancing under the stars. Dinner guests get a 3-hour table reservation; general admission begins at 10pm with an unlimited open bar.</p>\n<h3>Modern Mexican Dinner and GITANO Cabaret</h3>\n<p>The Dinner &amp; Dancing package includes a 4-course Modern Mexican menu, a champagne toast, and a 3-hour table reservation starting at 8pm. After dinner, international DJs and live entertainment carry the night into dancing, with GITANO Cabaret as the live show. General admission guests get preferred access, top-shelf spirits, and signature mezcal cocktails from 10pm. The dinner package is the best fit if you want the meal, toast, and party in one booking.</p>\n<h3>Choose Dinner at 8pm or Entry at 10pm</h3>\n<p>Dinner reservations start at 8pm and run for 3 hours. General admission begins at 10pm with preferred access and an unlimited open bar; drinks after the dinner package are à la carte, and gratuity is not included. Choose your package and reserve your place at GITANO Jungle on this page.</p>",
+          "description": "Gitano NYE 2027 Jungle pairs a 4-course Modern Mexican dinner with international DJs, live cabaret, signature cocktails, and late-night dancing under the stars.",
+          "hubBlurb": "",
+          "name": "NYE 2027 JUNGLE",
+          "slug": "nye-2027-gitano-jungle-31dec2026",
+          "tableInformation": ""
+        },
+        "es": {
+          "body": "",
+          "description": "",
+          "hubBlurb": "",
+          "name": "NYE 2027 JUNGLE",
+          "slug": "nye-2027-gitano-jungle-31dec2026",
           "tableInformation": ""
         }
       }
