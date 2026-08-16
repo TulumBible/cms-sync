@@ -1,5 +1,370 @@
 {
-  "syncedAt": "2026-07-03T09:52:24.546Z",
+  "syncedAt": "2026-08-16T23:33:50.195Z",
   "citySlug": "tulum",
-  "redirects": []
+  "redirects": [
+    {
+      "base": {
+        "fromPath": "/events",
+        "statusCode": 301,
+        "toPath": "/tulum-events-and-parties"
+      },
+      "convexId": "kx71785fs281vbydxsds0h27958cj1nh",
+      "lastUpdated": "2026-08-16T23:33:21.294Z",
+      "locales": {
+        "en": {},
+        "es": {}
+      }
+    },
+    {
+      "base": {
+        "fromPath": "/es-mx/events",
+        "statusCode": 301,
+        "toPath": "/es-mx/tulum-events-and-parties"
+      },
+      "convexId": "kx7dymfzfa0zpjnt95393mvbz58ck1h9",
+      "lastUpdated": "2026-08-16T23:33:21.294Z",
+      "locales": {
+        "en": {},
+        "es": {}
+      }
+    },
+    {
+      "base": {
+        "fromPath": "/events/",
+        "statusCode": 301,
+        "toPath": "/tulum-events-and-parties"
+      },
+      "convexId": "kx71ehpcwcmchdcccw47842adn8ckvav",
+      "lastUpdated": "2026-08-16T23:33:21.294Z",
+      "locales": {
+        "en": {},
+        "es": {}
+      }
+    },
+    {
+      "base": {
+        "fromPath": "/es-mx/events/",
+        "statusCode": 301,
+        "toPath": "/es-mx/tulum-events-and-parties"
+      },
+      "convexId": "kx7457e95115a4hdj7ncyh0rdh8ckfq6",
+      "lastUpdated": "2026-08-16T23:33:21.294Z",
+      "locales": {
+        "en": {},
+        "es": {}
+      }
+    },
+    {
+      "base": {
+        "fromPath": "/events/ants-tulum-2026",
+        "statusCode": 301,
+        "toPath": "/event/ants-tulum-2026-zamna-january-3"
+      },
+      "convexId": "kx77pb9db546tj3s9xd9mpd3qx8cka23",
+      "lastUpdated": "2026-08-16T23:33:21.294Z",
+      "locales": {
+        "en": {},
+        "es": {}
+      }
+    },
+    {
+      "base": {
+        "fromPath": "/events/no-art-tulum-2026",
+        "statusCode": 301,
+        "toPath": "/event/no-art-tulum-2026-zamna-january-5"
+      },
+      "convexId": "kx75p87b10qksrbx3mb1savq6h8ckrm7",
+      "lastUpdated": "2026-08-16T23:33:21.294Z",
+      "locales": {
+        "en": {},
+        "es": {}
+      }
+    },
+    {
+      "base": {
+        "fromPath": "/events/keinemusik-tulum-2026",
+        "statusCode": 301,
+        "toPath": "/event/keinemusik-tulum-2026-zamna-january-6"
+      },
+      "convexId": "kx724c7vag2br8gfpf81xtvbph8cjgsd",
+      "lastUpdated": "2026-08-16T23:33:21.294Z",
+      "locales": {
+        "en": {},
+        "es": {}
+      }
+    },
+    {
+      "base": {
+        "fromPath": "/events/pulse-of-gaia-tulum-2026",
+        "statusCode": 301,
+        "toPath": "/event/pulse-of-gaia-tulum-2026-zamna-january-8"
+      },
+      "convexId": "kx7evsnk068cxwax6zk29cj3218cjzxz",
+      "lastUpdated": "2026-08-16T23:33:21.294Z",
+      "locales": {
+        "en": {},
+        "es": {}
+      }
+    },
+    {
+      "base": {
+        "fromPath": "/events/mayan-warrior-tulum-2026",
+        "statusCode": 301,
+        "toPath": "/event/mayan-warrior-tulum-2026-zamna-january-9"
+      },
+      "convexId": "kx733jh50q951nasx1ek82bcmn8cj3kw",
+      "lastUpdated": "2026-08-16T23:33:21.294Z",
+      "locales": {
+        "en": {},
+        "es": {}
+      }
+    },
+    {
+      "base": {
+        "fromPath": "/events/solomun-tulum-2026",
+        "statusCode": 301,
+        "toPath": "/event/solomun-tulum-2026-january-8"
+      },
+      "convexId": "kx7dsg814gr5aspek5tdj1kpmh8ck1y3",
+      "lastUpdated": "2026-08-16T23:33:21.294Z",
+      "locales": {
+        "en": {},
+        "es": {}
+      }
+    },
+    {
+      "base": {
+        "fromPath": "/events/day-zero-tulum-2026-tables-only",
+        "statusCode": 301,
+        "toPath": "/event/day-zero-tulum-2026-january-10"
+      },
+      "convexId": "kx7betyghamz9z809ze1s3e1658ckrn2",
+      "lastUpdated": "2026-08-16T23:33:21.294Z",
+      "locales": {
+        "en": {},
+        "es": {}
+      }
+    },
+    {
+      "base": {
+        "fromPath": "/events/*",
+        "statusCode": 301,
+        "toPath": "/event/:splat"
+      },
+      "convexId": "kx779zdjnbrzn4ytjbs49g8ddn8cjbne",
+      "lastUpdated": "2026-08-16T23:33:21.294Z",
+      "locales": {
+        "en": {},
+        "es": {}
+      }
+    },
+    {
+      "base": {
+        "fromPath": "/es-mx/events/*",
+        "statusCode": 301,
+        "toPath": "/es-mx/event/:splat"
+      },
+      "convexId": "kx76gpvqkdtzanrqrqn3zpvxvd8ckn07",
+      "lastUpdated": "2026-08-16T23:33:21.294Z",
+      "locales": {
+        "en": {},
+        "es": {}
+      }
+    },
+    {
+      "base": {
+        "fromPath": "/post/february-parties-in-tulum",
+        "statusCode": 301,
+        "toPath": "/tulum-events-and-parties"
+      },
+      "convexId": "kx7bnfr7ww895f4z009yb20ja98cjkkh",
+      "lastUpdated": "2026-08-16T23:33:21.294Z",
+      "locales": {
+        "en": {},
+        "es": {}
+      }
+    },
+    {
+      "base": {
+        "fromPath": "/es-mx/post/february-parties-in-tulum",
+        "statusCode": 301,
+        "toPath": "/es-mx/tulum-events-and-parties"
+      },
+      "convexId": "kx796ftmeab2f8zbzp406q0jjs8cjxf6",
+      "lastUpdated": "2026-08-16T23:33:21.294Z",
+      "locales": {
+        "en": {},
+        "es": {}
+      }
+    },
+    {
+      "base": {
+        "fromPath": "/post/tulum-festivals-2025-archive",
+        "statusCode": 301,
+        "toPath": "/post/tulum-festivals-2025"
+      },
+      "convexId": "kx75zfzbxhez6hfr5n4bjf32z18cjk25",
+      "lastUpdated": "2026-08-16T23:33:21.294Z",
+      "locales": {
+        "en": {},
+        "es": {}
+      }
+    },
+    {
+      "base": {
+        "fromPath": "/es-mx/post/tulum-festivals-2025-archive",
+        "statusCode": 301,
+        "toPath": "/es-mx/post/tulum-festivals-2025"
+      },
+      "convexId": "kx79nznt669wtjsk5703wgft8h8cj3ah",
+      "lastUpdated": "2026-08-16T23:33:21.294Z",
+      "locales": {
+        "en": {},
+        "es": {}
+      }
+    },
+    {
+      "base": {
+        "fromPath": "/transportation",
+        "statusCode": 301,
+        "toPath": "/tulum-transportation"
+      },
+      "convexId": "kx71t6ea2apbzjdpxky244vtmn8cjfpd",
+      "lastUpdated": "2026-08-16T23:33:21.294Z",
+      "locales": {
+        "en": {},
+        "es": {}
+      }
+    },
+    {
+      "base": {
+        "fromPath": "/baatz",
+        "statusCode": 301,
+        "toPath": "/tu-brunch"
+      },
+      "convexId": "kx70gp7w88v5wx3mz2nx8thsm18ckpqr",
+      "lastUpdated": "2026-08-16T23:33:21.294Z",
+      "locales": {
+        "en": {},
+        "es": {}
+      }
+    },
+    {
+      "base": {
+        "fromPath": "/prelude",
+        "statusCode": 301,
+        "toPath": "/tu-brunch"
+      },
+      "convexId": "kx7b0b9pqy97y3cyvrwf9bpsx18cj38y",
+      "lastUpdated": "2026-08-16T23:33:21.294Z",
+      "locales": {
+        "en": {},
+        "es": {}
+      }
+    },
+    {
+      "base": {
+        "fromPath": "/es-mx/baatz",
+        "statusCode": 301,
+        "toPath": "/es-mx/tu-brunch"
+      },
+      "convexId": "kx73qkxkgf0j1f5mtay8r8zz598ckza4",
+      "lastUpdated": "2026-08-16T23:33:21.294Z",
+      "locales": {
+        "en": {},
+        "es": {}
+      }
+    },
+    {
+      "base": {
+        "fromPath": "/es-mx/prelude",
+        "statusCode": 301,
+        "toPath": "/es-mx/tu-brunch"
+      },
+      "convexId": "kx73v39davxqrarvdzsqkx391d8cjmz1",
+      "lastUpdated": "2026-08-16T23:33:21.294Z",
+      "locales": {
+        "en": {},
+        "es": {}
+      }
+    },
+    {
+      "base": {
+        "fromPath": "/tulum-brunch",
+        "statusCode": 301,
+        "toPath": "/tu-brunch"
+      },
+      "convexId": "kx74n9xg7a8tcwrw0dcpybcken8ck9yn",
+      "lastUpdated": "2026-08-16T23:33:21.294Z",
+      "locales": {
+        "en": {},
+        "es": {}
+      }
+    },
+    {
+      "base": {
+        "fromPath": "/es-mx/tulum-brunch",
+        "statusCode": 301,
+        "toPath": "/es-mx/tu-brunch"
+      },
+      "convexId": "kx76nnan0ymkw6wz42zsqsvn0n8cj7ax",
+      "lastUpdated": "2026-08-16T23:33:21.294Z",
+      "locales": {
+        "en": {},
+        "es": {}
+      }
+    },
+    {
+      "base": {
+        "fromPath": "/partner",
+        "statusCode": 301,
+        "toPath": "/contact?topic=partnership"
+      },
+      "convexId": "kx7enkthq9a12xjp8g3xx1wdjd8ckjy8",
+      "lastUpdated": "2026-08-16T23:33:21.294Z",
+      "locales": {
+        "en": {},
+        "es": {}
+      }
+    },
+    {
+      "base": {
+        "fromPath": "/es-mx/partner",
+        "statusCode": 301,
+        "toPath": "/es-mx/contact?topic=partnership"
+      },
+      "convexId": "kx73h9ev6bb1s8swhzw0fxb4as8ckzqf",
+      "lastUpdated": "2026-08-16T23:33:21.294Z",
+      "locales": {
+        "en": {},
+        "es": {}
+      }
+    },
+    {
+      "base": {
+        "fromPath": "/tulum-route/*",
+        "statusCode": 301,
+        "toPath": "/tulum-transfer/:splat"
+      },
+      "convexId": "kx77xrx6qadw08m1rk72nzdr5d8cjrf9",
+      "lastUpdated": "2026-08-16T23:33:21.294Z",
+      "locales": {
+        "en": {},
+        "es": {}
+      }
+    },
+    {
+      "base": {
+        "fromPath": "/es-mx/tulum-route/*",
+        "statusCode": 301,
+        "toPath": "/es-mx/tulum-transfer/:splat"
+      },
+      "convexId": "kx76r61dn0kmy435wr0chhhc2h8ckzqv",
+      "lastUpdated": "2026-08-16T23:33:21.294Z",
+      "locales": {
+        "en": {},
+        "es": {}
+      }
+    }
+  ]
 }
