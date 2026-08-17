@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-08-17T02:03:13.748Z",
+  "syncedAt": "2026-08-17T02:40:51.819Z",
   "citySlug": "tulum",
   "redirects": [
     {
@@ -413,6 +413,58 @@
       },
       "convexId": "kx720v0etcrwr617kgzgpqphvs8cn8w3",
       "lastUpdated": "2026-08-17T02:02:41.624Z",
+      "locales": {
+        "en": {},
+        "es": {}
+      }
+    },
+    {
+      "base": {
+        "fromPath": "/event/day-zero-tulum-2026-jan-10",
+        "statusCode": 301,
+        "toPath": "/event/day-zero-tulum-2026-january-10"
+      },
+      "convexId": "kx7c6vn1b7ah23hvwrf7p94d818cnmcx",
+      "lastUpdated": "2026-08-17T02:40:26.621Z",
+      "locales": {
+        "en": {},
+        "es": {}
+      }
+    },
+    {
+      "base": {
+        "fromPath": "/es-mx/event/day-zero-tulum-2026-jan-10",
+        "statusCode": 301,
+        "toPath": "/es-mx/event/day-zero-tulum-2026-january-10"
+      },
+      "convexId": "kx7dtwkey42b0ze712d23dzar98cnmz3",
+      "lastUpdated": "2026-08-17T02:40:26.621Z",
+      "locales": {
+        "en": {},
+        "es": {}
+      }
+    },
+    {
+      "base": {
+        "fromPath": "/event/tu-brunch-chris-luno",
+        "statusCode": 301,
+        "toPath": "/event/tu-brunch-tulumania-mar-29"
+      },
+      "convexId": "kx77df28brrhnm1fx1qb8xzrbd8cnzef",
+      "lastUpdated": "2026-08-17T02:40:26.621Z",
+      "locales": {
+        "en": {},
+        "es": {}
+      }
+    },
+    {
+      "base": {
+        "fromPath": "/es-mx/event/tu-brunch-chris-luno",
+        "statusCode": 301,
+        "toPath": "/es-mx/event/tu-brunch-tulumania-mar-29"
+      },
+      "convexId": "kx769krg061khxvfsznd9aw3818cmss6",
+      "lastUpdated": "2026-08-17T02:40:26.621Z",
       "locales": {
         "en": {},
         "es": {}
