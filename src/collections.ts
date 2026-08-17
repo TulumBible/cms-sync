@@ -35,6 +35,14 @@ export const COLLECTIONS: readonly CollectionDef[] = [
   { slug: "authors", filename: "authors.json", publishable: true },
   { slug: "faqs", filename: "faqs.json", publishable: true },
   { slug: "reviews", filename: "reviews.json", publishable: true },
+  /* Event hubs (`/tulum-beach-clubs`, `/tulum-cenotes`, …). Absent from
+     this list until 2026-08-17, which is why those 13 pages have never
+     existed: with no entry the file was never generated, Astro's fetch
+     404'd, and because event-types is an OPTIONAL_COLLECTION the 404 was
+     tolerated — so the build stayed green and emitted zero hub paths.
+     The CMS route also had to move from a camelCase envelope key to the
+     kebab slug, since `rowsOf(envelope, slug)` uses this same string. */
+  { slug: "event-types", filename: "event-types.json", publishable: true },
   // Standalone publishable tables.
   { slug: "yachts", filename: "yachts.json", publishable: true },
   { slug: "villas", filename: "villas.json", publishable: true },
