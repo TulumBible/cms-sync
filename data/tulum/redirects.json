@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-08-17T02:40:51.819Z",
+  "syncedAt": "2026-08-17T18:55:42.170Z",
   "citySlug": "tulum",
   "redirects": [
     {
@@ -465,6 +465,32 @@
       },
       "convexId": "kx769krg061khxvfsznd9aw3818cmss6",
       "lastUpdated": "2026-08-17T02:40:26.621Z",
+      "locales": {
+        "en": {},
+        "es": {}
+      }
+    },
+    {
+      "base": {
+        "fromPath": "/es-mx/legal/privacy",
+        "statusCode": 301,
+        "toPath": "/es-mx/legal/privacidad"
+      },
+      "convexId": "kx7ec3c0q49rppct6s3r3n8e318cnfaz",
+      "lastUpdated": "2026-08-17T18:55:16.596Z",
+      "locales": {
+        "en": {},
+        "es": {}
+      }
+    },
+    {
+      "base": {
+        "fromPath": "/es-mx/legal/terms-and-conditions",
+        "statusCode": 301,
+        "toPath": "/es-mx/legal/terminos-y-condiciones"
+      },
+      "convexId": "kx7426b7mtsekg1vkhqq9z0s8n8cnq8b",
+      "lastUpdated": "2026-08-17T18:55:16.596Z",
       "locales": {
         "en": {},
         "es": {}
