@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-08-18T17:43:59.855Z",
+  "syncedAt": "2026-08-18T17:47:03.631Z",
   "citySlug": "tulum",
   "events": [
     {
@@ -116,6 +116,150 @@
           "hubBlurb": "<p>Day Zero vuelve a la selva de Tulum el 9 de enero de 2027, con Damian Lazarus reuniendo a 30 artistas repartidos en 3 escenarios. El cartel abarca estilos como el house, el techno, el minimal y la música electrónica en directo, con nombres como &amp;ME, Vintage Culture, LP Giobbi, RPR Soundsystem, Satori, Tiga y un invitado especial aún por anunciar.</p><p>El festival se celebra desde la puesta de sol hasta el amanecer y combina la música con una producción a gran escala, actuaciones en directo, arte y espacios integrados en el entorno de la selva. Es uno de los pocos eventos de Tulum en los que el escenario y el desarrollo completo de la noche son tan importantes como los nombres principales del cartel.</p>",
           "name": "Day Zero Tulum 2027",
           "slug": "day-zero-tulum-2027",
+          "tableInformation": ""
+        }
+      }
+    },
+    {
+      "base": {
+        "buyLink": "https://tf.link/a48amjiq",
+        "categoryIds": [],
+        "cta": "Tickets",
+        "displayPrice": "Free",
+        "endDate": "2026-09-18T23:59",
+        "eventType": "Dinner",
+        "faqIds": [],
+        "flyerImage": {
+          "url": "https://www.ticketfairy.com/uploaded/public/6a73b703b6ff82.71614422.png"
+        },
+        "gaLink": null,
+        "gaPrice": null,
+        "isFeatured": false,
+        "isPublished": true,
+        "noPrice": false,
+        "promotion": "normal",
+        "publishedAt": null,
+        "qrCode": "M0 0.5h7m1 0h2m4 0h1m3 0h7M0 1.5h1m5 0h1m9 0h1m1 0h1m5 0h1M0 2.5h1m1 0h3m1 0h1m1 0h1m2 0h3m2 0h1m1 0h1m1 0h3m1 0h1M0 3.5h1m1 0h3m1 0h1m1 0h2m1 0h1m1 0h1m1 0h1m2 0h1m1 0h3m1 0h1M0 4.5h1m1 0h3m1 0h1m1 0h4m1 0h1m1 0h2m1 0h1m1 0h3m1 0h1M0 5.5h1m5 0h1m2 0h1m2 0h2m4 0h1m5 0h1M0 6.5h7m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h7M9 7.5h1m1 0h1m2 0h3M0 8.5h4m2 0h1m1 0h1m5 0h4m2 0h3m1 0h1M0 9.5h1m2 0h1m1 0h1m2 0h2m9 0h1m3 0h1M4 10.5h3m1 0h1m5 0h1m1 0h1m3 0h1M1 11.5h1m2 0h1m2 0h2m2 0h6m1 0h1m2 0h2M1 12.5h1m1 0h2m1 0h1m1 0h2m1 0h1m1 0h2m3 0h3m1 0h3M4 13.5h1m5 0h2m1 0h8m3 0h1M1 14.5h2m1 0h4m2 0h1m1 0h3m1 0h3m1 0h1m1 0h2M0 15.5h1m4 0h1m6 0h1m1 0h1m1 0h1m2 0h2m3 0h1M2 16.5h3m1 0h1m4 0h1m1 0h1m1 0h10M8 17.5h1m1 0h1m1 0h1m3 0h1m3 0h1m1 0h1m1 0h1M0 18.5h7m2 0h5m2 0h1m1 0h1m1 0h1m1 0h3M0 19.5h1m5 0h1m2 0h1m2 0h1m1 0h3m3 0h1m2 0h1M0 20.5h1m1 0h3m1 0h1m2 0h3m2 0h1m1 0h6m2 0h1M0 21.5h1m1 0h3m1 0h1m1 0h3m1 0h2m3 0h2m1 0h5M0 22.5h1m1 0h3m1 0h1m1 0h5m1 0h1m1 0h3m1 0h1m1 0h2M0 23.5h1m5 0h1m1 0h1m1 0h1m2 0h2m2 0h2m1 0h1m1 0h1M0 24.5h7m1 0h1m1 0h1m2 0h2m3 0h7<!--vb:25-->",
+        "startDate": "2026-09-18",
+        "status": "Live",
+        "tableLayoutImage": null,
+        "tbeId": "TBE_TWH3CR",
+        "ticketPrice": null,
+        "ticketTiers": [
+          {
+            "currency": "MXN",
+            "id": "DBpjr8pQdijf2ztWZhvLLFlFDn2Qs7bgKap7B+hESxa1kFmitCqmtRGUhLDvfJfH2223GbDExJfzTVco/KRyUA==",
+            "isTable": false,
+            "name": "GUEST LIST",
+            "price": 0,
+            "priceWithFees": 0,
+            "replacementText": "Free",
+            "sortOrder": 1,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "/lJPPJnn0mryrKCmN31Tg6p09ZbekHcGguZJ3shArpqvSweeIPopZy+9NkS/T4GHwLjwpFqsPKfLKKvwRZOW0Q==",
+            "isTable": false,
+            "name": "General Admission | Welcome Drink",
+            "price": 605,
+            "priceWithFees": 605,
+            "sortOrder": 2,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "jSFKaKBIH/BfO2PROrRfPtfEJoPdGP2/epwNdVCK4HzvchINITpjirxOj8o2rsEusvsldXP9iDncKimBVp3Oow==",
+            "isTable": false,
+            "name": "PREMIUM OPEN BAR 1 HOUR",
+            "price": 990,
+            "priceWithFees": 990,
+            "sortOrder": 3,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "/5cHFTkLiS8ts+6ITPavSbDE10Qy+BpfWBDAvxglKOF8IIbiMdlEnfOWXzRKGmz7yFvt2sPGapauXs/ualZCIg==",
+            "isTable": false,
+            "name": "STANDARD OPEN BAR 1 HOUR",
+            "price": 770,
+            "priceWithFees": 770,
+            "sortOrder": 4,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "WFzUpok58hKC1Xqg4QD1Ko78OiMjrc1SFgF777aOj7UpCiFy/iCKn0sYKYuU3lzI31Cr03Xs1jXGwJFAi+NDtQ==",
+            "isTable": false,
+            "name": "Bottles & Bites",
+            "price": 3300,
+            "priceWithFees": 3300,
+            "sortOrder": 5,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "sKIKehSfHYXjYrgBloBow1BnudSTG9QbxnpI1KaPiZ78MPunMI3S2v2flHPPGPI5EA5j3uFbsFo+EsQfKJ63lg==",
+            "isTable": false,
+            "name": "Dinner & Dancing",
+            "price": 1925,
+            "priceWithFees": 1925,
+            "sortOrder": 6,
+            "status": "upcoming",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "foecOso97l/bFIjbEjSc37jFXYAB6Vx5kQtQ4mxo/n0D9iA3LbjjsgtKcZsGgitwl7RnVPUpTD09fWTF7i/v8g==",
+            "isTable": false,
+            "name": "Gold Section",
+            "price": 4400,
+            "priceWithFees": 4400,
+            "sortOrder": 7,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "rrwQMGEFqOxHqZmUHrjqxQ5AS723vxBe93P0g0oMigRkU3rRa2MlCLb3eXOYOozvkT3Mds3DqrpTwSLBcIEAJg==",
+            "isTable": false,
+            "name": "VIP Experience",
+            "price": 6600,
+            "priceWithFees": 6600,
+            "sortOrder": 8,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          }
+        ],
+        "time": "18:00 - 01:00",
+        "url": "https://tf.link/a48amjiq",
+        "venueName": "Gitano Jungle",
+        "venueSlug": "gitano-jungle",
+        "vipLink": null,
+        "vipPrice": null
+      },
+      "convexId": "j57atj0hcv2v4dv3q91js23ecs8bft4x",
+      "lastUpdated": "2026-08-18T17:46:39.947Z",
+      "locales": {
+        "en": {
+          "body": "<h2>Gypsy Disco Takes Over Gitano Jungle</h2>\n<p>Gypsy Disco brings its Especial Edition to Gitano Jungle on Friday, September 18, 2026. The party runs from 6pm until late, with candlelight, lush palms and dancing at the heart of the night.</p>\n<h3>Candlelight, Cocktails and Dancing</h3>\n<p>The format pairs music and dancing with signature cocktails. Candlelight and lush palms define the setting. No individual DJs are named for this edition, so book this night for the party format rather than a billed headliner.</p>\n<h3>Start at 6pm and Stay Until Late</h3>\n<p>The party starts at 6pm and continues until late at the venue on Boca Paila Km 7.5. Secure your spot for the special edition with the buy button above.</p>",
+          "description": "Gypsy Disco is a special-edition party built around candlelight, signature cocktails and dancing among lush palms from early evening until late in Tulum.",
+          "hubBlurb": "",
+          "name": "GYPSY DISCO ESPECIAL EDITION",
+          "slug": "gypsy-disco-especial-edition-18sep2026",
+          "tableInformation": ""
+        },
+        "es": {
+          "body": "<h2>Gypsy Disco se adueña de Gitano Jungle</h2>\n<p>Gypsy Disco trae su Edición Especial a Gitano Jungle el viernes 18 de septiembre de 2026. La fiesta comenzará a las 18:00 y se prolongará hasta bien entrada la noche, con luz de velas, exuberantes palmeras y baile como protagonistas de la velada.</p>\n<h3>Luz de velas, cócteles y baile</h3>\n<p>El formato combina música y baile con cócteles exclusivos. La luz de las velas y las exuberantes palmeras definen el ambiente. No se ha anunciado ningún DJ concreto para esta edición, así que reserva esta noche por el formato de la fiesta más que por un cabeza de cartel concreto.</p>\n<h3>Empieza a las 18:00 y quédate hasta bien entrada la noche</h3>\n<p>La fiesta empieza a las 18:00 y continúa hasta bien entrada la noche en el local situado en el km 7,5 de Boca Paila. Asegúrate tu plaza para esta edición especial con el botón de compra de arriba.</p>",
+          "description": "«Gypsy Disco» es una fiesta de edición especial que gira en torno a la luz de las velas, los cócteles exclusivos y el baile entre exuberantes palmeras, desde primera hora de la tarde hasta bien entrada la noche en Tulum.",
+          "hubBlurb": "",
+          "name": "GYPSY DISCO ESPECIAL EDITION",
+          "slug": "gypsy-disco-especial-edition-18sep2026",
           "tableInformation": ""
         }
       }
