@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-08-18T16:00:27.643Z",
+  "syncedAt": "2026-08-18T17:43:59.855Z",
   "citySlug": "tulum",
   "events": [
     {
@@ -411,6 +411,193 @@
           "hubBlurb": "",
           "name": "NYE 2027 GITANO JUNGLE",
           "slug": "nye-2027-gitano-jungle-31dec2026",
+          "tableInformation": ""
+        }
+      }
+    },
+    {
+      "base": {
+        "buyLink": "https://tf.link/lrwrvbh2",
+        "categoryIds": [],
+        "cta": "Tickets",
+        "displayPrice": "Mex$3,300",
+        "endDate": "2026-08-29T23:59",
+        "eventType": "BeachClub",
+        "faqIds": [],
+        "flyerImage": {
+          "url": "https://www.ticketfairy.com/uploaded/public/6a83aac55789f2.20410890.jpeg"
+        },
+        "gaLink": null,
+        "gaPrice": null,
+        "isFeatured": false,
+        "isPublished": true,
+        "noPrice": false,
+        "promotion": "normal",
+        "publishedAt": null,
+        "qrCode": "M0 0.5h7m1 0h1m4 0h1m1 0h2m1 0h7M0 1.5h1m5 0h1m1 0h1m2 0h2m1 0h1m3 0h1m5 0h1M0 2.5h1m1 0h3m1 0h1m1 0h2m2 0h1m2 0h1m2 0h1m1 0h3m1 0h1M0 3.5h1m1 0h3m1 0h1m1 0h3m1 0h3m1 0h1m1 0h1m1 0h3m1 0h1M0 4.5h1m1 0h3m1 0h1m2 0h2m1 0h2m1 0h2m1 0h1m1 0h3m1 0h1M0 5.5h1m5 0h1m1 0h3m5 0h1m1 0h1m5 0h1M0 6.5h7m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h7M10 7.5h2m2 0h1M0 8.5h2m2 0h3m3 0h1m1 0h1m2 0h1m3 0h1m1 0h4M3 9.5h1m3 0h2m4 0h1m1 0h1m4 0h2m1 0h1M2 10.5h2m1 0h2m1 0h3m2 0h1m1 0h1m5 0h2M0 11.5h1m2 0h2m2 0h1m1 0h1m2 0h1m3 0h4m2 0h2M2 12.5h2m1 0h2m4 0h1m3 0h1m2 0h1m2 0h4M0 13.5h1m2 0h2m2 0h2m1 0h1m1 0h2m1 0h2m3 0h1m2 0h1M2 14.5h6m1 0h1m1 0h6m1 0h5M2 15.5h1m2 0h1m1 0h1m1 0h3m5 0h4m1 0h2M0 16.5h3m3 0h2m2 0h1m1 0h1m2 0h8M8 17.5h1m4 0h2m1 0h1m3 0h1M0 18.5h7m6 0h1m2 0h1m1 0h1m1 0h1M0 19.5h1m5 0h1m1 0h2m2 0h1m3 0h1m3 0h4M0 20.5h1m1 0h3m1 0h1m1 0h1m1 0h3m3 0h7M0 21.5h1m1 0h3m1 0h1m3 0h1m1 0h1m1 0h2m1 0h3m2 0h3M0 22.5h1m1 0h3m1 0h1m2 0h1m1 0h1m3 0h1m1 0h2m2 0h1m1 0h1M0 23.5h1m5 0h1m1 0h1m1 0h1m4 0h1m2 0h6M0 24.5h7m1 0h2m4 0h2m2 0h1m3 0h3<!--vb:25-->",
+        "startDate": "2026-08-29",
+        "status": "Live",
+        "tableLayoutImage": null,
+        "tbeId": "TBE_V7EABP",
+        "ticketPrice": null,
+        "ticketTiers": [
+          {
+            "currency": "MXN",
+            "id": "hzZGUzlR+MH4OCUYrc4/Wu2PG4faYP+uR0NOGNR9KdY565f8AqjgO1j4WEBZve25MS4VImwwVuVoDH4e6LXqlw==",
+            "isTable": false,
+            "name": "Local Access | Early Moonrise",
+            "price": 390,
+            "priceWithFees": 390,
+            "sortOrder": 1,
+            "status": "upcoming",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "XTKfzW44cAjZAxFsXbyfOhW6xbGAj7RKTBjXJrCbfPh6Qm+fyQiX3KPt0UtMSXfc2jYfdxqY8bDVYP8i98Jvuw==",
+            "isTable": false,
+            "name": "General Access |",
+            "price": 770,
+            "priceWithFees": 770,
+            "sortOrder": 2,
+            "status": "upcoming",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "kySX5dY3smFPR7aH2ik8m/QXP4VQYSab0n5W/qJrVFQpyZQHgeN+jAD7kap4+ng2H+GdkhLthVOnRp19bQrljw==",
+            "isTable": false,
+            "name": "Dinner La Luna | Early Moonrise",
+            "price": 3300,
+            "priceWithFees": 3300,
+            "sortOrder": 3,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "0AZPcAr0nTkJ+5QLIscOYBuQHEFwGUzOnCAgv0zG1zZ+01olSWxVIZLaQ1ZZVTNor3P4eXNahJiUpBF1AOy/5g==",
+            "isTable": false,
+            "name": "VIP Party Villa | After Dark | 8 Ppl",
+            "price": 68040,
+            "priceWithFees": 68040,
+            "sortOrder": 4,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "UcPq2BKuMs5b745Yw1BR7Ta8wAdRM6XM1+wbEVWvOgRwC83+kuyYg1lHhA+BY3yMOjsdINC63J5wdPW8EQj59Q==",
+            "isTable": false,
+            "name": "Black Table | 6 Pax",
+            "price": 21600,
+            "priceWithFees": 21600,
+            "sortOrder": 5,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "U9KEZdv1E3OBVX/42uDzCxMk4B78GcRf2HwhUBR61KiXIiPYaiGbWlcpCPQsMl0lsdeXc4pt1bcVFczgazm6Xg==",
+            "isTable": false,
+            "name": "Gold Tables 6 Pax",
+            "price": 16200,
+            "priceWithFees": 16200,
+            "sortOrder": 6,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "rFCWL36t4c8HGxv5vK0en+5KPHejb47B8CNgguTk8aANb/MR9ZcRogoH5k8Nn5/nOD5aLU+o2fj/GxsrO2I6ew==",
+            "isTable": false,
+            "name": "Premium Area | Early Moonrise | 6 Pax",
+            "price": 11000,
+            "priceWithFees": 11000,
+            "sortOrder": 7,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "n+1GNpS5YLBPAT0I/wnMWS+5D91dEcOpBcZY3d5RiGfhJQ+6JrehwNfe094UIdtJ9mIWDzT6FYkIRfBlJgk/SQ==",
+            "isTable": false,
+            "name": "Party & Stay | One Night At Casa Gitano | Early Moonrise",
+            "price": 6600,
+            "priceWithFees": 6600,
+            "sortOrder": 8,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "WgBCmDNwR5JrR+4ivinQSZK3LIUS2nT9HXkgmVeSENUF2pbG3wSCMbcov2/OYg16Xqy8150vIp72wdl2MzHziQ==",
+            "isTable": false,
+            "name": "Party & Stay | Two Nights | The Lost Weekend | Early Moonrise",
+            "price": 11340,
+            "priceWithFees": 11340,
+            "sortOrder": 9,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "C8EUTuWLn0aRRVXwGq3zcqP8vcEeGV3hPT8XkBbYJsfH2v0k+T8OaBkX4PwxoQvpe+7W/vD2/scqMZIb6Hl8GA==",
+            "isTable": false,
+            "name": "Ocean Front Suite | After Dark | 2 Ppl",
+            "price": 23760,
+            "priceWithFees": 23760,
+            "sortOrder": 10,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "Phojhut1hRxeYGq0iWC73MHwkqbgKOsW9DRkU7T27LkrmXQjFpfCURDIzfPsJ2SzpUhszBrg4w7192ioF0E+MA==",
+            "isTable": false,
+            "name": "Double Jungle Suite | After Dark | 4 Ppl",
+            "price": 32400,
+            "priceWithFees": 32400,
+            "sortOrder": 11,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "zmcN0t4mSj/rh6f2m7QYRQ6zk9rnARtZozvWWzCc0Hlx6+3QKoUe0Avo04XNorJ2O9z1uoxYcZE2Cq2wjL8IVA==",
+            "isTable": false,
+            "name": "Jungle Suite | After Dark | 2 Ppl",
+            "price": 19440,
+            "priceWithFees": 19440,
+            "sortOrder": 12,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          }
+        ],
+        "time": "18:00 - 23:00",
+        "url": "https://tf.link/lrwrvbh2",
+        "venueName": "Gitano Beach",
+        "venueSlug": "gitano-beach",
+        "vipLink": null,
+        "vipPrice": null
+      },
+      "convexId": "j5771kmtzpyty0f38476msm0fh8a44dq",
+      "lastUpdated": "2026-08-18T17:43:38.451Z",
+      "locales": {
+        "en": {
+          "body": "<h2>Full Moon Rising at Gitano Beach</h2><p>Full Moon Rising brings electronic DJ sets to Gitano Beach in Tulum on August 29, 2026. The party runs from sunset to late night, pairing its full-moon theme with a beachfront setting and an international crowd.</p><h3>Electronic DJ Sets From Sunset to Late Night</h3><p>This beach party built around electronic music and DJ sets. The beachfront format is the reason to go. An international crowd carries the night from sunset into late night.</p><h3>Arrive for the 6pm Start</h3><p>Plan to arrive for the 6pm start and catch the party as daylight fades. Tickets are limited, so grab yours above and secure your spot at Gitano Beach.</p>",
+          "description": "Full Moon Rising pairs electronic DJ sets with a sunset-to-late-night beach-party format and an international crowd, with the full moon setting the theme.",
+          "hubBlurb": "",
+          "name": "FULL MOON RISING",
+          "slug": "full-moon-rising-29aug2026",
+          "tableInformation": ""
+        },
+        "es": {
+          "body": "<h2>Full Moon Rising en la playa de Gitano</h2><p>«Full Moon Rising» trae sesiones de DJ de música electrónica a la playa de Gitano, en Tulum, el 29 de agosto de 2026. La fiesta se celebra desde la puesta de sol hasta bien entrada la noche, combinando su temática de luna llena con un entorno frente al mar y un público internacional.</p><h3>Sesiones de DJ de música electrónica desde la puesta de sol hasta bien entrada la noche</h3><p>Esta fiesta en la playa gira en torno a la música electrónica y las sesiones de DJ. El entorno frente al mar es la razón para asistir. Un público internacional anima la noche desde la puesta de sol hasta bien entrada la noche.</p><h3>Llega a las 18:00, hora de inicio</h3><p>Planea llegar a las 18:00 h, hora de inicio, y disfruta de la fiesta mientras se va apagando la luz del día. Las entradas son limitadas, así que consigue la tuya más arriba y asegúrate tu plaza en Gitano Beach.</p>",
+          "description": "«Full Moon Rising» combina sesiones de DJ de música electrónica con un formato de fiesta en la playa que va desde la puesta de sol hasta bien entrada la noche y un público internacional, con la luna llena como tema central.",
+          "hubBlurb": "",
+          "name": "FULL MOON RISING",
+          "slug": "full-moon-rising-29aug2026",
           "tableInformation": ""
         }
       }
