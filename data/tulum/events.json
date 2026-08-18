@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-08-18T20:00:30.741Z",
+  "syncedAt": "2026-08-18T20:31:13.586Z",
   "citySlug": "tulum",
   "events": [
     {
@@ -404,6 +404,150 @@
           "hubBlurb": "",
           "name": "GYPSY DISCO ESPECIAL EDITION",
           "slug": "gypsy-disco-especial-edition-16oct2026",
+          "tableInformation": ""
+        }
+      }
+    },
+    {
+      "base": {
+        "buyLink": "https://tf.link/v9y8lnp2",
+        "categoryIds": [],
+        "cta": "Tickets",
+        "displayPrice": "Free",
+        "endDate": "2026-11-20T23:59",
+        "eventType": "Dinner",
+        "faqIds": [],
+        "flyerImage": {
+          "url": "https://www.ticketfairy.com/uploaded/public/6a692ce966b703.96832067.jpg"
+        },
+        "gaLink": null,
+        "gaPrice": null,
+        "isFeatured": false,
+        "isPublished": true,
+        "noPrice": false,
+        "promotion": "normal",
+        "publishedAt": null,
+        "qrCode": "M0 0.5h7m3 0h1m2 0h1m1 0h2m1 0h7M0 1.5h1m5 0h1m1 0h3m4 0h2m1 0h1m5 0h1M0 2.5h1m1 0h3m1 0h1m1 0h1m5 0h2m2 0h1m1 0h3m1 0h1M0 3.5h1m1 0h3m1 0h1m2 0h1m2 0h1m1 0h3m1 0h1m1 0h3m1 0h1M0 4.5h1m1 0h3m1 0h1m1 0h3m1 0h1m2 0h2m1 0h1m1 0h3m1 0h1M0 5.5h1m5 0h1m1 0h1m1 0h1m1 0h5m1 0h1m5 0h1M0 6.5h7m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h7M8 7.5h1m1 0h2m2 0h1M0 8.5h2m1 0h1m2 0h2m3 0h3m1 0h2m1 0h3m1 0h2M0 9.5h6m1 0h1m1 0h1m1 0h2m1 0h1m2 0h2m5 0h1M0 10.5h1m2 0h2m1 0h2m3 0h4m1 0h5m2 0h2M2 11.5h1m1 0h1m3 0h7m3 0h1m1 0h1M1 12.5h1m3 0h4m1 0h2m1 0h1m1 0h2m1 0h2m1 0h1m1 0h2M1 13.5h1m9 0h1m1 0h1m3 0h3m1 0h2m1 0h1M0 14.5h1m5 0h1m2 0h3m2 0h1m1 0h1m2 0h2m1 0h1m1 0h1M1 15.5h1m1 0h2m3 0h2m1 0h1m1 0h1m2 0h3m1 0h1m2 0h1M0 16.5h5m1 0h1m1 0h1m3 0h1m2 0h8M8 17.5h1m3 0h1m1 0h3m3 0h2m2 0h1M0 18.5h7m1 0h1m2 0h3m1 0h2m1 0h1m1 0h2m1 0h2M0 19.5h1m5 0h1m2 0h2m1 0h1m3 0h1m3 0h4M0 20.5h1m1 0h3m1 0h1m5 0h3m1 0h6m1 0h1M0 21.5h1m1 0h3m1 0h1m1 0h2m1 0h1m1 0h2m4 0h4M0 22.5h1m1 0h3m1 0h1m2 0h2m1 0h3m1 0h1m2 0h2m1 0h1m1 0h1M0 23.5h1m5 0h1m1 0h1m2 0h1m1 0h6m2 0h1M0 24.5h7m1 0h1m1 0h1m2 0h4m1 0h2m3 0h2<!--vb:25-->",
+        "startDate": "2026-11-20",
+        "status": "Live",
+        "tableLayoutImage": null,
+        "tbeId": "TBE_Y9VRTF",
+        "ticketPrice": null,
+        "ticketTiers": [
+          {
+            "currency": "MXN",
+            "id": "gvopbYVbymY0Q/1vRbF4ZRap++LvjTUbjjdhyUUVsQfWEb8i3OWIMZS+zL2W4zE1Vjcq+Roda/VobX0CSdQB1w==",
+            "isTable": false,
+            "name": "GUEST LIST",
+            "price": 0,
+            "priceWithFees": 0,
+            "replacementText": "Free",
+            "sortOrder": 1,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "nuzdWwwV+Gji89Ds6TgxcnOX+uvCIQZmidpLu51U7lNsqGyL/gySgyIQ643dZ+vJjGM2U+A1GwWu5SMf/9JLhw==",
+            "isTable": false,
+            "name": "General Admission | Welcome Drink",
+            "price": 605,
+            "priceWithFees": 605,
+            "sortOrder": 2,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "FLI5AqlA3qjRZhK5qlKZZVS2peqiiLP7sXjsSFzU+HrOX76J2AY4HgOwSXDsb0XmZwzVyRXu8iCvkYSV2BTU5A==",
+            "isTable": false,
+            "name": "PREMIUM OPEN BAR 1 HOUR",
+            "price": 990,
+            "priceWithFees": 990,
+            "sortOrder": 3,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "AQxQQnvRdC6ZEq5pfvoNKz6tL+wa68ATieI7ahXopbypax5a/Xsv/sPWmbYT1M28S+9eawUu8BnVR8o+pSkQxA==",
+            "isTable": false,
+            "name": "STANDARD OPEN BAR 1 HOUR",
+            "price": 770,
+            "priceWithFees": 770,
+            "sortOrder": 4,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "KmMWOGT3QjpR17Egk/5aMkIuGPxMH68FE4BY1rz3V9yjbpYIFTNWGTcw0pEJ2baDDxyLCGdb9Ts29PBI2U/6xg==",
+            "isTable": false,
+            "name": "Bottles & Bites",
+            "price": 3300,
+            "priceWithFees": 3300,
+            "sortOrder": 5,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "4wpxF0WCsFwHuteonHHMbVmFygTpijSL4GapRDl3LLya4ctkqFh8Gb5PMaaMg8jpT4sTpN66XVOyU1DVXZpoBg==",
+            "isTable": false,
+            "name": "Dinner & Dancing",
+            "price": 1925,
+            "priceWithFees": 1925,
+            "sortOrder": 6,
+            "status": "upcoming",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "gsKXuaELj2hARq22VDTwgh/+phkltWto7y/jkTvbR5jFfT5tBH0WFpSllWj2n/JE2yzFwAiZJbteXUne5B+Hfg==",
+            "isTable": false,
+            "name": "Gold Section",
+            "price": 4400,
+            "priceWithFees": 4400,
+            "sortOrder": 7,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "fjibjOcQS/KxMdHdyD8uyDZjDfRndsfccQANaG/G+qQzZ46MZvIpKYmnW6106WUsVg2mxY9XnzgyeAUVjnJFZQ==",
+            "isTable": false,
+            "name": "VIP Experience",
+            "price": 6600,
+            "priceWithFees": 6600,
+            "sortOrder": 8,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          }
+        ],
+        "time": "18:00 - 01:00",
+        "url": "https://tf.link/v9y8lnp2",
+        "venueName": "Gitano Jungle",
+        "venueSlug": "gitano-jungle",
+        "vipLink": null,
+        "vipPrice": null
+      },
+      "convexId": "j57599xrnb612dbykwcs3znyf18bem50",
+      "lastUpdated": "2026-08-18T20:30:53.693Z",
+      "locales": {
+        "en": {
+          "body": "<h2>Gypsy Disco Special Edition at Gitano Jungle</h2>\n<p>Gypsy Disco comes to Gitano Jungle in Tulum on Friday, November 20, 2026. No DJs or artists are named in the announced details. The night runs from 6pm until late, with candlelight, lush palms and signature cocktails.</p>\n<h3>Candlelight, Cocktails and Dancing</h3>\n<p>Music, movement and dancing are the focus as the night builds after 6pm. Candlelight and lush palms set the scene at Gitano Jungle. With no performers or music genres announced, the candlelit setting is the strongest reason to go.</p>\n<h3>Arrive From 6pm and Stay Late</h3>\n<p>The event starts at 6pm at Boca Paila Km 7.5 and runs until late. Arrive early for signature cocktails before the dancing builds. Grab tickets above for the special edition at Gitano Jungle.</p>",
+          "description": "Gypsy Disco presents a special edition built around dancing, candlelight and signature cocktails, running from 6pm until late with no artist lineup announced.",
+          "hubBlurb": "",
+          "name": "GYPSY DISCO ESPECIAL EDITION",
+          "slug": "gypsy-disco-especial-edition-20nov2026",
+          "tableInformation": ""
+        },
+        "es": {
+          "body": "<h2>Edición especial de Gypsy Disco en Gitano Jungle</h2>\n<p>Gypsy Disco llega a Gitano Jungle, en Tulum, el viernes 20 de noviembre de 2026. En los detalles anunciados no se mencionan nombres de DJ ni artistas. La velada se prolongará desde las 18:00 h hasta bien entrada la noche, con luz de velas, exuberantes palmeras y cócteles exclusivos.</p>\n<h3>Luz de velas, cócteles y baile</h3>\n<p>La música, el movimiento y el baile serán los protagonistas a medida que la noche vaya cobrando vida a partir de las 18:00 h. La luz de las velas y las exuberantes palmeras crean el ambiente perfecto en Gitano Jungle. Aunque no se han anunciado artistas ni géneros musicales, el ambiente a la luz de las velas es la razón de peso para acudir.</p>\n<h3>Llega a partir de las 18:00 y quédate hasta tarde</h3>\n<p>El evento comienza a las 18:00 h en Boca Paila, km 7,5, y se prolonga hasta bien entrada la noche. Llega temprano para disfrutar de los cócteles de autor antes de que el baile cobre intensidad. Consigue aquí tus entradas para la edición especial en Gitano Jungle.</p>",
+          "description": "Gypsy Disco presenta una edición especial centrada en el baile, la luz de las velas y los cócteles de autor, que se celebrará desde las 18:00 hasta bien entrada la noche, sin que se haya anunciado el cartel de artistas.",
+          "hubBlurb": "",
+          "name": "GYPSY DISCO ESPECIAL EDITION",
+          "slug": "gypsy-disco-especial-edition-20nov2026",
           "tableInformation": ""
         }
       }
