@@ -1,7 +1,107 @@
 {
-  "syncedAt": "2026-08-18T20:31:13.586Z",
+  "syncedAt": "2026-08-18T20:50:05.071Z",
   "citySlug": "tulum",
   "events": [
+    {
+      "base": {
+        "buyLink": "https://tf.link/0okn0nkt",
+        "categoryIds": [],
+        "cta": "Tickets",
+        "displayPrice": "Free",
+        "endDate": "2026-08-22T23:59",
+        "eventType": "BeachClub",
+        "faqIds": [],
+        "flyerImage": {
+          "url": "https://www.ticketfairy.com/uploaded/public/6a847af5b5e282.00656535.png"
+        },
+        "gaLink": null,
+        "gaPrice": null,
+        "isFeatured": false,
+        "isPublished": true,
+        "noPrice": false,
+        "promotion": "normal",
+        "publishedAt": null,
+        "qrCode": "M0 0.5h7m3 0h1m2 0h3m2 0h7M0 1.5h1m5 0h1m2 0h1m4 0h2m2 0h1m5 0h1M0 2.5h1m1 0h3m1 0h1m1 0h1m2 0h1m4 0h1m1 0h1m1 0h3m1 0h1M0 3.5h1m1 0h3m1 0h1m2 0h1m2 0h1m1 0h3m1 0h1m1 0h3m1 0h1M0 4.5h1m1 0h3m1 0h1m2 0h1m2 0h5m1 0h1m1 0h3m1 0h1M0 5.5h1m5 0h1m3 0h3m2 0h2m1 0h1m5 0h1M0 6.5h7m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h7M8 7.5h1m2 0h1m1 0h2m1 0h1M0 8.5h3m1 0h5m3 0h2m1 0h4m3 0h1M0 9.5h1m1 0h2m1 0h1m1 0h1m1 0h1m1 0h2m4 0h2m5 0h1M1 10.5h1m1 0h2m1 0h1m3 0h4m3 0h2m1 0h1m1 0h3M0 11.5h1m3 0h1m3 0h3m1 0h2m3 0h2m4 0h1M0 12.5h1m1 0h1m2 0h2m1 0h1m1 0h2m1 0h4m1 0h2m1 0h1m1 0h2M10 13.5h2m1 0h2m1 0h3m2 0h1m2 0h1M0 14.5h1m1 0h1m2 0h2m2 0h1m4 0h1m1 0h2m1 0h1m2 0h3M1 15.5h5m1 0h1m2 0h2m1 0h1m2 0h3m1 0h1m2 0h1M0 16.5h1m3 0h1m1 0h1m5 0h2m1 0h7M8 17.5h1m2 0h2m2 0h2m3 0h2m1 0h2M0 18.5h7m1 0h1m1 0h4m1 0h2m1 0h1m1 0h2m1 0h2M0 19.5h1m5 0h1m1 0h1m3 0h2m2 0h1m3 0h2m1 0h1M0 20.5h1m1 0h3m1 0h1m1 0h1m2 0h3m2 0h6M0 21.5h1m1 0h3m1 0h1m2 0h1m1 0h1m7 0h4M0 22.5h1m1 0h3m1 0h1m1 0h3m1 0h3m5 0h1m3 0h1M0 23.5h1m5 0h1m1 0h9m1 0h1m1 0h2m1 0h1M0 24.5h7m1 0h2m3 0h1m1 0h2m1 0h2m3 0h2<!--vb:25-->",
+        "startDate": "2026-08-22",
+        "status": "Live",
+        "tableLayoutImage": null,
+        "tbeId": "TBE_ZYH9KD",
+        "ticketPrice": null,
+        "ticketTiers": [
+          {
+            "currency": "MXN",
+            "id": "Z7gG0nnWyhWt2Fc9MtqylyyluJ53d8hBTlDQ/mgQOu4jdyODiQsg/QdJtNxAaZzlvfdYAt9N1wfbc0wN/yfL5w==",
+            "isTable": false,
+            "name": "General Admission",
+            "price": 0,
+            "priceWithFees": 0,
+            "replacementText": "Free",
+            "sortOrder": 1,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "yEWKYg2lpDleSdh1HxcTkf2TWM65ZKFI8K9CbOuZz9Um5jDS45VV8oxvh5HUuLFv5VDkDbZ8vkUoVkOZDaqMRw==",
+            "isTable": false,
+            "name": "DINNER + PARTY",
+            "price": 1100,
+            "priceWithFees": 1100,
+            "sortOrder": 2,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "yYeXtJIG19SKe+Td8xoaSMTRGIqZfwZk2TWus5yUtrd3AmhFVptdGf2bYH3GFoSjVRizGPKr80sQFrZrP1S81w==",
+            "isTable": false,
+            "name": "2 Hr Premium Open Bar",
+            "price": 1760,
+            "priceWithFees": 1760,
+            "sortOrder": 3,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "UvV882l6pTyvzi7DS6czbePHSfApYeVWHEv7bpeuFrRB7oh6/dn63QUKF8eMd+OytkymM9G8btAwCDNTAVPjTw==",
+            "isTable": false,
+            "name": "2 Hr Open Bar",
+            "price": 1320,
+            "priceWithFees": 1320,
+            "sortOrder": 4,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          }
+        ],
+        "time": "18:00 - 23:00",
+        "url": "https://tf.link/0okn0nkt",
+        "venueName": "Gitano Beach",
+        "venueSlug": "gitano-beach",
+        "vipLink": null,
+        "vipPrice": null
+      },
+      "convexId": "j57csef6dmtbdhtjjxe451yg4s8cq1w6",
+      "lastUpdated": "2026-08-18T20:49:46.095Z",
+      "locales": {
+        "en": {
+          "body": "<h2>CEREMONIA Comes to Gitano Beach</h2>\n<p>Multiple DJs and live performers come together for CEREMONIA at Gitano Beach on August 22, 2026. The bill changes by edition, making the multi-act format the main reason to book.</p>\n<h3>Multiple DJs and Live Performances</h3>\n<p>The format is electronic music with multiple DJs and live performances. The lineup and atmosphere change with each edition. Gitano Beach hosts the night in Tulum.</p>\n<h3>Save August 22 and Secure Your Spot</h3>\n<p>Set August 22, 2026, aside for the party in Tulum. Multiple DJs and live performances shape the format, while the exact bill changes by edition. Secure your spot on this page for the night at Gitano Beach.</p>",
+          "description": "CEREMONIA brings multiple DJs and live performances together for an electronic music series, with its lineup and atmosphere changing for every edition in Tulum.",
+          "hubBlurb": "",
+          "name": "CEREMONIA",
+          "slug": "ceremonia-15aug2026",
+          "tableInformation": ""
+        },
+        "es": {
+          "body": "<h2>CEREMONIA llega a Gitano Beach</h2>\n<p>Varios DJ y artistas en directo se dan cita en CEREMONIA, en Gitano Beach, el 22 de agosto de 2026. El cartel varía en cada edición, lo que convierte el formato de múltiples actuaciones en la principal razón para reservar.</p>\n<h3>Varios DJ y actuaciones en directo</h3>\n<p>El formato consiste en música electrónica con varios DJ y actuaciones en directo. El cartel y el ambiente varían en cada edición. Gitano Beach acoge la velada en Tulum.</p>\n<h3>Reserva el 22 de agosto y asegura tu plaza</h3>\n<p>Reserva el 22 de agosto de 2026 para la fiesta en Tulum. Varios DJ y actuaciones en directo conforman el formato, aunque el cartel exacto varía en cada edición. Asegúrate tu plaza en esta página para la noche en Gitano Beach.</p>",
+          "description": "CEREMONIA reúne a numerosos DJ y actuaciones en directo en un ciclo de música electrónica, cuyo cartel y ambiente varían en cada edición que se celebra en Tulum.",
+          "hubBlurb": "",
+          "name": "CEREMONIA",
+          "slug": "ceremonia-15aug2026",
+          "tableInformation": ""
+        }
+      }
+    },
     {
       "base": {
         "buyLink": "https://wa.me/529841301037?text=Hello!%20I'm%20interested%20in%20tickets%20for%20Solomun%20Tulum%202027",
