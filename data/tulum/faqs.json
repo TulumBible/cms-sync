@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-08-20T16:03:15.670Z",
+  "syncedAt": "2026-08-20T22:20:58.166Z",
   "citySlug": "tulum",
   "faqs": [
     {
@@ -647,6 +647,24 @@
         "es": {
           "answer": "A lo largo de toda la temporada. Esta es ahora nuestra página permanente dedicada a los festivales de Tulum, por lo que las nuevas fechas, los carteles, las salidas a la venta de entradas y la información práctica se irán añadiendo aquí, en lugar de crear una guía independiente cada año.",
           "name": "¿Con qué frecuencia se actualizará esta guía?"
+        }
+      }
+    },
+    {
+      "base": {
+        "category": null,
+        "slug": "how-much-are-tulum-festival-tickets"
+      },
+      "convexId": "k57dfm24qwsnef7a270w386sq98ct912",
+      "lastUpdated": "2026-08-20T22:17:23.179Z",
+      "locales": {
+        "en": {
+          "answer": "Prices vary by event. Early-release tickets for headline nights generally start around $100 USD and rise to $250+ USD as the date approaches. VIP tickets and table packages cost considerably more — table pricing for the big Zamna and Day Zero nights is listed on each event page.",
+          "name": "How much are Tulum festival tickets?"
+        },
+        "es": {
+          "answer": "Los precios varían según el evento. Las entradas anticipadas para las noches principales suelen empezar en torno a los 100 USD y superan los 250 USD a medida que se acerca la fecha. Las entradas VIP y los paquetes con mesa cuestan bastante más: el precio de las mesas para las grandes noches de Zamna y Day Zero aparece en la página de cada evento.",
+          "name": "¿Cuánto cuestan las entradas de los festivales de Tulum?"
         }
       }
     }
