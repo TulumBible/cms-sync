@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-08-20T16:00:36.006Z",
+  "syncedAt": "2026-08-20T16:03:15.670Z",
   "citySlug": "tulum",
   "faqs": [
     {
@@ -629,6 +629,24 @@
         "es": {
           "answer": "Algunos eventos muy solicitados y determinadas categorías de entradas pueden agotarse antes de la fecha del evento o alcanzar precios muy elevados. Lo mejor es estar atento a las ventas oficiales y evitar esperar hasta enero si hay una fecha a la que sin duda quieres asistir.",
           "name": "¿Se agotan las entradas para el festival de Tulum?"
+        }
+      }
+    },
+    {
+      "base": {
+        "category": null,
+        "slug": "how-often-will-this-guide-be-updated"
+      },
+      "convexId": "k574xvjdqndp0dh1qq2jj8kq398cvenw",
+      "lastUpdated": "2026-08-20T16:01:03.475Z",
+      "locales": {
+        "en": {
+          "answer": "Throughout the season. This is now our evergreen Tulum Festivals page, so new dates, lineups, ticket releases and practical information will be added here rather than creating a separate guide every year.",
+          "name": "How often will this guide be updated?"
+        },
+        "es": {
+          "answer": "A lo largo de toda la temporada. Esta es ahora nuestra página permanente dedicada a los festivales de Tulum, por lo que las nuevas fechas, los carteles, las salidas a la venta de entradas y la información práctica se irán añadiendo aquí, en lugar de crear una guía independiente cada año.",
+          "name": "¿Con qué frecuencia se actualizará esta guía?"
         }
       }
     }
