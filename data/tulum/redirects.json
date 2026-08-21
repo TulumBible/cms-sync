@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-08-21T00:35:26.657Z",
+  "syncedAt": "2026-08-21T22:08:45.519Z",
   "citySlug": "tulum",
   "redirects": [
     {
@@ -517,6 +517,110 @@
       },
       "convexId": "kx7dwpb70z3jy67dwjkky7wcyd8cw4tb",
       "lastUpdated": "2026-08-21T00:34:38.344Z",
+      "locales": {
+        "en": {},
+        "es": {}
+      }
+    },
+    {
+      "base": {
+        "fromPath": "/post/tulum-new-years-eve-2024",
+        "statusCode": 301,
+        "toPath": "/tulum-new-years-eve"
+      },
+      "convexId": "kx71e1853ky0cmytshfpqsr50x8cw02r",
+      "lastUpdated": "2026-08-21T22:05:41.602Z",
+      "locales": {
+        "en": {},
+        "es": {}
+      }
+    },
+    {
+      "base": {
+        "fromPath": "/es-mx/post/tulum-new-years-eve-2024",
+        "statusCode": 301,
+        "toPath": "/es-mx/tulum-new-years-eve"
+      },
+      "convexId": "kx7824swxwk2yfnd9wkf1xc5558cw4ha",
+      "lastUpdated": "2026-08-21T22:06:00.702Z",
+      "locales": {
+        "en": {},
+        "es": {}
+      }
+    },
+    {
+      "base": {
+        "fromPath": "/post/tulum-new-years-eve-2025",
+        "statusCode": 301,
+        "toPath": "/tulum-new-years-eve"
+      },
+      "convexId": "kx7ahy6nj6dqf867r2bedcdsgn8cxdev",
+      "lastUpdated": "2026-08-21T22:06:16.783Z",
+      "locales": {
+        "en": {},
+        "es": {}
+      }
+    },
+    {
+      "base": {
+        "fromPath": "/es-mx/post/tulum-new-years-eve-2025",
+        "statusCode": 301,
+        "toPath": "/es-mx/tulum-new-years-eve"
+      },
+      "convexId": "kx74stkcaj8tqj35fs33j9hcan8cw3mb",
+      "lastUpdated": "2026-08-21T22:06:29.733Z",
+      "locales": {
+        "en": {},
+        "es": {}
+      }
+    },
+    {
+      "base": {
+        "fromPath": "/post/tulum-nye-2025-parties-events-archive",
+        "statusCode": 301,
+        "toPath": "/tulum-new-years-eve"
+      },
+      "convexId": "kx794tx8yw3fm1hsa2cy1z7kzs8cx76e",
+      "lastUpdated": "2026-08-21T22:06:42.529Z",
+      "locales": {
+        "en": {},
+        "es": {}
+      }
+    },
+    {
+      "base": {
+        "fromPath": "/es-mx/post/tulum-nye-2025-parties-events-archive",
+        "statusCode": 301,
+        "toPath": "/es-mx/tulum-new-years-eve"
+      },
+      "convexId": "kx78wkej7ypw73pvterrp8w0618cxcm8",
+      "lastUpdated": "2026-08-21T22:06:54.915Z",
+      "locales": {
+        "en": {},
+        "es": {}
+      }
+    },
+    {
+      "base": {
+        "fromPath": "/post/tulum-new-years-day-events-2025",
+        "statusCode": 301,
+        "toPath": "/tulum-new-years-eve"
+      },
+      "convexId": "kx7d1ahjpngbvft25y1pqq8z498cxhep",
+      "lastUpdated": "2026-08-21T22:07:12.822Z",
+      "locales": {
+        "en": {},
+        "es": {}
+      }
+    },
+    {
+      "base": {
+        "fromPath": "/es-mx/post/tulum-new-years-day-events-2025",
+        "statusCode": 301,
+        "toPath": "/es-mx/tulum-new-years-eve"
+      },
+      "convexId": "kx78ws8b729g6g0aykjk8xmagx8cxd8c",
+      "lastUpdated": "2026-08-21T22:07:27.019Z",
       "locales": {
         "en": {},
         "es": {}
