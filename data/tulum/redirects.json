@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-08-17T18:55:42.170Z",
+  "syncedAt": "2026-08-21T00:35:26.657Z",
   "citySlug": "tulum",
   "redirects": [
     {
@@ -191,32 +191,6 @@
         "toPath": "/es-mx/tulum-events-and-parties"
       },
       "convexId": "kx796ftmeab2f8zbzp406q0jjs8cjxf6",
-      "lastUpdated": "2026-08-16T23:33:21.294Z",
-      "locales": {
-        "en": {},
-        "es": {}
-      }
-    },
-    {
-      "base": {
-        "fromPath": "/post/tulum-festivals-2025-archive",
-        "statusCode": 301,
-        "toPath": "/post/tulum-festivals-2025"
-      },
-      "convexId": "kx75zfzbxhez6hfr5n4bjf32z18cjk25",
-      "lastUpdated": "2026-08-16T23:33:21.294Z",
-      "locales": {
-        "en": {},
-        "es": {}
-      }
-    },
-    {
-      "base": {
-        "fromPath": "/es-mx/post/tulum-festivals-2025-archive",
-        "statusCode": 301,
-        "toPath": "/es-mx/post/tulum-festivals-2025"
-      },
-      "convexId": "kx79nznt669wtjsk5703wgft8h8cj3ah",
       "lastUpdated": "2026-08-16T23:33:21.294Z",
       "locales": {
         "en": {},
@@ -491,6 +465,58 @@
       },
       "convexId": "kx7426b7mtsekg1vkhqq9z0s8n8cnq8b",
       "lastUpdated": "2026-08-17T18:55:16.596Z",
+      "locales": {
+        "en": {},
+        "es": {}
+      }
+    },
+    {
+      "base": {
+        "fromPath": "/es-mx/post/tulum-festivals-2025-archive",
+        "statusCode": 301,
+        "toPath": "/es-mx/tulum-festivals"
+      },
+      "convexId": "kx7fbrs29hdq8y1g00y4thaxe18cwrte",
+      "lastUpdated": "2026-08-21T00:32:42.387Z",
+      "locales": {
+        "en": {},
+        "es": {}
+      }
+    },
+    {
+      "base": {
+        "fromPath": "/es-mx/post/tulum-festivals-2025",
+        "statusCode": 301,
+        "toPath": "/es-mx/tulum-festivals"
+      },
+      "convexId": "kx757bbdpm3g1fmtre8bqs4h7s8cwkaa",
+      "lastUpdated": "2026-08-21T00:33:00.986Z",
+      "locales": {
+        "en": {},
+        "es": {}
+      }
+    },
+    {
+      "base": {
+        "fromPath": "/post/tulum-festivals-2025-archive",
+        "statusCode": 301,
+        "toPath": "/tulum-festivals"
+      },
+      "convexId": "kx70jabbyc2vgpc2z82ykvszm58cxtgn",
+      "lastUpdated": "2026-08-21T00:33:12.285Z",
+      "locales": {
+        "en": {},
+        "es": {}
+      }
+    },
+    {
+      "base": {
+        "fromPath": "/post/tulum-festivals-2025",
+        "statusCode": 301,
+        "toPath": "/tulum-festivals"
+      },
+      "convexId": "kx7dwpb70z3jy67dwjkky7wcyd8cw4tb",
+      "lastUpdated": "2026-08-21T00:34:38.344Z",
       "locales": {
         "en": {},
         "es": {}
