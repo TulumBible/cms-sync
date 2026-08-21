@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-08-20T22:20:58.166Z",
+  "syncedAt": "2026-08-21T04:33:46.912Z",
   "citySlug": "tulum",
   "faqs": [
     {
@@ -665,6 +665,132 @@
         "es": {
           "answer": "Los precios varían según el evento. Las entradas anticipadas para las noches principales suelen empezar en torno a los 100 USD y superan los 250 USD a medida que se acerca la fecha. Las entradas VIP y los paquetes con mesa cuestan bastante más: el precio de las mesas para las grandes noches de Zamna y Day Zero aparece en la página de cada evento.",
           "name": "¿Cuánto cuestan las entradas de los festivales de Tulum?"
+        }
+      }
+    },
+    {
+      "base": {
+        "category": null,
+        "slug": "is-zamna-doing-new-years-eve-2027"
+      },
+      "convexId": "k57c1zx9yjtx586e37bz89jgdx8cw7wx",
+      "lastUpdated": "2026-08-21T04:31:02.805Z",
+      "locales": {
+        "en": {
+          "answer": "Zamna has confirmed its 2027 Tulum season and is selling its Multipass, but an individual December 31 event and lineup have not yet been announced on Zamna's official event calendar.",
+          "name": "Is Zamna doing New Year's Eve 2027?"
+        },
+        "es": {
+          "answer": "Zamna ha confirmado su temporada de 2027 en Tulum y ya está a la venta su Multipass, pero aún no se han anunciado ni el evento concreto del 31 de diciembre ni el cartel en el calendario oficial de eventos de Zamna.",
+          "name": "¿Va a celebrar Zamna la Nochevieja de 2027?"
+        }
+      }
+    },
+    {
+      "base": {
+        "category": null,
+        "slug": "is-there-a-new-years-eve-party-at-papaya-playa-project"
+      },
+      "convexId": "k572f3p6e7y3cd946aenc0yfc58cxn3p",
+      "lastUpdated": "2026-08-21T04:31:23.199Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. Papaya Playa Project has confirmed a December 31 event beginning at 6 PM. The artist lineup is still TBA.",
+          "name": "Is there a New Year's Eve party at Papaya Playa Project?"
+        },
+        "es": {
+          "answer": "Sí. Papaya Playa Project ha confirmado un evento para el 31 de diciembre que comenzará a las 18:00. El cartel de artistas aún está por confirmar.",
+          "name": "¿Hay alguna fiesta de Nochevieja en el Papaya Playa Project?"
+        }
+      }
+    },
+    {
+      "base": {
+        "category": null,
+        "slug": "how-much-does-new-years-eve-in-tulum-cost"
+      },
+      "convexId": "k5781pz7rdtn4g0ppr7jzpzeys8cxpgr",
+      "lastUpdated": "2026-08-21T04:31:42.971Z",
+      "locales": {
+        "en": {
+          "answer": "It varies significantly. The currently announced Gitano options range from 5,000 MXN for Jungle GA with open bar to substantially more for dinner, tables and VIP packages. Gitano Beach GA with open bar is currently listed at 6,000 MXN before ticketing fees.",
+          "name": "How much does New Year's Eve in Tulum cost?"
+        },
+        "es": {
+          "answer": "Varía considerablemente. Las opciones de Gitano anunciadas actualmente oscilan entre los 5.000 MXN para la entrada general «Jungle» con barra libre y cantidades considerablemente superiores para la cena, las mesas y los paquetes VIP. La entrada general «Gitano Beach» con barra libre tiene actualmente un precio de 6.000 MXN, sin incluir las comisiones de venta de entradas.",
+          "name": "¿Cuánto cuesta pasar la Nochevieja en Tulum?"
+        }
+      }
+    },
+    {
+      "base": {
+        "category": null,
+        "slug": "do-i-need-to-book-dinner-in-advance"
+      },
+      "convexId": "k57b8y88b3t51gre90fjw1a5gs8cw345",
+      "lastUpdated": "2026-08-21T04:32:07.822Z",
+      "locales": {
+        "en": {
+          "answer": "For a specific New Year's Eve restaurant or table, yes. NYE usually operates with fixed seatings, packages and limited tables rather than normal walk-in dining.",
+          "name": "Do I need to book dinner in advance?"
+        },
+        "es": {
+          "answer": "Si se trata de un restaurante o una mesa concretos para la Nochevieja, sí. En Nochevieja suele haber turnos fijos, paquetes y un número limitado de mesas, en lugar del servicio habitual sin reserva previa.",
+          "name": "¿Tengo que reservar mesa para cenar con antelación?"
+        }
+      }
+    },
+    {
+      "base": {
+        "category": null,
+        "slug": "what-happens-on-new-years-day-in-tulum"
+      },
+      "convexId": "k57bp5x77qe4vj13whk5hrtvp98cwr9q",
+      "lastUpdated": "2026-08-21T04:32:29.235Z",
+      "locales": {
+        "en": {
+          "answer": "January 1 is the start of the wider festival season, and in 2027 it is also the first date of 7 Realms, Tulum Bible's new seven-event daytime series.",
+          "name": "What happens on New Year's Day in Tulum?"
+        },
+        "es": {
+          "answer": "El 1 de enero marca el inicio de la temporada de festivales en general y, en 2027, es también la primera fecha de «7 Realms», la nueva serie diurna de siete eventos organizada por Tulum Bible.",
+          "name": "¿Qué se celebra el día de Año Nuevo en Tulum?"
+        }
+      }
+    },
+    {
+      "base": {
+        "category": null,
+        "slug": "should-i-book-transportation"
+      },
+      "convexId": "k5768jd9gay9zxdtmsh8k47g9s8cwhgc",
+      "lastUpdated": "2026-08-21T04:33:06.680Z",
+      "locales": {
+        "en": {
+          "answer": "For Hotel Zone dinners, large groups or events outside central Tulum, we recommend to arrange it ahead of time. December 31 traffic is considerably less predictable than a normal night.",
+          "name": "Should I book transportation?"
+        },
+        "es": {
+          "answer": "Para cenas en la Zona Hotelera, grupos numerosos o eventos fuera del centro de Tulum, recomendamos organizarlo con antelación. El tráfico del 31 de diciembre es mucho menos predecible que el de una noche normal.",
+          "name": "¿Debería reservar el transporte?"
+        }
+      }
+    },
+    {
+      "base": {
+        "category": null,
+        "slug": "will-more-nye-events-be-announced"
+      },
+      "convexId": "k57bvbzhec9ssd3tvq20ax3chn8cxhav",
+      "lastUpdated": "2026-08-21T04:33:22.865Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. The current calendar is still early. We will only add events once we have enough confirmed information to publish them properly.",
+          "name": "Will more NYE events be announced?"
+        },
+        "es": {
+          "answer": "Sí. El calendario actual aún está en una fase temprana. Solo añadiremos eventos cuando tengamos suficiente información confirmada para publicarlos correctamente.",
+          "name": "¿Se anunciarán más eventos de Nochevieja?"
         }
       }
     }
