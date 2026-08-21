@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-08-21T04:52:49.862Z",
+  "syncedAt": "2026-08-21T04:55:37.527Z",
   "citySlug": "tulum",
   "events": [
     {
@@ -98,6 +98,108 @@
           "hubBlurb": "",
           "name": "CEREMONIA",
           "slug": "ceremonia-15aug2026",
+          "tableInformation": ""
+        }
+      }
+    },
+    {
+      "base": {
+        "buyLink": "https://tf.link/7sv39zwc",
+        "categoryIds": [],
+        "cta": "Tickets",
+        "displayPrice": "Mex$240",
+        "endDate": "2026-08-23T23:59",
+        "eventType": "Cenote",
+        "faqIds": [],
+        "flyerImage": {
+          "url": "https://www.ticketfairy.com/uploaded/public/6a7a59b8074065.29817549.jpeg"
+        },
+        "gaLink": null,
+        "gaPrice": null,
+        "isFeatured": false,
+        "isPublished": true,
+        "noPrice": false,
+        "promotion": "normal",
+        "publishedAt": null,
+        "qrCode": "M0 0.5h7m1 0h2m4 0h1m1 0h1m1 0h7M0 1.5h1m5 0h1m6 0h2m1 0h1m1 0h1m5 0h1M0 2.5h1m1 0h3m1 0h1m1 0h1m2 0h5m2 0h1m1 0h3m1 0h1M0 3.5h1m1 0h3m1 0h1m1 0h2m1 0h1m1 0h4m1 0h1m1 0h3m1 0h1M0 4.5h1m1 0h3m1 0h1m1 0h4m3 0h1m2 0h1m1 0h3m1 0h1M0 5.5h1m5 0h1m2 0h1m2 0h1m1 0h1m3 0h1m5 0h1M0 6.5h7m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h7M9 7.5h1m1 0h1m2 0h3M0 8.5h4m2 0h1m1 0h1m6 0h3m2 0h3m1 0h1M0 9.5h1m3 0h1m4 0h1m4 0h1m4 0h1m3 0h1M3 10.5h1m2 0h3m4 0h2m1 0h1m3 0h1M0 11.5h1m2 0h1m1 0h1m2 0h1m2 0h6m1 0h1m2 0h2M0 12.5h2m4 0h1m1 0h2m1 0h1m1 0h1m4 0h3m1 0h3M2 13.5h1m1 0h1m4 0h3m1 0h1m1 0h6m3 0h1M1 14.5h3m1 0h6m1 0h2m2 0h3m1 0h1m1 0h2M0 15.5h1m1 0h2m1 0h1m1 0h2m3 0h1m1 0h1m1 0h1m2 0h2m3 0h1M2 16.5h6m1 0h1m1 0h1m1 0h1m1 0h10M8 17.5h2m2 0h1m1 0h1m1 0h1m3 0h1m1 0h1m1 0h1M0 18.5h7m4 0h3m2 0h1m1 0h1m1 0h1m1 0h3M0 19.5h1m5 0h1m3 0h1m1 0h1m1 0h3m3 0h1m2 0h1M0 20.5h1m1 0h3m1 0h1m3 0h2m2 0h1m1 0h6m2 0h1M0 21.5h1m1 0h3m1 0h1m1 0h2m2 0h1m1 0h1m2 0h2m1 0h5M0 22.5h1m1 0h3m1 0h1m1 0h1m1 0h4m2 0h3m1 0h1m1 0h2M0 23.5h1m5 0h1m1 0h1m2 0h1m1 0h2m2 0h2m1 0h1m1 0h1M0 24.5h7m1 0h3m1 0h3m3 0h7<!--vb:25-->",
+        "startDate": "2026-08-23",
+        "status": "Live",
+        "tableLayoutImage": null,
+        "tbeId": "TBE_9A5N4F",
+        "ticketPrice": null,
+        "ticketTiers": [
+          {
+            "currency": "MXN",
+            "id": "2shMKqI8txf9kuIEdumrzIUeqqF9uo/hLNLxt67uWmjjN8u6Do4dcq0e+1gVRTuAjhMsbLW6CUaYJn3VVa0YRA==",
+            "isTable": false,
+            "name": "Guest List",
+            "price": 0,
+            "priceWithFees": 0,
+            "replacementText": "Free",
+            "sortOrder": 1,
+            "status": "sold_out",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "DGp0N/gfRG/++DcGRbx227P3denNK6WUdT0uhm6tlMqeUH1z90/bZs8MBYAbjKqIdSHB6h7uqNzYcDIvdqGyzg==",
+            "isTable": true,
+            "maxGuests": 4,
+            "minGuests": 2,
+            "name": "Table Experience",
+            "price": 2200,
+            "priceWithFees": 2200,
+            "sortOrder": 2,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "3yZKdi6cDtlt9qtvmnjnQrANladANDymvtASKVJdzFerfB3DexGgkn3o4lCtn2UxjucttOrgYufGCtL1htWu2g==",
+            "isTable": false,
+            "name": "Early Bird",
+            "price": 240,
+            "priceWithFees": 240,
+            "sortOrder": 3,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "YvFcEoj58YYURAPoLbGa3ztd5nw0J+Jf+inZazy0TuqtVcil8UYA9cRDMDU5a/Kh3w+ynlpppOXZ3NCI0VN8aA==",
+            "isTable": false,
+            "name": "Concert & Wine Experience",
+            "price": 390,
+            "priceWithFees": 390,
+            "sortOrder": 4,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          }
+        ],
+        "time": "18:00 - 21:00",
+        "url": "https://tf.link/7sv39zwc",
+        "venueName": "Vesica Cenote",
+        "venueSlug": "vesica-tulum",
+        "vipLink": null,
+        "vipPrice": null
+      },
+      "convexId": "j579f69a7n1mdk00mefdkv7xx18cqmbx",
+      "lastUpdated": "2026-08-21T04:55:20.756Z",
+      "locales": {
+        "en": {
+          "body": "<h2>Chamber Music at Vesica Santuario This Sunday</h2>\n<p>Concert Nights brings Beethoven and Brahms to Vesica Santuario on Sunday, 23 August 2026. The night runs from 6pm to 10pm at Vesica Tulum’s cenote club in Uptown. A violin, cello and piano trio performs the programme by candlelight. You can listen in a limited-seat setting, with food and drinks available alongside the music. Tickets start at Mex$240, with a free guest list available during the early entry window.</p>\n<h3>Three Musicians from Cuba, the United States and Europe</h3>\n<p>Noelia Garcia performs on violin and is billed from Cuba. Chandrika Prem plays cello and is billed from the United States. Stacia Hedi, billed from Ukraine–Hungary, performs on piano and also takes two solo moments in the programme. Together, the three instruments create the chamber format at the centre of this edition. You hear each musical line separately while following the dialogue between the full trio.</p>\n<h3>From Für Elise to the Brahms Lullaby</h3>\n<p>The Beethoven programme begins with Stacia Hedi playing Für Elise, the Bagatelle WoO 59. The trio also performs the Allegro con brio from Symphony No. 5, Op. 67. The Adagio sostenuto from the Moonlight Sonata brings a slower section to the programme. Beethoven’s part closes with Ode to Joy from Symphony No. 9, Op. 125.</p>\n<p>Brahms begins with Stacia Hedi playing Waltz Op. 39 No. 15. The programme continues with Hungarian Dance No. 1, the Andante moderato from Symphony No. 4, Op. 98, and Hungarian Dance No. 5. The announced encore is the Lullaby from 5 Lieder, Op. 49 No. 4. Further pieces are also planned beyond these programme highlights.</p>\n<h3>Cenote Architecture, Candlelight and Food</h3>\n<p>Vesica Cenote is a club built around cenote water, lounge areas and the surrounding jungle. For Concert Nights, candlelight and live chamber music become part of that setting. The close atmosphere is designed for focused listening rather than a large-stage concert format. You can see the violin, cello and piano at close range while the venue’s architecture frames the performance.</p>\n<p>A food and beverage offering accompanies the evening. Vesica’s regular kitchen follows a farm-to-table approach, using fresh ingredients in nutritious and eco-conscious dishes. The menu draws on local flavours and connects the meal with the venue’s natural setting. This lets you combine dinner and drinks with the concert rather than treating the performance as a stand-alone stop.</p>\n<h3>A Listening Room That Depends on Quiet</h3>\n<p>The concert invites guests to slow down and give each piece their attention. Silence during the performance is part of the format, so conversation should wait until a break or the end of the music. Seating is limited and the arrangement varies by ticket type. Arriving on time gives the concierge enough time to complete check-in before the concert begins. It also helps protect the atmosphere once the musicians are playing.</p>\n<h3>Guest List Times, Tickets and Arrival</h3>\n<p>The full event runs from 6pm to 10pm, and doors open before the concert starts. The free guest list is valid from 6pm to 7:30pm and must be used within its designated entry time. Late arrival may depend on availability or require a ticket upgrade. Paid tickets start at Mex$240. Vesica Cenote is at PARCELA No. 198Z-2P-1 EJIDO, 77760 Tulum, Q.R. Select your ticket with Tulum Bible and arrive early for concierge check-in.</p>",
+          "description": "Concert Nights presents Beethoven and Brahms through an international violin, cello and piano trio, performed by candlelight with a food and drink offering.",
+          "hubBlurb": "",
+          "name": "Concert Nights | Vesica Santuario",
+          "slug": "concert-nights-vesica-santuario-23aug2026",
+          "tableInformation": ""
+        },
+        "es": {
+          "body": "<h2>Música de cámara en Vesica Santuario este domingo</h2>\n<p>Concert Nights trae a Beethoven y Brahms a Vesica Santuario el domingo 23 de agosto de 2026. La velada tendrá lugar de 18:00 a 22:00 h en el cenote club de Vesica Tulum, en Uptown. Un trío de violín, violonchelo y piano interpretará el programa a la luz de las velas. Podrás disfrutar del concierto en un espacio con aforo limitado, donde se servirán comida y bebida mientras suena la música. Las entradas cuestan a partir de 240 pesos mexicanos, y hay una lista de invitados gratuita disponible durante el periodo de entrada anticipada.</p>\n<h3>Tres músicas de Cuba, Estados Unidos y Europa</h3>\n<p>Noelia García toca el violín y figura en el cartel como procedente de Cuba. Chandrika Prem toca el violonchelo y figura en el cartel como procedente de Estados Unidos. Stacia Hedi, que figura en el cartel como procedente de Ucrania y Hungría, toca el piano y también tiene dos momentos en solitario en el programa. Juntos, los tres instrumentos crean el formato de cámara que constituye el eje central de esta edición. Se puede escuchar cada línea musical por separado mientras se sigue el diálogo entre todo el trío.</p>\n<h3>De «Für Elise» a la «Canción de cuna» de Brahms</h3>\n<p>El programa dedicado a Beethoven comienza con Stacia Hedi interpretando «Für Elise», la bagatela WoO 59. El trío interpreta también el «Allegro con brio» de la Sinfonía n.º 5, op. 67. El «Adagio sostenuto» de la «Sonata a la luz de la luna» aporta una sección más lenta al programa. La parte dedicada a Beethoven se cierra con la «Oda a la alegría» de la Sinfonía n.º 9, op. 125.</p>\n<p>La parte dedicada a Brahms comienza con Stacia Hedi interpretando el Vals op. 39 n.º 15. El programa continúa con la Danza húngara n.º 1, el Andante moderato de la Sinfonía n.º 4, op. 98, y la Danza húngara n.º 5. El bis anunciado es la Canción de cuna de 5 Lieder, op. 49 n.º 4. Además de estos momentos destacados del programa, también están previstas otras piezas.</p>\n<h3>Arquitectura del cenote, luz de velas y gastronomía</h3>\n<p>Vesica Cenote es un club construido en torno al agua de un cenote, zonas de descanso y la selva circundante. Durante las «Noches de Concierto», la luz de las velas y la música de cámara en directo se integran en ese entorno. El ambiente íntimo está pensado para una escucha atenta, más que para el formato de concierto con un gran escenario. Se puede ver el violín, el violonchelo y el piano de cerca, mientras que la arquitectura del recinto enmarca la actuación.</p>\n<p>La velada se acompaña de una oferta gastronómica y de bebidas. La cocina habitual de Vesica sigue un enfoque «de la granja a la mesa», utilizando ingredientes frescos en platos nutritivos y respetuosos con el medio ambiente. El menú se inspira en los sabores locales y conecta la comida con el entorno natural del recinto. Esto te permite combinar la cena y las bebidas con el concierto, en lugar de considerar la actuación como una actividad aislada.</p>\n<h3>Una sala de audición que se basa en el silencio</h3>\n<p>El concierto invita a los asistentes a tomarse su tiempo y prestar atención a cada pieza. El silencio durante la actuación forma parte del formato, por lo que las conversaciones deben esperar hasta el descanso o hasta que termine la música. El aforo es limitado y la distribución de los asientos varía según el tipo de entrada. Llegar a tiempo permite que el conserje tenga tiempo suficiente para completar el registro antes de que comience el concierto. Además, ayuda a preservar el ambiente una vez que los músicos empiezan a tocar.</p>\n<h3>Horarios de la lista de invitados, entradas y llegada</h3>\n<p>El evento completo se celebra de 18:00 a 22:00, y las puertas se abren antes de que comience el concierto. La lista de invitados gratuita es válida de 18:00 a 19:30 y debe utilizarse dentro del horario de entrada designado. La llegada tardía puede depender de la disponibilidad o requerir un cambio a una entrada de categoría superior. Las entradas de pago cuestan a partir de 240 pesos mexicanos. Vesica Cenote se encuentra en PARCELA n.º 198Z-2P-1 EJIDO, 77760 Tulum, Q.R. Elige tu entrada con Tulum Bible y llega con antelación para que el conserje te registre.</p>",
+          "description": "«Concert Nights» presenta obras de Beethoven y Brahms a cargo de un trío internacional de violín, violonchelo y piano, en un concierto a la luz de las velas que incluye un servicio de comida y bebida.",
+          "hubBlurb": "",
+          "name": "Concert Nights | Vesica Santuario",
+          "slug": "concert-nights-vesica-santuario-23aug2026",
           "tableInformation": ""
         }
       }
