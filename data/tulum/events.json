@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-08-21T22:40:34.879Z",
+  "syncedAt": "2026-08-21T22:49:27.711Z",
   "citySlug": "tulum",
   "events": [
     {
@@ -188,6 +188,149 @@
           "hubBlurb": "",
           "name": "Concert Nights",
           "slug": "concert-nights-vesica-santuario-23aug2026",
+          "tableInformation": ""
+        }
+      }
+    },
+    {
+      "base": {
+        "buyLink": "https://tf.link/9rjwpnpd",
+        "categoryIds": [],
+        "cta": "Tickets",
+        "displayPrice": "Mex$935",
+        "endDate": "2026-09-17T23:59",
+        "eventType": "BeachClub",
+        "faqIds": [],
+        "flyerImage": {
+          "url": "https://www.ticketfairy.com/uploaded/public/6a84a3be9eaa66.04343404.jpeg"
+        },
+        "gaLink": null,
+        "gaPrice": null,
+        "isFeatured": false,
+        "isPublished": true,
+        "noPrice": false,
+        "promotion": "normal",
+        "publishedAt": null,
+        "qrCode": "M0 0.5h7m1 0h2m4 0h1m1 0h1m1 0h7M0 1.5h1m5 0h1m6 0h2m1 0h1m1 0h1m5 0h1M0 2.5h1m1 0h3m1 0h1m1 0h1m2 0h3m2 0h1m1 0h1m1 0h3m1 0h1M0 3.5h1m1 0h3m1 0h1m1 0h2m1 0h1m1 0h2m1 0h1m1 0h1m1 0h3m1 0h1M0 4.5h1m1 0h3m1 0h1m1 0h4m1 0h3m2 0h1m1 0h3m1 0h1M0 5.5h1m5 0h1m2 0h1m2 0h1m5 0h1m5 0h1M0 6.5h7m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h7M9 7.5h1m1 0h1m2 0h3M0 8.5h4m2 0h1m1 0h1m5 0h4m2 0h3m1 0h1M0 9.5h1m1 0h1m1 0h1m4 0h1m4 0h1m4 0h1m3 0h1M2 10.5h1m1 0h1m1 0h3m4 0h1m2 0h1m3 0h1M3 11.5h1m1 0h1m2 0h1m2 0h6m1 0h1m2 0h2M0 12.5h3m2 0h2m1 0h2m1 0h1m1 0h2m3 0h3m1 0h3M2 13.5h1m2 0h1m1 0h5m3 0h6m3 0h1M1 14.5h1m4 0h1m3 0h1m1 0h2m2 0h3m1 0h1m1 0h2M0 15.5h1m1 0h4m2 0h1m3 0h1m3 0h1m2 0h2m3 0h1M2 16.5h1m1 0h1m1 0h1m1 0h4m1 0h1m1 0h10M8 17.5h2m2 0h1m3 0h1m3 0h1m1 0h1m1 0h1M0 18.5h7m2 0h1m1 0h4m1 0h1m1 0h1m1 0h1m1 0h3M0 19.5h1m5 0h1m3 0h1m1 0h1m1 0h3m3 0h1m2 0h1M0 20.5h1m1 0h3m1 0h1m2 0h1m1 0h1m2 0h1m1 0h6m2 0h1M0 21.5h1m1 0h3m1 0h1m1 0h3m1 0h1m1 0h1m2 0h2m1 0h5M0 22.5h1m1 0h3m1 0h1m1 0h2m1 0h1m2 0h1m1 0h3m1 0h1m1 0h2M0 23.5h1m5 0h1m1 0h3m1 0h2m3 0h2m1 0h1m1 0h1M0 24.5h7m1 0h1m3 0h3m3 0h7<!--vb:25-->",
+        "startDate": "2026-09-17",
+        "status": "Live",
+        "tableLayoutImage": null,
+        "tbeId": "TBE_PAVHPB",
+        "ticketPrice": null,
+        "ticketTiers": [
+          {
+            "currency": "MXN",
+            "id": "m0mOt1RYeqyZf4v9+vDiCtnIXU6UkPskSf5vUJJyMlGVC20TRRcf4fzBj51Yqw66ysVEU5Ge41ufSzW/fFQ1Pg==",
+            "isTable": false,
+            "name": "General Admission + Mezcal & Beer | 10:00 Pm",
+            "price": 190,
+            "priceWithFees": 190,
+            "sortOrder": 1,
+            "status": "upcoming",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "vmhVe11180iHirSwCK1gMYbzlh7xvXZi0EaQ/o9GujhxD7JfW5u5PFB241e2VxnzXQYpbY8yz28c+aLaH/6cEg==",
+            "isTable": false,
+            "name": "Dinner + Party | 8:00 Pm",
+            "price": 935,
+            "priceWithFees": 935,
+            "sortOrder": 2,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "fTABtiDEUSXOP/9EZDPkjYyWuSW1m89QKYwjcJTqzFoenFydKwnJ9W0ZKebbdCD4tVgn80+2awmPK2jAERIaQg==",
+            "isTable": false,
+            "name": "Open Bar | 10:00 Pm",
+            "price": 1650,
+            "priceWithFees": 1650,
+            "sortOrder": 3,
+            "status": "upcoming",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "LlmzhnPv/QGRwWCZa4WeyzrNIjfljd+SYvYZ2RIDbbTG+aoV6HyX+QBJ99p4i0IXkCBcq1RzsY8FCZrCdgILxQ==",
+            "isTable": false,
+            "name": "VIP Villa | After Dark | 8 Ppl",
+            "price": 18000,
+            "priceWithFees": 18000,
+            "sortOrder": 4,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "9E63GZ5Rmx9BtJh98myeGzyKoSKl7r+96V5BwmHUbxFfiHQVOv6R+CvWIcAedb3/upQQC/sUxZ8h9zgpU5ya7Q==",
+            "isTable": false,
+            "name": "Back Stage | 10 Ppl",
+            "price": 25000,
+            "priceWithFees": 25000,
+            "sortOrder": 5,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "nSLfd9t+wQiCeUk3cyjS7b3BkAzDqjqMCrepqa9RIEhUUynO8klgqcw4afgBW9tT/KORhLWyCSq70c8EdcZsUA==",
+            "isTable": false,
+            "name": "Black Table | 6 Ppl",
+            "price": 15000,
+            "priceWithFees": 15000,
+            "sortOrder": 6,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "7xQwK0PwUpRRQC8lWFwmtXFnDmV/DPKttkN1p23rgxiOlFhC4I6bfzs49Z3tIv18bTAS6WCWm/Ddd0+ZFCocmg==",
+            "isTable": false,
+            "name": "Premium Lounges | 6 Ppl",
+            "price": 10000,
+            "priceWithFees": 10000,
+            "sortOrder": 7,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "cjwK0HrFlaIslETuuzupCAFO8T2YRRTfsTrGB/y55xwA25rI/momf9Kt7AyueOkQoLuZEmdMxXUqHMWq2PhTTw==",
+            "isTable": false,
+            "name": "One Night + Mera Room | Dinner | 2 Ppl",
+            "price": 3190,
+            "priceWithFees": 3190,
+            "sortOrder": 8,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          }
+        ],
+        "time": "18:00 - Late",
+        "url": "https://tf.link/9rjwpnpd",
+        "venueName": "Gitano Beach",
+        "venueSlug": "gitano-beach",
+        "vipLink": null,
+        "vipPrice": null
+      },
+      "convexId": "j572gbhqy4mseadak62pnc9kfx8cqxpy",
+      "lastUpdated": "2026-08-21T22:48:55.276Z",
+      "locales": {
+        "en": {
+          "body": "<h2>Mera Room Moves from Sunset into Late Night</h2><p>Mera Room comes to Gitano Beach on Thursday, September 17, 2026, for a one-night beach party built around music, dinner and cocktails. The programme moves from relaxed sunset time into a higher-energy after-dark party. Sezer Uysal headlines, with RENÊ and MAUBO also playing. The event is set for 18:00, while the announced DJ window is 7PM — LATE. It suits you if you want dinner and drinks to lead directly into dancing without changing venues.</p><h3>Three DJs Shape the Night's Change of Pace</h3><p>Sezer Uysal carries headline billing, while RENÊ and MAUBO complete the announced lineup. Music remains central throughout, but the night is framed as a full beach-party experience rather than a stand-alone club set. You can arrive for sunset, settle into dinner or cocktails, then move into dancing after dark. Habitat, Theory X and Surrealism are also associated with the programme. Tequila Herradura, established in 1870, is named as a partner for the night.</p><h3>Gitano's Southern Tulum Beach Setting</h3><p>Gitano Beach is a beach club on the southern side of Tulum's Hotel Zone, near the Sian Ka'an biosphere reserve. It now sits beside the boutique hotel Casa Gitano, following a move from the location where the beach concept was introduced in 2021. The venue combines a beach-club format with regular disco evenings, which fits Mera Room's sunset-to-night structure. It belongs to Gitano Group, alongside Gitano Jungle, Meze and Gitano locations in New York City, Miami and Dubai. Dining, drinks and dancing all happen within the same venue.</p><h3>Mexican Food and Mezcal Before the Dancing</h3><p>Gitano Beach's regular menu combines fresh Mexican flavours with international influences and local ingredients. Signature mezcal cocktails are part of its usual drinks offer, while this event specifically brings dinner and cocktails into the party format. You can treat the early part of the night as a meal, then stay as the DJs and dancing take over. The venue sits in the $$$$ price band, so plan for food and drinks beyond the ticket cost. Its Sunday Beach BBQ Fiesta is a separate regular programme and is not part of this Thursday event.</p>",
+          "description": "Mera Room brings a sunset-to-late beach party built around dinner, cocktails and DJ sets, led by Sezer Uysal with Rene and Maubo on the lineup.",
+          "hubBlurb": "",
+          "name": "MERA ROOM X",
+          "slug": "mera-room-x-gitano-beach-17sep2026",
+          "tableInformation": ""
+        },
+        "es": {
+          "body": "<h2>Mera Room pasa de la hora del atardecer a la madrugada</h2><p>Mera Room llega a Gitano Beach el jueves 17 de septiembre de 2026 para una fiesta en la playa de una sola noche en torno a la música, la cena y los cócteles. El programa pasa de la relajada hora de la puesta de sol a una fiesta nocturna con más energía. Sezer Uysal encabeza el cartel, y también actuarán RENÊ y MAUBO. El evento está programado para las 18:00, mientras que el horario anunciado para los DJ es de las 19:00 hasta TARDE. Es ideal si quieres que la cena y las copas den paso directamente al baile sin tener que cambiar de local.</p><h3>Tres DJ marcan el cambio de ritmo de la noche</h3><p>Sezer Uysal encabeza el cartel, mientras que RENÊ y MAUBO completan el cartel anunciado. La música sigue siendo el eje central en todo momento, pero la noche se plantea como una experiencia completa de fiesta en la playa, más que como una sesión de club aislada. Puedes llegar a la puesta de sol, disfrutar de la cena o de unos cócteles y, una vez que oscurezca, pasar a bailar. Habitat, Theory X y Surrealism también colaboran en el programa. Tequila Herradura, fundada en 1870, figura como patrocinador de la noche.</p><h3>La ubicación de Gitano en la playa del sur de Tulum</h3><p>Gitano Beach es un beach club situado en la parte sur de la Zona Hotelera de Tulum, cerca de la reserva de la biosfera de Sian Ka’an. Ahora se encuentra junto al hotel boutique Casa Gitano, tras haberse trasladado desde el emplazamiento donde se presentó el concepto de playa en 2021. El local combina el formato de club de playa con noches de discoteca habituales, lo que encaja con la estructura de Mera Room, que abarca desde la puesta de sol hasta bien entrada la noche. Pertenece al Grupo Gitano, junto con Gitano Jungle, Meze y los locales de Gitano en Nueva York, Miami y Dubái. La gastronomía, las bebidas y el baile se disfrutan en un mismo espacio.</p><h3>Comida mexicana y mezcal antes de bailar</h3><p>La carta habitual de Gitano Beach combina sabores mexicanos frescos con influencias internacionales e ingredientes locales. Los cócteles de mezcal de la casa forman parte de su oferta habitual de bebidas, mientras que este evento en concreto integra la cena y los cócteles en el formato de la fiesta. Puedes disfrutar de la primera parte de la noche como una cena y luego quedarte mientras los DJ y el baile toman el relevo. El local se sitúa en la franja de precios $$$, así que hay que contar con gastos de comida y bebida además del precio de la entrada. Su «Sunday Beach BBQ Fiesta» es un programa habitual independiente y no forma parte de este evento del jueves.</p>",
+          "description": "Mera Room ofrece una fiesta en la playa que va desde la puesta de sol hasta bien entrada la noche, centrada en la cena, los cócteles y las sesiones de DJ, con Sezer Uysal al frente y Rene y Maubo en el cartel.",
+          "hubBlurb": "",
+          "name": "MERA ROOM X",
+          "slug": "mera-room-x-gitano-beach-17sep2026",
           "tableInformation": ""
         }
       }
