@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-08-22T20:23:35.534Z",
+  "syncedAt": "2026-08-22T20:24:08.736Z",
   "citySlug": "tulum",
   "redirects": [
     {
@@ -2181,6 +2181,32 @@
       },
       "convexId": "kx79f2k06s1a0jc7qeahn6es9d8cz759",
       "lastUpdated": "2026-08-22T20:23:18.041Z",
+      "locales": {
+        "en": {},
+        "es": {}
+      }
+    },
+    {
+      "base": {
+        "fromPath": "/event/nye-2027-gitano-beach-31dec2025",
+        "statusCode": 301,
+        "toPath": "/event/nye-2027-gitano-beach-31dec2026"
+      },
+      "convexId": "kx7c2qv0b67ptwvqr3sa044zh58cyn86",
+      "lastUpdated": "2026-08-22T20:23:49.008Z",
+      "locales": {
+        "en": {},
+        "es": {}
+      }
+    },
+    {
+      "base": {
+        "fromPath": "/es-mx/event/nye-2027-gitano-beach-31dec2025",
+        "statusCode": 301,
+        "toPath": "/es-mx/event/nye-2027-gitano-beach-31dec2026"
+      },
+      "convexId": "kx7634hx8g8164b9e6r16yngw98cyqdh",
+      "lastUpdated": "2026-08-22T20:23:49.008Z",
       "locales": {
         "en": {},
         "es": {}
