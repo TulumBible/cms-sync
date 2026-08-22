@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-08-22T03:58:14.864Z",
+  "syncedAt": "2026-08-22T04:24:03.361Z",
   "citySlug": "tulum",
   "redirects": [
     {
@@ -2129,6 +2129,32 @@
       },
       "convexId": "kx703p6yjp3s2s6bnfmrz7hy6d8czmca",
       "lastUpdated": "2026-08-22T03:57:58.921Z",
+      "locales": {
+        "en": {},
+        "es": {}
+      }
+    },
+    {
+      "base": {
+        "fromPath": "/post/airlines-flying-to-tulums-airport",
+        "statusCode": 301,
+        "toPath": "/post/tulum-airport"
+      },
+      "convexId": "kx7c8y5w8f07e4q3b6wrxjww9n8czhr7",
+      "lastUpdated": "2026-08-22T04:23:42.484Z",
+      "locales": {
+        "en": {},
+        "es": {}
+      }
+    },
+    {
+      "base": {
+        "fromPath": "/es-mx/post/airlines-flying-to-tulums-airport",
+        "statusCode": 301,
+        "toPath": "/es-mx/post/tulum-airport"
+      },
+      "convexId": "kx72hzb88gj56670c66874p55h8cyfxk",
+      "lastUpdated": "2026-08-22T04:23:42.484Z",
       "locales": {
         "en": {},
         "es": {}
