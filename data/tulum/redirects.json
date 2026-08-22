@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-08-22T05:31:25.815Z",
+  "syncedAt": "2026-08-22T05:32:43.497Z",
   "citySlug": "tulum",
   "redirects": [
     {
@@ -2155,6 +2155,19 @@
       },
       "convexId": "kx73fs303hggkxvezx9q0mnry98cyc73",
       "lastUpdated": "2026-08-22T05:31:04.071Z",
+      "locales": {
+        "en": {},
+        "es": {}
+      }
+    },
+    {
+      "base": {
+        "fromPath": "/es-mx/post/tulum-airport",
+        "statusCode": 301,
+        "toPath": "/es-mx/post/aeropuerto-de-tulum"
+      },
+      "convexId": "kx7fzaxad1yrdae1fcv8jzfsjn8cyyqh",
+      "lastUpdated": "2026-08-22T05:32:27.550Z",
       "locales": {
         "en": {},
         "es": {}
