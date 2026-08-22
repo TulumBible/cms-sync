@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-08-22T05:03:25.172Z",
+  "syncedAt": "2026-08-22T05:30:22.800Z",
   "citySlug": "tulum",
   "redirects": [
     {
@@ -2084,19 +2084,6 @@
     },
     {
       "base": {
-        "fromPath": "/post/tulum-local-transportation-guide",
-        "statusCode": 301,
-        "toPath": "/post/como-moverse-por-tulum"
-      },
-      "convexId": "kx7697p6w6fzg97zbmbzctar3x8cze90",
-      "lastUpdated": "2026-08-22T03:55:43.940Z",
-      "locales": {
-        "en": {},
-        "es": {}
-      }
-    },
-    {
-      "base": {
         "fromPath": "/es-mx/post/tulum-local-transportation-guide",
         "statusCode": 301,
         "toPath": "/es-mx/post/como-moverse-por-tulum"
@@ -2151,36 +2138,10 @@
       "base": {
         "fromPath": "/es-mx/post/airlines-flying-to-tulums-airport",
         "statusCode": 301,
-        "toPath": "/es-mx/post/tulum-airport"
-      },
-      "convexId": "kx72hzb88gj56670c66874p55h8cyfxk",
-      "lastUpdated": "2026-08-22T04:23:42.484Z",
-      "locales": {
-        "en": {},
-        "es": {}
-      }
-    },
-    {
-      "base": {
-        "fromPath": "/post/tulum-airport",
-        "statusCode": 301,
-        "toPath": "/post/aeropuerto-de-tulum"
-      },
-      "convexId": "kx7e0hf39r6nq43v9f62t4knjh8cyd4j",
-      "lastUpdated": "2026-08-22T04:39:19.509Z",
-      "locales": {
-        "en": {},
-        "es": {}
-      }
-    },
-    {
-      "base": {
-        "fromPath": "/es-mx/post/tulum-airport",
-        "statusCode": 301,
         "toPath": "/es-mx/post/aeropuerto-de-tulum"
       },
-      "convexId": "kx7dgraw81jbrgyme45c5x4yzx8czsnb",
-      "lastUpdated": "2026-08-22T04:39:19.509Z",
+      "convexId": "kx72hzb88gj56670c66874p55h8cyfxk",
+      "lastUpdated": "2026-08-22T05:06:12.576Z",
       "locales": {
         "en": {},
         "es": {}
@@ -2188,25 +2149,12 @@
     },
     {
       "base": {
-        "fromPath": "/post/aeropuerto-de-tulum",
+        "fromPath": "/post/como-moverse-por-tulum",
         "statusCode": 301,
-        "toPath": "/post/tulum-airport"
+        "toPath": "/post/tulum-local-transportation-guide"
       },
-      "convexId": "kx7fk66vhmjh39bxzknk4eyvsh8cyp14",
-      "lastUpdated": "2026-08-22T05:03:08.949Z",
-      "locales": {
-        "en": {},
-        "es": {}
-      }
-    },
-    {
-      "base": {
-        "fromPath": "/es-mx/post/aeropuerto-de-tulum",
-        "statusCode": 301,
-        "toPath": "/es-mx/post/tulum-airport"
-      },
-      "convexId": "kx7ak31vytprsph3zkrnrvkfws8czd2s",
-      "lastUpdated": "2026-08-22T05:03:08.949Z",
+      "convexId": "kx7ej7qjra5ta2kr4gmk8shq6d8czjjm",
+      "lastUpdated": "2026-08-22T05:30:07.554Z",
       "locales": {
         "en": {},
         "es": {}
