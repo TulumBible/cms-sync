@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-08-22T02:18:03.341Z",
+  "syncedAt": "2026-08-22T03:56:03.490Z",
   "citySlug": "tulum",
   "redirects": [
     {
@@ -2077,6 +2077,32 @@
       },
       "convexId": "kx76mncj23wewzknerpkr9my5s8cy5s8",
       "lastUpdated": "2026-08-22T02:17:17.231Z",
+      "locales": {
+        "en": {},
+        "es": {}
+      }
+    },
+    {
+      "base": {
+        "fromPath": "/post/tulum-local-transportation-guide",
+        "statusCode": 301,
+        "toPath": "/post/como-moverse-por-tulum"
+      },
+      "convexId": "kx7697p6w6fzg97zbmbzctar3x8cze90",
+      "lastUpdated": "2026-08-22T03:55:43.940Z",
+      "locales": {
+        "en": {},
+        "es": {}
+      }
+    },
+    {
+      "base": {
+        "fromPath": "/es-mx/post/tulum-local-transportation-guide",
+        "statusCode": 301,
+        "toPath": "/es-mx/post/como-moverse-por-tulum"
+      },
+      "convexId": "kx728pcgk5y23d9ggh63m9rdgs8czy7x",
+      "lastUpdated": "2026-08-22T03:55:43.940Z",
       "locales": {
         "en": {},
         "es": {}
