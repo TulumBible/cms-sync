@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-08-22T04:24:03.361Z",
+  "syncedAt": "2026-08-22T04:39:35.754Z",
   "citySlug": "tulum",
   "redirects": [
     {
@@ -2155,6 +2155,32 @@
       },
       "convexId": "kx72hzb88gj56670c66874p55h8cyfxk",
       "lastUpdated": "2026-08-22T04:23:42.484Z",
+      "locales": {
+        "en": {},
+        "es": {}
+      }
+    },
+    {
+      "base": {
+        "fromPath": "/post/tulum-airport",
+        "statusCode": 301,
+        "toPath": "/post/aeropuerto-de-tulum"
+      },
+      "convexId": "kx7e0hf39r6nq43v9f62t4knjh8cyd4j",
+      "lastUpdated": "2026-08-22T04:39:19.509Z",
+      "locales": {
+        "en": {},
+        "es": {}
+      }
+    },
+    {
+      "base": {
+        "fromPath": "/es-mx/post/tulum-airport",
+        "statusCode": 301,
+        "toPath": "/es-mx/post/aeropuerto-de-tulum"
+      },
+      "convexId": "kx7dgraw81jbrgyme45c5x4yzx8czsnb",
+      "lastUpdated": "2026-08-22T04:39:19.509Z",
       "locales": {
         "en": {},
         "es": {}
