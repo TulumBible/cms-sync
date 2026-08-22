@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-08-22T05:30:22.800Z",
+  "syncedAt": "2026-08-22T05:31:25.815Z",
   "citySlug": "tulum",
   "redirects": [
     {
@@ -2097,19 +2097,6 @@
     },
     {
       "base": {
-        "fromPath": "/post/emergency-contacts-tulum",
-        "statusCode": 301,
-        "toPath": "/post/contactos-de-emergencia-en-tulum"
-      },
-      "convexId": "kx78mbnzmj3hzf5wvwkrtygxed8czrg6",
-      "lastUpdated": "2026-08-22T03:57:58.921Z",
-      "locales": {
-        "en": {},
-        "es": {}
-      }
-    },
-    {
-      "base": {
         "fromPath": "/es-mx/post/emergency-contacts-tulum",
         "statusCode": 301,
         "toPath": "/es-mx/post/contactos-de-emergencia-en-tulum"
@@ -2155,6 +2142,19 @@
       },
       "convexId": "kx7ej7qjra5ta2kr4gmk8shq6d8czjjm",
       "lastUpdated": "2026-08-22T05:30:07.554Z",
+      "locales": {
+        "en": {},
+        "es": {}
+      }
+    },
+    {
+      "base": {
+        "fromPath": "/post/contactos-de-emergencia-en-tulum",
+        "statusCode": 301,
+        "toPath": "/post/emergency-contacts-tulum"
+      },
+      "convexId": "kx73fs303hggkxvezx9q0mnry98cyc73",
+      "lastUpdated": "2026-08-22T05:31:04.071Z",
       "locales": {
         "en": {},
         "es": {}
