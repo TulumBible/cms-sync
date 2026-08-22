@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-08-22T06:11:56.052Z",
+  "syncedAt": "2026-08-22T20:23:35.534Z",
   "citySlug": "tulum",
   "redirects": [
     {
@@ -2155,6 +2155,32 @@
       },
       "convexId": "kx73fs303hggkxvezx9q0mnry98cyc73",
       "lastUpdated": "2026-08-22T05:31:04.071Z",
+      "locales": {
+        "en": {},
+        "es": {}
+      }
+    },
+    {
+      "base": {
+        "fromPath": "/event/ceremonia-15aug2026",
+        "statusCode": 301,
+        "toPath": "/event/ceremonia-22aug2026"
+      },
+      "convexId": "kx75rrdn8xat8exp0bbng6w8v98cyqdd",
+      "lastUpdated": "2026-08-22T20:23:18.041Z",
+      "locales": {
+        "en": {},
+        "es": {}
+      }
+    },
+    {
+      "base": {
+        "fromPath": "/es-mx/event/ceremonia-15aug2026",
+        "statusCode": 301,
+        "toPath": "/es-mx/event/ceremonia-22aug2026"
+      },
+      "convexId": "kx79f2k06s1a0jc7qeahn6es9d8cz759",
+      "lastUpdated": "2026-08-22T20:23:18.041Z",
       "locales": {
         "en": {},
         "es": {}
