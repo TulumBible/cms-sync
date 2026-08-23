@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-08-23T15:32:44.424Z",
+  "syncedAt": "2026-08-23T15:44:52.939Z",
   "citySlug": "tulum",
   "faqs": [
     {
@@ -881,6 +881,96 @@
         "es": {
           "answer": "The menu focuses on contemporary Greek and Mediterranean cooking. Dishes include tzatziki, moussaka, grilled octopus, lamb chops, roasted lamb, whole fresh fish and baklava.",
           "name": "What food does Ilios serve?"
+        }
+      }
+    },
+    {
+      "base": {
+        "category": null,
+        "slug": "can-i-reserve-papaya-playa-project-in-advance"
+      },
+      "convexId": "k57e7g1fpw0xec3zn1f32r7ran8d1yr4",
+      "lastUpdated": "2026-08-23T15:44:32.954Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. Beach service, dining and event tables can be reserved through this venue’s page on Tulum Bible.",
+          "name": "Can I reserve Papaya Playa Project in advance?"
+        },
+        "es": {
+          "answer": "Yes. Beach service, dining and event tables can be reserved through this venue’s page on Tulum Bible.",
+          "name": "Can I reserve Papaya Playa Project in advance?"
+        }
+      }
+    },
+    {
+      "base": {
+        "category": null,
+        "slug": "what-are-the-opening-hours"
+      },
+      "convexId": "k57b2t7b2642b05b3ensh2b9m98d1sm5",
+      "lastUpdated": "2026-08-23T15:44:32.954Z",
+      "locales": {
+        "en": {
+          "answer": "The beach operation is open daily from 10 AM to 6 PM. Saturday events continue until 3 AM, with the latest entry generally at 12:50 AM.",
+          "name": "What are the opening hours?"
+        },
+        "es": {
+          "answer": "The beach operation is open daily from 10 AM to 6 PM. Saturday events continue until 3 AM, with the latest entry generally at 12:50 AM.",
+          "name": "What are the opening hours?"
+        }
+      }
+    },
+    {
+      "base": {
+        "category": null,
+        "slug": "how-much-are-saturday-event-tickets"
+      },
+      "convexId": "k57av3jsj0wdw95fyeakz805h98d02k0",
+      "lastUpdated": "2026-08-23T15:44:32.954Z",
+      "locales": {
+        "en": {
+          "answer": "Saturday event tickets generally cost 2,200 to 3,000 MXN, depending on the programme. VIP tables and bottle service cost extra.",
+          "name": "How much are Saturday event tickets?"
+        },
+        "es": {
+          "answer": "Saturday event tickets generally cost 2,200 to 3,000 MXN, depending on the programme. VIP tables and bottle service cost extra.",
+          "name": "How much are Saturday event tickets?"
+        }
+      }
+    },
+    {
+      "base": {
+        "category": null,
+        "slug": "do-hotel-guests-get-free-entry-to-saturday-events"
+      },
+      "convexId": "k574v88t1nxjcaeqwtpz5nehz18d1r1f",
+      "lastUpdated": "2026-08-23T15:44:32.954Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. Hotel guests receive complimentary admission to Saturday events, while other visitors normally need a separate ticket or table booking.",
+          "name": "Do hotel guests get free entry to Saturday events?"
+        },
+        "es": {
+          "answer": "Yes. Hotel guests receive complimentary admission to Saturday events, while other visitors normally need a separate ticket or table booking.",
+          "name": "Do hotel guests get free entry to Saturday events?"
+        }
+      }
+    },
+    {
+      "base": {
+        "category": null,
+        "slug": "what-food-does-the-restaurant-serve"
+      },
+      "convexId": "k57fdmke9a1p0qwex3dyckbc6n8d1vhx",
+      "lastUpdated": "2026-08-23T15:44:32.954Z",
+      "locales": {
+        "en": {
+          "answer": "The kitchen serves regional Mexican and Mayan-inspired dishes. Options include red snapper Tikin Xic, grilled king prawns, sea bass, steaks and roasted organic vegetables.",
+          "name": "What food does the restaurant serve?"
+        },
+        "es": {
+          "answer": "The kitchen serves regional Mexican and Mayan-inspired dishes. Options include red snapper Tikin Xic, grilled king prawns, sea bass, steaks and roasted organic vegetables.",
+          "name": "What food does the restaurant serve?"
         }
       }
     }
