@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-08-23T15:44:52.939Z",
+  "syncedAt": "2026-08-23T16:08:23.860Z",
   "citySlug": "tulum",
   "faqs": [
     {
@@ -971,6 +971,114 @@
         "es": {
           "answer": "The kitchen serves regional Mexican and Mayan-inspired dishes. Options include red snapper Tikin Xic, grilled king prawns, sea bass, steaks and roasted organic vegetables.",
           "name": "What food does the restaurant serve?"
+        }
+      }
+    },
+    {
+      "base": {
+        "category": null,
+        "slug": "is-vagalume-currently-open"
+      },
+      "convexId": "k57ddpc8tfxhd6jmfg7be90cn58d0anq",
+      "lastUpdated": "2026-08-23T16:07:52.556Z",
+      "locales": {
+        "en": {
+          "answer": "No. The venue is currently closed, and there is no confirmed reopening date.",
+          "name": "Is Vagalume currently open?"
+        },
+        "es": {
+          "answer": "No. The venue is currently closed, and there is no confirmed reopening date.",
+          "name": "Is Vagalume currently open?"
+        }
+      }
+    },
+    {
+      "base": {
+        "category": null,
+        "slug": "how-much-did-a-sunbed-at-vagalume-cost"
+      },
+      "convexId": "k576c2esdjw43axj2z1tvf61yd8d0250",
+      "lastUpdated": "2026-08-23T16:07:52.556Z",
+      "locales": {
+        "en": {
+          "answer": "A sunbed required a minimum consumption of 1,500 MXN per person before the closure. Event tickets started at 605 MXN, while VIP-table prices varied by event.",
+          "name": "How much did a sunbed at Vagalume cost?"
+        },
+        "es": {
+          "answer": "A sunbed required a minimum consumption of 1,500 MXN per person before the closure. Event tickets started at 605 MXN, while VIP-table prices varied by event.",
+          "name": "How much did a sunbed at Vagalume cost?"
+        }
+      }
+    },
+    {
+      "base": {
+        "category": null,
+        "slug": "what-was-the-dress-code-at-vagalume"
+      },
+      "convexId": "k57c1ewqp17ejp1ttmghf8ctwd8d1ffv",
+      "lastUpdated": "2026-08-23T16:07:52.556Z",
+      "locales": {
+        "en": {
+          "answer": "Beachwear was suitable during the day, while evening events generally called for beach-chic or Tulum-style clothing.",
+          "name": "What was the dress code at Vagalume?"
+        },
+        "es": {
+          "answer": "Beachwear was suitable during the day, while evening events generally called for beach-chic or Tulum-style clothing.",
+          "name": "What was the dress code at Vagalume?"
+        }
+      }
+    },
+    {
+      "base": {
+        "category": null,
+        "slug": "what-food-did-vagalume-serve"
+      },
+      "convexId": "k5700kegrdn6w6tfax7bzm7syd8d0jej",
+      "lastUpdated": "2026-08-23T16:07:52.556Z",
+      "locales": {
+        "en": {
+          "answer": "The kitchen served Mexican food with Caribbean, Mediterranean, pre-Hispanic and Spanish influences. Dishes included lobster quesadilla, grilled adobo octopus, green shrimp aguachile, grilled catch and plant-based options.",
+          "name": "What food did Vagalume serve?"
+        },
+        "es": {
+          "answer": "The kitchen served Mexican food with Caribbean, Mediterranean, pre-Hispanic and Spanish influences. Dishes included lobster quesadilla, grilled adobo octopus, green shrimp aguachile, grilled catch and plant-based options.",
+          "name": "What food did Vagalume serve?"
+        }
+      }
+    },
+    {
+      "base": {
+        "category": null,
+        "slug": "what-were-vagalume-s-opening-hours"
+      },
+      "convexId": "k57c1fgeb1gpq46c1dwz4mazes8d1bvn",
+      "lastUpdated": "2026-08-23T16:07:52.556Z",
+      "locales": {
+        "en": {
+          "answer": "Before closing, the regular schedule was Tuesday through Sunday from 11 AM to 1 AM, with Monday closed. Those hours are not currently active.",
+          "name": "What were Vagalume's opening hours?"
+        },
+        "es": {
+          "answer": "Before closing, the regular schedule was Tuesday through Sunday from 11 AM to 1 AM, with Monday closed. Those hours are not currently active.",
+          "name": "What were Vagalume's opening hours?"
+        }
+      }
+    },
+    {
+      "base": {
+        "category": null,
+        "slug": "can-i-book-vagalume-through-tulum-bible"
+      },
+      "convexId": "k578qdrjdh3pr17qty0s3sbfa18d00pt",
+      "lastUpdated": "2026-08-23T16:07:52.556Z",
+      "locales": {
+        "en": {
+          "answer": "Bookings are not available while the venue is closed. Check the venue page on Tulum Bible for confirmed reopening and reservation updates.",
+          "name": "Can I book Vagalume through Tulum Bible?"
+        },
+        "es": {
+          "answer": "Bookings are not available while the venue is closed. Check the venue page on Tulum Bible for confirmed reopening and reservation updates.",
+          "name": "Can I book Vagalume through Tulum Bible?"
         }
       }
     }
