@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-08-21T04:33:46.912Z",
+  "syncedAt": "2026-08-23T15:32:44.424Z",
   "citySlug": "tulum",
   "faqs": [
     {
@@ -791,6 +791,96 @@
         "es": {
           "answer": "Sí. El calendario actual aún está en una fase temprana. Solo añadiremos eventos cuando tengamos suficiente información confirmada para publicarlos correctamente.",
           "name": "¿Se anunciarán más eventos de Nochevieja?"
+        }
+      }
+    },
+    {
+      "base": {
+        "category": null,
+        "slug": "do-you-need-a-reservation-for-ilios"
+      },
+      "convexId": "k576wrz34zc4rwj8dk58c5mv8x8d0x4b",
+      "lastUpdated": "2026-08-23T15:30:08.837Z",
+      "locales": {
+        "en": {
+          "answer": "Reservations are available and advance booking is recommended. Reserve through the venue page on Tulum Bible.",
+          "name": "Do you need a reservation for Ilios?"
+        },
+        "es": {
+          "answer": "Reservations are available and advance booking is recommended. Reserve through the venue page on Tulum Bible.",
+          "name": "Do you need a reservation for Ilios?"
+        }
+      }
+    },
+    {
+      "base": {
+        "category": null,
+        "slug": "what-time-is-ilios-open"
+      },
+      "convexId": "k575r1wcnzvs38xz6n8jbbrn2h8d04ng",
+      "lastUpdated": "2026-08-23T15:30:08.837Z",
+      "locales": {
+        "en": {
+          "answer": "The restaurant is open daily from 5 PM to 1 AM.",
+          "name": "What time is Ilios open?"
+        },
+        "es": {
+          "answer": "The restaurant is open daily from 5 PM to 1 AM.",
+          "name": "What time is Ilios open?"
+        }
+      }
+    },
+    {
+      "base": {
+        "category": null,
+        "slug": "what-time-does-the-show-begin-at-ilios"
+      },
+      "convexId": "k571htzx33dshx59vdrr68haks8d1t15",
+      "lastUpdated": "2026-08-23T15:30:08.837Z",
+      "locales": {
+        "en": {
+          "answer": "Live entertainment usually begins between 9 PM and 10 PM. It can include aerial fire dancing, belly dancing, Sirtaki and Greek plate smashing.",
+          "name": "What time does the show begin at Ilios?"
+        },
+        "es": {
+          "answer": "Live entertainment usually begins between 9 PM and 10 PM. It can include aerial fire dancing, belly dancing, Sirtaki and Greek plate smashing.",
+          "name": "What time does the show begin at Ilios?"
+        }
+      }
+    },
+    {
+      "base": {
+        "category": null,
+        "slug": "does-ilios-have-a-dress-code"
+      },
+      "convexId": "k57e3h7qnwfwsbdgpy72t5qq0d8d073p",
+      "lastUpdated": "2026-08-23T15:30:08.837Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. Smart casual or elegant clothing is required, while swimwear, athletic wear and beach attire are not accepted.",
+          "name": "Does Ilios have a dress code?"
+        },
+        "es": {
+          "answer": "Yes. Smart casual or elegant clothing is required, while swimwear, athletic wear and beach attire are not accepted.",
+          "name": "Does Ilios have a dress code?"
+        }
+      }
+    },
+    {
+      "base": {
+        "category": null,
+        "slug": "what-food-does-ilios-serve"
+      },
+      "convexId": "k57fzkkppxbxb30mnkc4esjv6d8d133x",
+      "lastUpdated": "2026-08-23T15:30:08.837Z",
+      "locales": {
+        "en": {
+          "answer": "The menu focuses on contemporary Greek and Mediterranean cooking. Dishes include tzatziki, moussaka, grilled octopus, lamb chops, roasted lamb, whole fresh fish and baklava.",
+          "name": "What food does Ilios serve?"
+        },
+        "es": {
+          "answer": "The menu focuses on contemporary Greek and Mediterranean cooking. Dishes include tzatziki, moussaka, grilled octopus, lamb chops, roasted lamb, whole fresh fish and baklava.",
+          "name": "What food does Ilios serve?"
         }
       }
     }
