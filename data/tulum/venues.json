@@ -1,77 +1,7 @@
 {
-  "syncedAt": "2026-08-22T01:42:16.789Z",
+  "syncedAt": "2026-08-23T15:11:26.994Z",
   "citySlug": "tulum",
   "venues": [
-    {
-      "base": {
-        "amenityIds": [
-          "jn785e6n78fzxfq3e6yc4z206s858vs7",
-          "jn796fkb2npe38c126gkzmhe85858yf5",
-          "jn77s3v89mkdcb9d9yydgsx3vd858sbk",
-          "jn74axgjrqtsa18w8nxttnxfg5859e39",
-          "jn70zn5gpwjkfxwnbkd4948rv5859d8d",
-          "jn78wp2bkm0sv6aber490necah858phw",
-          "jn70tb3pfy3yycjzk8ke3pgtrs8585z7",
-          "jn70zdmazn719gygc3k7335zxn859dvw"
-        ],
-        "area": "hotel-zone",
-        "category": "beachclub",
-        "coordinates": {
-          "lat": 20.148110000000003,
-          "lng": -87.4595042
-        },
-        "drinkMenuUrl": "",
-        "faqIds": [
-          "k575k5mws8808veqr6ta3s3s3n8bjbck",
-          "k5755y2yjtgtdj7mw90fm9tkgd8bjjg9",
-          "k570p2cmy42nf5zx7drxjxybrs8bj1kf",
-          "k577mp37t0wpd2ptfd9n8fsdax8bkrb8"
-        ],
-        "foodMenuUrl": "",
-        "googleMapsCode": "",
-        "googlePlaceId": "ChIJ85yjXfPRT48RbRZsqdAPOug",
-        "hideReservationForm": false,
-        "images": [],
-        "isClosed": false,
-        "isFeatured": false,
-        "isFeaturedOnCoreTulum": false,
-        "openingHoursHtml": "",
-        "pricing": "$$",
-        "priority": 5,
-        "promotion": "normal",
-        "publishedAt": "2026-08-06T19:08:51.699Z",
-        "reelUrl": null,
-        "reviewIds": [],
-        "tableLayoutImage": null,
-        "tags": []
-      },
-      "convexId": "jh73h95kjmbasdwd5dqpqfsxd17qygvv",
-      "lastUpdated": "2026-08-09T18:13:10.068Z",
-      "locales": {
-        "en": {
-          "address": "",
-          "body": "",
-          "description": "",
-          "feesHtml": "",
-          "menuDescription": "",
-          "metaDescription": "",
-          "name": "Umi Tulum",
-          "slug": "umi",
-          "tableInformation": ""
-        },
-        "es": {
-          "address": "",
-          "body": "",
-          "description": "",
-          "feesHtml": "",
-          "menuDescription": "",
-          "metaDescription": "",
-          "name": "Umi Tulum",
-          "slug": "umi",
-          "tableInformation": ""
-        }
-      }
-    },
     {
       "base": {
         "amenityIds": [
