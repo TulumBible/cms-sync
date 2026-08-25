@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-08-25T22:31:21.407Z",
+  "syncedAt": "2026-08-25T22:31:50.387Z",
   "citySlug": "tulum",
   "venues": [
     {
@@ -1318,7 +1318,10 @@
         ],
         "area": "hotel-zone",
         "category": "beachclub",
-        "coordinates": null,
+        "coordinates": {
+          "lat": 20.150810809661685,
+          "lng": -87.45824552883498
+        },
         "drinkMenuUrl": "",
         "faqIds": [
           "k571cyz5ndvaf617g0zdg0nafh8d5h0r",
@@ -1359,16 +1362,16 @@
         "isFeaturedOnCoreTulum": false,
         "openingHoursHtml": "<p>08:00 - 18:00</p><p>08:00 - 18:00</p><p>08:00 - 18:00</p><p>08:00 - 18:00</p><p>08:00 - 18:00</p><p>08:00 - 18:00</p><p>08:00 - 18:00</p>",
         "pricing": "$$$",
-        "priority": 2,
+        "priority": 1,
         "promotion": "normal",
-        "publishedAt": "2026-08-22T01:41:51.691Z",
+        "publishedAt": "2026-08-25T22:31:34.037Z",
         "reelUrl": "",
         "reviewIds": [],
         "tableLayoutImage": null,
         "tags": []
       },
       "convexId": "jh7fs06v4xyxp8zks4970mhzjx82ddw0",
-      "lastUpdated": "2026-08-25T22:31:07.542Z",
+      "lastUpdated": "2026-08-25T22:31:46.917Z",
       "locales": {
         "en": {
           "address": "Carretera Tulum Boca Paila Km 7.5 Mza 020 reg 009, 77780 Tulum, Q.R.",
