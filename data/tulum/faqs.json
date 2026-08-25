@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-08-23T16:08:23.860Z",
+  "syncedAt": "2026-08-25T22:31:21.413Z",
   "citySlug": "tulum",
   "faqs": [
     {
@@ -1079,6 +1079,114 @@
         "es": {
           "answer": "Bookings are not available while the venue is closed. Check the venue page on Tulum Bible for confirmed reopening and reservation updates.",
           "name": "Can I book Vagalume through Tulum Bible?"
+        }
+      }
+    },
+    {
+      "base": {
+        "category": null,
+        "slug": "is-kanan-beach-club-adults-only"
+      },
+      "convexId": "k571cyz5ndvaf617g0zdg0nafh8d5h0r",
+      "lastUpdated": "2026-08-25T22:30:48.678Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. The beach club, pool areas and wider hotel property operate as adults-only spaces.",
+          "name": "Is Kanan Beach Club adults only?"
+        },
+        "es": {
+          "answer": "Yes. The beach club, pool areas and wider hotel property operate as adults-only spaces.",
+          "name": "Is Kanan Beach Club adults only?"
+        }
+      }
+    },
+    {
+      "base": {
+        "category": null,
+        "slug": "what-are-kanan-beach-club-s-opening-hours"
+      },
+      "convexId": "k573b4kb7xa8e8ygxs32gswh9h8d5t1d",
+      "lastUpdated": "2026-08-25T22:30:48.678Z",
+      "locales": {
+        "en": {
+          "answer": "The beach club is open daily from 8 AM to 6 PM.",
+          "name": "What are Kanan Beach Club's opening hours?"
+        },
+        "es": {
+          "answer": "The beach club is open daily from 8 AM to 6 PM.",
+          "name": "What are Kanan Beach Club's opening hours?"
+        }
+      }
+    },
+    {
+      "base": {
+        "category": null,
+        "slug": "does-kanan-beach-club-have-a-minimum-spend"
+      },
+      "convexId": "k579redaxnsy2fcn72988nx5j18d4xa9",
+      "lastUpdated": "2026-08-25T22:30:48.678Z",
+      "locales": {
+        "en": {
+          "answer": "No minimum consumption applies during regular access. Special events may have a separate cover or ticket requirement.",
+          "name": "Does Kanan Beach Club have a minimum spend?"
+        },
+        "es": {
+          "answer": "No minimum consumption applies during regular access. Special events may have a separate cover or ticket requirement.",
+          "name": "Does Kanan Beach Club have a minimum spend?"
+        }
+      }
+    },
+    {
+      "base": {
+        "category": null,
+        "slug": "can-i-reserve-a-beach-bed-at-kanan"
+      },
+      "convexId": "k573tx26a1wseyn75nvjw659nh8d5g4b",
+      "lastUpdated": "2026-08-25T22:30:48.678Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. Beds, panoramic cabanas, private nests and tables can be reserved through the venue page on Tulum Bible, subject to availability.",
+          "name": "Can I reserve a beach bed at Kanan?"
+        },
+        "es": {
+          "answer": "Yes. Beds, panoramic cabanas, private nests and tables can be reserved through the venue page on Tulum Bible, subject to availability.",
+          "name": "Can I reserve a beach bed at Kanan?"
+        }
+      }
+    },
+    {
+      "base": {
+        "category": null,
+        "slug": "what-food-does-kanan-beach-club-serve"
+      },
+      "convexId": "k57b87tvymh1vvsch73rxqbpfx8d4dja",
+      "lastUpdated": "2026-08-25T22:30:48.678Z",
+      "locales": {
+        "en": {
+          "answer": "The venue serves organic Mexican coastal food, including Caribbean-style ceviches, fresh seafood, handmade tacos, pasta and vegan options. Craft cocktails are also available.",
+          "name": "What food does Kanan Beach Club serve?"
+        },
+        "es": {
+          "answer": "The venue serves organic Mexican coastal food, including Caribbean-style ceviches, fresh seafood, handmade tacos, pasta and vegan options. Craft cocktails are also available.",
+          "name": "What food does Kanan Beach Club serve?"
+        }
+      }
+    },
+    {
+      "base": {
+        "category": null,
+        "slug": "does-kanan-beach-club-have-a-dress-code"
+      },
+      "convexId": "k572y3e1xtf0qb6yfvms0k7vwx8d4k7c",
+      "lastUpdated": "2026-08-25T22:30:48.678Z",
+      "locales": {
+        "en": {
+          "answer": "There is no strict dress code. Informal beach clothing suits regular daytime visits.",
+          "name": "Does Kanan Beach Club have a dress code?"
+        },
+        "es": {
+          "answer": "There is no strict dress code. Informal beach clothing suits regular daytime visits.",
+          "name": "Does Kanan Beach Club have a dress code?"
         }
       }
     }
