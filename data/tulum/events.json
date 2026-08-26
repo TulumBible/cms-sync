@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-08-26T20:00:36.881Z",
+  "syncedAt": "2026-08-26T22:42:31.503Z",
   "citySlug": "tulum",
   "events": [
     {
@@ -182,6 +182,86 @@
           "hubBlurb": "",
           "name": "Concert Nights",
           "slug": "concert-nights-vesica-santuario-23aug2026",
+          "tableInformation": ""
+        }
+      }
+    },
+    {
+      "base": {
+        "afterEnd": "archive",
+        "buyLink": "https://tf.link/4hbncthk",
+        "categoryIds": [],
+        "cta": "Tickets",
+        "displayPrice": "Mex$550",
+        "endDate": "2026-08-28T23:59",
+        "eventType": "Cenote",
+        "faqIds": [],
+        "flyerImage": {
+          "alt": "ritmo lunar event flyer at vesica showcasing a couple sitting on the deck of vesica santuario",
+          "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/ef1f8a87-a9ad-4879-4356-b32bf8489900/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+        },
+        "gaLink": null,
+        "gaPrice": null,
+        "isFeatured": false,
+        "isPublished": true,
+        "lineup": null,
+        "noPrice": false,
+        "promotion": "normal",
+        "publishedAt": "2026-08-22T01:41:33.448Z",
+        "qrCode": "M0 0.5h7m1 0h3m1 0h1m1 0h5m4 0h1m1 0h1m1 0h2m1 0h7M0 1.5h1m5 0h1m1 0h3m2 0h2m4 0h2m1 0h1m3 0h1m1 0h1m1 0h1m5 0h1M0 2.5h1m1 0h3m1 0h1m1 0h1m1 0h2m2 0h1m1 0h3m1 0h5m2 0h1m2 0h1m1 0h3m1 0h1M0 3.5h1m1 0h3m1 0h1m1 0h2m1 0h1m1 0h6m1 0h1m2 0h1m1 0h3m2 0h1m1 0h3m1 0h1M0 4.5h1m1 0h3m1 0h1m6 0h5m3 0h1m1 0h1m1 0h4m1 0h1m1 0h3m1 0h1M0 5.5h1m5 0h1m1 0h1m2 0h2m1 0h1m1 0h2m1 0h1m6 0h1m1 0h1m1 0h1m5 0h1M0 6.5h7m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h7M9 7.5h1m2 0h1m4 0h2m1 0h2m1 0h2m1 0h1M0 8.5h2m2 0h3m4 0h1m3 0h3m1 0h1m1 0h4m2 0h1m3 0h1m1 0h4M0 9.5h1m2 0h1m3 0h1m1 0h2m1 0h1m1 0h1m1 0h1m1 0h1m3 0h2m1 0h4m3 0h1m1 0h2M0 10.5h3m1 0h5m2 0h2m1 0h2m5 0h1m1 0h2m1 0h2m1 0h1m3 0h1m1 0h1M0 11.5h1m1 0h1m6 0h1m1 0h1m3 0h1m1 0h5m2 0h1m1 0h1m1 0h3m1 0h3m1 0h1M1 12.5h1m1 0h2m1 0h1m1 0h3m1 0h1m2 0h1m1 0h1m1 0h5m2 0h1m1 0h4m2 0h1m1 0h1M2 13.5h1m2 0h1m1 0h1m5 0h4m1 0h1m1 0h2m5 0h2m3 0h4M0 14.5h1m3 0h6m4 0h2m1 0h1m2 0h2m1 0h2m1 0h2m2 0h1M0 15.5h6m4 0h1m1 0h1m1 0h2m1 0h2m1 0h2m1 0h2m1 0h1m2 0h3m1 0h3M1 16.5h1m2 0h3m2 0h1m1 0h1m1 0h2m1 0h2m1 0h3m1 0h2m2 0h4m3 0h1m1 0h1M1 17.5h2m1 0h2m3 0h2m1 0h1m1 0h5m2 0h3m1 0h1m2 0h1m2 0h5M1 18.5h2m3 0h2m3 0h8m1 0h2m1 0h1m3 0h1m1 0h1m1 0h2M1 19.5h1m1 0h1m1 0h1m1 0h2m1 0h2m1 0h1m1 0h1m1 0h5m1 0h2m1 0h2m2 0h3m1 0h2M2 20.5h1m2 0h2m2 0h1m2 0h2m1 0h1m1 0h1m1 0h4m4 0h1m1 0h3m1 0h4M0 21.5h3m1 0h1m4 0h1m3 0h4m6 0h1m1 0h1m1 0h3m1 0h3m1 0h1M1 22.5h3m1 0h4m6 0h1m1 0h1m2 0h2m1 0h3m1 0h2m2 0h4M1 23.5h2m2 0h1m3 0h2m1 0h1m1 0h2m1 0h1m3 0h1m1 0h2m2 0h1m1 0h1m2 0h1m1 0h2M0 24.5h1m5 0h6m1 0h2m1 0h2m1 0h4m2 0h1m2 0h4m2 0h3M0 25.5h1m3 0h1m2 0h4m1 0h1m2 0h2m1 0h1m3 0h2m3 0h2m3 0h2m1 0h1M2 26.5h16m5 0h1m1 0h3m1 0h2m1 0h2M2 27.5h1m1 0h2m1 0h5m1 0h1m1 0h1m1 0h2m2 0h2m1 0h1m1 0h2m1 0h1m1 0h5M0 28.5h2m1 0h6m1 0h1m1 0h2m2 0h2m1 0h1m1 0h2m1 0h1m3 0h5m1 0h1M8 29.5h2m3 0h6m4 0h6m3 0h3M0 30.5h7m2 0h2m4 0h1m1 0h1m2 0h2m1 0h3m2 0h1m1 0h1m1 0h2M0 31.5h1m5 0h1m1 0h1m3 0h1m1 0h2m1 0h5m1 0h2m1 0h1m1 0h1m3 0h1m1 0h3M0 32.5h1m1 0h3m1 0h1m1 0h1m1 0h2m1 0h5m3 0h2m1 0h1m3 0h5m1 0h1M0 33.5h1m1 0h3m1 0h1m3 0h1m1 0h1m2 0h1m2 0h2m1 0h1m1 0h1m2 0h6m1 0h4M0 34.5h1m1 0h3m1 0h1m3 0h7m1 0h1m4 0h1m1 0h2m2 0h3m1 0h2M0 35.5h1m5 0h1m1 0h1m2 0h1m1 0h1m3 0h2m1 0h5m1 0h1m2 0h3m2 0h2M0 36.5h7m1 0h1m1 0h1m1 0h2m1 0h1m1 0h1m1 0h1m1 0h2m1 0h1m4 0h1m1 0h1m2 0h3<!--vb:37-->",
+        "startDate": "2026-08-28",
+        "status": "Live",
+        "tableLayoutImage": null,
+        "tbeId": "TBE_VWR4DM",
+        "ticketPrice": null,
+        "ticketTiers": [
+          {
+            "currency": "MXN",
+            "id": "iKOcb/qkdHvEhJfWm/ImvPBjNUYQgNNLnrUW8LrYTR4gciAQMejizT7WIbvD784zEhTp7VoD/fGxtdJDyhO+wQ==",
+            "isTable": false,
+            "name": "General",
+            "price": 1100,
+            "priceWithFees": 1100,
+            "sortOrder": 1,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "8/4DoghuSnwbMXklMo0+mR9E8ERC8ywYXRGGvmKaJT0bSUzoZNx01y6Ll9hK+zE8bQEw2Y3Dx28szKVzDkjAcg==",
+            "isTable": false,
+            "name": "Local",
+            "price": 550,
+            "priceWithFees": 550,
+            "sortOrder": 2,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          }
+        ],
+        "time": "",
+        "url": "https://tf.link/4hbncthk",
+        "venueName": "Vesica Cenote",
+        "venueSlug": "vesica-tulum",
+        "vipLink": null,
+        "vipPrice": null
+      },
+      "convexId": "j57cffvdjwac0b1k5zk434j9es8cpqk8",
+      "lastUpdated": "2026-08-26T22:42:04.603Z",
+      "locales": {
+        "en": {
+          "body": "<h2>A Daytime Full Moon Reset at Vesica Cenote</h2>\n<p>Ritmo Lunar brings a participatory wellness journey to Vesica Cenote in Uptown Tulum on Friday, August 28. The Full Moon in Pisces theme shapes a day of recovery, connection and release. Instead of watching a stage, you join a three-part programme built around the body, water and creative expression. The sequence moves from Feel to Flow to Express. Yoga, sound healing, aquatic practice, art and astrology all sit inside the same programme.</p>\n<h3>Pisces Sets the Focus for the Reset</h3>\n<p>The programme frames this Full Moon as the close of an eclipse cycle that began in September 2024. Its Pisces focus centres intuition, sensitivity, spirituality, imagination, creativity, fluidity and emotional connection. The aim is to quiet external noise and pay closer attention to what you feel. Each stage returns to the body, the water or a creative practice. Together, the activities are designed to support release, integration and space for what comes next.</p>\n<h3>Feel, Flow and Express in Sequence</h3>\n<p>Feel combines yoga and sound healing, with attention on the body, breath and inner awareness. Flow then shifts into aquatic techniques and skills. This water-based stage focuses on trusting the body and letting go of control. Express brings the group into an art and astrology circle, using creativity to explore the inner world and work with emotion. The complete journey moves from physical awareness to water, then into reflection and expression.</p>\n<h3>Cenote Water, Lounges and Farm-to-Table Food</h3>\n<p>Vesica is a cenote club in the Mayan jungle, with comfortable lounges set beside the water. For Ritmo Lunar, that water becomes part of the programme through the Flow session. The venue’s regular kitchen follows a farm-to-table approach, with nutritious meals built around fresh ingredients and local flavours. Its food concept also places an emphasis on eco-conscious preparation. The setting gives you space to move between the structured activities and the cenote club’s waterside areas.</p>\n<h3>Plan Your Friday at Vesica</h3>\n<p>Ritmo Lunar takes place on Friday, August 28, 2026, from 9:00 AM to 4:00 PM. Vesica Cenote is at PARCELA No. 198Z-2P-1 EJIDO, 77760 Tulum, Q.R., in the Uptown area. The venue recommends eco-friendly sunscreen and insect repellent to help protect the cenote environment. One ticket covers access to Vesica Santuario and every activity across the Feel, Flow and Express programme. Use the buy button on this page to secure your place.</p>",
+          "description": "Ritmo Lunar is a morning-to-afternoon Full Moon in Pisces reset built around yoga and sound healing, aquatic techniques, art and astrology at a cenote club.",
+          "hubBlurb": "",
+          "name": "Ritmo Lunar",
+          "slug": "ritmo-lunar-vesica-santuario-28aug2026",
+          "tableInformation": ""
+        },
+        "es": {
+          "body": "<h2>Un renacimiento bajo la luna llena diurna en el cenote Vesica</h2><p>Ritmo Lunar ofrece un viaje de bienestar participativo en el cenote Vesica, en la zona alta de Tulum, el viernes 28 de agosto. La luna llena en Piscis marca la temática de una jornada dedicada a la recuperación, la conexión y la liberación. En lugar de limitarte a observar un escenario, participarás en un programa de tres partes centrado en el cuerpo, el agua y la expresión creativa. La secuencia pasa de Sentir a Fluir y a Expresar. El yoga, la sanación con sonido, las prácticas acuáticas, el arte y la astrología se dan cita en un mismo programa.</p><h3>Piscis marca el rumbo para el reinicio</h3><p>El programa enmarca esta luna llena como el final de un ciclo de eclipses que comenzó en septiembre de 2024. Su enfoque en Piscis se centra en la intuición, la sensibilidad, la espiritualidad, la imaginación, la creatividad, la fluidez y la conexión emocional. El objetivo es acallar el ruido externo y prestar más atención a lo que sientes. Cada etapa te devuelve al cuerpo, al agua o a una práctica creativa. En conjunto, las actividades están diseñadas para favorecer la liberación, la integración y crear espacio para lo que vendrá después.</p><h3>Sentir, fluir y expresarse en secuencia</h3><p>«Sentir» combina yoga y sanación con sonido, prestando atención al cuerpo, a la respiración y a la conciencia interior. «Fluye» pasa luego a técnicas y habilidades acuáticas. Esta etapa basada en el agua se centra en confiar en el cuerpo y soltar el control. «Exprésate» lleva al grupo a un círculo de arte y astrología, utilizando la creatividad para explorar el mundo interior y trabajar con las emociones. El recorrido completo pasa de la conciencia física al agua, para luego adentrarse en la reflexión y la expresión.</p><h3>Agua de cenote, zonas de descanso y comida «de la granja a la mesa»</h3><p>Vesica es un club de cenotes situado en la selva maya, con cómodas zonas de descanso junto al agua. Para Ritmo Lunar, esa agua se convierte en parte del programa a través de la sesión «Flow». La cocina habitual del local sigue un enfoque «de la granja a la mesa», con comidas nutritivas elaboradas a partir de ingredientes frescos y sabores locales. Su concepto gastronómico también hace hincapié en una preparación respetuosa con el medio ambiente. El entorno te ofrece espacio para moverte entre las actividades estructuradas y las zonas junto al agua del club de cenotes.</p><h3>Planifica tu viernes en Vesica</h3><p>Ritmo Lunar tendrá lugar el viernes 28 de agosto de 2026, de 9:00 a 16:00. Vesica Cenote se encuentra en PARCELA N.º 198Z-2P-1 EJIDO, 77760 Tulum, Q.R., en la zona de Uptown. El recinto recomienda utilizar protector solar y repelente de insectos ecológicos para ayudar a proteger el entorno del cenote. Una entrada da acceso a Vesica Santuario y a todas las actividades del programa «Feel, Flow and Express». Utiliza el botón de compra de esta página para reservar tu plaza.</p>",
+          "description": "Ritmo Lunar es una sesión de renovación de la Luna Llena en Piscis, que se desarrolla desde la mañana hasta la tarde, basada en el yoga y la sanación con sonido, técnicas acuáticas, arte y astrología en un club de cenotes.",
+          "hubBlurb": "",
+          "name": "Ritmo Lunar",
+          "slug": "ritmo-lunar-vesica-santuario-28aug2026",
           "tableInformation": ""
         }
       }
