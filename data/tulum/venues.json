@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-08-29T00:56:39.283Z",
+  "syncedAt": "2026-08-29T00:57:13.912Z",
   "citySlug": "tulum",
   "venues": [
     {
@@ -593,7 +593,10 @@
         ],
         "area": "uptown",
         "category": "cenote",
-        "coordinates": null,
+        "coordinates": {
+          "lat": 20.197069420952893,
+          "lng": -87.50242297116449
+        },
         "drinkMenuUrl": "https://assets.tulumbible.com/menus/tulum/vesica-tulum-drinks-menu.pdf",
         "faqIds": [
           "k57fbm6f7pdqtr2az99gdkw3kn8ddrkn",
@@ -625,7 +628,12 @@
             "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/d81e8d5d-77f9-4ac7-10d6-852fe4c69200/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
           },
           {
+            "alt": "Person relaxing in a fringed hammock strung between palm trees on sandy ground surrounded by tropical vegetation.",
             "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/7feec01d-92d2-4f47-9799-5d840cb28d00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Fruit bowl with berries and sliced kiwi beside yogurt on black stones, with plated dishes in a restaurant setting.",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/36d921d0-cc9b-4525-8e58-661f68046000/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
           },
           {
             "alt": "Aerial view of a turquoise cenote surrounded by jungle, stone paths, loungers, and thatched structures in Tulum.",
@@ -634,10 +642,6 @@
           {
             "alt": "Thatched pavilion surrounded by tropical palms beside a clear natural pool under a bright blue sky.",
             "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/c04290e8-effc-4b8d-397f-e27d1059f000/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
-          },
-          {
-            "alt": "Fruit bowl with berries and sliced kiwi beside yogurt on black stones, with plated dishes in a restaurant setting.",
-            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/36d921d0-cc9b-4525-8e58-661f68046000/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
           },
           {
             "alt": "Person meditating on a yoga mat outdoors amid tropical greenery, creating a calm mood.",
@@ -655,7 +659,7 @@
         "pricing": "$$$",
         "priority": 1,
         "promotion": "normal",
-        "publishedAt": "2026-08-22T01:41:51.691Z",
+        "publishedAt": "2026-08-29T00:56:47.394Z",
         "reelUrl": "",
         "reviewIds": [
           "kd7eebfew9ktywsfrwe53vb88x85kzgm",
@@ -665,7 +669,7 @@
         "tags": []
       },
       "convexId": "jh7c7enep85z0w69t9v1grcarh7qzm2f",
-      "lastUpdated": "2026-08-29T00:56:25.745Z",
+      "lastUpdated": "2026-08-29T00:57:12.389Z",
       "locales": {
         "en": {
           "address": "PARCELA No. 198Z-2P-1 EJIDO, 77760 Tulum, Q.R.",
@@ -680,11 +684,11 @@
         },
         "es": {
           "address": "PARCELA No. 198Z-2P-1 EJIDO, 77760 Tulum, Q.R.",
-          "body": "<h3 id=\"\">Conecta con la naturaleza</h3><p id=\"\">Vesica Tulum, te invita a sumergirte en las aguas cristalinas del increíble cenote que protagoniza este lugar. El diseño del club se integra perfectamente con la jungla que lo rodea, regalandote vistas impresionantes y un ambiente que te transportará.</p><h3 id=\"\">Experiencia culinaria</h3><p id=\"\">Vesica no solo se trata de su belleza natural; también es un destino culinario. El club se enorgullece de su oferta gastronómica, con un menú que unifica la riqueza de sabores e ingredientes locales. Desde el muy recomendado pulpo a la parrilla hasta el delicioso postre de tapioca, cada comida es una exploración del gusto y la tradición.</p><h3 id=\"\">Coworking en el paraíso</h3><p id=\"\">Para aquellos que buscan un cambio del entorno de oficina tradicional, Vesica ofrece un espacio de coworking excepcional. Con Wi-Fi confiable y cómodas áreas de trabajo, es una ubicación ideal para nómadas digitales y trabajadores remotos que buscan mezclar la productividad con la tranquilidad de la naturaleza.</p><h3 id=\"\">El lugar ideal para celebrar</h3><p id=\"\">Vesica Cenote también está disponible para alquilar y albergar varios eventos privados. Ya sea una boda romántica, una reunión corporativa o una celebración privada, el ambiente del lugar garantiza una experiencia memorable. La combinación de belleza natural, excelente servicio y exquisita cocina hace que cada evento sea especial.</p><h3 id=\"\">Visita Vesica Tulum</h3><p id=\"\">Abierto todos los días, Vesica Tulum invita a los huéspedes a experimentar sus ofertas únicas en un entorno que es a la vez inspirador y rejuvenecedor. El costo de entrada para Vesica Cenote es de $300 Pesos Mexicanos (17USD) con un consumo mínimo recomendado de $500 Pesos Mexicanos (28USD). Sin embargo, a menudo podemos ofrecer ofertas especiales, <a href=\"/contact\">envíanos un mensaje</a> para más información.</p>",
-          "description": "Vesica: a cenote club in Mayan jungle, offering a unique experience. Dip your feet in crystal-clear waters, enjoy comfortable lounges, and stunning views.",
-          "feesHtml": "<p id=\"\"><strong id=\"\">Cover</strong> 500MX + <strong id=\"\">Consumo Min</strong> 500MX / 1000MX (Por Persona)</p>",
-          "menuDescription": "Farm-to-table gastronomic experience that merges nature with cuisine, carefully crafting nutritious, delicious, and eco-conscious meals.",
-          "metaDescription": "",
+          "body": "<h2>Vesica Cenote Tulum: un club social y santuario de bienestar en la selva</h2>\n<p>Vesica es un club social y santuario de bienestar al aire libre situado en la selva maya al norte de la ciudad, en la zona de Uptown. Está construido en torno a cenotes naturales de agua dulce, y actualmente cuenta con dos de ellos; con una única entrada se tiene acceso a ambos. El recinto combina el baño en los cenotes con tumbonas junto a la orilla, zonas de hamacas bajo el dosel de las copas de los árboles, carpas de bienestar a la sombra y una cocina completa. Se presenta como un club diurno de cenotes más que como un simple lugar para bañarse, por lo que el ritmo es pausado: la gente viene a nadar, comer, relajarse y recargar energías durante todo el día.</p>\n<h3>Cómo se vive un día aquí</h3>\n<p>El ambiente va cambiando a lo largo del día. Las mañanas son tranquilas y apacibles, ideales para nadar en solitario, dejarse llevar por la corriente y elegir una tumbona antes de que llegue la multitud. A primera hora de la tarde, el ambiente se transforma en el de un club social animado, aunque siempre relajado, a medida que llegan más huéspedes; en un día concurrido, las tumbonas están todas ocupadas ya a primera hora de la tarde. El público abarca desde gente del lugar hasta visitantes de entre 20 y 50 años, y es ideal para parejas, viajeros en solitario y grupos de amigos que buscan una alternativa a la costa.</p>\n<p>La música es downtempo, afro house, organic house y otros estilos de house, con DJ residentes e invitados que pinchan sesiones diurnas los fines de semana, normalmente entre las 14:00 y las 17:00. Las noches de fin de semana, el local abre una zona dedicada al baile y acoge series de eventos recurrentes y festivales: las reuniones de Ritmo Lunar y Ritmo Solar, las «Noche de Conciertos» y sus sesiones «Santuario» a la luz de las velas, con música clásica y de cámara en directo.</p>\n<h3>Comida «de la granja a la mesa» y un bar de destilados mexicanos</h3>\n<p>La cocina está dirigida por el chef César Castañeda y sigue el concepto «de la granja a la mesa», con ingredientes regionales yucatecos de temporada y una cocina a leña a la vista para los platos principales. La carta abarca el desayuno y el almuerzo, con entrantes, ensaladas, ceviches y platos principales a la parrilla, y todo se pide y se sirve directamente en tu diván.</p>\n<h3>Bienestar, bodas y eventos</h3>\n<p>Las actividades de bienestar se desarrollan junto al cenote durante todo el día. En la zona de tiendas de campaña y hamacas situada detrás del agua se ofrecen masajes a partir de 699 MXN, además de yoga, sanación con sonido, ejercicios de respiración, reiki, baños de hielo y terapia de inmersión en agua fría, ventosas chinas y tratamientos faciales. Se imparten clases de yoga en determinadas mañanas, y es recomendable reservar los tratamientos con antelación.</p>\n<p>Además de las visitas de un día, Vesica acoge bodas, celebraciones y eventos privados en sus pabellones y en los terrenos de la selva. También cuenta con un programa de socios, y marcas de eventos y festivales como el ¿PorQuéNo? Cenote Festival han utilizado este espacio. Para bodas o reuniones más grandes, el recinto está diseñado para albergar un evento completo, en lugar de limitarse a ser un rincón para la fiesta.</p>\n<h3>Cómo visitar el cenote Vesica de Tulum</h3>\n<p>Vesica se encuentra en la selva de Uptown, a pocos minutos en coche al norte de la ciudad, y abre todos los días de 9:00 a 18:00. La entrada cuesta 600 MXN por persona, lo que ahora da acceso a ambos cenotes, con un gasto mínimo de entre 500 y 1.000 MXN por persona dependiendo de la zona de tumbonas: cuanto más cerca del agua, mayor es el mínimo. Hay aparcamiento gratuito en el recinto.</p>\n<p>Llega temprano, sobre todo en temporada alta, para poder elegir entre las tumbonas y disfrutar de las aguas más tranquilas de la mañana. Puedes reservar online con antelación; los grupos de hasta 14 personas no necesitan depósito, mientras que los de 15 o más deben pagar la entrada por adelantado para confirmar la reserva. Reserva tu visita o un tratamiento de bienestar a través de la página de Vesica en Tulum Bible.</p>",
+          "description": "Un club diurno al aire libre con cenotes y un santuario de bienestar en la selva, construido alrededor de dos sumideros naturales con tumbonas, comida de la huerta a la mesa y sesiones de DJ los fines de semana.",
+          "feesHtml": "<p id=\"\"><strong id=\"\">Entrada: 500 </strong>MXN<strong id=\"\"> + Consumo mínimo: 500 </strong>MXN / 1000 MXN (por persona)</p>",
+          "menuDescription": "Una experiencia gastronómica «de la granja a la mesa» que fusiona la naturaleza con la cocina, elaborando con esmero platos nutritivos, deliciosos y respetuosos con el medio ambiente.",
+          "metaDescription": "Cenote Vesica Uptown Tulum: baño en cenotes naturales, tumbonas, comida a leña y tratamientos de bienestar",
           "name": "Vesica Cenote",
           "slug": "vesica-tulum",
           "tableInformation": ""
