@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-08-25T22:31:50.387Z",
+  "syncedAt": "2026-08-29T00:56:39.283Z",
   "citySlug": "tulum",
   "venues": [
     {
@@ -595,41 +595,67 @@
         "category": "cenote",
         "coordinates": null,
         "drinkMenuUrl": "https://assets.tulumbible.com/menus/tulum/vesica-tulum-drinks-menu.pdf",
-        "faqIds": [],
+        "faqIds": [
+          "k57fbm6f7pdqtr2az99gdkw3kn8ddrkn",
+          "k57cb4xpd0jnqvdsrm2376xhc98dcmty",
+          "k570m13hv2s73kc6rbf1mkefrx8dcxs3",
+          "k57aefaxwbq7yzd8v0pjn6fctx8dckc9",
+          "k574s9g1mb29g81n2yyg70byjx8ddg1m",
+          "k579bvsy19ysgvgxcwzg12sds58dd809"
+        ],
         "foodMenuUrl": "https://assets.tulumbible.com/menus/tulum/vesica-tulum-food-menu.pdf",
         "googleMapsCode": "5FWX+P2 Tulum, Quintana Roo",
         "googlePlaceId": null,
         "hideReservationForm": false,
         "images": [
           {
+            "alt": "Guests swimming and relaxing in a clear cenote surrounded by stone platforms, palm trees, and thatched-roof structures at a",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/0e8c45a9-81b3-4980-acfb-64ddcfa3fd00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Guests relax on shaded daybed lounges surrounded by tropical vegetation at a beachside venue.",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/c1e551c6-7743-43db-7f4d-3ca5418a9100/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Guests swimming and relaxing around a natural cenote pool surrounded by palm trees and white cabanas.",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/c46a5cab-7922-404a-8065-8bad19010400/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Four women in swimwear holding drinks stand smiling by a cenote pool surrounded by tropical vegetation and wooden structures.",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/d81e8d5d-77f9-4ac7-10d6-852fe4c69200/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/7feec01d-92d2-4f47-9799-5d840cb28d00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
             "alt": "Aerial view of a turquoise cenote surrounded by jungle, stone paths, loungers, and thatched structures in Tulum.",
-            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/aa848173-7917-4eea-30c7-ff5142ea0c00/public"
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/a705e85a-53af-436f-4fcd-016917f0f000/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
           },
           {
             "alt": "Thatched pavilion surrounded by tropical palms beside a clear natural pool under a bright blue sky.",
-            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/bc9c458e-40f7-46a2-558b-8cdb2c0f8000/public"
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/c04290e8-effc-4b8d-397f-e27d1059f000/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
           },
           {
             "alt": "Fruit bowl with berries and sliced kiwi beside yogurt on black stones, with plated dishes in a restaurant setting.",
-            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/d8d23256-0387-4762-dc72-38aac3efdb00/public"
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/36d921d0-cc9b-4525-8e58-661f68046000/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
           },
           {
             "alt": "Person meditating on a yoga mat outdoors amid tropical greenery, creating a calm mood.",
-            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/7ded522c-ce99-438d-c734-81af56599500/public"
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/f0a48b60-208b-4ffe-6ec4-39a943802d00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
           },
           {
             "alt": "Woman relaxing with a tablet in a lush tropical outdoor lounge at Vesica Cenote in Tulum.",
-            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/7050c505-557f-4b38-2cc2-8d9763ab8f00/public"
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/91ad1ef0-4ba3-470d-d800-7237bc4f2d00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
           }
         ],
         "isClosed": false,
         "isFeatured": true,
         "isFeaturedOnCoreTulum": true,
         "openingHoursHtml": "<p>09:00 - 18:00</p><p>09:00 - 18:00</p><p>09:00 - 18:00</p><p>09:00 - 18:00</p><p>09:00 - 18:00</p><p>09:00 - 18:00</p><p>09:00 - 18:00</p>",
-        "pricing": "$$$$",
+        "pricing": "$$$",
         "priority": 1,
         "promotion": "normal",
-        "publishedAt": "2026-08-07T03:01:32.297Z",
+        "publishedAt": "2026-08-22T01:41:51.691Z",
         "reelUrl": "",
         "reviewIds": [
           "kd7eebfew9ktywsfrwe53vb88x85kzgm",
@@ -639,15 +665,15 @@
         "tags": []
       },
       "convexId": "jh7c7enep85z0w69t9v1grcarh7qzm2f",
-      "lastUpdated": "2026-08-22T00:54:05.871Z",
+      "lastUpdated": "2026-08-29T00:56:25.745Z",
       "locales": {
         "en": {
           "address": "PARCELA No. 198Z-2P-1 EJIDO, 77760 Tulum, Q.R.",
-          "body": "<h3 id=\"\">A Natural Paradise Awaits at Vesica Cenote</h3><p id=\"\">Just a short drive from Tulum, Vesica Cenote is a place where nature's beauty truly shines. With crystal-clear waters surrounded by jungle, it's the perfect spot to swim, relax, and soak up the peaceful atmosphere. Our clients often tell us that Vesica exceeded their expectations, and we couldn't agree more.</p><h3 id=\"\">A Natural Paradise Awaits</h3><p id=\"\">At Vesica, you'll find a serene environment that invites you to unwind and connect with nature. The design seamlessly blends with the jungle surroundings, offering stunning views and a sense of harmony with the natural world. Whether you're dipping into the cenote or lounging nearby, the peaceful setting provides a memorable escape from the everyday.</p><h3 id=\"\">Exceptional Service and Delicious Food and Drinks</h3><p id=\"\">What makes Vesica stand out is not just its beautiful location but also its exceptional service and great food and drinks. The menu celebrates local flavors and fresh ingredients. Plus, prices are very affordable, making it easy to enjoy a delicious meal without stretching your budget. You can check out their food and drinks menus by clicking the buttons in menu section.</p><h3 id=\"\">A Versatile Venue for All Occasions</h3><p id=\"\">Beyond individual visits, Vesica Cenote is available for private events such as weddings, corporate gatherings, and celebrations. The unique environment, excellent service, and exquisite cuisine make it an ideal venue for creating memorable experiences. For those seeking a change from the traditional office, Vesica also offers a reliable Wi-Fi and comfortable work areas, perfect for blending productivity with the tranquility of nature.</p><h3 id=\"\">Location &amp; Practical Info</h3><p id=\"\">Vesica is easy to reach yet feels like a hidden paradise. The entrance fee is <strong id=\"\">$500 Mexican Pesos (about $38 USD)</strong>, with a recommended minimum consumption of <strong id=\"\">$500/$1000 Mexican Pesos </strong>depending on the area. We often have special offers available—feel free to message us directly for more information. Remember to bring eco-friendly sunscreen and insect repellent to help protect the environment.</p>",
-          "description": "Vesica: a cenote club in Mayan jungle, offering a unique experience. Dip your feet in crystal-clear waters, enjoy comfortable lounges, and stunning views.",
+          "body": "<h2>Vesica Cenote Tulum: A Jungle Cenote Social Club</h2>\n<p>Vesica is an open-air cenote social club and wellness sanctuary set in the Mayan jungle north of town, in the Uptown area. It is built around natural freshwater cenotes, and the venue now has two of them — a single entrance fee covers access to both. The property mixes cenote swimming with lounge daybeds along the water's edge, hammock zones under the canopy, shaded wellness tents and a full kitchen. It bills itself as a cenote day club rather than just a swimming spot, so the pace is slow: people come to swim, eat, lounge and reset for the whole day.</p>\n<h3>What a Day Here Feels Like</h3>\n<p>The atmosphere shifts through the day. Mornings are quiet and mellow — good for solo swimming, floating and picking a daybed before the crowd arrives. By early afternoon the mood turns into a lively but still relaxed social club as more guests fill in, and on a busy day the daybeds are all taken by early afternoon. The crowd runs from locals to visitors in their 20s to 50s, and it suits couples, solo travellers and groups of friends looking for an alternative to the coast.</p>\n<p>The music is downtempo, Afro house, organic house and other types of house, with resident and guest DJs spinning daytime sets on weekends, typically between 2:00 PM and 5:00 PM. On weekend nights the venue opens a dedicated dance area, and it hosts recurring event series and festivals — Ritmo Lunar and Ritmo Solar gatherings, Concert Nights, and its Santuario candlelight sessions of live classical and chamber music.</p>\n<h3>Farm-to-Table Food and a Mexican-Distillate Bar</h3>\n<p>The kitchen is led by Chef Cesar Castañeda and works farm-to-table, with seasonal regional Yucatecan ingredients and open wood-fire cooking on the main dishes. The menu spans breakfast and lunch, with appetizers, salads, ceviches and grilled mains, and everything is ordered from and brought straight to your daybed.</p>\n<h3>Wellness, Weddings and Events</h3>\n<p>Wellness runs alongside the cenote all day. The tent and hammock area behind the water hosts massages from 699 MXN, plus yoga, sound healing, breathwork, reiki, ice baths and cold plunge therapy, Chinese cupping and facials. Yoga is offered on set mornings, and treatments are best booked ahead.</p>\n<p>Beyond day visits, Vesica hosts weddings, celebrations and private events across its pavilions and jungle grounds. It also runs a membership programme, and event brands and festivals such as the ¿PorQuéNo? Cenote Festival have used the venue. For weddings or larger gatherings, the setting is designed to hold a full event rather than just a party corner.</p>\n<h3>How to Visit Vesica Cenote Tulum</h3>\n<p>Vesica sits in the jungle in Uptown, a few minutes' drive north of town, open daily from 9:00 AM to 6:00 PM. Entry is 600 MXN per person, which now covers both cenotes, with a minimum spend of 500 to 1,000 MXN per person depending on the daybed zone — the closer to the water, the higher the minimum. There is a free parking on site.</p>\n<p>Arrive early, especially in high season, to have your pick of daybeds and the quieter morning water. You can reserve online ahead of time; parties up to 14 need no deposit, while groups of 15 or more pay the entrance fee in advance to confirm. Book your visit or a wellness treatment through the Vesica page on Tulum Bible.</p>",
+          "description": "An open-air cenote day club and wellness sanctuary in the jungle, built around two natural sinkholes with daybeds, farm-to-table food and weekend DJ sets.",
           "feesHtml": "<p id=\"\"><strong id=\"\">Cover </strong>500 MXN<strong id=\"\"> + Min Consumption </strong>500 MXN / 1000 MXN (Per Person)</p>",
           "menuDescription": "Farm-to-table gastronomic experience that merges nature with cuisine, carefully crafting nutritious, delicious, and eco-conscious meals.",
-          "metaDescription": "Vesica Cenote is a cenote club in Uptown Tulum with crystal-clear jungle waters and comfortable waterside lounges. Plan your visit on Tulum Bible.",
+          "metaDescription": "Vesica cenote in Uptown Tulum: swim two natural cenotes, lounge on waterfront daybeds, eat wood-fire food and book wellness. Plan your visit on Tulum Bible.",
           "name": "Vesica Cenote",
           "slug": "vesica-tulum",
           "tableInformation": ""
