@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-02T04:00:28.451Z",
+  "syncedAt": "2026-09-02T08:00:32.418Z",
   "citySlug": "tulum",
   "events": [
     {
@@ -8,7 +8,7 @@
         "buyLink": "https://tf.link/0okn0nkt",
         "categoryIds": [],
         "cta": "Tickets",
-        "displayPrice": "Free",
+        "displayPrice": "MXN $1,100",
         "endDate": "2026-08-22T23:59",
         "eventType": "BeachClub",
         "faqIds": [],
@@ -35,7 +35,7 @@
         "ticketTiers": [
           {
             "currency": "MXN",
-            "id": "Zd0pu22QhWfHXAZcKbL4WWd7eaQKL/69HGSSaEMuHE9cEMCAkGl3Ssy166toOVe/c9124k90ca+OhHx8oEofOA==",
+            "id": "cWti/2BolYLPV1Xw1sVuSsHN8Kbkec/4yyBsCgJc5Zj/+hz8X8M4pwrqSGZDjoteIN1NP9PlIJaGAtMVUwvYUw==",
             "isTable": false,
             "name": "General Admission",
             "price": 0,
@@ -47,7 +47,7 @@
           },
           {
             "currency": "MXN",
-            "id": "liQnK+VM9B4CKVvTP5Zzs+xppZNXxe0rBeDL+vR7Wf2hVhGdWlaSs3jnKpLQiwc2BAuWsBxlJbGoWd7SrAHsgQ==",
+            "id": "79yGxCWUUGNIKmgwJiKT8hNUuFU6nf5/7gB6PnbkTGz9v5apCp8aCslf+gHwuJreLJVkOfoTnBfJEgFvuVwWXQ==",
             "isTable": false,
             "name": "DINNER + PARTY",
             "price": 1100,
@@ -58,7 +58,7 @@
           },
           {
             "currency": "MXN",
-            "id": "hK+m/5GC8xzN54AiSC3qk57YDhUUN7aHiNufBONdymoMhSlgzcb6ibAMWCgacBdQIk8sgTvNjv/6F0imJLhgYg==",
+            "id": "LvgHTClSLOTO5LK0OYTwLvUyxo4kkSrC5edAmY3pFb+BEia1n1Gr6xKXrMgGVn422jsnHB57sK8bmdL3sY3JFg==",
             "isTable": false,
             "name": "2 Hr Premium Open Bar",
             "price": 1760,
@@ -69,7 +69,7 @@
           },
           {
             "currency": "MXN",
-            "id": "EUUa//bMMya/WMRiuKBQiR/r5rAWtO3MOqlMkJT3yCiRgNpL5UZTVlNyGrBio72Ze4cOgtJTD/tcMTH4OkAp2A==",
+            "id": "iYHrC5J38PUGGh9IgU+30xtlmu6nrCToH1AdMqFhWyme45g7sPuT10HYmGVvbHEE3iddQAxKbLSnuAnY39/5TQ==",
             "isTable": false,
             "name": "2 Hr Open Bar",
             "price": 1320,
@@ -113,7 +113,7 @@
         "buyLink": "https://tf.link/7sv39zwc",
         "categoryIds": [],
         "cta": "Tickets",
-        "displayPrice": "Mex$240",
+        "displayPrice": "MXN $240",
         "endDate": "2026-08-23T23:59",
         "eventType": "Cenote",
         "faqIds": [],
@@ -137,7 +137,7 @@
         "ticketTiers": [
           {
             "currency": "MXN",
-            "id": "z1hs9lkSyzuFj7TQmRuV84pv+NvJumGSFsMFv9/d3kZtwGoDMZUEEeRMO1fNDx8FeJGKooKEV/bpXnd9d5j50g==",
+            "id": "9B45krnJSae8mOoMhFMh5dMs6B+huR5X5bGEEruBDIJCMevJCTIaTro9cHsLYyMvfPkR9FKe9WFnMyfRnso0wA==",
             "isTable": false,
             "name": "Early Bird",
             "price": 240,
@@ -148,7 +148,7 @@
           },
           {
             "currency": "MXN",
-            "id": "4kMjQ18PftKLc/MsmHKg3qa1dTbm8ndaXzRp5YhQUi9fOBLVbu2sXD0zg77zOP5kMVx2Pbpvor1sRo6sJ3sGtA==",
+            "id": "r9JE46GGoOLkYto7gW0ril91Q6IYSTCFJO/JKQFT7CBBcXL4e76qBs3vZ5cuvaxdcGdowrUv0R84qHPIhaR/hQ==",
             "isTable": false,
             "name": "Concert & Wine Experience",
             "price": 390,
@@ -192,7 +192,7 @@
         "buyLink": "https://tf.link/4hbncthk",
         "categoryIds": [],
         "cta": "Tickets",
-        "displayPrice": "Mex$550",
+        "displayPrice": "MXN $550",
         "endDate": "2026-08-28T23:59",
         "eventType": "Cenote",
         "faqIds": [],
@@ -217,7 +217,7 @@
         "ticketTiers": [
           {
             "currency": "MXN",
-            "id": "LSvhUeCe13qKKa9szXgb2rklN3VrzcNl4YbiMwAtPdrOuwmhDkCLszX3+OHndN9eqdm4n2KDJ7Z/yZDEAvL9vQ==",
+            "id": "Me6IpV6ctOKnsDc8mRM2biU8+s90AkcDH4qIM37tG6SFIRRwYFX1OSIbisQXk9gANIbJ+8kqzfXdkCzuhmWmMQ==",
             "isTable": false,
             "name": "General",
             "price": 1100,
@@ -228,7 +228,7 @@
           },
           {
             "currency": "MXN",
-            "id": "lCIjPPiFUkm6hgcG51+zvG1zTlgNb7BR3/pv2rWPu/b3bIjCruUq+9SMYMdQab/2n0h1LWHf99/atnGMdWYqbg==",
+            "id": "YTQL5ECkyoEM4d1mz2dIgczkM8wuFBu26QYO4gi8qtBI14etPT6mdQJvHbmwGojPNIDubzK1JFMoMLiucXzTNw==",
             "isTable": false,
             "name": "Local",
             "price": 550,
@@ -296,7 +296,7 @@
         "ticketTiers": [
           {
             "currency": "MXN",
-            "id": "yAa/gP66RGdq1BKZqJ7CjqizjlOyqiz8CLngeTCCzIBVjgShOtfWqmFdQqkleWZE3kAEjkJ8Jcj40sp+Ga/tNw==",
+            "id": "pMOx/Ujfx+f20p4TiF7+FYXYlPQkUo+8nGJp2rBVOeJyJWeiEWBnQsvOoHXBFLO0QPtUX+Ys9729LaTyEWHi3A==",
             "isTable": false,
             "name": "General Admission + Mezcal & Beer | 10:00 Pm",
             "price": 190,
@@ -307,7 +307,7 @@
           },
           {
             "currency": "MXN",
-            "id": "7P2oI8A2Rn5k9GVUxRaZWp2Rm2xy49aFIsh2wsZblK37KMbx8MFrd4HHVGJ3MKRCO1KnOo9sT71+muhG+hA5Kg==",
+            "id": "+WMTRvwqXpHJSfmjyQJUtXcO+daj2BW6o23J+s8emTMy3CK+elOLPekuebrLyyUhxnZXw8T/EJV0NcJk4FPDQQ==",
             "isTable": false,
             "name": "Dinner + Party | 8:00 Pm",
             "price": 935,
@@ -318,7 +318,7 @@
           },
           {
             "currency": "MXN",
-            "id": "uH5zApSvZtaBhudeh1I950Ug+fsGhoo7jp4WdaFdf27NbomvLNj4ikYLOTXDe/qjAGSaxalfTJXOFkWFvGe0IQ==",
+            "id": "w+3WKNIMS5A0lSdW52pp4NcnjeqQxdU0hQ7U8XWAx34ZIDPeBeU+BESkKp0jFQ3zRq6fzZWsQ4xmq7GlP8o8pw==",
             "isTable": false,
             "name": "Open Bar | 10:00 Pm",
             "price": 1650,
@@ -329,7 +329,7 @@
           },
           {
             "currency": "MXN",
-            "id": "V6ZQhhrFqBOOopNvDBGdSx9pDS3POKy+6BCJcTnfbph0QvsFynjOEmIUU4UdwLba7xqJs/2iearUXb/Xhp7PJw==",
+            "id": "4yhJLOC+EK0GewJve8QMUHniSravsruuBXx+KzC/awo6jfwerdqdsa1cRvZK6e+Q7dXAM6JmcH8izS5SsDHdTA==",
             "isTable": true,
             "name": "VIP Villa | After Dark | 8 Ppl",
             "price": 18000,
@@ -340,7 +340,7 @@
           },
           {
             "currency": "MXN",
-            "id": "XVfDlKTZxWtuPQdIgUdZ5uANNVw0JOqsWWbiIjj+J/d4sKklP3HNgmyISg727PG8pO7Jv/p+5u1VFgqoJaJATA==",
+            "id": "H/BDs8srzIzWp5U9cdDXrrPqj74LMUMxi65f0B10hlkrUMan+q/oRRpmStt/z7LB7MP1AYXbQ1CB3snkh8/ZdA==",
             "isTable": true,
             "name": "Back Stage | 10 Ppl",
             "price": 25000,
@@ -351,7 +351,7 @@
           },
           {
             "currency": "MXN",
-            "id": "MrjEwL0qxiAKn9wQBfKF3zzxVcZ2VwEypolSoRgEeYmpp5ryogrboIWJoCfwm3IEO2jWezkvbRbWjcIHdsOpaQ==",
+            "id": "cW4p/VMBwDluEfHPccAxWIVOemGX26zextv+pXQGrAtdM/J9CbYXfHJb2Gy7GCeCoGNlGj4ogHSq9tfw80fL0A==",
             "isTable": true,
             "name": "Black Table | 6 Ppl",
             "price": 15000,
@@ -362,7 +362,7 @@
           },
           {
             "currency": "MXN",
-            "id": "sQvS3rVa7BTsDZLaOl/ZHOqLab0BCGuw6gP31vUJJOaoivbK/93AT6U2YuQ4MQT7T0akiX3StPctVtzQ1tFZqA==",
+            "id": "VFbJXgJ7s7ih6XfrJid7sqt26apMPGrsT0qE5yu4c4hCKt+UK5mkS7n1dR45Wz9DZoUrZG8okkzLGq5e3lRWuQ==",
             "isTable": true,
             "name": "Premium Lounges | 6 Ppl",
             "price": 10000,
@@ -373,7 +373,7 @@
           },
           {
             "currency": "MXN",
-            "id": "n5xRcgJBUjHni/qpUcWwidDOf+2bT+npBlDP00LCu3Z3opVoRDe3DyZJCaxp0TjFcF9PouxNQSw+/WgDtnsMlQ==",
+            "id": "t4aSLJR2nk9QbSkC0QQAJ8OURp9VEnmnV+jPe7Q7YWLh8YLj2DWxaKXY6A0wjxRptCWY7+6EBY9T8pf1c4IYRQ==",
             "isTable": true,
             "name": "One Night + Mera Room | Dinner | 2 Ppl",
             "price": 3190,
@@ -646,7 +646,7 @@
         "ticketTiers": [
           {
             "currency": "MXN",
-            "id": "qDO67yd5tQ4Af1y3ArpJ+J3ZIypuKC5qh1GlpCqL1HfqxHBYAjcL2z3x4OBgZUoEs/PGZ1SsKMkfLCdU3WFAQA==",
+            "id": "Q/fLh3LD5SbmKvlw77hr6tzUG9YBPmnxn54H/yHTfQaGYQjGHHhqSqonUK3lT2BM1ArRO679MQF3+6k+VbriOw==",
             "isTable": false,
             "name": "GUEST LIST",
             "price": 0,
@@ -658,7 +658,7 @@
           },
           {
             "currency": "MXN",
-            "id": "9MYt9BXKK30XuvRO+227aCa+rpXK3z2i8hEsmQkVtZLEpys45lOmnfIWj2K8y8kTnfA+oJiDWGeOn8dEXJMA7A==",
+            "id": "B+5KOu9KnFWfJUULR1FBWYwTpU72bu0xcY/WAlZUifwNBFt8QGOw2j5poErjCCKR/Rhg2NqL1lTHvhALZE0pJQ==",
             "isTable": false,
             "name": "General Admission | Welcome Drink",
             "price": 605,
@@ -669,7 +669,7 @@
           },
           {
             "currency": "MXN",
-            "id": "vAzQmqqsudcNvK5a/5QvZcLadWJ4ejGhnqWLPlv+8/GaHjm8KGICTaX8Iz/uS4xwkG6zUNO6YF0PyD7YjjPfUw==",
+            "id": "TLKqHF1NlyDXUaLvqgyMsK4m5/9gNKwd7S9wxy5B3M/WR5+TX1rcrkXEkZCM7b7Wxmv6cM6GExU0kmpPOmi4uA==",
             "isTable": false,
             "name": "PREMIUM OPEN BAR 1 HOUR",
             "price": 990,
@@ -680,7 +680,7 @@
           },
           {
             "currency": "MXN",
-            "id": "fHaJZkYlG5zodV6vKwbbejE0yE4TdPDRO1m0rUBXYo4VX8YI4xwm1ONnKy5Bd+4GFX+XbrRqG9W+e+5eUnGf+A==",
+            "id": "JljnrUNgkHDiHbLhoB8AJCQ2ynhiFyWLY2axqgA8xu/FTtjnh4cfcZKdcMqktYjfHBDkJ0Vl9ptMhV0J1RZ/Tg==",
             "isTable": false,
             "name": "STANDARD OPEN BAR 1 HOUR",
             "price": 770,
@@ -691,7 +691,7 @@
           },
           {
             "currency": "MXN",
-            "id": "KKVngw+clPdpc8KO5zwr5BuV41YfaZ6Pf+LoQiIpzfShvK4x4UA9AU6t5BQpP9Y61w4jP4zAthcWPbkM6fiINw==",
+            "id": "AcotVvjxJTuNArf2FUQ8rJC2jAAJQswS2zK44cKSDuDp+3MdzPmGRKgJRUnfMM0XiVmIzJJ95TQbhfFetK3Z7Q==",
             "isTable": true,
             "name": "Bottles & Bites",
             "price": 3300,
@@ -702,7 +702,7 @@
           },
           {
             "currency": "MXN",
-            "id": "M3MSybnSDHjxcF9h9XJqibxflsmWGurIndpk2XLuTdCq7p5DZmSCjt6CHTtLHb611xf9uKOBZCzwaWN5IchwyA==",
+            "id": "izikH3JimyRv8aWJjOGHiopMjoT4YHGZ3DBN0c8fqVMCYim7rgMEcjGbV8P9IyWTv9HOWcCvagLKHAy2wQ+mxg==",
             "isTable": false,
             "name": "Dinner & Dancing",
             "price": 1925,
@@ -713,7 +713,7 @@
           },
           {
             "currency": "MXN",
-            "id": "JUv/EvEpj/rsStlMkhhpkzPwiiqgaTD+Eb/zopwoGNp/w9vmpNK31pmkbSqa8N/b7FlsNOedGXUG15T/VJyG+g==",
+            "id": "T5wKanTrXpLasTeL5S74+sy9Ih94PzvsBwStoIZwI6oBzxCogSnk4YAozaS2GqqB0ah7+XoiO4K+IFg1tUK9Ig==",
             "isTable": false,
             "name": "Gold Section",
             "price": 4400,
@@ -724,7 +724,7 @@
           },
           {
             "currency": "MXN",
-            "id": "DwsN1ukTC5mQmdcQw35/1FQX1jkpVFKxpVR/ugGdnjGuVGmwOJEqDkPnZoKJ5aIdjP1znAWshi61H+eFoUZ8zQ==",
+            "id": "3V/iCMhj9qRlSszx/2OXn+mmPQudrBunFAj8NlNQ8igWYNdHns8UiHudwHgozmHeeB5VNQAIYKvbBAhv8Nj+eQ==",
             "isTable": false,
             "name": "VIP Experience",
             "price": 6600,
@@ -792,7 +792,7 @@
         "ticketTiers": [
           {
             "currency": "MXN",
-            "id": "OK+/PfNincBnSE6PhGQ/AkcjupYuAyFB3g7ffemakeIPe8sHGWCh5BKPYBEQewYwzOt77jo+q0pa0uOZ0jhegg==",
+            "id": "ZpXmCBUXvxm41U3gJX0rnrTq82WwbDD3wEDa+0AtSCw3yVTglalL5j9p8NctUD59jtpxbjZUc09vWlhkK8+Cig==",
             "isTable": false,
             "name": "GUEST LIST",
             "price": 0,
@@ -804,7 +804,7 @@
           },
           {
             "currency": "MXN",
-            "id": "KIY8eUv9f9aW/VNdYNHu8qyFlNHlB8oVFWd++VWIk7cgbVgDU8bnYTe7GC6MXCY6ROZ5/HJJIMzJJYaSZldGeA==",
+            "id": "4KpdlZw3ob+bifMqp88PzLqsG9ty0eRD649ZnIAxYGbfnTEQZGK92H8xyTYEPO/IRg104u87NKp0xZBxHeollg==",
             "isTable": false,
             "name": "General Admission | Welcome Drink",
             "price": 605,
@@ -815,7 +815,7 @@
           },
           {
             "currency": "MXN",
-            "id": "y3qrWifWrNLa9dBOakO/7vJKE2q14v4SvbNIUY6+ElcHtYIumm+iR4onZ8VPPK5cg06ueVR/AgdJwx2q0TsYIQ==",
+            "id": "7yZC3dqFdbZU94HsiE/WU5v5WDE63PbeLlNl+uIp32U9Vaj1G7rSA8LIhf+pGhgmnNq+WbCZmQyWe8b9jw3zig==",
             "isTable": false,
             "name": "PREMIUM OPEN BAR 1 HOUR",
             "price": 990,
@@ -826,7 +826,7 @@
           },
           {
             "currency": "MXN",
-            "id": "Dt4xWjEzJYM0QXQLFEIAiw8NTDh+blO3xh9xzRFBi4n3YmV/9GH9FDmeoWGPYpir2rRrD637KrsS61HnWUmm/g==",
+            "id": "21yGrGX13yjuRfgsNP5Umm/tgRNgSdf7wpQUdopYiCtndEGSk+0gORXfrbOMbQVtEh2xJ2hcJSxanns62UEtnA==",
             "isTable": false,
             "name": "STANDARD OPEN BAR 1 HOUR",
             "price": 770,
@@ -837,7 +837,7 @@
           },
           {
             "currency": "MXN",
-            "id": "cJso02VepzWzNTzDShxibMBtIO6/pbL1tHy1DW3Kcs7iotp5DClpQ8l9uYCD6KucqkqDstNRgv2w7uqNwVWFww==",
+            "id": "a+3cch7sEHobxYBZBeSe77kjZnrydCgbvwX9BDv3cTtOiFhuZlOiD9QjMwM0pUqhwashm8r+4NO/cK4PvldiRA==",
             "isTable": true,
             "name": "Bottles & Bites",
             "price": 3300,
@@ -848,7 +848,7 @@
           },
           {
             "currency": "MXN",
-            "id": "2OJLhw6UaqJgas1dKVEqQIaJ7jn2eAYSq7TCxIhFCTA8sNIIT4WAjusnL1esATUEHeeIbxcp4dt6gEHMib0cmA==",
+            "id": "ew6+aPtnpWs3b7VN6XKiscIWPOscgyt41oEItALNEmAH7A/FQ3rtsOyjZgIvN8fYc470TBq/jTyJQtv1G4FPBA==",
             "isTable": false,
             "name": "Dinner & Dancing",
             "price": 1925,
@@ -859,7 +859,7 @@
           },
           {
             "currency": "MXN",
-            "id": "04QYFJkZjtroW6YGoAsKGvfnIXWwSAUOT6TmPU4smyt0wh+BaK5+MWpKcoZfY13Ok2ynqOyFA7uUw3QT+BIYNw==",
+            "id": "UviXhXraFuF7r8+uY0cEXKFPvOGC9HXC/HCqUynCQMvR033KqO58OqNWTQ3UbEMGwM+bex9FnoVqeYUFxiuOtw==",
             "isTable": false,
             "name": "Gold Section",
             "price": 4400,
@@ -870,7 +870,7 @@
           },
           {
             "currency": "MXN",
-            "id": "d1+Owmneqcsz7qiNbivHannrS9HwaZ4Psqcki0X2ultakO7k5NE/S05ZEXUFS1lUyLy6DHxNM4e5td9WuCyUOQ==",
+            "id": "EeIKr8302BKOF6Ew87i4ncAYBFRpDabzegsao8YfGr/ebCSMwrVeoMtpE+dmH/788InR4fG33fe+9DoRgf8LSQ==",
             "isTable": false,
             "name": "VIP Experience",
             "price": 6600,
@@ -938,7 +938,7 @@
         "ticketTiers": [
           {
             "currency": "MXN",
-            "id": "x82DcK2SOLL2mEh5wF1jf6ChFdXkZqJcKPU5Jxqv3lJoffMcMSHX6kCVVB/gMin1XbHkxQOjrzTbPuA5GzXxqg==",
+            "id": "MXOTP03kHoDVnGURKLhHZ5WwlX8PHxRqgi24uIfGhX4fBkJlr+m/IPmoymU8KtyHeZe5oj6nbl9Khms6EHlHWw==",
             "isTable": false,
             "name": "GUEST LIST",
             "price": 0,
@@ -950,7 +950,7 @@
           },
           {
             "currency": "MXN",
-            "id": "W+DW2gGvU/6AEe3d4xZQ/VLu7EJvSLmoI+QQojej2Bhn4oezN+BIqC+4aeWCeV5LtKFNymzk/pqX+lXs+5l4ZQ==",
+            "id": "YVbIMtCryZe7xJ5JcLE2jj8lCrPKbcsINN8f/4SHd2IAQza44kW2a6CPGcCwOrsGHrex6i7+VsxonugUfXDNtA==",
             "isTable": false,
             "name": "General Admission | Welcome Drink",
             "price": 605,
@@ -961,7 +961,7 @@
           },
           {
             "currency": "MXN",
-            "id": "XbNRysRLz1SDz6bHZdjEhG8qvmozAZQBzd9oMPHyzBhL5aOpm3uqjoNnA7v3M3R3g1+/9NB/Ux/T3kGGdoxxrQ==",
+            "id": "G/X2ffWasjr4MPy02PpY9TTd8k0hINd7Wbsefgx6NC/DWlymXruRbRYkslGLHUAzmDYudZ13bY423qNSgopRxw==",
             "isTable": false,
             "name": "PREMIUM OPEN BAR 1 HOUR",
             "price": 990,
@@ -972,7 +972,7 @@
           },
           {
             "currency": "MXN",
-            "id": "vJIOaSACNK2igwaQXt0HMrTs83ZOZ3UY1a9jXGiSoAnXTY3F5EiUFEVNmmfOlfnIWDfTTeU9VzPYs1F76zk+PA==",
+            "id": "v7zLHUqUCMvvrhnTJNwutqE0MbtJHcCl3/hRJjQLyrzn5gxnCvWmmO2tcDI2aKVIgWwg/C9lXHj+Kw7JOH2WlA==",
             "isTable": false,
             "name": "STANDARD OPEN BAR 1 HOUR",
             "price": 770,
@@ -983,7 +983,7 @@
           },
           {
             "currency": "MXN",
-            "id": "P9U/oXznp9TmP4TqHYP36DSZDCz6QvxVj+lqyEG1KCgcZ64ZHza/FQv6TgNyCnrlerOmbgOg/D28MCUXRHErSg==",
+            "id": "/LGwkAth/jGi43L4CmbQwz3YnJtshAuZ0Nr7fhZRftmbiG+mdoinbS0v4r7oktF/LROx8bnHOeP8Lpq6CusPIA==",
             "isTable": true,
             "name": "Bottles & Bites",
             "price": 3300,
@@ -994,7 +994,7 @@
           },
           {
             "currency": "MXN",
-            "id": "VrHJStrcpY3/CNp55JRSl+E59evyrLLRUxyz3Wf696OQJUV/ZwZcHfZtnPE4Uftj8aYyfmLyR59kECc50nDOxg==",
+            "id": "3OHBgZIJJiFLR4QjudNxTHhFjkyuJ+tFqTtS+1nzW/nEdmPQJD2wDi3RNtBylZNoFkgvvznAV+Y/MEvhybnTNw==",
             "isTable": false,
             "name": "Dinner & Dancing",
             "price": 1925,
@@ -1005,7 +1005,7 @@
           },
           {
             "currency": "MXN",
-            "id": "Feow+h2QJOcqxhAsZAzZv6WyQu+nwRG59qgI1KXcwB4Ap/VpXybNNcJf2CVcqu5f6bwfFC2qgErboGlA8B5nVg==",
+            "id": "yShY4Gq2eT+gZCrpTn0NVYlAYx34RPdGzbo/3gJxw5IbADUaswkN0flvIYVAtxLTf6io0YZ8kHm0uKxlLAvp+A==",
             "isTable": false,
             "name": "Gold Section",
             "price": 4400,
@@ -1016,7 +1016,7 @@
           },
           {
             "currency": "MXN",
-            "id": "2Gv0OcfIAiAXoe5DcwDx2whRDGr3fXU/zpvHSRo891kcOhq8ZOm9aRme+y8fPYI2zKcR03AY78ZCQbEoqq2HHQ==",
+            "id": "dzNmXrgDb5O/p6iFPEib4vr5DhCoj/+ZAIDczXXEBQ09pc22+LCKSKifpVqZbOm8/42bAJEq1P26ptsN+4MPSw==",
             "isTable": false,
             "name": "VIP Experience",
             "price": 6600,
@@ -1084,7 +1084,7 @@
         "ticketTiers": [
           {
             "currency": "MXN",
-            "id": "aMGolI6sZUSJmu4fxQmF2fBMwO4DuFpbwkaI4kwjB9ZFda3BiYd7AEFQ++hAMY8LlK78XIJ6FHeGgEqeZcje/A==",
+            "id": "Yl7M4tF9QVuHnE3KNlgQ9S0bklJQBHFpHFul1iBO6M7NprTAAdX38EK6w+1xriTh7zl68NLLxd2K8+wBV+1QKg==",
             "isTable": false,
             "name": "General Admission / Open Bar",
             "price": 6600,
@@ -1095,7 +1095,7 @@
           },
           {
             "currency": "MXN",
-            "id": "CYEBFwJKkiVHc+JENWz+XiuYXTQyp2HIcBBhJNxRGyuZVEWm3wRtN/UY4HViYWIggh0TUgGXZ1tMS1cjVZTw1Q==",
+            "id": "UzT7wDaTmot/ZPACJnVOrupIz2CK7FNoncJnnW08fmVuBpua7fnrNXOnuOM4unFRyr26+wr7ykdntnTj/1dZTA==",
             "isTable": true,
             "name": "Dinner And Bottle ServicePremium / Lounges 9:00pm Seating",
             "price": 14040,
@@ -1106,7 +1106,7 @@
           },
           {
             "currency": "MXN",
-            "id": "iIaeTnmuoHkkRG6PqHacB24uAcxlMN1jMrq2CnM2kdD9+PyfYnf3igk+DtmBXiyQybj3wZ81mhnhOU+TaaK3kg==",
+            "id": "H9L+lpTzQCaRM5xb6OQUAJoyW5CH+os4W3HdSI9VuMKyjL2A4MwJfzKfC+R2+b6br7FM5ffX932O4seMGkbdwA==",
             "isTable": false,
             "name": "Dinner And Dancing / Palapa 8:00pm Seating",
             "price": 9680,
@@ -1117,7 +1117,7 @@
           },
           {
             "currency": "MXN",
-            "id": "sfv/geyeXStaK6sIHmjtN+FtGAFO0HQDfuki8AmnQOd63CLVH322hQcGEDI1ULWCAnedCPsPLuDuDsY3bqt96g==",
+            "id": "ZgbwwmNrMdkpxb7TwkQCYuyhnbq/0zaJWwQqm5kqfD01F2HuPujmPDa+mDrMMBPIIVfAeoed0kiRmv8N4lu/Cw==",
             "isTable": true,
             "name": "Dinner And Bottle Service Gold / Pergola 9:00pm Seating",
             "price": 11880,
@@ -1128,7 +1128,7 @@
           },
           {
             "currency": "MXN",
-            "id": "fPlb2lMffQh8QZOig6pT3/cIPTRjltXmCQVfhY54KyIBrJeXOe1pf7b86FBuB/u2XbrWGoVw/w1ilDZySneSHg==",
+            "id": "IsvxSOUSAWCbeJRFSFRyGe0k5fRd5o6P/nJYEtaBWcOqxW6ON15Asdpoa27DkAfFyv/D67tXokhZ1TM6enN2tQ==",
             "isTable": true,
             "name": "Dinner And Bottle Service Black / Cabañas 9:00pm Seating",
             "price": 16200,
@@ -1139,7 +1139,7 @@
           },
           {
             "currency": "MXN",
-            "id": "2LeQ7MesjEvI4QDstr1DOOvVlDpv4JJUkuQE5aeRqJ4sGobASYLeaBvdlvMdXMfzuB5PU+a0DRmeIImE2gDwJg==",
+            "id": "oP4DjU7ALrScTHmdYQRXwBP4EaHeexU/s1RPk+UVqhIKkM4iujf8e6HYnbGKD6I2y5CPwOW8PrcZ3h6SzLdwig==",
             "isTable": false,
             "name": "Ocean Front 6 Days / 5 Nights",
             "price": 107568,
@@ -1150,7 +1150,7 @@
           },
           {
             "currency": "MXN",
-            "id": "IrJg3WfL/vUpyMvwiiPGdsu2zp8US0nNwVSG2YOpxzGhcK20R7++/ykl0bWx3Fl/kE79cBzr1lANkR81u6imJQ==",
+            "id": "ZnFaQTiepHSlzX1hIlgEulkl575Rs8czQ47YxwGMFvuRyRZnTaNwy7olMS70zFaYmWc5sMoWayjM/Mv5pb0rDA==",
             "isTable": true,
             "name": "Villa Package 6 Days / 5 Nights",
             "price": 129168,
@@ -1161,7 +1161,7 @@
           },
           {
             "currency": "MXN",
-            "id": "JROpD92n3FHOhHeElP4LTVSw9pIISjWzLa/2JlLqh5cu35Q6vde4lTMxTXhZOCGPXbZ/UekppfQ/HYIbGEQ41A==",
+            "id": "qrjcoDo0NVR88yu2KU9LjhGrjX5J5fmp4ylsFSDYDyBgi4LPf+iAXm3IXEfXWgzMibkUD2bvnpNPYJVs+4/Hqg==",
             "isTable": false,
             "name": "Ocean View 6 Days / 5 Nights",
             "price": 96768,
@@ -1172,7 +1172,7 @@
           },
           {
             "currency": "MXN",
-            "id": "kaNTPwc8wYD90gff0Gbex09DcYbMIMiSw8VHZJSfJPBiDOu2pf5WYemDehFMcdo7mzPHgBr8Ws5mLhVgxSP8Pw==",
+            "id": "9yxHA6DdoIUXnXfgLVAAkhdIGRS0emv/tZUwvCMi8JEfvqYj39U+F4/fw+BSR7c0Gz6xuK6c0rZzSU1WVzPbxQ==",
             "isTable": false,
             "name": "Jungle Loft 6 Days / 5 Nights",
             "price": 85968,
@@ -1183,7 +1183,7 @@
           },
           {
             "currency": "MXN",
-            "id": "96dRfoed9V9PpSBzW7rZEaYfPGyv7sAphYWLMEpWNmTJ6y23LhqUEd45PZtMSFUQSt5nY/a9S3jO9OYosWHm5A==",
+            "id": "AJn/s9fvuVQfCejju/KyuMIXjvdnYQrEcaB1BMOVOEwO3CpdWQGMlCxFacIceBN6gnedJ6pBaBY7V759805p4g==",
             "isTable": true,
             "name": "Jungle Suite 6 Days / 5 Nights",
             "price": 85968,
@@ -1251,7 +1251,7 @@
         "ticketTiers": [
           {
             "currency": "MXN",
-            "id": "7IrCE2XSplEgwA7qOkUjBGpes8waRo5+5nReYloFJ5Z6+y3FReRrzs8B/47cDg0QVF2C5On9evS6BVzrjPx0OQ==",
+            "id": "Y9B/QOEeEu6t4EDwPyKd35c0RHNHklyL5DWfElS7owP7gmKYLp0tUomPUIn3SJpiofsTGO3PCWt7UoDyY7sfuw==",
             "isTable": false,
             "name": "General Admission & Open Bar / 10 Pm",
             "price": 5000,
@@ -1262,7 +1262,7 @@
           },
           {
             "currency": "MXN",
-            "id": "BVe2gWQwFwwaslh5nbjevclk4/V3b8IhvOvE1NeL9pZjicX2tjiXzSwYFnJOwwIskFlfqCizzodORDqhgLGIPw==",
+            "id": "+BtE6Jz4UlAXcRJ1Tmu22cUzoNsvBfpZnRKANc2fmIVkn88Q8aqyJzOnNPSzhGGVBmmlbI+OvKtcd9z4wCQnOA==",
             "isTable": false,
             "name": "DINNER & DANCING",
             "price": 9000,
@@ -1273,7 +1273,7 @@
           },
           {
             "currency": "MXN",
-            "id": "3bWahoGiL0ml3/4HKdkJtXHcOoD5pKgk9bH1dqHbqB7c3ZlzJTyxu5m/L3vkh5aqscBhxDiHV6Q+HPyx5CZiyg==",
+            "id": "E2MPGrsdjFmCvA9Bp3deC6OgO0ef/j6sMSSC2vfUfQoArNpYgfkxlsYn27MjafQ+aX30KMHIV7N6climEZsThA==",
             "isTable": true,
             "name": "GOLD DINNER & BOTTLE SERVICE",
             "price": 12500,
@@ -1284,7 +1284,7 @@
           },
           {
             "currency": "MXN",
-            "id": "AngTx9DJmThiephurg/Li84cBClUyGqpIeJ9r0FgQYedB1WNz1Cj0ELSI6/K4MqQvWXv91NR7+zVBQ0V6hA8Xg==",
+            "id": "LS2W+dv5oInxwE40ZTJJxMXmsBDWLufvLTLOK6IkhG7QcHuIoac4F0GT1DBn7Tfxvrm7APX/R6WWYgGACey8vQ==",
             "isTable": true,
             "name": "PREMIUM VIP DINNER & BOTTLE SERVICE",
             "price": 15000,
@@ -1295,7 +1295,7 @@
           },
           {
             "currency": "MXN",
-            "id": "hD8wDlMdQdlFDXdHpEMqyt9/r81IQFwYt03FZ+ToljJGuG9Fmo6XhrRA7GuzhfwsdZGl2oY6r4HyeEWBT88cWg==",
+            "id": "YHXSi0uBj2f5KS5QRUllWaUiPhavlR28qFLXOBcKGVg8BW8d2PVNTP1gJVO9ojk0rbMhT0Kq9Dx/4jz6t+tw8Q==",
             "isTable": false,
             "name": "MOON ROOF VIP EXPERIENCE",
             "price": 8000,
@@ -1306,7 +1306,7 @@
           },
           {
             "currency": "MXN",
-            "id": "gwzZHRIgXW9x73X/n5npGB/wBMwpNxnc6KhOk0mXb+JQJugaD/03FbDGIkW1ATKnMzv4kMVRMNyrQxKXOllmaA==",
+            "id": "rrzs1nuS2IvZoCayL8n3DkzgZhXcbWy8PEzQvUiCiePrp+xc8lAZdPOpHDbTJZNnqt1e0FXQg+UHnkWoqvVzfg==",
             "isTable": false,
             "name": "JUNGLE ROOM VIP EXPERIENCE",
             "price": 10000,
@@ -1317,7 +1317,7 @@
           },
           {
             "currency": "MXN",
-            "id": "7kWeEkQZc4dIB/mXoK4j8tYv2wmApg5wLyjiyayPiZvxiAxosxz8gJBkFsee7cCQwpNtk9rTPiZN0FT2QJcKqw==",
+            "id": "NVMO3XXUjuZBrSxmmIuThbkZWnNc7XRscJyLZ90tlW8GKNKUb161Owg7PnjpiuUT16SC9P8qxObmXsoJLOIazw==",
             "isTable": true,
             "name": "VIP BACKSTAGE & BOTTLE SERVICE",
             "price": 20000,
@@ -1361,7 +1361,7 @@
         "buyLink": "https://tf.link/lrwrvbh2",
         "categoryIds": [],
         "cta": "Tickets",
-        "displayPrice": "Mex$390",
+        "displayPrice": "MXN $390",
         "endDate": "2026-08-29T23:59",
         "eventType": "BeachClub",
         "faqIds": [],
@@ -1385,7 +1385,7 @@
         "ticketTiers": [
           {
             "currency": "MXN",
-            "id": "pkRsakMWtbSc5bx4FS7V4QeCaVvoODQ4hqiHdQCTb1VAJrgoUJfkBoZiMUNEjKnPZTUnkvDq2pdtTA/kpsbokQ==",
+            "id": "dEGAQ39+/t/Cp37eNQrzdQwXWQKOoPOJzzUB+x8NZ2wBE8Gyvk4JE4FEJA+EGsbSmg9YTI1l4sgHrVBhpEwr6Q==",
             "isTable": false,
             "name": "Guest List",
             "price": 0,
@@ -1397,7 +1397,7 @@
           },
           {
             "currency": "MXN",
-            "id": "QxUuwWCUdxpGdC4UAPe1lb75MO4VqdkvAWB4f8xSiIfvXEUzcVG04iogD4tHf/KXlWBcls7N7sReYAVl6EPDuQ==",
+            "id": "vBYCz7aXUjvQ/WvD/Cr/rc/1BC4U+0p1vRMJhQYD4r57Z2uEhAAVPIL1kL1bQNk/Yz0yuUMZuZt8J0NIycFuUw==",
             "isTable": false,
             "name": "Local Access | Early Moonrise",
             "price": 390,
@@ -1408,7 +1408,7 @@
           },
           {
             "currency": "MXN",
-            "id": "OZQTFZRzSXjLNHhJhxfNHT7sh99SWUnDg9iMScvQrM3zQna99SDDdLmk827w0z9P3AkDLSuaovabpQqFUbz89w==",
+            "id": "qVYwZD8TFwXdkvA8eKRa3Td1OFn/QcpqhN8kuD1KcFbtdUg6uK4o3Kxrce17XD0H9L1kwwlqZp8Fh/C22APyxA==",
             "isTable": false,
             "name": "General Access |",
             "price": 1100,
@@ -1419,7 +1419,7 @@
           },
           {
             "currency": "MXN",
-            "id": "O8WAocFmKw5CMZ3lu4QyViad1+76fQ+NpSAlDkMF1t0pNd07RaiRkX/0jzVzqBdHCkT3gw7L0zkyvzDZ3vtm5A==",
+            "id": "bOjDwdylPcaOJI/CJ8GemqobO3c9yU4+c8IE4lKbXMyFWf2P+T9Nu7/DTqIMxxrsKxElJFONU2SQZNDRGKY2wQ==",
             "isTable": false,
             "name": "Dinner La Luna | Early Moonrise",
             "price": 3300,
@@ -1430,8 +1430,8 @@
           },
           {
             "currency": "MXN",
-            "id": "6mOJMPeLrI5qN1h80vfNVyhn5XnTItl00LCLK/bQSBci8KpcEo6zMdzcvc918LR0UHQE2Q6VwtR9rte9lam/4Q==",
-            "isTable": false,
+            "id": "d8HcN+uGx61QhRLVWOl44l7ceKcrc92OOzC7B2Dr6DyrVXOYzBWZiQiHPsD+07Bw5Ias8qH/T32PQVXRMFlbFA==",
+            "isTable": true,
             "name": "VIP Party Villa | After Dark | 8 Ppl",
             "price": 12960,
             "priceWithFees": 12960,
@@ -1441,8 +1441,8 @@
           },
           {
             "currency": "MXN",
-            "id": "u7YHSNPmmWafKiql6CYagfK0V5i4GEkgODTd2H3t6RyG87SMg7aJTSIrnZ2evf6ly6z9lstHYOVvZxYVDvqujA==",
-            "isTable": false,
+            "id": "fXfW7ZU2S9oIBFzEvSokIhdo47v18kUG18csOQhC1Re9cdLiGS+4WKZCVVOeFWCfKLFuygnybxerz/uOTGILoA==",
+            "isTable": true,
             "name": "Black Table | 6 Pax",
             "price": 21600,
             "priceWithFees": 21600,
@@ -1452,8 +1452,8 @@
           },
           {
             "currency": "MXN",
-            "id": "xyLC6ExowQlXP1YGu/gZtGUaG5jTwzq1X+uRJVLEM8ALOCabTy0JiSs4dDGRtuKpcxzt1HfBANaUzzj8jZulRw==",
-            "isTable": false,
+            "id": "W4rDRtqYMIB93NApoG1LTfK7p+5wxuU7bZetym0DazABnwCFxJ5/+5zaR9JC5iJOgwX3YoF+m276GD+9VdL+Zg==",
+            "isTable": true,
             "name": "Gold Tables 6 Pax",
             "price": 16200,
             "priceWithFees": 16200,
@@ -1463,8 +1463,8 @@
           },
           {
             "currency": "MXN",
-            "id": "9yTRL2WQrHv7uZZ5qAei8X23mPoOEt5y8f9le4LQJWv8g0p63JQfHEsgomts3NrCqMU8rZ/G4D1258wfdJkEBw==",
-            "isTable": false,
+            "id": "HSeh3R5dwJzAa7VKY7Z2e9fBTFq2PGnaHwJCPOvZGZ3tcIzUcc3Pgaj9dDNOlxbAgvVkCmfmewNwqTv6scNr2g==",
+            "isTable": true,
             "name": "Premium Area | Early Moonrise | 6 Pax",
             "price": 11000,
             "priceWithFees": 11000,
@@ -1474,7 +1474,7 @@
           },
           {
             "currency": "MXN",
-            "id": "6aTDP/49R/vBHinQm/bi/xl2LoRiu32yKld2Qwb728X+QUYRBMrN9Lxtoz680oxE2s1YhsjnQnDRcc+SB8pk2w==",
+            "id": "xWDI1NRBRJ487P7kBbBhpC5wm1vAugYNWuBVNJDUNH9AHd28ADV0VZit3/usQiNU0zVmGUg5pbmiP/tyULp7Kw==",
             "isTable": false,
             "name": "Party & Stay | One Night At Casa Gitano | Early Moonrise",
             "price": 6600,
@@ -1485,7 +1485,7 @@
           },
           {
             "currency": "MXN",
-            "id": "F0x39to6H3amFlWXy0N2rvHtWwAtmn6sW+RnTKnzBh9aJVRaGzQ5+9xCM2H3gO+OTB4MAv4473ZfKug3uTPEog==",
+            "id": "3ScA/mhnu5o3OsPYXRuSSBxmu8r0UvSavvLSrMRRi56iLt9BR9qfmPbETlzCrPKBISAAmDvTOOvr3OiOTzgz7g==",
             "isTable": false,
             "name": "Party & Stay | Two Nights | The Lost Weekend | Early Moonrise",
             "price": 11340,
@@ -1496,8 +1496,8 @@
           },
           {
             "currency": "MXN",
-            "id": "xGD+AV5j6N+gGEWSPIUR2NzL1QHC1fY/5DQc1dI21UzAGNm6/ecgilnQ4B6ymoDlk+ElI1H0htmzqg8tGjlKGQ==",
-            "isTable": false,
+            "id": "vtde7NRV6RkknEWenljeGv69o6xHrpRqL4Gsh0YJLRXGaWPqtVP9l8fGE2pHJYHr0mO4hbhU8i0jvN2izZHp+w==",
+            "isTable": true,
             "name": "Ocean Front Suite | After Dark | 2 Ppl",
             "price": 23760,
             "priceWithFees": 23760,
@@ -1507,8 +1507,8 @@
           },
           {
             "currency": "MXN",
-            "id": "w9qth4ohZIva+gqwF7BIDfxNy8xMJLLM96KLWDdYeun8rzpLVIxtGvW2P3AvnT/qkpEJ32FofixeRnx46HDwNg==",
-            "isTable": false,
+            "id": "hZLeXQDiBwjFDLhoNbQxVM8ka6lv2I0x7UZL0fQT5TIZItUCtzRqbfFNphJfymjCitUaa6BM6c5m8sK9CyGVdw==",
+            "isTable": true,
             "name": "Double Jungle Suite | After Dark | 4 Ppl",
             "price": 32400,
             "priceWithFees": 32400,
@@ -1518,8 +1518,8 @@
           },
           {
             "currency": "MXN",
-            "id": "QBxSvyg9OdIROLgMY9MlsTk6G9XvMc6c/mJXV52rryc3fOsW9ChapvzoxUOpe40e74ZLFzm7v1WRbjZG2VME0w==",
-            "isTable": false,
+            "id": "6jjc3Z7DdUtmdGw9WEkejoSgpKbuSFv4NmzzxVB5STsjKjAbdVt4nkeRboWgDS+Kx1AbHKgDoQLB9nUTkIHS+w==",
+            "isTable": true,
             "name": "Jungle Suite | After Dark | 2 Ppl",
             "price": 19440,
             "priceWithFees": 19440,
@@ -1586,7 +1586,7 @@
         "ticketTiers": [
           {
             "currency": "MXN",
-            "id": "DsrPURUBVGHIYfVB6dHGCbdwnxgYIDAmWGif79AReQ39M1x2P3IiIA5pxehjradsG/FTg84xz5Ew8ZdMctWibQ==",
+            "id": "dQdNKVHUNcrqsY/uDlbt3ziWVc+1BbOY5ulEvDZDO5MT9qHqClLpGpPN1do5px+Ixg5CUV1O0VZgb0Y0gaLTMQ==",
             "isTable": false,
             "name": "Local Access | Early Moonrise",
             "price": 390,
@@ -1597,7 +1597,7 @@
           },
           {
             "currency": "MXN",
-            "id": "GgeKqJn6emKzF6l/2idcphQ32oNDswF9HjWoLM7JbHfTJ3WEEYoi22q6/spq8XJzGpW859snPmumiY0vQNyWUA==",
+            "id": "ZQlksVdBKRF+FUN2l8Tm15XIR2jF+6EgpXh0YVuT9m4qVA4wB+7NaWsKU+Rmc0s1n8Zb+E1JplRIv2kfPFDkWA==",
             "isTable": false,
             "name": "General Access |",
             "price": 1100,
@@ -1608,7 +1608,7 @@
           },
           {
             "currency": "MXN",
-            "id": "iJzk56FX84J4R1C1Q2RL92M5xLle/2oN1sZPJKUcNE8NvcCHQFj85ILBplMlHsEXaYMndPWWY4bEGdw6tIxmjg==",
+            "id": "G0hJxy6Myk56AQml6wlQwFpEhgVWWC2RTqeegVjDND1c6NhhkZ1HyV4rSGmuxF0dt8PJxzkcZ4+wSQqOv0XgjQ==",
             "isTable": false,
             "name": "Dinner La Luna | Early Moonrise",
             "price": 3300,
@@ -1619,7 +1619,7 @@
           },
           {
             "currency": "MXN",
-            "id": "liexg0sPj5T2FzESNJYz+Vt/Nm/nu+Ni0X724UnTFM//SkcVUGy2JIoryUvah6GsapR6WOqKQWGK6mCVUxGP6w==",
+            "id": "JXmDbbJvmGqwNq8PbvdoftCErkI/Q6Hfn5HtBe7W277DozPAP3ylIyFmLrOet9Vt28a17K1lpcPrP18dTblS3g==",
             "isTable": true,
             "name": "VIP Party Villa | After Dark | 8 Ppl",
             "price": 12960,
@@ -1630,7 +1630,7 @@
           },
           {
             "currency": "MXN",
-            "id": "6HKf7AIR4JJF4QVJLUCbejlj5Qg3RbAE9/qYC5Ecbkxpi6Nx60qakjv2VSwBaLcmyJxr+u5t93BYf1gxIFi02w==",
+            "id": "JuYhPq7ufzmK8RJKeFM+QYgJ7DcjPxN+Tomchn8FIKtrpasuC3gm4ZNNEeO91/0Nmcp6kqoSIaUXnEi5OWyekg==",
             "isTable": true,
             "name": "Black Table | 6 Pax",
             "price": 21600,
@@ -1641,7 +1641,7 @@
           },
           {
             "currency": "MXN",
-            "id": "v1lsrcZMk7PZZbyL1kivBDoKzcfkbSGFLWgPyoVSnKQhkq/PCEcQD6qDiPeXsBkN6zeks5xi6bV1+a15cfxLZA==",
+            "id": "yyJMPQTXMTRdaMqGckF6EeQpygQhYGVOalVhy/t607T8469PtQ8IKcw/84xs8Knfy9QJNjhSgHEPrhljJ5V4/w==",
             "isTable": true,
             "name": "Gold Tables 6 Pax",
             "price": 16200,
@@ -1652,7 +1652,7 @@
           },
           {
             "currency": "MXN",
-            "id": "zHMk9uuUi3F7HyMvfS4S3xN646Xz/kW7TUeoomJ/8krkoyh9rQXDHSmBJt0dWGlqQINix9G02DXd0BVDr4DUpw==",
+            "id": "j9MhjCkBN/GAennwr7zmOALe7zu6MlUjOR4OqCELBBFrn7ShgzSeWGI9F+/45VvThctfYBl3ipXuJ9f6XlIniw==",
             "isTable": true,
             "name": "Premium Area | Early Moonrise | 6 Pax",
             "price": 11000,
@@ -1663,7 +1663,7 @@
           },
           {
             "currency": "MXN",
-            "id": "F78l3v7qxOMJ0dTjY7wUrYLRObGlUP6eGhO/lOVWnH7vpJrH6kfydkmm50rJhJhPqLZmIZa1PsTmQxhSbwaJ/A==",
+            "id": "2IH1cgP+owZuDven2qKxXaaMw8nSHhnG3U7hA19fqLe3ZYzTlmFEdnbXNYZRZGjzXy5f+kE3bMvBPqgUZDnceQ==",
             "isTable": false,
             "name": "Party & Stay | One Night At Casa Gitano | Early Moonrise",
             "price": 6600,
@@ -1674,7 +1674,7 @@
           },
           {
             "currency": "MXN",
-            "id": "dxAXfbAmfTRNsbrkDx1AAdLemHCVifCVeMOkPTEgIlX5mP7v5mlD0Z6c1Exnyl4ev/bvPV+/dNVU+o+1BTk+hg==",
+            "id": "OMbZ31i8BkwxpFrbsSwrk6VPtm0YxX58SnpdWDClwhLqIKVXW95zvnEw/cn4Ok/u6Li8scm7HnxICg7x04RN8w==",
             "isTable": false,
             "name": "Party & Stay | Two Nights | The Lost Weekend | Early Moonrise",
             "price": 11340,
@@ -1685,7 +1685,7 @@
           },
           {
             "currency": "MXN",
-            "id": "km99yY1JKInCfVQ/tfxUX4KxjamZgZIWLLlBj8AOG5YGG7ILug7EoOjlYcjX/wdiRvIIlPowRKb/SPfMn7OxZg==",
+            "id": "t3bfqW0/cqQWkHrdIaf12JGY+CqncwKbOGDB8+YcJdVywzq+7LJ/yo0kOS1naS8Vr2SKFp+D99n/6k7B0o/qJA==",
             "isTable": true,
             "name": "Ocean Front Suite | After Dark | 2 Ppl",
             "price": 23760,
@@ -1696,7 +1696,7 @@
           },
           {
             "currency": "MXN",
-            "id": "yqqOXHdFDHxl3DZUJiDUCmnlA9bplCurH3Sj293320cp156X+lUo3dnpZyFH20CT/xHWYfKbsdw5rlU7pC8rhw==",
+            "id": "vgDDnxGODMeVgONphwx4eSWMT507eh+PYm3qtlxqyqwCLg98gBq8qK0GSm4FNBzmqAlex7rNHnhEbs1Qok9uTA==",
             "isTable": true,
             "name": "Double Jungle Suite | After Dark | 4 Ppl",
             "price": 32400,
@@ -1707,7 +1707,7 @@
           },
           {
             "currency": "MXN",
-            "id": "XEDD0QZ3/MwW6H3LL6WJc5ns/KFYNyD4/g857+6ScYTuTTc7l1sU4pfpBHYyQRRr3v0zF6K0RGyc3cXyDlo6WA==",
+            "id": "6/ixCjrc+9Yp7DzFSptCFU/cKbIO1I88TaYhQiVNL58uQRpCiI7BeicKHuXiVdpUVU/pGYtaLFBXuLP0Hjd3rQ==",
             "isTable": true,
             "name": "Jungle Suite | After Dark | 2 Ppl",
             "price": 19440,
@@ -1775,7 +1775,7 @@
         "ticketTiers": [
           {
             "currency": "MXN",
-            "id": "WuwuLb1O80tINpLWmdYP2GDQohC+L0P9EroIZxuNDXS+dZsnw5tck2HngnqKv4YRLmTIYvOlOX2LMdj518RUZw==",
+            "id": "fQAuV3skJ8PNCI61AatVCvnPyMsVuxr3B7EPmu7C5y5itVP7SLqpaG9+w0R4upueo4RUiaVH4E/nrsf9cfKTqA==",
             "isTable": false,
             "name": "Local Access | Early Moonrise",
             "price": 390,
@@ -1786,7 +1786,7 @@
           },
           {
             "currency": "MXN",
-            "id": "7xOWyB8zHmFEPNsh+H6ev0SXWgQwlLqwO979ndP2OcQ2PAsZniVJznaq7SDlEW4WOtPk5d+E9yvFDh8ISvoJeQ==",
+            "id": "70AekbX4bjopelwrmVfKXxg3e4cAf7mRy38+yL1GJSPFBpzpNEoHAUeQZMAuwkCmmB2AloftA9IpRZgFdbvvHg==",
             "isTable": false,
             "name": "General Access |",
             "price": 1100,
@@ -1797,7 +1797,7 @@
           },
           {
             "currency": "MXN",
-            "id": "+FNOVCGqkkZnAVLvyPSPd2Roc2OvgZCQLtmmFsQgn803TPResSdePLU94VOpbD56k3MJGc2X2IG2kytAJzIxNw==",
+            "id": "5VtlFtYVS3sTIp3Qk8EPphEUpyAu1Rt+gQ8LyaPWI9mVeJp2/NUvhxfL6pQQo5munRl5L2wEgA5hINurvIhL8A==",
             "isTable": false,
             "name": "Dinner La Luna | Early Moonrise",
             "price": 3300,
@@ -1808,7 +1808,7 @@
           },
           {
             "currency": "MXN",
-            "id": "cOEoCz/5EvSGMZtKHyvzTABpqFU2QVHw3oWTe6LQCUxacnN9RrKgqxY5Vjydi6orPXOfQIkI1gZp/C/JIBaOGw==",
+            "id": "nAD3kgniMTJwIWmBAnUNPRjKTtEScjbJV1mrwX196lHUc2ouKW6W3BOruzHXteSiRAV0OL05ZTRR58KgBDQpnw==",
             "isTable": true,
             "name": "VIP Party Villa | After Dark | 8 Ppl",
             "price": 12960,
@@ -1819,7 +1819,7 @@
           },
           {
             "currency": "MXN",
-            "id": "1OZNEDeIztVozCNHmHa4N23mqGtGTh9U1jpbonEqe14jLk+EfjBu/3JENah51Z9xaMnr6vNPS3AKzjIOdeIwQQ==",
+            "id": "GuhawrjvV57Nv3drXQrtqXJGBn9mkUgxfqsUonX4G2/yD9b7EG6bFGz1D1qrtcZ0UvTWB0kjGr7OapnXoSg/0g==",
             "isTable": true,
             "name": "Black Table | 6 Pax",
             "price": 21600,
@@ -1830,7 +1830,7 @@
           },
           {
             "currency": "MXN",
-            "id": "BYf2XMdQ31HbzZVTn7a5237BxFY8RLZ+Mq3bNqvLHToXysz9oKIVT1PdcXlp7tcuT6Np7Z4ZcrkeyX3qOHRpCA==",
+            "id": "yNcz9DnYUZv7Ep+LGT3lFSQC5lHBqKY1ty3tizF1KcP6TfJO//eLVIqGDeEV74TlQM67JMJNgCTPR1dmIbnb1Q==",
             "isTable": true,
             "name": "Gold Tables 6 Pax",
             "price": 16200,
@@ -1841,7 +1841,7 @@
           },
           {
             "currency": "MXN",
-            "id": "pItiomCpqZODky7KG9SPg92witmis1T5EERjZUnIPTgCY40aY6se/qStbmAmB4BzFOajYjuJnHZpgCOX21BHSg==",
+            "id": "kAE/Nxalpu4Az7VTOlhjxXOotrCYMMthhiMpyXOEVfvxSDag/b5eXvJ8O4x3XX8cdys7pRAclTReXUNaRZlHsw==",
             "isTable": true,
             "name": "Premium Area | Early Moonrise | 6 Pax",
             "price": 11000,
@@ -1852,7 +1852,7 @@
           },
           {
             "currency": "MXN",
-            "id": "/TWswxm6+gza61U8+dts0q+FLLPzfCPhzjbj23vVkTNKQU9pEGButyZpq6CWzY1SiTTKA60/4Sf2uPYMZQ7HaQ==",
+            "id": "p5gvJnRcWg0KI8jpM1qjd8FzjcrcfbfcOlsk8mR9Lz3njV1zjIWIB4v5m6p7BBccw+/r2T8h7cC3aBPDw9EA1A==",
             "isTable": false,
             "name": "Party & Stay | One Night At Casa Gitano | Early Moonrise",
             "price": 6600,
@@ -1863,7 +1863,7 @@
           },
           {
             "currency": "MXN",
-            "id": "3Yl+cPphnfKLxaAo029Z+dawyZkXl7hojGMrSopKU3cLTR636OhJtpf8snXx7OPlKiq4EetVCBynFRQQAdbcHg==",
+            "id": "1pQRm450GYrxlOIANUfQCw9LPoP+VkkmxJEAY/glSXKOTpoPD2k2jXpwgGabPbNxAnPkUN/ac0ApHwQUJpMYcA==",
             "isTable": false,
             "name": "Party & Stay | Two Nights | The Lost Weekend | Early Moonrise",
             "price": 11340,
@@ -1874,7 +1874,7 @@
           },
           {
             "currency": "MXN",
-            "id": "on26FUYa2N1HdUkNIJWKpCxjm1O/uKnSztqW3y9ud5g5PWgxqyW31ChSVpW+weev9uViV9JPLpiGLV7+jo7ufQ==",
+            "id": "fQsB4ZHnkXTdFGLx2hGNNNqnF4TySf79tVlgGyduzFXOz437Q8tHddL4XuZ01ZNytc7uoMng3VABTx1EG2jHHw==",
             "isTable": true,
             "name": "Ocean Front Suite | After Dark | 2 Ppl",
             "price": 23760,
@@ -1885,7 +1885,7 @@
           },
           {
             "currency": "MXN",
-            "id": "2SrHpn48bInDl4H74HOVwPepYHlzVYe0Ol8vBH3Mq8PjQc8VA+xid45JmUl+X9gDz4OwRqUHR0EGlO3CDNOVLg==",
+            "id": "TogdD9GZh+z+ATz40E0yrn+LXQhGNntWh1KKEQYm50CpAev5avddkMkZ7radhOea5Q4cYh2tjVENuJIEPMaiTA==",
             "isTable": true,
             "name": "Double Jungle Suite | After Dark | 4 Ppl",
             "price": 32400,
@@ -1896,7 +1896,7 @@
           },
           {
             "currency": "MXN",
-            "id": "HWq19mawfatdVmhA+roRrerZ7P3IkLzWOm4C93aHX5MgNM1/Hc5bAp3S6U6V33ziwNprG8A0OHpirlh57EBQCQ==",
+            "id": "jFNdBouZLfHaQerlZxmrHGnSKbDTvyVm8/ess4GfAjj3tnVsy6ifo7miVcK/ZAqHSm2urtFKpP5XR1tRaoZ/7g==",
             "isTable": true,
             "name": "Jungle Suite | After Dark | 2 Ppl",
             "price": 19440,
