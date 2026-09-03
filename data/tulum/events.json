@@ -1,7 +1,109 @@
 {
-  "syncedAt": "2026-09-03T21:41:26.407Z",
+  "syncedAt": "2026-09-03T21:46:10.319Z",
   "citySlug": "tulum",
   "events": [
+    {
+      "base": {
+        "afterEnd": "archive",
+        "buyLink": "https://tf.link/v3anpyxq",
+        "categoryIds": [],
+        "cta": "Tickets",
+        "displayPrice": "MXN $770",
+        "endDate": "2026-09-05T23:59",
+        "eventType": "Dinner",
+        "faqIds": [],
+        "flyerImage": {
+          "url": "https://www.ticketfairy.com/uploaded/public/6a7a33da18c857.74486225.png"
+        },
+        "gaLink": null,
+        "gaPrice": null,
+        "isFeatured": false,
+        "isPublished": true,
+        "lineup": null,
+        "noPrice": false,
+        "promotion": "normal",
+        "publishedAt": null,
+        "qrCode": "M0 0.5h7m1 0h1m1 0h1m1 0h2m2 0h6m1 0h1m2 0h1m1 0h1m1 0h7M0 1.5h1m5 0h1m2 0h4m1 0h1m2 0h2m1 0h1m1 0h5m1 0h1m1 0h1m5 0h1M0 2.5h1m1 0h3m1 0h1m1 0h3m2 0h4m1 0h3m1 0h1m1 0h2m4 0h1m1 0h3m1 0h1M0 3.5h1m1 0h3m1 0h1m1 0h3m1 0h4m4 0h1m1 0h1m1 0h5m1 0h1m1 0h3m1 0h1M0 4.5h1m1 0h3m1 0h1m1 0h1m2 0h2m1 0h3m1 0h2m1 0h1m2 0h1m1 0h3m1 0h1m1 0h3m1 0h1M0 5.5h1m5 0h1m3 0h2m5 0h4m1 0h1m1 0h1m5 0h1m5 0h1M0 6.5h7m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h7M10 7.5h1m1 0h1m1 0h5m3 0h3m2 0h2M0 8.5h4m2 0h1m1 0h1m1 0h3m1 0h2m1 0h5m1 0h1m2 0h4m2 0h3m1 0h1M1 9.5h2m2 0h1m1 0h1m2 0h1m1 0h2m1 0h2m1 0h6m4 0h1m2 0h1m1 0h3M1 10.5h1m1 0h1m1 0h5m1 0h2m3 0h1m3 0h1m1 0h3m3 0h2m1 0h1m2 0h2M0 11.5h1m1 0h1m1 0h1m2 0h4m2 0h1m4 0h1m1 0h1m2 0h7m1 0h1m2 0h3M0 12.5h1m1 0h2m2 0h1m1 0h1m3 0h3m2 0h1m4 0h2m1 0h1m1 0h8m1 0h1M1 13.5h3m1 0h1m1 0h1m2 0h3m1 0h4m1 0h3m1 0h3m1 0h4m1 0h3m1 0h1M4 14.5h3m1 0h1m2 0h1m1 0h2m4 0h2m3 0h3m2 0h5m1 0h1M0 15.5h1m1 0h4m1 0h1m1 0h3m2 0h3m3 0h3m3 0h1m1 0h1m2 0h1m1 0h1m2 0h1M0 16.5h3m1 0h1m1 0h1m5 0h1m1 0h1m1 0h1m1 0h1m1 0h2m3 0h1m1 0h2m2 0h1m2 0h2M0 17.5h6m1 0h1m1 0h2m4 0h1m1 0h1m2 0h2m1 0h4m2 0h2m2 0h1m1 0h2M0 18.5h4m2 0h1m1 0h1m1 0h1m2 0h3m4 0h3m1 0h1m2 0h2m1 0h3m1 0h3M0 19.5h1m1 0h2m1 0h1m1 0h1m3 0h1m1 0h2m1 0h4m2 0h3m3 0h2m1 0h1m1 0h1m1 0h1M2 20.5h1m1 0h1m1 0h5m2 0h7m1 0h1m2 0h1m1 0h4m1 0h3m1 0h1M4 21.5h1m2 0h1m1 0h2m5 0h1m2 0h3m1 0h1m2 0h1m1 0h2m5 0h1M2 22.5h3m1 0h2m6 0h1m1 0h2m4 0h5m2 0h3M0 23.5h3m1 0h2m2 0h7m4 0h1m4 0h2m3 0h1m1 0h4M0 24.5h1m2 0h1m2 0h2m2 0h2m3 0h3m4 0h1m3 0h5m1 0h5M5 25.5h1m2 0h1m2 0h1m1 0h1m1 0h3m1 0h1m2 0h1m1 0h2m1 0h2m1 0h4m2 0h1M1 26.5h10m1 0h1m1 0h1m1 0h1m2 0h1m1 0h1m4 0h1m3 0h3m2 0h1M0 27.5h1m2 0h2m2 0h2m3 0h2m1 0h2m4 0h1m1 0h1m2 0h3m1 0h4m2 0h1M6 28.5h2m1 0h1m1 0h1m4 0h1m1 0h1m2 0h3m1 0h1m2 0h5m1 0h3M8 29.5h1m1 0h1m1 0h2m1 0h1m1 0h1m2 0h1m1 0h2m1 0h1m1 0h2m3 0h2m2 0h1M0 30.5h7m3 0h3m2 0h2m1 0h1m1 0h3m2 0h1m2 0h1m1 0h1m1 0h5M0 31.5h1m5 0h1m5 0h1m3 0h4m2 0h3m2 0h2m3 0h2m1 0h2M0 32.5h1m1 0h3m1 0h1m2 0h1m1 0h3m1 0h1m1 0h2m1 0h2m4 0h1m1 0h5m3 0h1M0 33.5h1m1 0h3m1 0h1m1 0h1m3 0h3m3 0h1m1 0h1m2 0h1m1 0h1m2 0h3m1 0h1m1 0h3M0 34.5h1m1 0h3m1 0h1m1 0h2m1 0h3m4 0h1m1 0h4m1 0h1m1 0h2m1 0h3M0 35.5h1m5 0h1m1 0h1m6 0h1m2 0h3m1 0h1m1 0h4m5 0h2M0 36.5h7m1 0h1m3 0h1m1 0h1m2 0h1m2 0h1m1 0h1m1 0h4m1 0h2m1 0h5<!--vb:37-->",
+        "startDate": "2026-09-05",
+        "status": "Live",
+        "tableLayoutImage": null,
+        "tbeId": "TBE_99VRH8",
+        "ticketPrice": "",
+        "ticketTiers": [
+          {
+            "currency": "MXN",
+            "id": "7cY64EBIMx4U0yHzejkIMkLlCrfg9ezrHHG5JFCSFFTD+nZR/KgEZFUfGE6qNIOiYmxbD2WrOiT6uFi6NRzcQw==",
+            "isTable": false,
+            "name": "GUEST LIST",
+            "price": 0,
+            "priceWithFees": 0,
+            "replacementText": "Free",
+            "sortOrder": 1,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "QyFC6XuHl6nlDgGHhWWGLdrCVHHp2Fj/hBktYHwOy0sOi27t4Agw8ZofTd1SNmEYctp1jcMSivY5263VU9lzZA==",
+            "isTable": false,
+            "name": "PREMIUM OPEN BAR 1 HOUR",
+            "price": 990,
+            "priceWithFees": 990,
+            "sortOrder": 2,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "TkCIJdtud523ntPzwUmXgUycpnOP7sUcWAvTuOfEwh/7Y7Ho/nckJdfnkURk8GZ4qEe+jGGbvoQ7V0KOCsiz5w==",
+            "isTable": false,
+            "name": "STANDARD OPEN BAR 1 HOUR",
+            "price": 770,
+            "priceWithFees": 770,
+            "sortOrder": 3,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "U0bvt12bm5mUWbTovlB3O0VDuZBlH2cvAA5ZDl78rdSR9MEr3NhU0lDZoMDmdZful/obcTRuEuCHz/tyU1ZRfA==",
+            "isTable": false,
+            "name": "Dinner & Dancing",
+            "price": 1925,
+            "priceWithFees": 1925,
+            "sortOrder": 4,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          }
+        ],
+        "time": "18:00 - 01:00",
+        "url": "https://tf.link/v3anpyxq",
+        "venueName": "Gitano Jungle",
+        "venueSlug": "gitano-jungle",
+        "vipLink": null,
+        "vipPrice": null
+      },
+      "convexId": "j57f28te9a2368dta83fp6cjwh8cy7hm",
+      "lastUpdated": "2026-09-03T21:45:48.780Z",
+      "locales": {
+        "en": {
+          "body": "<h2>Saturday Ceremonia Moves from Dinner to Late Night</h2><p>On Saturday, September 5, 2026, Ceremonia comes to Gitano Jungle Tulum for a night built around music, movement and connection. The programme starts at 6PM and runs late, taking you from dinner into the dance floor. Candlelight flickers through the palms while the soundtrack carries the room through the evening. This is a Jungle edition of Gitano’s recurring Saturday format rather than a standalone artist show. Tickets start at MXN $770 that incldues open bar but also free guestlist available.</p><h3>The Tulum-Born Series and Its Resident Lineup</h3><p>Ceremonia started in Tulum and has since run in New York and Dubai. Its regular home is the beachfront Gitano Beach, where it takes place on non-full-moon Saturdays from 6pm into the night. The resident lineup includes Tiago Dima, Prah and Badaoui. Dinner, mezcal service, DJ sets and a dance floor form the core of the series. This September edition brings that established format to Gitano Jungle.</p><h3>Organic House, Afro-Latin Rhythm and Disco</h3><p>Ceremonia’s music moves between organic house, downtempo, afro house, electro house and disco. Afro-latin rhythms and tribal percussion are also central to the series sound. The soundtrack is planned to run through dinner and continue deep into the evening. Dancing and gathering are part of the format from the start. You can treat the night as dinner followed by music, or arrive ready for the dance floor.</p><h3>Shared Plates, 50 Mezcals and Signature Cocktails</h3><p>Gitano Jungle is a restaurant, so food is part of the setting rather than an add-on. Its usual menu uses seasonal, locally sourced ingredients, shared plates and traditional cooking methods. The bar carries more than 50 mezcals. Hand-made cocktails use locally grown seasonal fruits and herbs, while the Jungle Fever is one of the venue’s known signatures. Ceremonia adds its own dinner-to-late-night flow with signature cocktail service throughout the evening.</p><h3>A Decade of Gitano Jungle After Dark</h3><p>Gitano Jungle has been part of Tulum for more than ten years. On regular nights, the restaurant changes from shared dining into a dance-focused space as the evening develops. Its Jungle Room is used for disco, cheering and dancing, including the venue’s established Friday Gypsy Disco party. Gitano describes the space as LGBTQIA+ welcoming. The wider Gitano Group also operates Meze and Gitano Beach in Tulum, with concepts in NYC, Miami Beach and Dubai.</p>",
+          "description": "Ceremonia is Gitano’s Tulum-born Saturday series, pairing organic house, afro-latin rhythms and disco with dinner, mezcal cocktails and candlelight.",
+          "hubBlurb": "",
+          "name": "CEREMONIA JUNGLE",
+          "slug": "ceremonia-jungle-5sep2026",
+          "tableInformation": ""
+        },
+        "es": {
+          "body": "<h2>El sábado, Ceremonia pasa de la cena a la madrugada</h2><p>El sábado 5 de septiembre de 2026, Ceremonia llega a Gitano Jungle Tulum para una noche en torno a la música, el movimiento y la conexión. El programa comienza a las 18:00 y se prolonga hasta bien entrada la noche, llevándote de la cena a la pista de baile. La luz de las velas titila entre las palmeras mientras la banda sonora ameniza la velada. Se trata de una edición Jungle del formato habitual de los sábados de Gitano, más que de un espectáculo de un artista concreto. Las entradas cuestan a partir de 770 MXN e incluyen barra libre, aunque también hay lista de invitados gratuita disponible.</p><h3>La serie nacida en Tulum y su cartel de residentes</h3><p>Ceremonia comenzó en Tulum y, desde entonces, se ha celebrado en Nueva York y Dubái. Su sede habitual es el Gitano Beach, frente al mar, donde tiene lugar los sábados en los que no hay luna llena, desde las 18:00 h hasta bien entrada la noche. El cartel de residentes incluye a Tiago Dima, Prah y Badaoui. La cena, el servicio de mezcal, las sesiones de DJ y la pista de baile constituyen el núcleo de la serie. Esta edición de septiembre lleva ese formato consolidado a Gitano Jungle.</p><h3>House orgánico, ritmos afrolatinos y disco</h3><p>La música de Ceremonia se mueve entre el house orgánico, el downtempo, el afro house, el electro house y el disco. Los ritmos afrolatinos y la percusión tribal también son fundamentales para el sonido de la serie. Está previsto que la banda sonora acompañe la cena y continúe hasta bien entrada la noche. El baile y el encuentro social forman parte del formato desde el principio. Puedes plantearte la noche como una cena seguida de música, o llegar listo para la pista de baile.</p><h3>Platos para compartir, 50 mezcales y cócteles de autor</h3><p>Gitano Jungle es un restaurante, por lo que la comida forma parte del entorno y no es un mero complemento. Su menú habitual se basa en ingredientes de temporada y de origen local, platos para compartir y métodos de cocina tradicionales. La carta del bar cuenta con más de 50 mezcales. Los cócteles artesanales se elaboran con frutas y hierbas de temporada cultivadas localmente, mientras que el Jungle Fever es uno de los cócteles estrella del local. Ceremonia aporta su propio ritmo, desde la cena hasta bien entrada la noche, con un servicio de cócteles exclusivos durante toda la velada.</p><h3>Una década de Gitano Jungle tras el anochecer</h3><p>Gitano Jungle lleva más de diez años formando parte de Tulum. En las noches normales, el restaurante pasa de ser un espacio para cenar en grupo a un lugar centrado en el baile a medida que avanza la velada. Su Jungle Room se utiliza para discoteca, fiesta y baile, incluyendo la consolidada fiesta Friday Gypsy Disco del local. Gitano describe el espacio como un lugar acogedor para la comunidad LGBTQIA+. El Grupo Gitano, en su conjunto, también gestiona Meze y Gitano Beach en Tulum, y cuenta con locales en Nueva York, Miami Beach y Dubái.</p>",
+          "description": "Ceremonia es la serie de eventos de los sábados de Gitano, nacida en Tulum, que combina house orgánico, ritmos afrolatinos y música disco con cena, cócteles de mezcal y luz de velas.",
+          "hubBlurb": "",
+          "name": "CEREMONIA JUNGLE",
+          "slug": "ceremonia-jungle-5sep2026",
+          "tableInformation": ""
+        }
+      }
+    },
     {
       "base": {
         "afterEnd": "archive",
