@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-02T20:00:33.896Z",
+  "syncedAt": "2026-09-04T15:00:48.629Z",
   "citySlug": "tulum",
   "faqs": [
     {
@@ -436,18 +436,18 @@
     },
     {
       "base": {
-        "category": null,
+        "category": "Festivals",
         "slug": "which-tulum-festivals-have-been-announced-for-2027"
       },
       "convexId": "k5704dxb9yven6kcq5rddswvfx8cvqe1",
-      "lastUpdated": "2026-08-20T15:57:53.038Z",
+      "lastUpdated": "2026-09-04T14:58:07.944Z",
       "locales": {
         "en": {
-          "answer": "As of August 19, 2026, the main confirmed announcements are Day Zero on January 9, 7 Realms from January 1–13, Solomun at Tehmplo on January 7, and Zamna Tulum's 2027 season. Zamna's individual events have not yet been announced.",
+          "answer": "Confirmed dates currently include 7 Realms from January 1–13, ¿PorQuéNo? Tulum Cenote Festival on January 2, Solomun at Tehmplo on January 7, Day Zero on January 9 and Arena Festival from January 28 to February 1. Zamna has also confirmed its Tulum 2027 season, although its individual events have not yet been announced.",
           "name": "Which Tulum festivals have been announced for 2027?"
         },
         "es": {
-          "answer": "A fecha de 19 de agosto de 2026, los principales anuncios confirmados son el «Day Zero» el 9 de enero, «7 Realms» del 1 al 13 de enero, la actuación de Solomun en Tehmplo el 7 de enero y la temporada 2027 de Zamna Tulum. Aún no se han anunciado los eventos concretos de Zamna.",
+          "answer": "Las fechas confirmadas hasta el momento incluyen 7 Realms del 1 al 13 de enero, ¿PorQuéNo? el Festival del Cenote de Tulum el 2 de enero, Solomun en Tehmplo el 7 de enero, Day Zero el 9 de enero y el Arena Festival del 28 de enero al 1 de febrero. Zamna también ha confirmado su temporada de Tulum 2027, aunque aún no se han anunciado los eventos concretos.",
           "name": "¿Qué festivales de Tulum se han anunciado para 2027?"
         }
       }
@@ -1367,6 +1367,60 @@
         "es": {
           "answer": "It is at Km 5.5 on Carretera Tulum–Boca Paila in the Hotel Zone. The estimated drive from the Hotel Zone is 15 minutes, though traffic can affect the journey.",
           "name": "Where is the festival ground?"
+        }
+      }
+    },
+    {
+      "base": {
+        "category": null,
+        "slug": "are-there-daytime-festivals-in-tulum"
+      },
+      "convexId": "k574r96qjwadeejh6yfay211tx8dsttm",
+      "lastUpdated": "2026-09-04T14:59:24.663Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. 7 Realms consists entirely of daytime events on seven dates between January 1 and 13, while ¿PorQuéNo? Tulum Cenote Festival runs from 11 AM to 10 PM at Vesica on January 2.",
+          "name": "Are there daytime festivals in Tulum?"
+        },
+        "es": {
+          "answer": "Sí. 7 Realms se compone exclusivamente de actividades diurnas que tendrán lugar en siete fechas entre el 1 y el 13 de enero, mientras que el festival ¿PorQuéNo? Tulum Cenote se celebra el 2 de enero, de 11:00 a 22:00, en Vesica.",
+          "name": "¿Hay festivales diurnos en Tulum?"
+        }
+      }
+    },
+    {
+      "base": {
+        "category": null,
+        "slug": "can-tulum-bible-help-with-festival-tickets-and-vip-tables"
+      },
+      "convexId": "k577e3k336zw8ehqsvbvnch8ts8dr5ss",
+      "lastUpdated": "2026-09-04T15:00:06.361Z",
+      "locales": {
+        "en": {
+          "answer": "It depends on the event. We can arrange VIP tables for selected festivals and parties, while general admission tickets may need to be purchased directly from the official festival or ticketing partner.\n\nSend us the event, date and group size and we will let you know what is available.",
+          "name": "Can Tulum Bible help with festival tickets and VIP tables?"
+        },
+        "es": {
+          "answer": "Depende del evento. Podemos reservar mesas VIP para determinados festivales y fiestas, mientras que las entradas generales es posible que haya que comprarlas directamente a la organización oficial del festival o al socio encargado de la venta de entradas.\n\nEnvíanos los datos del evento, la fecha y el número de personas del grupo, y te informaremos de las opciones disponibles.",
+          "name": "¿Puede Tulum Bible ayudarme a conseguir entradas para el festival y mesas VIP?"
+        }
+      }
+    },
+    {
+      "base": {
+        "category": null,
+        "slug": "are-there-festivals-in-tulum-outside-january"
+      },
+      "convexId": "k57fksg7ryj3m09j2a36b9t7658dsvbq",
+      "lastUpdated": "2026-09-04T15:00:26.025Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. Tulum also has smaller food, art and cultural festivals during other parts of the year. Recent examples include the Tulum Food, Spirits & Wine Festival, Festival de la Langosta, Horizontes Mexicanos and Art In The Jungle. Their 2027 dates have not yet been confirmed.",
+          "name": "Are there festivals in Tulum outside January?"
+        },
+        "es": {
+          "answer": "Sí. Tulum también acoge festivales gastronómicos, artísticos y culturales de menor envergadura durante otras épocas del año. Entre los ejemplos más recientes se encuentran el Tulum Food, Spirits &amp; Wine Festival, el Festival de la Langosta, Horizontes Mexicanos y Art In The Jungle. Las fechas para 2027 aún no se han confirmado.",
+          "name": "¿Hay festivales en Tulum fuera del mes de enero?"
         }
       }
     }
