@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-05T03:17:33.218Z",
+  "syncedAt": "2026-09-05T03:40:43.861Z",
   "citySlug": "tulum",
   "faqs": [
     {
@@ -2331,6 +2331,138 @@
         "es": {
           "answer": "Se pueden celebrar eventos privados, pero deben aprobarse con antelación y estar regulados por un contrato de evento firmado. Envía tus propuestas a través de esta página y el servicio de conserjería te confirmará qué opciones son viables.",
           "name": "¿Puedo celebrar un evento en Casa Aviv?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "is-casa-luna-suitable-for-families-with-children"
+      },
+      "convexId": "k57f4w70pd8wbyd5paw0pcw9kd8dv28c",
+      "lastUpdated": "2026-09-05T03:40:21.556Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. The villa is family-suited and has several shared-bedroom layouts for groups travelling with children.",
+          "name": "Is Casa Luna suitable for families with children?"
+        },
+        "es": {
+          "answer": "Sí. La villa es ideal para familias y cuenta con varias distribuciones con dormitorios compartidos para grupos que viajen con niños.",
+          "name": "¿Es Casa Luna un lugar adecuado para familias con niños?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "does-casa-luna-have-direct-beach-access"
+      },
+      "convexId": "k576fm5zchphv4g8w6pxer4gmh8dv2y3",
+      "lastUpdated": "2026-09-05T03:40:21.556Z",
+      "locales": {
+        "en": {
+          "answer": "No. The villa is inland in La Veleta, a short drive from Tulum’s coastline, and the concierge can arrange beach club access.",
+          "name": "Does Casa Luna have direct beach access?"
+        },
+        "es": {
+          "answer": "No. La villa se encuentra en el interior, en La Veleta, a poca distancia en coche de la costa de Tulum, y el conserje puede organizar el acceso a beach club.",
+          "name": "¿Tiene Casa Luna acceso directo a la playa?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "does-casa-luna-include-a-private-chef"
+      },
+      "convexId": "k57e27nghzxmvtjj0qyd9mywmn8dvzxx",
+      "lastUpdated": "2026-09-05T03:40:21.556Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. Private chef service is included, with breakfast and dinner menus tailored to the group’s preferences.",
+          "name": "Does Casa Luna include a private chef?"
+        },
+        "es": {
+          "answer": "Sí. El servicio de chef privado está incluido, con menús de desayuno y cena adaptados a las preferencias del grupo.",
+          "name": "¿Casa Luna cuenta con un chef privado?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "what-pool-and-wellness-facilities-does-casa-luna-have"
+      },
+      "convexId": "k57481cerfxdss5et98xd5je9h8dtfxa",
+      "lastUpdated": "2026-09-05T03:40:21.556Z",
+      "locales": {
+        "en": {
+          "answer": "The property has a central pool, three jacuzzis, a gym, sauna, steam room, cold plunge and open-air yoga deck.",
+          "name": "What pool and wellness facilities does Casa Luna have?"
+        },
+        "es": {
+          "answer": "El complejo cuenta con una piscina central, tres jacuzzis, un gimnasio, una sauna, una sala de vapor, una piscina de agua fría y una terraza al aire libre para practicar yoga.",
+          "name": "¿Con qué instalaciones de piscina y bienestar cuenta Casa Luna?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "can-casa-luna-arrange-airport-transfers"
+      },
+      "convexId": "k57amx1nytd5xhcqwvhmpj7g8n8dtgmy",
+      "lastUpdated": "2026-09-05T03:40:21.556Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. The concierge can coordinate transfers and different arrival times for the group.",
+          "name": "Can Casa Luna arrange airport transfers?"
+        },
+        "es": {
+          "answer": "Sí. El conserje puede coordinar los traslados y los diferentes horarios de llegada del grupo.",
+          "name": "¿Casa Luna puede organizar traslados al aeropuerto?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "what-are-the-check-in-and-check-out-times-at-casa-luna"
+      },
+      "convexId": "k5755pcj7awcgd3a9cn8224qwx8dv9f9",
+      "lastUpdated": "2026-09-05T03:40:21.556Z",
+      "locales": {
+        "en": {
+          "answer": "Check-in begins at 3:00 pm, and check-out is at 11:00 am.",
+          "name": "What are the check-in and check-out times at Casa Luna?"
+        },
+        "es": {
+          "answer": "El registro de entrada comienza a las 15:00 y el de salida es a las 11:00.",
+          "name": "¿A qué hora hay que hacer el check-in y el check-out en Casa Luna?"
         }
       }
     }
