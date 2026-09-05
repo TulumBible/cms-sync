@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-04T20:23:03.377Z",
+  "syncedAt": "2026-09-05T01:57:22.063Z",
   "citySlug": "tulum",
   "faqs": [
     {
@@ -1737,6 +1737,138 @@
         "es": {
           "answer": "Sí. Tulum también acoge festivales gastronómicos, artísticos y culturales de menor envergadura durante otras épocas del año. Entre los ejemplos más recientes se encuentran el Tulum Food, Spirits &amp; Wine Festival, el Festival de la Langosta, Horizontes Mexicanos y Art In The Jungle. Las fechas para 2027 aún no se han confirmado.",
           "name": "¿Hay festivales en Tulum fuera del mes de enero?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "how-many-guests-does-villa-seremonia-sleep"
+      },
+      "convexId": "k57eaehredej7w4zd90by3jyh98dtk64",
+      "lastUpdated": "2026-09-05T01:56:55.761Z",
+      "locales": {
+        "en": {
+          "answer": "The nine-bedroom estate sleeps up to 28 guests in 14 beds. Four bedrooms have one king bed each, while five bedrooms have two queen beds each.",
+          "name": "How many guests does Villa Seremonia sleep?"
+        },
+        "es": {
+          "answer": "Esta finca de nueve dormitorios tiene capacidad para hasta 28 huéspedes en 14 camas. Cuatro dormitorios cuentan con una cama king size cada uno, mientras que cinco dormitorios tienen dos camas queen size cada uno.",
+          "name": "¿Cuántos huéspedes puede alojar Villa Seremonia?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "how-many-pools-does-villa-seremonia-have"
+      },
+      "convexId": "k57ccjx42pnvgnv49ay9qmp20d8dtd2j",
+      "lastUpdated": "2026-09-05T01:56:55.761Z",
+      "locales": {
+        "en": {
+          "answer": "The estate has one main outdoor pool and three private plunge pools. Guests can also use the community’s central common pool.",
+          "name": "How many pools does Villa Seremonia have?"
+        },
+        "es": {
+          "answer": "La finca cuenta con una piscina exterior principal y tres piscinas privadas de inmersión. Los huéspedes también pueden hacer uso de la piscina comunitaria central.",
+          "name": "¿Cuántas piscinas tiene Villa Seremonia?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "is-villa-seremonia-close-to-the-beach"
+      },
+      "convexId": "k578g58hbkthbe05f1jv8fz4z98dv4zp",
+      "lastUpdated": "2026-09-05T01:56:55.761Z",
+      "locales": {
+        "en": {
+          "answer": "Local beaches are about five to six minutes away by car. The villa is not beachfront and does not have direct beach access.",
+          "name": "Is Villa Seremonia close to the beach?"
+        },
+        "es": {
+          "answer": "Las playas de la zona están a unos cinco o seis minutos en coche. La villa no está situada frente al mar y no dispone de acceso directo a la playa.",
+          "name": "¿Está Villa Seremonia cerca de la playa?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "are-meals-provided-at-villa-seremonia"
+      },
+      "convexId": "k5737vqpf7vbma60tswasxb0wn8dtw7p",
+      "lastUpdated": "2026-09-05T01:56:55.761Z",
+      "locales": {
+        "en": {
+          "answer": "Private chef meals, including breakfast, barbecues and multi-course dinners, can be arranged through the concierge. The villa also has a fully equipped kitchen, outdoor kitchen and pizza oven.",
+          "name": "Are meals provided at Villa Seremonia?"
+        },
+        "es": {
+          "answer": "A través del conserje se pueden organizar comidas con chef privado, incluyendo desayunos, barbacoas y cenas de varios platos. La villa también cuenta con una cocina totalmente equipada, una cocina al aire libre y un horno de pizza.",
+          "name": "¿Se sirven comidas en Villa Seremonia?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "can-airport-transfers-and-spa-treatments-be-arranged"
+      },
+      "convexId": "k57d0x3jceq5v89qc320rwdqmd8dt2vt",
+      "lastUpdated": "2026-09-05T01:56:55.761Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. We can arrange airport transfers and in-villa spa treatments.",
+          "name": "Can airport transfers and spa treatments be arranged?"
+        },
+        "es": {
+          "answer": "Sí. Podemos organizar traslados al aeropuerto y tratamientos de spa en la villa.",
+          "name": "¿Se pueden organizar traslados al aeropuerto y tratamientos de spa?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "what-are-the-check-in-and-check-out-times-at-villa-seremonia"
+      },
+      "convexId": "k571sdmyksy2dtqqtgphkbjerd8dtzgy",
+      "lastUpdated": "2026-09-05T01:56:55.761Z",
+      "locales": {
+        "en": {
+          "answer": "Standard check-in begins between 2 PM and 4 PM. Check-out is by 11 AM.",
+          "name": "What are the check-in and check-out times at Villa Seremonia?"
+        },
+        "es": {
+          "answer": "La hora habitual de entrada es entre las 14:00 y las 16:00. La salida debe realizarse antes de las 11:00.",
+          "name": "¿A qué hora son el registro de entrada y el de salida en Villa Seremonia?"
         }
       }
     }
