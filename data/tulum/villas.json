@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-05T19:15:45.215Z",
+  "syncedAt": "2026-09-05T19:18:11.036Z",
   "citySlug": "tulum",
   "villas": [
     {
@@ -1284,7 +1284,13 @@
     },
     {
       "base": {
-        "amenityIds": [],
+        "amenityIds": [
+          "jn76cg9jqcvq6gh3xwf0cj2c2s859sx2",
+          "jn70zn5gpwjkfxwnbkd4948rv5859d8d",
+          "jn78c0kww3ghntsrs0x74x0whx85j8ft",
+          "jn705g0j2n2cepzkmt4gd3jxr585kbvm",
+          "jn7aqn3qjzw3j6qmesp89m823s85kby8"
+        ],
         "area": "la-veleta",
         "bathrooms": null,
         "bedrooms": "14",
@@ -1345,10 +1351,6 @@
             "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/img-a24c15742286e700952c4415ec470bb0/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down,metadata=none"
           },
           {
-            "alt": "Long communal dining table under the colonnade",
-            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/img-ce54ba0b9b8360019990e13b8b26b450/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down,metadata=none"
-          },
-          {
             "alt": "Colonnade dining area open to the garden",
             "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/img-d86f01309390f0f7076b45c20b14918b/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down,metadata=none"
           },
@@ -1363,10 +1365,6 @@
           {
             "alt": "Freestanding bathtub on a private rooftop",
             "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/img-4f1494daf5143db7ceef45266082fa8b/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down,metadata=none"
-          },
-          {
-            "alt": "Rooftop bathtub looking over the jungle canopy",
-            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/img-3131ad93a6e042cf7e9c8af371ed588e/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down,metadata=none"
           },
           {
             "alt": "Bedroom window opening onto the treeline",
@@ -1385,20 +1383,12 @@
             "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/img-310f71363d6e88e2013a71e91cd173f2/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down,metadata=none"
           },
           {
-            "alt": "King bedroom opening onto the walkway",
-            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/img-b8026c275db6c8338420d0c1e0056264/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down,metadata=none"
-          },
-          {
             "alt": "Bedroom with dark timber panelling",
             "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/img-8031aea9990a2ef65079a7cd23827281/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down,metadata=none"
           },
           {
             "alt": "King bedroom with garden doors",
             "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/img-ce83cf62737ddf5ab197d735eee9a7bc/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down,metadata=none"
-          },
-          {
-            "alt": "Bedroom with ceiling fan and terrace doors",
-            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/img-1d58613080fd9736cfcbfd42dbeb4d39/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down,metadata=none"
           },
           {
             "alt": "Bedroom with carved headboard niche and lanterns",
@@ -1429,10 +1419,6 @@
             "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/img-bfc50acba1339cd1260e53421940ab8a/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down,metadata=none"
           },
           {
-            "alt": "Hallway with arched doorways",
-            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/img-ed83c1c03ac39a0bb6593853a1f0252d/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down,metadata=none"
-          },
-          {
             "alt": "Arched interior opening onto planting",
             "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/img-c83da03212ac79d9f49a70e4f2754e5e/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down,metadata=none"
           },
@@ -1447,10 +1433,6 @@
           {
             "alt": "Kitchen island and dining space",
             "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/img-f4062518efa7c8e42e76cd95be26f642/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down,metadata=none"
-          },
-          {
-            "alt": "Kitchen with island and terrace doors",
-            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/img-08cd34b74ae483372cc33ac552aae533/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down,metadata=none"
           },
           {
             "alt": "Kitchen counter and breakfast bar",
@@ -1497,14 +1479,6 @@
             "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/img-58c0d2db658bb1090fe09d8c541107b1/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down,metadata=none"
           },
           {
-            "alt": "Bathroom with lantern sconces",
-            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/img-1bff45fa61ef52dadfc19111498c33a3/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down,metadata=none"
-          },
-          {
-            "alt": "Bathroom with arched mirror",
-            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/img-a68a4e8b3bcb56840ef41fdaa6cb3cad/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down,metadata=none"
-          },
-          {
             "alt": "Basin with arched niche",
             "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/img-707942a3e969dbc2656ce2afee3cac16/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down,metadata=none"
           },
@@ -1521,10 +1495,6 @@
             "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/img-6c8b6a712cb14e0ca4f70431026f1687/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down,metadata=none"
           },
           {
-            "alt": "Exterior walkway between the two wings",
-            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/img-8bc26ba90a7502d685daf5576b8c6eaf/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down,metadata=none"
-          },
-          {
             "alt": "Walkway with arched doors and planting",
             "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/img-13b5a9d3336c55d146a8ff920d6b2cd7/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down,metadata=none"
           },
@@ -1535,10 +1505,6 @@
           {
             "alt": "Arched timber door in a lime-plaster wall",
             "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/img-4d00ea76182d8191fb131dc8173f5ac5/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down,metadata=none"
-          },
-          {
-            "alt": "Arched entrance door detail",
-            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/img-0d73bd4d7d9031e4d98732c210a4c3b7/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down,metadata=none"
           }
         ],
         "pricePerNight": "$1,200 USD",
@@ -1546,7 +1512,7 @@
         "sleeps": "28"
       },
       "convexId": "kh75k5yrdmx078mwhexsvxc1rx8dvstk",
-      "lastUpdated": "2026-09-05T19:15:22.519Z",
+      "lastUpdated": "2026-09-05T19:17:23.018Z",
       "locales": {
         "en": {
           "body": "<h2>Palma y Arco Tulum, a 14-bedroom riad-style villa</h2>\n<p>Palma y Arco is a private group villa in La Veleta, a few minutes west of Tulum’s main avenue and beside uncleared jungle. It has 14 independent suites and sleeps up to 28 guests. Two long terracotta wings face each other across a narrow water-mirror courtyard. Arched openings connect the rooms and shared spaces to this open-air centre. Moroccan riad forms meet Mexican materials through scalloped arches, coloured lime plaster, carved wood, brass lights and terrazzo floors.</p>\n<h3>Fourteen independent suites across three room types</h3>\n<p>Six garden-level suites each have a king bed, full bathroom, mini-kitchen and private terrace or garden. An outdoor bathtub sits within each private area. Six duplex suites are arranged over two floors, with a king bed, kitchen area, living space, restroom and private terrace. Each duplex also has a rooftop with a freestanding bathtub and sunbed.</p>\n<p>The 110 m² royal suite has a king bed, full kitchen, large dining table, workspace and lounge with a sofa. It connects to an additional guest room with a second king bed and an ensuite bathroom. This arrangement completes the 14-bedroom layout. Every room has its own kitchen area, so guests can make drinks or simple food without relying on the main outdoor kitchen. Six private rooftops and six garden areas give much of the group separate outdoor space.</p>\n<h3>A rooftop lap pool and water-mirror courtyard</h3>\n<p>The main roof holds a long lap pool at the edge of the building, with the water facing the jungle treeline. Loungers run along one side. Below, the narrow water channel forms the centre of the villa and separates its two wings. A sunken lounge with low seating sits at one end of the courtyard. The property also has a jacuzzi, a fire pit and an outdoor cinema.</p>\n<p>Shared dining areas include a long communal table beneath a colonnade and a separate patio set up for dinners and events. The outdoor kitchen serves this part of the property. Guests also have private use of the courtyard, pool, terraces and all event areas during a full-villa booking. There are no public areas shared with another group. This gives weddings, retreats and celebrations control over how the common spaces are used.</p>\n<h3>Cooking, housekeeping and overnight support</h3>\n<p>The villa has an outdoor kitchen and kitchen areas in all 14 suites, but it does not have a large kitchen equipped to prepare banquet-scale meals for 28 people. Catering plans should therefore be arranged with the chef team before arrival. The concierge can organise a private chef, grocery pre-stocking and delivery for an added provider charge. In-villa massages, yoga, Pilates, event decoration and celebration setups can also be arranged. These booked services cost extra even though concierge support itself is free of charge.</p>\n<p>Daily cleaning and maintenance support are included during the stay. A security guard is present each night from 8 PM until 8 AM. The concierge can also coordinate restaurant bookings, group transport, rental vehicles and activities.</p>\n<h3>Who the villa suits and who should stay elsewhere</h3>\n<p>The event patio, communal table and 28-guest capacity support weddings, retreats, birthdays, reunions and commercial shoots. Independent suites give couples and smaller family groups private bathrooms and kitchen areas within the larger booking. The royal suite adds a workspace, dining area and lounge for organisers or hosts. With this mix of separation and shared space, the villa suits groups that plan to spend time together.</p>\n<h3>La Veleta access, parking and airport transfers</h3>\n<p>The property is in La Veleta, a residential part of Tulum with cafés and casual nightlife, between the town centre and the beach road. Road conditions near the villa can be uneven, so vehicle and transfer plans matter for a group arrival. Private parking is available for up to five vehicles. The concierge can arrange airport shuttles, private drivers, rental cars, ATVs, scooters or bicycles through outside providers. Tulum International Airport is approximately 45 minutes from Tulum, while Cancún International Airport is about one hour and 45 minutes away; traffic and local road conditions can change either journey.</p>\n<h3>Rates, arrival times and how to reserve the villa</h3>\n<p>Rates start from USD 1,200 per night for the full property. Check-in begins at 4 PM, and check-out is by 10 AM. The published minimum stay is one night. A full refund applies when cancellation is made within 48 hours of booking and check-in remains at least 14 days away. For current rates, available dates and help planning services for the group, enquire through this page with the Tulum Bible concierge.</p>",
