@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-05T18:08:19.905Z",
+  "syncedAt": "2026-09-05T18:25:11.833Z",
   "citySlug": "tulum",
   "faqs": [
     {
@@ -3233,6 +3233,116 @@
         "es": {
           "answer": "Sí. La vivienda cuenta con tres plazas de aparcamiento privadas dentro de la urbanización cerrada de Los Santos.",
           "name": "¿Hay aparcamiento en Villa Mao?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "how-many-pools-and-spa-facilities-are-there"
+      },
+      "convexId": "k5708vj8rdbq8ns17249gmf2r58dt87x",
+      "lastUpdated": "2026-09-05T18:24:53.337Z",
+      "locales": {
+        "en": {
+          "answer": "There are two swimming pools: an 18-metre ground-level pool and an upper-level plunge pool by the master suite. The spa area has a two-person dry sauna, cold plunge and massage room.",
+          "name": "How many pools and spa facilities are there?"
+        },
+        "es": {
+          "answer": "Hay dos piscinas: una piscina a nivel del suelo de 18 metros y una piscina de inmersión situada en la planta superior, junto a la suite principal. La zona de spa cuenta con una sauna seca para dos personas, una piscina de agua fría y una sala de masajes.",
+          "name": "¿Cuántas piscinas y instalaciones de spa hay?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "is-a-private-chef-included-3"
+      },
+      "convexId": "k57c4sbak1q1tbwqb3zn2tyjc98dvndc",
+      "lastUpdated": "2026-09-05T18:24:53.337Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. A private chef is included for 12 hours each day and prepares meals to order for the group, with menus adapted to dietary needs and preferences.",
+          "name": "Is a private chef included?"
+        },
+        "es": {
+          "answer": "Sí. Se incluye un chef privado durante 12 horas al día, que prepara comidas a medida para el grupo, con menús adaptados a las necesidades y preferencias alimentarias.",
+          "name": "¿Se incluye un chef privado?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "can-airport-transfers-be-arranged-4"
+      },
+      "convexId": "k574wcjh92z6p1r1j8jewq4dcn8dtm3g",
+      "lastUpdated": "2026-09-05T18:24:53.337Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. Transfers from Tulum or Cancún airport can be arranged on request.",
+          "name": "Can airport transfers be arranged?"
+        },
+        "es": {
+          "answer": "Sí. Se pueden organizar traslados desde Tulum o desde el aeropuerto de Cancún previa solicitud.",
+          "name": "¿Se pueden organizar traslados desde el aeropuerto?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "is-parking-available-at-the-villa-2"
+      },
+      "convexId": "k57fn1q8d1wqjgdynsfvhwknwx8dvt4j",
+      "lastUpdated": "2026-09-05T18:24:53.337Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. Street parking is available, and the property has round-the-clock security and security cameras.",
+          "name": "Is parking available at the villa?"
+        },
+        "es": {
+          "answer": "Sí. Hay plazas de aparcamiento en la calle, y el edificio cuenta con servicio de seguridad las 24 horas y cámaras de seguridad.",
+          "name": "¿Hay plazas de aparcamiento disponibles en la villa?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "how-much-does-villa-raes-cost"
+      },
+      "convexId": "k57d2dt097qqwg7avxqp80ywsx8dv748",
+      "lastUpdated": "2026-09-05T18:24:53.337Z",
+      "locales": {
+        "en": {
+          "answer": "The five-bedroom residence starts from $1,600 USD per night, while the full eight-bedroom estate starts from $2,060 USD per night. Enquire through this page to check rates and dates.",
+          "name": "How much does Villa Raes cost?"
+        },
+        "es": {
+          "answer": "La residencia de cinco dormitorios tiene un precio a partir de 1.600 dólares estadounidenses por noche, mientras que la finca completa de ocho dormitorios tiene un precio a partir de 2.060 dólares estadounidenses por noche. Solicita información a través de esta página para consultar tarifas y fechas.",
+          "name": "¿Cuánto cuesta Villa Raes?"
         }
       }
     }
