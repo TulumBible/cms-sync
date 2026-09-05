@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-05T05:12:27.587Z",
+  "syncedAt": "2026-09-05T18:08:19.904Z",
   "citySlug": "tulum",
   "villas": [
     {
@@ -1069,6 +1069,114 @@
           "metaDescription": "Villa privada de 12 dormitorios en Aldea Zama para 24 huéspedes: 4 piscinas, rooftop, bares, gimnasio y pádel de Losantos. Tarifas en Tulum Bible.",
           "name": "Villa Sand",
           "slug": "villa-sand"
+        }
+      }
+    },
+    {
+      "base": {
+        "amenityIds": [
+          "jn796fkb2npe38c126gkzmhe85858yf5",
+          "jn7brzqrezwp2cn80n84arv4t985k77w",
+          "jn77s3v89mkdcb9d9yydgsx3vd858sbk",
+          "jn74axgjrqtsa18w8nxttnxfg5859e39",
+          "jn7dnm1kp63ahnqvjhhyz7944d859qpv",
+          "jn70zn5gpwjkfxwnbkd4948rv5859d8d",
+          "jn76cg9jqcvq6gh3xwf0cj2c2s859sx2",
+          "jn705g0j2n2cepzkmt4gd3jxr585kbvm",
+          "jn78c0kww3ghntsrs0x74x0whx85j8ft"
+        ],
+        "area": "aldea-zama",
+        "bathrooms": "5",
+        "bedrooms": "5",
+        "beds": "7",
+        "category": "villa",
+        "categoryIds": [],
+        "faqIds": [
+          "k57554000rgm2p7jkn8bdtyf118dt3ev",
+          "k579w5h4h4hmjamh9c5hnck2n18dvj23",
+          "k571p03xda1v62w04pd3dvcden8dveze",
+          "k57e3q2kwp5e1k5ppk77x15j8x8dtwk9",
+          "k573npjrq04dswmyqz3s8v9yed8dvs14"
+        ],
+        "googleMapsCode": "5GWV+H5 Tulum, Quintana Roo",
+        "images": [
+          {
+            "alt": "Villa Mao exterior with white geometric walls, tropical landscaping, and warm lights at dusk in Tulum.",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/4d5f4e6f-8273-46e5-76c3-ca057f2ad500/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down"
+          },
+          {
+            "alt": "Villa Mao interior hallway with a skylight, black marble floors, lounge area, tropical courtyard, and warm lighting.",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/ffddbea4-b6e0-4c44-a3e6-7096aadd2b00/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down"
+          },
+          {
+            "alt": "Villa Mao’s modern building surrounds a lit pool and outdoor dining area among trees at dusk.",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/792c64b9-972f-431d-cc32-871100e77f00/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down"
+          },
+          {
+            "alt": "Open-plan Villa Mao living room and dining area with forest views, curved sofas, and warm evening lighting.",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/c7b2bc7b-9e13-4f91-d9af-812da0c97e00/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down"
+          },
+          {
+            "alt": "Open-plan Villa Mao living and dining room with forest views, black marble floors, and warm evening lighting.",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/507ea5b5-4618-43b0-ec43-f0c170489c00/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down"
+          },
+          {
+            "alt": "Open-plan Villa Mao living room with curved sofas, dining area, bar, and pool view in a calm tropical setting",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/b6663b48-ebc7-49d9-8cef-60a3fb7d1400/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down"
+          },
+          {
+            "alt": "Villa Mao entry hall with black marble floors, a round table, tropical plants and a calm modern interior.",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/20d76013-3919-4416-3593-d81d72732000/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down"
+          },
+          {
+            "alt": "Villa Mao's open-plan living room features a curved white sofa, marble flooring, ceiling fans, and floor-to-ceiling windows",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/b73ad6f8-ef0e-4d83-7865-7594dc4a3600/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down"
+          },
+          {
+            "alt": "Wooden pergola with seating area in Villa Mao's garden, overlooking the swimming pool and modern white building in sunny",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/d731f57c-59ec-4447-ec08-06d74c744100/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down"
+          },
+          {
+            "alt": "Villa Mao courtyard with a turquoise pool, shaded dining area, white building, and tropical trees in daylight",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/5a4149b8-a87f-4254-224d-387b8c035300/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down"
+          },
+          {
+            "alt": "Villa Mao pool courtyard with loungers, umbrellas, dining area, and tropical trees in bright sunlight.",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/8ee1bfb6-e8d6-4d52-816e-fd735c52ff00/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down"
+          },
+          {
+            "alt": "Villa Mao's open-plan living area with pool view, featuring modern white furnishings, dining space, and jungle surroundings",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/c7bcf70c-b428-4368-0629-f283b6026d00/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down"
+          },
+          {
+            "alt": "Villa Mao dining room with a long wooden table, lounge area, pendant lights, and tropical greenery.",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/ae2cb7d3-c0ee-41dd-4a78-f1ce46b14e00/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down"
+          },
+          {
+            "alt": "Modern villa hallway with wood railing, framed art, high beamed ceiling, and warm lighting overlooking a furnished lower",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/4277e730-851b-489b-338d-296b8d160800/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down"
+          }
+        ],
+        "pricePerNight": null,
+        "reviewIds": [],
+        "sleeps": "14"
+      },
+      "convexId": "kh7athsra1bn9zqdjkbjw19zd18948t4",
+      "lastUpdated": "2026-09-05T18:07:27.861Z",
+      "locales": {
+        "en": {
+          "body": "<h2>Villa Mao Tulum, a Five-Bedroom Retreat for 14</h2>\n<p>Villa Mao is a multi-level private residence in Los Santos, a gated community within Aldea Zama. It has 1,230 square metres of construction on an 890-square-metre lot. Five oversized bedroom suites accommodate up to 14 people. Open living and dining areas connect to a private garden and lap pool. Floor-to-ceiling windows bring natural light into the house and frame views of the garden and surrounding jungle.</p>\n<p>The ground floor includes open-plan living and dining space, a fully equipped kitchen, a pantry and a laundry room. The property has two fully equipped kitchens in total. There are 6.5 bathrooms and separate service quarters. Digital code access, air conditioning and high-speed Wi-Fi support daily stays. A solar energy system and backup generator provide an additional layer of power security. Three private parking spaces sit within the property.</p>\n<h3>Five Ensuite Bedrooms with Balconies and Private Jacuzzis</h3>\n<p>Each of the five bedroom suites has a private bathroom, walk-in closet, balcony and safe. The two primary suites add private jacuzzis and double rain showers. This gives the main bedrooms their own wellness facilities away from the shared pools and indoor spa. The remaining suites retain the same core layout of an ensuite bathroom, storage and private outdoor space. The full arrangement accommodates up to 14 people.</p>\n<p>The sleeping areas are separate from the main rooftop entertainment zone. Private balconies give each suite an individual outdoor area, while ensuite bathrooms reduce the need to share facilities. The house also includes service quarters and several additional bathrooms outside the bedrooms. A private office on the rooftop provides a separate room for work during longer stays.</p>\n<h3>A Garden Lap Pool, Indoor Spa and Rooftop Infinity Pool</h3>\n<p>The private garden centres on a large lap pool. Indoors, the property has a spa, a dedicated massage suite and a solarium lounge. These spaces allow treatments and quiet time to take place away from the rooftop social areas. Los Santos also provides shared facilities for residents and guests. They include a resort-style pool, gym, padel court, solarium and lounge areas.</p>\n<p>A second private pool sits on the rooftop. This infinity pool includes an integrated jacuzzi and overlooks the surrounding jungle and pool areas. The roof also has an outdoor shower and bathrooms, reducing trips back to the bedrooms between swims. Groups can divide their time between the garden pool, indoor spa, rooftop pool and shared community facilities.</p>\n<h3>Rooftop Dining, a 10-Seat Bar and Firepit Lounge</h3>\n<p>The rooftop functions as a separate entertainment level. A 10-seat bar stands beside the infinity pool, with a firepit lounge for evenings. The outdoor barbecue setup and dining zone provide space for group meals. Inside, two fully equipped kitchens and a pantry support self-catering. Open living and dining areas on the ground floor provide another place for the group to eat together.</p>\n<p>Private chefs, bartenders and custom meal planning can be arranged for the stay. Housekeeping and concierge service are included. Our concierge can coordinate added hospitality services around the group's schedule and meal plans.</p>\n<h3>Gated Aldea Zama Living with Space for Three Vehicles</h3>\n<p>Los Santos is a private residential community within Aldea Zama. It has 24-hour gated security and shared dining, lounge and fitness areas. The surrounding district has paved streets and direct road links towards the beach, the archaeological zone and Downtown Tulum. Restaurants, cafés and everyday services sit along the nearby commercial strip. Three private parking spaces are available at the villa.</p>\n<p>With five ensuite bedrooms, two private pools and several group dining areas, this villa suits extended families and private group. The garden, indoor spa and rooftop create distinct areas for activity and quiet time. The gated setting also separates the residence from Tulum's public venues.</p>\n<h3>Reserve the Whole Villa Through Tulum Bible</h3>\n<p>The property is offered as a whole-home private rental for groups of up to 14. When enquiring, include your preferred dates, group size and any plans for private meals or bar service. Housekeeping and concierge support are included, while chefs, bartenders and custom meal planning can be arranged. Guests arriving by car can use the three private parking spaces. Check rates and dates with the concierge through this page.</p>",
+          "description": "Two private pools define this multi-level retreat for 14, with five ensuite bedrooms, a rooftop bar and firepit, an indoor spa and a garden lap pool below.",
+          "metaDescription": "Villa Mao is a five-bedroom private villa in Aldea Zama's gated Los Santos, sleeping 14 with a garden lap pool and rooftop infinity pool.",
+          "name": "Villa Mao",
+          "slug": "villa-mao"
+        },
+        "es": {
+          "body": "<h2>Villa Mao Tulum, una residencia de cinco dormitorios con capacidad para 14 personas</h2>\n<p>Villa Mao es una residencia privada de varios niveles situada en Los Santos, una urbanización cerrada dentro de Aldea Zama. Cuenta con 1.230 metros cuadrados de superficie construida sobre una parcela de 890 metros cuadrados. Cinco amplísimas suites pueden alojar hasta 14 personas. Las zonas diáfanas de salón y comedor dan a un jardín privado y a una piscina de entrenamiento. Los ventanales de suelo a techo inundan la casa de luz natural y enmarcan las vistas al jardín y a la selva circundante.</p>\n<p>La planta baja incluye una zona diáfana de salón y comedor, una cocina totalmente equipada, una despensa y un lavadero. La propiedad cuenta con dos cocinas totalmente equipadas en total. Hay 6,5 cuartos de baño y una zona de servicio independiente. El acceso mediante código digital, el aire acondicionado y la conexión Wi-Fi de alta velocidad facilitan las estancias diarias. Un sistema de energía solar y un generador de reserva proporcionan una seguridad adicional en el suministro eléctrico. La propiedad cuenta con tres plazas de aparcamiento privadas.</p>\n<h3>Cinco dormitorios con baño en suite, balcón y jacuzzi privado</h3>\n<p>Cada una de las cinco suites dispone de baño privado, vestidor, balcón y caja fuerte. Las dos suites principales cuentan además con jacuzzis privados y duchas de lluvia dobles. Esto proporciona a los dormitorios principales sus propias instalaciones de bienestar, al margen de las piscinas compartidas y del spa interior. El resto de suites conservan la misma distribución básica: baño en suite, espacio de almacenamiento y zona exterior privada. La distribución completa tiene capacidad para hasta 14 personas.</p>\n<p>Las zonas de descanso están separadas de la zona principal de ocio rooftop. Los balcones privados dotan a cada suite de una zona exterior individual, mientras que los baños en suite reducen la necesidad de compartir instalaciones. La casa también incluye habitaciones para el personal y varios baños adicionales fuera de los dormitorios. Un despacho privado en la rooftop ofrece una estancia independiente para trabajar durante estancias más prolongadas.</p>\n<h3>Una piscina de entrenamiento en el jardín, un spa interior y una piscina infinita Rooftop </h3>\n<p>El jardín privado gira en torno a una gran piscina de entrenamiento. En el interior, la propiedad cuenta con un spa, una sala dedicada a los masajes y un solárium. Estos espacios permiten disfrutar de tratamientos y momentos de tranquilidad alejados de las zonas comunes de rooftop. Los Santos también ofrece instalaciones compartidas para residentes e invitados. Entre ellas se incluyen una piscina tipo resort, un gimnasio, una pista de pádel, un solárium y zonas de descanso.</p>\n<p>En la azotea hay una segunda piscina privada. Esta piscina rooftop incluye un jacuzzi integrado y ofrece vistas a la selva circundante y a las zonas de piscina. La azotea también cuenta con una ducha exterior y aseos, lo que evita tener que volver a las habitaciones entre baño y baño. Los grupos pueden repartir su tiempo entre la piscina del jardín, el spa interior, la piscina rooftop y las instalaciones comunitarias compartidas.</p>\n<h3>Rooftop Comedor, un bar con capacidad para 10 personas y un salón con hoguera</h3>\n<p>El rooftop funciona como una planta de ocio independiente. Junto a la piscina infinita hay un bar con capacidad para 10 personas, con un salón con chimenea para las noches. La zona de barbacoa al aire libre y el comedor ofrecen espacio para comidas en grupo. En el interior, dos cocinas totalmente equipadas y una despensa facilitan la autoservicio. Las zonas diáfanas de salón y comedor de la planta baja ofrecen otro espacio para que el grupo coma junto.</p>\n<p>Se pueden contratar chefs privados, camareros y un servicio de planificación de comidas a medida para la estancia. El servicio de limpieza y de conserjería está incluido. Nuestro conserje puede coordinar servicios de hospitalidad adicionales en función del horario y los planes de comidas del grupo.</p>\n<h3>Aldea Zama, una urbanización cerrada con espacio para tres vehículos</h3>\n<p>Los Santos es una comunidad residencial privada situada dentro de Aldea Zama. Cuenta con seguridad las 24 horas y zonas comunes de comedor, salón y gimnasio. El barrio circundante tiene calles asfaltadas y conexiones directas por carretera hacia la playa, la zona arqueológica y el centro de Tulum. En la zona comercial cercana hay restaurantes, cafeterías y servicios para el día a día. La villa dispone de tres plazas de aparcamiento privadas.</p>\n<p>Con cinco dormitorios con baño privado, dos piscinas privadas y varias zonas de comedor para grupos, esta villa es ideal para familias numerosas y grupos privados. El jardín, el spa interior y el rooftop crean espacios diferenciados para la actividad y el descanso. El recinto cerrado también separa la residencia de los lugares públicos de Tulum.</p>\n<h3>Reserva la villa completa a través de Tulum Bible</h3>\n<p>La propiedad se ofrece como alquiler privado de la vivienda completa para grupos de hasta 14 personas. Al realizar la consulta, indica tus fechas preferidas, el tamaño del grupo y cualquier plan que tengas para comidas privadas o servicio de bar. El servicio de limpieza y conserjería están incluidos, mientras que se pueden organizar chefs, camareros y menús personalizados. Los huéspedes que lleguen en coche pueden utilizar las tres plazas de aparcamiento privadas. Consulta las tarifas y las fechas con el servicio de conserjería a través de esta página.</p>",
+          "description": "Dos piscinas privadas caracterizan este refugio de varios niveles con capacidad para 14 personas, que cuenta con cinco dormitorios con baño privado, un bar rooftop y una chimenea exterior, un spa interior y una piscina de entrenamiento en el jardín en la planta baja.",
+          "metaDescription": "Villa Mao, villa privada de 5 dormitorios en la urbanización cerrada Los Santos, Aldea Zama, para 14 personas, con piscina de entrenamiento e infinita rooftop.",
+          "name": "Villa Mao",
+          "slug": "villa-mao"
         }
       }
     }

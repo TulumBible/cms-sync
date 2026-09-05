@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-05T05:12:27.565Z",
+  "syncedAt": "2026-09-05T18:08:19.905Z",
   "citySlug": "tulum",
   "faqs": [
     {
@@ -3123,6 +3123,116 @@
         "es": {
           "answer": "No. No se admiten mascotas en el alojamiento.",
           "name": "¿Se admiten mascotas en Villa Sand?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "how-many-people-can-stay-at-villa-mao"
+      },
+      "convexId": "k57554000rgm2p7jkn8bdtyf118dt3ev",
+      "lastUpdated": "2026-09-05T18:07:23.910Z",
+      "locales": {
+        "en": {
+          "answer": "The villa accommodates up to 14 people across five oversized bedroom suites. Every suite has a private bathroom, walk-in closet and balcony.",
+          "name": "How many people can stay at Villa Mao?"
+        },
+        "es": {
+          "answer": "La villa tiene capacidad para hasta 14 personas distribuidas en cinco amplias suites. Cada suite cuenta con baño privado, vestidor y balcón.",
+          "name": "¿Cuántas personas pueden alojarse en Villa Mao?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "does-villa-mao-have-private-pools-and-a-spa"
+      },
+      "convexId": "k579w5h4h4hmjamh9c5hnck2n18dvj23",
+      "lastUpdated": "2026-09-05T18:07:23.910Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. It has a private garden lap pool, a rooftop infinity pool with an integrated jacuzzi, an indoor spa and a dedicated massage suite. Guests also have access to the shared Los Santos pool.",
+          "name": "Does Villa Mao have private pools and a spa?"
+        },
+        "es": {
+          "answer": "Sí. Cuenta con una piscina privada de entrenamiento en el jardín, una piscina infinita rooftop con jacuzzi integrado, un spa interior y una sala de masajes exclusiva. Los huéspedes también tienen acceso a la piscina compartida de Los Santos.",
+          "name": "¿Cuenta Villa Mao con piscinas privadas y un spa?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "can-meals-be-arranged-at-villa-mao"
+      },
+      "convexId": "k571p03xda1v62w04pd3dvcden8dveze",
+      "lastUpdated": "2026-09-05T18:07:23.910Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. Private chefs, bartenders and custom meal planning can be arranged. The villa also has two fully equipped kitchens, a pantry and a rooftop barbecue and dining area.",
+          "name": "Can meals be arranged at Villa Mao?"
+        },
+        "es": {
+          "answer": "Sí. Se pueden contratar chefs privados, camareros y servicios de planificación personalizada de comidas. La villa cuenta además con dos cocinas totalmente equipadas, una despensa y una zona de barbacoa y comedor rooftop.",
+          "name": "¿Se pueden organizar comidas en Villa Mao?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "is-housekeeping-included-at-villa-mao"
+      },
+      "convexId": "k57e3q2kwp5e1k5ppk77x15j8x8dtwk9",
+      "lastUpdated": "2026-09-05T18:07:23.910Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. Housekeeping and concierge service are included with the stay.",
+          "name": "Is housekeeping included at Villa Mao?"
+        },
+        "es": {
+          "answer": "Sí. El servicio de limpieza y el servicio de conserjería están incluidos en la estancia.",
+          "name": "¿El servicio de limpieza está incluido en Villa Mao?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "does-villa-mao-have-parking"
+      },
+      "convexId": "k573npjrq04dswmyqz3s8v9yed8dvs14",
+      "lastUpdated": "2026-09-05T18:07:23.910Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. The property has three private parking spaces inside the gated Los Santos community.",
+          "name": "Does Villa Mao have parking?"
+        },
+        "es": {
+          "answer": "Sí. La vivienda cuenta con tres plazas de aparcamiento privadas dentro de la urbanización cerrada de Los Santos.",
+          "name": "¿Hay aparcamiento en Villa Mao?"
         }
       }
     }
