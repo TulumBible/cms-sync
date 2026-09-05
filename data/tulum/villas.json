@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-05T03:49:34.336Z",
+  "syncedAt": "2026-09-05T04:00:22.635Z",
   "citySlug": "tulum",
   "villas": [
     {
@@ -644,7 +644,14 @@
         "beds": "11",
         "category": "villa",
         "categoryIds": [],
-        "faqIds": [],
+        "faqIds": [
+          "k57ddqra6gz5jdcj4vehvjghdd8dvjtx",
+          "k5758406pp10sx3btt2e7743018dtz5z",
+          "k5705mzc1a6h3fm414tt903y5h8dvjta",
+          "k57607eas2fcwvjc54yrkq6c598dt2nh",
+          "k574pmzfwdsrzn2ghsh2xtmw9h8dv6jc",
+          "k5732bd7vv2b54sb768my0xpds8dttv9"
+        ],
         "googleMapsCode": "5G7W+7F Tulum, Quintana Roo",
         "images": [
           {
@@ -721,7 +728,7 @@
         "sleeps": "22"
       },
       "convexId": "kh73kj2xahwkbyr2qxbj4a6pd1895hta",
-      "lastUpdated": "2026-09-04T19:49:32.413Z",
+      "lastUpdated": "2026-09-05T03:59:24.961Z",
       "locales": {
         "en": {
           "body": "<h1>Villa Privada</h1>\n<p>A beachfront villa in Tulum's Hotel Zone with ten ensuite suites sleeping twenty-two — a fully-staffed estate for large groups who want the sand at their doorstep and a private team running the day. The social spaces open onto a beachfront pool and deck, with a rooftop lounge above and an outdoor event space for gatherings.</p>\n<h2>Suites</h2>\n<ul>\n  <li><strong>Beachview Suites 1–2</strong> — King bed, ensuite bathroom (×2)</li>\n  <li><strong>Suites 3–9</strong> — King bed, ensuite bathroom (×7)</li>\n  <li><strong>Suite 10</strong> — Two queen beds, ensuite bathroom</li>\n</ul>\n<h2>Property features</h2>\n<ul>\n  <li>Beachfront location</li>\n  <li>Beachfront pool & deck</li>\n  <li>Plunge pool</li>\n  <li>Rooftop lounge area</li>\n  <li>Outdoor event space</li>\n</ul>\n<h2>Included services</h2>\n<ul>\n  <li>Personal butler</li>\n  <li>Private chef</li>\n  <li>Exclusive concierge</li>\n  <li>Daily housekeeping</li>\n  <li>Security guard</li>\n</ul>",

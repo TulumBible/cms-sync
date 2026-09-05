@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-05T03:49:34.327Z",
+  "syncedAt": "2026-09-05T04:00:22.695Z",
   "citySlug": "tulum",
   "faqs": [
     {
@@ -2595,6 +2595,138 @@
         "es": {
           "answer": "Sí. La villa ofrece un servicio de registro de entrada autónomo, con asistencia del conserje disponible antes y durante la estancia.",
           "name": "¿Se puede hacer el check-in por internet?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "does-villa-privada-have-direct-beach-access"
+      },
+      "convexId": "k57ddqra6gz5jdcj4vehvjghdd8dvjtx",
+      "lastUpdated": "2026-09-05T03:59:41.836Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. The grounds open directly onto Tulum Beach, without the need to cross the beach road.",
+          "name": "Does Villa Privada have direct beach access?"
+        },
+        "es": {
+          "answer": "Sí. El recinto da directamente a la playa de Tulum, sin necesidad de cruzar la carretera de la playa.",
+          "name": "¿Tiene Villa Privada acceso directo a la playa?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "how-many-guests-can-villa-privada-accommodate"
+      },
+      "convexId": "k5758406pp10sx3btt2e7743018dtz5z",
+      "lastUpdated": "2026-09-05T03:59:41.836Z",
+      "locales": {
+        "en": {
+          "answer": "The villa sleeps up to 22 guests in ten air-conditioned ensuite bedrooms. The bed setup is nine king beds and two queen beds.",
+          "name": "How many guests can Villa Privada accommodate?"
+        },
+        "es": {
+          "answer": "La villa tiene capacidad para hasta 22 huéspedes en diez habitaciones con baño privado y aire acondicionado. La distribución de las camas es la siguiente: nueve camas king y dos camas queen.",
+          "name": "¿A cuántos huéspedes puede alojar Villa Privada?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "does-villa-privada-have-a-private-pool"
+      },
+      "convexId": "k5705mzc1a6h3fm414tt903y5h8dvjta",
+      "lastUpdated": "2026-09-05T03:59:41.836Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. The property has a beachfront swimming pool, a central plunge pool and a rooftop plunge pool beside the rooftop lounge.",
+          "name": "Does Villa Privada have a private pool?"
+        },
+        "es": {
+          "answer": "Sí. La propiedad cuenta con una piscina frente a la playa, una piscina de inmersión en la zona central y una piscina de inmersión rooftop junto al salón rooftop.",
+          "name": "¿Tiene Villa Privada piscina privada?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "is-breakfast-included-at-villa-privada"
+      },
+      "convexId": "k57607eas2fcwvjc54yrkq6c598dt2nh",
+      "lastUpdated": "2026-09-05T03:59:41.836Z",
+      "locales": {
+        "en": {
+          "answer": "A private chef is included and can prepare customised menus, including daily breakfast. Pre-arrival grocery stocking and other meal formats can also be arranged.",
+          "name": "Is breakfast included at Villa Privada?"
+        },
+        "es": {
+          "answer": "Se incluye un chef privado que puede preparar menús a medida, incluido el desayuno diario. También se puede organizar la compra de alimentos antes de la llegada y otros tipos de comidas.",
+          "name": "¿El desayuno está incluido en Villa Privada?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "does-villa-privada-provide-airport-transportation"
+      },
+      "convexId": "k574pmzfwdsrzn2ghsh2xtmw9h8dv6jc",
+      "lastUpdated": "2026-09-05T03:59:41.836Z",
+      "locales": {
+        "en": {
+          "answer": "The concierge can arrange transportation from Tulum International Airport and local transport during the stay. Enquire through this page to organise it with the booking.",
+          "name": "Does Villa Privada provide airport transportation?"
+        },
+        "es": {
+          "answer": "El conserje puede organizar el traslado desde el Aeropuerto Internacional de Tulum y el transporte local durante la estancia. Solicita información a través de esta página para organizarlo junto con la reserva.",
+          "name": "¿Ofrece Villa Privada servicio de traslado al aeropuerto?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "is-parking-available-at-villa-privada"
+      },
+      "convexId": "k5732bd7vv2b54sb768my0xpds8dttv9",
+      "lastUpdated": "2026-09-05T03:59:41.836Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. Garage parking is available at the property.",
+          "name": "Is parking available at Villa Privada?"
+        },
+        "es": {
+          "answer": "Sí. La propiedad dispone de plazas de aparcamiento en garaje.",
+          "name": "¿Hay plazas de aparcamiento disponibles en Villa Privada?"
         }
       }
     }
