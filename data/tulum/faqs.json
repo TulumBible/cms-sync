@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-05T18:25:11.833Z",
+  "syncedAt": "2026-09-05T19:15:45.225Z",
   "citySlug": "tulum",
   "faqs": [
     {
@@ -3343,6 +3343,116 @@
         "es": {
           "answer": "La residencia de cinco dormitorios tiene un precio a partir de 1.600 dólares estadounidenses por noche, mientras que la finca completa de ocho dormitorios tiene un precio a partir de 2.060 dólares estadounidenses por noche. Solicita información a través de esta página para consultar tarifas y fechas.",
           "name": "¿Cuánto cuesta Villa Raes?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "does-palma-y-arco-have-a-private-pool"
+      },
+      "convexId": "k572sdqxwp1pz8c41zs2bw3knn8dt9cw",
+      "lastUpdated": "2026-09-05T19:15:15.729Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. The villa has a rooftop lap pool facing the jungle treeline, plus a jacuzzi and private outdoor bathtubs attached to several suites.",
+          "name": "Does Palma y Arco have a private pool?"
+        },
+        "es": {
+          "answer": "Sí. La villa cuenta con una piscina de estilo lap rooftop con vistas a la línea de árboles de la selva, además de un jacuzzi y bañeras privadas al aire libre en varias suites.",
+          "name": "¿Tiene Palma y Arco piscina privada?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "are-airport-transfers-available-for-palma-y-arco"
+      },
+      "convexId": "k57bffcg80kfn7nfzadjz5bwjx8dtcde",
+      "lastUpdated": "2026-09-05T19:15:15.729Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. The concierge can arrange private airport transfers and group shuttles through outside providers. Tulum International Airport is approximately 40 minutes from Tulum, while Cancún International Airport is about one hour and 45 minutes away.",
+          "name": "Are airport transfers available for Palma y Arco?"
+        },
+        "es": {
+          "answer": "Sí. El conserje puede organizar traslados privados al aeropuerto y servicios de transporte en grupo a través de proveedores externos. El Aeropuerto Internacional de Tulum se encuentra a unos 40 minutos de Tulum, mientras que el Aeropuerto Internacional de Cancún está a aproximadamente una hora y 45 minutos.",
+          "name": "¿Hay servicio de traslado desde el aeropuerto a Palma y Arco?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "is-there-parking-at-palma-y-arco"
+      },
+      "convexId": "k57crep1pfxch583jp5q3f7ysd8dvzmn",
+      "lastUpdated": "2026-09-05T19:15:15.729Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. Private parking is available for up to five vehicles, though roads leading to the property can be uneven.",
+          "name": "Is there parking at Palma y Arco?"
+        },
+        "es": {
+          "answer": "Sí. Hay aparcamiento privado con capacidad para un máximo de cinco vehículos, aunque las carreteras que conducen a la propiedad pueden presentar baches.",
+          "name": "¿Hay aparcamiento en Palma y Arco?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "what-are-the-check-in-and-check-out-times-at-palma-y-arco"
+      },
+      "convexId": "k578hsdvja4j0p0ewh8a49b7wx8dt9pw",
+      "lastUpdated": "2026-09-05T19:15:15.729Z",
+      "locales": {
+        "en": {
+          "answer": "Check-in begins at 4 PM, and check-out is by 10 AM.",
+          "name": "What are the check-in and check-out times at Palma y Arco?"
+        },
+        "es": {
+          "answer": "El registro de entrada comienza a las 16:00 y el de salida debe realizarse antes de las 10:00.",
+          "name": "¿A qué hora son el registro de entrada y el de salida en Palma y Arco?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "is-palma-y-arco-rented-privately-to-one-group"
+      },
+      "convexId": "k575p0n1fyh3gyc1ze9rgnwvcd8dvm0m",
+      "lastUpdated": "2026-09-05T19:15:15.729Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. A full-villa booking gives one group private access to all 14 bedrooms, the rooftop pool, terraces, courtyard, outdoor kitchen and event areas.",
+          "name": "Is Palma y Arco rented privately to one group?"
+        },
+        "es": {
+          "answer": "Sí. La reserva de la villa completa ofrece a un mismo grupo acceso privado a las 14 habitaciones, la piscina rooftop, las terrazas, el patio, la cocina al aire libre y las zonas para eventos.",
+          "name": "¿Se alquila Palma y Arco en exclusiva a un solo grupo?"
         }
       }
     }
