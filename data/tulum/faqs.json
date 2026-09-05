@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-05T03:04:12.524Z",
+  "syncedAt": "2026-09-05T03:17:33.218Z",
   "citySlug": "tulum",
   "faqs": [
     {
@@ -2221,6 +2221,116 @@
         "es": {
           "answer": "La hora habitual de entrada es a las 15:00. La hora de salida es a las 11:00.",
           "name": "¿A qué hora hay que hacer el check-in y el check-out?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "how-many-people-does-casa-aviv-sleep"
+      },
+      "convexId": "k57c980fwhytvcgapcvtzaxz1d8dtqxk",
+      "lastUpdated": "2026-09-05T03:16:00.955Z",
+      "locales": {
+        "en": {
+          "answer": "The villa sleeps up to eight guests across four bedrooms, each with a king bed and its own en-suite bathroom. The whole house is booked as one, so it suits a single group traveling together.",
+          "name": "How many people does Casa Aviv sleep?"
+        },
+        "es": {
+          "answer": "La villa tiene capacidad para hasta ocho huéspedes distribuidos en cuatro dormitorios, cada uno con una cama king size y su propio cuarto de baño en suite. La casa se alquila en su totalidad, por lo que es ideal para un único grupo que viaje junto.",
+          "name": "¿Cuántas personas pueden alojarse en Casa Aviv?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "does-casa-aviv-have-a-pool"
+      },
+      "convexId": "k5792xjcjeczrb755a54pnvjzs8dtsgr",
+      "lastUpdated": "2026-09-05T03:16:00.955Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. There is a private swimming pool that opens directly off the living room, plus a 360-degree rooftop terrace with a cold plunge and outdoor lounge areas.",
+          "name": "Does Casa Aviv have a pool?"
+        },
+        "es": {
+          "answer": "Sí. Hay una piscina privada a la que se accede directamente desde el salón, además de una terraza rooftop de 360 grados con una piscina de agua fría y zonas de descanso al aire libre.",
+          "name": "¿Tiene piscina Casa Aviv?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "are-housekeeping-and-concierge-included"
+      },
+      "convexId": "k57f3ewzy9s1xgk131n9hbw30d8dtmy3",
+      "lastUpdated": "2026-09-05T03:16:00.955Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. Daily housekeeping and concierge service are included, and the concierge can arrange transport, private chefs, massages, wellness activities and tours before and during your stay.",
+          "name": "Are housekeeping and concierge included?"
+        },
+        "es": {
+          "answer": "Sí. El servicio diario de limpieza y el servicio de conserjería están incluidos, y el conserje puede organizar el transporte, chefs privados, masajes, actividades de bienestar y excursiones antes y durante tu estancia.",
+          "name": "¿Se incluyen los servicios de limpieza y conserjería?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "how-far-is-casa-aviv-from-tulum-beach"
+      },
+      "convexId": "k573dcgjd7rreq8721k9hkb6pn8dtj8r",
+      "lastUpdated": "2026-09-05T03:16:00.955Z",
+      "locales": {
+        "en": {
+          "answer": "The villa sits in Aldea Zama between the town and the coast, with Tulum Beach around a ten-minute drive away. Downtown Tulum is also close by.",
+          "name": "How far is Casa Aviv from Tulum Beach?"
+        },
+        "es": {
+          "answer": "La villa se encuentra en Aldea Zama, entre el pueblo y la costa, a unos diez minutos en coche de la playa de Tulum. El centro de Tulum también está cerca.",
+          "name": "¿A qué distancia está Casa Aviv de la playa de Tulum?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "can-i-host-an-event-at-casa-aviv"
+      },
+      "convexId": "k57bvzr4ztb6b7a9qb2p1cfsbn8dv6a1",
+      "lastUpdated": "2026-09-05T03:16:00.955Z",
+      "locales": {
+        "en": {
+          "answer": "Private events are possible but must be approved in advance and covered by a signed event agreement. Raise your plans through this page and the concierge will confirm what is possible.",
+          "name": "Can I host an event at Casa Aviv?"
+        },
+        "es": {
+          "answer": "Se pueden celebrar eventos privados, pero deben aprobarse con antelación y estar regulados por un contrato de evento firmado. Envía tus propuestas a través de esta página y el servicio de conserjería te confirmará qué opciones son viables.",
+          "name": "¿Puedo celebrar un evento en Casa Aviv?"
         }
       }
     }
