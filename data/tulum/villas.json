@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-05T19:27:32.049Z",
+  "syncedAt": "2026-09-05T23:34:17.288Z",
   "citySlug": "tulum",
   "villas": [
     {
@@ -1700,6 +1700,174 @@
           "metaDescription": "Jungle V es una villa privada en la selva de La Veleta para 19 huéspedes, con cinco cabañas independientes, piscina infinita y pabellón de yoga.",
           "name": "Jungle V",
           "slug": "jungle-v"
+        }
+      }
+    },
+    {
+      "base": {
+        "amenityIds": [
+          "jn72g2rwy1fpwjhq9pjfzd4fdh85ke31",
+          "jn74701wrrgsk24wp2wzadpae185kzb5",
+          "jn796fkb2npe38c126gkzmhe85858yf5",
+          "jn76cg9jqcvq6gh3xwf0cj2c2s859sx2",
+          "jn78c0kww3ghntsrs0x74x0whx85j8ft",
+          "jn759h6mpgpqbe74w1z2sbj4r585k9x3"
+        ],
+        "area": "region-15",
+        "bathrooms": "9",
+        "bedrooms": "9",
+        "beds": "7 king + 2 queen + 1 king (master suite)",
+        "category": "villa",
+        "categoryIds": [],
+        "faqIds": [
+          "k571dh7snnjw5ftmypzc8km4rx8dvqm9",
+          "k570qcw26nw70p0qpxctfrntfs8dvcfk",
+          "k5716xk33zvkvnrbeqa64v0wfh8dvs20",
+          "k575nccz4mz3kd06je64kprq4h8dv4p9"
+        ],
+        "googleMapsCode": "76GJ5GHG+QR",
+        "images": [
+          {
+            "alt": "The courtyard pool at dusk, lit along both wings",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/img-7a871de46e0fd67893f050c0def0493b/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Hacienda Babylon from above, the pool running down the centre",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/img-5412c0f723dd83272475928f6369c5fd/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "The main pool with loungers along both sides",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/img-45d8b92758331f27b885c06cf54ad00a/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Loungers lined along the pool",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/img-34f88cfe25580dd579839900d66dfc8e/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Guest rooms opening onto the pool terrace",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/img-af24ab7517d227439fd39ad0cd3e903d/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Double-height living room behind a full glass wall",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/img-94c5545a1551e49f2448a93035fa553e/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Dining table set against the media wall",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/img-90d52821ee5acdc1b79100bcb383cfc0/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "The interior at dusk, looking up to the mezzanine",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/img-e5719f63f7406220ff7b73ca5dadf8b3/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Dining under woven pendant lights",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/img-923b0cdc807e1a9840cecfd5d37f774a/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Colonnade seating along the courtyard",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/img-cddb2167b1860e7ee50b3a2c174a9331/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Kitchen bar beneath the mezzanine",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/img-8ff9baaf3a848d9e4bf487b06c8ad737/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Lounge seating by the glass wall",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/img-16b9bf0092505fa2c80d8a7fb9c83c1a/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Game room with a pool table under timber beams",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/img-07e3b8fd3a91d995748938c59a2d4331/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Gym looking out into the jungle",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/img-8539aba32e38d0ca78ca3b5dfe255f52/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Yoga room, mats laid out between the stone columns",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/img-c7faeffa0ee854e1e2e2592b20988e2e/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "The temazcal, set back among the trees",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/img-cfdc02b1832762d1f047738f8e15cb61/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "The firepit with the house lit behind it",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/img-8c833625817545457bd2a7ea8645c8d2/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Master suite with its own living room",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/img-4c75e092ef28079b3d5b820ecd2114b5/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Sitting area in the master suite",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/img-fa782eae2e231ad0a9e180b9b06ff0f4/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "King bedroom with terrace doors",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/img-89991cc9b07171de684604c9f69dd1bc/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Bedroom opening onto its private plunge pool",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/img-330fcaa935dacad798f0c8bad101ca65/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "King bed with the plunge pool beyond the glass",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/img-c3e751198b6633f17641018a624e9b28/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "King bedroom in muted linen",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/img-da6e11ceca19058ed0a671ebe327b867/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Daybed beside a private plunge pool",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/img-a37e3523008dc2b64123ffd35940930c/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Plunge pool under a shade sail",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/img-2e3b86275ed9acddf5b4abca41360fcd/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Plunge pool beside an arched wall",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/img-00efba5372ebab51c1aaf74502be382c/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Bathroom with a sunken tub and a window to the jungle",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/img-da8beafa289c1817d8057a6b2b400657/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Stone basin with the garden beyond",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/img-e3dbb4d7177e049151cedee5d7ee42fa/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Basin and mirror in one of the en-suites",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/img-4747506281dd76c9ef24d4f939f5212c/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Bathroom amenities in a wall niche",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/img-c3297e2a1203ecfcf3277cf6e9dcfe1f/format=auto,quality=90,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          }
+        ],
+        "pricePerNight": "$1,850 USD",
+        "reviewIds": [],
+        "sleeps": "20"
+      },
+      "convexId": "kh703rtc684qrrbwmj27mrk6cn8dvaq1",
+      "lastUpdated": "2026-09-05T23:33:57.019Z",
+      "locales": {
+        "en": {
+          "body": "<h2>Inside Hacienda Babylon Tulum</h2>\n<p>Hacienda Babylon is a private nine-bedroom estate in Region 15. It sleeps up to 20 guests and is rented to one group at a time. Three buildings form a U around a 14-metre courtyard pool. Chukum finishes, pale local stone, exposed wooden beams and stone pillars connect the modern layout to regional building traditions. The property also operates as a venue for retreats, weddings, photo shoots and private celebrations.</p>\n<h3>Nine Bedrooms, Each With Its Own Plunge Pool</h3>\n<p>Every bedroom has air conditioning, an en-suite bathroom, a safe, Wi-Fi, a private terrace and its own plunge pool. Seven standard rooms have a king bed, while one room has two queen beds for up to four people. The master suite has a king bed and a separate living area. Some beds can also be arranged as twins. The nine plunge pools vary in layout, with walled spaces, shade sails and a hammock suspended over one pool.</p>\n<p>Bathrooms use stone basins and walk-in showers. Several connect visually or directly to planted areas, creating a partly outdoor feel while remaining protected from the weather. The master bathroom adds a bathtub, shower and dual vanity. Toiletries and hairdryers are supplied. All bedrooms also have ceiling fans and window screens.</p>\n<h3>The Courtyard Pool and Shared Living Spaces</h3>\n<p>The 14-metre main pool runs through the centre of the courtyard, bringing the total number of pools to ten. Sun loungers, umbrellas and shaded seating line its sides, while bedrooms open toward the water. Exterior lighting illuminates the colonnade after dark. Beach towels, hammocks, an outdoor shower and several garden seating areas are also provided. A Bluetooth sound system covers the pool and common areas.</p>\n<p>Inside, the double-height living room has a sunken lounge, smart television and a wall of black-framed glass facing the courtyard. The dining room centres on a long table that can seat between 14 and 22 guests. A covered colonnade adds more cushioned seating beside the pool. There is also a bar and lounge, a cocktail deck, covered outdoor dining and an open fireplace. The game room has a pool table, arcade machine and board games.</p>\n<h3>A Kitchen Built for Group Meals and Events</h3>\n<p>The open kitchen is equipped for large group meals and events of up to 100 guests. It has an island with bar stools, a pantry, coffee station, dishwasher, blender, food processor, toaster, cappuccino machine, coffee grinder and pizza oven. A barbecue and grill are available outside. Private chef service, grocery shopping, bartenders and waiters can be arranged for an extra charge. Groceries are not included with chef service.</p>\n<h3>Gym, Yoga Room and Wood-Fired Temazcal</h3>\n<p>A glass-walled gym faces the surrounding jungle and includes CrossFit-style equipment. Children are not permitted inside the gym. The separate yoga room has mats, columns and trees growing through the structure, and private yoga or fitness classes can be arranged. A firepit with chairs sits farther into the garden. The property also has a traditional wood-fired temazcal rather than a conventional spa.</p>\n<p>A wellness temazcal setup costs US$100 and requires at least 48 hours of notice. All overnight guests can participate in the same session. A fuller spiritual ceremony with a facilitator can also be arranged for an additional quoted charge. The garden, yoga space and temazcal allow a group to plan wellness time without leaving the estate. Diving instruction, cenote tours and kitesurf lessons can be organised separately.</p>\n<h3>Housekeeping, Concierge and Practical Details</h3>\n<p>Daily housekeeping, gardening and concierge service are included. Staff can also operate the washer and dryer for an additional charge. Starlink Wi-Fi covers the property, and a generator is installed. Private parking is available both inside and in front of the estate, while bikes are provided for local journeys.</p>\n<h3>Dirt-Road Access Between Town and the Beach</h3>\n<p>The villa sits in a jungle part of Region 15 and is reached by dirt roads. Tulum Centro, restaurants, bars and the nearest large grocery store are about a 10-minute drive away. The nearest beach is around 12 minutes by car, so this is not a beachfront stay. Tulum International Airport is 43.5 kilometres away and usually takes at least 40 minutes. Cancún International Airport is 123 kilometres away, with a typical drive of around 90 minutes. Airport transfers and local shuttles can be arranged.</p>\n<h3>Group Rules, Quiet Hours and Private Events</h3>\n<p>The estate is non-smoking and outside guests require prior owner approval. Loud music must stop at 11pm, and external sound systems are not allowed because the installed Bluetooth system is the only permitted setup. Day visitors can be approved through a paid day pass. Weddings and other events are accepted with extra charges for up to 100 guests. The kitchen, dining areas, courtyard and garden can support seated gatherings and private celebrations.</p>\n<p>Check-in is at 4pm and check-out is at 10am. Stays have a minimum length of five nights. Rates start at approximately US$2,250 per night before applicable charges. A 5% lodging tax and 16% government tax apply, along with the listed damage cover and security requirements. Event charges, staff services and groceries are separate from the accommodation rate.</p>\n<h3>Enquire About Rates, Dates and Group Plans</h3>\n<p>Confirm the total price against your dates, group size and planned use of the property. Include any request for chef service, airport transfers, a temazcal, outside visitors or an event in the same enquiry. Approval is required before inviting day guests or arranging a celebration. Check rates and dates with the concierge through this page. The Tulum Bible team can also coordinate the booking details for your group.</p>",
+          "description": "Nine suites face a 14-metre courtyard pool, and every bedroom opens to its own plunge pool and terrace. A gym, yoga room and temazcal sit among the trees.",
+          "metaDescription": "Hacienda Babylon is a nine-bedroom jungle villa in Region 15 with a 14-metre central pool and a private plunge pool for every suite on site.",
+          "name": "Hacienda Babylon",
+          "slug": "hacienda-babylon"
+        },
+        "es": {
+          "body": "<h2>En el interior de Hacienda Babylon Tulum</h2>\n<p>Hacienda Babylon es una finca privada de nueve dormitorios situada en la Región 15. Tiene capacidad para hasta 20 huéspedes y se alquila a un solo grupo cada vez. Tres edificios forman una U alrededor de una piscina en el patio de 14 metros. Los acabados de chukum, la piedra local clara, las vigas de madera a la vista y los pilares de piedra conectan la distribución moderna con las tradiciones arquitectónicas regionales. La propiedad también funciona como espacio para retiros, bodas, sesiones fotográficas y celebraciones privadas.</p>\n<h3>Nueve dormitorios, cada uno con su propia piscina privada</h3>\n<p>Todas las habitaciones disponen de aire acondicionado, baño en suite, caja fuerte, wifi, terraza privada y su propia piscina de inmersión. Siete habitaciones estándar cuentan con una cama king size, mientras que una de ellas dispone de dos camas queen size con capacidad para hasta cuatro personas. La suite principal cuenta con una cama king size y una zona de estar independiente. Algunas camas también pueden configurarse como camas individuales. Las nueve piscinas privadas varían en su distribución, con espacios amurallados, toldos y una hamaca suspendida sobre una de ellas.</p>\n<p>Los cuartos de baño cuentan con lavabos de piedra y duchas a ras de suelo. Varios de ellos están conectados visualmente o directamente con zonas ajardinadas, lo que crea una sensación de estar parcialmente al aire libre sin dejar de estar protegidos de las inclemencias del tiempo. El cuarto de baño principal cuenta además con bañera, ducha y doble lavabo. Se proporcionan artículos de aseo y secadores de pelo. Todas las habitaciones disponen también de ventiladores de techo y mosquiteras en las ventanas.</p>\n<h3>La piscina del patio y las zonas comunes</h3>\n<p>La piscina principal, de 14 metros, atraviesa el centro del patio, lo que eleva el número total de piscinas a diez. A lo largo de sus lados hay tumbonas, sombrillas y asientos a la sombra, mientras que los dormitorios se abren hacia el agua. La iluminación exterior ilumina la columnata al caer la noche. También se proporcionan toallas de playa, hamacas, una ducha exterior y varias zonas de descanso en el jardín. Un sistema de sonido Bluetooth da cobertura a la piscina y a las zonas comunes.</p>\n<p>En el interior, el salón de doble altura cuenta con una zona de descanso rebajada, un televisor inteligente y una pared de cristal con marcos negros que da al patio. El comedor gira en torno a una mesa alargada con capacidad para entre 14 y 22 comensales. Una columnata cubierta añade más asientos acolchados junto a la piscina. También hay un bar y un salón, una terraza para cócteles, un comedor exterior cubierto y una chimenea abierta. La sala de juegos cuenta con una mesa de billar, una máquina recreativa y juegos de mesa.</p>\n<h3>Una cocina diseñada para comidas en grupo y eventos</h3>\n<p>La cocina abierta está equipada para comidas de grupos numerosos y eventos de hasta 100 invitados. Cuenta con una isla con taburetes de bar, una despensa, una zona de café, lavavajillas, batidora, robot de cocina, tostadora, máquina de capuchino, molinillo de café y horno para pizzas. En el exterior hay una barbacoa y una parrilla. Se puede contratar, con un coste adicional, un servicio de chef privado, compra de alimentos, camareros y personal de servicio. Los alimentos no están incluidos en el servicio de chef.</p>\n<h3>Gimnasio, sala de yoga y temazcal de leña</h3>\n<p>Un gimnasio con paredes acristaladas da a la selva circundante e incluye equipamiento de estilo CrossFit. No se permite la entrada de niños al gimnasio. La sala de yoga, independiente, cuenta con colchonetas, columnas y árboles que crecen a través de la estructura; se pueden organizar clases privadas de yoga o fitness. Más al fondo del jardín hay una hoguera con sillas. La propiedad también cuenta con un temazcal tradicional de leña en lugar de un spa convencional.</p>\n<p>La organización de una sesión de bienestar en el temazcal cuesta 100 dólares estadounidenses y requiere un aviso previo de al menos 48 horas. Todos los huéspedes que pernocten pueden participar en la misma sesión. También se puede organizar una ceremonia espiritual más completa con un facilitador por un coste adicional que se cotizará. El jardín, el espacio de yoga y el temazcal permiten a un grupo planificar un tiempo de bienestar sin salir de la finca. Se pueden organizar por separado clases de buceo, excursiones a cenotes y clases de kitesurf.</p>\n<h3>Servicio de limpieza, conserjería y detalles prácticos</h3>\n<p>Se incluyen el servicio diario de limpieza, jardinería y conserjería. El personal también puede encargarse de la lavadora y la secadora por un suplemento. La propiedad cuenta con cobertura Wi-Fi de Starlink y dispone de un generador instalado. Hay aparcamiento privado disponible tanto dentro como delante de la finca, y se proporcionan bicicletas para desplazamientos locales.</p>\n<h3>Acceso por camino de tierra entre la localidad y la playa</h3>\n<p>La villa se encuentra en una zona selvática de la Región 15 y se accede a ella por caminos de tierra. El centro de Tulum, los restaurantes, los bares y el supermercado grande más cercano están a unos 10 minutos en coche. La playa más cercana está a unos 12 minutos en coche, por lo que no se trata de un alojamiento frente al mar. El Aeropuerto Internacional de Tulum está a 43,5 kilómetros y el trayecto suele durar al menos 40 minutos. El Aeropuerto Internacional de Cancún está a 123 kilómetros, con un trayecto habitual de unos 90 minutos. Se pueden organizar traslados al aeropuerto y servicios de transporte locales.</p>\n<h3>Normas para grupos, horario de silencio y eventos privados</h3>\n<p>En la finca está prohibido fumar y la entrada de invitados externos requiere la autorización previa del propietario. La música alta debe detenerse a las 23:00 h, y no se permiten sistemas de sonido externos, ya que el sistema Bluetooth instalado es el único permitido. Se pueden autorizar visitantes de un día mediante un pase diario de pago. Se aceptan bodas y otros eventos con un suplemento para un máximo de 100 invitados. La cocina, los comedores, el patio y el jardín ofrecen espacio suficiente para reuniones con asientos y celebraciones privadas.</p>\n<p>La entrada es a las 16:00 y la salida a las 10:00. La estancia mínima es de cinco noches. Las tarifas comienzan en aproximadamente 2.250 dólares estadounidenses por noche, sin incluir los cargos aplicables. Se aplica un impuesto de alojamiento del 5 % y un impuesto gubernamental del 16 %, además de la fianza por daños y los requisitos de seguridad indicados. Los gastos de eventos, los servicios del personal y los productos alimenticios se cobran aparte de la tarifa de alojamiento.</p>\n<h3>Solicita información sobre tarifas, fechas y planes para grupos</h3>\n<p>Confirma el precio total en función de tus fechas, el tamaño del grupo y el uso previsto de la propiedad. Incluye en la misma consulta cualquier solicitud de servicio de chef, traslados al aeropuerto, un temazcal, visitantes externos o un evento. Se requiere autorización previa para invitar a huéspedes de un día o organizar una celebración. Consulta las tarifas y fechas con el conserje a través de esta página. El equipo de Tulum Bible también puede coordinar los detalles de la reserva para su grupo.</p>",
+          "description": "Nueve suites dan a una piscina en el patio de 14 metros, y cada dormitorio tiene acceso a su propia piscina privada y terraza. Entre los árboles hay un gimnasio, una sala de yoga y un temazcal.",
+          "metaDescription": "Hacienda Babylon es una villa selvática de nueve dormitorios en la Región 15, con piscina central de 14 metros y una privada por suite.",
+          "name": "Hacienda Babylon",
+          "slug": "hacienda-babylon"
         }
       }
     }

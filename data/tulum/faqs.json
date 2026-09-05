@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-05T19:26:55.921Z",
+  "syncedAt": "2026-09-05T23:34:17.320Z",
   "citySlug": "tulum",
   "faqs": [
     {
@@ -3563,6 +3563,94 @@
         "es": {
           "answer": "Sí. El complejo cuenta con un pabellón al aire libre dedicado al yoga, zonas comunes de reunión y cabañas independientes con capacidad para hasta 19 huéspedes.",
           "name": "¿Hay espacio en Jungle V para retiros de yoga?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "are-children-allowed-at-hacienda-babylon"
+      },
+      "convexId": "k571dh7snnjw5ftmypzc8km4rx8dvqm9",
+      "lastUpdated": "2026-09-05T23:31:38.157Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. Children are accepted, but adults must supervise them around the pools, and children are not allowed inside the gym.",
+          "name": "Are children allowed at Hacienda Babylon?"
+        },
+        "es": {
+          "answer": "Sí. Se admiten niños, pero los adultos deben vigilarlos cuando estén cerca de las piscinas, y no se permite la entrada de niños al gimnasio.",
+          "name": "¿Se admiten niños en la Hacienda Babylon?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "does-hacienda-babylon-have-beach-access"
+      },
+      "convexId": "k570qcw26nw70p0qpxctfrntfs8dvcfk",
+      "lastUpdated": "2026-09-05T23:31:38.157Z",
+      "locales": {
+        "en": {
+          "answer": "No. The villa is inland in Region 15, and the nearest beach is about a 12-minute drive away.",
+          "name": "Does Hacienda Babylon have beach access?"
+        },
+        "es": {
+          "answer": "No. La villa está en el interior, en la Región 15, y la playa más cercana se encuentra a unos 12 minutos en coche.",
+          "name": "¿Tiene Hacienda Babylon acceso a la playa?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "how-many-pools-does-hacienda-babylon-have"
+      },
+      "convexId": "k5716xk33zvkvnrbeqa64v0wfh8dvs20",
+      "lastUpdated": "2026-09-05T23:31:38.157Z",
+      "locales": {
+        "en": {
+          "answer": "There are ten pools: one 14-metre central courtyard pool and a private plunge pool for each of the nine bedrooms.",
+          "name": "How many pools does Hacienda Babylon have?"
+        },
+        "es": {
+          "answer": "Hay diez piscinas: una piscina central de 14 metros situada en el patio y una piscina privada para cada uno de los nueve dormitorios.",
+          "name": "¿Cuántas piscinas tiene Hacienda Babylon?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "what-are-the-check-in-and-check-out-times-at-hacienda-babylon"
+      },
+      "convexId": "k575nccz4mz3kd06je64kprq4h8dv4p9",
+      "lastUpdated": "2026-09-05T23:31:38.157Z",
+      "locales": {
+        "en": {
+          "answer": "Check-in is at 4pm and check-out is at 10am.",
+          "name": "What are the check-in and check-out times at Hacienda Babylon?"
+        },
+        "es": {
+          "answer": "La entrada es a las 16:00 y la salida, a las 10:00.",
+          "name": "¿A qué hora hay que hacer el check-in y el check-out en la Hacienda Babylon?"
         }
       }
     }
