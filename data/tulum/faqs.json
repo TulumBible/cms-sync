@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-05T04:52:45.935Z",
+  "syncedAt": "2026-09-05T05:12:27.565Z",
   "citySlug": "tulum",
   "faqs": [
     {
@@ -2991,6 +2991,138 @@
         "es": {
           "answer": "No. No se admiten mascotas en el alojamiento.",
           "name": "¿Se admiten mascotas?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "is-villa-sand-child-friendly"
+      },
+      "convexId": "k578t0mwbxyeycfqfxyeqkdjws8dtz5x",
+      "lastUpdated": "2026-09-05T05:10:57.856Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. The compound is listed as child-friendly and accommodates up to 24 guests across four separate units.",
+          "name": "Is Villa Sand child-friendly?"
+        },
+        "es": {
+          "answer": "Sí. El complejo está clasificado como apto para niños y tiene capacidad para hasta 24 huéspedes repartidos en cuatro alojamientos independientes.",
+          "name": "¿Es Villa Sand un lugar adecuado para los niños?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "how-close-is-villa-sand-to-tulum-beach"
+      },
+      "convexId": "k575j7v89pk8th7ea1za16gfk98dtnr2",
+      "lastUpdated": "2026-09-05T05:10:57.856Z",
+      "locales": {
+        "en": {
+          "answer": "Tulum Beach is approximately a 15-minute drive.",
+          "name": "How close is Villa Sand to Tulum Beach?"
+        },
+        "es": {
+          "answer": "La playa de Tulum está a unos 15 minutos en coche.",
+          "name": "¿A qué distancia está Villa Sand de la playa de Tulum?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "how-many-pools-does-villa-sand-have"
+      },
+      "convexId": "k57amkq9bmxjaxrbm5mvd8a9js8dtx5g",
+      "lastUpdated": "2026-09-05T05:10:57.856Z",
+      "locales": {
+        "en": {
+          "answer": "The compound has four private pools, one for each unit. Guests also have access to the central community pool within Losantos.",
+          "name": "How many pools does Villa Sand have?"
+        },
+        "es": {
+          "answer": "El complejo cuenta con cuatro piscinas privadas, una para cada vivienda. Los huéspedes también tienen acceso a la piscina comunitaria central de Losantos.",
+          "name": "¿Cuántas piscinas tiene Villa Sand?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "is-a-private-chef-included-at-villa-sand"
+      },
+      "convexId": "k573cm72p3sze6pn2v3mjdf6858dv1w6",
+      "lastUpdated": "2026-09-05T05:10:57.856Z",
+      "locales": {
+        "en": {
+          "answer": "No. Daily cleaning and concierge assistance are included, while a private chef can be arranged as an optional service.",
+          "name": "Is a private chef included at Villa Sand?"
+        },
+        "es": {
+          "answer": "No. La limpieza diaria y el servicio de conserjería están incluidos, mientras que se puede contratar a un chef privado como servicio opcional.",
+          "name": "¿Se incluye un chef privado en Villa Sand?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "can-airport-transfers-be-arranged-for-villa-sand"
+      },
+      "convexId": "k57d3pmay7xd03w4e6dd69n5h18dvj48",
+      "lastUpdated": "2026-09-05T05:10:57.856Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. Private transportation and round-trip airport transfers can be added to the stay.",
+          "name": "Can airport transfers be arranged for Villa Sand?"
+        },
+        "es": {
+          "answer": "Sí. Se puede incluir en la estancia el transporte privado y los traslados de ida y vuelta al aeropuerto.",
+          "name": "¿Se pueden organizar traslados desde el aeropuerto hasta Villa Sand?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "does-villa-sand-allow-pets"
+      },
+      "convexId": "k57dkbma96rw5703yh7jxb5xex8dvmeq",
+      "lastUpdated": "2026-09-05T05:10:57.856Z",
+      "locales": {
+        "en": {
+          "answer": "No. Pets are not allowed at the property.",
+          "name": "Does Villa Sand allow pets?"
+        },
+        "es": {
+          "answer": "No. No se admiten mascotas en el alojamiento.",
+          "name": "¿Se admiten mascotas en Villa Sand?"
         }
       }
     }
