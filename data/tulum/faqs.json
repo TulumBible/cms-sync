@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-05T04:00:22.695Z",
+  "syncedAt": "2026-09-05T04:10:41.442Z",
   "citySlug": "tulum",
   "faqs": [
     {
@@ -2727,6 +2727,138 @@
         "es": {
           "answer": "Sí. La propiedad dispone de plazas de aparcamiento en garaje.",
           "name": "¿Hay plazas de aparcamiento disponibles en Villa Privada?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "does-hacienda-medina-have-direct-beach-access"
+      },
+      "convexId": "k574megw5qbre13v69z983zsp98dvf2z",
+      "lastUpdated": "2026-09-05T04:10:15.554Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. Guests have direct access to a private beach cove and beachfront deck. Water and sargassum conditions vary by day and season.",
+          "name": "Does Hacienda Medina have direct beach access?"
+        },
+        "es": {
+          "answer": "Sí. Los huéspedes tienen acceso directo a una cala privada y a una terraza frente al mar. Las condiciones del agua y la presencia de sargazo varían según el día y la temporada.",
+          "name": "¿Tiene Hacienda Medina acceso directo a la playa?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "is-a-private-chef-included-at-hacienda-medina"
+      },
+      "convexId": "k572bac3eeqjz8rq99w3fb0c518dtjfh",
+      "lastUpdated": "2026-09-05T04:10:15.554Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. The stay includes a private chef, butler, concierge, daily housekeeping and night security. Food arrangements are planned for each group rather than ordered from a fixed restaurant menu.",
+          "name": "Is a private chef included at Hacienda Medina?"
+        },
+        "es": {
+          "answer": "Sí. La estancia incluye un chef privado, un mayordomo, un conserje, servicio de limpieza diario y seguridad nocturna. Las comidas se planifican para cada grupo, en lugar de pedirse a partir de un menú fijo de restaurante.",
+          "name": "¿Se incluye un chef privado en la Hacienda Medina?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "does-hacienda-medina-have-a-private-pool-and-hot-tubs"
+      },
+      "convexId": "k57c253vt6806bcvd6qe4z7dz58dvtvq",
+      "lastUpdated": "2026-09-05T04:10:15.554Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. The villa has a 25-metre private oceanfront pool available around the clock, plus private jacuzzis in four suites.",
+          "name": "Does Hacienda Medina have a private pool and hot tubs?"
+        },
+        "es": {
+          "answer": "Sí. La villa cuenta con una piscina privada de 25 metros frente al mar, disponible las 24 horas del día, además de jacuzzis privados en cuatro suites.",
+          "name": "¿Tiene Hacienda Medina piscina privada y jacuzzis?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "can-airport-transfers-be-arranged-for-hacienda-medina"
+      },
+      "convexId": "k574tba98yva6mxwrx688m15vs8dtw7y",
+      "lastUpdated": "2026-09-05T04:10:15.554Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. The concierge can arrange transfers and coordinate separate arrival times. The drive is approximately 50 minutes from Tulum International Airport and 1 hour 45 minutes from Cancún International Airport, depending on traffic.",
+          "name": "Can airport transfers be arranged for Hacienda Medina?"
+        },
+        "es": {
+          "answer": "Sí. El conserje puede organizar los traslados y coordinar horarios de llegada diferentes. El trayecto dura aproximadamente 50 minutos desde el Aeropuerto Internacional de Tulum y 1 hora y 45 minutos desde el Aeropuerto Internacional de Cancún, dependiendo del tráfico.",
+          "name": "¿Se pueden organizar traslados desde el aeropuerto hasta Hacienda Medina?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "is-parking-available-at-hacienda-medina"
+      },
+      "convexId": "k57bk4rn3hzkh55aephy6rr1258dvxpz",
+      "lastUpdated": "2026-09-05T04:10:15.554Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. Private parking is available at the property.",
+          "name": "Is parking available at Hacienda Medina?"
+        },
+        "es": {
+          "answer": "Sí. El establecimiento dispone de aparcamiento privado.",
+          "name": "¿Hay aparcamiento disponible en Hacienda Medina?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "can-i-hold-a-wedding-or-retreat-at-hacienda-medina"
+      },
+      "convexId": "k57e54zt3ph9f9k4nc0mq0bcj18dtnva",
+      "lastUpdated": "2026-09-05T04:10:15.554Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. The estate accommodates weddings, retreats, celebrations, corporate groups and commercial shoots. Enquire through this page with your dates, guest count and event plans.",
+          "name": "Can I hold a wedding or retreat at Hacienda Medina?"
+        },
+        "es": {
+          "answer": "Sí. La finca acoge bodas, retiros, celebraciones, grupos corporativos y sesiones fotográficas comerciales. Solicita información a través de esta página indicando las fechas, el número de invitados y los planes para el evento.",
+          "name": "¿Puedo celebrar una boda o un retiro en la Hacienda Medina?"
         }
       }
     }
