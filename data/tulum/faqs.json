@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-05T19:15:45.225Z",
+  "syncedAt": "2026-09-05T19:26:55.921Z",
   "citySlug": "tulum",
   "faqs": [
     {
@@ -3453,6 +3453,116 @@
         "es": {
           "answer": "Sí. La reserva de la villa completa ofrece a un mismo grupo acceso privado a las 14 habitaciones, la piscina rooftop, las terrazas, el patio, la cocina al aire libre y las zonas para eventos.",
           "name": "¿Se alquila Palma y Arco en exclusiva a un solo grupo?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "how-many-guests-can-jungle-v-accommodate"
+      },
+      "convexId": "k5743v75m7xy6f2jtwc6cvtzwx8dtff3",
+      "lastUpdated": "2026-09-05T19:25:07.509Z",
+      "locales": {
+        "en": {
+          "answer": "The villa sleeps up to 19 guests. It has five bedrooms, 17 beds and six bathrooms across five independent lodges.",
+          "name": "How many guests can Jungle V accommodate?"
+        },
+        "es": {
+          "answer": "La villa tiene capacidad para hasta 19 huéspedes. Cuenta con cinco dormitorios, 17 camas y seis cuartos de baño repartidos en cinco alojamientos independientes.",
+          "name": "¿A cuántos huéspedes puede alojar Jungle V?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "does-jungle-v-have-a-private-pool"
+      },
+      "convexId": "k5794q4b9064eq3stsqz8g5w6x8dttff",
+      "lastUpdated": "2026-09-05T19:25:07.509Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. The property has an outdoor infinity pool for guests staying in the private compound.",
+          "name": "Does Jungle V have a private pool?"
+        },
+        "es": {
+          "answer": "Sí. El establecimiento cuenta con una piscina infinita al aire libre para los huéspedes que se alojen en el recinto privado.",
+          "name": "¿Tiene Jungle V una piscina privada?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "is-chef-service-included-at-jungle-v"
+      },
+      "convexId": "k576ycmadq22nxweygmsyfyh918dtcyj",
+      "lastUpdated": "2026-09-05T19:25:07.509Z",
+      "locales": {
+        "en": {
+          "answer": "No. Chef service is arranged separately, and the property also has a BBQ grill for group meals.",
+          "name": "Is chef service included at Jungle V?"
+        },
+        "es": {
+          "answer": "No. El servicio de chef se contrata por separado, y el alojamiento también dispone de una barbacoa para comidas en grupo.",
+          "name": "¿El servicio de chef está incluido en Jungle V?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "is-jungle-v-on-the-beach"
+      },
+      "convexId": "k571v4a49zz9z2zezp9j2b4tv58dvew2",
+      "lastUpdated": "2026-09-05T19:25:07.509Z",
+      "locales": {
+        "en": {
+          "answer": "No. The villa is inland in La Veleta, roughly 10 minutes from the beach zone.",
+          "name": "Is Jungle V on the beach?"
+        },
+        "es": {
+          "answer": "No. La villa está en el interior, en La Veleta, a unos 10 minutos de la zona de playa.",
+          "name": "¿Está Jungle V en la playa?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "does-jungle-v-have-space-for-yoga-retreats"
+      },
+      "convexId": "k5707gzk88s58q216d2g7fb7q58dv2m8",
+      "lastUpdated": "2026-09-05T19:25:07.509Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. The property has a dedicated open-air yoga pavilion, shared gathering areas and separate lodges for up to 19 guests.",
+          "name": "Does Jungle V have space for yoga retreats?"
+        },
+        "es": {
+          "answer": "Sí. El complejo cuenta con un pabellón al aire libre dedicado al yoga, zonas comunes de reunión y cabañas independientes con capacidad para hasta 19 huéspedes.",
+          "name": "¿Hay espacio en Jungle V para retiros de yoga?"
         }
       }
     }
