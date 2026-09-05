@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-05T04:10:41.442Z",
+  "syncedAt": "2026-09-05T04:52:45.935Z",
   "citySlug": "tulum",
   "faqs": [
     {
@@ -2859,6 +2859,138 @@
         "es": {
           "answer": "Sí. La finca acoge bodas, retiros, celebraciones, grupos corporativos y sesiones fotográficas comerciales. Solicita información a través de esta página indicando las fechas, el número de invitados y los planes para el evento.",
           "name": "¿Puedo celebrar una boda o un retiro en la Hacienda Medina?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "are-children-allowed-at-the-villa"
+      },
+      "convexId": "k572kqwyj18h2y6e8benwbxvzn8dtnmm",
+      "lastUpdated": "2026-09-05T04:50:04.208Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. Children are welcome, and two baby cribs and a high chair are available.",
+          "name": "Are children allowed at the villa?"
+        },
+        "es": {
+          "answer": "Sí. Los niños son bienvenidos, y disponemos de dos cunas y una trona.",
+          "name": "¿Se admiten niños en la villa?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "does-the-villa-have-a-private-pool-and-jacuzzi"
+      },
+      "convexId": "k57c4he8h4amy6q10fhcas84858dt7vv",
+      "lastUpdated": "2026-09-05T04:50:04.208Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. Resident guests have private use of a 60-foot unheated infinity pool, an outdoor jacuzzi and four suite plunge pools. The main pool is available year-round and open 24 hours.",
+          "name": "Does the villa have a private pool and jacuzzi?"
+        },
+        "es": {
+          "answer": "Sí. Los huéspedes residentes tienen uso exclusivo de una piscina infinita sin climatizar de 60 pies, un jacuzzi al aire libre y cuatro piscinas privadas en las suites. La piscina principal está disponible todo el año y abierta las 24 horas.",
+          "name": "¿Tiene la villa piscina privada y jacuzzi?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "is-breakfast-or-private-chef-service-included"
+      },
+      "convexId": "k578gq9x8mj0dq5fe7g3d040018dvdtm",
+      "lastUpdated": "2026-09-05T04:50:04.208Z",
+      "locales": {
+        "en": {
+          "answer": "Private chef service is optional rather than included. Fixed-menu breakfast, brunch, lunch or dinner can be arranged with ingredients included, while full-day chef service charges ingredients separately.",
+          "name": "Is breakfast or private chef service included?"
+        },
+        "es": {
+          "answer": "El servicio de chef privado es opcional, no está incluido. Se puede organizar un desayuno, un brunch, una comida o una cena con menú fijo, en los que los ingredientes están incluidos, mientras que en el servicio de chef para todo el día los ingredientes se cobran por separado.",
+          "name": "¿Se incluye el desayuno o el servicio de chef privado?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "can-airport-transfers-be-arranged-3"
+      },
+      "convexId": "k57fzvdew7m03zqwf22mcn18158dteja",
+      "lastUpdated": "2026-09-05T04:50:04.208Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. The concierge can arrange an airport transfer or private driver for an additional charge. Enquire through this page when booking.",
+          "name": "Can airport transfers be arranged?"
+        },
+        "es": {
+          "answer": "Sí. El conserje puede organizar un traslado al aeropuerto o un conductor privado por un suplemento. Solicítalo a través de esta página al hacer la reserva.",
+          "name": "¿Se pueden organizar traslados desde el aeropuerto?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "what-are-the-check-in-and-checkout-times"
+      },
+      "convexId": "k573jrqp7e4psjx3f6wbdvvgmx8dtc2v",
+      "lastUpdated": "2026-09-05T04:50:04.208Z",
+      "locales": {
+        "en": {
+          "answer": "Check-in is at 5:00 PM, and checkout is at 10:00 AM.",
+          "name": "What are the check-in and checkout times?"
+        },
+        "es": {
+          "answer": "La entrada es a las 17:00 y la salida, a las 10:00.",
+          "name": "¿A qué hora hay que hacer el check-in y el check-out?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "are-pets-allowed"
+      },
+      "convexId": "k5773gnm22n8xgvphj4dza72dn8dtsp2",
+      "lastUpdated": "2026-09-05T04:50:04.208Z",
+      "locales": {
+        "en": {
+          "answer": "No. Pets are not allowed at the property.",
+          "name": "Are pets allowed?"
+        },
+        "es": {
+          "answer": "No. No se admiten mascotas en el alojamiento.",
+          "name": "¿Se admiten mascotas?"
         }
       }
     }
