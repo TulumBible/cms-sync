@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-05T01:57:22.063Z",
+  "syncedAt": "2026-09-05T02:37:54.634Z",
   "citySlug": "tulum",
   "faqs": [
     {
@@ -1869,6 +1869,248 @@
         "es": {
           "answer": "La hora habitual de entrada es entre las 14:00 y las 16:00. La salida debe realizarse antes de las 11:00.",
           "name": "¿A qué hora son el registro de entrada y el de salida en Villa Seremonia?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "how-many-guests-does-casa-boko-sleep"
+      },
+      "convexId": "k570w36949924x934jx2my9f1x8dvs2c",
+      "lastUpdated": "2026-09-05T02:37:47.407Z",
+      "locales": {
+        "en": {
+          "answer": "The villa sleeps up to 16 guests in six en-suite bedrooms with eight beds. The layout has four king beds and four queen beds.",
+          "name": "How many guests does Casa Boko sleep?"
+        },
+        "es": {
+          "answer": "La villa tiene capacidad para hasta 16 huéspedes en seis habitaciones con baño privado y un total de ocho camas. La distribución incluye cuatro camas king y cuatro camas queen.",
+          "name": "¿Cuántos huéspedes pueden alojarse en Casa Boko?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "does-casa-boko-have-a-private-pool"
+      },
+      "convexId": "k573e5xhex80wedjzq3b4nn0rh8dt0nx",
+      "lastUpdated": "2026-09-05T02:37:47.407Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. The private rooftop has a 360-degree infinity pool, loungers, a bar, lounge seating and an outdoor dining area with a barbecue.",
+          "name": "Does Casa Boko have a private pool?"
+        },
+        "es": {
+          "answer": "Sí. La villa privada rooftop cuenta con una piscina infinita de 360 grados, tumbonas, un bar, una zona de descanso y un comedor al aire libre con barbacoa.",
+          "name": "¿Tiene Casa Boko piscina privada?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "is-a-private-chef-included"
+      },
+      "convexId": "k5712jgatjzkw4998dmqc6xbgn8dvwas",
+      "lastUpdated": "2026-09-05T02:37:47.407Z",
+      "locales": {
+        "en": {
+          "answer": "No. Private chef and mixologist services can be arranged separately through the concierge, along with grocery stocking.",
+          "name": "Is a private chef included?"
+        },
+        "es": {
+          "answer": "No. Los servicios de chef privado y coctelero se pueden contratar por separado a través del conserje, así como el abastecimiento de la despensa.",
+          "name": "¿Se incluye un chef privado?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "what-are-the-check-in-and-check-out-times"
+      },
+      "convexId": "k57597q6ys3a5kpt5wmhzxpajn8dtfqv",
+      "lastUpdated": "2026-09-05T02:37:47.407Z",
+      "locales": {
+        "en": {
+          "answer": "Check-in is at 3:00 PM, and check-out is at 11:00 AM.",
+          "name": "What are the check-in and check-out times?"
+        },
+        "es": {
+          "answer": "La entrada es a las 15:00 y la salida, a las 11:00.",
+          "name": "¿A qué hora hay que hacer el check-in y el check-out?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "is-parking-available-at-the-villa"
+      },
+      "convexId": "k577j5qa2ft938t7x31mwha27d8dvjgd",
+      "lastUpdated": "2026-09-05T02:37:47.407Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. Free garage parking is available on the premises.",
+          "name": "Is parking available at the villa?"
+        },
+        "es": {
+          "answer": "Sí. Hay plazas de aparcamiento gratuitas en el garaje del recinto.",
+          "name": "¿Hay plazas de aparcamiento disponibles en la villa?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "can-casa-boko-host-private-events"
+      },
+      "convexId": "k572kzp1mqj0892pzxsn6zycbx8dtwqf",
+      "lastUpdated": "2026-09-05T02:37:47.407Z",
+      "locales": {
+        "en": {
+          "answer": "Yes, subject to approval. Enquire through this page to confirm event capacity, fees, music limits, permitted hours and vendor rules before booking.",
+          "name": "Can Casa Boko host private events?"
+        },
+        "es": {
+          "answer": "Sí, siempre que se apruebe. Consulta a través de esta página para confirmar el aforo del evento, las tarifas, las restricciones musicales, el horario permitido y las normas para los proveedores antes de realizar la reserva.",
+          "name": "¿Se pueden celebrar eventos privados en Casa Boko?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "is-casa-boko-inside-a-gated-community"
+      },
+      "convexId": "k57f80hxyye9ky056bpsyex1v18dvrk4",
+      "lastUpdated": "2026-09-05T02:37:47.407Z",
+      "locales": {
+        "en": {
+          "answer": "No. The villa is in Aldea Zama but is not inside a gated enclave. A street security booth serves the area at night.",
+          "name": "Is Casa Boko inside a gated community?"
+        },
+        "es": {
+          "answer": "No. La villa está en Aldea Zama, pero no se encuentra dentro de una urbanización cerrada. Por la noche, hay una caseta de seguridad en la calle que da servicio a la zona.",
+          "name": "¿Se encuentra Casa Boko dentro de una urbanización cerrada?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "is-casa-boko-beachfront"
+      },
+      "convexId": "k577aeptjj8sjy66d69t2mt3fh8dtj6a",
+      "lastUpdated": "2026-09-05T02:37:47.407Z",
+      "locales": {
+        "en": {
+          "answer": "No. The villa is approximately a five-minute drive from Tulum Beach.",
+          "name": "Is Casa Boko beachfront?"
+        },
+        "es": {
+          "answer": "No. La villa se encuentra a unos cinco minutos en coche de la playa de Tulum.",
+          "name": "¿Casa Boko está frente al mar?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "does-casa-boko-include-breakfast-or-a-meal-plan"
+      },
+      "convexId": "k57datfxs0k0r9sqbw0gwp60m98dvkwm",
+      "lastUpdated": "2026-09-05T02:37:47.407Z",
+      "locales": {
+        "en": {
+          "answer": "No standard meal plan is included. The villa has a fully equipped kitchen, and private chef service or grocery stocking can be arranged for an additional fee.",
+          "name": "Does Casa Boko include breakfast or a meal plan?"
+        },
+        "es": {
+          "answer": "No se incluye ningún plan de comidas estándar. La villa cuenta con una cocina totalmente equipada y, previo pago de un suplemento, se puede contratar un servicio de chef privado o el abastecimiento de la despensa.",
+          "name": "¿Casa Boko incluye el desayuno o algún plan de comidas?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "is-daily-housekeeping-included-at-casa-boko"
+      },
+      "convexId": "k579ezmd5b1agbw8v0069kpsbx8dtgx4",
+      "lastUpdated": "2026-09-05T02:37:47.407Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. Daily housekeeping and dedicated concierge service are included.",
+          "name": "Is daily housekeeping included at Casa Boko?"
+        },
+        "es": {
+          "answer": "Sí. El servicio diario de limpieza y el servicio de conserjería personalizado están incluidos.",
+          "name": "¿Se incluye el servicio de limpieza diario en Casa Boko?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "how-far-is-casa-boko-from-tulum-airport"
+      },
+      "convexId": "k573m54kqvrm198ztx7kevp76s8dtw4d",
+      "lastUpdated": "2026-09-05T02:37:47.407Z",
+      "locales": {
+        "en": {
+          "answer": "Tulum Airport is approximately 35 minutes from the villa by car.",
+          "name": "How far is Casa Boko from Tulum Airport?"
+        },
+        "es": {
+          "answer": "El aeropuerto de Tulum está a unos 35 minutos en coche de la villa.",
+          "name": "¿A qué distancia está Casa Boko del aeropuerto de Tulum?"
         }
       }
     }
