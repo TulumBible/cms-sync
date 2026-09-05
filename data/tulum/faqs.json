@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-05T02:37:54.634Z",
+  "syncedAt": "2026-09-05T03:04:12.524Z",
   "citySlug": "tulum",
   "faqs": [
     {
@@ -2111,6 +2111,116 @@
         "es": {
           "answer": "El aeropuerto de Tulum está a unos 35 minutos en coche de la villa.",
           "name": "¿A qué distancia está Casa Boko del aeropuerto de Tulum?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "is-casa-shalva-beachfront"
+      },
+      "convexId": "k5700vrp1ehdfnh2x0q3w6t68d8dt3bj",
+      "lastUpdated": "2026-09-05T03:03:36.994Z",
+      "locales": {
+        "en": {
+          "answer": "No. The villa is in gated Aldea Premium within Aldea Zama, with cafés, shops and restaurants a short walk away.",
+          "name": "Is Casa Shalva beachfront?"
+        },
+        "es": {
+          "answer": "No. La villa se encuentra en la urbanización cerrada Aldea Premium, dentro de Aldea Zama, con cafeterías, tiendas y restaurantes a un corto paseo.",
+          "name": "¿Casa Shalva está frente al mar?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "how-many-pools-does-the-villa-have"
+      },
+      "convexId": "k57dmrmvjx3gmpkgj2v4szkb158dv895",
+      "lastUpdated": "2026-09-05T03:03:36.994Z",
+      "locales": {
+        "en": {
+          "answer": "It has two private pools. A large pool opens from the living room, while a plunge pool sits on the rooftop terrace beside the bar and dining lounge.",
+          "name": "How many pools does the villa have?"
+        },
+        "es": {
+          "answer": "Cuenta con dos piscinas privadas. Una piscina grande a la que se accede desde el salón, mientras que una piscina de inmersión se encuentra en la terraza rooftop, junto al bar y el comedor.",
+          "name": "¿Cuántas piscinas tiene la villa?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "is-chef-service-included"
+      },
+      "convexId": "k57bnqgeefbkd8t1wch0xjb5p58dt455",
+      "lastUpdated": "2026-09-05T03:03:36.994Z",
+      "locales": {
+        "en": {
+          "answer": "No. Chef service, meal preparation and catering can be arranged as paid additions through the concierge.",
+          "name": "Is chef service included?"
+        },
+        "es": {
+          "answer": "No. Se pueden contratar servicios de chef, preparación de comidas y catering como servicios adicionales de pago a través del conserje.",
+          "name": "¿El servicio de chef está incluido?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "can-airport-transfers-be-arranged"
+      },
+      "convexId": "k578ebepxczrs14qfrh8bexn298dt5hz",
+      "lastUpdated": "2026-09-05T03:03:36.994Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. We can arrange airport transfers and coordinate different arrival times for the group.",
+          "name": "Can airport transfers be arranged?"
+        },
+        "es": {
+          "answer": "Sí. Podemos organizar traslados desde el aeropuerto y coordinar diferentes horas de llegada para el grupo.",
+          "name": "¿Se pueden organizar traslados desde el aeropuerto?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "what-are-the-check-in-and-check-out-times-2"
+      },
+      "convexId": "k578ejzs1nkcp38zryp45chasd8dv9cy",
+      "lastUpdated": "2026-09-05T03:03:36.994Z",
+      "locales": {
+        "en": {
+          "answer": "Standard check-in is at 3:00 pm. Check-out is at 11:00 am.",
+          "name": "What are the check-in and check-out times?"
+        },
+        "es": {
+          "answer": "La hora habitual de entrada es a las 15:00. La hora de salida es a las 11:00.",
+          "name": "¿A qué hora hay que hacer el check-in y el check-out?"
         }
       }
     }
