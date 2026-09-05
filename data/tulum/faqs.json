@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-05T03:40:43.861Z",
+  "syncedAt": "2026-09-05T03:49:34.327Z",
   "citySlug": "tulum",
   "faqs": [
     {
@@ -2463,6 +2463,138 @@
         "es": {
           "answer": "El registro de entrada comienza a las 15:00 y el de salida es a las 11:00.",
           "name": "¿A qué hora hay que hacer el check-in y el check-out en Casa Luna?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "is-palacio-papaya-beachfront"
+      },
+      "convexId": "k57bq7x299gtdc3ggmvnqxwpq18dvqd8",
+      "lastUpdated": "2026-09-05T03:49:15.065Z",
+      "locales": {
+        "en": {
+          "answer": "No. The villa is in La Veleta, approximately 3.8 to 5 kilometres from Tulum Beach, with driving access to the coast.",
+          "name": "Is Palacio Papaya beachfront?"
+        },
+        "es": {
+          "answer": "No. La villa se encuentra en La Veleta, a una distancia de entre 3,8 y 5 kilómetros de la playa de Tulum, y se puede llegar en coche hasta la costa.",
+          "name": "¿El Palacio Papaya está frente al mar?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "how-many-pools-does-the-villa-have-2"
+      },
+      "convexId": "k5790tjac9hxtxhtf8tjbxby5s8dt7yy",
+      "lastUpdated": "2026-09-05T03:49:15.065Z",
+      "locales": {
+        "en": {
+          "answer": "There are two main pools: a ground-level garden pool off the living area and a rooftop pool with daybeds. The primary suite also has a private plunge pool.",
+          "name": "How many pools does the villa have?"
+        },
+        "es": {
+          "answer": "Hay dos piscinas principales: una piscina en el jardín, a nivel del suelo, junto a la sala de estar, y una piscina rooftop con tumbonas. La suite principal también cuenta con una piscina privada de inmersión.",
+          "name": "¿Cuántas piscinas tiene la villa?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "is-a-private-chef-included-2"
+      },
+      "convexId": "k576xf5w33c36dap651dmd2k6n8dvccv",
+      "lastUpdated": "2026-09-05T03:49:15.065Z",
+      "locales": {
+        "en": {
+          "answer": "No. Private chef service, tailored meals, mixologists and grocery stocking can be arranged at extra cost through the concierge.",
+          "name": "Is a private chef included?"
+        },
+        "es": {
+          "answer": "No. A través del servicio de conserjería se pueden contratar, con un coste adicional, servicios de chef privado, comidas a medida, cocteleros y reposición de provisiones.",
+          "name": "¿Se incluye un chef privado?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "can-airport-transfers-be-arranged-2"
+      },
+      "convexId": "k576vk16xqtfmg2795yyn0mfyh8dv2jc",
+      "lastUpdated": "2026-09-05T03:49:15.065Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. We can arrange airport transport and coordinate different arrival times for the group.",
+          "name": "Can airport transfers be arranged?"
+        },
+        "es": {
+          "answer": "Sí. Podemos organizar el traslado desde el aeropuerto y coordinar las diferentes horas de llegada del grupo.",
+          "name": "¿Se pueden organizar traslados desde el aeropuerto?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "does-the-villa-have-parking"
+      },
+      "convexId": "k5708yq3waqg3ppbmzfjq5ym0s8dvkj5",
+      "lastUpdated": "2026-09-05T03:49:15.065Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. Three private parking spaces are provided.",
+          "name": "Does the villa have parking?"
+        },
+        "es": {
+          "answer": "Sí. Se ofrecen tres plazas de aparcamiento privadas.",
+          "name": "¿La villa dispone de aparcamiento?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "is-self-check-in-available"
+      },
+      "convexId": "k5741rpc803808564zf1h6scx98dtq20",
+      "lastUpdated": "2026-09-05T03:49:15.065Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. The villa offers self check-in, with concierge assistance available before and during the stay.",
+          "name": "Is self check-in available?"
+        },
+        "es": {
+          "answer": "Sí. La villa ofrece un servicio de registro de entrada autónomo, con asistencia del conserje disponible antes y durante la estancia.",
+          "name": "¿Se puede hacer el check-in por internet?"
         }
       }
     }
