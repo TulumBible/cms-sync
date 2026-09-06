@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-06T03:21:43.891Z",
+  "syncedAt": "2026-09-06T03:49:55.810Z",
   "citySlug": "tulum",
   "faqs": [
     {
@@ -4531,6 +4531,138 @@
         "es": {
           "answer": "No hay ningún requisito de consumo mínimo.",
           "name": "¿Hay un gasto mínimo?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "how-much-does-a-sunbed-at-mia-beach-club-cost"
+      },
+      "convexId": "k57a2c98kmw93mh5763wt66frh8dx919",
+      "lastUpdated": "2026-09-06T03:49:11.041Z",
+      "locales": {
+        "en": {
+          "answer": "The minimum consumption is 1,000 MXN per person on weekdays and 1,300 MXN per person on weekends. Food and drink purchases count toward the minimum.",
+          "name": "How much does a sunbed at Mia Beach Club cost?"
+        },
+        "es": {
+          "answer": "El consumo mínimo es de 1.000 MXN por persona entre semana y de 1.300 MXN por persona los fines de semana. Las compras de comida y bebida cuentan para alcanzar el mínimo.",
+          "name": "¿Cuánto cuesta una sesión de solárium en Mia Beach Club?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "what-time-is-the-beach-club-open-2"
+      },
+      "convexId": "k576b5fwr0hc5dxtf8pvztexhd8dxny6",
+      "lastUpdated": "2026-09-06T03:49:11.041Z",
+      "locales": {
+        "en": {
+          "answer": "Regular hours are 11 AM to 7 PM daily. Selected events can continue until 1 AM or later, while hotel breakfast begins at 8 AM.",
+          "name": "What time is the beach club open?"
+        },
+        "es": {
+          "answer": "El horario habitual es de 11:00 a 19:00 todos los días. Algunos eventos pueden prolongarse hasta la 1:00 de la madrugada o más tarde, mientras que el desayuno del hotel comienza a las 8:00.",
+          "name": "¿A qué hora abre el beach club?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "are-children-allowed-during-the-day"
+      },
+      "convexId": "k570btsb281fj0h00hk3b09cnx8dwphg",
+      "lastUpdated": "2026-09-06T03:49:11.041Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. Regular daytime entry is open to families, but nighttime events are restricted to guests aged 18 and over.",
+          "name": "Are children allowed during the day?"
+        },
+        "es": {
+          "answer": "Sí. La entrada habitual durante el día está abierta a las familias, pero los eventos nocturnos están reservados a los asistentes mayores de 18 años.",
+          "name": "¿Se permite la entrada a los niños durante el día?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "does-the-venue-have-a-dress-code"
+      },
+      "convexId": "k571xt6vqy619mavyys14we69s8dxgcn",
+      "lastUpdated": "2026-09-06T03:49:11.041Z",
+      "locales": {
+        "en": {
+          "answer": "There is no formal daytime dress code. Swimwear and relaxed beach clothing suit the pool, sunbeds and sand dance floor.",
+          "name": "Does the venue have a dress code?"
+        },
+        "es": {
+          "answer": "No hay un código de vestimenta formal para el día. El bañador y la ropa informal de playa son adecuados para la piscina, las tumbonas y la pista de baile de arena.",
+          "name": "¿Hay algún código de vestimenta en el local?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "are-vegan-dishes-available"
+      },
+      "convexId": "k57c5bq6q869q40be0ssdapvah8dwy95",
+      "lastUpdated": "2026-09-06T03:49:11.041Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. Options include portobello carpaccio, curry couscous and vegan lasagna.",
+          "name": "Are vegan dishes available?"
+        },
+        "es": {
+          "answer": "Sí. Entre las opciones se incluyen el carpaccio de portobello, el cuscús al curry y la lasaña vegana.",
+          "name": "¿Hay platos veganos disponibles?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "how-can-i-reserve-a-sunbed-table-or-event-ticket"
+      },
+      "convexId": "k576f35ch862eeqhxh6brq2mvn8dw785",
+      "lastUpdated": "2026-09-06T03:49:11.041Z",
+      "locales": {
+        "en": {
+          "answer": "Book through the venue page on Tulum Bible. Event tickets start from 680 MXN, while VIP table and bottle-service prices depend on the programme.",
+          "name": "How can I reserve a sunbed, table or event ticket?"
+        },
+        "es": {
+          "answer": "Reserva a través de la página del local en Tulum Bible. Las entradas para el evento cuestan a partir de 680 MXN, mientras que los precios de las mesas VIP y del servicio de botellas dependen del programa.",
+          "name": "¿Cómo puedo reservar una tumbona, una mesa o una entrada para un evento?"
         }
       }
     }
