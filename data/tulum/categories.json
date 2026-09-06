@@ -1,12 +1,14 @@
 {
-  "syncedAt": "2026-09-06T05:46:24.903Z",
+  "syncedAt": "2026-09-06T15:30:15.956Z",
   "citySlug": "tulum",
   "categories": [
     {
       "base": {
+        "belowThresholdRedirect": "/venues",
         "faqIds": [],
         "heroImage": null,
         "iconName": "waves",
+        "minVenuesToPublish": 3,
         "venueCategory": "lagoon"
       },
       "convexId": "k175rsgt97v7vvmbbw4w39f20h858ktd",
@@ -36,9 +38,11 @@
     },
     {
       "base": {
+        "belowThresholdRedirect": "/venues",
         "faqIds": [],
         "heroImage": null,
         "iconName": "fork-knife",
+        "minVenuesToPublish": 3,
         "venueCategory": "restaurant"
       },
       "convexId": "k1730yn9cpwwv1df2e6h4fzvgd858txt",
@@ -68,9 +72,11 @@
     },
     {
       "base": {
+        "belowThresholdRedirect": "/venues",
         "faqIds": [],
         "heroImage": null,
         "iconName": "umbrella-simple",
+        "minVenuesToPublish": 3,
         "venueCategory": "beachclub"
       },
       "convexId": "k1717462z3g6gd2njxnzcz5pqs85984a",
@@ -100,9 +106,11 @@
     },
     {
       "base": {
+        "belowThresholdRedirect": "/venues",
         "faqIds": [],
         "heroImage": null,
         "iconName": "martini",
+        "minVenuesToPublish": 3,
         "venueCategory": "nightclub"
       },
       "convexId": "k1710avgvs681f7g1s67gk701x85960j",
@@ -132,9 +140,11 @@
     },
     {
       "base": {
+        "belowThresholdRedirect": "/venues",
         "faqIds": [],
         "heroImage": null,
         "iconName": "drop",
+        "minVenuesToPublish": 3,
         "venueCategory": "cenote"
       },
       "convexId": "k1763eesej1c2gk37r419vmhzs859c3h",
@@ -164,9 +174,11 @@
     },
     {
       "base": {
+        "belowThresholdRedirect": "/venues",
         "faqIds": [],
         "heroImage": null,
         "iconName": "wine",
+        "minVenuesToPublish": 3,
         "venueCategory": "bar"
       },
       "convexId": "k1767gr2jgc6rbg3x7m02k1eys858fbp",
@@ -196,9 +208,11 @@
     },
     {
       "base": {
+        "belowThresholdRedirect": "/venues",
         "faqIds": [],
         "heroImage": null,
         "iconName": "coffee",
+        "minVenuesToPublish": 3,
         "venueCategory": "cafe"
       },
       "convexId": "k1710mp6a5p7apknrvng27z7cd8bmd5j",
@@ -228,9 +242,11 @@
     },
     {
       "base": {
+        "belowThresholdRedirect": "/venues",
         "faqIds": [],
         "heroImage": null,
         "iconName": "buildings",
+        "minVenuesToPublish": 3,
         "venueCategory": "rooftop"
       },
       "convexId": "k17bfq663pxdsd6zf8dxx87shn8bma2g",
