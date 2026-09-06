@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-06T00:52:56.061Z",
+  "syncedAt": "2026-09-06T01:40:47.293Z",
   "citySlug": "tulum",
   "faqs": [
     {
@@ -3849,6 +3849,138 @@
         "es": {
           "answer": "Sí. Las opciones para celebrar incluyen una tarta de chocolate o una tarta de tequila, lima y almendra, con bengalas, burbujas y la posibilidad de incluir un breve mensaje personalizado.",
           "name": "¿Puede Gitano Jungle encargar una tarta de cumpleaños?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "what-is-the-dress-code-at-bonbonniere"
+      },
+      "convexId": "k574pwj5ktp74d815wwtrk6nv98dw60p",
+      "lastUpdated": "2026-09-06T01:40:44.805Z",
+      "locales": {
+        "en": {
+          "answer": "Elegant dress is mandatory. Caps, hats, swimsuits, tank tops, sandals, flip-flops, athletic shorts and sports shirts are not allowed.",
+          "name": "What is the dress code at Bonbonniere?"
+        },
+        "es": {
+          "answer": "Es obligatorio vestir de forma elegante. No se permiten gorras, sombreros, bañadores, camisetas sin mangas, sandalias, chanclas, pantalones cortos deportivos ni camisetas deportivas.",
+          "name": "¿Cuál es el código de vestimenta en Bonbonniere?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "how-much-is-entry-to-the-club"
+      },
+      "convexId": "k572hma4nwkef3dzbwapds98xs8dwbw8",
+      "lastUpdated": "2026-09-06T01:40:44.805Z",
+      "locales": {
+        "en": {
+          "answer": "Cover starts at 500 MXN per person and can reach around 2,000 MXN depending on the event.",
+          "name": "How much is entry to the club?"
+        },
+        "es": {
+          "answer": "La entrada cuesta a partir de 500 MXN por persona y puede llegar a rondar los 2.000 MXN, dependiendo del evento.",
+          "name": "¿Cuánto cuesta la entrada al club?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "how-much-is-a-vip-table"
+      },
+      "convexId": "k5709gderq5nfy32zsqdnmy0d18dw2ja",
+      "lastUpdated": "2026-09-06T01:40:44.805Z",
+      "locales": {
+        "en": {
+          "answer": "Bottle-service tables start with a minimum consumption of 21,000 MXN for eight guests. A 20 percent service fee is added to table bookings.",
+          "name": "How much is a VIP table?"
+        },
+        "es": {
+          "answer": "Las mesas con servicio de botellas tienen un consumo mínimo de 21 000 MXN para ocho comensales. A las reservas de mesa se les añade un 20 % en concepto de servicio.",
+          "name": "¿Cuánto cuesta una mesa VIP?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "can-i-reserve-a-table-at-bonbonniere"
+      },
+      "convexId": "k57bnk554sdca2q4qjwhf5a3as8dwbbx",
+      "lastUpdated": "2026-09-06T01:40:44.805Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. Reserve through the venue page on Tulum Bible and arrive before 10:30 PM, as reservations are subject to availability after that time.",
+          "name": "Can I reserve a table at Bonbonniere?"
+        },
+        "es": {
+          "answer": "Sí. Haz tu reserva a través de la página del local en Tulum Bible y llega antes de las 22:30, ya que, a partir de esa hora, las reservas están sujetas a disponibilidad.",
+          "name": "¿Puedo reservar una mesa en Bonbonniere?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "what-time-does-the-club-open"
+      },
+      "convexId": "k57bde4z4n3qvkd1xvvvps1p118dxezy",
+      "lastUpdated": "2026-09-06T01:40:44.805Z",
+      "locales": {
+        "en": {
+          "answer": "It opens from 10 PM to 2 AM on Wednesday and Thursday, and from 10 PM to 5 AM Friday through Sunday. It is closed Monday and Tuesday.",
+          "name": "What time does the club open?"
+        },
+        "es": {
+          "answer": "Abre de 22:00 a 02:00 los miércoles y jueves, y de 22:00 a 05:00 de viernes a domingo. Cierra los lunes y martes.",
+          "name": "¿A qué hora abre el club?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "what-music-does-bonbonniere-play"
+      },
+      "convexId": "k575yqad452evxq03r58gye6y18dw99t",
+      "lastUpdated": "2026-09-06T01:40:44.805Z",
+      "locales": {
+        "en": {
+          "answer": "The programme covers house, tech-house, Afro-house, techno and EDM. Resident DJs Cuevas and VITE are joined by international and regional guests.",
+          "name": "What music does Bonbonniere play?"
+        },
+        "es": {
+          "answer": "El programa abarca los géneros house, tech-house, afro-house, techno y EDM. A los DJ residentes Cuevas y VITE se suman artistas invitados internacionales y regionales.",
+          "name": "¿Qué tipo de música pone Bonbonniere?"
         }
       }
     }
