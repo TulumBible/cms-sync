@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-06T00:06:15.246Z",
+  "syncedAt": "2026-09-06T00:52:56.061Z",
   "citySlug": "tulum",
   "faqs": [
     {
@@ -3717,6 +3717,138 @@
         "es": {
           "answer": "Los DJ pinchan de jueves a domingo a partir de las 13:00 h, con música que abarca estilos como el deep house, el tropical house, el nu-disco, el indie dance y el melodic house. Entre los eventos mensuales y recurrentes se incluyen Full Moon Rising, Gypsy Disco, Sunset Fiesta y Las Gitanas.",
           "name": "¿A qué hora pinchan los DJ?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "do-you-need-a-reservation-for-gitano-jungle"
+      },
+      "convexId": "k57d5wq8p3sh43fay18evdh0698dx8h4",
+      "lastUpdated": "2026-09-06T00:52:34.755Z",
+      "locales": {
+        "en": {
+          "answer": "Reservations are available and recommended for Friday Gypsy Disco and special events. Reserve through the venue page on Tulum Bible.",
+          "name": "Do you need a reservation for Gitano Jungle?"
+        },
+        "es": {
+          "answer": "Se pueden hacer reservas, y se recomienda hacerlo, para la Gypsy Disco de los viernes y para los eventos especiales. Reserva a través de la página del local en Tulum Bible.",
+          "name": "¿Hay que reservar para ir a Gitano Jungle?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "what-time-does-gitano-jungle-open"
+      },
+      "convexId": "k576dpep943d1fjgn2031ddrhd8dx9tc",
+      "lastUpdated": "2026-09-06T00:52:34.755Z",
+      "locales": {
+        "en": {
+          "answer": "The venue opens daily at 6 PM. It closes at 1 AM from Saturday through Thursday and at 3 AM on Friday.",
+          "name": "What time does Gitano Jungle open?"
+        },
+        "es": {
+          "answer": "El local abre todos los días a las 18:00. Cierra a la 01:00 de sábado a jueves y a las 03:00 los viernes.",
+          "name": "¿A qué hora abre Gitano Jungle?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "what-kind-of-food-does-gitano-jungle-serve"
+      },
+      "convexId": "k576hs2jf78r8x1eqhh8vbeghn8dxp5d",
+      "lastUpdated": "2026-09-06T00:52:34.755Z",
+      "locales": {
+        "en": {
+          "answer": "The kitchen serves modern Mexican sharing plates prepared with seasonal local ingredients, open fire and wood grills. Options include lobster tostada, short rib birria, carne asada and roasted cauliflower with pipián.",
+          "name": "What kind of food does Gitano Jungle serve?"
+        },
+        "es": {
+          "answer": "La cocina ofrece platos mexicanos modernos para compartir, elaborados con ingredientes locales de temporada, a la brasa y en parrillas de leña. Entre las opciones se incluyen la tostada de langosta, la birria de costilla, la carne asada y la coliflor asada con pipián.",
+          "name": "¿Qué tipo de comida se sirve en Gitano Jungle?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "does-gitano-jungle-have-vegetarian-or-gluten-free-food"
+      },
+      "convexId": "k579c40n4xfmk469z2jkjjkefx8dw1b7",
+      "lastUpdated": "2026-09-06T00:52:34.755Z",
+      "locales": {
+        "en": {
+          "answer": "The menu marks vegetarian, gluten-free, nut-free and dairy-free dishes. Tell your waiter about any allergy or dietary restriction before ordering.",
+          "name": "Does Gitano Jungle have vegetarian or gluten-free food?"
+        },
+        "es": {
+          "answer": "En la carta se indican los platos vegetarianos, sin gluten, sin frutos secos y sin lácteos. Informa al camarero de cualquier alergia o restricción alimentaria antes de pedir.",
+          "name": "¿Hay platos vegetarianos o sin gluten en Gitano Jungle?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "what-happens-at-gitano-jungle-on-fridays"
+      },
+      "convexId": "k578pdx8jqhgxr9aekksbnc8398dwxx0",
+      "lastUpdated": "2026-09-06T00:52:34.755Z",
+      "locales": {
+        "en": {
+          "answer": "Friday is Gypsy Disco, with dinner followed by DJ sets and dancing in the Jungle Room. Music includes house, nu-disco and melodic house.",
+          "name": "What happens at Gitano Jungle on Fridays?"
+        },
+        "es": {
+          "answer": "Los viernes es la noche Gypsy Disco, con cena seguida de sesiones de DJ y baile en la sala Jungle. La música incluye house, nu-disco y house melódico.",
+          "name": "¿Qué se hace los viernes en Gitano Jungle?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "can-gitano-jungle-arrange-a-birthday-cake"
+      },
+      "convexId": "k57eqga90gq1yckngavp5n12458dxd4s",
+      "lastUpdated": "2026-09-06T00:52:34.755Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. Celebration options include chocolate cake or tequila, lime and almond cake, with sparklers, bubbles and a short personalised message available.",
+          "name": "Can Gitano Jungle arrange a birthday cake?"
+        },
+        "es": {
+          "answer": "Sí. Las opciones para celebrar incluyen una tarta de chocolate o una tarta de tequila, lima y almendra, con bengalas, burbujas y la posibilidad de incluir un breve mensaje personalizado.",
+          "name": "¿Puede Gitano Jungle encargar una tarta de cumpleaños?"
         }
       }
     }
