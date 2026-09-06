@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-06T01:40:47.293Z",
+  "syncedAt": "2026-09-06T01:58:51.633Z",
   "citySlug": "tulum",
   "faqs": [
     {
@@ -3981,6 +3981,138 @@
         "es": {
           "answer": "El programa abarca los géneros house, tech-house, afro-house, techno y EDM. A los DJ residentes Cuevas y VITE se suman artistas invitados internacionales y regionales.",
           "name": "¿Qué tipo de música pone Bonbonniere?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "is-bagatelle-tulum-currently-open"
+      },
+      "convexId": "k57d22ne8stcd4d4et3zymem1x8dx0zk",
+      "lastUpdated": "2026-09-06T01:58:36.541Z",
+      "locales": {
+        "en": {
+          "answer": "No. The venue is currently closed for the low season and operates seasonally.",
+          "name": "Is Bagatelle Tulum currently open?"
+        },
+        "es": {
+          "answer": "No. The venue is currently closed for the low season and operates seasonally.",
+          "name": "Is Bagatelle Tulum currently open?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "what-are-the-usual-opening-hours"
+      },
+      "convexId": "k57704zg4c1wggn05r2ckhda5h8dxvn9",
+      "lastUpdated": "2026-09-06T01:58:36.541Z",
+      "locales": {
+        "en": {
+          "answer": "When operating, the regular schedule is 11 AM to 1 AM daily. These hours do not apply during the current seasonal closure.",
+          "name": "What are the usual opening hours?"
+        },
+        "es": {
+          "answer": "When operating, the regular schedule is 11 AM to 1 AM daily. These hours do not apply during the current seasonal closure.",
+          "name": "What are the usual opening hours?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "how-much-does-a-beach-chair-cost"
+      },
+      "convexId": "k57d2024hq8x7q8x5rck4h891x8dwayr",
+      "lastUpdated": "2026-09-06T01:58:36.541Z",
+      "locales": {
+        "en": {
+          "answer": "A single chair has required a minimum spend of about 2,000 MXN, applied to food and drinks. Private lounges have reached 15,000 MXN for up to six guests, plus a mandatory 15% gratuity.",
+          "name": "How much does a beach chair cost?"
+        },
+        "es": {
+          "answer": "A single chair has required a minimum spend of about 2,000 MXN, applied to food and drinks. Private lounges have reached 15,000 MXN for up to six guests, plus a mandatory 15% gratuity.",
+          "name": "How much does a beach chair cost?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "does-bagatelle-tulum-have-a-dress-code"
+      },
+      "convexId": "k571saqj7fpdh3dfq2mweg48cd8dwpzj",
+      "lastUpdated": "2026-09-06T01:58:36.541Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. The restaurant requires casual-chic or smart, elegant clothing; swimwear and athletic clothes are not accepted, and men should avoid sandals.",
+          "name": "Does Bagatelle Tulum have a dress code?"
+        },
+        "es": {
+          "answer": "Yes. The restaurant requires casual-chic or smart, elegant clothing; swimwear and athletic clothes are not accepted, and men should avoid sandals.",
+          "name": "Does Bagatelle Tulum have a dress code?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "what-food-does-the-restaurant-serve-2"
+      },
+      "convexId": "k5712e252q3cfq3rvgmmkrk9zd8dwbfp",
+      "lastUpdated": "2026-09-06T01:58:36.541Z",
+      "locales": {
+        "en": {
+          "answer": "It serves French-Mediterranean sharing plates, including seafood, raw dishes, pasta and grilled meat. An allergen guide is available on request in English and French.",
+          "name": "What food does the restaurant serve?"
+        },
+        "es": {
+          "answer": "It serves French-Mediterranean sharing plates, including seafood, raw dishes, pasta and grilled meat. An allergen guide is available on request in English and French.",
+          "name": "What food does the restaurant serve?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "is-the-venue-adults-only"
+      },
+      "convexId": "k57546fv6m4f5p5ntg5xs9j6118dxsm6",
+      "lastUpdated": "2026-09-06T01:58:36.541Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. The venue operates with a 21-and-over age policy.",
+          "name": "Is the venue adults only?"
+        },
+        "es": {
+          "answer": "Yes. The venue operates with a 21-and-over age policy.",
+          "name": "Is the venue adults only?"
         }
       }
     }
