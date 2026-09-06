@@ -1,9 +1,11 @@
 {
-  "syncedAt": "2026-08-06T23:18:44.174Z",
+  "syncedAt": "2026-09-06T05:46:24.903Z",
   "citySlug": "tulum",
   "categories": [
     {
       "base": {
+        "faqIds": [],
+        "heroImage": null,
         "iconName": "waves",
         "venueCategory": "lagoon"
       },
@@ -11,16 +13,22 @@
       "lastUpdated": "2026-08-06T22:01:34.034Z",
       "locales": {
         "en": {
+          "body": "",
+          "bodyIntro": "",
           "description": "Calm water, shaded seating, kayaks, and an easy pace away from the beach. Find lagoon clubs and swimming spots for a quiet afternoon or a full day by the water.",
           "hubTitle": "The best lagoons near Tulum",
           "metaDescription": "Find the best lagoons near Tulum for swimming, kayaking, shaded seating, and quiet days by the water, with practical details for each location.",
+          "metaTitle": "",
           "name": "Lagoon",
           "slug": "tulum-lagoons"
         },
         "es": {
+          "body": "",
+          "bodyIntro": "",
           "description": "Agua tranquila, sombra, kayaks y un ritmo más relajado que en la playa. Encuentra clubes de laguna y espacios para nadar, pasar la tarde o disfrutar un día completo junto al agua.",
           "hubTitle": "Las mejores lagunas cerca de Tulum",
           "metaDescription": "Encuentra las mejores lagunas cerca de Tulum para nadar, remar en kayak y pasar un día tranquilo junto al agua, con información práctica.",
+          "metaTitle": "",
           "name": "Lagunas",
           "slug": "lagunas-tulum"
         }
@@ -28,6 +36,8 @@
     },
     {
       "base": {
+        "faqIds": [],
+        "heroImage": null,
         "iconName": "fork-knife",
         "venueCategory": "restaurant"
       },
@@ -35,16 +45,22 @@
       "lastUpdated": "2026-08-06T22:01:34.034Z",
       "locales": {
         "en": {
+          "body": "",
+          "bodyIntro": "",
           "description": "Find the restaurants that stand out for the food, service, setting, or all three. Browse by cuisine, area, price range, and occasion, then reserve through the venue page.",
           "hubTitle": "The best restaurants in Tulum",
           "metaDescription": "Find the best restaurants in Tulum by cuisine, area, price range, and occasion, with local recommendations, practical details, and reservations.",
+          "metaTitle": "",
           "name": "Restaurant",
           "slug": "tulum-restaurants"
         },
         "es": {
+          "body": "",
+          "bodyIntro": "",
           "description": "Encuentra restaurantes que destacan por la comida, el servicio, el ambiente o por los tres. Explora por tipo de cocina, zona, rango de precios y ocasión, y reserva desde el perfil del lugar.",
           "hubTitle": "Los mejores restaurantes de Tulum",
           "metaDescription": "Encuentra los mejores restaurantes de Tulum por cocina, zona, precio y ocasión, con recomendaciones locales, detalles prácticos y reservas.",
+          "metaTitle": "",
           "name": "Restaurantes",
           "slug": "restaurantes-tulum"
         }
@@ -52,6 +68,8 @@
     },
     {
       "base": {
+        "faqIds": [],
+        "heroImage": null,
         "iconName": "umbrella-simple",
         "venueCategory": "beachclub"
       },
@@ -59,16 +77,22 @@
       "lastUpdated": "2026-08-06T22:01:34.034Z",
       "locales": {
         "en": {
+          "body": "",
+          "bodyIntro": "",
           "description": "From quiet daybeds to full-day parties, Tulum’s beach clubs offer very different experiences. Compare the music, minimum spend, setting, and service to find the one that suits your day.",
           "hubTitle": "The best beach clubs in Tulum",
           "metaDescription": "Compare the best beach clubs in Tulum by music, atmosphere, minimum spend, service, and setting, from quiet daybeds to full-day parties.",
+          "metaTitle": "",
           "name": "Beach Club",
           "slug": "tulum-beach-clubs"
         },
         "es": {
+          "body": "",
+          "bodyIntro": "",
           "description": "Desde camas frente al mar hasta fiestas de día completo, los beach clubs de Tulum ofrecen experiencias muy distintas. Compara la música, consumo mínimo, ambiente y servicio para elegir el que mejor se adapte a tu plan.",
           "hubTitle": "Los mejores beach clubs de Tulum",
           "metaDescription": "Compara los mejores beach clubs de Tulum por música, ambiente, consumo mínimo, servicio y estilo, desde días tranquilos hasta fiestas.",
+          "metaTitle": "",
           "name": "Beach clubs",
           "slug": "beachclubs-tulum"
         }
@@ -76,6 +100,8 @@
     },
     {
       "base": {
+        "faqIds": [],
+        "heroImage": null,
         "iconName": "martini",
         "venueCategory": "nightclub"
       },
@@ -83,16 +109,22 @@
       "lastUpdated": "2026-08-06T22:01:34.034Z",
       "locales": {
         "en": {
+          "body": "",
+          "bodyIntro": "",
           "description": "Find the clubs booking local and international DJs across Tulum. Check the music, upcoming events, opening hours, table options, and what kind of night to expect.",
           "hubTitle": "The best nightclubs in Tulum",
           "metaDescription": "Find the best nightclubs in Tulum, with upcoming events, local and international DJs, opening hours, music styles, and table booking options.",
+          "metaTitle": "",
           "name": "Nightclub",
           "slug": "tulum-nightclubs"
         },
         "es": {
+          "body": "",
+          "bodyIntro": "",
           "description": "Encuentra los clubes que presentan DJs locales e internacionales en Tulum. Consulta la música, próximos eventos, horarios, opciones de mesa y el tipo de noche que puedes esperar.",
           "hubTitle": "Los mejores antros de Tulum",
           "metaDescription": "Encuentra los mejores antros de Tulum, con próximos eventos, DJs locales e internacionales, horarios, estilos musicales y opciones de mesa.",
+          "metaTitle": "",
           "name": "Antros",
           "slug": "antros-tulum"
         }
@@ -100,6 +132,8 @@
     },
     {
       "base": {
+        "faqIds": [],
+        "heroImage": null,
         "iconName": "drop",
         "venueCategory": "cenote"
       },
@@ -107,16 +141,22 @@
       "lastUpdated": "2026-08-06T22:01:34.034Z",
       "locales": {
         "en": {
+          "body": "",
+          "bodyIntro": "",
           "description": "Swim in clear freshwater, spend the day by the water, or stop at a cenote on the way to the ruins. Each listing includes entrance fees, opening hours, facilities, and how to get there.",
           "hubTitle": "The best cenotes near Tulum",
           "metaDescription": "Explore the best cenotes near Tulum, with entrance fees, opening hours, facilities, swimming details, and directions for planning your visit.",
+          "metaTitle": "",
           "name": "Cenote",
           "slug": "tulum-cenotes"
         },
         "es": {
+          "body": "",
+          "bodyIntro": "",
           "description": "Nada en agua dulce, pasa el día junto al cenote o haz una parada camino a las ruinas. Cada perfil incluye precios de entrada, horarios, servicios y cómo llegar.",
           "hubTitle": "Los mejores cenotes cerca de Tulum",
           "metaDescription": "Explora los mejores cenotes cerca de Tulum, con precios de entrada, horarios, servicios, información para nadar y cómo llegar.",
+          "metaTitle": "",
           "name": "Cenotes",
           "slug": "cenotes-tulum"
         }
@@ -124,6 +164,8 @@
     },
     {
       "base": {
+        "faqIds": [],
+        "heroImage": null,
         "iconName": "wine",
         "venueCategory": "bar"
       },
@@ -131,16 +173,22 @@
       "lastUpdated": "2026-08-06T22:01:34.034Z",
       "locales": {
         "en": {
+          "body": "",
+          "bodyIntro": "",
           "description": "Find mezcal bars, cocktail rooms, beachside drinks, and places that stay busy after dinner. Each listing includes the atmosphere, price range, opening hours, and what the bar does best.",
           "hubTitle": "The best bars in Tulum",
           "metaDescription": "Find the best bars in Tulum, from mezcal counters and cocktail rooms to beachside drinks and late-night spots, with hours, prices, and local tips.",
+          "metaTitle": "",
           "name": "Bar",
           "slug": "tulum-bars"
         },
         "es": {
+          "body": "",
+          "bodyIntro": "",
           "description": "Encuentra barras de mezcal, coctelerías, lugares junto al mar y opciones para seguir la noche después de cenar. Cada perfil incluye el ambiente, rango de precios, horarios y lo que mejor hace cada bar.",
           "hubTitle": "Los mejores bares de Tulum",
           "metaDescription": "Encuentra los mejores bares de Tulum, desde barras de mezcal y coctelerías hasta opciones junto al mar y lugares para salir de noche.",
+          "metaTitle": "",
           "name": "Bares",
           "slug": "bares-tulum"
         }
@@ -148,6 +196,8 @@
     },
     {
       "base": {
+        "faqIds": [],
+        "heroImage": null,
         "iconName": "coffee",
         "venueCategory": "cafe"
       },
@@ -155,16 +205,22 @@
       "lastUpdated": "2026-08-06T22:01:34.034Z",
       "locales": {
         "en": {
+          "body": "",
+          "bodyIntro": "",
           "description": "Find good coffee, breakfast, fresh bakery, and places where you can sit with a laptop for a few hours. Each listing includes opening hours, location, menu details, and Wi-Fi where available.",
           "hubTitle": "The best cafés in Tulum",
           "metaDescription": "Find the best cafés in Tulum for coffee, breakfast, fresh bakery, and laptop-friendly work sessions, with opening hours, locations, and Wi-Fi details.",
+          "metaTitle": "",
           "name": "Cafe",
           "slug": "tulum-cafes"
         },
         "es": {
+          "body": "",
+          "bodyIntro": "",
           "description": "Encuentra buen café, desayunos, panadería fresca y lugares donde puedas trabajar unas horas con tu laptop. Cada perfil incluye horarios, ubicación, detalles del menú y Wi-Fi cuando está disponible.",
           "hubTitle": "Los mejores cafés de Tulum",
           "metaDescription": "Encuentra los mejores cafés de Tulum para tomar café, desayunar, comer panadería fresca o trabajar con laptop, con horarios y ubicaciones.",
+          "metaTitle": "",
           "name": "Cafés",
           "slug": "cafes-tulum"
         }
@@ -172,6 +228,8 @@
     },
     {
       "base": {
+        "faqIds": [],
+        "heroImage": null,
         "iconName": "buildings",
         "venueCategory": "rooftop"
       },
@@ -179,16 +237,22 @@
       "lastUpdated": "2026-08-06T22:01:34.034Z",
       "locales": {
         "en": {
+          "body": "",
+          "bodyIntro": "",
           "description": "Find rooftops for sunset drinks, dinner, cocktails, and late-night music. Each listing covers the view, atmosphere, menu, price range, and the best time to go.",
           "hubTitle": "The best rooftops in Tulum",
           "metaDescription": "Find the best rooftops in Tulum for sunset drinks, dinner, cocktails, and late-night music, with views, menus, prices, and opening hours.",
+          "metaTitle": "",
           "name": "Rooftop",
           "slug": "tulum-rooftops"
         },
         "es": {
+          "body": "",
+          "bodyIntro": "",
           "description": "Encuentra rooftops para tomar algo al atardecer, cenar, probar cocteles o escuchar música por la noche. Cada perfil incluye vistas, ambiente, menú, rango de precios y el mejor momento para ir.",
           "hubTitle": "Los mejores rooftops de Tulum",
           "metaDescription": "Encuentra los mejores rooftops de Tulum para atardeceres, cenas, cocteles y música nocturna, con vistas, menús, precios y horarios.",
+          "metaTitle": "",
           "name": "Rooftops",
           "slug": "rooftops-tulum"
         }
