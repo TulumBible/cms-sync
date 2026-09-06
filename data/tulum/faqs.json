@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-05T23:34:17.320Z",
+  "syncedAt": "2026-09-06T00:06:15.246Z",
   "citySlug": "tulum",
   "faqs": [
     {
@@ -3651,6 +3651,72 @@
         "es": {
           "answer": "La entrada es a las 16:00 y la salida, a las 10:00.",
           "name": "¿A qué hora hay que hacer el check-in y el check-out en la Hacienda Babylon?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "what-time-is-the-beach-club-open"
+      },
+      "convexId": "k570xteky4e9a5mngrek7avxms8dxm7p",
+      "lastUpdated": "2026-09-06T00:05:55.758Z",
+      "locales": {
+        "en": {
+          "answer": "It is open daily from 11 AM to 11 PM. Food service runs from 11 AM to 9 PM.",
+          "name": "What time is the beach club open?"
+        },
+        "es": {
+          "answer": "Está abierto todos los días de 11:00 a 23:00. El servicio de comida es de 11:00 a 21:00.",
+          "name": "¿A qué hora abre el beach club?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "can-i-reserve-beach-seating-or-a-dinner-table"
+      },
+      "convexId": "k57fvdnse9ztvdzsr6s6cfsk0d8dw7bm",
+      "lastUpdated": "2026-09-06T00:05:55.758Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. Reserve beach seating or dinner through the venue page on Tulum Bible; dinner tables use two-hour seating windows.",
+          "name": "Can I reserve beach seating or a dinner table?"
+        },
+        "es": {
+          "answer": "Sí. Puedes reservar asientos en la playa o una cena a través de la página del local en Tulum Bible; las mesas para cenar tienen franjas horarias de dos horas.",
+          "name": "¿Puedo reservar una tumbona en la playa o una mesa para cenar?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "when-do-the-djs-play"
+      },
+      "convexId": "k571ky18j6hrtc7np9r9zf9a158dxs8h",
+      "lastUpdated": "2026-09-06T00:05:55.758Z",
+      "locales": {
+        "en": {
+          "answer": "DJs play Thursday through Sunday from 1 PM, with music spanning deep house, tropical house, nu-disco, indie dance and melodic house. Monthly and recurring events include Full Moon Rising, Gypsy Disco, Sunset Fiesta and Las Gitanas.",
+          "name": "When do the DJs play?"
+        },
+        "es": {
+          "answer": "Los DJ pinchan de jueves a domingo a partir de las 13:00 h, con música que abarca estilos como el deep house, el tropical house, el nu-disco, el indie dance y el melodic house. Entre los eventos mensuales y recurrentes se incluyen Full Moon Rising, Gypsy Disco, Sunset Fiesta y Las Gitanas.",
+          "name": "¿A qué hora pinchan los DJ?"
         }
       }
     }
