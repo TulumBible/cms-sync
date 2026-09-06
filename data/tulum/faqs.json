@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-06T03:04:56.041Z",
+  "syncedAt": "2026-09-06T03:19:35.819Z",
   "citySlug": "tulum",
   "faqs": [
     {
@@ -4399,6 +4399,138 @@
         "es": {
           "answer": "Los DJ residentes pinchan hip-hop comercial, latin house, reggaeton, música electrónica y reggae. Las sesiones seleccionadas van acompañadas de actuaciones en directo de saxofón y violín, desfiles de moda y desfiles de botellas.",
           "name": "¿Qué tipo de música pone Taboo?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "do-you-need-a-reservation-at-onyx"
+      },
+      "convexId": "k57e6kyphsz8nj7ve5841stspx8dwvq6",
+      "lastUpdated": "2026-09-06T03:18:00.137Z",
+      "locales": {
+        "en": {
+          "answer": "Reservations are accepted and are useful for evening tables or group celebrations. Book through the venue page on Tulum Bible.",
+          "name": "Do you need a reservation at Onyx?"
+        },
+        "es": {
+          "answer": "Reservations are accepted and are useful for evening tables or group celebrations. Book through the venue page on Tulum Bible.",
+          "name": "Do you need a reservation at Onyx?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "what-are-the-opening-hours-3"
+      },
+      "convexId": "k579mbzxvzg7x60ktn77hxngqh8dxg6s",
+      "lastUpdated": "2026-09-06T03:18:00.137Z",
+      "locales": {
+        "en": {
+          "answer": "The restaurant is open daily from 12 PM to 12 AM.",
+          "name": "What are the opening hours?"
+        },
+        "es": {
+          "answer": "The restaurant is open daily from 12 PM to 12 AM.",
+          "name": "What are the opening hours?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "what-food-is-served"
+      },
+      "convexId": "k575nfj6apq1g9jwh8px0j7rbs8dwd8a",
+      "lastUpdated": "2026-09-06T03:18:00.137Z",
+      "locales": {
+        "en": {
+          "answer": "The menu combines Mexican and international cooking, with fish tempura tacos, ceviche, grilled octopus, fajitas, steaks and vegetarian options.",
+          "name": "What food is served?"
+        },
+        "es": {
+          "answer": "The menu combines Mexican and international cooking, with fish tempura tacos, ceviche, grilled octopus, fajitas, steaks and vegetarian options.",
+          "name": "What food is served?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "how-much-does-a-meal-typically-cost"
+      },
+      "convexId": "k573dtye8etbspma1vs43scpwx8dxfht",
+      "lastUpdated": "2026-09-06T03:18:00.137Z",
+      "locales": {
+        "en": {
+          "answer": "Expect a typical spend of about 300 to 600 MXN per person. Larger grilled dishes, extra cocktails and any service charge can increase the final bill.",
+          "name": "How much does a meal typically cost?"
+        },
+        "es": {
+          "answer": "Expect a typical spend of about 300 to 600 MXN per person. Larger grilled dishes, extra cocktails and any service charge can increase the final bill.",
+          "name": "How much does a meal typically cost?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "does-the-restaurant-have-live-entertainment"
+      },
+      "convexId": "k577xcn9rgqsj0zjj0cb806z2s8dxg3k",
+      "lastUpdated": "2026-09-06T03:18:00.137Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. Evenings can include live music, DJs, salsa, cultural dance and a Mayan fire performance, generally between 8 PM and 10 PM.",
+          "name": "Does the restaurant have live entertainment?"
+        },
+        "es": {
+          "answer": "Yes. Evenings can include live music, DJs, salsa, cultural dance and a Mayan fire performance, generally between 8 PM and 10 PM.",
+          "name": "Does the restaurant have live entertainment?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "is-there-a-minimum-spend"
+      },
+      "convexId": "k57dv7gj98t1w39enesx2hy7wx8dx7bf",
+      "lastUpdated": "2026-09-06T03:18:00.137Z",
+      "locales": {
+        "en": {
+          "answer": "There is no minimum consumption requirement.",
+          "name": "Is there a minimum spend?"
+        },
+        "es": {
+          "answer": "There is no minimum consumption requirement.",
+          "name": "Is there a minimum spend?"
         }
       }
     }
