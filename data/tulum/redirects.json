@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-08-22T20:24:08.736Z",
+  "syncedAt": "2026-09-06T22:01:32.529Z",
   "citySlug": "tulum",
   "redirects": [
     {
@@ -2207,6 +2207,19 @@
       },
       "convexId": "kx7634hx8g8164b9e6r16yngw98cyqdh",
       "lastUpdated": "2026-08-22T20:23:49.008Z",
+      "locales": {
+        "en": {},
+        "es": {}
+      }
+    },
+    {
+      "base": {
+        "fromPath": "/es-mx/venue/vesica-tulum",
+        "statusCode": 301,
+        "toPath": "/es-mx/venue/cenote-vesica"
+      },
+      "convexId": "kx70we6m74nxayjwgzqjrzycah8dx18t",
+      "lastUpdated": "2026-09-06T22:01:19.109Z",
       "locales": {
         "en": {},
         "es": {}
