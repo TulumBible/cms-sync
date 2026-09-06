@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-06T02:16:07.853Z",
+  "syncedAt": "2026-09-06T02:25:41.360Z",
   "citySlug": "tulum",
   "faqs": [
     {
@@ -4201,6 +4201,72 @@
         "es": {
           "answer": "Los huéspedes con reserva tenían que presentar un documento de identidad físico y la tarjeta utilizada para realizar la reserva.",
           "name": "¿Qué documento de identidad había que presentar para entrar?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "is-meze-still-open-in-tulum"
+      },
+      "convexId": "k57dq9kkwa0ehyp2y0ehp3987n8dxadf",
+      "lastUpdated": "2026-09-06T02:25:26.622Z",
+      "locales": {
+        "en": {
+          "answer": "No. The venue has been closed for several years.",
+          "name": "Is Meze still open in Tulum?"
+        },
+        "es": {
+          "answer": "No. El local lleva varios años cerrado.",
+          "name": "¿Sigue abierto el Meze en Tulum?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "what-food-did-the-restaurant-serve"
+      },
+      "convexId": "k57fdb5mm7gjyhsfpzct29k45x8dwz1d",
+      "lastUpdated": "2026-09-06T02:25:26.622Z",
+      "locales": {
+        "en": {
+          "answer": "It served Aegean sharing plates cooked over fire, including Greek dips, octopus, prawns, rib eye and salt-baked catch of the day.",
+          "name": "What food did the restaurant serve?"
+        },
+        "es": {
+          "answer": "Ofrecía platos para compartir típicos del Egeo cocinados a la brasa, entre los que se incluían salsas griegas, pulpo, gambas, chuletón y pescado del día al horno con sal.",
+          "name": "¿Qué comida servía el restaurante?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "where-was-the-restaurant-located"
+      },
+      "convexId": "k578c13n6rkcnacpqgkh1gth8s8dxhnt",
+      "lastUpdated": "2026-09-06T02:25:26.622Z",
+      "locales": {
+        "en": {
+          "answer": "It was on the Tulum-Boca Paila road in the Hotel Zone, near Gitano Jungle.",
+          "name": "Where was the restaurant located?"
+        },
+        "es": {
+          "answer": "Fue en la carretera de Tulum a Boca Paila, en la Zona Hotelera, cerca de Gitano Jungle.",
+          "name": "¿Dónde estaba situado el restaurante?"
         }
       }
     }

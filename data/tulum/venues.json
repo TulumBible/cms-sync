@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-06T02:19:59.153Z",
+  "syncedAt": "2026-09-06T02:25:41.342Z",
   "citySlug": "tulum",
   "venues": [
     {
@@ -700,9 +700,12 @@
         "amenityIds": [],
         "area": "hotel-zone",
         "category": "restaurant",
-        "coordinates": null,
         "drinkMenuUrl": "",
-        "faqIds": [],
+        "faqIds": [
+          "k57dq9kkwa0ehyp2y0ehp3987n8dxadf",
+          "k57fdb5mm7gjyhsfpzct29k45x8dwz1d",
+          "k578c13n6rkcnacpqgkh1gth8s8dxhnt"
+        ],
         "foodMenuUrl": "https://assets.tulumbible.com/menus/tulum/meze-tulum-food-menu.pdf",
         "googleMapsCode": "Carretera Tulum-Boca Paila Km 6.5 S/N, 77780 Tulum, Q.R.",
         "googlePlaceId": null,
@@ -733,36 +736,36 @@
         "isFeatured": false,
         "isFeaturedOnCoreTulum": false,
         "openingHoursHtml": "",
-        "pricing": "$$$$",
+        "pricing": "$$$",
         "priority": 5,
         "promotion": "normal",
-        "publishedAt": "2026-06-21T23:57:50.349Z",
-        "reelUrl": null,
+        "publishedAt": "2026-08-22T01:41:51.691Z",
+        "reelUrl": "",
         "reviewIds": [],
         "tableLayoutImage": null,
         "tags": []
       },
       "convexId": "jh77f9f8ntttn93xyn961kw43x7qzyw9",
-      "lastUpdated": "2026-08-22T00:54:15.235Z",
+      "lastUpdated": "2026-09-06T02:25:28.375Z",
       "locales": {
         "en": {
           "address": "",
-          "body": "<h2 id=\"\">Meze is currently closed</h2><p id=\"\">MEZE is Gitano Group's nod to the serene beauty of the Aegean Islands. Opened in 2019, this Aegean Taverna is nestled in the Tulum Jungle, just a stone's throw away from Gitano Jungle.</p><p id=\"\">Guests at MEZE are welcomed by a majestic bougainvillea-filled archway that leads to a lime-washed front courtyard and fountain, giving way to an elegant stone bar. The bar serves signature cocktails, perfectly complementing the menu that features everything from freshly-caught fish to beloved family recipes.</p><p id=\"\">At MEZE, the dining experience is all about family, friendship, and sharing incredible food and drinks, reinforcing the brand's commitment to fostering connection and joy. For those wanting to experience different facets of the Gitano Group, Gitano Jungle and Gitano Beach are just around the corner.</p>",
-          "description": "MEZE, a creation of the Gitano Group, is a tribute to the beauty of the Aegean Islands. Established in 2019, this Aegean Taverna is beautifully situated in the Tulum Jungle, a short distance from Gitano Jungle.",
+          "body": "<h2>Meze Tulum Was Grupo Gitano's Aegean Taverna</h2>\n<p>Opened in 2019 by Grupo Gitano, the venue was an Aegean sharing concept on the Tulum-Boca Paila road. It occupied a white hacienda near Gitano Jungle. A bougainvillea arch led into a lime-washed courtyard with a fountain. The room continued to a large stone bar and an open kitchen built around fire.</p>\n<h3>Fire Cooking and Greek Sharing Plates</h3>\n<p>Executive Chef Alexandros Gkoutsi led a menu of Greek dips, vegetables, meat and seafood. The salt-baked catch of the day cost 1,450 MXN, while octopus was 520 MXN and a selection of three mezes was 750 MXN. Cooking focused on an open fire and wood-fired oven. Sides included potatoes, zucchini and green beans, each priced at 220 MXN.</p>\n<h3>Closed for Years on Tulum Beach Road</h3>\n<p>Meze Tulum has not operated for several years, so its former hours and reservation links should not be used to plan a visit. There is no current table service or booking option. It is best treated as a former venue rather than a current dining option. Check its status on the venue page at Tulum Bible before making plans.</p>",
+          "description": "Grupo Gitano's former Aegean dining concept paired a white hacienda courtyard with open-fire cooking, sharing plates and a stone bar. It has been closed for years.",
           "feesHtml": "",
-          "menuDescription": "Greek Menu",
-          "metaDescription": "Meze is currently closed. This Aegean restaurant in Tulum's Hotel Zone was known for its bougainvillea archway and lime-washed stone courtyard.",
+          "menuDescription": "Former Aegean sharing menu with fire-cooked meats, meze plates and a 1,450 MXN salt-baked catch of the day.",
+          "metaDescription": "Meze was an Aegean restaurant in Tulum's Hotel Zone, known for open-fire cooking and salt-baked fish. The former venue has been closed for several years.",
           "name": "Meze",
           "slug": "meze-tulum",
           "tableInformation": ""
         },
         "es": {
           "address": "",
-          "body": "<h2 id=\"\">Meze está cerrado actualmente</h2><p id=\"\">MEZE es el homenaje del Grupo Gitano a la serena belleza de las islas del Egeo. Inaugurada en 2019, esta taberna egea se encuentra enclavada en la selva de Tulum, a un paso de Gitano Jungle.</p><p id=\"\">Los huéspedes de MEZE son recibidos por un majestuoso arco cubierto de buganvillas que conduce a un patio delantero encalado con una fuente, que da paso a una elegante barra de piedra. La barra sirve cócteles de autor, que complementan a la perfección la carta, en la que se incluye de todo, desde pescado recién capturado hasta recetas familiares muy apreciadas.</p><p id=\"\">En MEZE, la experiencia gastronómica gira en torno a la familia, la amistad y el hecho de compartir comida y bebidas increíbles, lo que refuerza el compromiso de la marca de fomentar la conexión y la alegría. Para aquellos que deseen descubrir las diferentes facetas del Grupo Gitano, Gitano Jungle y Gitano Beach se encuentran a la vuelta de la esquina.</p>",
-          "description": "MEZE, una creación del Grupo Gitano, es un homenaje a la belleza de las islas del Egeo. Fundada en 2019, esta taberna egea goza de una ubicación privilegiada en la selva de Tulum, a poca distancia de Gitano Jungle.",
+          "body": "<h2>Meze Tulum era la Aegean Taverna del Grupo Gitano</h2>\n<p>Inaugurado en 2019 por el Grupo Gitano, el local era un restaurante de estilo egeo basado en el concepto de platos para compartir, situado en la carretera de Tulum a Boca Paila. Ocupaba una hacienda blanca cerca de Gitano Jungle. Un arco de buganvillas daba acceso a un patio encalado con una fuente. El local continuaba con una gran barra de piedra y una cocina abierta construida en torno a una hoguera.</p>\n<h3>Cocina a la brasa y platos griegos para compartir</h3>\n<p>El chef ejecutivo Alexandros Gkoutsi dirigía una carta de salsas griegas, verduras, carnes y mariscos. La captura del día al horno de sal costaba 1.450 MXN, mientras que el pulpo costaba 520 MXN y una selección de tres mezes, 750 MXN. La cocina se centraba en el fuego abierto y el horno de leña. Las guarniciones incluían patatas, calabacín y judías verdes, cada una a un precio de 220 MXN.</p>\n<h3>Cerrado desde hace años en la carretera de la playa de Tulum</h3>\n<p>Meze Tulum lleva varios años sin abrir, por lo que no se deben utilizar sus antiguos horarios ni enlaces de reserva para planificar una visita. Actualmente no hay servicio de mesa ni opción de reserva. Es mejor considerarlo un local antiguo en lugar de una opción gastronómica actual. Comprueba su estado en la página del local en Tulum Bible antes de hacer planes.</p>",
+          "description": "El antiguo concepto gastronómico Aegean del Grupo Gitano combinaba un patio de hacienda de color blanco con cocina a leña, platos para compartir y una barra de piedra. Lleva años cerrado.",
           "feesHtml": "",
-          "menuDescription": "Menú griego",
-          "metaDescription": "",
+          "menuDescription": "El antiguo Aegean ofrece un menú para compartir con carnes a la brasa, platos de meze y el pescado del día al horno con sal por 1.450 MXN.",
+          "metaDescription": "Meze, restaurante del Egeo en la zona hotelera de Tulum, destacaba por sus platos a la brasa y pescado al horno con sal. Cerrado hace años.",
           "name": "Meze",
           "slug": "meze-tulum",
           "tableInformation": ""
