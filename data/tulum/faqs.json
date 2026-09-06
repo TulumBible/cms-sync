@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-06T02:29:55.251Z",
+  "syncedAt": "2026-09-06T03:04:56.041Z",
   "citySlug": "tulum",
   "faqs": [
     {
@@ -4267,6 +4267,138 @@
         "es": {
           "answer": "Fue en la carretera de Tulum a Boca Paila, en la Zona Hotelera, cerca de Gitano Jungle.",
           "name": "¿Dónde estaba situado el restaurante?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "how-much-does-taboo-beach-club-cost"
+      },
+      "convexId": "k576ws5j2g6vj6j3sqwz65d1wh8dw8tt",
+      "lastUpdated": "2026-09-06T03:01:44.450Z",
+      "locales": {
+        "en": {
+          "answer": "Sunbeds start at 2,000 MXN for one person, cabanas at 9,500 MXN for four and lounges at 14,500 MXN for six. Half of the prepaid amount becomes food and beverage credit.",
+          "name": "How much does Taboo Beach Club cost?"
+        },
+        "es": {
+          "answer": "Las tumbonas cuestan a partir de 2.000 MXN por persona, las cabañas 9.500 MXN por cuatro personas y las zonas de descanso 14.500 MXN por seis personas. La mitad del importe pagado por adelantado se convierte en crédito para comida y bebida.",
+          "name": "¿Cuánto cuesta Taboo: Beach Club?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "do-i-need-a-reservation-for-taboo"
+      },
+      "convexId": "k57d6cje0w8m5hxa7ey05pe3yx8dxfy3",
+      "lastUpdated": "2026-09-06T03:01:44.450Z",
+      "locales": {
+        "en": {
+          "answer": "Advance reservations are recommended on weekends and during peak periods, while VIP areas require full prepayment. Reserve through the venue page on Tulum Bible.",
+          "name": "Do I need a reservation for Taboo?"
+        },
+        "es": {
+          "answer": "Se recomienda reservar con antelación los fines de semana y en temporada alta, mientras que las zonas VIP requieren el pago por adelantado de la totalidad del importe. Reserva a través de la página del local en Tulum Bible.",
+          "name": "¿Tengo que reservar para ir a Taboo?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "what-are-the-opening-hours-2"
+      },
+      "convexId": "k5746rb43bgkhtfqa0wseep1t58dw706",
+      "lastUpdated": "2026-09-06T03:01:44.450Z",
+      "locales": {
+        "en": {
+          "answer": "Day-pass access and current low-season restaurant service run from 11:00 AM to 7:00 PM.",
+          "name": "What are the opening hours?"
+        },
+        "es": {
+          "answer": "El acceso con pase de un día y el horario actual del restaurante en temporada baja son de 11:00 a 19:00.",
+          "name": "¿Cuál es el horario de apertura?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "what-does-the-beach-club-day-pass-include"
+      },
+      "convexId": "k574pnx44jq6fy4svr9byhg16h8dwkwf",
+      "lastUpdated": "2026-09-06T03:01:44.450Z",
+      "locales": {
+        "en": {
+          "answer": "Access includes a 50% food and beverage credit, umbrellas, towels, pool use, WiFi, restrooms, changing rooms and showers. Spa treatments, massages and boutique purchases cost extra.",
+          "name": "What does the beach club day pass include?"
+        },
+        "es": {
+          "answer": "El acceso incluye un crédito del 50 % para comida y bebida, sombrillas, toallas, uso de la piscina, wifi, aseos, vestuarios y duchas. Los tratamientos de spa, los masajes y las compras en la tienda tienen un coste adicional.",
+          "name": "¿Qué incluye el pase de un día beach club?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "is-there-a-cover-charge-for-the-restaurant"
+      },
+      "convexId": "k57ct0ghr53kn85k0h57q8ckrn8dwk1w",
+      "lastUpdated": "2026-09-06T03:01:44.450Z",
+      "locales": {
+        "en": {
+          "answer": "Restaurant-only reservations do not require the beach club cover. The prepaid access charge applies to loungers and VIP beach areas.",
+          "name": "Is there a cover charge for the restaurant?"
+        },
+        "es": {
+          "answer": "Las reservas exclusivas para el restaurante no requieren la tarjeta beach club. La tarifa de acceso prepagada se aplica a las tumbonas y a las zonas VIP de la playa.",
+          "name": "¿Hay que pagar entrada para ir al restaurante?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "what-music-does-taboo-play"
+      },
+      "convexId": "k57d1q5xgzhj3xxxzcryvchm798dxxmj",
+      "lastUpdated": "2026-09-06T03:01:44.450Z",
+      "locales": {
+        "en": {
+          "answer": "Resident DJs play commercial hip-hop, Latin house, reggaeton, electronic music and reggae. Live saxophone and violin performances, fashion shows and bottle parades accompany selected sets.",
+          "name": "What music does Taboo play?"
+        },
+        "es": {
+          "answer": "Los DJ residentes pinchan hip-hop comercial, latin house, reggaeton, música electrónica y reggae. Las sesiones seleccionadas van acompañadas de actuaciones en directo de saxofón y violín, desfiles de moda y desfiles de botellas.",
+          "name": "¿Qué tipo de música pone Taboo?"
         }
       }
     }
