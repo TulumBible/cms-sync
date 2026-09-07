@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-07T01:45:49.746Z",
+  "syncedAt": "2026-09-07T01:52:20.010Z",
   "citySlug": "tulum",
   "venues": [
     {
@@ -1250,7 +1250,7 @@
         "isClosed": false,
         "isFeatured": false,
         "isFeaturedOnCoreTulum": false,
-        "isHiddenFromHubs": false,
+        "isHiddenFromHubs": true,
         "openingHoursHtml": "<p>10:00 - 18:00</p><p>10:00 - 18:00</p><p>10:00 - 18:00</p><p>10:00 - 18:00</p><p>10:00 - 18:00</p><p>10:00 - 03:00</p><p>10:00 - 18:00</p>",
         "pricing": "$$$$",
         "priority": 5,
@@ -1262,7 +1262,7 @@
         "tags": []
       },
       "convexId": "jh72qvc4pqgb77j2kja14r0ez17qy75p",
-      "lastUpdated": "2026-09-06T03:21:27.761Z",
+      "lastUpdated": "2026-09-07T01:52:07.360Z",
       "locales": {
         "en": {
           "address": "Carretera Tulum-Boca Paila Km 4.5, Zona Costera, 77780 Tulum, Q.R., Mexico",
