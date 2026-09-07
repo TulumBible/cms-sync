@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-07T01:52:20.010Z",
+  "syncedAt": "2026-09-07T01:52:40.294Z",
   "citySlug": "tulum",
   "venues": [
     {
@@ -408,7 +408,7 @@
         "isClosed": false,
         "isFeatured": false,
         "isFeaturedOnCoreTulum": false,
-        "isHiddenFromHubs": false,
+        "isHiddenFromHubs": true,
         "openingHoursHtml": "<p>Open 24 hours</p><p>Open 24 hours</p><p>Open 24 hours</p><p>Open 24 hours</p><p>Open 24 hours</p><p>Open 24 hours</p><p>Open 24 hours</p>",
         "pricing": "$$$$",
         "priority": 5,
@@ -423,7 +423,7 @@
         "tags": []
       },
       "convexId": "jh78tmrpt2hwv07mjr6s6exnj97qy4js",
-      "lastUpdated": "2026-08-22T00:53:36.539Z",
+      "lastUpdated": "2026-09-07T01:52:20.319Z",
       "locales": {
         "en": {
           "address": "km 200, México 307, Tulum",
