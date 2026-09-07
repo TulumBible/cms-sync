@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-06T22:01:32.529Z",
+  "syncedAt": "2026-09-07T23:41:02.958Z",
   "citySlug": "tulum",
   "redirects": [
     {
@@ -2220,6 +2220,19 @@
       },
       "convexId": "kx70we6m74nxayjwgzqjrzycah8dx18t",
       "lastUpdated": "2026-09-06T22:01:19.109Z",
+      "locales": {
+        "en": {},
+        "es": {}
+      }
+    },
+    {
+      "base": {
+        "fromPath": "/venue/umi",
+        "statusCode": 301,
+        "toPath": "/venue/umi-beachclub"
+      },
+      "convexId": "kx7d4101ka2krzkv11r8n4y3gn8dy91c",
+      "lastUpdated": "2026-09-07T23:40:48.153Z",
       "locales": {
         "en": {},
         "es": {}
