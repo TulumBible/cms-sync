@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-06T03:49:55.810Z",
+  "syncedAt": "2026-09-07T04:00:26.150Z",
   "citySlug": "tulum",
   "faqs": [
     {
@@ -4663,6 +4663,116 @@
         "es": {
           "answer": "Reserva a través de la página del local en Tulum Bible. Las entradas para el evento cuestan a partir de 680 MXN, mientras que los precios de las mesas VIP y del servicio de botellas dependen del programa.",
           "name": "¿Cómo puedo reservar una tumbona, una mesa o una entrada para un evento?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "is-there-a-minimum-spend-at-umi-beach-club"
+      },
+      "convexId": "k575d5mtn2a1mbm57tc5rqpfms8dzajr",
+      "lastUpdated": "2026-09-07T03:37:07.473Z",
+      "locales": {
+        "en": {
+          "answer": "No. The beach club currently has no minimum consumption requirement, although separately programmed events may require a ticket.",
+          "name": "Is there a minimum spend at UMi beach club?"
+        },
+        "es": {
+          "answer": "No. El beach club no tiene actualmente ningún requisito de consumo mínimo, aunque es posible que algunos eventos programados por separado requieran entrada.",
+          "name": "¿Hay un importe mínimo de compra en UMi beach club?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "is-parking-free-at-umi"
+      },
+      "convexId": "k5780cmwx52tthkc40dfm7febs8dz3q2",
+      "lastUpdated": "2026-09-07T03:37:07.473Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. Free parking is available at the property.",
+          "name": "Is parking free at UMi?"
+        },
+        "es": {
+          "answer": "Sí. El establecimiento dispone de aparcamiento gratuito.",
+          "name": "¿El aparcamiento es gratuito en UMi?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "is-umi-adults-only-and-can-i-bring-a-pet"
+      },
+      "convexId": "k574e56px60tsyqs21r605b2798dzrfr",
+      "lastUpdated": "2026-09-07T03:37:07.473Z",
+      "locales": {
+        "en": {
+          "answer": "The beach club is adults-only and pet-friendly.",
+          "name": "Is UMi adults-only, and can I bring a pet?"
+        },
+        "es": {
+          "answer": "El beach club es un establecimiento solo para adultos y admite mascotas.",
+          "name": "¿UMi es un establecimiento solo para adultos? ¿Puedo traer una mascota?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "what-music-is-played-at-umi-events"
+      },
+      "convexId": "k57b377dmfjxr9qfwcpa78tdwn8dym13",
+      "lastUpdated": "2026-09-07T03:37:07.473Z",
+      "locales": {
+        "en": {
+          "answer": "The programme focuses on Afro House, Tech House, House and Organic House. Some events also include live instruments.",
+          "name": "What music is played at UMi events?"
+        },
+        "es": {
+          "answer": "El programa se centra en los estilos Afro House, Tech House, House y Organic House. Algunos eventos también cuentan con instrumentos en directo.",
+          "name": "¿Qué tipo de música se pone en los eventos de UMi?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "can-i-reserve-a-sunbed-at-umi"
+      },
+      "convexId": "k577y8jr6ea91ra07v3h4ytged8dzq5v",
+      "lastUpdated": "2026-09-07T03:37:07.473Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. Reserve beach-club seating through the venue page on Tulum Bible.",
+          "name": "Can I reserve a sunbed at UMi?"
+        },
+        "es": {
+          "answer": "Sí. Reserva tu plaza en el club de playa a través de la página del local en Tulum Bible.",
+          "name": "¿Puedo reservar una tumbona en UMi?"
         }
       }
     }
