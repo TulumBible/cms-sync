@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-07T23:42:09.371Z",
+  "syncedAt": "2026-09-08T04:39:11.414Z",
   "citySlug": "tulum",
   "venues": [
     {
@@ -160,7 +160,14 @@
         "category": "lagoon",
         "consumptionPackages": [],
         "drinkMenuUrl": "",
-        "faqIds": [],
+        "faqIds": [
+          "k5775pt17vje0ypz4xgzx8jfex8e1vn2",
+          "k5712tgmkkck68fcefvgh4f0618e0vgv",
+          "k57e7878j0f18sdchrhkzth92s8e0vms",
+          "k57d6wrpbqt32qqn5z3p4qvv318e14k2",
+          "k570hxz0y4vjc9etsa0z4yh8998e0v4v",
+          "k576zvckzhdct43sa3hv56j8rh8e0fag"
+        ],
         "foodMenuUrl": "",
         "googleMapsCode": "4C59+4W José María Pino Suárez, Quintana Roo",
         "googlePlaceId": null,
@@ -195,14 +202,14 @@
         "openingHoursHtml": "<p>10:30 - 19:00</p><p>10:30 - 19:00</p><p>10:30 - 19:00</p><p>10:30 - 19:00</p><p>10:30 - 19:00</p><p>10:30 - 19:00</p><p>10:30 - 19:00</p>",
         "priority": 1,
         "promotion": "normal",
-        "publishedAt": "2026-08-22T01:41:51.691Z",
+        "publishedAt": "2026-09-07T23:06:50.742Z",
         "reelUrl": "",
         "reviewIds": [],
         "tableLayoutImage": null,
         "tags": []
       },
       "convexId": "jh78cwez1x990dm1nzrjpss7ph7qyes0",
-      "lastUpdated": "2026-09-07T02:16:43.794Z",
+      "lastUpdated": "2026-09-08T04:38:25.178Z",
       "locales": {
         "en": {
           "address": "Parcela 1213-Z1/1, Jose Maria Pino Suarez, 77156 Q.R.",
