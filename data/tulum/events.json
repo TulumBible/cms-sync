@@ -1,7 +1,81 @@
 {
-  "syncedAt": "2026-09-09T20:00:30.715Z",
+  "syncedAt": "2026-09-09T22:33:58.083Z",
   "citySlug": "tulum",
   "events": [
+    {
+      "base": {
+        "afterEnd": "keep",
+        "buyLink": "https://wa.me/529841301037?text=Hello!%20I'm%20interested%20in%20tables%20for%20Anyma%20presents%20%C3%86DEN%20Tulum%202027",
+        "categoryIds": [],
+        "cta": "Reserve",
+        "displayPrice": "N / A",
+        "endDate": "2027-01-05T08:00",
+        "eventType": "Festival",
+        "faqIds": [
+          "k57d3dp4ypgpqa0g289bs23z8d8e2hkw",
+          "k572zp1hw4hzt0a6h0wp79thyh8e3a5b",
+          "k574mvfbgq3eskg2n5cwtckn798e2wct",
+          "k570nv3y91mr52f33pw2x4btrh8e3zan"
+        ],
+        "flyerImage": {
+          "alt": "anyma presents aeden in tulum 2027 lineup and flyer",
+          "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/990ca038-8b15-44a4-d574-cb502a4bd200/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+        },
+        "gaLink": null,
+        "gaPrice": null,
+        "isFeatured": false,
+        "isPublished": true,
+        "lineup": [
+          "Anyma",
+          "CamelPhat",
+          "Cassian",
+          "Layla Benitez",
+          "Adam Sellouk",
+          "19:26",
+          "KAS:ST",
+          "Volkoder",
+          "Vomee",
+          "Hardt Antoine",
+          "ZSS"
+        ],
+        "noPrice": false,
+        "promotion": "normal",
+        "publishedAt": "2026-09-09T22:15:38.526Z",
+        "qrCode": "M0 0.5h7m3 0h1m1 0h1m3 0h1m1 0h7M0 1.5h1m5 0h1m1 0h1m1 0h1m3 0h3m1 0h1m5 0h1M0 2.5h1m1 0h3m1 0h1m5 0h1m1 0h1m3 0h1m1 0h3m1 0h1M0 3.5h1m1 0h3m1 0h1m1 0h3m1 0h5m1 0h1m1 0h3m1 0h1M0 4.5h1m1 0h3m1 0h1m2 0h1m3 0h1m2 0h1m1 0h1m1 0h3m1 0h1M0 5.5h1m5 0h1m1 0h2m1 0h6m1 0h1m5 0h1M0 6.5h7m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h7M9 7.5h3m3 0h2M0 8.5h5m1 0h4m1 0h5m1 0h1m1 0h1m1 0h1m1 0h1M0 9.5h1m1 0h1m1 0h1m3 0h1m1 0h1m1 0h1m1 0h1m1 0h4M1 10.5h3m1 0h4m1 0h1m1 0h1m1 0h2m4 0h1m2 0h2M1 11.5h3m1 0h1m2 0h1m2 0h1m5 0h4M0 12.5h3m3 0h13m2 0h4M0 13.5h1m1 0h4m1 0h1m1 0h1m4 0h1m1 0h1m1 0h2m2 0h2M0 14.5h1m1 0h2m1 0h3m5 0h1m1 0h1m1 0h1m1 0h1m1 0h4M0 15.5h1m4 0h1m1 0h3m4 0h2m1 0h2m4 0h2M0 16.5h1m3 0h3m3 0h1m1 0h2m1 0h6m1 0h3M8 17.5h3m5 0h1m3 0h1m3 0h1M0 18.5h7m1 0h3m1 0h1m2 0h2m1 0h1m1 0h2m1 0h2M0 19.5h1m5 0h1m2 0h1m3 0h1m2 0h1m3 0h2m1 0h1M0 20.5h1m1 0h3m1 0h1m1 0h1m1 0h1m1 0h1m1 0h7m1 0h1M0 21.5h1m1 0h3m1 0h1m1 0h1m1 0h1m4 0h1m1 0h2m2 0h4M0 22.5h1m1 0h3m1 0h1m1 0h1m3 0h2m1 0h1m2 0h2m1 0h2m1 0h1M0 23.5h1m5 0h1m1 0h4m1 0h4m1 0h1m2 0h1m2 0h1M0 24.5h7m1 0h1m1 0h1m1 0h1m2 0h1m1 0h2m2 0h4<!--vb:25-->",
+        "startDate": "2027-01-04",
+        "status": "Live",
+        "tableLayoutImage": null,
+        "tbeId": "TBE_6YYR8Y",
+        "ticketPrice": "N / A",
+        "ticketTiers": null,
+        "time": "21:00 - 10:00",
+        "url": null,
+        "venueName": "Zamna Tulum",
+        "venueSlug": "zamna-tulum",
+        "vipLink": null,
+        "vipPrice": null
+      },
+      "convexId": "j57dwzanttrdb0pgs36kkh1y858e2zh3",
+      "lastUpdated": "2026-09-09T22:33:35.577Z",
+      "locales": {
+        "en": {
+          "body": "<h3>Monday, January 4, 2027 · Zamna Tulum</h3><p>Anyma brings <strong>ÆDEN</strong> to the Tulum jungle on January 4 as the first event announced for Zamna’s <strong>10th-anniversary season</strong>.</p><p>ÆDEN is Anyma’s latest audiovisual show, combining his melodic electronic sound with the large-scale visual production that has become central to his solo performances. The concept debuted in 2026 and has since become the focus of his current world tour and Ibiza residency.</p><p>Anyma previously appeared at Zamna as part of Afterlife Tulum, including its 2025 edition. This will bring him back under his own ÆDEN concept rather than as part of an Afterlife programme.</p><h2>Anyma ÆDEN Tulum 2027 lineup</h2><p><strong>Anyma</strong><br><strong>CamelPhat</strong><br><strong>Cassian</strong><br><strong>Layla Benitez</strong><br><strong>Adam Sellouk</strong><br><strong>19:26</strong><br><strong>KAS:ST</strong><br><strong>Volkoder</strong><br><strong>Vomee</strong><br><strong>Hardt Antoine</strong><br><strong>ZSS</strong></p><p>The lineup spans melodic house and techno through deeper and harder club sounds, with several artists already closely connected to Anyma’s recent ÆDEN shows and wider touring programme.</p><h2>Tickets &amp; VIP tables</h2><p>Official ticket prices have <strong>not yet been announced</strong>.</p><p>Zamna is currently accepting <strong>pre-registration</strong> for the event, with ticket releases expected to follow.</p><p>We do not sell tickets for Zamna Festival this year.</p><p>Tulum Bible can help with <strong>VIP table reservations</strong> when table availability and prices are released.</p><h2>What to expect</h2><p>ÆDEN is built as much around the visual production as the music.</p><p>Anyma’s current show follows the audiovisual direction developed through his Genesys projects, with large-format digital environments and visuals running alongside the performance. Bringing that production into Zamna’s main jungle setting should make this one of the more production-led nights of the 2027 season.</p><p>Zamna itself is celebrating <strong>10 years in Tulum</strong> in 2027, with a 10-day anniversary programme running from December 31, 2026 through January 10, 2027. Anyma is the first individual event announced from that programme, with more dates still to come.</p>",
+          "description": "Anyma brings ÆDEN’s melodic electronic sound and large-scale visual world to Tulum, following its Coachella premiere and a tour across major global stages.",
+          "hubBlurb": "<p>Anyma brings <strong>ÆDEN</strong> to Zamna Tulum on January 4 as the first event announced for the festival’s <strong>10th-anniversary season</strong>.</p><p>The lineup currently includes <strong>CamelPhat, Cassian, Layla Benitez, Adam Sellouk, 19:26, KAS:ST, Volkoder, Vomee, Hardt Antoine and ZSS</strong>, alongside Anyma’s headline audiovisual show. Pre-registration is open, while individual ticket prices are still TBA.</p><p><strong>Date:</strong> Monday, January 4, 2027<br><strong>Venue:</strong> Zamna Tulum<br><strong>Start:</strong> 9 PM<br><strong>Lineup:</strong> Anyma + 10 announced artists<br><strong>Tickets:</strong> Pre-registration open · prices TBA<br><strong>VIP tables:</strong> TBA</p>",
+          "name": "Anyma presents ÆDEN Tulum 2027",
+          "slug": "anyma-aeden-tulum-2027",
+          "tableInformation": ""
+        },
+        "es": {
+          "body": "<h3>Lunes, 4 de enero de 2027 · Zamna Tulum</h3><p>Anyma lleva <strong>ÆDEN</strong> a la selva de Tulum el 4 de enero, en lo que supone el primer evento anunciado para <strong>la temporada del décimo aniversario</strong> de Zamna.</p><p>ÆDEN es el último espectáculo audiovisual de Anyma, que combina su sonido electrónico melódico con la producción visual a gran escala que se ha convertido en un elemento central de sus actuaciones en solitario. El concepto se estrenó en 2026 y, desde entonces, se ha convertido en el eje central de su actual gira mundial y de su residencia en Ibiza.</p><p>Anyma ya actuó anteriormente en Zamna como parte de Afterlife Tulum, incluida su edición de 2025. En esta ocasión volverá con su propio concepto ÆDEN, en lugar de formar parte del programa de Afterlife.</p><h2>Cartel de Anyma ÆDEN Tulum 2027</h2><p><strong>Anyma</strong><br><strong>CamelPhat</strong><br><strong>Cassian</strong><br><strong>Layla Benítez</strong><br><strong>Adam Sellouk</strong><br><strong>19:26</strong><br><strong>KAS:ST</strong><br><strong>Volkoder</strong><br><strong>Vomee</strong><br><strong>Hardt Antoine</strong><br><strong>ZSS</strong></p><p>El cartel abarca desde el house melódico y el techno hasta sonidos de club más profundos y contundentes, con varios artistas que ya están estrechamente vinculados a los recientes espectáculos ÆDEN de Anyma y a su programa de giras más amplio.</p><h2>Entradas y mesas VIP</h2><p><strong>Aún no se</strong> han <strong>anunciado</strong> los precios oficiales de las entradas.</p><p>Zamna está aceptando actualmente <strong>inscripciones previas</strong> para el evento, y se espera que la venta de entradas comience en breve.</p><p>Tulum Bible puede ayudarte con <strong>las reservas de mesas VIP</strong> cuando se publiquen la disponibilidad y los precios.</p><h2>Qué puedes esperar</h2><p>ÆDEN se basa tanto en la producción visual como en la música.</p><p>El espectáculo actual de Anyma sigue la dirección audiovisual desarrollada a través de sus proyectos Genesys, con entornos digitales de gran formato y efectos visuales que acompañan a la actuación. Llevar esa producción al escenario principal de Zamna, en plena selva, debería convertir esta noche en una de las más espectaculares de la temporada 2027.</p><p>El propio Zamna celebra en 2027 <strong>sus 10 años en Tulum</strong>, con un programa de aniversario de 10 días que se extenderá del 31 de diciembre de 2026 al 10 de enero de 2027. Anyma es el primer evento individual anunciado de ese programa, y aún quedan más fechas por confirmar.</p>",
+          "description": "Anyma lleva a Tulum el sonido electrónico melódico y el universo visual a gran escala de ÆDEN, tras su estreno en Coachella y una gira por los principales escenarios del mundo.",
+          "hubBlurb": "<p>Anyma trae a <strong>ÆDEN</strong> a Zamna Tulum el 4 de enero, en lo que supone el primer evento anunciado para la <strong>temporada del décimo aniversario</strong> del festival.</p><p>El cartel incluye actualmente <strong>a CamelPhat, Cassian, Layla Benítez, Adam Sellouk, 19:26, KAS:ST, Volkoder, Vomee, Hardt Antoine y ZSS</strong>, además del espectáculo audiovisual estelar de Anyma. El plazo de preinscripción ya está abierto, aunque los precios de las entradas individuales aún están por confirmar.</p><p><strong>Fecha:</strong> lunes, 4 de enero de 2027<br><strong>Lugar:</strong> Zamna Tulum<br><strong>Hora de inicio:</strong> 21:00<br><strong>Cartel:</strong> Anyma + 10 artistas anunciados<br><strong>Entradas:</strong> Preinscripción abierta · precios por confirmar<br><strong>Mesas VIP:</strong> por confirmar</p>",
+          "name": "Anyma presents ÆDEN Tulum 2027",
+          "slug": "anyma-aeden-tulum-2027",
+          "tableInformation": ""
+        }
+      }
+    },
     {
       "base": {
         "afterEnd": "archive",

@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-09T00:25:50.034Z",
+  "syncedAt": "2026-09-09T22:33:57.878Z",
   "citySlug": "tulum",
   "faqs": [
     {
@@ -5015,6 +5015,94 @@
         "es": {
           "answer": "No. No está permitido fumar en el alojamiento.",
           "name": "¿Se permite fumar dentro de la villa?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "event"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "when-is-anyma-playing-in-tulum-in-2027"
+      },
+      "convexId": "k57d3dp4ypgpqa0g289bs23z8d8e2hkw",
+      "lastUpdated": "2026-09-09T22:27:25.635Z",
+      "locales": {
+        "en": {
+          "answer": "Anyma presents ÆDEN at Zamna Tulum on Monday, January 4, 2027. The event is currently scheduled to begin at 9:00 PM.",
+          "name": "When is Anyma playing in Tulum in 2027?"
+        },
+        "es": {
+          "answer": "Anyma presenta ÆDEN en Zamna Tulum el lunes 4 de enero de 2027. El evento está programado, por el momento, para comenzar a las 21:00 horas.",
+          "name": "¿Cuándo actuará Anyma en Tulum en 2027?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "event"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "are-anyma-tulum-2027-tickets-on-sale"
+      },
+      "convexId": "k572zp1hw4hzt0a6h0wp79thyh8e3a5b",
+      "lastUpdated": "2026-09-09T22:27:43.894Z",
+      "locales": {
+        "en": {
+          "answer": "Not yet. Zamna currently has pre-registration open, while individual ticket prices and release tiers are still to be announced.",
+          "name": "Are Anyma Tulum 2027 tickets on sale?"
+        },
+        "es": {
+          "answer": "Todavía no. Zamna tiene actualmente abierto el plazo de preinscripción, mientras que aún no se han anunciado los precios de las entradas individuales ni los niveles de acceso.",
+          "name": "¿Ya están a la venta las entradas para Anyma Tulum 2027?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "event"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "who-is-playing-with-anyma-at-zamna"
+      },
+      "convexId": "k574mvfbgq3eskg2n5cwtckn798e2wct",
+      "lastUpdated": "2026-09-09T22:28:00.679Z",
+      "locales": {
+        "en": {
+          "answer": "Zamna currently lists CamelPhat, Cassian, Layla Benitez, Adam Sellouk, 19:26, KAS:ST, Volkoder, Vomee, Hardt Antoine and ZSS alongside Anyma.",
+          "name": "Who is playing with Anyma at Zamna?"
+        },
+        "es": {
+          "answer": "Actualmente, Zamna cuenta en su lista con CamelPhat, Cassian, Layla Benítez, Adam Sellouk, 19:26, KAS:ST, Volkoder, Vomee, Hardt Antoine y ZSS, además de Anyma.",
+          "name": "¿Quién toca con Anyma en Zamna?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "event"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "can-i-reserve-a-vip-table-for-anyma-at-zamna"
+      },
+      "convexId": "k570nv3y91mr52f33pw2x4btrh8e3zan",
+      "lastUpdated": "2026-09-09T22:28:14.966Z",
+      "locales": {
+        "en": {
+          "answer": "VIP table details have not yet been released. Once they are available, Tulum Bible can help with table reservations.",
+          "name": "Can I reserve a VIP table for Anyma at Zamna?"
+        },
+        "es": {
+          "answer": "VIP table details have not yet been released. Once they are available, Tulum Bible can help with table reservations.",
+          "name": "Can I reserve a VIP table for Anyma at Zamna?"
         }
       }
     }
