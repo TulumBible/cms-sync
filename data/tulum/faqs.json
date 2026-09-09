@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-08T04:39:11.408Z",
+  "syncedAt": "2026-09-09T00:25:50.034Z",
   "citySlug": "tulum",
   "faqs": [
     {
@@ -4905,6 +4905,116 @@
         "es": {
           "answer": "Hay aparcamiento gratuito. No hay wifi.",
           "name": "¿Hay aparcamiento y wifi en Neek?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "what-time-are-check-in-and-check-out-at-villa-privada"
+      },
+      "convexId": "k57e1n4ts6ekt4gajppq4vmsns8e33ha",
+      "lastUpdated": "2026-09-09T00:25:34.199Z",
+      "locales": {
+        "en": {
+          "answer": "Check-in begins at 4:00 PM, and check-out is by 10:00 AM. Early arrival or late departure requires approval and may cost extra.",
+          "name": "What time are check-in and check-out at Villa Privada?"
+        },
+        "es": {
+          "answer": "El registro de entrada comienza a las 16:00 h y el de salida debe realizarse antes de las 10:00 h. Las llegadas anticipadas o las salidas tardías requieren autorización y pueden conllevar un coste adicional.",
+          "name": "¿A qué hora son la entrada y la salida en Villa Privada?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "are-children-allowed-at-the-villa-2"
+      },
+      "convexId": "k576jfrdf8vtzn6bek4q4y1y8h8e2x85",
+      "lastUpdated": "2026-09-09T00:25:34.199Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. Children aged 0 to 17 are allowed under adult supervision.",
+          "name": "Are children allowed at the villa?"
+        },
+        "es": {
+          "answer": "Sí. Se permite la entrada a niños de entre 0 y 17 años siempre que vayan acompañados de un adulto.",
+          "name": "¿Se admiten niños en la villa?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "are-pets-allowed-at-the-property"
+      },
+      "convexId": "k571vxx0dfcvsn1gtv5f5k6s9x8e2njg",
+      "lastUpdated": "2026-09-09T00:25:34.199Z",
+      "locales": {
+        "en": {
+          "answer": "No. Pets are not allowed.",
+          "name": "Are pets allowed at the property?"
+        },
+        "es": {
+          "answer": "No. No se admiten mascotas.",
+          "name": "¿Se admiten mascotas en el alojamiento?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "can-the-villa-host-weddings-or-private-events"
+      },
+      "convexId": "k57f47bk9a62d5vz431ft8d55x8e3071",
+      "lastUpdated": "2026-09-09T00:25:34.199Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. Weddings, family gatherings and birthday events are allowed with prior approval, for a maximum of 50 attendees. Quiet hours run from 10:00 PM to 8:00 AM.",
+          "name": "Can the villa host weddings or private events?"
+        },
+        "es": {
+          "answer": "Sí. Se permiten bodas, reuniones familiares y fiestas de cumpleaños previa autorización, con un máximo de 50 asistentes. El horario de silencio es de las 22:00 a las 8:00.",
+          "name": "¿Se pueden celebrar bodas o eventos privados en la villa?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "is-smoking-allowed-inside-the-villa"
+      },
+      "convexId": "k575de85hm162bvczjyrcbn1h58e2khg",
+      "lastUpdated": "2026-09-09T00:25:34.199Z",
+      "locales": {
+        "en": {
+          "answer": "No. Smoking is not permitted at the property.",
+          "name": "Is smoking allowed inside the villa?"
+        },
+        "es": {
+          "answer": "No. No está permitido fumar en el alojamiento.",
+          "name": "¿Se permite fumar dentro de la villa?"
         }
       }
     }
