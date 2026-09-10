@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-09T22:33:57.878Z",
+  "syncedAt": "2026-09-10T02:44:32.954Z",
   "citySlug": "tulum",
   "faqs": [
     {
@@ -5103,6 +5103,204 @@
         "es": {
           "answer": "VIP table details have not yet been released. Once they are available, Tulum Bible can help with table reservations.",
           "name": "Can I reserve a VIP table for Anyma at Zamna?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "category"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "how-much-is-a-beach-club-in-tulum"
+      },
+      "convexId": "k571xcrf0gpq48na32xp2knfpn8e4kn9",
+      "lastUpdated": "2026-09-10T02:31:10.373Z",
+      "locales": {
+        "en": {
+          "answer": "A regular beach-club day can range from no minimum spend to MX$2,000 or more per person, depending on the venue, seating and date. Larger cabanas and VIP areas can cost considerably more. Check whether the price is fully consumable, partially consumable or a non-refundable access charge before booking.",
+          "name": "How much is a beach club in Tulum?"
+        },
+        "es": {
+          "answer": "Una jornada habitual en un club de playa puede oscilar entre no tener un gasto mínimo y 2.000 MX$ o más por persona, dependiendo del local, el tipo de asiento y la fecha. Las cabañas más grandes y las zonas VIP pueden costar bastante más. Comprueba antes de reservar si el precio corresponde a un importe totalmente consumible, parcialmente consumible o si se trata de una tarifa de acceso no reembolsable.",
+          "name": "¿Cuánto cuesta un beach club en Tulum?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "category"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "do-tulum-beach-clubs-have-a-minimum-spend"
+      },
+      "convexId": "k575z4p179mcppmrhjsqe1q9418e5vrp",
+      "lastUpdated": "2026-09-10T02:31:39.953Z",
+      "locales": {
+        "en": {
+          "answer": "Many do, but not all. Kanan and Umi currently have no minimum consumption on regular days, while clubs such as Gitano and Mia use minimum spends. Taboo and Tantra use a prepaid cover where only part of the amount is credited toward food and drinks.",
+          "name": "Do Tulum beach clubs have a minimum spend?"
+        },
+        "es": {
+          "answer": "Muchos lo hacen, pero no todos. Kanan y Umi no aplican actualmente ningún consumo mínimo en los días normales, mientras que discotecas como Gitano y Mia sí lo hacen. Taboo y Tantra aplican una entrada prepagada en la que solo una parte del importe se descuenta en comida y bebida.",
+          "name": "¿Hay un gasto mínimo en los beach clubs de Tulum?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "category"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "which-beach-clubs-in-tulum-have-a-pool"
+      },
+      "convexId": "k57dmm7k4tqe0596f56yfzj7z58e441m",
+      "lastUpdated": "2026-09-10T02:33:33.887Z",
+      "locales": {
+        "en": {
+          "answer": "Options with pools include Kuul, Tulumania, Kanan, Umi, Mia, Taboo and Tantra. Hotel day passes at Casa Malca, La Zebra and Ana y José can also include pool access. Always confirm the package because a hotel having a pool does not automatically mean beach-club guests are allowed to use it.",
+          "name": "Which beach clubs in Tulum have a pool?"
+        },
+        "es": {
+          "answer": "Entre las opciones con piscina se incluyen Kuul, Tulumania, Kanan, Umi, Mia, Taboo y Tantra. Los pases diarios de los hoteles Casa Malca, La Zebra y Ana y José también pueden incluir acceso a la piscina. Confirma siempre el paquete, ya que el hecho de que un hotel tenga piscina no significa automáticamente que los clientes del club de playa puedan utilizarla.",
+          "name": "¿Qué beach clubs de Tulum tienen piscina?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "category"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "do-you-need-a-reservation-for-tulum-beach-clubs"
+      },
+      "convexId": "k57dx04m9fx3df7qh4qm10q7nx8e4j8e",
+      "lastUpdated": "2026-09-10T02:33:59.644Z",
+      "locales": {
+        "en": {
+          "answer": "Not always, but we recommend one for weekends, groups and high season. Walk-ins are easier during quieter weekdays. If you specifically want a front-row bed, cabana, pool area or table for a group, reserve before arriving rather than relying on whatever is left.",
+          "name": "Do you need a reservation for Tulum beach clubs?"
+        },
+        "es": {
+          "answer": "No siempre, pero te lo recomendamos para los fines de semana, los grupos y la temporada alta. Es más fácil conseguir sitio sin reserva previa entre semana, cuando hay menos gente. Si quieres específicamente una cama en primera fila, una cabaña, una zona de piscina o una mesa para un grupo, reserva antes de llegar en lugar de dejar que te toque lo que quede.",
+          "name": "¿Es necesario reservar para ir a Tulum beach clubs?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "category"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "which-tulum-beach-club-is-best-for-families"
+      },
+      "convexId": "k57cdp3nwypeam8dq1ba8fy13d8e5kx3",
+      "lastUpdated": "2026-09-10T02:34:37.752Z",
+      "locales": {
+        "en": {
+          "answer": "La Zebra, IKAL and Ana y José are two of the easiest options for families. Cinco and Delek can also work for a more relaxed beach day. Kanan and Umi are adults-only, while the louder party clubs are usually better suited to adult groups even when daytime entry technically allows younger guests.",
+          "name": "Which Tulum beach club is best for families?"
+        },
+        "es": {
+          "answer": "La Zebra, IKAL y Ana y José son dos de las opciones más adecuadas para familias. Cinco y Delek también pueden ser una buena opción para pasar un día de playa más tranquilo. Kanan y Umi son exclusivos para adultos, mientras que los clubes de fiesta más animados suelen ser más adecuados para grupos de adultos, aunque técnicamente la entrada durante el día permita el acceso a los más jóvenes.",
+          "name": "¿Cuál es el mejor beach club de Tulum para familias?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "category"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "is-there-sargassum-at-tulum-beach-clubs"
+      },
+      "convexId": "k577x7zmsgzne7gdyvnyfkkm1x8e5m1k",
+      "lastUpdated": "2026-09-10T02:35:35.671Z",
+      "locales": {
+        "en": {
+          "answer": "It depends on the day and month. Tulum's official tourism guidance identifies April through August as the period when sargassum is more likely to reach the coast, but conditions can change quickly. Beach clubs clean their sections of sand, but no venue can control what arrives in the water that morning.",
+          "name": "Is there sargassum at Tulum beach clubs?"
+        },
+        "es": {
+          "answer": "Depende del día y del mes. La guía turística oficial de Tulum señala que, entre abril y agosto, es más probable que las algas sargazo lleguen a la costa, pero las condiciones pueden cambiar rápidamente. Beach clubs se encargan de limpiar sus tramos de playa, pero ningún establecimiento puede controlar lo que llega con la marea esa misma mañana.",
+          "name": "¿Hay sargazo en Tulum beach clubs?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "category"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "can-you-go-to-a-tulum-beach-club-without-staying-at-the-hotel"
+      },
+      "convexId": "k5757hzsc3x1w0f1qphv10qstn8e5sh8",
+      "lastUpdated": "2026-09-10T02:36:12.654Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. Most of the beach clubs in this guide accept outside visitors through a reservation, minimum spend or day pass. Hotel guests may receive different benefits, such as waived minimums, extended access or use of facilities that are not included for day visitors.",
+          "name": "Can you go to a Tulum beach club without staying at the hotel?"
+        },
+        "es": {
+          "answer": "Sí. La mayoría de los beach clubs que figuran en esta guía admiten visitantes externos previa reserva, con un gasto mínimo o mediante un pase de un día. Los huéspedes del hotel pueden disfrutar de ventajas diferentes, como la exención del gasto mínimo, un acceso prolongado o el uso de instalaciones que no están incluidas para los visitantes de un día.",
+          "name": "¿Se puede ir a un beach club de Tulum sin alojarse en el hotel?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "category"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "what-should-i-wear-to-a-tulum-beach-club"
+      },
+      "convexId": "k5741w1h65230ay39kzcb9dhhx8e408g",
+      "lastUpdated": "2026-09-10T02:36:41.697Z",
+      "locales": {
+        "en": {
+          "answer": "During the day, swimwear, sandals and normal beach clothing are fine at most clubs. Venues that continue into dinner or a party may become more dress-conscious later. Bagatelle, for example, uses a casual-chic dress code when operating. Check the individual venue if your booking continues into the evening.",
+          "name": "What should I wear to a Tulum beach club?"
+        },
+        "es": {
+          "answer": "Durante el día, en la mayoría de los clubes se puede ir en bañador, sandalias y ropa normal de playa. Los locales en los que la velada continúa con una cena o una fiesta pueden exigir un código de vestimenta más estricto más tarde. Bagatelle, por ejemplo, aplica un código de vestimenta casual-chic durante su horario de apertura. Consulta las normas de cada local si tu reserva se prolonga hasta la noche.",
+          "name": "¿Qué debo ponerme para ir a un beach club en Tulum?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "category"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "which-tulum-beach-club-is-best-for-a-bachelorette-party"
+      },
+      "convexId": "k572m7e0q13gq7kk8tpaze53m18e5nx3",
+      "lastUpdated": "2026-09-10T02:37:31.498Z",
+      "locales": {
+        "en": {
+          "answer": "For a bigger celebration, Taboo, Tantra, Mia are the obvious starting points because they are already built around groups, music and table service. If you want something less intense, Gitano Beach, Kanan gives you music and a social atmosphere without committing the whole day to a large commercial day party.",
+          "name": "Which Tulum beach club is best for a bachelorette party?"
+        },
+        "es": {
+          "answer": "Para una celebración a lo grande, Taboo, Tantra y Mia son las opciones más obvias, ya que están pensadas para grupos, con música y servicio de mesa. Si prefieres algo menos intenso, Gitano Beach y Kanan te ofrecen música y un ambiente sociable sin tener que dedicar todo el día a una gran fiesta comercial diurna.",
+          "name": "¿Qué beach club de Tulum es el mejor para una despedida de soltera?"
         }
       }
     }
