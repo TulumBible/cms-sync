@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-17T04:30:37.134Z",
+  "syncedAt": "2026-09-17T04:38:38.686Z",
   "citySlug": "tulum",
   "faqs": [
     {
@@ -5499,6 +5499,776 @@
         "es": {
           "answer": "<p>No hay un precio único para las mesas en Zamna. El gasto mínimo depende del evento, la ubicación y el tamaño del grupo. Tulum Bible puede confirmar las mesas VIP y entre bastidores disponibles una vez que se hayan publicado las asignaciones para la noche que hayas elegido.</p>",
           "name": "¿Cuánto cuesta una mesa en Zamna?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "blog"
+        ],
+        "areaSlug": null,
+        "category": "Nightlife",
+        "slug": "what-are-the-best-areas-for-tulum-nightlife"
+      },
+      "convexId": "k57ed3mnhxtdtffk7nwhtm2s7d8ekw7t",
+      "lastUpdated": "2026-09-17T04:38:17.548Z",
+      "locales": {
+        "en": {
+          "answer": "<p>Tulum offers two main hubs of nightlife: the Hotel Zone, with its lively beach clubs and upscale venues, and Downtown Tulum, known for a more relaxed, bohemian atmosphere and budget-friendly options.</p>",
+          "name": "What are the best areas for Tulum nightlife?"
+        },
+        "es": {
+          "answer": "<p>Tulum cuenta con dos centros principales de ocio nocturno: la Zona Hotelera, con sus animados beach clubs y sus locales de lujo, y el centro de Tulum, conocido por su ambiente más relajado y bohemio y por sus opciones más asequibles.</p>",
+          "name": "¿Cuáles son las mejores zonas para disfrutar de la vida nocturna en Tulum?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "blog"
+        ],
+        "areaSlug": null,
+        "category": "Nightlife",
+        "slug": "is-tulum-nightlife-expensive"
+      },
+      "convexId": "k575gwnnf3826e3agwhtdcynkn8ej8cb",
+      "lastUpdated": "2026-09-17T04:38:17.548Z",
+      "locales": {
+        "en": {
+          "answer": "<p>Tulum can cater to different budgets. The Hotel Zone tends to be pricier, especially at popular beach clubs. Downtown offers more affordable bars and restaurants. Researching cover charges and drink prices in advance will help you plan accordingly.</p>",
+          "name": "Is Tulum nightlife expensive?"
+        },
+        "es": {
+          "answer": "<p>Tulum se adapta a diferentes presupuestos. La Zona Hotelera suele ser más cara, especialmente en los populares beach clubs. El centro de la ciudad ofrece bares y restaurantes más asequibles. Informarte con antelación sobre las entradas y los precios de las bebidas te ayudará a planificar tu salida.</p>",
+          "name": "¿Es cara la vida nocturna de Tulum?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "blog"
+        ],
+        "areaSlug": null,
+        "category": "Nightlife",
+        "slug": "does-tulum-have-a-party-scene-all-year-round"
+      },
+      "convexId": "k57azdaqbvzhjaq9wss5jgrkgd8ekvqg",
+      "lastUpdated": "2026-09-17T04:38:17.548Z",
+      "locales": {
+        "en": {
+          "answer": "<p>Tulum's nightlife is always buzzing, but the high season (December-March) sees the biggest parties, international DJs, and higher prices. If you prefer a slightly calmer scene, the shoulder seasons (April-May, October-November) offer a great balance.</p>",
+          "name": "Does Tulum have a party scene all year round?"
+        },
+        "es": {
+          "answer": "<p>La vida nocturna de Tulum siempre está en pleno apogeo, pero la temporada alta (diciembre-marzo) es cuando se celebran las fiestas más grandes, con DJ internacionales y precios más elevados. Si prefieres un ambiente un poco más tranquilo, las temporadas intermedias (abril-mayo, octubre-noviembre) ofrecen un equilibrio ideal.</p>",
+          "name": "¿Hay ambiente festivo en Tulum durante todo el año?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "blog"
+        ],
+        "areaSlug": null,
+        "category": "Nightlife",
+        "slug": "what-kind-of-music-can-i-expect-to-find-in-tulum"
+      },
+      "convexId": "k578861xk1t7h3kszkvnessyzx8ejwhq",
+      "lastUpdated": "2026-09-17T04:38:17.548Z",
+      "locales": {
+        "en": {
+          "answer": "<p>Tulum's music scene is incredibly diverse! You'll find everything from electronic beats at the beach clubs to Latin rhythms downtown, with live music and chilled-out vibes mixed in. Be sure to check out current <a href=\"/tulum-events-and-parties\">event calendar</a> for specific genres and artists performing during your trip.</p>",
+          "name": "What kind of music can I expect to find in Tulum?"
+        },
+        "es": {
+          "answer": "<p>¡La escena musical de Tulum es increíblemente variada! Encontrarás de todo, desde ritmos electrónicos en los beach clubs hasta ritmos latinos en el centro de la ciudad, con música en directo y un ambiente relajado. No te olvides de consultar <a href=\"/es-mx/tulum-events-and-parties\">el calendario de eventos</a> actual para conocer los géneros y artistas específicos que actuarán durante tu viaje.</p>",
+          "name": "¿Qué tipo de música puedo esperar encontrar en Tulum?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "blog"
+        ],
+        "areaSlug": null,
+        "category": "Nightlife",
+        "slug": "what-time-do-parties-end-in-tulum"
+      },
+      "convexId": "k5736b65hgfjbfekw9xhn0jbb58ejge1",
+      "lastUpdated": "2026-09-17T04:38:17.548Z",
+      "locales": {
+        "en": {
+          "answer": "<p>Due to local regulations, most venues have a curfew around 1am or 2am. However, there are still ways to keep the party going with a bit of insider knowledge, message us if you are interested in secret villa or jungle afterparties.</p>",
+          "name": "What time do parties end in Tulum?"
+        },
+        "es": {
+          "answer": "<p>Debido a la normativa local, la mayoría de los locales cierran sobre la 1:00 o las 2:00 de la madrugada. Sin embargo, hay formas de alargar la fiesta si conoces algunos trucos; envíanos un mensaje si te interesan las afterparties secretas en villas o en la selva.</p>",
+          "name": "¿A qué hora terminan las fiestas en Tulum?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "blog"
+        ],
+        "areaSlug": null,
+        "category": "Where to stay",
+        "slug": "what-is-the-best-area-to-stay-in-tulum"
+      },
+      "convexId": "k57dfnb015k195pw52qewperh18ek7n0",
+      "lastUpdated": "2026-09-17T04:38:17.548Z",
+      "locales": {
+        "en": {
+          "answer": "<p>It depends on the trip you want. Stay near town for villas and quiet jungle neighbourhoods, between downtown and the beach on Avenida Cobá for a social, budget-friendly base, or in the <strong>Hotel Zone</strong> if you want to walk to the sand, beach clubs and restaurants.</p>",
+          "name": "What is the best area to stay in Tulum?"
+        },
+        "es": {
+          "answer": "<p>Depende del viaje que buscas. Quédate cerca del pueblo si quieres villas y colonias tranquilas en la selva, entre el centro y la playa sobre la Avenida Cobá si buscas una base social y económica, o en la <strong>Zona Hotelera</strong> si quieres caminar a la arena, los beach clubs y los restaurantes.</p>",
+          "name": "¿Cuál es la mejor zona para hospedarse en Tulum?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "blog"
+        ],
+        "areaSlug": null,
+        "category": "Where to stay",
+        "slug": "where-should-solo-travellers-stay-in-tulum"
+      },
+      "convexId": "k571s931x7479df69brtnm7rzn8ekat6",
+      "lastUpdated": "2026-09-17T04:38:17.548Z",
+      "locales": {
+        "en": {
+          "answer": "<p><strong>Mayan Monkey Tulum</strong> is our pick for solo travellers, backpackers and digital nomads. It mixes dorms and private rooms, has a pool, bar, co-working area and shared kitchen, and sits on Avenida Cobá between downtown and the Hotel Zone.</p>",
+          "name": "Where should solo travellers stay in Tulum?"
+        },
+        "es": {
+          "answer": "<p><strong>Mayan Monkey Tulum</strong> es nuestra recomendación para quienes viajan solos, mochileros y nómadas digitales. Combina dormitorios compartidos y habitaciones privadas, tiene alberca, bar, zona de coworking y cocina compartida, y está sobre la Avenida Cobá, entre el centro y la Zona Hotelera.</p>",
+          "name": "¿Dónde conviene hospedarse si viajas solo a Tulum?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "blog"
+        ],
+        "areaSlug": null,
+        "category": "Where to stay",
+        "slug": "where-should-families-or-groups-stay-in-tulum"
+      },
+      "convexId": "k5713mg117fveyex764yfbcjks8ejzwy",
+      "lastUpdated": "2026-09-17T04:38:17.548Z",
+      "locales": {
+        "en": {
+          "answer": "<p>A villa usually works best. <strong>AMARI Uptown Villas</strong> are private jungle villas with their own pool, full kitchen and fast Wi-Fi, plus a wellness centre, co-working studio and 24-hour security, a few minutes from Tulum town.</p>",
+          "name": "Where should families or groups stay in Tulum?"
+        },
+        "es": {
+          "answer": "<p>Normalmente una villa es la mejor opción. <strong>AMARI Uptown Villas</strong> son villas privadas en la selva con alberca propia, cocina completa y wifi rápido, además de centro de bienestar, estudio de coworking y seguridad las 24 horas, a unos minutos del pueblo de Tulum.</p>",
+          "name": "¿Dónde conviene hospedarse en Tulum con familia o en grupo?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "blog"
+        ],
+        "areaSlug": null,
+        "category": "Where to stay",
+        "slug": "is-it-worth-staying-in-the-tulum-hotel-zone"
+      },
+      "convexId": "k573m5tw5b90s96bhvz4snyd458ekrbq",
+      "lastUpdated": "2026-09-17T04:38:17.548Z",
+      "locales": {
+        "en": {
+          "answer": "<p>If you want the classic Tulum beach trip, yes. Staying on the beach means you can walk to nearby beach clubs and restaurants without taking taxis all day. <strong>Mía Tulum</strong> is a mid-budget beachfront option with its own beach club, pool and ocean-view suites.</p>",
+          "name": "Is it worth staying in the Tulum Hotel Zone?"
+        },
+        "es": {
+          "answer": "<p>Si buscas la experiencia clásica de playa en Tulum, sí. Hospedarte frente al mar te permite caminar a beach clubs y restaurantes cercanos sin tomar taxis todo el día. <strong>Mía Tulum</strong> es una opción frente a la playa de presupuesto medio, con beach club propio, alberca y suites con vista al mar.</p>",
+          "name": "¿Vale la pena hospedarse en la Zona Hotelera de Tulum?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "blog"
+        ],
+        "areaSlug": null,
+        "category": "Where to stay",
+        "slug": "are-there-tulum-bible-discount-codes-for-these-hotels"
+      },
+      "convexId": "k571cpr60ycykqfs0b6na5veen8ej552",
+      "lastUpdated": "2026-09-17T04:38:17.548Z",
+      "locales": {
+        "en": {
+          "answer": "<p>Yes. Use <strong>TULUMBIBLE10</strong> for 10% off AMARI Uptown Villas, <strong>TULBIBLE</strong> for 15% off Mayan Monkey Tulum and <strong>TULUMBIBLE</strong> for 15% off Mía Tulum.</p>",
+          "name": "Are there Tulum Bible discount codes for these hotels?"
+        },
+        "es": {
+          "answer": "<p>Sí. Usa <strong>TULUMBIBLE10</strong> para 10% de descuento en AMARI Uptown Villas, <strong>TULBIBLE</strong> para 15% en Mayan Monkey Tulum y <strong>TULUMBIBLE</strong> para 15% en Mía Tulum.</p>",
+          "name": "¿Hay códigos de descuento de Tulum Bible para estos hoteles?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "blog"
+        ],
+        "areaSlug": null,
+        "category": "Tulum Airport",
+        "slug": "what-is-the-airport-code-for-tulum"
+      },
+      "convexId": "k5790y3zz96e2va23e1g4tjqk18ejxn3",
+      "lastUpdated": "2026-09-17T04:38:17.548Z",
+      "locales": {
+        "en": {
+          "answer": "<p>Tulum's airport code is <strong>TQO</strong>. Its official name is Felipe Carrillo Puerto International Airport, and it opened on December 1, 2023. Check that your booking says TQO, not CUN, which is Cancún.</p>",
+          "name": "What is the airport code for Tulum?"
+        },
+        "es": {
+          "answer": "<p>El código del aeropuerto de Tulum es <strong>TQO</strong>. Su nombre oficial es Aeropuerto Internacional Felipe Carrillo Puerto y abrió el 1 de diciembre de 2023. Verifica que tu reservación diga TQO y no CUN, que es Cancún.</p>",
+          "name": "¿Cuál es el código del aeropuerto de Tulum?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "blog"
+        ],
+        "areaSlug": null,
+        "category": "Tulum Airport",
+        "slug": "which-airlines-fly-to-tulum-airport"
+      },
+      "convexId": "k5769phwpj9v9csbh5sqzy4erd8ejdyc",
+      "lastUpdated": "2026-09-17T04:38:17.548Z",
+      "locales": {
+        "en": {
+          "answer": "<p>As of August 2026, the airport lists Aeroméxico, Viva, Mexicana, Volaris, American Airlines, Delta and United. For winter 2026–27, <strong>Air Canada, Air Transat and WestJet</strong> are also returning, for ten airlines in total.</p>",
+          "name": "Which airlines fly to Tulum Airport?"
+        },
+        "es": {
+          "answer": "<p>Hasta agosto de 2026, el aeropuerto incluye a Aeroméxico, Viva, Mexicana, Volaris, American Airlines, Delta y United. Para el invierno 2026–27 también regresan <strong>Air Canada, Air Transat y WestJet</strong>, con lo que suman diez aerolíneas.</p>",
+          "name": "¿Qué aerolíneas vuelan al aeropuerto de Tulum?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "blog"
+        ],
+        "areaSlug": null,
+        "category": "Tulum Airport",
+        "slug": "which-routes-are-returning-to-tulum-for-winter-2026-27"
+      },
+      "convexId": "k570ptemytzgty1xcsc0tqga4s8eje0m",
+      "lastUpdated": "2026-09-17T04:38:17.548Z",
+      "locales": {
+        "en": {
+          "answer": "<p><strong>Newark</strong> with United, <strong>Toronto</strong> with Air Canada and WestJet, <strong>Montreal</strong> with Air Canada, Air Transat and WestJet, <strong>Calgary</strong> with WestJet and <strong>Quebec City</strong> with Air Transat. They are expected to start between late October and December and run through about March 2027.</p>",
+          "name": "Which routes are returning to Tulum for winter 2026–27?"
+        },
+        "es": {
+          "answer": "<p><strong>Newark</strong> con United, <strong>Toronto</strong> con Air Canada y WestJet, <strong>Montreal</strong> con Air Canada, Air Transat y WestJet, <strong>Calgary</strong> con WestJet y <strong>Quebec</strong> con Air Transat. Se espera que empiecen entre finales de octubre y diciembre y operen hasta alrededor de marzo de 2027.</p>",
+          "name": "¿Qué rutas regresan a Tulum para el invierno 2026–27?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "blog"
+        ],
+        "areaSlug": null,
+        "category": "Tulum Airport",
+        "slug": "are-there-direct-flights-from-europe-to-tulum"
+      },
+      "convexId": "k57b0dnvct52djz6qfv3qayzsd8ekjah",
+      "lastUpdated": "2026-09-17T04:38:17.548Z",
+      "locales": {
+        "en": {
+          "answer": "<p>Not currently. Discover Airlines' Frankfurt route was Tulum's only direct European connection, and it has not been announced for winter 2026–27. From Europe, fly into Cancún or connect to a Tulum flight through a hub such as Mexico City, Miami, Atlanta, Dallas, Houston, Toronto or Montreal.</p>",
+          "name": "Are there direct flights from Europe to Tulum?"
+        },
+        "es": {
+          "answer": "<p>Por ahora no. La ruta de Discover Airlines desde Fráncfort era la única conexión directa con Europa y no se ha anunciado para el invierno 2026–27. Desde Europa, vuela a Cancún o conecta a un vuelo a Tulum en un hub como Ciudad de México, Miami, Atlanta, Dallas, Houston, Toronto o Montreal.</p>",
+          "name": "¿Hay vuelos directos de Europa a Tulum?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "blog"
+        ],
+        "areaSlug": null,
+        "category": "Tulum Airport",
+        "slug": "should-i-fly-into-tulum-or-cancun"
+      },
+      "convexId": "k5746dj82k4fw95mh56z2472ed8ekfr7",
+      "lastUpdated": "2026-09-17T04:38:17.548Z",
+      "locales": {
+        "en": {
+          "answer": "<p>Check both. Tulum Airport is much closer to Tulum and its terminal is easy to get through, but Cancún has a far larger network, especially from Europe, Central and South America, smaller US cities and outside the winter season. Compare the route, total journey time and fare for your dates.</p>",
+          "name": "Should I fly into Tulum or Cancún?"
+        },
+        "es": {
+          "answer": "<p>Revisa ambos. El aeropuerto de Tulum está mucho más cerca de Tulum y su terminal es fácil de recorrer, pero Cancún tiene una red mucho más amplia, sobre todo desde Europa, Centro y Sudamérica, ciudades pequeñas de Estados Unidos y fuera de la temporada de invierno. Compara la ruta, el tiempo total de viaje y la tarifa para tus fechas.</p>",
+          "name": "¿Me conviene volar a Tulum o a Cancún?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "blog"
+        ],
+        "areaSlug": null,
+        "category": "Tulum Airport",
+        "slug": "how-early-should-i-arrive-at-tulum-airport"
+      },
+      "convexId": "k57953ys9dg61jkgtvr7rx413n8ekcz2",
+      "lastUpdated": "2026-09-17T04:38:17.548Z",
+      "locales": {
+        "en": {
+          "answer": "<p>Around <strong>2 hours</strong> before a domestic flight and <strong>3 hours</strong> before an international one. If your airline recommends a different time, follow the airline.</p>",
+          "name": "How early should I arrive at Tulum Airport?"
+        },
+        "es": {
+          "answer": "<p>Unas <strong>2 horas</strong> antes de un vuelo nacional y <strong>3 horas</strong> antes de uno internacional. Si tu aerolínea recomienda otro horario, sigue su indicación.</p>",
+          "name": "¿Con cuánta anticipación debo llegar al aeropuerto de Tulum?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "blog"
+        ],
+        "areaSlug": null,
+        "category": "Tulum Airport",
+        "slug": "is-there-a-tren-maya-station-at-tulum-airport"
+      },
+      "convexId": "k57dv77yvpvkkc3n9yfcc7v8rd8ek1m0",
+      "lastUpdated": "2026-09-17T04:38:17.548Z",
+      "locales": {
+        "en": {
+          "answer": "<p>Yes. <strong>Tulum Aeropuerto</strong> is an operating Tren Maya station, with connections to places such as Playa del Carmen, Cancún, Valladolid, Mérida and Bacalar. Schedules change, so check the current timetable before planning a flight connection around it.</p>",
+          "name": "Is there a Tren Maya station at Tulum Airport?"
+        },
+        "es": {
+          "answer": "<p>Sí. <strong>Tulum Aeropuerto</strong> es una estación del Tren Maya en operación, con conexiones a lugares como Playa del Carmen, Cancún, Valladolid, Mérida y Bacalar. Los horarios cambian, así que revisa el itinerario vigente antes de planear una conexión con tu vuelo.</p>",
+          "name": "¿Hay estación del Tren Maya en el aeropuerto de Tulum?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "blog"
+        ],
+        "areaSlug": null,
+        "category": "Emergency contacts",
+        "slug": "what-is-the-emergency-number-in-tulum"
+      },
+      "convexId": "k572zprgve2vshwts2ggvk55v18ejxpa",
+      "lastUpdated": "2026-09-17T04:38:17.548Z",
+      "locales": {
+        "en": {
+          "answer": "<p>Call <strong>911</strong>. It is Mexico's nationwide number for police, ambulance and the fire department, and it should be your first call whenever someone's health or safety is at immediate risk.</p>",
+          "name": "What is the emergency number in Tulum?"
+        },
+        "es": {
+          "answer": "<p>Llama al <strong>911</strong>. Es el número nacional de México para policía, ambulancia y bomberos, y debe ser tu primera llamada siempre que la salud o la seguridad de alguien esté en riesgo inmediato.</p>",
+          "name": "¿Cuál es el número de emergencias en Tulum?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "blog"
+        ],
+        "areaSlug": null,
+        "category": "Emergency contacts",
+        "slug": "who-can-help-tourists-with-a-problem-in-quintana-roo"
+      },
+      "convexId": "k5791g2b1qfd0tpp98qney9ngn8ekef1",
+      "lastUpdated": "2026-09-17T04:38:17.548Z",
+      "locales": {
+        "en": {
+          "answer": "<p><strong>Guest Assist</strong>, Quintana Roo's official tourist-assistance programme, on <strong>800 277 4780</strong>. It can help with emergencies, lost or stolen passports, legal guidance, problems with tourism providers and consular information.</p>",
+          "name": "Who can help tourists with a problem in Quintana Roo?"
+        },
+        "es": {
+          "answer": "<p><strong>Guest Assist</strong>, el programa oficial de asistencia al turista de Quintana Roo, en el <strong>800 277 4780</strong>. Puede ayudar con emergencias, pasaportes perdidos o robados, orientación legal, problemas con prestadores de servicios turísticos e información consular.</p>",
+          "name": "¿Quién puede ayudar a los turistas con un problema en Quintana Roo?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "blog"
+        ],
+        "areaSlug": null,
+        "category": "Emergency contacts",
+        "slug": "which-hospitals-are-there-in-tulum"
+      },
+      "convexId": "k57f391s3dzbc7kfr3tz7pxvc58ejt9a",
+      "lastUpdated": "2026-09-17T04:38:17.548Z",
+      "locales": {
+        "en": {
+          "answer": "<p><strong>Costamed Tulum</strong> is one of the main private hospitals (+52 984 124 0830), and the public <strong>Hospital Comunitario de Tulum</strong> also provides emergency care (+52 984 871 2271). In a life-threatening emergency, call 911 first.</p>",
+          "name": "Which hospitals are there in Tulum?"
+        },
+        "es": {
+          "answer": "<p><strong>Costamed Tulum</strong> es uno de los principales hospitales privados (+52 984 124 0830), y el <strong>Hospital Comunitario de Tulum</strong>, público, también atiende urgencias (+52 984 871 2271). Si la vida de alguien corre peligro, llama primero al 911.</p>",
+          "name": "¿Qué hospitales hay en Tulum?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "blog"
+        ],
+        "areaSlug": null,
+        "category": "Emergency contacts",
+        "slug": "where-can-i-see-a-doctor-for-something-minor-in-tulum"
+      },
+      "convexId": "k57c4pt3x61q6tjsydn32m2bjh8ekqz3",
+      "lastUpdated": "2026-09-17T04:38:17.548Z",
+      "locales": {
+        "en": {
+          "answer": "<p>Pharmacy doctor's offices, such as those at <strong>Farmacias Similares</strong>, are a common option for colds, stomach problems or mild infections, with consultations from around 80 MXN. For chest pain, difficulty breathing, serious injuries or severe allergic reactions, call 911 or go to a hospital.</p>",
+          "name": "Where can I see a doctor for something minor in Tulum?"
+        },
+        "es": {
+          "answer": "<p>Los consultorios de farmacia, como los de <strong>Farmacias Similares</strong>, son una opción común para resfriados, malestares estomacales o infecciones leves, con consultas desde unos 80 MXN. Si hay dolor de pecho, dificultad para respirar, lesiones graves o una reacción alérgica fuerte, llama al 911 o acude a un hospital.</p>",
+          "name": "¿Dónde puedo ver a un médico por algo leve en Tulum?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "blog"
+        ],
+        "areaSlug": null,
+        "category": "Emergency contacts",
+        "slug": "what-number-do-i-call-if-my-car-breaks-down-near-tulum"
+      },
+      "convexId": "k578n2465mc0cgseqar3mn2rbh8ej830",
+      "lastUpdated": "2026-09-17T04:38:17.548Z",
+      "locales": {
+        "en": {
+          "answer": "<p>On a federal highway, call the <strong>Ángeles Verdes</strong> on <strong>078</strong> for roadside assistance. For a serious accident or a medical emergency, call 911 instead.</p>",
+          "name": "What number do I call if my car breaks down near Tulum?"
+        },
+        "es": {
+          "answer": "<p>En una carretera federal, llama a los <strong>Ángeles Verdes</strong> al <strong>078</strong> para asistencia vial. Si hay un accidente grave o una emergencia médica, llama al 911.</p>",
+          "name": "¿A qué número llamo si mi auto se descompone cerca de Tulum?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "blog"
+        ],
+        "areaSlug": null,
+        "category": "Emergency contacts",
+        "slug": "how-do-i-report-a-crime-in-tulum"
+      },
+      "convexId": "k57c62pmj8tyyww06tk5ye5mxn8ejzh3",
+      "lastUpdated": "2026-09-17T04:38:17.548Z",
+      "locales": {
+        "en": {
+          "answer": "<p>If a crime is happening now or someone is in danger, call <strong>911</strong>. To make a formal complaint, contact the <strong>Ministerio Público / Fiscalía</strong> in Tulum on +52 984 124 0296, which is listed as open 24 hours. Use <strong>089</strong> to report suspected crime anonymously.</p>",
+          "name": "How do I report a crime in Tulum?"
+        },
+        "es": {
+          "answer": "<p>Si el delito está ocurriendo o alguien está en peligro, llama al <strong>911</strong>. Para presentar una denuncia formal, comunícate con el <strong>Ministerio Público / Fiscalía</strong> de Tulum al +52 984 124 0296, que aparece con atención las 24 horas. Usa el <strong>089</strong> para hacer una denuncia anónima.</p>",
+          "name": "¿Cómo denuncio un delito en Tulum?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "blog"
+        ],
+        "areaSlug": null,
+        "category": "Emergency contacts",
+        "slug": "what-should-i-tell-the-operator-when-i-call-for-help"
+      },
+      "convexId": "k575n2wzvd94te7z2nvenn7x1n8eka7t",
+      "lastUpdated": "2026-09-17T04:38:17.548Z",
+      "locales": {
+        "en": {
+          "answer": "<p>Say what happened, whether anyone is injured, where you are, the name of your hotel, villa or a nearby landmark, how many people need help and a phone number to reach you. Save your accommodation's map pin before you need it, since Tulum addresses can be hard to describe.</p>",
+          "name": "What should I tell the operator when I call for help?"
+        },
+        "es": {
+          "answer": "<p>Di qué pasó, si hay personas heridas, dónde estás, el nombre de tu hotel, villa o un punto de referencia cercano, cuántas personas necesitan ayuda y un número de teléfono para localizarte. Guarda la ubicación de tu hospedaje en el mapa antes de necesitarla, porque las direcciones en Tulum pueden ser difíciles de explicar.</p>",
+          "name": "¿Qué debo decirle al operador cuando pida ayuda?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "blog"
+        ],
+        "areaSlug": null,
+        "category": "Transportation",
+        "slug": "is-there-uber-in-tulum"
+      },
+      "convexId": "k57axfa5c0q5wr8vnyvqd9m6w58ej89q",
+      "lastUpdated": "2026-09-17T04:38:17.548Z",
+      "locales": {
+        "en": {
+          "answer": "<p>We would not rely on it. Uber may still show Tulum in the app, but passenger rides are not consistently available because of the long-running conflict with the local taxi sector. Uber Eats does operate for food delivery.</p>",
+          "name": "Is there Uber in Tulum?"
+        },
+        "es": {
+          "answer": "<p>No te recomendamos depender de él. Uber puede seguir mostrando Tulum en la app, pero los viajes no están disponibles de forma constante por el largo conflicto con el sector local de taxis. Uber Eats sí funciona para pedir comida.</p>",
+          "name": "¿Hay Uber en Tulum?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "blog"
+        ],
+        "areaSlug": null,
+        "category": "Transportation",
+        "slug": "do-taxis-in-tulum-use-meters"
+      },
+      "convexId": "k578nd1z7a1fyn4b5kmen1amwd8ekw87",
+      "lastUpdated": "2026-09-17T04:38:17.548Z",
+      "locales": {
+        "en": {
+          "answer": "<p>Generally no. The fare depends on your pickup point and destination, so always ask the price before getting in: <em>“¿Cuánto cuesta hasta…?”</em> Rates change, so don't rely on fixed prices from old guides.</p>",
+          "name": "Do taxis in Tulum use meters?"
+        },
+        "es": {
+          "answer": "<p>Por lo general no. La tarifa depende del punto de partida y del destino, así que pregunta siempre el precio antes de subir: <em>«¿Cuánto cuesta hasta…?»</em> Las tarifas cambian, así que no te guíes por precios fijos de guías antiguas.</p>",
+          "name": "¿Los taxis de Tulum usan taxímetro?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "blog"
+        ],
+        "areaSlug": null,
+        "category": "Transportation",
+        "slug": "which-taxi-apps-work-in-tulum"
+      },
+      "convexId": "k5711ezjvbe3aqf5k5y8q3djms8ek3zb",
+      "lastUpdated": "2026-09-17T04:38:17.548Z",
+      "locales": {
+        "en": {
+          "answer": "<p><strong>inDrive</strong> and <strong>Eiby</strong> are the two main options. Registration can depend on your phone number, so download both before your trip and use whichever works for you. For flights, dinners or events at a fixed time, arrange transport in advance.</p>",
+          "name": "Which taxi apps work in Tulum?"
+        },
+        "es": {
+          "answer": "<p><strong>inDrive</strong> y <strong>Eiby</strong> son las dos opciones principales. El registro puede depender de tu número de teléfono, así que descarga ambas antes del viaje y usa la que te funcione. Para vuelos, cenas o eventos a una hora fija, reserva el transporte con anticipación.</p>",
+          "name": "¿Qué apps de taxi funcionan en Tulum?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "blog"
+        ],
+        "areaSlug": null,
+        "category": "Transportation",
+        "slug": "how-do-i-get-from-cancun-airport-to-tulum"
+      },
+      "convexId": "k57d25q3frcdq6k6pk5ar8whrh8ekz9k",
+      "lastUpdated": "2026-09-17T04:38:17.548Z",
+      "locales": {
+        "en": {
+          "answer": "<p>ADO runs direct buses to Tulum Centro for around <strong>475 MXN</strong> per person (August 2026), taking about 2 hours 45 minutes to 3 hours. The bus stops in Centro, so you will usually need a taxi to La Veleta, Aldea Zamá or the Hotel Zone. For groups, compare that total with a private transfer.</p>",
+          "name": "How do I get from Cancún Airport to Tulum?"
+        },
+        "es": {
+          "answer": "<p>ADO tiene autobuses directos a Tulum Centro por alrededor de <strong>475 MXN</strong> por persona (agosto de 2026), con un trayecto de unas 2 horas 45 minutos a 3 horas. El autobús llega al centro, así que normalmente necesitarás un taxi a La Veleta, Aldea Zamá o la Zona Hotelera. Si viajas en grupo, compara ese total con un traslado privado.</p>",
+          "name": "¿Cómo llego del aeropuerto de Cancún a Tulum?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "blog"
+        ],
+        "areaSlug": null,
+        "category": "Transportation",
+        "slug": "how-much-is-the-bus-from-tulum-airport-to-tulum"
+      },
+      "convexId": "k573tyb4rqvd4dcn3r4pjb0z618ek723",
+      "lastUpdated": "2026-09-17T04:38:17.548Z",
+      "locales": {
+        "en": {
+          "answer": "<p>ADO's published fare is <strong>220 MXN</strong> per person, with six departures a day at the time of writing. Check live fares on the ADO website or app before you travel.</p>",
+          "name": "How much is the bus from Tulum Airport to Tulum?"
+        },
+        "es": {
+          "answer": "<p>La tarifa publicada por ADO es de <strong>220 MXN</strong> por persona, con seis salidas al día al momento de escribir esto. Revisa las tarifas vigentes en el sitio o la app de ADO antes de viajar.</p>",
+          "name": "¿Cuánto cuesta el autobús del aeropuerto de Tulum a Tulum?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "blog"
+        ],
+        "areaSlug": null,
+        "category": "Transportation",
+        "slug": "what-are-colectivos-in-tulum"
+      },
+      "convexId": "k57dt8cay5wfx0jj24n7adtrmd8ekha9",
+      "lastUpdated": "2026-09-17T04:38:17.548Z",
+      "locales": {
+        "en": {
+          "answer": "<p>Shared vans that run along Highway 307 between Tulum and Playa del Carmen, stopping at places such as Akumal, Puerto Aventuras and Xpu-Há. Tell the driver where you want to get off and pay in cash. They are cheap, but not ideal with large luggage or when you have a flight to catch.</p>",
+          "name": "What are colectivos in Tulum?"
+        },
+        "es": {
+          "answer": "<p>Son camionetas compartidas que recorren la carretera 307 entre Tulum y Playa del Carmen, con paradas en lugares como Akumal, Puerto Aventuras y Xpu-Há. Dile al chofer dónde quieres bajar y paga en efectivo. Son baratos, pero no son ideales con maletas grandes ni cuando tienes que alcanzar un vuelo.</p>",
+          "name": "¿Qué son los colectivos en Tulum?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "blog"
+        ],
+        "areaSlug": null,
+        "category": "Transportation",
+        "slug": "do-i-need-a-car-in-tulum"
+      },
+      "convexId": "k574yerkqgc7jr0nsg2t40cn5d8ekcvd",
+      "lastUpdated": "2026-09-17T04:38:17.548Z",
+      "locales": {
+        "en": {
+          "answer": "<p>Not if you mostly move between Centro and the Hotel Zone, where traffic and beach-club parking can be difficult. A rental car makes sense for exploring cenotes, Cobá, Valladolid, Chichén Itzá or Bacalar on your own schedule.</p>",
+          "name": "Do I need a car in Tulum?"
+        },
+        "es": {
+          "answer": "<p>No, si te mueves sobre todo entre el centro y la Zona Hotelera, donde el tráfico y el estacionamiento en los beach clubs pueden complicarse. Rentar un auto tiene sentido para visitar cenotes, Cobá, Valladolid, Chichén Itzá o Bacalar a tu ritmo.</p>",
+          "name": "¿Necesito auto en Tulum?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "blog"
+        ],
+        "areaSlug": null,
+        "category": "Zamna",
+        "slug": "what-does-a-zamna-vip-table-include"
+      },
+      "convexId": "k573ftc3znhtcs0s6hvaqya36s8ej3c9",
+      "lastUpdated": "2026-09-17T04:38:17.548Z",
+      "locales": {
+        "en": {
+          "answer": "<p>Event access with priority check-in, so no separate tickets are needed, a host who escorts you to your table, a <strong>VIP or backstage area</strong> depending on the table, and <strong>100% consumption credit</strong>: the table price goes towards drinks and bottle service, apart from the service fee.</p>",
+          "name": "What does a Zamna VIP table include?"
+        },
+        "es": {
+          "answer": "<p>Acceso al evento con registro prioritario, así que no necesitas boletos aparte; un anfitrión que te acompaña a tu mesa; un <strong>área VIP o backstage</strong> según la mesa, y <strong>100% de crédito de consumo</strong>: el precio de la mesa se abona a bebidas y servicio de botella, salvo la tarifa de servicio.</p>",
+          "name": "¿Qué incluye una mesa VIP en Zamna?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "blog"
+        ],
+        "areaSlug": null,
+        "category": "Zamna",
+        "slug": "what-is-the-difference-between-a-vip-and-a-backstage-table-at-zamna"
+      },
+      "convexId": "k579fzde5e1ccf1m0prry2qpkh8ej9kc",
+      "lastUpdated": "2026-09-17T04:38:17.548Z",
+      "locales": {
+        "en": {
+          "answer": "<p><strong>Backstage</strong> tables are on the stage area, closest to the DJ. <strong>VIP</strong> tables face the stage with a view of the show. Categories and capacity vary by event.</p>",
+          "name": "What is the difference between a VIP and a backstage table at Zamna?"
+        },
+        "es": {
+          "answer": "<p>Las mesas <strong>backstage</strong> están en el área del escenario, lo más cerca del DJ. Las mesas <strong>VIP</strong> están frente al escenario, con vista al show. Las categorías y la capacidad cambian según el evento.</p>",
+          "name": "¿Cuál es la diferencia entre una mesa VIP y una backstage en Zamna?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "blog"
+        ],
+        "areaSlug": null,
+        "category": "Zamna",
+        "slug": "how-do-i-book-a-table-at-zamna"
+      },
+      "convexId": "k579d1c4gvybaarxbafv1swex98ejhnp",
+      "lastUpdated": "2026-09-17T04:38:17.548Z",
+      "locales": {
+        "en": {
+          "answer": "<p>Send Tulum Bible the event, your preferred table type and your group size by WhatsApp or email. We send a payment link for a <strong>50% deposit</strong> to secure the table, and you pay the balance at the event.</p>",
+          "name": "How do I book a table at Zamna?"
+        },
+        "es": {
+          "answer": "<p>Envía a Tulum Bible por WhatsApp o correo el evento, el tipo de mesa que prefieres y el tamaño de tu grupo. Te mandamos un enlace de pago para un <strong>anticipo del 50%</strong> que asegura la mesa, y el resto lo pagas en el evento.</p>",
+          "name": "¿Cómo reservo una mesa en Zamna?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "blog"
+        ],
+        "areaSlug": null,
+        "category": "Zamna",
+        "slug": "is-the-service-fee-included-in-the-zamna-table-price"
+      },
+      "convexId": "k5727bsvfhhmq50djgqr6d7ctn8ejcxr",
+      "lastUpdated": "2026-09-17T04:38:17.548Z",
+      "locales": {
+        "en": {
+          "answer": "<p>No. A <strong>15% service fee</strong> is paid on top at the event, together with the remaining balance, and it does not count towards your consumption credit.</p>",
+          "name": "Is the service fee included in the Zamna table price?"
+        },
+        "es": {
+          "answer": "<p>No. Una <strong>tarifa de servicio del 15%</strong> se paga aparte en el evento, junto con el saldo pendiente, y no cuenta como crédito de consumo.</p>",
+          "name": "¿La tarifa de servicio está incluida en el precio de la mesa en Zamna?"
         }
       }
     }
