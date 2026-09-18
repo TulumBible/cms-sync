@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-18T02:54:48.794Z",
+  "syncedAt": "2026-09-18T15:28:17.942Z",
   "citySlug": "tulum",
   "faqs": [
     {
@@ -6379,6 +6379,138 @@
         "es": {
           "answer": "La cocina ofrece pizza de masa gruesa al estilo de Chicago, pasta, tacos y entrantes, con precios como las patatas fritas con trufa a 150 MXN y las gambas envueltas en prosciutto a 210. La taberna sirve cerveza artesanal local Mundo Maya y refrescos con alcohol, además de cócteles, highballs y vino.",
           "name": "¿Qué comida y bebida se sirve en El Barrio?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "event"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "when-is-adam-port-playing-in-tulum"
+      },
+      "convexId": "k571fjvb3m7sm2arj5h8keg94h8eny44",
+      "lastUpdated": "2026-09-18T15:22:23.987Z",
+      "locales": {
+        "en": {
+          "answer": "Adam Port plays Zamna Tulum on January 10, 2027, closing the festival’s 10th-anniversary season.",
+          "name": "When is Adam Port playing in Tulum?"
+        },
+        "es": {
+          "answer": "Adam Port actuará en Zamna Tulum el 10 de enero de 2027, poniendo el broche final a la temporada del décimo aniversario del festival.",
+          "name": "¿Cuándo va a actuar Adam Port en Tulum?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "event"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "is-adam-port-at-zamna-a-keinemusik-event"
+      },
+      "convexId": "k57ak2f5zs4mx61e1hffnvt9as8en1bg",
+      "lastUpdated": "2026-09-18T15:22:44.736Z",
+      "locales": {
+        "en": {
+          "answer": "Not currently. Adam Port is a founding member of Keinemusik, but the January 10 event has been announced under his own name. Rampa and &ME have not been announced for the date.",
+          "name": "Is Adam Port at Zamna a Keinemusik event?"
+        },
+        "es": {
+          "answer": "Por el momento, no. Adam Port es uno de los miembros fundadores de Keinemusik, pero el evento del 10 de enero se ha anunciado a su nombre. Rampa y &amp;ME no figuran en el cartel de esa fecha.",
+          "name": "¿El evento Adam Port en Zamna forma parte del ciclo Keinemusik?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "event"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "who-else-is-playing-with-adam-port"
+      },
+      "convexId": "k57fe57rt7j5tdkpmv6j04nxwd8em9xp",
+      "lastUpdated": "2026-09-18T15:23:02.083Z",
+      "locales": {
+        "en": {
+          "answer": "The supporting lineup is still TBA. We will update this page as Zamna announces additional artists.",
+          "name": "Who else is playing with Adam Port?"
+        },
+        "es": {
+          "answer": "El cartel de artistas invitados aún está por confirmar. Actualizaremos esta página a medida que Zamna vaya anunciando nuevos artistas.",
+          "name": "¿Quién más toca con Adam Port?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "event"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "how-much-are-adam-port-tulum-tickets"
+      },
+      "convexId": "k57dg7429fjq17a43kw0e9n6ah8emmxz",
+      "lastUpdated": "2026-09-18T15:23:46.782Z",
+      "locales": {
+        "en": {
+          "answer": "Regular ticket prices start at $190 USD including taxes and fees. We do not sell GA or VIP tickets via Tulum Bible.",
+          "name": "How much are Adam Port Tulum tickets?"
+        },
+        "es": {
+          "answer": "Los precios de las entradas normales empiezan en 190 dólares estadounidenses, impuestos y tasas incluidos. No vendemos entradas de acceso general ni VIP a través de Tulum Bible.",
+          "name": "¿Cuánto cuestan las entradas para Adam Port Tulum?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "event"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "does-tulum-bible-sell-adam-port-tickets"
+      },
+      "convexId": "k57cz1sk1aw09chv4p9npv79r98en1y7",
+      "lastUpdated": "2026-09-18T15:24:02.774Z",
+      "locales": {
+        "en": {
+          "answer": "Tulum Bible does not sell regular GA or VIP tickets. We can help with VIP and Backstage tables once pricing and availability are released.",
+          "name": "Does Tulum Bible sell Adam Port tickets?"
+        },
+        "es": {
+          "answer": "Tulum Bible no vende entradas generales ni VIP. Podemos ayudarte con las mesas VIP y las de entre bastidores en cuanto se publiquen los precios y la disponibilidad.",
+          "name": "¿Vende Tulum Bible entradas para Adam Port?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "event"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "can-i-reserve-a-table-for-adam-port"
+      },
+      "convexId": "k57fqqpkva2502pgrn1dhd14818emk7p",
+      "lastUpdated": "2026-09-18T15:24:19.378Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. Tulum Bible can arrange table reservations once Zamna releases the table options for January 10. Send us your group size and we can update you when prices become available.",
+          "name": "Can I reserve a table for Adam Port?"
+        },
+        "es": {
+          "answer": "Sí. Tulum Bible puede encargarse de reservar mesa en cuanto Zamna publique las opciones disponibles para el 10 de enero. Envíanos el número de personas de tu grupo y te informaremos en cuanto se conozcan los precios.",
+          "name": "¿Puedo reservar una mesa para Adam Port?"
         }
       }
     }

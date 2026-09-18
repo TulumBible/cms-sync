@@ -1,7 +1,74 @@
 {
-  "syncedAt": "2026-09-18T12:00:28.755Z",
+  "syncedAt": "2026-09-18T15:28:18.097Z",
   "citySlug": "tulum",
   "events": [
+    {
+      "base": {
+        "afterEnd": "keep",
+        "buyLink": "https://wa.me/529841301037?text=Hello!%20I'm%20interested%20in%20tables%20for%20Adam%20Port%20Tulum%202027",
+        "categoryIds": [],
+        "cta": "Tickets",
+        "displayPrice": "USD $190",
+        "endDate": "2027-01-11T08:00",
+        "eventType": "Festival",
+        "faqIds": [
+          "k571fjvb3m7sm2arj5h8keg94h8eny44",
+          "k57ak2f5zs4mx61e1hffnvt9as8en1bg",
+          "k57fe57rt7j5tdkpmv6j04nxwd8em9xp",
+          "k57dg7429fjq17a43kw0e9n6ah8emmxz",
+          "k57cz1sk1aw09chv4p9npv79r98en1y7",
+          "k57fqqpkva2502pgrn1dhd14818emk7p"
+        ],
+        "flyerImage": {
+          "alt": "adam port at zamna tulum 2027",
+          "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/ac7a6499-ffe6-44d5-5e4f-d1b662fd0100/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+        },
+        "gaLink": null,
+        "gaPrice": null,
+        "hubImage": null,
+        "isFeatured": false,
+        "isPublished": true,
+        "lineup": [
+          "Adam Port"
+        ],
+        "noPrice": false,
+        "promotion": "normal",
+        "publishedAt": null,
+        "qrCode": "M0 0.5h7m2 0h1m3 0h3m1 0h2m1 0h1m1 0h1m2 0h3m2 0h7M0 1.5h1m5 0h1m1 0h2m1 0h2m1 0h1m5 0h6m1 0h2m1 0h1m5 0h1M0 2.5h1m1 0h3m1 0h1m2 0h3m2 0h5m2 0h2m2 0h2m3 0h1m1 0h3m1 0h1M0 3.5h1m1 0h3m1 0h1m1 0h2m1 0h1m4 0h1m1 0h2m1 0h1m1 0h1m2 0h1m1 0h1m1 0h1m1 0h3m1 0h1M0 4.5h1m1 0h3m1 0h1m3 0h1m1 0h2m1 0h4m1 0h1m1 0h1m2 0h1m1 0h1m2 0h1m1 0h3m1 0h1M0 5.5h1m5 0h1m1 0h1m1 0h1m5 0h1m2 0h1m1 0h1m5 0h2m1 0h1m5 0h1M0 6.5h7m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h7M12 7.5h1m1 0h1m3 0h1m1 0h3m1 0h1M0 8.5h5m1 0h5m1 0h1m1 0h1m1 0h1m1 0h6m2 0h1m1 0h2m1 0h1m1 0h1m1 0h1M2 9.5h1m1 0h1m8 0h1m1 0h1m1 0h1m2 0h1m1 0h1m1 0h2m1 0h5m1 0h3M1 10.5h4m1 0h1m1 0h2m1 0h2m1 0h2m2 0h1m1 0h2m1 0h2m2 0h2m1 0h1m1 0h3m1 0h1M2 11.5h4m2 0h2m1 0h1m1 0h1m1 0h3m3 0h2m3 0h2m5 0h1m1 0h1M2 12.5h1m2 0h8m2 0h2m1 0h4m1 0h1m2 0h1m1 0h2m1 0h1m1 0h2m1 0h1M1 13.5h1m1 0h3m4 0h1m1 0h2m1 0h1m1 0h1m7 0h1m1 0h1m1 0h4m1 0h2M0 14.5h4m1 0h2m2 0h2m1 0h1m1 0h2m1 0h2m1 0h2m4 0h2m2 0h2m2 0h3M2 15.5h1m1 0h1m2 0h2m1 0h1m1 0h1m2 0h3m1 0h1m1 0h2m1 0h2m4 0h1m2 0h1m2 0h1M1 16.5h3m1 0h5m9 0h5m3 0h2m2 0h1m1 0h2m1 0h1M0 17.5h1m3 0h2m4 0h3m1 0h2m1 0h1m6 0h2m1 0h4m3 0h2M2 18.5h1m1 0h3m1 0h1m1 0h2m2 0h1m4 0h1m1 0h2m3 0h5m1 0h1m1 0h3M0 19.5h1m1 0h3m2 0h1m1 0h2m1 0h1m1 0h5m9 0h3m5 0h1M0 20.5h2m4 0h2m4 0h1m5 0h4m1 0h1m6 0h3m1 0h3M0 21.5h2m2 0h1m2 0h4m1 0h7m1 0h1m3 0h1m1 0h2m1 0h2m4 0h1M0 22.5h1m1 0h2m2 0h4m1 0h2m1 0h3m1 0h1m2 0h3m1 0h1m1 0h2m1 0h1m3 0h3M1 23.5h1m3 0h1m1 0h2m1 0h3m1 0h2m5 0h1m1 0h2m2 0h2m7 0h1M1 24.5h1m2 0h3m1 0h3m3 0h1m4 0h3m1 0h1m2 0h1m1 0h1m2 0h1m1 0h4M0 25.5h3m1 0h1m6 0h8m3 0h1m2 0h1m1 0h1m2 0h1m2 0h1m1 0h1M0 26.5h1m1 0h5m2 0h1m2 0h2m1 0h2m3 0h1m3 0h1m2 0h1m1 0h1m1 0h2m2 0h2M0 27.5h1m3 0h1m2 0h3m1 0h1m2 0h1m2 0h2m1 0h2m1 0h4m1 0h2m1 0h3m2 0h1M0 28.5h1m1 0h5m5 0h1m3 0h1m1 0h6m2 0h1m1 0h7M8 29.5h1m1 0h1m1 0h7m3 0h1m1 0h3m1 0h1m3 0h1m1 0h1M0 30.5h7m1 0h1m1 0h1m1 0h1m1 0h2m8 0h2m1 0h2m1 0h1m1 0h5M0 31.5h1m5 0h1m2 0h1m4 0h2m2 0h1m1 0h1m1 0h1m3 0h1m1 0h1m3 0h1M0 32.5h1m1 0h3m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h2m1 0h1m1 0h2m1 0h10M0 33.5h1m1 0h3m1 0h1m1 0h2m3 0h3m8 0h2m3 0h1m2 0h1m1 0h1m1 0h1M0 34.5h1m1 0h3m1 0h1m1 0h2m3 0h1m1 0h2m1 0h2m1 0h1m1 0h2m2 0h4m5 0h1M0 35.5h1m5 0h1m1 0h3m1 0h1m1 0h2m2 0h1m1 0h3m3 0h1m2 0h1m1 0h1m4 0h1M0 36.5h7m1 0h5m1 0h1m1 0h1m2 0h1m1 0h4m1 0h2m1 0h3m1 0h4<!--vb:37-->",
+        "startDate": "2027-01-10",
+        "status": "Live",
+        "tableLayoutImage": null,
+        "tbeId": "TBE_KRPD38",
+        "ticketPrice": "USD $190",
+        "ticketTiers": null,
+        "time": "22:00 - 08:00",
+        "url": null,
+        "venueName": "Zamna Tulum",
+        "venueSlug": "zamna-tulum",
+        "vipLink": null,
+        "vipPrice": null
+      },
+      "convexId": "j575fz035hxrajz1m34dace5dn8emsww",
+      "lastUpdated": "2026-09-18T15:28:02.471Z",
+      "locales": {
+        "en": {
+          "body": "<h3>January 10, 2027 · Zamna Tulum</h3><p><strong>Adam Port closes Zamna Tulum’s 10th-anniversary season on January 10, 2027.</strong></p><p>The German DJ and producer returns to the Tulum jungle for the final night of the season, which runs from December 31 through January 10.</p><p>Adam Port is one of the founding members of <strong>Keinemusik</strong>, the Berlin label and collective behind some of Zamna’s biggest recent events. However, the January 10 closing has been announced under <strong>Adam Port’s own name rather than as a Keinemusik event</strong>. At this stage, Rampa and &amp;ME have not been announced for the date.</p><h2>Adam Port Tulum 2027 lineup</h2><p><strong>Adam Port</strong></p><p><strong>Support — TBA</strong></p><p>The remaining lineup has not yet been announced.</p><p>We will update this page as additional artists are confirmed.</p><h2>Adam Port Tulum 2027 tickets</h2><p>Regular ticket prices for the January 10 closing are starting at $160 USD.</p><p>Tulum Bible does not sell regular GA or VIP tickets.</p><p>Through Tulum Bible, we can help with:</p><ul><li><p>VIP tables</p></li><li><p>Backstage tables</p></li><li><p>Private transportation</p></li><li><p>Other arrangements around the event</p></li></ul><p>Table allocations and minimum spends have not been released yet.</p><p><a href=\"https://wa.me/529841301037?text=Hello!%20I'm%20interested%20in%20tables%20for%20Adam%20Port%20Tulum%202027\"><strong>Ask about Adam Port tables</strong></a></p><h2>Adam Port VIP and Backstage tables</h2><p>We can help arrange <strong>VIP and Backstage tables</strong> for Adam Port once Zamna releases the table map and prices.</p><p>Tables are separate from standard VIP tickets. They are normally sold for groups and include a reserved area with bottle service and a minimum spend based on the table location.</p><p>Send us your <strong>group size</strong> and we can contact you once the January 10 table options are available.</p><h2>What to expect from Adam Port</h2><p>Adam Port’s music sits across <strong>house, afro house, deep house and melodic house</strong>, with percussion and groove playing a central role in his sets. Zamna also lists melodic house, progressive house and techno among the genres associated with him.</p><p>His connection to Keinemusik will make the closing particularly interesting for people who have followed the collective’s previous Tulum dates, but this should still be approached as an <strong>Adam Port headline show unless Zamna announces otherwise</strong>.</p><p>The rest of the production details, supporting lineup and set times are still to come.</p><h2>Adam Port at Zamna Tulum 2027 at a glance</h2><p><strong>Date:</strong> January 10, 2027<br><strong>Venue:</strong> Zamna Tulum<br><strong>Event:</strong> Zamna Tulum 10th-anniversary closing<br><strong>Headliner:</strong> Adam Port<br><strong>Support:</strong> TBA<br><strong>Tickets:</strong> TBA<br><strong>VIP &amp; Backstage tables:</strong> Available through Tulum Bible once released<br><strong>Age:</strong> 18+<br><strong>Keinemusik event:</strong> No — currently announced as Adam Port</p>",
+          "description": "Adam Port closes Zamna Tulum on January 10, 2027. See lineup and ticket updates, and enquire about VIP and Backstage tables through Tulum Bible.",
+          "hubBlurb": "<p><strong>Adam Port closes Zamna Tulum’s 10th-anniversary season on January 10.</strong></p><p>The German DJ and producer is a founding member of <strong>Keinemusik</strong>, but this date has been announced as an <strong>Adam Port headline show rather than a Keinemusik event</strong>. Rampa and &amp;ME are not currently announced for the closing.</p><p>The supporting lineup and regular ticket prices are still to come.</p><p>Tulum Bible does not sell regular GA or VIP tickets, but we can help with <strong>VIP and Backstage tables</strong> once Zamna releases the table allocations.</p><p><strong>Date:</strong> January 10, 2027<br><strong>Venue:</strong> Zamna Tulum<br><strong>Headliner:</strong> Adam Port<br><strong>Lineup:</strong> More TBA<br><strong>Tickets:</strong> TBA<br><strong>VIP &amp; Backstage tables:</strong> Through Tulum Bible</p>",
+          "name": "Adam Port Tulum 2027",
+          "slug": "adam-port-tulum-2027-zamna",
+          "tableInformation": ""
+        },
+        "es": {
+          "body": "<h3>10 de enero de 2027 · Zamna Tulum</h3><p><strong>Adam Port clausura la temporada del décimo aniversario de Zamna Tulum el 10 de enero de 2027.</strong></p><p>El DJ y productor alemán regresa a la selva de Tulum para la última noche de la temporada, que se extiende del 31 de diciembre al 10 de enero.</p><p>Adam Port es uno de los miembros fundadores de <strong>Keinemusik</strong>, el sello y colectivo berlinés responsable de algunos de los eventos más importantes de Zamna en los últimos tiempos. Sin embargo, la clausura del 10 de enero se ha anunciado a <strong>nombre de Adam Port, en lugar de como un evento de Keinemusik</strong>. Por el momento, no se ha confirmado la participación de Rampa ni de &amp;ME en esa fecha.</p><h2>Cartel de Adam Port Tulum 2027</h2><p><strong>Adam Port</strong></p><p><strong>Actuación de apertura — Por confirmar</strong></p><p>El resto del cartel aún no se ha anunciado.</p><p>Actualizaremos esta página a medida que se confirmen más artistas.</p><h2>Entradas para Adam Port Tulum 2027</h2><p>Los precios de las entradas generales para la clausura del 10 de enero empiezan en 160 dólares estadounidenses.</p><p>Tulum Bible no vende entradas generales ni VIP.</p><p>A través de Tulum Bible, podemos ayudarte con:</p><ul><li><p>Mesas VIP</p></li><li><p>Mesas entre bastidores</p></li><li><p>Transporte privado</p></li><li><p>Otros servicios relacionados con el evento</p></li></ul><p>Aún no se han publicado las asignaciones de mesas ni los gastos mínimos.</p><p><a href=\"https://wa.me/529841301037?text=Hello!%20I'm%20interested%20in%20tables%20for%20Adam%20Port%20Tulum%202027\"><strong>Pregunta por las mesas de Adam Port</strong></a></p><h2>Mesas VIP y entre bastidores de Adam Port</h2><p>Podemos ayudarte a reservar <strong>mesas VIP y Backstage</strong> para Adam Port en cuanto Zamna publique el plano de mesas y los precios.</p><p>Las mesas son independientes de las entradas VIP estándar. Normalmente se venden para grupos e incluyen una zona reservada con servicio de botellas y un gasto mínimo en función de la ubicación de la mesa.</p><p>Envíanos <strong>el número de personas de</strong> tu <strong>grupo</strong> y nos pondremos en contacto contigo en cuanto estén disponibles las opciones de mesas para el 10 de enero.</p><h2>Qué puedes esperar de Adam Port</h2><p>La música de Adam Port abarca <strong>el house, el afro house, el deep house y el melodic house</strong>, y la percusión y el groove desempeñan un papel central en sus sesiones. Zamna también incluye el melodic house, el progressive house y el techno entre los géneros asociados a él.</p><p>Su vínculo con Keinemusik hará que la clausura resulte especialmente interesante para quienes hayan seguido las anteriores actuaciones del colectivo en Tulum, pero hay que considerarlo como un <strong>espectáculo protagonizado por Adam Port, a menos que Zamna anuncie lo contrario</strong>.</p><p>El resto de detalles sobre la producción, el cartel de artistas teloneros y los horarios de las sesiones aún están por confirmar.</p><h2>Adam Port en Zamna Tulum 2027: resumen</h2><p><strong>Fecha:</strong> 10 de enero de 2027<br><strong>Lugar:</strong> Zamna Tulum<br><strong>Evento:</strong> Clausura del 10.º aniversario de Zamna Tulum<br><strong>Cabeza de cartel:</strong> Adam Port<br><strong>Artistas teloneros:</strong> por confirmar<br><strong>Entradas:</strong> por confirmar<br><strong>Mesas VIP y entre bastidores:</strong> disponibles a través de Tulum Bible una vez que salgan a la venta<br><strong>Edad mínima:</strong> mayores de 18 años<br><strong>Evento de Keinemusik:</strong> No — actualmente anunciado como Adam Port</p>",
+          "description": "Adam Port clausurará el Zamna Tulum el 10 de enero de 2027. Consulta el cartel y las últimas novedades sobre las entradas, y solicita información sobre las mesas VIP y Backstage a través de Tulum Bible.",
+          "hubBlurb": "<p><strong>Adam Port cerrará la temporada del décimo aniversario de Zamna Tulum el 10 de enero.</strong></p><p>El DJ y productor alemán es miembro fundador de <strong>Keinemusik</strong>, pero esta fecha se ha anunciado como un <strong>espectáculo protagonizado por Adam Port, en lugar de como un evento de Keinemusik</strong>. Por el momento, no se ha confirmado la participación de Rampa ni de &amp;ME en la clausura.</p><p>Aún están por confirmar el cartel de teloneros y los precios habituales de las entradas.</p><p>Tulum Bible no vende entradas generales ni VIP, pero podemos ayudarte con <strong>las mesas VIP y Backstage</strong> una vez que Zamna publique la asignación de mesas.</p><p><strong>Fecha:</strong> 10 de enero de 2027<br><strong>Lugar:</strong> Zamna Tulum<br><strong>Cabeza de cartel:</strong> Adam Port<br><strong>Cartel:</strong> Más por confirmar<br><strong>Entradas:</strong> por confirmar<br><strong>Mesas VIP y entre bastidores:</strong> a través de Tulum Bible</p>",
+          "name": "Adam Port Tulum 2027",
+          "slug": "adam-port-tulum-2027-zamna",
+          "tableInformation": ""
+        }
+      }
+    },
     {
       "base": {
         "afterEnd": "archive",
