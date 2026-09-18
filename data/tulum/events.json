@@ -1,7 +1,153 @@
 {
-  "syncedAt": "2026-09-18T00:00:29.004Z",
+  "syncedAt": "2026-09-18T00:55:22.825Z",
   "citySlug": "tulum",
   "events": [
+    {
+      "base": {
+        "afterEnd": "archive",
+        "buyLink": "https://tf.link/ia6icp9h",
+        "categoryIds": [],
+        "cta": "Tickets",
+        "displayPrice": "MXN $190",
+        "endDate": "2026-10-15T23:59",
+        "eventType": "BeachClub",
+        "faqIds": [],
+        "flyerImage": {
+          "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/1add04a2-9ab8-41a0-02d0-b4d89439a000/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+        },
+        "gaLink": null,
+        "gaPrice": null,
+        "hubImage": null,
+        "isFeatured": false,
+        "isPublished": true,
+        "lineup": null,
+        "noPrice": false,
+        "promotion": "normal",
+        "publishedAt": "2026-09-18T00:55:07.039Z",
+        "qrCode": "M0 0.5h7m1 0h1m1 0h1m1 0h2m2 0h6m1 0h1m2 0h1m1 0h1m1 0h7M0 1.5h1m5 0h1m2 0h4m1 0h1m2 0h2m1 0h1m1 0h5m1 0h1m1 0h1m5 0h1M0 2.5h1m1 0h3m1 0h1m1 0h3m2 0h4m1 0h3m1 0h1m1 0h2m4 0h1m1 0h3m1 0h1M0 3.5h1m1 0h3m1 0h1m1 0h3m1 0h4m4 0h1m1 0h1m1 0h5m1 0h1m1 0h3m1 0h1M0 4.5h1m1 0h3m1 0h1m1 0h1m2 0h2m1 0h3m1 0h2m1 0h1m2 0h1m1 0h3m1 0h1m1 0h3m1 0h1M0 5.5h1m5 0h1m3 0h2m5 0h4m1 0h1m1 0h1m5 0h1m5 0h1M0 6.5h7m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h7M10 7.5h1m1 0h1m1 0h5m3 0h3m2 0h2M0 8.5h4m2 0h1m1 0h1m1 0h3m1 0h2m1 0h5m1 0h1m2 0h4m2 0h3m1 0h1M0 9.5h2m1 0h3m2 0h3m1 0h2m1 0h2m1 0h6m4 0h2m3 0h3M0 10.5h1m1 0h1m1 0h1m1 0h1m2 0h1m1 0h2m3 0h1m3 0h1m1 0h3m3 0h1m2 0h2m1 0h2M0 11.5h4m4 0h2m3 0h1m4 0h1m1 0h1m2 0h6m1 0h2m2 0h3M0 12.5h2m3 0h4m3 0h3m2 0h1m4 0h2m1 0h1m1 0h4m1 0h3m1 0h1M1 13.5h5m1 0h1m2 0h3m1 0h4m1 0h3m1 0h3m1 0h8m1 0h1M1 14.5h2m1 0h1m1 0h2m3 0h1m1 0h2m4 0h2m3 0h3m3 0h1m2 0h1m1 0h1M0 15.5h6m5 0h1m2 0h3m3 0h3m3 0h1m1 0h3m1 0h2m2 0h1M1 16.5h4m1 0h1m2 0h1m2 0h1m1 0h1m1 0h1m1 0h1m1 0h2m3 0h1m1 0h2m5 0h2M2 17.5h2m3 0h1m7 0h1m1 0h1m2 0h2m1 0h4m3 0h1m2 0h1m1 0h2M0 18.5h1m1 0h1m1 0h5m1 0h1m2 0h3m4 0h3m1 0h1m2 0h2m1 0h3m1 0h3M0 19.5h1m1 0h1m1 0h2m2 0h4m1 0h2m1 0h4m2 0h3m3 0h1m1 0h2m1 0h1m1 0h1M3 20.5h4m2 0h2m2 0h7m1 0h1m2 0h1m1 0h4m1 0h3m1 0h1M2 21.5h2m3 0h1m8 0h1m2 0h3m1 0h1m2 0h1m1 0h2m5 0h1M6 22.5h1m2 0h1m4 0h1m1 0h2m4 0h5m2 0h1m1 0h1M0 23.5h1m3 0h2m5 0h4m4 0h1m4 0h2m5 0h4M5 24.5h5m1 0h1m3 0h3m4 0h1m3 0h3m1 0h1m1 0h5M1 25.5h1m5 0h1m3 0h1m1 0h1m1 0h3m1 0h1m2 0h1m1 0h2m1 0h2m1 0h4m2 0h1M1 26.5h1m1 0h2m1 0h1m1 0h1m3 0h1m1 0h1m1 0h1m2 0h1m1 0h1m4 0h1m3 0h3m2 0h1M0 27.5h1m1 0h1m4 0h2m3 0h2m1 0h2m4 0h1m1 0h1m2 0h8m2 0h1M3 28.5h1m1 0h4m1 0h2m4 0h1m1 0h1m2 0h3m1 0h1m2 0h5m1 0h3M8 29.5h3m1 0h2m1 0h1m1 0h1m2 0h1m1 0h2m1 0h1m1 0h2m3 0h2m2 0h1M0 30.5h7m2 0h1m1 0h2m2 0h2m1 0h1m1 0h3m2 0h1m2 0h1m1 0h1m1 0h5M0 31.5h1m5 0h1m2 0h1m2 0h1m3 0h4m2 0h3m2 0h2m3 0h2m1 0h2M0 32.5h1m1 0h3m1 0h1m4 0h3m1 0h1m1 0h2m1 0h2m4 0h1m1 0h5m3 0h1M0 33.5h1m1 0h3m1 0h1m1 0h3m1 0h3m3 0h1m1 0h1m2 0h1m1 0h1m2 0h3m1 0h1m1 0h3M0 34.5h1m1 0h3m1 0h1m1 0h1m1 0h4m4 0h1m1 0h4m1 0h1m1 0h6M0 35.5h1m5 0h1m1 0h1m1 0h1m4 0h1m2 0h3m1 0h1m1 0h4m2 0h1m2 0h2M0 36.5h7m1 0h1m3 0h1m1 0h1m2 0h1m2 0h1m1 0h1m1 0h4m2 0h1m1 0h5<!--vb:37-->",
+        "startDate": "2026-10-15",
+        "status": "Live",
+        "tableLayoutImage": null,
+        "tbeId": "TBE_BCDD9D",
+        "ticketPrice": null,
+        "ticketTiers": [
+          {
+            "currency": "MXN",
+            "id": "kvNGYnjbHptHw+a1ATtvSL49L3ma0Eu7hXAZ0k2xWpGm3THNk7SCo8Z12vrVJwKYt685zCmpdEKSedFmtDIb8w==",
+            "isTable": false,
+            "name": "General Admission + Mezcal & Beer | 10:00 Pm",
+            "price": 190,
+            "priceWithFees": 190,
+            "sortOrder": 1,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "vl6tFld5ADF9r+cG+myP06d7aCR7/acm+8GPnryku/pBr76GasZEhAX8BqsdLIGlxC+hQYbuEJ0R4xoDfp9veA==",
+            "isTable": false,
+            "name": "Dinner + Party | 8:00 Pm",
+            "price": 935,
+            "priceWithFees": 935,
+            "sortOrder": 2,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "4LN77AnaUvMexra8VvbYRoQcYxr1U8B/eOLvL6xk0J3/qTod8rBpUGQX61lCb5KBjX++ZuwDgFzIim4SGXUy6g==",
+            "isTable": false,
+            "name": "Open Bar | 10:00 Pm",
+            "price": 1650,
+            "priceWithFees": 1650,
+            "sortOrder": 3,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "NxhtWW0gyr+I7r2PdpMpH+46oR0wuwteeidSYrbvyrbgk1gMZjA7DtEhc9sEoknp2vRsv9NgiRRoiJT1Bh3U9A==",
+            "isTable": true,
+            "name": "VIP Villa | After Dark | 8 Ppl",
+            "price": 18000,
+            "priceWithFees": 18000,
+            "sortOrder": 4,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "sabmlDQqrA9gb+KjmLQ0+YGAzJkSIHPKNzs/SDON4UaUfMsNVjLaS1QFPCVjKxDU6Rn5GYFcnDASLgaOtcWp/A==",
+            "isTable": true,
+            "name": "Back Stage | 10 Ppl",
+            "price": 25000,
+            "priceWithFees": 25000,
+            "sortOrder": 5,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "6k6FEQQkC3qdjiMdAQmZdUDKn5jflhBJPUYx+75iYrGkJCXjwxpjTFTCRtKEw0uaqm/sQTEVUUDxyaDV9mEZWQ==",
+            "isTable": true,
+            "name": "Black Table | 6 Ppl",
+            "price": 15000,
+            "priceWithFees": 15000,
+            "sortOrder": 6,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "wF7xJST8MFfRewfv2ePRH5KJBwUrCYDa34UUbU+8O+xluJQShPA5kiBuvQcX/9MkQVASkKcdVpnrFI7/pKhNhg==",
+            "isTable": true,
+            "name": "Premium Lounges | 6 Ppl",
+            "price": 10000,
+            "priceWithFees": 10000,
+            "sortOrder": 7,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "afOQvwQbDahjPLhDn1qQOQfCbzQUvqNLVtXRqre6w3B5m0copTJX27qcma24teVIfKnm9MODEIZ6VkT9CNsjcA==",
+            "isTable": true,
+            "name": "One Night + Mera Room | Dinner | 2 Ppl",
+            "price": 3190,
+            "priceWithFees": 3190,
+            "sortOrder": 8,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          }
+        ],
+        "time": "18:00 - 23:00",
+        "url": "https://tf.link/ia6icp9h",
+        "venueName": "Gitano Beach",
+        "venueSlug": "gitano-beach",
+        "vipLink": null,
+        "vipPrice": null
+      },
+      "convexId": "j57famw210n1n01j6pyyngdefs8ef9xp",
+      "lastUpdated": "2026-09-18T00:55:14.293Z",
+      "locales": {
+        "en": {
+          "body": "<h2>Mera Room Moves from Sunset into Late Night</h2><p>Mera Room takes over Gitano Beach on Thursday, October 15th, 2026 for a beach party that moves from sunset into late night. The night runs from 7PM to late. DJs connect the early evening with a higher-energy party after dark. Dinner and cocktails are part of the format, so you can begin at a table before moving onto the sand to dance.</p><h3>DJs in a Room Built Around Sunset</h3><p>Music carries the party from its relaxed opening into the busier late-night stretch. Gitano Beach’s regular DJ programme spans deep house, tropical house, nu-disco, indie dance and melodic house. The venue normally hosts DJs from Thursday through Sunday, linking its daytime beach setup with dancing around sunset. Recurring sessions include Full Moon Rising, Gypsy Disco, Sunset Fiesta and Las Gitanas. GITANO Records also releases playlists, live recordings and sets focused on organic house, deep house, downtempo and disco house.</p><h3>Open-Fire Mexican Food and Mezcal Cocktails</h3><p>The regular menu combines modern Mexican cooking with Mediterranean touches. The open-fire kitchen prepares grilled seafood, roasted meats, tacos and vegetable plates. Cochinita pibil tacos with habanero and salsa verde cost 320 MXN, while the Baja California hamachi tostada is 380 MXN and aguachile is 425 MXN. The drinks list centres on mezcal, including Kisses in the Car with rum, passion fruit and tangerine habanero. Menu labels identify gluten-free, nut-free, vegetarian and dairy-free dishes, and guests with allergies should tell their waiter before ordering.</p><h3>A Social Setup for Couples and Groups</h3><p>The venue is designed for a social beach-club crowd rather than a quiet day on the sand. Its usual guests include international visitors, couples and groups celebrating together. Lounge chairs, single sunbeds, double beach beds and beach suites provide different amounts of space during regular service. Towels are available for a separate rental fee. For Mera Room, the mood shifts from seated sunset drinks and dinner toward DJs and dancing after dark.</p><h3>Plan for a 7PM Start at KM 9.5</h3><p>Mera Room starts at 7PM on Thursday, October 15th, 2026 and continues until late. Gitano Beach is at Av Boca Paila KM 9.5, Tulum Beach, Zona Costera, 77780 Tulum, Q.R. The beach club’s standard hours are 11 AM to 11 PM, and its regular food service runs from 11 AM to 9 PM. </p>",
+          "description": "Mera Room brings a sunset-to-late-night beach party with DJs, dinner, mezcal cocktails and dancing beneath a giant disco ball across 120 metres of sand.",
+          "hubBlurb": "",
+          "name": "Mera Room",
+          "slug": "mera-room-x-gitano-beach-15oct2026",
+          "tableInformation": ""
+        },
+        "es": {
+          "body": "<h2>Mera Room se traslada desde la puesta de sol hasta bien entrada la noche</h2><p>Mera Room se apodera de Gitano Beach el jueves 15 de octubre de 2026 para celebrar una fiesta en la playa que se prolongará desde la puesta de sol hasta bien entrada la noche. La velada durará desde las 19:00 h hasta bien entrada la madrugada. Los DJ enlazarán las primeras horas de la noche con una fiesta aún más animada al caer la noche. La cena y los cócteles forman parte del programa, así que podrás empezar en una mesa antes de pasar a la arena a bailar.</p><h3>DJ en una sala diseñada para la puesta de sol</h3><p>La música lleva la fiesta desde su relajado comienzo hasta el tramo más animado de la madrugada. La programación habitual de DJ de Gitano Beach abarca deep house, tropical house, nu-disco, indie dance y melodic house. El local suele acoger a DJ de jueves a domingo, uniendo su ambiente diurno de playa con el baile al atardecer. Entre las sesiones recurrentes se incluyen Full Moon Rising, Gypsy Disco, Sunset Fiesta y Las Gitanas. GITANO Records también publica listas de reproducción, grabaciones en directo y sesiones centradas en el organic house, el deep house, el downtempo y el disco house.</p><h3>Comida mexicana a la brasa y cócteles de mezcal</h3><p>La carta habitual combina la cocina mexicana moderna con toques mediterráneos. La cocina a la brasa prepara marisco a la parrilla, carnes asadas, tacos y platos de verduras. Los tacos de cochinita pibil con habanero y salsa verde cuestan 320 MXN, mientras que la tostada de hamachi de Baja California cuesta 380 MXN y el aguachile, 425 MXN. La carta de bebidas se centra en el mezcal, incluyendo el Kisses in the Car, con ron, maracuyá y habanero de mandarina. Las etiquetas del menú identifican los platos sin gluten, sin frutos secos, vegetarianos y sin lácteos, y los comensales con alergias deben informar al camarero antes de pedir.</p><h3>Un ambiente social para parejas y grupos</h3><p>El local está pensado para un público sociable propio de un club de playa, más que para un día tranquilo en la arena. Entre sus clientes habituales se encuentran visitantes internacionales, parejas y grupos que celebran juntos. Las tumbonas, las camas de sol individuales, las camas de playa dobles y las suites de playa ofrecen diferentes niveles de espacio durante el horario habitual. Las toallas están disponibles por un precio de alquiler adicional. En el Mera Room, el ambiente pasa de las copas al atardecer y la cena sentados a los DJ y el baile al caer la noche.</p><h3>Planea llegar a las 19:00 h al KM 9,5</h3><p>Mera Room abre a las 19:00 h el jueves 15 de octubre de 2026 y continúa hasta bien entrada la noche. Gitano Beach se encuentra en Av. Boca Paila, KM 9,5, Playa de Tulum, Zona Costera, 77780 Tulum, Q.R. El horario habitual de beach club es de 11:00 a 23:00, y su servicio de comida habitual es de 11:00 a 21:00. </p>",
+          "description": "Mera Room ofrece una fiesta en la playa desde la puesta de sol hasta bien entrada la noche, con DJ, cena, cócteles de mezcal y baile bajo una bola de discoteca gigante a lo largo de 120 metros de arena.",
+          "hubBlurb": "",
+          "name": "Mera Room",
+          "slug": "mera-room-x-gitano-beach-15oct2026",
+          "tableInformation": ""
+        }
+      }
+    },
     {
       "base": {
         "afterEnd": "archive",
