@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-18T20:00:26.909Z",
+  "syncedAt": "2026-09-18T20:04:47.050Z",
   "citySlug": "tulum",
   "events": [
     {
@@ -8,7 +8,7 @@
         "buyLink": "https://wa.me/529841301037?text=Hello!%20I'm%20interested%20in%20tables%20for%20Adam%20Port%20Tulum%202027",
         "categoryIds": [],
         "cta": "Tables",
-        "displayPrice": "USD $110",
+        "displayPrice": "USD $1,040",
         "endDate": "2027-01-11T08:00",
         "eventType": "Festival",
         "faqIds": [
@@ -40,7 +40,35 @@
         "tableLayoutImage": null,
         "tbeId": "TBE_KRPD38",
         "ticketPrice": "USD $110",
-        "ticketTiers": null,
+        "ticketTiers": [
+          {
+            "currency": "USD",
+            "id": "manual-1789761839717-0",
+            "isTable": false,
+            "name": "General Admission + Hotel Na’ala (2 PAX)",
+            "price": 1040,
+            "sortOrder": 0,
+            "status": "on_sale"
+          },
+          {
+            "currency": "USD",
+            "id": "manual-1789761839717-1",
+            "isTable": false,
+            "name": "Backstage + Hotel Na’ala (2 PAX)",
+            "price": 2532,
+            "sortOrder": 1,
+            "status": "on_sale"
+          },
+          {
+            "currency": "USD",
+            "id": "manual-1789761839717-2",
+            "isTable": false,
+            "name": "Backstage + Hotel Zamna (2 PAX)",
+            "price": 3682,
+            "sortOrder": 2,
+            "status": "on_sale"
+          }
+        ],
         "time": "22:00 - 08:00",
         "url": null,
         "venueName": "Zamna Tulum",
