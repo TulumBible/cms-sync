@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-17T04:38:38.686Z",
+  "syncedAt": "2026-09-18T02:54:48.794Z",
   "citySlug": "tulum",
   "faqs": [
     {
@@ -6269,6 +6269,116 @@
         "es": {
           "answer": "<p>No. Una <strong>tarifa de servicio del 15%</strong> se paga aparte en el evento, junto con el saldo pendiente, y no cuenta como crédito de consumo.</p>",
           "name": "¿La tarifa de servicio está incluida en el precio de la mesa en Zamna?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "are-the-weekly-music-nights-at-el-barrio-free"
+      },
+      "convexId": "k575esdebter0yyn5s5293ery98emjcb",
+      "lastUpdated": "2026-09-18T02:38:40.700Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. House Happy Hours on Fridays, Funky Brunch on Sundays and Disco Dining on Thursdays are all completely free with no purchase necessary. Friday happy hour includes unlimited Mundo Maya beers and hard seltzers, and Thursday includes free pizza.",
+          "name": "Are the weekly music nights at El Barrio free?"
+        },
+        "es": {
+          "answer": "Sí. Las Happy Hours de los viernes, el Funky Brunch de los domingos y la Disco Dining de los jueves son totalmente gratis, sin necesidad de realizar ninguna compra. La happy hour del viernes incluye cervezas y refrescos con alcohol Mundo Maya ilimitados, y la del jueves incluye pizza gratis.",
+          "name": "¿Son gratuitas las noches musicales semanales en El Barrio?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "what-are-el-barrio-s-opening-hours"
+      },
+      "convexId": "k57bksxn34k4sgmg4fg8yjn3358entt9",
+      "lastUpdated": "2026-09-18T02:38:40.700Z",
+      "locales": {
+        "en": {
+          "answer": "The venue is open Monday through Thursday from 4pm to midnight, Friday from 4pm to 2am, Saturday from 11am to 2am, and Sunday from 11am to midnight.",
+          "name": "What are El Barrio's opening hours?"
+        },
+        "es": {
+          "answer": "El local abre de lunes a jueves de 16:00 a medianoche, los viernes de 16:00 a las 2:00, los sábados de 11:00 a las 2:00 y los domingos de 11:00 a medianoche.",
+          "name": "¿Cuál es el horario de apertura de El Barrio?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "do-i-need-a-reservation-at-el-barrio-tulum"
+      },
+      "convexId": "k573dnd0yfay8n5gzft3k8za8x8emy1j",
+      "lastUpdated": "2026-09-18T02:38:40.700Z",
+      "locales": {
+        "en": {
+          "answer": "The free weekly nights need no purchase and you can walk in. For a table, pool club spot, event or bottle service, you can request a reservation through the venue page on Tulum Bible.",
+          "name": "Do I need a reservation at El Barrio Tulum?"
+        },
+        "es": {
+          "answer": "Las noches semanales gratuitas no requieren compra alguna y puedes acudir sin cita previa. Para reservar una mesa, una plaza en el club de billar, un evento o el servicio de botellas, puedes solicitar una reserva a través de la página del local en Tulum Bible.",
+          "name": "¿Es necesario reservar en El Barrio Tulum?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "what-kind-of-music-does-el-barrio-play"
+      },
+      "convexId": "k572q5x6my4h6z6easfcj3stsd8en9vh",
+      "lastUpdated": "2026-09-18T02:38:40.700Z",
+      "locales": {
+        "en": {
+          "answer": "The programming centers on Chicago house, underground, organic and melodic house, plus afro, disco, neo-soul, R&B and jazz, with regular vinyl DJ sets and live Latin nights featuring salsa and bachata.",
+          "name": "What kind of music does El Barrio play?"
+        },
+        "es": {
+          "answer": "La programación se centra en el house de Chicago, el underground, el house orgánico y melódico, además de música afro, disco, neo-soul, R&amp;B y jazz, con sesiones regulares de DJ en vinilo y noches latinas en directo con salsa y bachata.",
+          "name": "¿Qué tipo de música suena en El Barrio?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "what-food-and-drinks-does-el-barrio-serve"
+      },
+      "convexId": "k5784rb1v95yx662jwcmnq6y9d8enmfh",
+      "lastUpdated": "2026-09-18T02:38:40.700Z",
+      "locales": {
+        "en": {
+          "answer": "The kitchen serves Chicago-style deep-dish pizza, pasta, tacos and starters, with prices such as truffle fries at 150 MXN and prosciutto-wrapped shrimp at 210. The taproom pours local Mundo Maya craft beer and hard seltzers alongside cocktails, highballs and wine.",
+          "name": "What food and drinks does El Barrio serve?"
+        },
+        "es": {
+          "answer": "La cocina ofrece pizza de masa gruesa al estilo de Chicago, pasta, tacos y entrantes, con precios como las patatas fritas con trufa a 150 MXN y las gambas envueltas en prosciutto a 210. La taberna sirve cerveza artesanal local Mundo Maya y refrescos con alcohol, además de cócteles, highballs y vino.",
+          "name": "¿Qué comida y bebida se sirve en El Barrio?"
         }
       }
     }
