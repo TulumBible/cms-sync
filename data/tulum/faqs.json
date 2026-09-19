@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-19T19:25:28.498Z",
+  "syncedAt": "2026-09-19T20:00:25.274Z",
   "citySlug": "tulum",
   "faqs": [
     {
@@ -7127,6 +7127,116 @@
         "es": {
           "answer": "El local abre todas las noches; la cocina abre sobre las 18:30 y el local permanece abierto hasta aproximadamente las 2:00 o las 2:30 de la madrugada.",
           "name": "¿Cuál es el horario de apertura de Obsidiana?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "does-atta-take-reservations"
+      },
+      "convexId": "k57b84r3veab6r1n8cwcvpnn2n8eq3s2",
+      "lastUpdated": "2026-09-19T19:40:29.308Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. Atta takes reservations for both the restaurant and the cenote club, and you can book through the venue page on Tulum Bible.",
+          "name": "Does Atta take reservations?"
+        },
+        "es": {
+          "answer": "Yes. Atta takes reservations for both the restaurant and the cenote club, and you can book through the venue page on Tulum Bible.",
+          "name": "Does Atta take reservations?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "is-atta-adults-only"
+      },
+      "convexId": "k575x2pedc18mpdgn1jtxh5ej98eq5sd",
+      "lastUpdated": "2026-09-19T19:40:29.308Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. Atta and the Tuuch Cenote Club are adults only, for guests aged 18 and over.",
+          "name": "Is Atta adults only?"
+        },
+        "es": {
+          "answer": "Yes. Atta and the Tuuch Cenote Club are adults only, for guests aged 18 and over.",
+          "name": "Is Atta adults only?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "how-much-is-a-day-pass-at-the-tuuch-cenote-club"
+      },
+      "convexId": "k57awc95a5w6dfa6901a3k9jjx8eqpes",
+      "lastUpdated": "2026-09-19T19:40:29.308Z",
+      "locales": {
+        "en": {
+          "answer": "A lounge chair is 1,800 MXN per person, a daybed is 4,500 MXN for up to two people, and a Balinese cabana is 8,000 MXN for up to four. Each pass includes a welcome drink and towels.",
+          "name": "How much is a day pass at the Tuuch Cenote Club?"
+        },
+        "es": {
+          "answer": "A lounge chair is 1,800 MXN per person, a daybed is 4,500 MXN for up to two people, and a Balinese cabana is 8,000 MXN for up to four. Each pass includes a welcome drink and towels.",
+          "name": "How much is a day pass at the Tuuch Cenote Club?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "what-are-atta-s-opening-hours"
+      },
+      "convexId": "k5701tbq6cp65r455bcjtmygjh8eq3yp",
+      "lastUpdated": "2026-09-19T19:40:29.308Z",
+      "locales": {
+        "en": {
+          "answer": "Atta is open every day from 7:30 AM to 10:30 PM, serving breakfast, lunch and dinner.",
+          "name": "What are Atta's opening hours?"
+        },
+        "es": {
+          "answer": "Atta is open every day from 7:30 AM to 10:30 PM, serving breakfast, lunch and dinner.",
+          "name": "What are Atta's opening hours?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "does-atta-have-parking"
+      },
+      "convexId": "k57ad049b60hpwa7e6qkfqxkp18ep5te",
+      "lastUpdated": "2026-09-19T19:40:29.308Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. There is free parking on site, and you enter through the main security gate of the Shibari hotel.",
+          "name": "Does Atta have parking?"
+        },
+        "es": {
+          "answer": "Yes. There is free parking on site, and you enter through the main security gate of the Shibari hotel.",
+          "name": "Does Atta have parking?"
         }
       }
     }
