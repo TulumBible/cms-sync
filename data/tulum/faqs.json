@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-19T21:19:56.422Z",
+  "syncedAt": "2026-09-19T21:32:45.680Z",
   "citySlug": "tulum",
   "faqs": [
     {
@@ -7501,6 +7501,116 @@
         "es": {
           "answer": "No, no se admiten perros en el recinto.",
           "name": "¿Se admiten perros en La Zebra Mediterranean?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "do-i-need-a-reservation-for-mezzanine"
+      },
+      "convexId": "k5787zxe8bzs833g5xaacbfq2d8ep0yg",
+      "lastUpdated": "2026-09-19T21:32:24.142Z",
+      "locales": {
+        "en": {
+          "answer": "The restaurant accepts reservations and they are recommended for dinner. Book your table directly through Tulum Bible.",
+          "name": "Do I need a reservation for Mezzanine?"
+        },
+        "es": {
+          "answer": "El restaurante admite reservas, que se recomiendan para la cena. Reserva tu mesa directamente a través de Tulum Bible.",
+          "name": "¿Es necesario reservar mesa en Mezzanine?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "where-is-mezzanine-located"
+      },
+      "convexId": "k57fsa4ydhfe8m0568k1fyg7fd8epmj7",
+      "lastUpdated": "2026-09-19T21:32:24.142Z",
+      "locales": {
+        "en": {
+          "answer": "The venue is at kilometer 4.4 on the Carretera Tulum-Boca Paila in the Hotel Zone. It sits inside Jaguar National Park, which requires a visitor conservation fee at the gate.",
+          "name": "Where is Mezzanine located?"
+        },
+        "es": {
+          "answer": "El lugar se encuentra en el kilómetro 4,4 de la carretera Tulum-Boca Paila, en la Zona Hotelera. Se encuentra dentro del Parque Nacional Jaguar, por lo que hay que abonar una tasa de conservación para visitantes en la entrada.",
+          "name": "¿Dónde está situado Mezzanine?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "does-the-restaurant-have-vegetarian-options"
+      },
+      "convexId": "k57fh0xg6wf5qazetxmzqge9pd8ep3qb",
+      "lastUpdated": "2026-09-19T21:32:24.142Z",
+      "locales": {
+        "en": {
+          "answer": "Yes, the kitchen serves vegetarian dishes. The Thai menu is prepared to order without MSG or refined sugars, using fresh herbs and coconut milk.",
+          "name": "Does the restaurant have vegetarian options?"
+        },
+        "es": {
+          "answer": "Sí, la cocina ofrece platos vegetarianos. El menú tailandés se prepara al momento, sin glutamato monosódico ni azúcares refinados, utilizando hierbas frescas y leche de coco.",
+          "name": "¿El restaurante ofrece opciones vegetarianas?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "what-are-the-opening-hours-4"
+      },
+      "convexId": "k574chz5zzajn3asne3vhrdz5d8epb95",
+      "lastUpdated": "2026-09-19T21:32:24.142Z",
+      "locales": {
+        "en": {
+          "answer": "The restaurant is open daily from 8:00 AM to 10:00 PM. The bar hosts a two-for-one happy hour from 4 PM to 6 PM.",
+          "name": "What are the opening hours?"
+        },
+        "es": {
+          "answer": "El restaurante abre todos los días de 8:00 a 22:00. El bar ofrece una hora feliz con la oferta de dos por uno de 16:00 a 18:00.",
+          "name": "¿Cuál es el horario de apertura?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "is-there-parking-at-the-restaurant"
+      },
+      "convexId": "k578tt4rn5wveaqxmvabvj2f4h8ep8am",
+      "lastUpdated": "2026-09-19T21:32:24.142Z",
+      "locales": {
+        "en": {
+          "answer": "Yes, the property offers free parking for guests.",
+          "name": "Is there parking at the restaurant?"
+        },
+        "es": {
+          "answer": "Sí, el establecimiento ofrece aparcamiento gratuito para los huéspedes.",
+          "name": "¿Hay aparcamiento en el restaurante?"
         }
       }
     }

@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-19T21:19:56.283Z",
+  "syncedAt": "2026-09-19T21:32:45.593Z",
   "citySlug": "tulum",
   "venues": [
     {
@@ -2514,6 +2514,110 @@
           "metaDescription": "La Zebra Mediterranean: restaurante frente al mar en Tulum. Pizzas al horno de leña y marisco caribeño. Reserva tu mesa.",
           "name": "La Zebra Mediterranean",
           "slug": "la-zebra-mediterranean",
+          "tableInformation": ""
+        }
+      }
+    },
+    {
+      "base": {
+        "amenityIds": [
+          "jn785e6n78fzxfq3e6yc4z206s858vs7",
+          "jn70zn5gpwjkfxwnbkd4948rv5859d8d",
+          "jn74axgjrqtsa18w8nxttnxfg5859e39"
+        ],
+        "area": "hotel-zone",
+        "category": "restaurant",
+        "consumptionPackages": [],
+        "drinkMenuUrl": "",
+        "faqIds": [
+          "k5787zxe8bzs833g5xaacbfq2d8ep0yg",
+          "k57fsa4ydhfe8m0568k1fyg7fd8epmj7",
+          "k57fh0xg6wf5qazetxmzqge9pd8ep3qb",
+          "k574chz5zzajn3asne3vhrdz5d8epb95",
+          "k578tt4rn5wveaqxmvabvj2f4h8ep8am"
+        ],
+        "foodMenuUrl": "",
+        "googleMapsCode": "5HW7+X3 Tulum, Quintana Roo, Mexico",
+        "googlePlaceId": "ChIJl06ik1TRT48Rt8_tbs3AnhU",
+        "hideReservationForm": false,
+        "hubImage": null,
+        "images": [
+          {
+            "alt": "Mezzanine's beachfront terrace with wooden tables and woven chairs shaded by a canvas canopy and leafy trees, overlooking",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/f06d675a-6fb3-40e6-26be-7f4ce0f8fa00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Mezzanine terrace at dusk with diners seated at tables under sail shade structures and hanging lanterns overlooking the",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/70bbfcdb-3cb8-42e6-a05c-6fab58a1bd00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Mezzanine beach club with thatched-roof structures, wooden decks, and canvas shade sails surrounded by tropical vegetation",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/6a64f87c-d79d-454e-5faf-ce7f61cfc300/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Mezzanine terrace with dining table overlooking turquoise Caribbean waters and white sand beach in Tulum",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/4d49cd80-d1eb-46c2-aedb-04e0f43ab700/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Mezzanine beachfront terrace with wooden tables shaded by large trees, guests dining and relaxing with ocean view",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/ab8d2b70-deef-44ce-0348-7d3977f92400/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Guests enjoy drinks and food at Mezzanine's beachfront bar with ocean views and tropical vegetation in the background.",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/71eeb75a-a37a-4d37-0a03-0c33dc726300/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Aerial view of Mezzanine beachfront venue nestled between turquoise Caribbean waters and dense jungle vegetation in Tulum.",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/e07fd84c-c6e3-49ab-bcb9-2de4d3fe0600/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Mezzanine's beachfront terrace with turquoise pool, palm trees, dining tables, and Caribbean Sea views under clear sky.",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/89d4f2f8-d0e7-4712-49d6-de3029e0b100/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Chefs prepare food at Mezzanine's beachfront dining setup with turquoise ocean and sky visible beyond the wooden terrace.",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/a7184373-cdd6-4293-52a4-35a7a64cc400/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          }
+        ],
+        "isClosed": false,
+        "isFeatured": false,
+        "isFeaturedOnCoreTulum": false,
+        "isHiddenFromHubs": false,
+        "openingHoursHtml": "<p>08:00 - 22:00</p><p>08:00 - 22:00</p><p>08:00 - 22:00</p><p>08:00 - 22:00</p><p>08:00 - 22:00</p><p>08:00 - 22:00</p><p>08:00 - 22:00</p>",
+        "priority": 5,
+        "promotion": "normal",
+        "publishedAt": null,
+        "reelUrl": "",
+        "reviewIds": [],
+        "tableLayoutImage": null,
+        "tags": [],
+        "tbvId": "TBV_BBSGHR"
+      },
+      "convexId": "jh7cfcr5wt549yns0fw801p1vh8ep8a1",
+      "lastUpdated": "2026-09-19T21:32:26.812Z",
+      "locales": {
+        "en": {
+          "address": "Carretera Tulum-Boca Paila Km 4.4, Zona Hotelera Tulum, Zona Hotelera, Tulum",
+          "body": "<h2>Cliffside Thai Dining at Mezzanine Tulum</h2>\n<p>The venue is an oceanfront Thai restaurant and boutique hotel built into the rocky coastline of Jaguar National Park. Operating since 2004, the property centers on an open-air dining terrace that looks directly over the Caribbean Sea. The site runs on solar power and recycled rainwater, maintaining a quiet, secluded atmosphere away from the heavier traffic of the southern beach strip. Guests access the beach directly from the deck, where hammocks hang near the water.</p>\n<p>The dining room serves authentic Thai cuisine alongside a coastal Mexican breakfast and lunch menu. Background chill house music plays during the day, catering mostly to adult couples and returning visitors.</p>\n<h3>Traditional Curries and Fresh Coconut Milk</h3>\n<p>The kitchen operates under the guidance of Executive Chef Liliana López, Thai consultant Dim Geefay, and resident chef Jakkree Putaruk. The menu avoids processed sugar and MSG entirely. Chefs sweeten dishes with local piloncillo and press fresh coconut milk on site for the curries. Standout dishes include a rich Massaman curry, Pad Thai served in a banana leaf, and Gai Pad Grapow made with fried ground chicken breast, Thai basil, and habanero.</p>\n<p>A daytime beach menu at mezzanine restaurant tulum leans into local seafood. The kitchen prepares passionfruit ceviche, fried grouper tacos with papaya-mint salad, and a crispy whole hogfish served with mango salad. The bar runs a daily two-for-one happy hour from 4 PM to 6 PM. Signature drinks include the spicy Tamarind Tiger cocktail.</p>\n<h3>Reserve a Table on the Oceanfront Deck</h3>\n<p>The mezzanine boutique hotel tulum sits at kilometer 4.4 on the Carretera Tulum-Boca Paila. Because the property is located inside Jaguar National Park, visitors must pay a government conservation fee at the entrance gate to access the road. The venue provides free parking for guests. The crowd remains low-key, drawing travelers who prefer a quiet sanctuary over a large social hub.</p>\n<p>Service runs daily from 8:00 AM to 10:00 PM. The dining room takes reservations, which are recommended for evening meals. Book your table at mezzanine tulum through the venue page on Tulum Bible to secure a spot on the cliffside terrace.</p>",
+          "coverCharge": "",
+          "description": "Mezzanine serves authentic Thai cuisine from an open-air cliffside terrace overlooking the Caribbean Sea. The kitchen presses fresh coconut milk daily for its curries.",
+          "hubBlurb": "<p>Mezzanine is an <strong>oceanfront Thai restaurant and boutique hotel inside Jaguar National Park</strong>, set on a rocky stretch of coastline around Km 4.4. Its open-air terrace looks directly over the Caribbean, with beach access below and a quieter atmosphere than the busier southern end of the Hotel Zone.</p><p>The restaurant is best known for <strong>traditional Thai cooking</strong>, including Massaman curry, Pad Thai and Gai Pad Grapow, alongside a daytime Mexican and seafood menu. Fresh coconut milk is pressed on site for the curries, and the kitchen avoids MSG and processed sugar. The bar also runs a <strong>two-for-one happy hour from 4 PM to 6 PM</strong>.</p><p>Mezzanine works especially well for a relaxed lunch, sunset drinks or dinner by the water rather than a full beach-club day. Because it sits inside Jaguar National Park, visitors need to pay the park’s government conservation fee to access the road.</p><p><strong>Best for:</strong> Thai food, couples, oceanfront dining, sunset drinks and a quieter meal by the beach.</p>",
+          "menuDescription": "Authentic Thai cuisine and coastal Mexican seafood, featuring fresh-pressed coconut milk curries and crispy whole hogfish.",
+          "metaDescription": "Book a table at this Hotel Zone Thai restaurant. Mezzanine pairs cliffside Caribbean views with traditional curries and fresh-pressed coconut milk.",
+          "name": "Mezzanine",
+          "slug": "mezzanine",
+          "tableInformation": ""
+        },
+        "es": {
+          "address": "Carretera Tulum-Boca Paila Km 4.4, Zona Hotelera Tulum, Zona Hotelera, Tulum",
+          "body": "<h2>Cliffside Thai Dining en Mezzanine Tulum</h2>\n<p>El local es un restaurante tailandés frente al mar y un hotel boutique construido en la costa rocosa del Parque Nacional Jaguar. En funcionamiento desde 2004, el establecimiento gira en torno a una terraza de comedor al aire libre con vistas directas al mar Caribe. El lugar funciona con energía solar y agua de lluvia reciclada, lo que le permite mantener un ambiente tranquilo y apartado, lejos del ajetreo de la franja de playas del sur. Los huéspedes acceden a la playa directamente desde la terraza, donde hay hamacas colgadas cerca del agua.</p>\n<p>El comedor sirve auténtica cocina tailandesa, además de un menú de desayuno y almuerzo de estilo costero mexicano. Durante el día suena de fondo música chill house, dirigida principalmente a parejas adultas y a visitantes habituales.</p>\n<h3>Currys tradicionales y leche de coco fresca</h3>\n<p>La cocina funciona bajo la dirección de la chef ejecutiva Liliana López, la consultora tailandesa Dim Geefay y el chef residente Jakkree Putaruk. El menú prescinde por completo del azúcar refinado y del glutamato monosódico. Los chefs endulzan los platos con piloncillo local y exprimen leche de coco fresca in situ para los currys. Entre los platos más destacados se encuentran un intenso curry Massaman, el Pad Thai servido en hoja de plátano y el Gai Pad Grapow, elaborado con pechuga de pollo picada y frita, albahaca tailandesa y habanero.</p>\n<p>El menú diurno de playa del restaurante Tulum, situado en el entresuelo, se centra en el marisco local. La cocina prepara ceviche de maracuyá, tacos de mero frito con ensalada de papaya y menta, y un crujiente pez cerdo entero servido con ensalada de mango. El bar ofrece una hora feliz diaria de dos por uno de 16:00 a 18:00. Entre las bebidas estrella se encuentra el cóctel picante Tamarind Tiger.</p>\n<h3>Reserva una mesa en la terraza frente al mar</h3>\n<p>El hotel boutique Mezzanine Tulum se encuentra en el kilómetro 4,4 de la Carretera Tulum-Boca Paila. Dado que el establecimiento está situado dentro del Parque Nacional del Jaguar, los visitantes deben abonar una tasa de conservación del gobierno en la puerta de entrada para acceder a la carretera. El establecimiento ofrece aparcamiento gratuito para los huéspedes. El ambiente es discreto y atrae a viajeros que prefieren un refugio tranquilo antes que un gran centro de vida social.</p>\n<p>El horario de atención es de 8:00 a 22:00 todos los días. El comedor admite reservas, que se recomiendan para las cenas. Reserva tu mesa en Mezzanine Tulum a través de la página del local en Tulum Bible para asegurarte un sitio en la terraza junto al acantilado.</p>",
+          "coverCharge": "",
+          "description": "Mezzanine ofrece auténtica cocina tailandesa desde una terraza al aire libre situada en un acantilado con vistas al mar Caribe. La cocina prepara a diario leche de coco fresca para sus currys.",
+          "hubBlurb": "<p>Mezzanine es un <strong>restaurante tailandés frente al mar y un hotel boutique situado en el Parque Nacional Jaguar</strong>, en un tramo rocoso de la costa cerca del km 4,4. Su terraza al aire libre ofrece vistas directas al Caribe, con acceso a la playa justo debajo y un ambiente más tranquilo que el del extremo sur de la Zona Hotelera, más concurrido.</p><p>El restaurante es famoso sobre todo por <strong>su cocina tailandesa tradicional</strong>, que incluye curry Massaman, Pad Thai y Gai Pad Grapow, además de un menú diurno de comida mexicana y marisco. La leche de coco fresca se exprime in situ para los currys, y la cocina evita el glutamato monosódico y el azúcar refinado. El bar también ofrece una <strong>hora feliz de dos por uno de 16:00 a 18:00</strong>.</p><p>Mezzanine es ideal para un almuerzo relajado, unas copas al atardecer o una cena junto al mar, más que para pasar un día completo en un club de playa. Al estar situado dentro del Parque Nacional Jaguar, los visitantes deben abonar la tasa de conservación del parque establecida por el gobierno para acceder a la carretera.</p><p><strong>Ideal para:</strong> comida tailandesa, parejas, cenas frente al mar, copas al atardecer y una comida más tranquila junto a la playa.</p>",
+          "menuDescription": "Auténtica cocina tailandesa y marisco de la costa mexicana, con currys elaborados con leche de coco recién exprimida y pez cerdo entero crujiente.",
+          "metaDescription": "Reserva en Mezzanine, restaurante tailandés en Zona Hotelera con vistas al Caribe y currys tradicionales con leche de coco fresca",
+          "name": "Mezzanine",
+          "slug": "mezzanine",
           "tableInformation": ""
         }
       }
