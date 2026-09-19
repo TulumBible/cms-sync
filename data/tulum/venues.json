@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-19T16:53:58.392Z",
+  "syncedAt": "2026-09-19T17:12:40.118Z",
   "citySlug": "tulum",
   "venues": [
     {
@@ -2371,6 +2371,115 @@
           "metaDescription": "Hotel beach club en la Zona Hotelera, km 7,5: tumbonas frente al mar, brunch dominical con DJ y restaurante con carta completa. Reserva en Tulum Bible",
           "name": "Tulumania",
           "slug": "tulumania",
+          "tableInformation": ""
+        }
+      }
+    },
+    {
+      "base": {
+        "amenityIds": [
+          "jn70zdmazn719gygc3k7335zxn859dvw",
+          "jn72f5n145a7gcvx7evwc8yzws8588h6",
+          "jn785e6n78fzxfq3e6yc4z206s858vs7",
+          "jn7fwddn9rz72mz61sn4tj4qbs85kb4h"
+        ],
+        "area": "hotel-zone",
+        "category": "beachclub",
+        "consumptionPackages": [
+          {
+            "capacity": 1,
+            "consumption": "1,300 MXN",
+            "key": "pkg-mu8n1z2u-29aw",
+            "note": "Includes Parking, Towel",
+            "noteEs": "Incluye aparcamiento y toalla",
+            "price": "1,400 MXN",
+            "title": "Daybed",
+            "titleEs": "Diván"
+          }
+        ],
+        "drinkMenuUrl": "",
+        "faqIds": [
+          "k5755kpwesb3djvze0g7285cwn8ep73q",
+          "k573dn9ykdxj35pyccbppq8pj18eqzm6",
+          "k573kha54pn61fmt2xag84knfh8epqzg",
+          "k57afmfph43jfrbn3z2wn412k58eq5nn",
+          "k57cs4s9vqkxy3wtq72t3jg06d8ep4hm",
+          "k5703qzk809s0j050xcm0fm8rn8epm03"
+        ],
+        "foodMenuUrl": "",
+        "googleMapsCode": "4GWR+82 Tulum, Quintana Roo",
+        "googlePlaceId": null,
+        "hideReservationForm": false,
+        "hubImage": null,
+        "images": [
+          {
+            "alt": "No \"image of\"? Yes. * No quotes? Yes. * No hashtags",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/b54c58e3-f774-4d1d-8b11-d070cd290e00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Shaded cushioned sofas surround a wooden coffee table in the relaxed open-air lounge and bar at",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/c99aa8c3-6530-4c30-dd69-5339aa58fe00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Blue chairs and floor cushions sit on the sunny outdoor patio at La Zebra under shade sails and thatched roofs.",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/39276964-8f14-4690-bec2-b40c39959e00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Colorful lounge chairs and a tiled bar stand under a shade sail on La Zebra's sunny open-air patio.",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/a431b5ed-076d-4272-6879-b45ebdaa8200/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "* Includes \"La Zebra\"? Yes (\"at La Zebra beach club in Tulum\"). 5.",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/26ac8309-03e0-419d-e88b-8f86774dbb00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Palm trees frame rows of beach daybeds on the sandy shore at La Zebra, looking out toward a calm ocean. (",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/d43dc62d-99bc-4354-0a05-2180e1759e00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "A colorful foosball table sits on a sunny, pink-walled outdoor terrace surrounded by tropical greenery at La Zebra.",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/280d560f-eb36-42ea-cae1-1818b44d3f00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          }
+        ],
+        "isClosed": false,
+        "isFeatured": false,
+        "isFeaturedOnCoreTulum": false,
+        "isHiddenFromHubs": false,
+        "openingHoursHtml": "<p>07:30 - 23:00</p><p>07:30 - 23:00</p><p>07:30 - 23:00</p><p>07:30 - 23:00</p><p>07:30 - 23:00</p><p>07:30 - 23:00</p><p>07:30 - 23:00</p>",
+        "priority": 3,
+        "promotion": "normal",
+        "publishedAt": null,
+        "reelUrl": "",
+        "reviewIds": [],
+        "tableLayoutImage": null,
+        "tags": [],
+        "tbvId": "TBV_TCHF2Q"
+      },
+      "convexId": "jh70z5hjn7ja3z8ap561ty6hdx8eqysp",
+      "lastUpdated": "2026-09-19T17:12:01.236Z",
+      "locales": {
+        "en": {
+          "address": "Carr. Tulum-Boca Paila Km 8.2, Tulum Beach, Zona Hotelera, 77780 Tulum, Q.R.",
+          "body": "<h2>La Zebra Tulum: Day Beds, Mexican Food and Live Salsa</h2>\n<p>This beachfront hotel and club sits at Km 8.2 on Carretera Tulum–Boca Paila. Thatched parasols and day beds line the sand in front of an open-air Mexican restaurant and bar. Wooden walkways connect the beach with the hotel, pools and garden areas. The venue draws couples, groups and families rather than operating as a late-night dance club. Weekends are more social, while the regular programme centers on dining, beach time and live music.</p>\n<p>The property offers two beach-club experiences. The main club focuses on Mexican coastal food and day beds with food and drink credit. Lula now called La Zebra Mediterranean adds a Mediterranean menu and a livelier social setting, with higher entry minimums. A beachfront sports bar screens games, while a separate cocktail programme has included the New York-based Mulberry Project. Rooftop and jungle pools, a yoga shala and treatment spaces sit elsewhere within the hotel.</p>\n<h3>Day-Bed Rates and What the Beach Package Includes</h3>\n<p>A day bed costs 1,400 MXN per person. Of that amount, 1,300 MXN becomes credit for food and drinks during the visit. The package also includes a sunbed, towel, parking and access to hotel facilities. The standard option belongs to the main club, where Mexican food and cocktails are served beside the beach. Reserve in advance when you want a specific date or plan to visit on a busy weekend.</p>\n<p>Children under 12 receive complimentary beach access, and the venue has a beachside jungle-gym playground for ages 4 to 12. The programme stays active without turning the daytime space into a late-night party room. For families, this is one of the more practical beach days on the hotel strip. Pets are not allowed at the hotel.</p>\n<h3>Mexican Coastal Cooking and an Eight-Seat Chef's Table</h3>\n<p>Executive Chef Eleazar Bonilla leads a menu built around Mexican coastal cooking. Ceviche, handmade tacos and regional seafood are recurring anchors, with produce sourced locally and from the hotel garden. Breakfast, lunch and dinner are served at the open-air restaurant facing the sea. Guests can also eat from oversized cushions on the beach. The Chef's Table seats eight people for an eight-course tasting menu prepared in view of the group.</p>\n<p>The Mediterranean side of the food programme covers wood-fired pizza, fresh pasta and shareable mezze. Craft cocktails sit alongside margaritas and mezcalitas, with a two-for-one happy-hour promotion on both drinks. The beachfront bar serves throughout the day and into the evening. Private dinners can also be arranged on the beach. Restaurant tables and beach-club day beds both accept advance reservations.</p>\n<h3>Sunday Salsa and Weekend Music on the Beach</h3>\n<p>Sunday brings a weekly salsa night with live Latin bands and dancing by the beach. Weekend programming also includes live music and DJ sessions, so these periods have more activity than a standard beach day. The venue has taken part in the Art With Me festival and has hosted concerts, line dancing and pool events. A June 2026 country-music weekend featured CJ Garton, while a four-day Super Bowl programme combined game screenings, DJs and pool parties. These special events vary, but Sunday salsa remains the regular weekly fixture.</p>\n<h3>Rooms, Pools and Wellness Beyond the Day Beds</h3>\n<p>The hotel has beachfront rooms, sea-view rooms, garden rooms, jungle rooms, casitas, suites and private villas. Several ground-floor suites and penthouses have plunge pools, while larger configurations sleep families and groups. Rooms are designed without televisions, keeping the focus on the beach and shared spaces. The property also has rooftop and jungle pools for different settings away from the sand. Wellness facilities include a beachfront yoga shala, ocean-view massages, botanical treatments, movement sessions, sound work and breath practices.</p>\n<h3>Hours, Location and How to Reserve</h3>\n<p>The venue is in the Hotel Zone at Km 8.2 on Carretera Tulum–Boca Paila. Breakfast runs from 7:30 AM to 11:30 AM. Lunch is served from noon to 5:30 PM, followed by dinner from 6:30 PM to 10 PM. The bar operates from 7:30 AM to 11 PM. Parking is available, and included with the day-bed package.</p>\n<p>Book your La Zebra Tulum day bed or restaurant table through this venue page on Tulum Bible. Choose a day bed when you want a reserved place on the sand with food and drink credit. Reserve a restaurant table when the meal is the focus of the visit. Sunday is the date to choose for the recurring salsa programme, while weekends generally have a more social atmosphere. Confirm the booking type before arrival because restaurant reservations and day-bed reservations are separate.</p>",
+          "coverCharge": "",
+          "description": "Thatched day beds sit beside a Mexican kitchen, craft cocktail bar and a family playground, with live Sunday salsa bands on the sand and free entry for children under 12.",
+          "hubBlurb": "<p>La Zebra is a <strong>beachfront hotel and beach club at Km 8.2 in the Hotel Zone</strong>, known for Mexican coastal food, day beds and a more relaxed social atmosphere than Tulum’s party-focused clubs.</p><p>A standard day bed costs around <strong>MX$1,400 per person</strong>, with <strong>MX$1,300 returned as food-and-drink credit</strong>. The package also includes a sunbed, towel, parking and access to hotel facilities, making it a straightforward option if you want to spend most of the day on the beach.</p><p>The main restaurant focuses on <strong>Mexican coastal cooking</strong>, with ceviche, handmade tacos and seafood, while <strong>La Zebra Mediterranean</strong> adds pizza, fresh pasta and mezze. Sundays are the most distinctive day to visit, with a regular <strong>live salsa night by the beach</strong>, while weekends generally bring more live music and social activity.</p><p><strong>Best for:</strong> Families, couples, Mexican food, Sunday salsa and a relaxed beach day with a clear food-and-drink credit.</p>",
+          "menuDescription": "Mexican coastal cooking centers on ceviche, handmade tacos and regional seafood, alongside wood-fired pizza and fresh pasta.",
+          "metaDescription": "La Zebra is a family-friendly beach club in Tulum's Hotel Zone, with 1,300 MXN dining credit included in its 1,400 MXN day-bed rate. Book on Tulum Bible.",
+          "name": "La Zebra",
+          "slug": "la-zebra-3",
+          "tableInformation": ""
+        },
+        "es": {
+          "address": "Carr. Tulum-Boca Paila Km 8.2, Tulum Beach, Zona Hotelera, 77780 Tulum, Q.R.",
+          "body": "<h2>La Zebra Tulum: tumbonas, comida mexicana y salsa en directo</h2>\n<p>Este hotel y club frente al mar se encuentra en el km 8,2 de la carretera Tulum–Boca Paila. Sombrillas con techo de paja y tumbonas se alinean en la arena frente a un restaurante y bar mexicano al aire libre. Pasarelas de madera conectan la playa con el hotel, las piscinas y las zonas ajardinadas. El local atrae sobre todo a parejas, grupos y familias, en lugar de funcionar como una discoteca nocturna. Los fines de semana son más animados, mientras que la oferta habitual se centra en la gastronomía, el tiempo en la playa y la música en directo.</p>\n<p>El establecimiento ofrece dos experiencias de club de playa. El club principal se centra en la gastronomía costera mexicana y cuenta con tumbonas con crédito para comida y bebida. Lula, ahora llamado La Zebra Mediterranean, aporta un menú mediterráneo y un ambiente social más animado, con un mínimo de consumo más elevado. Un bar deportivo frente al mar retransmite partidos, mientras que su programa de cócteles, independiente, ha contado con la participación del Mulberry Project, con sede en Nueva York. En otras zonas del hotel se encuentran el Rooftop, piscinas en la selva, una sala de yoga y espacios de tratamientos.</p>\n<h3>Tarifas de las tumbonas y lo que incluye el paquete de playa</h3>\n<p>Una tumbona cuesta 1.400 MXN por persona. De esa cantidad, 1.300 MXN se convierten en crédito para comida y bebida durante la visita. El paquete también incluye una hamaca, toalla, aparcamiento y acceso a las instalaciones del hotel. La opción estándar corresponde al club principal, donde se sirven comida mexicana y cócteles junto a la playa. Reserva con antelación si deseas una fecha concreta o tienes previsto visitar el lugar durante un fin de semana concurrido.</p>\n<p>Los niños menores de 12 años tienen acceso gratuito a la playa, y el recinto cuenta con un parque infantil tipo jungle gym junto a la playa para niños de 4 a 12 años. El programa se mantiene activo sin convertir el espacio diurno en una sala de fiestas nocturna. Para las familias, esta es una de las opciones más prácticas para pasar un día de playa en la zona hotelera. No se admiten mascotas en el hotel.</p>\n<h3>Cocina costera mexicana y una mesa del chef con ocho plazas</h3>\n<p>El chef ejecutivo Eleazar Bonilla dirige una carta basada en la cocina costera mexicana. El ceviche, los tacos artesanales y el marisco regional son los platos estrella, con productos de origen local y del huerto del hotel. El desayuno, el almuerzo y la cena se sirven en el restaurante al aire libre con vistas al mar. Los huéspedes también pueden comer en la playa, acomodados en cojines de gran tamaño. La mesa del chef tiene capacidad para ocho comensales y ofrece un menú degustación de ocho platos preparado a la vista del grupo.</p>\n<p>La vertiente mediterránea de la oferta gastronómica incluye pizza al horno de leña, pasta fresca y mezze para compartir. Los cócteles artesanales se combinan con margaritas y mezcalitas, con una promoción de dos por uno en la hora feliz para ambas bebidas. El bar frente al mar está abierto durante todo el día y hasta bien entrada la noche. También se pueden organizar cenas privadas en la playa. Tanto las mesas del restaurante como las tumbonas del club de playa admiten reservas con antelación.</p>\n<h3>Salsa los domingos y música en la playa los fines de semana</h3>\n<p>Los domingos se celebra una noche semanal de salsa con bandas latinas en directo y baile junto a la playa. La programación de fin de semana también incluye música en directo y sesiones de DJ, por lo que estos periodos ofrecen más actividad que un día normal de playa. El local ha participado en el festival Art With Me y ha acogido conciertos, bailes en línea y eventos en la piscina. En junio de 2026 se celebró un fin de semana dedicado a la música country con la actuación de CJ Garton, mientras que un programa de cuatro días con motivo de la Super Bowl combinó retransmisiones de los partidos, sesiones de DJ y fiestas en la piscina. Estos eventos especiales varían, pero la salsa de los domingos sigue siendo la cita semanal fija.</p>\n<h3>Habitaciones, piscinas y bienestar más allá de las tumbonas</h3>\n<p>El hotel cuenta con habitaciones frente a la playa, con vistas al mar, al jardín y a la selva, además de casitas, suites y villas privadas. Varias suites de la planta baja y áticos disponen de piscinas privadas, mientras que las habitaciones más amplias son ideales para familias y grupos. Las habitaciones están diseñadas sin televisores, para centrar la atención en la playa y los espacios comunes. El establecimiento también cuenta con piscinas rooftop y en la selva, que ofrecen entornos diferentes lejos de la arena. Las instalaciones de bienestar incluyen una sala de yoga frente a la playa, masajes con vistas al océano, tratamientos botánicos, sesiones de movimiento, trabajo con el sonido y prácticas de respiración.</p>\n<h3>Horario, ubicación y cómo reservar</h3>\n<p>El establecimiento se encuentra en la Zona Hotelera, en el km 8,2 de la carretera Tulum–Boca Paila. El desayuno se sirve de 7:30 a 11:30. El almuerzo se sirve desde el mediodía hasta las 17:30 h, seguido de la cena de 18:30 h a 22:00 h. El bar está abierto de 7:30 a 23:00 h. Hay aparcamiento disponible, incluido en el paquete de tumbona.</p>\n<p>Reserva tu tumbona o mesa en el restaurante de La Zebra Tulum a través de la página de este establecimiento en Tulum Bible. Elige una tumbona si deseas un lugar reservado en la arena con crédito para comida y bebida. Reserva una mesa en el restaurante cuando el objetivo de la visita sea la comida. El domingo es el día ideal para disfrutar del programa habitual de salsa, mientras que los fines de semana suelen ofrecer un ambiente más sociable. Confirma el tipo de reserva antes de llegar, ya que las reservas para el restaurante y las de las tumbonas son independientes.</p>",
+          "coverCharge": "",
+          "description": "Las tumbonas con techo de paja se encuentran junto a una cocina mexicana, un bar de cócteles artesanales y un parque infantil, con actuaciones en directo de grupos de salsa los domingos en la arena y entrada gratuita para los menores de 12 años.",
+          "hubBlurb": "<p>La Zebra is a <strong>beachfront hotel and beach club at Km 8.2 in the Hotel Zone</strong>, known for Mexican coastal food, day beds and a more relaxed social atmosphere than Tulum’s party-focused clubs.</p><p>A standard day bed costs around <strong>MX$1,400 per person</strong>, with <strong>MX$1,300 returned as food-and-drink credit</strong>. The package also includes a sunbed, towel, parking and access to hotel facilities, making it a straightforward option if you want to spend most of the day on the beach.</p><p>The main restaurant focuses on <strong>Mexican coastal cooking</strong>, with ceviche, handmade tacos and seafood, while <strong>La Zebra Mediterranean</strong> adds pizza, fresh pasta and mezze. Sundays are the most distinctive day to visit, with a regular <strong>live salsa night by the beach</strong>, while weekends generally bring more live music and social activity.</p><p><strong>Best for:</strong> Families, couples, Mexican food, Sunday salsa and a relaxed beach day with a clear food-and-drink credit.</p>",
+          "menuDescription": "La cocina costera mexicana se centra en el ceviche, los tacos caseros y los mariscos regionales, además de la pizza al horno de leña y la pasta fresca.",
+          "metaDescription": "La Zebra, beach club ideal para familias en la Zona Hotelera de Tulum, incluye crédito de 1.300 MXN con la tumbona de 1.400 MXN. Reserva en Tulum Bible.",
+          "name": "La Zebra",
+          "slug": "la-zebra-3",
           "tableInformation": ""
         }
       }
