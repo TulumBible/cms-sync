@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-19T17:12:40.120Z",
+  "syncedAt": "2026-09-19T19:25:28.498Z",
   "citySlug": "tulum",
   "faqs": [
     {
@@ -7017,6 +7017,116 @@
         "es": {
           "answer": "Sí. Hay aparcamiento gratuito disponible y está incluido en el paquete de la cama de día.",
           "name": "¿Hay plazas de aparcamiento disponibles?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "does-obsidiana-take-reservations"
+      },
+      "convexId": "k57c5fay409w6c6mhpcj9hwcbh8eqwn1",
+      "lastUpdated": "2026-09-19T19:25:10.497Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. You can reserve a standard table or VIP table service, and it is worth booking ahead on busy weekend nights. Reserve through the Obsidiana Tulum page on Tulum Bible.",
+          "name": "Does Obsidiana take reservations?"
+        },
+        "es": {
+          "answer": "Sí. Puedes reservar una mesa estándar o un servicio de mesa VIP, y vale la pena reservar con antelación las noches de fin de semana en las que hay mucha gente. Reserva a través de la página de Obsidiana Tulum en Tulum Bible.",
+          "name": "¿Se pueden hacer reservas en Obsidiana?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "is-there-a-cover-charge-at-obsidiana"
+      },
+      "convexId": "k57e01vvcr2fxk22q1x978869d8eqcep",
+      "lastUpdated": "2026-09-19T19:25:10.497Z",
+      "locales": {
+        "en": {
+          "answer": "General admission is free with no minimum consumption. Table service is priced separately and varies depending on the event.",
+          "name": "Is there a cover charge at Obsidiana?"
+        },
+        "es": {
+          "answer": "La entrada general es gratuita y no hay consumo mínimo. El servicio de mesa se cobra aparte y el precio varía en función del evento.",
+          "name": "¿Hay que pagar entrada en Obsidiana?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "where-is-the-nightlife-in-downtown-tulum"
+      },
+      "convexId": "k570tkav1b060dqx0qav3gn5818epsna",
+      "lastUpdated": "2026-09-19T19:25:10.497Z",
+      "locales": {
+        "en": {
+          "answer": "Much of Tulum's after-dark scene sits in Tulum Centro, and Obsidiana is one of the town's rooftop bars for it, running from dinner into a late DJ set. It is on Calle Orión Sur, a short trip from anywhere downtown.",
+          "name": "Where is the nightlife in downtown Tulum?"
+        },
+        "es": {
+          "answer": "Gran parte de la vida nocturna de Tulum se concentra en Tulum Centro, y Obsidiana es uno de los bares e rooftop es de la ciudad para disfrutarla, ya que abre desde la hora de cenar hasta bien entrada la noche con sesiones de DJ. Se encuentra en la calle Orión Sur, a un paso de cualquier punto del centro.",
+          "name": "¿Dónde hay vida nocturna en el centro de Tulum?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "does-tulum-have-nightlife-away-from-the-beach"
+      },
+      "convexId": "k578wjygrtye9k5wg9mv915rg58ep5bw",
+      "lastUpdated": "2026-09-19T19:25:10.497Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. Downtown venues like Obsidiana offer open-air rooftop dining that turns into a dancefloor with house DJs, fire shows and a weekly Thursday salsa night, without needing to head to the beach strip.",
+          "name": "Does Tulum have nightlife away from the beach?"
+        },
+        "es": {
+          "answer": "Sí. Locales del centro, como Obsidiana, ofrecen cenas al aire libre rooftop que se convierten en una pista de baile con DJ de música house, espectáculos de fuego y una noche de salsa todos los jueves, sin necesidad de desplazarse hasta la zona de la playa.",
+          "name": "¿Hay vida nocturna en Tulum lejos de la playa?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "what-are-obsidiana-s-opening-hours"
+      },
+      "convexId": "k576tj3dcab1fx8c0y2d1g6e698epvxr",
+      "lastUpdated": "2026-09-19T19:25:10.497Z",
+      "locales": {
+        "en": {
+          "answer": "The venue opens nightly, with the kitchen from around 6:30 PM and the room running until roughly 2:00 to 2:30 AM.",
+          "name": "What are Obsidiana's opening hours?"
+        },
+        "es": {
+          "answer": "El local abre todas las noches; la cocina abre sobre las 18:30 y el local permanece abierto hasta aproximadamente las 2:00 o las 2:30 de la madrugada.",
+          "name": "¿Cuál es el horario de apertura de Obsidiana?"
         }
       }
     }
