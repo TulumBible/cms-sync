@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-19T04:00:26.561Z",
+  "syncedAt": "2026-09-19T16:31:53.459Z",
   "citySlug": "tulum",
   "faqs": [
     {
@@ -6643,6 +6643,116 @@
         "es": {
           "answer": "El código de vestimenta es informal y se permite llevar ropa de playa. También son habituales los tejidos fluidos y las texturas naturales.",
           "name": "¿Cuál es el código de vestimenta?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "does-the-venue-have-showers-and-changing-rooms"
+      },
+      "convexId": "k57atzr7es4h5zy2bntfe38cpd8epyvy",
+      "lastUpdated": "2026-09-19T16:31:26.650Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. Changing rooms and showers are available for guests spending the day at the property.",
+          "name": "Does the venue have showers and changing rooms?"
+        },
+        "es": {
+          "answer": "Sí. Hay vestuarios y duchas a disposición de los huéspedes que pasen el día en el establecimiento.",
+          "name": "¿Dispone el recinto de duchas y vestuarios?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "are-towels-included-with-a-visit"
+      },
+      "convexId": "k575dg5815hpyt952fd6yg0sqs8eqf4p",
+      "lastUpdated": "2026-09-19T16:31:26.650Z",
+      "locales": {
+        "en": {
+          "answer": "No. Towels are available to rent for 100 MXN.",
+          "name": "Are towels included with a visit?"
+        },
+        "es": {
+          "answer": "No. Se pueden alquilar toallas por 100 MXN.",
+          "name": "¿Se incluyen las toallas en la visita?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "can-i-watch-sports-at-the-venue"
+      },
+      "convexId": "k57ec14crbm0s5m9x9c2jvzwg18eqgzk",
+      "lastUpdated": "2026-09-19T16:31:26.650Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. An indoor sports bar screens games and offers drinks away from the outdoor DJ programme.",
+          "name": "Can I watch sports at the venue?"
+        },
+        "es": {
+          "answer": "Sí. Hay un bar deportivo cubierto donde se retransmiten partidos y se sirven bebidas, al margen del programa de DJ al aire libre.",
+          "name": "¿Puedo ver eventos deportivos en el recinto?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "are-spa-and-salon-services-available"
+      },
+      "convexId": "k57946hqn7tts3asnpd1k1ny2d8eqv1y",
+      "lastUpdated": "2026-09-19T16:31:26.650Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. The property includes a day spa, massage facilities and a beauty salon.",
+          "name": "Are spa and salon services available?"
+        },
+        "es": {
+          "answer": "Sí. El establecimiento cuenta con un spa diurno, instalaciones para masajes y un salón de belleza.",
+          "name": "¿Hay servicios de spa y salón de belleza disponibles?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "what-food-is-available-beyond-the-main-restaurant"
+      },
+      "convexId": "k57f5w00v3h39xvh0fp9en5hq98eq7y2",
+      "lastUpdated": "2026-09-19T16:31:26.650Z",
+      "locales": {
+        "en": {
+          "answer": "The wider complex includes a taqueria, bakery and ice cream shop. The main restaurant serves ceviche, aguachile, tacos, burgers, pizza, wings and grilled chicken.",
+          "name": "What food is available beyond the main restaurant?"
+        },
+        "es": {
+          "answer": "El complejo, en su conjunto, incluye una taquería, una panadería y una heladería. El restaurante principal sirve ceviche, aguachile, tacos, hamburguesas, pizza, alitas de pollo y pollo a la parrilla.",
+          "name": "¿Qué opciones gastronómicas hay además del restaurante principal?"
         }
       }
     }

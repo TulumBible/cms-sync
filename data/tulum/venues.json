@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-18T22:16:42.905Z",
+  "syncedAt": "2026-09-19T16:31:53.574Z",
   "citySlug": "tulum",
   "venues": [
     {
@@ -2215,6 +2215,162 @@
           "metaDescription": "El Barrio: bar house, cervecería artesanal y terraza rooftop con piscina en Tulum. DJ, vinilo y pizza. Planifica tu visita.",
           "name": "El Barrio",
           "slug": "el-barrio",
+          "tableInformation": ""
+        }
+      }
+    },
+    {
+      "base": {
+        "amenityIds": [
+          "jn7dnm1kp63ahnqvjhhyz7944d859qpv",
+          "jn78wp2bkm0sv6aber490necah858phw",
+          "jn796fkb2npe38c126gkzmhe85858yf5",
+          "jn74axgjrqtsa18w8nxttnxfg5859e39",
+          "jn785e6n78fzxfq3e6yc4z206s858vs7",
+          "jn70tb3pfy3yycjzk8ke3pgtrs8585z7"
+        ],
+        "area": "hotel-zone",
+        "category": "beachclub",
+        "consumptionPackages": [
+          {
+            "capacity": 1,
+            "consumption": "0",
+            "key": "pkg-mu8lswgd-eqyq",
+            "note": null,
+            "noteEs": null,
+            "price": "0 MXN",
+            "title": "Day Bed",
+            "titleEs": "Diván"
+          }
+        ],
+        "drinkMenuUrl": "",
+        "faqIds": [
+          "k572r1yjwmkvy53y5mj1ed71kh8eq7aa",
+          "k577s6fycaeyc14jey5yzfvtfx8eppeq",
+          "k57an7stz7t6tvg4d2ary984918epvgt",
+          "k5783bwas9s5c6dhttq6s7hmbn8epnye",
+          "k57d3pmx5k8m16rz50nbj8kxfn8eq255",
+          "k5721hxwsq134d4x97x8hc10s18eqehp",
+          "k57atzr7es4h5zy2bntfe38cpd8epyvy",
+          "k575dg5815hpyt952fd6yg0sqs8eqf4p",
+          "k57ec14crbm0s5m9x9c2jvzwg18eqgzk",
+          "k57946hqn7tts3asnpd1k1ny2d8eqv1y",
+          "k57f5w00v3h39xvh0fp9en5hq98eq7y2"
+        ],
+        "foodMenuUrl": "",
+        "googleMapsCode": "5G2R+HJ Tulum, Quintana Roo",
+        "googlePlaceId": null,
+        "hideReservationForm": false,
+        "hubImage": null,
+        "images": [
+          {
+            "alt": "Tulumania’s beach deck has loungers and umbrellas beside turquoise water, palm trees, and a bright relaxed atmosphere.",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/0fe6c6fe-4a79-4c98-71d0-20ef7fa04b00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Tulumania pool overlooks a sandy beach and turquoise sea, framed by palm trees under a clear blue sky.",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/da6b868e-854e-465d-2017-ccb1f64dcb00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Tulumania’s beachfront wooden deck has lounge seating, shade sails, palm trees, and a bright turquoise sea.",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/200710c5-2315-411c-8dce-64f004f58f00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Margherita pizza with tomatoes and basil on a plate at Tulumania, warmly lit and inviting.",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/4b50da00-cbd6-4607-2c99-519a04993000/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Tulumania beach club table with a blue champagne ice bucket and flutes overlooking palm trees and the sea.",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/175bfd15-e58e-4f95-449c-5a8dc4fbba00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Tulumania’s pool overlooks a palm-lined beach and turquoise sea under a clear sky.",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/35e5b2ec-936f-4244-81aa-c0c4e3a56a00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Tulumania’s lounge has wood seating, a sports TV, tropical decor, and ocean views in a relaxed setting.",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/bbfae719-bcec-4e76-5839-f88930867d00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Tulumania’s beachfront deck has wooden tables, lounge seating, palm trees, and shade sails overlooking the turquoise sea.",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/ee0c9492-bfc4-4607-7b04-830a4e97d400/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Tulumania’s beachfront deck has lounge beds, umbrellas, palm trees and a bright, relaxed atmosphere.",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/41a9ebf9-610d-4c12-8ad0-7a85e21c6300/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Tulumania’s beachfront deck has cushioned seating, a hookah, palm shade, umbrellas and ocean views in bright daylight.",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/4b0680fd-d75c-4c9d-f955-3f15efae7e00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Tulumania’s poolside beach club overlooks turquoise water, with palm trees, lounge chairs, and a relaxed sunny atmosphere.",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/c746d0d0-b556-4d3c-e6f3-a5a21f2baa00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Tulumania’s poolside lounge overlooks a sandy beach and turquoise sea, shaded by palm trees.",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/2b8de3bc-19e2-4f9d-cea4-79d3b00bf100/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Tulumania table with pizza, chicken wings, tacos, and drinks in warm sunlight.",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/59d11d60-9a28-4aa0-7fb3-0513d354de00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Tulumania’s beachside pool deck with lounge seating, palm trees, turquoise water and a bright, relaxed atmosphere.",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/0a857fec-121c-4b08-ced0-963e54dc6a00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Tulumania beach club with cushioned loungers, umbrellas, palm trees and a bright, relaxed atmosphere.",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/55191d9c-89bd-4bb5-f62a-3c2341252600/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Tulumania’s rustic lounge has cushioned seating, sports screens, and warm wood decor creating a relaxed atmosphere.",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/ece888a5-694e-4453-b8ed-864a953a4200/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Tulumania’s open-air dining room overlooks a palm-lined beach, with rustic tables beneath a thatched roof.",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/6bd295ce-b1bc-4f65-f577-792e275f1200/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          }
+        ],
+        "isClosed": false,
+        "isFeatured": false,
+        "isFeaturedOnCoreTulum": false,
+        "isHiddenFromHubs": false,
+        "openingHoursHtml": "",
+        "priority": 5,
+        "promotion": "normal",
+        "publishedAt": null,
+        "reelUrl": "",
+        "reviewIds": [],
+        "tableLayoutImage": null,
+        "tags": [],
+        "tbvId": "TBV_PQ7EZE"
+      },
+      "convexId": "jh7f1a32cyrsxwg9abmz1cz69h8eqp7n",
+      "lastUpdated": "2026-09-19T16:31:32.889Z",
+      "locales": {
+        "en": {
+          "address": "Carr. Tulum-Boca Paila km 7.5, Tulum Beach, Zona Hotelera, 77780 Tulum, Q.R.",
+          "body": "<h2>Tulumania Beach Club: An Oceanfront Social Complex at Km 7.5</h2>\n<p>The venue occupies the former Akiin property on the Tulum-Boca Paila road. Oceanfront daybeds, a restaurant and a cocktail bar form the core of the beach operation. Guest DJs provide the daytime music, while scheduled events can continue after the regular beach-club hours into the night. A sports bar and several retail and wellness services operate within the same property. That mix makes it a practical choice for groups that want food, music, beach time and indoor facilities in one place.</p>\n<h3>Saturday DJs, Sunday Beach Sessions and Tu Brunch</h3>\n<p>The music programme centres on house, tech house, deep house, organic house and Afro-house. Guest DJs play daytime sets, including Saturday programming and Sunday Beach Sessions. Tu Brunch adds food and dancing to the Sunday schedule, with music running from the morning into sunset. Some programmes also include live saxophone, dancers or later techno sessions. Event times and ticket arrangements vary by date.</p>\n<p>The crowd includes tourists, day visitors, partygoers and groups planning to stay for several parts of the programme such as beach club in the day and sports bar in the evening. Music and dining begin during the day, with the atmosphere building as the DJ sets continue. The programmed environment can become loud during live entertainment and techno sessions. Night events connect the property to Tulum nightlife, but they follow a changing schedule rather than the standard daily timetable. Check the event calendar before visiting if a particular DJ or Sunday series is the reason for your trip.</p>\n<h3>Ceviche, Aguachile and Mezcal Cocktails by the Beach</h3>\n<p>The restaurant combines international and Caribbean influences in a casual menu designed around individual meals and shared plates. Seafood options include ceviche and aguachile. Guacamole, wings and tacos cover smaller dishes, while burgers, pizza and grilled chicken provide more substantial choices. These options let groups order several styles of food at the same table.</p>\n<p>The cocktail programme focuses on mezcal-based drinks and local spirits. The complex also contains a separate taqueria, bakery and ice cream shop, so food is not limited to the main restaurant. The sports bar provides another place to order drinks away from the outdoor DJ area. These outlets cover brunch, lunch, snacks and drinks through the afternoon music programme.</p>\n<h3>Oceanfront Daybeds, Showers and On-Site Services</h3>\n<p>Daybeds face the coast, with lounge areas connecting the restaurant, bar and spaces used for music events. A swimming pool offers another place to cool off within the property without defining the wider beach operation. Changing rooms, showers and Wi-Fi support guests staying through several parts of the day. Towels are available to rent for 100 MXN. Security is present around the venue and guest areas.</p>\n<h3>General Access, Daybed Costs and Daily Hours</h3>\n<p>General access does not require an upfront cover charge or a compulsory minimum spend. Unlike some Tulum beach clubs, walk-in visitors can pay only for the food and drinks they order. During the high season a daybed reservation uses an approximately 1,000 MXN food-and-drink minimum, fully redeemable against consumption.</p>\n<p>The beach club is at Carretera Tulum-Boca Paila km 7.5 in the Hotel Zone. Standard daytime hours run daily from 10 AM to 7 PM, with some operations extending to 9 PM. Late-night events follow their own schedules, so confirm the programme for the date you plan to attend. Walk-ins are possible under the general access policy, while advance reservations are recommended for daybeds and tables. Reserve your preferred setup at Tulumania through its venue page on Tulum Bible.</p>",
+          "coverCharge": "0",
+          "description": "A beachfront social complex brings oceanfront daybeds and DJ sessions together with a sports bar, restaurant, spa, salon, bakery, taqueria and retail shops.",
+          "hubBlurb": "<p>Tulumania is an <strong>oceanfront beach club at Km 7.5 of the Hotel Zone</strong>, occupying the former Akiin property. It combines daybeds, a restaurant, cocktail bar, pool and sports bar, with DJs and changing events throughout the week.</p><p>The music leans toward <strong>house, tech house, deep house, organic house and Afro-house</strong>, with regular Saturday DJs, Sunday Beach Sessions and selected <strong>Tu Brunch</strong> dates. Some events continue beyond the normal beach-club hours, so it is worth checking the calendar if music is the main reason for visiting.</p><p>Unlike many Hotel Zone beach clubs, <strong>general access does not normally require a cover or compulsory minimum spend</strong>. You can walk in and pay for what you order. During high season, reserved daybeds are around <strong>MX$2,000 in food-and-drink consumption</strong>, fully redeemable against your bill.</p><p><strong>Best for:</strong> Groups, Sunday music, and anyone who wants a beach club without a large mandatory spend.<br><strong>Minimum Spend: </strong>Currently None</p>",
+          "menuDescription": "International-Caribbean beach food with ceviche and aguachile, plus tacos, burgers, pizza and mezcal-based cocktails.",
+          "metaDescription": "This Hotel Zone beach club at km 7.5 pairs oceanfront daybeds with Sunday DJ brunches and a full restaurant. Book a daybed through Tulum Bible.",
+          "name": "Tulumania",
+          "slug": "tulumania",
+          "tableInformation": ""
+        },
+        "es": {
+          "address": "Carr. Tulum-Boca Paila km 7.5, Tulum Beach, Zona Hotelera, 77780 Tulum, Q.R.",
+          "body": "<h2>Tulumania Beach Club: un complejo social frente al mar en el km 7,5</h2>\n<p>El recinto ocupa la antigua finca Akiin, situada en la carretera de Tulum a Boca Paila. Las tumbonas frente al mar, un restaurante y un bar de cócteles constituyen el núcleo de la oferta playera. Los DJ invitados se encargan de la música durante el día, mientras que los eventos programados pueden prolongarse más allá del horario habitual del club de playa y continuar hasta bien entrada la noche. En el mismo recinto hay un bar deportivo y varios servicios comerciales y de bienestar. Esta combinación lo convierte en una opción práctica para grupos que buscan comida, música, playa e instalaciones cubiertas, todo en un mismo lugar.</p>\n<h3>DJ los sábados, Beach Sessions los domingos y Tu Brunch</h3>\n<p>La programación musical se centra en house, tech house, deep house, organic house y afro-house. Los DJ invitados pinchan sesiones diurnas, incluyendo la programación de los sábados y las Sunday Beach Sessions. Tu Brunch añade comida y baile a la programación dominical, con música desde por la mañana hasta la puesta de sol. Algunos programas también incluyen saxofón en directo, bailarines o sesiones de techno más tardías. Los horarios de los eventos y las modalidades de venta de entradas varían según la fecha.</p>\n<p>Entre el público hay turistas, visitantes de un día, fiesteros y grupos que planean quedarse para disfrutar de varias partes del programa, como beach club durante el día y el bar deportivo por la noche. La música y la gastronomía comienzan durante el día, y el ambiente va caldeándose a medida que avanzan las sesiones de los DJ. El ambiente puede volverse ruidoso durante los espectáculos en directo y las sesiones de música tecno. Los eventos nocturnos conectan el establecimiento con la vida nocturna de Tulum, pero siguen un horario variable en lugar del horario diario habitual. Consulta el calendario de eventos antes de visitarlo si el motivo de tu viaje es un DJ en concreto o una serie dominical.</p>\n<h3>Ceviche, aguachile y cócteles de mezcal junto a la playa</h3>\n<p>El restaurante combina influencias internacionales y caribeñas en un menú informal diseñado en torno a platos individuales y para compartir. Entre las opciones de marisco destacan el ceviche y el aguachile. El guacamole, las alitas y los tacos constituyen los platos más ligeros, mientras que las hamburguesas, la pizza y el pollo a la parrilla ofrecen opciones más sustanciosas. Estas opciones permiten a los grupos pedir varios tipos de comida en la misma mesa.</p>\n<p>La carta de cócteles se centra en bebidas a base de mezcal y licores locales. El complejo también cuenta con una taquería, una panadería y una heladería independientes, por lo que la oferta gastronómica no se limita al restaurante principal. El bar deportivo ofrece otro lugar donde pedir bebidas alejado de la zona al aire libre del DJ. Estos establecimientos ofrecen brunch, almuerzo, aperitivos y bebidas durante el programa musical de la tarde.</p>\n<h3>Tumbonas frente al mar, duchas y servicios en el recinto</h3>\n<p>Las tumbonas dan a la costa, con zonas de descanso que conectan el restaurante, el bar y los espacios destinados a eventos musicales. La piscina ofrece otro lugar para refrescarse dentro del recinto sin interferir con el funcionamiento general de la playa. Los vestuarios, las duchas y la conexión Wi-Fi facilitan la estancia de los huéspedes a lo largo de diferentes momentos del día. Se pueden alquilar toallas por 100 MXN. Hay personal de seguridad presente en todo el recinto y en las zonas de huéspedes.</p>\n<h3>Acceso general, precios de las tumbonas y horario diario</h3>\n<p>El acceso general no requiere un pago inicial ni un gasto mínimo obligatorio. A diferencia de algunos beach clubs de Tulum, los visitantes sin reserva previa pueden pagar únicamente por la comida y las bebidas que pidan. Durante la temporada alta, la reserva de una tumbona conlleva un gasto mínimo de aproximadamente 1.000 MXN en comida y bebida, totalmente canjeable por el consumo.</p>\n<p>El beach club se encuentra en la Carretera Tulum-Boca Paila, km 7,5, en la Zona Hotelera. El horario diurno estándar es de 10:00 a 19:00 todos los días, aunque algunos locales amplían su horario hasta las 21:00. Los eventos nocturnos siguen sus propios horarios, así que confirma la programación de la fecha en la que tienes previsto asistir. Se puede acudir sin reserva previa según la política general de acceso, aunque se recomienda reservar con antelación las tumbonas y las mesas. Reserva tu espacio preferido en Tulumania a través de la página del local en Tulum Bible.</p>",
+          "coverCharge": "0",
+          "description": "Un complejo social frente al mar que combina tumbonas junto al mar y sesiones de DJ con un bar deportivo, un restaurante, un spa, un salón de belleza, una panadería, una taquería y tiendas.",
+          "hubBlurb": "<p>Tulumania es un <strong>beach club situado frente al mar, en el km 7,5 de la Zona Hotelera</strong>, que ocupa la antigua finca de Akiin. Combina tumbonas, un restaurante, un bar de cócteles, una piscina y un bar deportivo, con DJ y eventos variados a lo largo de la semana.</p><p>La música se inclina hacia <strong>el house, el tech house, el deep house, el organic house y el afro-house</strong>, con DJ habituales los sábados, Beach Sessions los domingos y fechas seleccionadas para <strong>el Tu Brunch</strong>. Algunos eventos se prolongan más allá del horario habitual del club de playa, por lo que merece la pena consultar el calendario si la música es el motivo principal de la visita.</p><p>A diferencia de muchos beach clubs de la Zona Hotelera, <strong>el acceso general no suele requerir una entrada ni un gasto mínimo obligatorio</strong>. Puedes entrar y pagar lo que pidas. Durante la temporada alta, las tumbonas reservadas suponen <strong>un consumo de comida y bebida de</strong> unos <strong>2.000 MX$,</strong> totalmente descontables de la cuenta.</p><p><strong>Ideal para:</strong> Grupos, música los domingos y cualquiera que quiera disfrutar de un beach club sin un gasto mínimo obligatorio.<br><strong>Consumo mínimo: Actualmente </strong>, ninguno.</p>",
+          "menuDescription": "Cocina internacional y caribeña de playa, con ceviche y aguachile, además de tacos, hamburguesas, pizza y cócteles a base de mezcal.",
+          "metaDescription": "Hotel beach club en la Zona Hotelera, km 7,5: tumbonas frente al mar, brunch dominical con DJ y restaurante con carta completa. Reserva en Tulum Bible",
+          "name": "Tulumania",
+          "slug": "tulumania",
           "tableInformation": ""
         }
       }
