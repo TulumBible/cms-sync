@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-19T20:34:04.157Z",
+  "syncedAt": "2026-09-19T21:00:37.621Z",
   "citySlug": "tulum",
   "faqs": [
     {
@@ -7237,6 +7237,138 @@
         "es": {
           "answer": "Sí. Hay aparcamiento gratuito en el recinto, y se accede a través de la puerta principal de seguridad del hotel Shibari.",
           "name": "¿Hay aparcamiento en Atta?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "is-zamna-tulum-a-free-cenote-you-can-just-walk-into"
+      },
+      "convexId": "k5782jwzxdjz1ckxe3zf2btp5h8ep36n",
+      "lastUpdated": "2026-09-19T21:00:36.295Z",
+      "locales": {
+        "en": {
+          "answer": "No. Zamna is a ticketed event venue built around a private cenote, not a public swimming cenote. Access to the cenote and pool is tied to staying at the eco-cabins or attending a ticketed event.",
+          "name": "Is Zamna Tulum a free cenote you can just walk into?"
+        },
+        "es": {
+          "answer": "No. Zamna es un recinto para eventos con entrada que se ha construido alrededor de un cenote privado, no un cenote público para bañarse. El acceso al cenote y a la piscina está condicionado a alojarse en las cabañas ecológicas o a asistir a un evento con entrada.",
+          "name": "¿Es Zamna Tulum un cenote gratuito al que se puede acceder sin más?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "how-do-i-get-to-zamna-tulum-from-town"
+      },
+      "convexId": "k571gcv2chdsym4jgq77mcjjdn8eqkfj",
+      "lastUpdated": "2026-09-19T21:00:36.295Z",
+      "locales": {
+        "en": {
+          "answer": "The site is off Highway 307 outside Tulum, about 5 km from the center. Options include taxis, local shuttle buses, an ATV or scooter rental, or staying in the nearby Aldea Tulum developments. Sort your transport before the event, as fares on party nights can be high and inconsistent.",
+          "name": "How do I get to Zamna Tulum from town?"
+        },
+        "es": {
+          "answer": "El recinto se encuentra junto a la carretera 307, a las afueras de Tulum, a unos 5 km del centro. Las opciones de transporte incluyen taxis, autobuses locales, alquiler de quads o motos, o alojarse en los complejos turísticos cercanos de Aldea Tulum. Organiza tu transporte antes del evento, ya que las tarifas en las noches de fiesta pueden ser elevadas y variables.",
+          "name": "¿Cómo se llega a Zamna Tulum desde el pueblo?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "how-much-do-zamna-tulum-tickets-cost"
+      },
+      "convexId": "k579q1r2beae11bccgdgks443x8ep5ah",
+      "lastUpdated": "2026-09-19T21:00:36.295Z",
+      "locales": {
+        "en": {
+          "answer": "Individual event tickets start from around $50 USD for general admission and rise to $200 or more, with VIP and backstage tiers above that. VIP table packages start at a minimum spend of roughly $500 USD per person.",
+          "name": "How much do Zamna Tulum tickets cost?"
+        },
+        "es": {
+          "answer": "Las entradas para eventos individuales cuestan a partir de unos 50 dólares estadounidenses para el público general y pueden llegar a los 200 dólares o más, con categorías VIP y de acceso entre bastidores por encima de ese precio. Los paquetes de mesas VIP tienen un gasto mínimo de aproximadamente 500 dólares estadounidenses por persona.",
+          "name": "¿Cuánto cuestan las entradas para Zamna Tulum?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "when-is-the-zamna-tulum-season"
+      },
+      "convexId": "k571mg61wszzkretf7sg1m7gph8epdmb",
+      "lastUpdated": "2026-09-19T21:00:36.295Z",
+      "locales": {
+        "en": {
+          "answer": "The main season runs in winter across December and January, with each night ticketed separately. The 10th anniversary season is scheduled from December 31, 2026 to January 10, 2027.",
+          "name": "When is the Zamna Tulum season?"
+        },
+        "es": {
+          "answer": "La temporada principal tiene lugar en invierno, entre diciembre y enero, y las entradas para cada noche se venden por separado. La temporada del décimo aniversario está programada del 31 de diciembre de 2026 al 10 de enero de 2027.",
+          "name": "¿Cuándo es la temporada de Zamna Tulum?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "can-i-stay-overnight-at-zamna-tulum"
+      },
+      "convexId": "k57c8ab9qvknx2es5agj2ty9q98eqdt5",
+      "lastUpdated": "2026-09-19T21:00:36.295Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. A cluster of eco-cabins borders the cenote, each with a king bed, terrace, air conditioning and private shower, with breakfast included. The cabins sit across the water from the stages, so check the event calendar if you want a quiet stay.",
+          "name": "Can I stay overnight at Zamna Tulum?"
+        },
+        "es": {
+          "answer": "Sí. Junto al cenote hay un conjunto de cabañas ecológicas, cada una con una cama extragrande, terraza, aire acondicionado y ducha privada, con desayuno incluido. Las cabañas se encuentran al otro lado del agua, frente a los escenarios, así que consulta el calendario de eventos si quieres disfrutar de una estancia tranquila.",
+          "name": "¿Puedo pasar la noche en Zamna Tulum?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "is-re-entry-allowed-once-inside-an-event"
+      },
+      "convexId": "k578y3y85n4sxes9j2bckvam8n8eqxca",
+      "lastUpdated": "2026-09-19T21:00:36.295Z",
+      "locales": {
+        "en": {
+          "answer": "No. Re-entry is not permitted once you are inside, so plan your night before you go in. Entry also involves thorough security checks at the gate.",
+          "name": "Is re-entry allowed once inside an event?"
+        },
+        "es": {
+          "answer": "No. No se permite volver a entrar una vez que ya estás dentro, así que planifica tu noche antes de entrar. Además, al entrar hay que pasar por controles de seguridad exhaustivos en la puerta.",
+          "name": "¿Se permite volver a entrar una vez que se está dentro de un evento?"
         }
       }
     }
