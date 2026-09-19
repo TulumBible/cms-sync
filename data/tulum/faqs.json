@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-18T15:28:17.942Z",
+  "syncedAt": "2026-09-19T04:00:26.561Z",
   "citySlug": "tulum",
   "faqs": [
     {
@@ -6511,6 +6511,138 @@
         "es": {
           "answer": "Sí. Tulum Bible puede encargarse de reservar mesa en cuanto Zamna publique las opciones disponibles para el 10 de enero. Envíanos el número de personas de tu grupo y te informaremos en cuanto se conozcan los precios.",
           "name": "¿Puedo reservar una mesa para Adam Port?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "does-the-beach-club-take-reservations"
+      },
+      "convexId": "k572r1yjwmkvy53y5mj1ed71kh8eq7aa",
+      "lastUpdated": "2026-09-19T00:45:55.945Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. Cabanas, tables, daybeds and beachfront spots can be reserved through the venue page on Tulum Bible.",
+          "name": "Does the beach club take reservations?"
+        },
+        "es": {
+          "answer": "Sí. Se pueden reservar cabañas, mesas, tumbonas y zonas frente a la playa a través de la página del local en Tulum Bible.",
+          "name": "¿Se pueden hacer reservas en el beach club?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "what-time-does-the-venue-open"
+      },
+      "convexId": "k577s6fycaeyc14jey5yzfvtfx8eppeq",
+      "lastUpdated": "2026-09-19T00:45:55.945Z",
+      "locales": {
+        "en": {
+          "answer": "It opens daily at 10 AM, with regular hours extending to 9 PM. Night events can run later.",
+          "name": "What time does the venue open?"
+        },
+        "es": {
+          "answer": "Abre todos los días a las 10 de la mañana, y el horario habitual se prolonga hasta las 9 de la noche. Los eventos nocturnos pueden prolongarse hasta más tarde.",
+          "name": "¿A qué hora abre el recinto?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "is-there-an-entrance-fee-or-minimum-spend"
+      },
+      "convexId": "k57an7stz7t6tvg4d2ary984918epvgt",
+      "lastUpdated": "2026-09-19T00:45:55.945Z",
+      "locales": {
+        "en": {
+          "answer": "Standard admission has no general entrance fee or required minimum spend. Guests pay for the food and drinks they order.",
+          "name": "Is there an entrance fee or minimum spend?"
+        },
+        "es": {
+          "answer": "La entrada estándar no conlleva ninguna tarifa de acceso general ni un gasto mínimo obligatorio. Los clientes pagan la comida y las bebidas que piden.",
+          "name": "¿Hay que pagar entrada o hay un gasto mínimo?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "how-much-is-a-daybed-reservation"
+      },
+      "convexId": "k5783bwas9s5c6dhttq6s7hmbn8epnye",
+      "lastUpdated": "2026-09-19T00:45:55.945Z",
+      "locales": {
+        "en": {
+          "answer": "A daybed reservation is 5,000 MXN, redeemable against food and beverage purchases, plus a mandatory 15% service charge. Towel rental is 100 MXN.",
+          "name": "How much is a daybed reservation?"
+        },
+        "es": {
+          "answer": "La reserva de una tumbona cuesta 5.000 MXN, cantidad canjeable por compras de comida y bebida, más un 15 % de cargo por servicio obligatorio. El alquiler de toallas cuesta 100 MXN.",
+          "name": "¿Cuánto cuesta reservar una tumbona?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "what-music-does-the-beach-club-play"
+      },
+      "convexId": "k57d3pmx5k8m16rz50nbj8kxfn8eq255",
+      "lastUpdated": "2026-09-19T00:45:55.945Z",
+      "locales": {
+        "en": {
+          "answer": "The programme focuses on house, tech house, deep house, organic house and Afro-house. Regular events include Saturday daytime programming and Sunday Beach Sessions.",
+          "name": "What music does the beach club play?"
+        },
+        "es": {
+          "answer": "El programa se centra en los estilos house, tech house, deep house, organic house y afro-house. Entre los eventos habituales se incluyen la programación diurna de los sábados y las Beach Sessions de los domingos.",
+          "name": "¿Qué tipo de música suena en el beach club?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "what-is-the-dress-code"
+      },
+      "convexId": "k5721hxwsq134d4x97x8hc10s18eqehp",
+      "lastUpdated": "2026-09-19T00:45:55.945Z",
+      "locales": {
+        "en": {
+          "answer": "The dress code is relaxed and beachwear is permitted. Flowing fabrics and organic textures are also common.",
+          "name": "What is the dress code?"
+        },
+        "es": {
+          "answer": "El código de vestimenta es informal y se permite llevar ropa de playa. También son habituales los tejidos fluidos y las texturas naturales.",
+          "name": "¿Cuál es el código de vestimenta?"
         }
       }
     }
