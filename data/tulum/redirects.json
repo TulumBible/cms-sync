@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-19T17:38:18.395Z",
+  "syncedAt": "2026-09-19T20:48:13.414Z",
   "citySlug": "tulum",
   "redirects": [
     {
@@ -9279,6 +9279,32 @@
       },
       "convexId": "kx77hgv6pghcn5nm7g00drd4mn8ep7za",
       "lastUpdated": "2026-09-19T17:37:56.138Z",
+      "locales": {
+        "en": {},
+        "es": {}
+      }
+    },
+    {
+      "base": {
+        "fromPath": "/venue/atta-tulum",
+        "statusCode": 301,
+        "toPath": "/venue/atta-tuuch-tulum"
+      },
+      "convexId": "kx7cjzf54cd456a5r02sbcqqex8epaq8",
+      "lastUpdated": "2026-09-19T20:47:57.103Z",
+      "locales": {
+        "en": {},
+        "es": {}
+      }
+    },
+    {
+      "base": {
+        "fromPath": "/es-mx/venue/atta-tulum",
+        "statusCode": 301,
+        "toPath": "/es-mx/venue/atta-tuuch-tulum"
+      },
+      "convexId": "kx73yxrntg7bk5phm2vbrn6g358eph0v",
+      "lastUpdated": "2026-09-19T20:47:57.103Z",
       "locales": {
         "en": {},
         "es": {}
