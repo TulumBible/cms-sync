@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-19T21:00:37.621Z",
+  "syncedAt": "2026-09-19T21:19:56.422Z",
   "citySlug": "tulum",
   "faqs": [
     {
@@ -7369,6 +7369,138 @@
         "es": {
           "answer": "No. No se permite volver a entrar una vez que ya estás dentro, así que planifica tu noche antes de entrar. Además, al entrar hay que pasar por controles de seguridad exhaustivos en la puerta.",
           "name": "¿Se permite volver a entrar una vez que se está dentro de un evento?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "do-you-need-to-be-a-hotel-guest-to-eat-at-la-zebra-mediterranean"
+      },
+      "convexId": "k574ek8ydw6nmrbe8wkx7vhkxx8eqjjh",
+      "lastUpdated": "2026-09-19T21:08:59.362Z",
+      "locales": {
+        "en": {
+          "answer": "No. The beachfront restaurant is open to everyone, whether you are staying at La Zebra Hotel or not.",
+          "name": "Do you need to be a hotel guest to eat at La Zebra Mediterranean?"
+        },
+        "es": {
+          "answer": "No. El restaurante frente al mar está abierto a todo el mundo, tanto si te alojas en el Hotel La Zebra como si no.",
+          "name": "¿Es necesario alojarse en el hotel para comer en La Zebra Mediterranean?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "what-are-the-hours-at-lula-tulum"
+      },
+      "convexId": "k573zpzg5r4j167804x49hrdj58eqswt",
+      "lastUpdated": "2026-09-19T21:08:59.362Z",
+      "locales": {
+        "en": {
+          "answer": "The Mediterranean venue serves daily from 11:00 AM to 6:45 PM. The wider La Zebra kitchen runs breakfast, lunch and dinner from 7:30 AM until 10:00 PM.",
+          "name": "What are the hours at Lula Tulum?"
+        },
+        "es": {
+          "answer": "Este local de estilo mediterráneo abre todos los días de 11:00 a 18:45. La cocina de La Zebra, en general, ofrece desayunos, comidas y cenas de 7:30 a 22:00.",
+          "name": "¿Cuál es el horario de Lula Tulum?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "how-much-is-a-beach-club-day-pass-at-la-zebra-mediterranean"
+      },
+      "convexId": "k57a1sejd90x8mf8291rt1h7ed8eqcr4",
+      "lastUpdated": "2026-09-19T21:08:59.362Z",
+      "locales": {
+        "en": {
+          "answer": "A sunbed or cabana reservation is 1,400 MXN per person, with 1,300 MXN returned as a food and beverage credit. It includes access to the rooftop pool, showers, the sports bar and parking, and children under 12 enter free.",
+          "name": "How much is a beach club day pass at La Zebra Mediterranean?"
+        },
+        "es": {
+          "answer": "La reserva de una tumbona o una cabaña cuesta 1.400 MXN por persona, de los cuales se devuelven 1.300 MXN en forma de crédito para comida y bebida. Incluye acceso a la piscina rooftop, a las duchas, al bar deportivo y al aparcamiento; además, los menores de 12 años entran gratis.",
+          "name": "¿Cuánto cuesta una entrada de un día beach club en La Zebra Mediterranean?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "does-la-zebra-mediterranean-take-reservations"
+      },
+      "convexId": "k57ag0vfa5rkh3280d1zqkvgfd8ep18p",
+      "lastUpdated": "2026-09-19T21:08:59.362Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. The restaurant takes reservations and is good for groups. Book your table through the Lula Tulum page on Tulum Bible.",
+          "name": "Does La Zebra Mediterranean take reservations?"
+        },
+        "es": {
+          "answer": "Sí. El restaurante admite reservas y es ideal para grupos. Reserva tu mesa a través de la página de Lula Tulum en Tulum Bible.",
+          "name": "¿Se pueden hacer reservas en La Zebra Mediterranean?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "is-there-parking-at-la-zebra-mediterranean"
+      },
+      "convexId": "k5788h6v8d9mj3c5dwnprybzfh8eqc28",
+      "lastUpdated": "2026-09-19T21:08:59.362Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. Free parking and valet parking are both available on site.",
+          "name": "Is there parking at La Zebra Mediterranean?"
+        },
+        "es": {
+          "answer": "Sí. En las instalaciones hay disponible tanto aparcamiento gratuito como servicio de aparcacoches.",
+          "name": "¿Hay aparcamiento en La Zebra Mediterranean?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "are-dogs-allowed-at-la-zebra-mediterranean"
+      },
+      "convexId": "k5743qbw3k5fpzjckbrmr15z4h8ep99p",
+      "lastUpdated": "2026-09-19T21:08:59.362Z",
+      "locales": {
+        "en": {
+          "answer": "No, dogs are not allowed at the venue.",
+          "name": "Are dogs allowed at La Zebra Mediterranean?"
+        },
+        "es": {
+          "answer": "No, no se admiten perros en el recinto.",
+          "name": "¿Se admiten perros en La Zebra Mediterranean?"
         }
       }
     }

@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-19T21:00:55.871Z",
+  "syncedAt": "2026-09-19T21:19:56.283Z",
   "citySlug": "tulum",
   "venues": [
     {
@@ -2395,6 +2395,125 @@
           "metaDescription": "Hotel beach club en la Zona Hotelera, km 7,5: tumbonas frente al mar, brunch dominical con DJ y restaurante con carta completa. Reserva en Tulum Bible",
           "name": "Tulumania",
           "slug": "tulumania",
+          "tableInformation": ""
+        }
+      }
+    },
+    {
+      "base": {
+        "amenityIds": [
+          "jn785e6n78fzxfq3e6yc4z206s858vs7",
+          "jn7dnm1kp63ahnqvjhhyz7944d859qpv",
+          "jn70zdmazn719gygc3k7335zxn859dvw",
+          "jn76cg9jqcvq6gh3xwf0cj2c2s859sx2",
+          "jn74axgjrqtsa18w8nxttnxfg5859e39"
+        ],
+        "area": "hotel-zone",
+        "category": "restaurant",
+        "consumptionPackages": [],
+        "drinkMenuUrl": "",
+        "faqIds": [
+          "k574ek8ydw6nmrbe8wkx7vhkxx8eqjjh",
+          "k573zpzg5r4j167804x49hrdj58eqswt",
+          "k57a1sejd90x8mf8291rt1h7ed8eqcr4",
+          "k57ag0vfa5rkh3280d1zqkvgfd8ep18p",
+          "k5788h6v8d9mj3c5dwnprybzfh8eqc28",
+          "k5743qbw3k5fpzjckbrmr15z4h8ep99p"
+        ],
+        "foodMenuUrl": "",
+        "googleMapsCode": "4GWR+82 Tulum, Quintana Roo, Mexico",
+        "googlePlaceId": "ChIJ4SlLLkDRT48R_IbORqirEtY",
+        "hideReservationForm": false,
+        "hubImage": null,
+        "images": [
+          {
+            "alt": "La Zebra Mediterranean's beachfront terrace with dining tables overlooking turquoise Caribbean waters and white sand beach",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/1bfc756b-95e4-48a9-5429-8692ff877b00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Sun loungers sit on the white sand beach facing a clear blue ocean at La Zebra Mediterranean in Tulum.",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/684099c8-474a-46fa-00b0-0720f68fdc00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "La Zebra Mediterranean terrace with wooden tables, white chairs, lounge seating, and ocean views through glass doors.",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/6d9adb31-7292-46ed-eac1-5ccb43666400/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Overhead view of La Zebra Mediterranean's table set for dining with grilled fish, salads, and appetizers arranged among",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/e9449b71-0743-4fba-9492-f3bd9e1ef900/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "La Zebra Mediterranean beach club with terrace seating under blue umbrellas, lounge chairs on white sand, and palm trees",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/205fe0b1-79a3-420e-7a6e-c22a5cfe8800/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "La Zebra Mediterranean beach club at dusk with illuminated dining pavilion, lounge seating, and palm trees along the sand.",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/78e79beb-c770-4de4-5c34-25cdf300f800/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Therapist performing sound bath healing with singing bowl on client lying on massage table in bright room with ocean view",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/8f7e4f4b-31be-4dde-5931-4a963e465000/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "People relax during a sound bath session on an oceanfront wooden deck at La Zebra Mediterranean.",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/ef6ff7e5-185f-42b2-7a5d-e7a0bd97df00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "La Zebra Mediterranean dining room with wooden beams, geometric tile accents, gray banquette seating, and wooden tables with",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/962a020c-8638-4be8-71e3-8b4e057fd600/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Wooden picnic tables sit on the white sand beach under shade sails at La Zebra Mediterranean, facing the ocean.",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/db5d4c47-bf3e-4c89-dec0-ca989d972400/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "La Zebra Mediterranean's covered terrace with wooden lounge seating, palm trees, and ocean views in Tulum.",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/9c22629d-a5a6-4c91-bee9-1f17f59a3600/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Fitness class on the beach at La Zebra Mediterranean with participants exercising among palm trees and ocean view in",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/e5fbc451-53fc-46d0-d6cb-d660ffbfc900/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          }
+        ],
+        "isClosed": false,
+        "isFeatured": false,
+        "isFeaturedOnCoreTulum": false,
+        "isHiddenFromHubs": false,
+        "openingHoursHtml": "<p>07:30 - 22:00</p><p>07:30 - 22:00</p><p>07:30 - 22:00</p><p>07:30 - 22:00</p><p>07:30 - 22:00</p><p>07:30 - 22:00</p><p>07:30 - 22:00</p>",
+        "priority": 5,
+        "promotion": "normal",
+        "publishedAt": null,
+        "reelUrl": "",
+        "reviewIds": [],
+        "tableLayoutImage": null,
+        "tags": [],
+        "tbvId": "TBV_ETNT65"
+      },
+      "convexId": "jh7fmbvq478tpamhxwjf6m9mph8epn1t",
+      "lastUpdated": "2026-09-19T21:19:37.550Z",
+      "locales": {
+        "en": {
+          "address": "Carr. Tulum-Boca Paila Km 8.2, Tulum Beach, Zona Hotelera, Tulum",
+          "body": "<h2>Lula Tulum: Mediterranean Dining on La Zebra Beach</h2>\n<p>La Zebra Mediterranean, known to regulars as Lula, is the Mediterranean-focused kitchen inside La Zebra Hotel at Carretera Tulum-Boca Paila Km 8.2, in the Zona Hotelera. It sits directly on the sand, in a covered open-air room with breezy seating and ocean views. This is a separate concept from La Zebra's main Mexican menu next door — the kitchen here works Mediterranean formats with local Caribbean and Mexican ingredients. The room is barefoot-chic and social rather than formal, and you do not need to be a hotel guest to eat here.</p>\n<p>Live music and weekend events keep the atmosphere lively without tipping into a party scene. The crowd runs to couples, adult social groups and families, and the setting is family-friendly, with a jungle-gym play area set between the beach and the restaurant. Children under 12 enter the beach club for free.</p>\n<h3>The Menu: Wood-Fired Pizza, Pasta and Caribbean Seafood</h3>\n<p>The kitchen builds around handcrafted pastas, wood-fired pizzas, shareable mezze platters and large loaded salads. Grilled local fish and Caribbean seafood anchor the mains, alongside ceviches and tacos. Vegetarian options are on the menu.</p>\n<p>The bar programme includes craft cocktails plus guided tequila and mezcal flights, cocktail workshops and regional Mexican wine tastings. For a longer meal, the Chef's Table is an eight-course tasting menu paired with regional spirits and beverages, hosted for up to four guests over about three and a half hours.</p>\n<h3>Beach Club Day Passes and Facilities</h3>\n<p>The Mediterranean concept doubles as a beach club with daybeds, sun loungers, swimming pools and a beach bar. A sunbed or cabana reservation costs 1,400 MXN per person, of which 1,300 MXN comes back as a food and beverage credit. The pass includes access to the rooftop pool, showers, the on-site sports bar and parking. Outside food and drinks are not permitted, and children under 12 enter free.</p>\n<h3>Hours, Parking and How to Book</h3>\n<p>The Mediterranean venue serves daily from 11:00 AM to 6:45 PM, while La Zebra's overall food and beverage runs from breakfast at 7:30 AM through dinner ending at 10:00 PM. Free parking and valet are both available, and dogs are not allowed. The venue takes reservations and is good for groups, so booking ahead is worth it on weekends when live music draws a crowd. Reserve your table or a beach club day pass through the Lula Tulum page on Tulum Bible.</p>",
+          "coverCharge": "",
+          "description": "Formerly Lula Kitchen, this beachfront kitchen pairs Mediterranean plates with Caribbean seafood — wood-fired pizzas, handmade pastas and mezze served barefoot on the sand.",
+          "hubBlurb": "",
+          "menuDescription": "Mediterranean plates with Caribbean seafood — wood-fired pizzas, handmade pastas, mezze platters and grilled local fish.",
+          "metaDescription": "La Zebra Mediterranean is a beachfront Mediterranean restaurant in Tulum's Hotel Zone with wood-fired pizza and Caribbean seafood. Reserve a table.",
+          "name": "La Zebra Mediterranean",
+          "slug": "la-zebra-mediterranean",
+          "tableInformation": ""
+        },
+        "es": {
+          "address": "Carr. Tulum-Boca Paila Km 8.2, Tulum Beach, Zona Hotelera, Tulum",
+          "body": "<h2>Lula Tulum: cocina mediterránea en la playa de La Zebra</h2>\n<p>La Zebra Mediterranean, conocido por los clientes habituales como Lula, es el restaurante de cocina mediterránea situado dentro del Hotel La Zebra, en la Carretera Tulum-Boca Paila, km 8,2, en la Zona Hotelera. Se encuentra directamente sobre la arena, en un comedor al aire libre cubierto con mesas al aire libre y vistas al mar. Se trata de un concepto independiente del menú mexicano principal de La Zebra, situado justo al lado: aquí la cocina elabora platos de inspiración mediterránea con ingredientes locales del Caribe y de México. El ambiente es desenfadado y acogedor, más bien informal que formal, y no es necesario alojarse en el hotel para comer aquí.</p>\n<p>La música en directo y los eventos de fin de semana mantienen un ambiente animado sin caer en el ambiente de fiesta. El público está compuesto por parejas, grupos de adultos y familias, y el entorno es ideal para familias, con una zona de juegos tipo jungle gym situada entre la playa y el restaurante. Los niños menores de 12 años entran gratis en el beach club.</p>\n<h3>El menú: pizza al horno de leña, pasta y marisco caribeño</h3>\n<p>La oferta gastronómica gira en torno a pastas artesanales, pizzas al horno de leña, bandejas de mezze para compartir y ensaladas abundantes y bien surtidas. El pescado local a la parrilla y los mariscos caribeños son los protagonistas de los platos principales, junto con ceviches y tacos. El menú incluye opciones vegetarianas.</p>\n<p>La oferta del bar incluye cócteles artesanales, además de degustaciones guiadas de tequila y mezcal, talleres de cócteles y catas de vinos regionales mexicanos. Para una comida más prolongada, la Chef’s Table ofrece un menú degustación de ocho platos maridado con licores y bebidas regionales, con capacidad para un máximo de cuatro comensales y una duración de unas tres horas y media.</p>\n<h3>Beach Club Pases diarios e instalaciones</h3>\n<p>El concepto mediterráneo funciona también como un beach club con tumbonas, hamacas, piscinas y un bar de playa. La reserva de una tumbona o una cabaña cuesta 1.400 MXN por persona, de los cuales 1.300 MXN se devuelven en forma de crédito para comida y bebida. El pase incluye acceso a la piscina rooftop, a las duchas, al bar deportivo del recinto y al aparcamiento. No se permite introducir comida ni bebida del exterior, y los niños menores de 12 años entran gratis.</p>\n<h3>Horario, aparcamiento y cómo reservar</h3>\n<p>Este local de estilo mediterráneo abre todos los días de 11:00 a 18:45, mientras que el horario general de comida y bebida de La Zebra va desde el desayuno a las 7:30 hasta la cena, que termina a las 22:00. Hay aparcamiento gratuito y servicio de aparcacoches disponibles, y no se admiten perros. El local admite reservas y es ideal para grupos, por lo que merece la pena reservar con antelación los fines de semana, cuando la música en directo atrae a mucha gente. Reserva tu mesa o un pase de un día beach club a través de la página de Lula Tulum en Tulum Bible.</p>",
+          "coverCharge": "",
+          "description": "Anteriormente conocida como Lula Kitchen, esta cocina frente al mar combina platos mediterráneos con marisco caribeño: pizzas al horno de leña, pasta casera y mezze que se sirven descalzo sobre la arena.",
+          "hubBlurb": "",
+          "menuDescription": "Platos mediterráneos con marisco del Caribe: pizzas al horno de leña, pasta artesanal, bandejas de mezze y pescado local a la parrilla.",
+          "metaDescription": "La Zebra Mediterranean: restaurante frente al mar en Tulum. Pizzas al horno de leña y marisco caribeño. Reserva tu mesa.",
+          "name": "La Zebra Mediterranean",
+          "slug": "la-zebra-mediterranean",
           "tableInformation": ""
         }
       }
