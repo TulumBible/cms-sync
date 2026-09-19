@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-19T21:48:51.528Z",
+  "syncedAt": "2026-09-19T21:51:05.853Z",
   "citySlug": "tulum",
   "venues": [
     {
@@ -821,14 +821,24 @@
         "category": "cenote",
         "consumptionPackages": [
           {
-            "capacity": null,
-            "consumption": null,
-            "key": "minimum",
-            "note": "Per person",
-            "noteEs": "Por persona",
-            "price": "500–1,000 MXN",
-            "title": "Minimum spend",
-            "titleEs": "Consumo mínimo"
+            "capacity": 1,
+            "consumption": "1,000 MXN",
+            "key": "pkg-mu8x7l1a-5csw",
+            "note": "Includes towel",
+            "noteEs": null,
+            "price": "1,000 MXN",
+            "title": "Sunbed near Water",
+            "titleEs": null
+          },
+          {
+            "capacity": 1,
+            "consumption": "500 MXN",
+            "key": "pkg-mu8x83cz-yken",
+            "note": "Includes towel",
+            "noteEs": null,
+            "price": "500 MXN",
+            "title": "Sunbed further Away",
+            "titleEs": null
           }
         ],
         "drinkMenuUrl": "https://assets.tulumbible.com/menus/tulum/vesica-tulum-drinks-menu.pdf",
@@ -904,7 +914,7 @@
         "tags": []
       },
       "convexId": "jh7c7enep85z0w69t9v1grcarh7qzm2f",
-      "lastUpdated": "2026-09-07T04:02:20.016Z",
+      "lastUpdated": "2026-09-19T21:50:45.371Z",
       "locales": {
         "en": {
           "address": "PARCELA No. 198Z-2P-1 EJIDO, 77760 Tulum, Q.R.",
