@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-16T22:41:02.104Z",
+  "syncedAt": "2026-09-19T17:38:18.395Z",
   "citySlug": "tulum",
   "redirects": [
     {
@@ -9253,6 +9253,32 @@
       },
       "convexId": "kx76xyhbpfr75tncap5xt2rz3x8egtf4",
       "lastUpdated": "2026-09-16T22:35:11.783Z",
+      "locales": {
+        "en": {},
+        "es": {}
+      }
+    },
+    {
+      "base": {
+        "fromPath": "/venue/la-zebra-3",
+        "statusCode": 301,
+        "toPath": "/venue/la-zebra"
+      },
+      "convexId": "kx71wy5ebgpv1cwqdf70gsd0z18epbc3",
+      "lastUpdated": "2026-09-19T17:37:56.138Z",
+      "locales": {
+        "en": {},
+        "es": {}
+      }
+    },
+    {
+      "base": {
+        "fromPath": "/es-mx/venue/la-zebra-3",
+        "statusCode": 301,
+        "toPath": "/es-mx/venue/la-zebra"
+      },
+      "convexId": "kx77hgv6pghcn5nm7g00drd4mn8ep7za",
+      "lastUpdated": "2026-09-19T17:37:56.138Z",
       "locales": {
         "en": {},
         "es": {}
