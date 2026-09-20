@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-20T00:31:14.680Z",
+  "syncedAt": "2026-09-20T00:32:24.288Z",
   "citySlug": "tulum",
   "venues": [
     {
@@ -1632,24 +1632,14 @@
         "category": "beachclub",
         "consumptionPackages": [
           {
-            "capacity": null,
-            "consumption": null,
-            "key": "sunbed",
-            "note": "Per person; 1,300 MXN on weekends",
-            "noteEs": "Por persona; 1,300 MXN los fines de semana",
+            "capacity": 1,
+            "consumption": "1,000 MXN",
+            "key": "pkg-mu92zspr-jgmx",
+            "note": null,
+            "noteEs": null,
             "price": "1,000 MXN",
             "title": "Sunbed",
-            "titleEs": "Camastro"
-          },
-          {
-            "capacity": null,
-            "consumption": null,
-            "key": "bottle-service",
-            "note": "VIP table prices depend on the event",
-            "noteEs": "Los precios de mesas VIP dependen del evento",
-            "price": "On request",
-            "title": "Bottle service",
-            "titleEs": "Servicio de botellas"
+            "titleEs": null
           }
         ],
         "drinkMenuUrl": "",
@@ -1702,7 +1692,7 @@
         "tags": []
       },
       "convexId": "jh71wfpc46ysmqy16eme40ke857qzqg4",
-      "lastUpdated": "2026-09-08T05:02:53.159Z",
+      "lastUpdated": "2026-09-20T00:32:02.310Z",
       "locales": {
         "en": {
           "address": "Hotel Selina los Lirios, Carr. Tulum-Boca Paila KM 7.5-Interior, Tulum Beach, Punta Piedra, 77780 Tulum, Q.R.",
