@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-20T02:12:47.932Z",
+  "syncedAt": "2026-09-20T21:21:09.777Z",
   "citySlug": "tulum",
   "faqs": [
     {
@@ -7809,6 +7809,116 @@
         "es": {
           "answer": "Durante los eventos, el recinto funciona con una pulsera sin efectivo que viene precargada. El saldo que no se gaste no se reembolsa, así que recárgala con cuidado y no cargues más de lo que tengas previsto gastar.",
           "name": "¿Cómo funcionan los pagos durante los eventos de Zamna?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "is-mi-amor-tulum-all-inclusive"
+      },
+      "convexId": "k575nq587txvdvxdpwqzcyws7x8eryx4",
+      "lastUpdated": "2026-09-20T21:06:12.279Z",
+      "locales": {
+        "en": {
+          "answer": "No. Mi Amor is a boutique hotel with an à la carte restaurant, so meals and drinks are ordered and paid for separately rather than bundled into an all-inclusive rate.",
+          "name": "Is Mi Amor Tulum all-inclusive?"
+        },
+        "es": {
+          "answer": "No. Mi Amor es un hotel boutique con un restaurante a la carta, por lo que las comidas y las bebidas se piden y se pagan por separado, en lugar de estar incluidas en una tarifa con todo incluido.",
+          "name": "¿El Mi Amor Tulum es un hotel con todo incluido?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "do-i-need-a-reservation-to-eat-at-mi-amor"
+      },
+      "convexId": "k57e222cj2cx3vkx6fj8qfezz18eswvz",
+      "lastUpdated": "2026-09-20T21:06:12.279Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. Because the restaurant sits inside the protected Parque Jaguar, a reservation is required at all times to gain entry to the park area. Book your table ahead through the venue page on Tulum Bible.",
+          "name": "Do I need a reservation to eat at Mi Amor?"
+        },
+        "es": {
+          "answer": "Sí. Dado que el restaurante se encuentra dentro del Parque Jaguar, que es un espacio protegido, es necesario reservar con antelación para poder acceder al recinto del parque. Reserva tu mesa con antelación a través de la página del local en Tulum Bible.",
+          "name": "¿Es necesario reservar para comer en Mi Amor?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "what-are-the-restaurant-s-hours"
+      },
+      "convexId": "k57e6r0emba59czv1ywrg1sny98erthb",
+      "lastUpdated": "2026-09-20T21:06:12.279Z",
+      "locales": {
+        "en": {
+          "answer": "The restaurant is open daily from 7:30 AM to 11:00 PM, with daily happy hour from 5:00 PM to 7:00 PM and 2-for-1 mimosas at weekend brunch from 9:00 AM to 3:00 PM.",
+          "name": "What are the restaurant's hours?"
+        },
+        "es": {
+          "answer": "El restaurante abre todos los días de 7:30 a 23:00, con happy hour diario de 17:00 a 19:00 y mimosas 2 por 1 en el brunch del fin de semana, de 9:00 a 15:00.",
+          "name": "¿Cuál es el horario del restaurante?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "is-there-parking-at-mi-amor"
+      },
+      "convexId": "k57cep0mrvvjq0zn8c50cvdj2s8erfgf",
+      "lastUpdated": "2026-09-20T21:06:12.279Z",
+      "locales": {
+        "en": {
+          "answer": "There is no on-site parking, and gas-powered vehicles are not permitted inside the protected park. Arrive by taxi, transportation service, or electric vehicle, and expect to pass a checkpoint and pay a small conservation fee.",
+          "name": "Is there parking at Mi Amor?"
+        },
+        "es": {
+          "answer": "No hay aparcamiento en el recinto y no se permiten vehículos de gasolina dentro del parque protegido. Acude en taxi, en un servicio de transporte o en vehículo eléctrico; ten en cuenta que deberás pasar por un control de acceso y abonar una pequeña tasa de conservación.",
+          "name": "¿Hay aparcamiento en Mi Amor?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "is-mi-amor-adults-only"
+      },
+      "convexId": "k57fc7fkx71czex8cgqerbjmc98ert17",
+      "lastUpdated": "2026-09-20T21:06:12.279Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. Mi Amor is an adults-only property, with a quiet, romance-focused setting that suits couples, honeymooners, and travelers after a calm meal by the sea.",
+          "name": "Is Mi Amor adults-only?"
+        },
+        "es": {
+          "answer": "Sí. Mi Amor es un establecimiento exclusivo para adultos, con un ambiente tranquilo y romántico ideal para parejas, recién casados y viajeros que buscan disfrutar de una cena tranquila junto al mar.",
+          "name": "¿Mi Amor es solo para adultos?"
         }
       }
     }
