@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-19T21:52:01.133Z",
+  "syncedAt": "2026-09-20T00:56:06.925Z",
   "citySlug": "tulum",
   "faqs": [
     {
@@ -7611,6 +7611,116 @@
         "es": {
           "answer": "Sí, el establecimiento ofrece aparcamiento gratuito para los huéspedes.",
           "name": "¿Hay aparcamiento en el restaurante?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "is-there-nightlife-at-mayan-monkey-in-tulum"
+      },
+      "convexId": "k571er4skngaw3e8hjehqcmapn8est3n",
+      "lastUpdated": "2026-09-20T00:55:46.268Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. After sunset the rooftop pool bar turns into a music-driven space with DJs, themed nights and pool parties, and it has hosted acts like Claptone, Gordo and Tom & Collins.",
+          "name": "Is there nightlife at Mayan Monkey in Tulum?"
+        },
+        "es": {
+          "answer": "Sí. Tras la puesta de sol, el bar de la piscina rooftop se convierte en un espacio dedicado a la música con DJ, noches temáticas y fiestas en la piscina, y ha acogido a artistas como Claptone, Gordo y Tom &amp; Collins.",
+          "name": "¿Hay vida nocturna en el Mayan Monkey de Tulum?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "does-mayan-monkey-charge-a-cover-or-minimum-spend"
+      },
+      "convexId": "k577bbxkydyzzfrsqa54p7tbex8escet",
+      "lastUpdated": "2026-09-20T00:55:46.268Z",
+      "locales": {
+        "en": {
+          "answer": "No. Entry to the rooftop is free with no minimum spend, so you can walk in, order from the bar and enjoy the pool.",
+          "name": "Does Mayan Monkey charge a cover or minimum spend?"
+        },
+        "es": {
+          "answer": "No. La entrada al rooftop es gratuita y no hay un gasto mínimo, así que puedes entrar, pedir algo en la barra y disfrutar de la piscina.",
+          "name": "¿El Mayan Monkey cobra entrada o exige un gasto mínimo?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "what-are-the-hours-at-mayan-monkey-rooftop"
+      },
+      "convexId": "k576fkr3bjnm0f9amq84dd06n58era4p",
+      "lastUpdated": "2026-09-20T00:55:46.268Z",
+      "locales": {
+        "en": {
+          "answer": "The rooftop is open daily from 10:00 to midnight. The pool runs from 10:00 to 22:00, and day passes are available from 10:00 to 19:00.",
+          "name": "What are the hours at Mayan Monkey rooftop?"
+        },
+        "es": {
+          "answer": "El rooftop abre todos los días de 10:00 a medianoche. La piscina está abierta de 10:00 a 22:00, y los pases diarios están disponibles de 10:00 a 19:00.",
+          "name": "¿Cuál es el horario de Mayan Monkey rooftop?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "is-there-a-day-pass-at-mayan-monkey"
+      },
+      "convexId": "k57cv9tsn4btmm4n09npdk2xax8es4gx",
+      "lastUpdated": "2026-09-20T00:55:46.268Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. A day pass costs around 51 USD and includes a 600 MXN food and beverage credit plus access to the pool, Bali beds, sun loungers and showers.",
+          "name": "Is there a day pass at Mayan Monkey?"
+        },
+        "es": {
+          "answer": "Sí. Un pase de un día cuesta unos 51 USD e incluye un crédito de 600 MXN para comida y bebida, además de acceso a la piscina, las tumbonas tipo Bali, las hamacas y las duchas.",
+          "name": "¿Hay algún pase de un día en Mayan Monkey?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "is-mayan-monkey-pet-friendly-and-does-it-have-parking"
+      },
+      "convexId": "k572jhrp4wv12h1w5hmrxedj718erq8b",
+      "lastUpdated": "2026-09-20T00:55:46.268Z",
+      "locales": {
+        "en": {
+          "answer": "Yes to both. Parking is free, and dogs and cats are allowed for a nightly fee.",
+          "name": "Is Mayan Monkey pet friendly and does it have parking?"
+        },
+        "es": {
+          "answer": "Sí a ambas cosas. El aparcamiento es gratuito y se admiten perros y gatos previo pago de una tarifa por noche.",
+          "name": "¿Se admiten mascotas en Mayan Monkey y dispone de aparcamiento?"
         }
       }
     }
