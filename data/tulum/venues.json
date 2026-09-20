@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-20T00:57:07.717Z",
+  "syncedAt": "2026-09-20T00:58:24.151Z",
   "citySlug": "tulum",
   "venues": [
     {
@@ -21,11 +21,11 @@
         "consumptionPackages": [
           {
             "capacity": 2,
-            "consumption": "0 MXN",
+            "consumption": null,
             "key": "pkg-mtqouv6q-bdzo",
             "note": "Towels, Parking, Wifi",
             "noteEs": "Toallas, aparcamiento, wifi",
-            "price": "0 MXN",
+            "price": "Free",
             "title": "Sunbed",
             "titleEs": "Solárium"
           }
@@ -112,14 +112,14 @@
         "openingHoursHtml": "<p>11:00 - 19:00</p><p>11:00 - 19:00</p><p>11:00 - 19:00</p><p>11:00 - 19:00</p><p>11:00 - 19:00</p><p>11:00 - 19:00</p><p>11:00 - 19:00</p>",
         "priority": 2,
         "promotion": "normal",
-        "publishedAt": "2026-09-10T02:46:18.507Z",
+        "publishedAt": "2026-09-10T02:46:27.307Z",
         "reelUrl": "",
         "reviewIds": [],
         "tableLayoutImage": null,
         "tags": []
       },
       "convexId": "jh73h95kjmbasdwd5dqpqfsxd17qygvv",
-      "lastUpdated": "2026-09-10T02:46:27.115Z",
+      "lastUpdated": "2026-09-20T00:58:08.456Z",
       "locales": {
         "en": {
           "address": "Carr. Tulum-Boca Paila Km 8.5, Zona Hotelera Tulum, 77760 Tulum, Q.R.",
