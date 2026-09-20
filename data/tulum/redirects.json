@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-19T20:48:13.414Z",
+  "syncedAt": "2026-09-20T02:05:16.512Z",
   "citySlug": "tulum",
   "redirects": [
     {
@@ -9305,6 +9305,32 @@
       },
       "convexId": "kx73yxrntg7bk5phm2vbrn6g358eph0v",
       "lastUpdated": "2026-09-19T20:47:57.103Z",
+      "locales": {
+        "en": {},
+        "es": {}
+      }
+    },
+    {
+      "base": {
+        "fromPath": "/venue/zamna-tulum",
+        "statusCode": 301,
+        "toPath": "/venue/zamna-cenote"
+      },
+      "convexId": "kx74xc2zy7kc8s75n256e975098er3ke",
+      "lastUpdated": "2026-09-20T02:05:03.752Z",
+      "locales": {
+        "en": {},
+        "es": {}
+      }
+    },
+    {
+      "base": {
+        "fromPath": "/es-mx/venue/zamna-tulum",
+        "statusCode": 301,
+        "toPath": "/es-mx/venue/zamna-cenote"
+      },
+      "convexId": "kx7b5c1ww8k6k2t860zy7hjves8esx4j",
+      "lastUpdated": "2026-09-20T02:05:03.752Z",
       "locales": {
         "en": {},
         "es": {}
