@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-20T00:56:06.925Z",
+  "syncedAt": "2026-09-20T02:12:47.932Z",
   "citySlug": "tulum",
   "faqs": [
     {
@@ -7721,6 +7721,94 @@
         "es": {
           "answer": "Sí a ambas cosas. El aparcamiento es gratuito y se admiten perros y gatos previo pago de una tarifa por noche.",
           "name": "¿Se admiten mascotas en Mayan Monkey y dispone de aparcamiento?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "are-cenotes-free-to-visit-in-tulum-like-the-one-at-zamna"
+      },
+      "convexId": "k577ynvkh56ser936nk8zndm398eraqn",
+      "lastUpdated": "2026-09-20T02:12:37.517Z",
+      "locales": {
+        "en": {
+          "answer": "Many public cenotes around Tulum charge a small entry fee, but Zamna is a private cenote rather than a walk-in swimming spot. You can only reach its water by staying in the eco-cabins or attending a ticketed event.",
+          "name": "Are cenotes free to visit in Tulum, like the one at Zamna?"
+        },
+        "es": {
+          "answer": "Muchos cenotes públicos de los alrededores de Tulum cobran una pequeña entrada, pero Zamna es un cenote privado y no un lugar de baño al que se pueda acceder libremente. Solo se puede acceder a sus aguas alojándose en las cabañas ecológicas o asistiendo a un evento con entrada.",
+          "name": "¿Se puede visitar gratis los cenotes de Tulum, como el de Zamna?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "can-you-swim-and-kayak-in-the-cenote-at-zamna"
+      },
+      "convexId": "k572kbp2d0fffmny5a64bgehm58esxxq",
+      "lastUpdated": "2026-09-20T02:12:37.517Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. The freshwater cenote is filtered and open for swimming, kayaking, paddleboarding and snorkeling when no event is running. On festival dates the same water sits at the center of the shows, so a quiet swim means coming outside the event calendar.",
+          "name": "Can you swim and kayak in the cenote at Zamna?"
+        },
+        "es": {
+          "answer": "Sí. El cenote de agua dulce está filtrado y abierto para nadar, practicar kayak, paddle surf y buceo con esnórquel cuando no hay ningún evento en marcha. Durante las fechas del festival, esa misma agua es el centro de los espectáculos, por lo que para darse un baño tranquilo hay que hacerlo fuera del calendario de eventos.",
+          "name": "¿Se puede nadar y hacer kayak en el cenote de Zamna?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "does-the-eco-hotel-at-zamna-include-breakfast"
+      },
+      "convexId": "k57fyj0wrs77sm6j9z0qxht2t18er7y6",
+      "lastUpdated": "2026-09-20T02:12:37.517Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. Each eco-cabin comes with breakfast included, along with a king bed, private terrace, air conditioning, a maxi-bar and a private shower. The front desk can also arrange yoga and massage.",
+          "name": "Does the eco-hotel at Zamna include breakfast?"
+        },
+        "es": {
+          "answer": "Sí. Cada cabaña ecológica incluye el desayuno, además de una cama king size, una terraza privada, aire acondicionado, un minibar y una ducha privada. En recepción también pueden organizarte clases de yoga y masajes.",
+          "name": "¿El hotel ecológico de Zamna incluye el desayuno?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "how-do-payments-work-during-zamna-events"
+      },
+      "convexId": "k575qm1e2qryq0x93m5dgfcvqs8erbkt",
+      "lastUpdated": "2026-09-20T02:12:37.517Z",
+      "locales": {
+        "en": {
+          "answer": "During events the venue runs on a pre-loaded cashless wristband. Any balance you do not spend is not refunded, so top up carefully rather than loading more than you plan to use.",
+          "name": "How do payments work during Zamna events?"
+        },
+        "es": {
+          "answer": "Durante los eventos, el recinto funciona con una pulsera sin efectivo que viene precargada. El saldo que no se gaste no se reembolsa, así que recárgala con cuidado y no cargues más de lo que tengas previsto gastar.",
+          "name": "¿Cómo funcionan los pagos durante los eventos de Zamna?"
         }
       }
     }
