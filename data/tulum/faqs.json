@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-20T21:21:09.777Z",
+  "syncedAt": "2026-09-21T04:00:28.487Z",
   "citySlug": "tulum",
   "faqs": [
     {
@@ -7919,6 +7919,138 @@
         "es": {
           "answer": "Sí. Mi Amor es un establecimiento exclusivo para adultos, con un ambiente tranquilo y romántico ideal para parejas, recién casados y viajeros que buscan disfrutar de una cena tranquila junto al mar.",
           "name": "¿Mi Amor es solo para adultos?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "does-chambao-take-reservations"
+      },
+      "convexId": "k573vq8pffyhfj5t5nvmfk9bah8ev772",
+      "lastUpdated": "2026-09-21T03:06:39.043Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. It takes reservations, and booking ahead is the safest way to get a table on weekend nights when the fire show runs. You can reserve a table through the venue page on Tulum Bible.",
+          "name": "Does Chambao take reservations?"
+        },
+        "es": {
+          "answer": "Yes. It takes reservations, and booking ahead is the safest way to get a table on weekend nights when the fire show runs. You can reserve a table through the venue page on Tulum Bible.",
+          "name": "Does Chambao take reservations?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "what-are-chambao-s-opening-hours"
+      },
+      "convexId": "k57fafq1wh5656j2f4m9zd4wh18evf3v",
+      "lastUpdated": "2026-09-21T03:06:39.043Z",
+      "locales": {
+        "en": {
+          "answer": "The venue is open every day, with service running from the early evening through 1 AM.",
+          "name": "What are Chambao's opening hours?"
+        },
+        "es": {
+          "answer": "The venue is open every day, with service running from the early evening through 1 AM.",
+          "name": "What are Chambao's opening hours?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "is-there-a-dress-code-at-chambao"
+      },
+      "convexId": "k570cmtdk8y6cxpfa5nte47a958evw89",
+      "lastUpdated": "2026-09-21T03:06:39.043Z",
+      "locales": {
+        "en": {
+          "answer": "Yes, the dress code is casual elegant. Shorts, tank tops, sports caps and flip-flops are not permitted, so dress for a night out rather than a beach day.",
+          "name": "Is there a dress code at Chambao?"
+        },
+        "es": {
+          "answer": "Yes, the dress code is casual elegant. Shorts, tank tops, sports caps and flip-flops are not permitted, so dress for a night out rather than a beach day.",
+          "name": "Is there a dress code at Chambao?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "what-kind-of-food-does-chambao-serve"
+      },
+      "convexId": "k5745cvemwanp6jzttkwk26twd8ev8m9",
+      "lastUpdated": "2026-09-21T03:06:39.043Z",
+      "locales": {
+        "en": {
+          "answer": "It is a high-end steakhouse and seafood venue. The menu centers on dry-aged cuts including USDA Prime, Australian Wagyu and Kobe, alongside Caribbean seafood like lobster, colossal octopus and oysters, with signature cuts such as the Lucifer tomahawk and the Mamut. Vegetarian options are available.",
+          "name": "What kind of food does Chambao serve?"
+        },
+        "es": {
+          "answer": "It is a high-end steakhouse and seafood venue. The menu centers on dry-aged cuts including USDA Prime, Australian Wagyu and Kobe, alongside Caribbean seafood like lobster, colossal octopus and oysters, with signature cuts such as the Lucifer tomahawk and the Mamut. Vegetarian options are available.",
+          "name": "What kind of food does Chambao serve?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "is-there-parking-at-chambao"
+      },
+      "convexId": "k577by6ddkmhd34t4cttgye9rn8evxgj",
+      "lastUpdated": "2026-09-21T03:06:39.043Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. There is free private parking with valet service.",
+          "name": "Is there parking at Chambao?"
+        },
+        "es": {
+          "answer": "Yes. There is free private parking with valet service.",
+          "name": "Is there parking at Chambao?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "can-chambao-host-large-groups-and-celebrations"
+      },
+      "convexId": "k57bjbqbwshry9m4nn2193knj58et49s",
+      "lastUpdated": "2026-09-21T03:06:39.043Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. It handles birthdays, bachelorette parties, corporate dinners and weddings. Parties of 15 or more require a deposit of 1,000 MXN per person, applied as consumption credit.",
+          "name": "Can Chambao host large groups and celebrations?"
+        },
+        "es": {
+          "answer": "Yes. It handles birthdays, bachelorette parties, corporate dinners and weddings. Parties of 15 or more require a deposit of 1,000 MXN per person, applied as consumption credit.",
+          "name": "Can Chambao host large groups and celebrations?"
         }
       }
     }
