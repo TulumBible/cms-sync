@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-20T02:05:16.512Z",
+  "syncedAt": "2026-09-22T12:01:00.168Z",
   "citySlug": "tulum",
   "redirects": [
     {
@@ -2164,10 +2164,10 @@
       "base": {
         "fromPath": "/event/ceremonia-15aug2026",
         "statusCode": 301,
-        "toPath": "/event/ceremonia-22aug2026"
+        "toPath": "/venue/gitano-beach"
       },
       "convexId": "kx75rrdn8xat8exp0bbng6w8v98cyqdd",
-      "lastUpdated": "2026-08-22T20:23:18.041Z",
+      "lastUpdated": "2026-09-22T12:00:38.015Z",
       "locales": {
         "en": {},
         "es": {}
@@ -2177,10 +2177,10 @@
       "base": {
         "fromPath": "/es-mx/event/ceremonia-15aug2026",
         "statusCode": 301,
-        "toPath": "/es-mx/event/ceremonia-22aug2026"
+        "toPath": "/es-mx/venue/gitano-beach"
       },
       "convexId": "kx79f2k06s1a0jc7qeahn6es9d8cz759",
-      "lastUpdated": "2026-08-22T20:23:18.041Z",
+      "lastUpdated": "2026-09-22T12:00:38.015Z",
       "locales": {
         "en": {},
         "es": {}
@@ -9331,6 +9331,32 @@
       },
       "convexId": "kx7b5c1ww8k6k2t860zy7hjves8esx4j",
       "lastUpdated": "2026-09-20T02:05:03.752Z",
+      "locales": {
+        "en": {},
+        "es": {}
+      }
+    },
+    {
+      "base": {
+        "fromPath": "/event/ceremonia-22aug2026",
+        "statusCode": 301,
+        "toPath": "/venue/gitano-beach"
+      },
+      "convexId": "kx79khza5b93jvxn268r6v08rh8ewas8",
+      "lastUpdated": "2026-09-22T12:00:38.015Z",
+      "locales": {
+        "en": {},
+        "es": {}
+      }
+    },
+    {
+      "base": {
+        "fromPath": "/es-mx/event/ceremonia-22aug2026",
+        "statusCode": 301,
+        "toPath": "/es-mx/venue/gitano-beach"
+      },
+      "convexId": "kx7dyzaddr130h288xvny7x7718ew6z3",
+      "lastUpdated": "2026-09-22T12:00:38.015Z",
       "locales": {
         "en": {},
         "es": {}
