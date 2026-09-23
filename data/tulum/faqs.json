@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-21T16:00:40.488Z",
+  "syncedAt": "2026-09-23T00:00:35.613Z",
   "citySlug": "tulum",
   "faqs": [
     {
@@ -7919,6 +7919,94 @@
         "es": {
           "answer": "Yes. It handles birthdays, bachelorette parties, corporate dinners and weddings. Parties of 15 or more require a deposit of 1,000 MXN per person, applied as consumption credit.",
           "name": "Can Chambao host large groups and celebrations?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "what-are-the-opening-hours-for-rosa-negra"
+      },
+      "convexId": "k57exjm7mfcrkdcj413t0ct8b98ex37y",
+      "lastUpdated": "2026-09-22T21:26:56.426Z",
+      "locales": {
+        "en": {
+          "answer": "The restaurant opens for dinner at 5:00 PM and closes at 1:00 AM every day.",
+          "name": "What are the opening hours for Rosa Negra?"
+        },
+        "es": {
+          "answer": "El restaurante abre para cenar a las 17:00 y cierra a la 01:00 todos los días.",
+          "name": "¿Cuál es el horario de apertura de Rosa Negra?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "do-i-need-a-reservation-for-rosa-negra"
+      },
+      "convexId": "k57demqy2pfdqfrma407zw2m7s8exzz8",
+      "lastUpdated": "2026-09-22T21:26:56.426Z",
+      "locales": {
+        "en": {
+          "answer": "Yes, reservations are highly recommended, especially for dinner and the fire shows. You can book your table directly through Tulum Bible.",
+          "name": "Do I need a reservation for Rosa Negra?"
+        },
+        "es": {
+          "answer": "Sí, es muy recomendable reservar, sobre todo para la cena y los espectáculos de fuego. Puedes reservar tu mesa directamente a través de Tulum Bible.",
+          "name": "¿Es necesario reservar en Rosa Negra?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "when-is-the-fire-show-at-rosa-negra"
+      },
+      "convexId": "k57a61r56y6sqy7js4s7ewnjyx8exaqp",
+      "lastUpdated": "2026-09-22T21:26:56.426Z",
+      "locales": {
+        "en": {
+          "answer": "The Eternal Tribal Flame fire dance show takes place Thursday through Sunday.",
+          "name": "When is the fire show at Rosa Negra?"
+        },
+        "es": {
+          "answer": "El espectáculo de danza del fuego Eternal Tribal Flame tiene lugar de jueves a domingo.",
+          "name": "¿Cuándo es el espectáculo de fuego en Rosa Negra?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "is-there-parking-available-at-the-venue"
+      },
+      "convexId": "k57f3rt6w9v3fqqv6fft82ryvd8ewrap",
+      "lastUpdated": "2026-09-22T21:26:56.426Z",
+      "locales": {
+        "en": {
+          "answer": "Yes, the restaurant offers both free private parking and valet services for guests.",
+          "name": "Is there parking available at the venue?"
+        },
+        "es": {
+          "answer": "Sí, el restaurante ofrece tanto aparcamiento privado gratuito como servicio de aparcacoches para los clientes.",
+          "name": "¿Hay plazas de aparcamiento disponibles en el recinto?"
         }
       }
     }
