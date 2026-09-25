@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-23T00:00:35.613Z",
+  "syncedAt": "2026-09-25T04:00:26.868Z",
   "citySlug": "tulum",
   "faqs": [
     {
@@ -703,28 +703,6 @@
         "es": {
           "answer": "A lo largo de toda la temporada. Esta es ahora nuestra página permanente dedicada a los festivales de Tulum, por lo que las nuevas fechas, los carteles, las salidas a la venta de entradas y la información práctica se irán añadiendo aquí, en lugar de crear una guía independiente cada año.",
           "name": "¿Con qué frecuencia se actualizará esta guía?"
-        }
-      }
-    },
-    {
-      "base": {
-        "appliesTo": [
-          "eventType"
-        ],
-        "areaSlug": null,
-        "category": null,
-        "slug": "how-much-are-tulum-festival-tickets"
-      },
-      "convexId": "k57dfm24qwsnef7a270w386sq98ct912",
-      "lastUpdated": "2026-08-20T22:17:23.179Z",
-      "locales": {
-        "en": {
-          "answer": "Prices vary by event. Early-release tickets for headline nights generally start around $100 USD and rise to $250+ USD as the date approaches. VIP tickets and table packages cost considerably more — table pricing for the big Zamna and Day Zero nights is listed on each event page.",
-          "name": "How much are Tulum festival tickets?"
-        },
-        "es": {
-          "answer": "Los precios varían según el evento. Las entradas anticipadas para las noches principales suelen empezar en torno a los 100 USD y superan los 250 USD a medida que se acerca la fecha. Las entradas VIP y los paquetes con mesa cuestan bastante más: el precio de las mesas para las grandes noches de Zamna y Day Zero aparece en la página de cada evento.",
-          "name": "¿Cuánto cuestan las entradas de los festivales de Tulum?"
         }
       }
     },
@@ -4167,50 +4145,6 @@
         ],
         "areaSlug": null,
         "category": null,
-        "slug": "is-the-venue-indoors-or-open-air"
-      },
-      "convexId": "k570fgp54szxn09rvvfz4vmzq58dwm66",
-      "lastUpdated": "2026-09-06T02:16:07.487Z",
-      "locales": {
-        "en": {
-          "answer": "The main club is indoors, with a central dance floor, mezzanine sections and a retractable roof. It also has an open-air lounge away from the main floor.",
-          "name": "Is the venue indoors or open-air?"
-        },
-        "es": {
-          "answer": "La sala principal es cubierta, con una pista de baile central, entreplantas y un techo retráctil. Además, cuenta con una zona de descanso al aire libre, separada de la pista principal.",
-          "name": "¿El lugar del evento es cubierto o al aire libre?"
-        }
-      }
-    },
-    {
-      "base": {
-        "appliesTo": [
-          "venue"
-        ],
-        "areaSlug": null,
-        "category": null,
-        "slug": "what-identification-was-required-for-entry"
-      },
-      "convexId": "k573cg863kak1417h0xqsedrjx8dxcbf",
-      "lastUpdated": "2026-09-06T02:16:07.487Z",
-      "locales": {
-        "en": {
-          "answer": "Guests with a reservation had to present a physical ID and the card used to make the booking.",
-          "name": "What identification was required for entry?"
-        },
-        "es": {
-          "answer": "Los huéspedes con reserva tenían que presentar un documento de identidad físico y la tarjeta utilizada para realizar la reserva.",
-          "name": "¿Qué documento de identidad había que presentar para entrar?"
-        }
-      }
-    },
-    {
-      "base": {
-        "appliesTo": [
-          "venue"
-        ],
-        "areaSlug": null,
-        "category": null,
         "slug": "is-meze-still-open-in-tulum"
       },
       "convexId": "k57dq9kkwa0ehyp2y0ehp3987n8dxadf",
@@ -7589,50 +7523,6 @@
         "es": {
           "answer": "Sí a ambas cosas. El aparcamiento es gratuito y se admiten perros y gatos previo pago de una tarifa por noche.",
           "name": "¿Se admiten mascotas en Mayan Monkey y dispone de aparcamiento?"
-        }
-      }
-    },
-    {
-      "base": {
-        "appliesTo": [
-          "venue"
-        ],
-        "areaSlug": null,
-        "category": null,
-        "slug": "are-cenotes-free-to-visit-in-tulum-like-the-one-at-zamna"
-      },
-      "convexId": "k577ynvkh56ser936nk8zndm398eraqn",
-      "lastUpdated": "2026-09-20T02:12:37.517Z",
-      "locales": {
-        "en": {
-          "answer": "Many public cenotes around Tulum charge a small entry fee, but Zamna is a private cenote rather than a walk-in swimming spot. You can only reach its water by staying in the eco-cabins or attending a ticketed event.",
-          "name": "Are cenotes free to visit in Tulum, like the one at Zamna?"
-        },
-        "es": {
-          "answer": "Muchos cenotes públicos de los alrededores de Tulum cobran una pequeña entrada, pero Zamna es un cenote privado y no un lugar de baño al que se pueda acceder libremente. Solo se puede acceder a sus aguas alojándose en las cabañas ecológicas o asistiendo a un evento con entrada.",
-          "name": "¿Se puede visitar gratis los cenotes de Tulum, como el de Zamna?"
-        }
-      }
-    },
-    {
-      "base": {
-        "appliesTo": [
-          "venue"
-        ],
-        "areaSlug": null,
-        "category": null,
-        "slug": "can-you-swim-and-kayak-in-the-cenote-at-zamna"
-      },
-      "convexId": "k572kbp2d0fffmny5a64bgehm58esxxq",
-      "lastUpdated": "2026-09-20T02:12:37.517Z",
-      "locales": {
-        "en": {
-          "answer": "Yes. The freshwater cenote is filtered and open for swimming, kayaking, paddleboarding and snorkeling when no event is running. On festival dates the same water sits at the center of the shows, so a quiet swim means coming outside the event calendar.",
-          "name": "Can you swim and kayak in the cenote at Zamna?"
-        },
-        "es": {
-          "answer": "Sí. El cenote de agua dulce está filtrado y abierto para nadar, practicar kayak, paddle surf y buceo con esnórquel cuando no hay ningún evento en marcha. Durante las fechas del festival, esa misma agua es el centro de los espectáculos, por lo que para darse un baño tranquilo hay que hacerlo fuera del calendario de eventos.",
-          "name": "¿Se puede nadar y hacer kayak en el cenote de Zamna?"
         }
       }
     },
