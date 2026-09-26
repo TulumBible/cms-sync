@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-26T01:50:27.346Z",
+  "syncedAt": "2026-09-26T02:12:38.931Z",
   "citySlug": "tulum",
   "events": [
     {
@@ -101,6 +101,100 @@
           "hubBlurb": "",
           "name": "Ceremonia",
           "slug": "ceremonia-17oct2026",
+          "tableInformation": ""
+        }
+      }
+    },
+    {
+      "base": {
+        "afterEnd": "archive",
+        "buyLink": "https://tf.link/gosfmfgl",
+        "categoryIds": [],
+        "cta": "Tickets",
+        "displayPrice": "MXN $240",
+        "endDate": "2026-11-01T23:59",
+        "eventType": "Cenote",
+        "faqIds": [],
+        "flyerImage": {
+          "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/953cc78a-cf3a-4570-7370-c493c07a7500/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+        },
+        "gaLink": null,
+        "gaPrice": null,
+        "hubImage": null,
+        "isFeatured": false,
+        "isPublished": true,
+        "lineup": [
+          "HANAL PIXÁN"
+        ],
+        "noPrice": false,
+        "promotion": "normal",
+        "publishedAt": null,
+        "qrCode": "M0 0.5h7m1 0h1m1 0h1m1 0h2m2 0h6m1 0h1m2 0h1m1 0h1m1 0h7M0 1.5h1m5 0h1m2 0h4m1 0h1m2 0h2m1 0h1m1 0h5m1 0h1m1 0h1m5 0h1M0 2.5h1m1 0h3m1 0h1m1 0h3m2 0h4m1 0h3m1 0h1m1 0h2m4 0h1m1 0h3m1 0h1M0 3.5h1m1 0h3m1 0h1m1 0h3m1 0h4m4 0h1m1 0h1m1 0h5m1 0h1m1 0h3m1 0h1M0 4.5h1m1 0h3m1 0h1m1 0h1m2 0h2m1 0h3m1 0h2m1 0h1m2 0h1m1 0h3m1 0h1m1 0h3m1 0h1M0 5.5h1m5 0h1m3 0h2m5 0h4m1 0h1m1 0h1m5 0h1m5 0h1M0 6.5h7m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h7M10 7.5h1m1 0h1m1 0h5m3 0h3m2 0h2M0 8.5h4m2 0h1m1 0h1m1 0h3m1 0h2m1 0h5m1 0h1m2 0h4m2 0h3m1 0h1M0 9.5h1m3 0h2m4 0h1m1 0h2m1 0h2m1 0h6m4 0h2m1 0h1m1 0h3M3 10.5h1m1 0h3m2 0h3m3 0h1m3 0h1m1 0h3m3 0h2m1 0h1m2 0h2M0 11.5h1m2 0h1m1 0h1m2 0h1m4 0h1m4 0h1m1 0h1m2 0h8m1 0h1m1 0h3M1 12.5h2m2 0h2m1 0h1m3 0h3m2 0h1m4 0h2m1 0h1m1 0h4m1 0h3m1 0h1M8 13.5h1m2 0h2m1 0h4m1 0h3m1 0h3m1 0h8m1 0h1M2 14.5h1m1 0h1m1 0h1m3 0h2m1 0h2m4 0h2m3 0h3m2 0h1m2 0h2m1 0h1M3 15.5h1m1 0h1m1 0h5m2 0h3m3 0h3m3 0h1m1 0h1m2 0h1m1 0h1m2 0h1M3 16.5h1m2 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h2m3 0h1m1 0h2m5 0h2M0 17.5h1m1 0h1m5 0h3m4 0h1m1 0h1m2 0h2m1 0h4m3 0h1m2 0h1m1 0h2M0 18.5h1m3 0h5m4 0h3m4 0h3m1 0h1m2 0h3m1 0h2m1 0h3M0 19.5h1m2 0h2m5 0h2m1 0h2m1 0h4m2 0h3m3 0h1m2 0h1m1 0h1m1 0h1M0 20.5h4m1 0h2m1 0h2m3 0h7m1 0h1m2 0h1m1 0h4m1 0h3m1 0h1M0 21.5h2m5 0h2m1 0h1m5 0h1m2 0h3m1 0h1m2 0h1m1 0h1m6 0h1M0 22.5h3m2 0h2m2 0h2m3 0h1m1 0h2m4 0h5m4 0h1M0 23.5h1m1 0h2m3 0h2m1 0h5m4 0h1m4 0h2m4 0h5M0 24.5h2m3 0h3m3 0h1m3 0h3m4 0h1m3 0h5m1 0h5M2 25.5h4m5 0h1m1 0h1m1 0h3m1 0h1m2 0h1m1 0h2m1 0h7m2 0h1M1 26.5h3m2 0h3m3 0h1m1 0h1m1 0h1m2 0h1m1 0h1m4 0h1m2 0h1m1 0h2m2 0h1M0 27.5h1m4 0h1m1 0h1m4 0h2m1 0h2m4 0h1m1 0h1m2 0h4m1 0h3m2 0h1M2 28.5h3m1 0h2m1 0h1m1 0h1m4 0h1m1 0h1m2 0h3m1 0h1m2 0h5m1 0h3M8 29.5h1m1 0h1m1 0h2m1 0h1m1 0h1m2 0h1m1 0h2m1 0h1m1 0h2m3 0h2m2 0h1M0 30.5h7m3 0h3m2 0h2m1 0h1m1 0h3m2 0h1m2 0h1m1 0h1m1 0h5M0 31.5h1m5 0h1m2 0h1m2 0h1m3 0h4m2 0h3m2 0h2m3 0h2m1 0h2M0 32.5h1m1 0h3m1 0h1m3 0h4m1 0h1m1 0h2m1 0h2m4 0h1m1 0h5m3 0h1M0 33.5h1m1 0h3m1 0h1m1 0h1m3 0h3m3 0h1m1 0h1m2 0h1m1 0h1m2 0h3m1 0h1m1 0h3M0 34.5h1m1 0h3m1 0h1m1 0h2m1 0h3m4 0h1m1 0h4m1 0h1m1 0h6M0 35.5h1m5 0h1m1 0h2m5 0h1m2 0h3m1 0h1m1 0h4m1 0h2m2 0h2M0 36.5h7m1 0h3m1 0h1m1 0h1m2 0h1m2 0h1m1 0h1m1 0h4m2 0h1m1 0h5<!--vb:37-->",
+        "startDate": "2026-11-01",
+        "status": "Live",
+        "tableLayoutImage": null,
+        "tbeId": "TBE_VC5KUW",
+        "ticketPrice": null,
+        "ticketTiers": [
+          {
+            "currency": "MXN",
+            "id": "CrHV5ET2l/1NRZ4+HLT9OY4Fwpi0N1y8vVGeQqWLVSIHWZ3JSgF1JLrXl/Te/Cc9R0asjdX4w7j2oheeLEFSWA==",
+            "isTable": false,
+            "name": "Early Bird (Tier 1)",
+            "price": 240,
+            "priceWithFees": 240,
+            "sortOrder": 1,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "xlybWW2NIeQpXinBhY77C4nKzIugNlYHOvpXcN81xRBt7fvsnIc16Nd1WrOCOrHO7F8OZNPqmeri5IJNP/y0/A==",
+            "isTable": false,
+            "name": "Concert & Wine Experience",
+            "price": 390,
+            "priceWithFees": 390,
+            "sortOrder": 2,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "nvGW3d3JnGq2c5jUTEaaZD2zdGGO07WNE82DZFUtdpbIsmCPLJfuLJ5xk2Aica+SZ8bxECiFjaDsNnmvoY+DNQ==",
+            "isTable": false,
+            "name": "Guest List",
+            "price": 0,
+            "priceWithFees": 0,
+            "replacementText": "Free",
+            "sortOrder": 3,
+            "status": "upcoming",
+            "symbol": "Mex$"
+          }
+        ],
+        "time": "18:00 - 21:00",
+        "url": "https://tf.link/gosfmfgl",
+        "venueName": "Vesica Cenote",
+        "venueSlug": "vesica-tulum",
+        "vipLink": null,
+        "vipPrice": null
+      },
+      "convexId": "j579zf3zbjpazc43av0rk4jbqd8f47fr",
+      "lastUpdated": "2026-09-26T02:12:21.579Z",
+      "locales": {
+        "en": {
+          "body": "<h2>A Candlelit Hanal Pixán Gathering at the Cenote</h2>\n<p>Concert Night | Hanal Pixán brings live Mexican music and a collective Day of the Dead altar to Vesica Santuario at Vesica Cenote. The gathering takes place on Sunday, 1 November 2026, from 6:00 PM to 10:00 PM. Candlelight, the cenote and the open-air setting frame a night focused on life, memory and Mexican tradition. You listen to the concert, contribute to the altar and remember people who are no longer present.</p>\n<h3>Mexican Music with an Instrumental Ensemble</h3>\n<p>An instrumental ensemble performs a live concert centred on Mexican music. The performance is the main part of the evening and connects with Hanal Pixán themes of memory, life and tradition. This is an intimate Concert Night rather than a regular daytime DJ session or dance-floor event. Candles light the setting while the musicians perform beside the cenote. Guests are asked to respect the silence and atmosphere throughout the concert.</p>\n<h3>Bring Something for the Collective Altar</h3>\n<p>Guests build a collective Day of the Dead altar during the night. You can bring a photograph, flower, candle, object, food item or another meaningful element connected to someone you want to remember. Your contribution joins those brought by other guests, making the altar a shared part of the gathering. Participation is personal, so you can choose an item that carries meaning for you. The altar links the concert to the Hanal Pixán themes of memory, life and continuing connection.</p>\n<h3>Two Natural Sinkholes in an Open-Air Sanctuary</h3>\n<p>Vesica is an open-air cenote club and wellness sanctuary in the Uptown area, a few minutes north of Tulum town. The property is built around two natural freshwater sinkholes, with a short jungle path leading from the entrance to the water. Its grounds include daybeds, hammocks, shaded wellness tents and spaces used for concerts, weddings and private gatherings. Vesica also runs recurring Concert Nights and Santuario candlelight sessions. For this edition, the cenote becomes the setting for live Mexican music and the communal altar.</p>\n<h3>Limited Seating and a Quiet Performance Format</h3>\n<p>Seating is limited, and the arrangement varies by ticket type. This makes your selected ticket category important when you book. Doors open before the concert, so allow time to complete check-in at the concierge. Guest-list tickets are valid only during their designated entry window. Late entry depends on availability and may require a ticket upgrade, while the performance itself calls for quiet listening.</p>\n<h3>Plan Your Arrival and Book Your Place</h3>\n<p>The night runs from 6:00 PM to 10:00 PM on Sunday, 1 November 2026. Vesica Cenote is at PARCELA No. 198Z-2P-1 EJIDO, 77760 Tulum, Q.R., in the Uptown area north of town. A gravel parking lot is available on site, and guests check in at the front before following the path into the property. Arrive with enough time for concierge check-in and entry before the music begins. Choose your ticket and complete your booking with the buy button on this page.</p>",
+          "description": "Hanal Pixán is a candlelit Concert Night of live Mexican music beside the cenote, with a collective Day of the Dead altar built by guests for shared remembrance.",
+          "hubBlurb": "",
+          "name": "Concert Night | HANAL PIXÁN",
+          "slug": "concert-night-vesica-santuario-1nov2026",
+          "tableInformation": ""
+        },
+        "es": {
+          "body": "<h2>Encuentro de Hanal Pixán a la luz de las velas en el cenote</h2>\n<p>Noche de concierto | Hanal Pixán trae música mexicana en directo y un altar colectivo del Día de los Muertos al Vesica Santuario, en el cenote Vesica. El encuentro tendrá lugar el domingo 1 de noviembre de 2026, de 18:00 a 22:00. La luz de las velas, el cenote y el entorno al aire libre enmarcan una noche centrada en la vida, la memoria y la tradición mexicana. Podrás escuchar el concierto, contribuir al altar y recordar a las personas que ya no están entre nosotros.</p>\n<h3>Música mexicana con un conjunto instrumental</h3>\n<p>Un conjunto instrumental ofrece un concierto en directo centrado en la música mexicana. La actuación es la parte principal de la velada y conecta con los temas de Hanal Pixán: la memoria, la vida y la tradición. Se trata de una noche de concierto íntima, más que de una sesión habitual de DJ durante el día o un evento con pista de baile. Las velas iluminan el escenario mientras los músicos tocan junto al cenote. Se ruega a los invitados que respeten el silencio y el ambiente durante todo el concierto.</p>\n<h3>Trae algo para el altar colectivo</h3>\n<p>Los invitados montan un altar colectivo del Día de los Muertos durante la noche. Puedes traer una fotografía, una flor, una vela, un objeto, algún alimento u otro elemento significativo relacionado con alguien a quien quieras recordar. Tu aportación se une a las de los demás invitados, convirtiendo el altar en una parte compartida del encuentro. La participación es personal, así que puedes elegir un objeto que tenga significado para ti. El altar vincula el concierto con los temas de Hanal Pixán: la memoria, la vida y la conexión perdurable.</p>\n<h3>Dos sumideros naturales en un santuario al aire libre</h3>\n<p>Vesica es un club de cenotes al aire libre y un santuario de bienestar situado en la zona de Uptown, a pocos minutos al norte de la ciudad de Tulum. El recinto se ha construido en torno a dos cenotes naturales de agua dulce, con un breve sendero por la selva que lleva desde la entrada hasta el agua. Sus instalaciones incluyen tumbonas, hamacas, carpas de bienestar a la sombra y espacios destinados a conciertos, bodas y reuniones privadas. Vesica también organiza periódicamente las Noches de Conciertos y las sesiones Santuario a la luz de las velas. Para esta edición, el cenote se convierte en el escenario de la música mexicana en directo y del altar comunitario.</p>\n<h3>Aforo limitado y formato de actuación íntimo</h3>\n<p>Las plazas son limitadas y la distribución varía según el tipo de entrada. Por ello, es importante tener en cuenta la categoría de entrada seleccionada al realizar la reserva. Las puertas se abren antes del concierto, así que calcula tiempo suficiente para completar el registro en la recepción. Las entradas de la lista de invitados solo son válidas durante el horario de entrada asignado. La entrada tardía depende de la disponibilidad y puede requerir un cambio a una entrada de categoría superior, mientras que la actuación en sí requiere una escucha silenciosa.</p>\n<h3>Planifica tu llegada y reserva tu plaza</h3>\n<p>La velada tendrá lugar de 18:00 a 22:00 horas el domingo 1 de noviembre de 2026. Vesica Cenote se encuentra en PARCELA n.º 198Z-2P-1 EJIDO, 77760 Tulum, Q.R., en la zona de Uptown, al norte de la ciudad. Hay un aparcamiento de grava disponible en el recinto, y los invitados deben registrarse en la entrada principal antes de seguir el camino que conduce a la propiedad. Llega con tiempo suficiente para que el conserje te registre y puedas entrar antes de que comience la música. Elige tu entrada y completa tu reserva con el botón Comprar de esta página.</p>",
+          "description": "Hanal Pixán es una noche de conciertos a la luz de las velas con música mexicana en directo junto al cenote, en la que los invitados construyen colectivamente un altar del Día de los Muertos para compartir el recuerdo.",
+          "hubBlurb": "",
+          "name": "Concert Night | HANAL PIXÁN",
+          "slug": "concert-night-vesica-santuario-1nov2026",
           "tableInformation": ""
         }
       }
