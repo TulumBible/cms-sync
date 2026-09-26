@@ -1,7 +1,213 @@
 {
-  "syncedAt": "2026-09-26T04:00:20.680Z",
+  "syncedAt": "2026-09-26T05:05:25.388Z",
   "citySlug": "tulum",
   "events": [
+    {
+      "base": {
+        "afterEnd": "archive",
+        "buyLink": "https://tf.link/ui8jw0ua",
+        "categoryIds": [],
+        "cta": "Tickets",
+        "displayPrice": "Free",
+        "endDate": "2026-09-26T23:59",
+        "eventType": "BeachClub",
+        "faqIds": [],
+        "flyerImage": {
+          "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/4345efe3-f286-4e42-93a0-28f1097bbb00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+        },
+        "gaLink": null,
+        "gaPrice": null,
+        "hubImage": null,
+        "isFeatured": false,
+        "isPublished": true,
+        "lineup": [
+          "CHEMA DIAZ",
+          "LESSY",
+          "PRAH"
+        ],
+        "noPrice": false,
+        "promotion": "normal",
+        "publishedAt": null,
+        "qrCode": "M0 0.5h7m1 0h1m1 0h1m1 0h2m2 0h6m1 0h1m2 0h1m1 0h1m1 0h7M0 1.5h1m5 0h1m2 0h4m1 0h1m2 0h2m1 0h1m1 0h5m1 0h1m1 0h1m5 0h1M0 2.5h1m1 0h3m1 0h1m1 0h3m2 0h4m1 0h3m1 0h1m1 0h2m4 0h1m1 0h3m1 0h1M0 3.5h1m1 0h3m1 0h1m1 0h3m1 0h4m4 0h1m1 0h1m1 0h5m1 0h1m1 0h3m1 0h1M0 4.5h1m1 0h3m1 0h1m1 0h1m2 0h2m1 0h3m1 0h2m1 0h1m2 0h1m1 0h3m1 0h1m1 0h3m1 0h1M0 5.5h1m5 0h1m3 0h2m5 0h4m1 0h1m1 0h1m5 0h1m5 0h1M0 6.5h7m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h7M10 7.5h1m1 0h1m1 0h5m3 0h3m2 0h2M0 8.5h4m2 0h1m1 0h1m1 0h3m1 0h2m1 0h5m1 0h1m2 0h4m2 0h3m1 0h1M2 9.5h3m2 0h1m1 0h2m1 0h2m1 0h2m1 0h6m4 0h2m3 0h3M1 10.5h1m1 0h1m2 0h1m1 0h1m1 0h3m3 0h1m3 0h1m1 0h3m3 0h5m1 0h2M8 11.5h1m1 0h1m2 0h1m4 0h1m1 0h1m2 0h6m2 0h2m1 0h3M0 12.5h1m1 0h5m3 0h1m1 0h3m2 0h1m4 0h2m1 0h1m1 0h4m1 0h3m1 0h1M1 13.5h1m3 0h1m2 0h5m1 0h4m1 0h3m1 0h3m1 0h8m1 0h1M0 14.5h1m1 0h2m2 0h1m1 0h1m1 0h2m1 0h2m4 0h2m3 0h3m3 0h1m2 0h1m1 0h1M3 15.5h2m4 0h3m2 0h3m3 0h3m3 0h1m1 0h1m2 0h1m1 0h1m2 0h1M0 16.5h1m2 0h2m1 0h1m2 0h1m2 0h1m1 0h1m1 0h1m1 0h1m1 0h2m3 0h1m1 0h2m2 0h1m2 0h2M1 17.5h1m2 0h2m3 0h1m5 0h1m1 0h1m2 0h2m1 0h4m2 0h2m2 0h1m1 0h2M0 18.5h1m5 0h3m1 0h1m2 0h3m4 0h3m1 0h1m2 0h6m1 0h3M1 19.5h2m1 0h2m1 0h2m1 0h2m1 0h2m1 0h4m2 0h3m3 0h1m1 0h2m1 0h1m1 0h1M3 20.5h2m1 0h1m1 0h3m2 0h7m1 0h1m2 0h1m1 0h3m2 0h3m1 0h1M0 21.5h1m1 0h1m13 0h1m2 0h3m1 0h1m2 0h1m1 0h2m5 0h1M1 22.5h3m1 0h3m2 0h1m3 0h1m1 0h2m4 0h5m2 0h1m1 0h1M0 23.5h2m2 0h1m2 0h1m2 0h5m4 0h1m4 0h2m5 0h4M6 24.5h2m2 0h2m3 0h3m4 0h1m3 0h5m1 0h5M1 25.5h1m1 0h1m3 0h2m1 0h2m1 0h1m1 0h3m1 0h1m2 0h1m1 0h2m1 0h2m1 0h4m2 0h1M1 26.5h1m1 0h1m1 0h2m1 0h3m1 0h1m1 0h1m1 0h1m2 0h1m1 0h1m4 0h1m2 0h1m1 0h2m2 0h1M0 27.5h1m3 0h2m2 0h1m3 0h2m1 0h2m4 0h1m1 0h1m2 0h8m2 0h1M4 28.5h1m1 0h6m4 0h1m1 0h1m2 0h3m1 0h1m2 0h5m1 0h3M8 29.5h1m1 0h1m1 0h2m1 0h1m1 0h1m2 0h1m1 0h2m1 0h1m1 0h2m3 0h2m2 0h1M0 30.5h7m4 0h2m2 0h2m1 0h1m1 0h3m2 0h1m2 0h1m1 0h1m1 0h5M0 31.5h1m5 0h1m5 0h1m3 0h4m2 0h3m2 0h2m3 0h2m1 0h2M0 32.5h1m1 0h3m1 0h1m3 0h4m1 0h1m1 0h2m1 0h2m4 0h1m1 0h5m3 0h1M0 33.5h1m1 0h3m1 0h1m1 0h1m1 0h1m1 0h3m3 0h1m1 0h1m2 0h1m1 0h1m2 0h3m1 0h1m1 0h3M0 34.5h1m1 0h3m1 0h1m1 0h1m2 0h3m4 0h1m1 0h4m1 0h1m1 0h6M0 35.5h1m5 0h1m1 0h2m5 0h1m2 0h3m1 0h1m1 0h4m5 0h2M0 36.5h7m1 0h1m1 0h1m1 0h1m1 0h1m2 0h1m2 0h1m1 0h1m1 0h4m1 0h2m1 0h5<!--vb:37-->",
+        "startDate": "2026-09-26",
+        "status": "Live",
+        "tableLayoutImage": null,
+        "tbeId": "TBE_42WHGU",
+        "ticketPrice": null,
+        "ticketTiers": [
+          {
+            "currency": "MXN",
+            "id": "xa5xzoYt/iPQyBikQ1qsbB1L27tteN2RPUa24Gb6WwexUzoHXt0SfskUPncsalkmukp8q204d7BDIw3Omh4oWg==",
+            "isTable": false,
+            "name": "Guest List",
+            "price": 0,
+            "priceWithFees": 0,
+            "replacementText": "Free",
+            "sortOrder": 1,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "3eDG3w1+zPg3GbO7Q88wV+/iS1ZpEU16pTdWuY87U3C1d4TTGN+Cx4pDs8M9KdgWI3zMH6srPWWrLd7FWe5K3Q==",
+            "isTable": false,
+            "name": "General Access",
+            "price": 1100,
+            "priceWithFees": 1100,
+            "sortOrder": 2,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "mLnNfhIMy/9r2jynSIS+FzV6uHT36DGaVBqI7hvnpLVMWTRzf+6k8xX/sZtSJv9ZU6AclHgcaBCiCjqyjTFZEg==",
+            "isTable": false,
+            "name": "Local Access",
+            "price": 390,
+            "priceWithFees": 390,
+            "sortOrder": 3,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "+a3cn7o+FYVi4xg9BxySEoBHObOQ/pA3E/FwvUS3xKezZjaUOSNx0cSjOr0ttv/9/BkYv5XVxZrVsazJYU+chA==",
+            "isTable": false,
+            "name": "Dinner La Luna",
+            "price": 3300,
+            "priceWithFees": 3300,
+            "sortOrder": 4,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "1dB7OGKKc3ouUqkMBpPr3fIhR8ZRBUNTGYKSMvd6Tjo9fJ0sLIe6Hmcf2SWglgtawPLscz75ADUsRXndku8f/w==",
+            "isTable": true,
+            "name": "Black Table | 6 Pax",
+            "price": 21600,
+            "priceWithFees": 21600,
+            "sortOrder": 5,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "OaTt+rc08GyBdhcm7IPuyjmUqIE3pKGJGE5w6qasZMRDrsnKABvAtDUmI88sTam/MgIVmQFP3tPqWHN8Wl6ZEQ==",
+            "isTable": true,
+            "name": "Gold Tables 6 Pax",
+            "price": 16200,
+            "priceWithFees": 16200,
+            "sortOrder": 6,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "RbZ/DNjTGE/saI7ZQObMSQYVXGPXqRpRMZVAKsnyqWvUImfsVHfzOddz41ApLiX8a9GlVLpAoH4BK3g0SMQLbA==",
+            "isTable": true,
+            "name": "VIP Party Villa | After Dark | 8 Ppl",
+            "price": 12960,
+            "priceWithFees": 12960,
+            "sortOrder": 7,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "fhNLxfjfD+Yobz/uk/s8fsl1mS0AuzLghSHJuwi89RLm9ooDqFW3G6eod1PZJcUQE5ueVscjRpOrawIQmOCi+Q==",
+            "isTable": true,
+            "name": "Premium Area | 6 Pax",
+            "price": 11000,
+            "priceWithFees": 11000,
+            "sortOrder": 8,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "4d29m/qxmLoEJ2+XeLgzeqvOojrskAzhYRK0TGs0UT0PiuNKb6HIXi72jpy+kh6Y+M+cdBi9QPmEjAwbHh0ebA==",
+            "isTable": false,
+            "name": "Party & Stay | One Night At Casa Gitano",
+            "price": 6600,
+            "priceWithFees": 6600,
+            "sortOrder": 9,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "i71gR+shGoSGA3M18U20DEGA562aII1FjvhWJtKbvUFFqUl97E9dZhg6L5RiwjiE68Z3O8/h7e+ZWlUsOJjDFg==",
+            "isTable": false,
+            "name": "Party & Stay | Two Nights | The Lost Weekend",
+            "price": 11340,
+            "priceWithFees": 11340,
+            "sortOrder": 10,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "zN+NeC3+igWb0/LvhhBAC60ljG/sW/QRMMKUstIDkf9YGse3tb3ixU1wss/sGPIdb+yxDsw7Ph0CpB7tygcXBA==",
+            "isTable": true,
+            "name": "Ocean Front Suite | After Dark | 2 Ppl",
+            "price": 23760,
+            "priceWithFees": 23760,
+            "sortOrder": 11,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "G3+p5gLp9XBBmmeaqLmhFtuiL7Ms+BKDzDJchVLW75iMzjUsBkU+EGM8elZhVZHO5T6H1wdDLgx5lWOgyAnt2Q==",
+            "isTable": true,
+            "name": "Jungle Suite | After Dark | 2 Ppl",
+            "price": 19440,
+            "priceWithFees": 19440,
+            "sortOrder": 12,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "j3KntMRhTA8ZejLE2oRvzb9sEVbNVm3Z555xBpny+wuHS8azChcSg3PO2kmpE7a9vdJsXoXCrzi4vc3VXHaG7Q==",
+            "isTable": true,
+            "name": "Double Jungle Suite | After Dark | 4 Ppl",
+            "price": 32400,
+            "priceWithFees": 32400,
+            "sortOrder": 13,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          }
+        ],
+        "time": "18:00 - 23:00",
+        "url": "https://tf.link/ui8jw0ua",
+        "venueName": "Gitano Beach",
+        "venueSlug": "gitano-beach",
+        "vipLink": null,
+        "vipPrice": null
+      },
+      "convexId": "j579sjp85r3st20p1ec4g12m9n8f5kvj",
+      "lastUpdated": "2026-09-26T05:05:10.367Z",
+      "locales": {
+        "en": {
+          "body": "<h2>Chema Diaz Leads the Lineup From 6pm</h2><p>Full Moon Rising brings Chema Diaz, Lessy and Prah to Gitano Beach Tulum on Saturday, September 26. Chema Diaz headlines, with Lessy and Prah also playing DJ sets. The party starts at 6pm and continues into the late hours, moving from sunset into a beachfront night session. Electronic music and an international crowd shape the format. This edition also adds a guest bartender takeover for Negroni Week.</p><h3>Three DJs for a Sunset-to-Late Beach Session</h3><p>The lineup is built around three billed DJs rather than a single live act. Chema Diaz takes the headline position, supported by Lessy and Prah. Full Moon Rising follows the lunar calendar as a recurring Gitano Beach party. The night centres on electronic sounds, while the venue’s regular programme spans deep house, tropical house, nu-disco, indie dance and melodic house. The 6pm start gives you time for sunset before the session moves into its later phase.</p><h3>Guest Bartenders Take Over for Negroni Week</h3><p>Guest bartenders take control of the bar during this Negroni Week edition. They will serve a special selection of cocktails created for the occasion. The programme is presented with Imbibe and Campari’s Negroni Week. It runs alongside a regular drinks menu centred on mezcal cocktails. The takeover gives this Full Moon Rising session a separate bar programme as well as its three-DJ lineup.</p><h3>Beach Club With a Giant Disco Ball</h3><p>Gitano Beach occupies a 120-metre strip of sand beside Casa Gitano in the southern Hotel Zone. Cushioned sunbeds, cabanas, bamboo benches and black-and-white striped tipis form the main seating areas. A giant disco ball marks the dance-focused side of the venue. The covered palapa holds an open-fire kitchen with a wood-burning oven, grill and comal. The layout suits groups and couples, with the energy normally rising around sunset.</p><h3>Wood-Fired Mexican Food Before the Late Session</h3><p>Chef Alexandros Gkoutsi’s menu combines Mexican cooking with Mediterranean touches. Cochinita pibil tacos with habanero and salsa verde are one of its anchor dishes. The kitchen also serves grilled seafood, roasted meats, tacos and vegetable plates from its open-fire setup. Food service normally runs from 11 AM to 9 PM. Guests with allergies or dietary restrictions should tell their waiter before ordering.</p>",
+          "description": "Full Moon Rising brings Chema Diaz, Lessy and Prah to the decks, with a Negroni Week takeover by guest bartenders and a special cocktail selection.",
+          "hubBlurb": "",
+          "name": "Full Moon Rising Negroni Week",
+          "slug": "full-moon-rising-negroni-week-26sep2026",
+          "tableInformation": ""
+        },
+        "es": {
+          "body": "<h2>Chema Díaz encabeza el cartel a partir de las 18:00 h</h2><p>Full Moon Rising trae a Chema Díaz, Lessy y Prah a Gitano Beach Tulum el sábado 26 de septiembre. Chema Díaz es la cabeza de cartel, y Lessy y Prah también pincharán. La fiesta empieza a las 18:00 y se prolonga hasta altas horas de la madrugada, pasando de la puesta de sol a una sesión nocturna frente al mar. La música electrónica y un público internacional marcan el estilo del evento. Esta edición también cuenta con un barman invitado especial con motivo de la Negroni Week.</p><h3>Tres DJ para una sesión en la playa desde la puesta de sol hasta bien entrada la noche</h3><p>El cartel gira en torno a tres DJ principales, en lugar de una única actuación en directo. Chema Díaz encabeza el cartel, acompañado por Lessy y Prah. Full Moon Rising sigue el calendario lunar como una fiesta recurrente en Gitano Beach. La noche gira en torno a los sonidos electrónicos, mientras que la programación habitual del local abarca deep house, tropical house, nu-disco, indie dance y melodic house. El inicio a las 18:00 h te da tiempo para disfrutar de la puesta de sol antes de que la sesión entre en su fase nocturna.</p><h3>Los bármanes invitados toman el relevo para la Negroni Week</h3><p>Los bármanes invitados se hacen cargo de la barra durante esta edición de la Negroni Week. Servirán una selección especial de cócteles creados para la ocasión. El programa se presenta en colaboración con Imbibe y la Negroni Week de Campari. Se ofrece junto con una carta de bebidas habitual centrada en cócteles de mezcal. Esta colaboración dota a esta sesión de Full Moon Rising de un programa de bar independiente, además de su cartel de tres DJ.</p><h3>Beach Club Con una bola de discoteca gigante</h3><p>Gitano Beach ocupa una franja de arena de 120 metros junto a Casa Gitano, en la zona sur de la Zona Hotelera. Tumbonas acolchadas, cabañas, bancos de bambú y tipis a rayas blancas y negras conforman las principales zonas de descanso. Una bola de discoteca gigante marca el lado del local dedicado al baile. La palapa cubierta alberga una cocina a fuego abierto con horno de leña, parrilla y comal. La distribución es ideal tanto para grupos como para parejas, y el ambiente suele animarse al atardecer.</p><h3>Comida mexicana a leña antes de la sesión nocturna</h3><p>El menú del chef Alexandros Gkoutsi combina la cocina mexicana con toques mediterráneos. Los tacos de cochinita pibil con habanero y salsa verde son uno de sus platos estrella. La cocina también sirve marisco a la parrilla, carnes asadas, tacos y platos de verduras preparados en su cocina de leña. El servicio de comida suele estar disponible de 11:00 a 21:00. Los comensales con alergias o restricciones alimentarias deben informar al camarero antes de pedir.</p>",
+          "description": "Full Moon Rising cuenta con Chema Díaz, Lessy y Prah a los platos, además de una edición especial de la Negroni Week a cargo de bármanes invitados y una selección especial de cócteles.",
+          "hubBlurb": "",
+          "name": "Full Moon Rising Negroni Week",
+          "slug": "full-moon-rising-negroni-week-26sep2026",
+          "tableInformation": ""
+        }
+      }
+    },
     {
       "base": {
         "afterEnd": "archive",
