@@ -1,7 +1,110 @@
 {
-  "syncedAt": "2026-09-26T01:39:17.612Z",
+  "syncedAt": "2026-09-26T01:50:27.346Z",
   "citySlug": "tulum",
   "events": [
+    {
+      "base": {
+        "afterEnd": "archive",
+        "buyLink": "https://tf.link/7yjrruic",
+        "categoryIds": [],
+        "cta": "Tickets",
+        "displayPrice": "MXN $1,100",
+        "endDate": "2026-10-17T23:59",
+        "eventType": "BeachClub",
+        "faqIds": [],
+        "flyerImage": {
+          "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/56aae361-830f-4598-b360-d5777f673d00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+        },
+        "gaLink": null,
+        "gaPrice": null,
+        "hubImage": null,
+        "isFeatured": false,
+        "isPublished": true,
+        "lineup": null,
+        "noPrice": false,
+        "promotion": "normal",
+        "publishedAt": null,
+        "qrCode": "M0 0.5h7m1 0h3m1 0h1m1 0h5m4 0h1m1 0h1m1 0h2m1 0h7M0 1.5h1m5 0h1m1 0h3m2 0h2m4 0h2m1 0h1m3 0h1m1 0h1m1 0h1m5 0h1M0 2.5h1m1 0h3m1 0h1m1 0h1m1 0h2m2 0h1m1 0h3m1 0h5m2 0h1m2 0h1m1 0h3m1 0h1M0 3.5h1m1 0h3m1 0h1m1 0h2m1 0h1m1 0h6m1 0h1m2 0h1m1 0h3m2 0h1m1 0h3m1 0h1M0 4.5h1m1 0h3m1 0h1m6 0h5m3 0h1m1 0h1m1 0h4m1 0h1m1 0h3m1 0h1M0 5.5h1m5 0h1m1 0h1m2 0h2m1 0h1m1 0h2m1 0h1m6 0h1m1 0h1m1 0h1m5 0h1M0 6.5h7m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h7M9 7.5h1m2 0h1m4 0h2m1 0h2m1 0h2m1 0h1M0 8.5h2m2 0h3m4 0h1m3 0h3m1 0h1m1 0h4m2 0h1m3 0h1m1 0h4M0 9.5h4m4 0h3m1 0h1m1 0h1m1 0h1m1 0h1m3 0h2m1 0h4m3 0h1m1 0h2M2 10.5h1m3 0h3m1 0h3m1 0h2m5 0h1m1 0h2m1 0h2m1 0h3m1 0h1m1 0h1M0 11.5h2m1 0h3m1 0h1m2 0h2m3 0h1m1 0h5m2 0h1m1 0h1m1 0h3m1 0h3m1 0h1M0 12.5h2m2 0h3m3 0h1m1 0h1m2 0h1m1 0h1m1 0h5m2 0h1m1 0h3m3 0h1m1 0h1M1 13.5h5m1 0h2m1 0h1m2 0h4m1 0h1m1 0h2m5 0h3m2 0h4M0 14.5h2m1 0h1m2 0h1m2 0h2m3 0h2m1 0h1m2 0h2m1 0h2m1 0h2m1 0h1m1 0h2M0 15.5h1m7 0h1m3 0h1m1 0h2m1 0h2m1 0h2m1 0h2m1 0h1m2 0h3m1 0h3M0 16.5h3m1 0h4m1 0h1m1 0h1m1 0h2m1 0h2m1 0h3m1 0h2m2 0h4m3 0h1m1 0h1M2 17.5h3m4 0h1m2 0h1m1 0h5m2 0h3m1 0h1m2 0h2m1 0h5M0 18.5h2m1 0h2m1 0h1m1 0h1m2 0h8m1 0h2m1 0h1m3 0h1m1 0h1m1 0h2M1 19.5h1m1 0h1m5 0h1m1 0h1m1 0h1m1 0h1m1 0h5m1 0h2m1 0h2m1 0h4m1 0h2M0 20.5h1m4 0h5m2 0h2m1 0h1m1 0h1m1 0h4m4 0h1m1 0h3m1 0h4M2 21.5h1m2 0h1m3 0h1m3 0h4m6 0h1m1 0h1m1 0h3m1 0h3m1 0h1M1 22.5h2m3 0h1m3 0h1m4 0h1m1 0h1m2 0h2m1 0h3m1 0h2m2 0h4M1 23.5h1m1 0h1m1 0h1m6 0h1m1 0h2m1 0h1m3 0h1m1 0h2m2 0h1m4 0h1m1 0h2M0 24.5h9m2 0h1m1 0h2m1 0h2m1 0h4m2 0h1m2 0h4m2 0h3M0 25.5h1m3 0h1m3 0h3m1 0h1m2 0h2m1 0h1m3 0h2m3 0h2m3 0h2m1 0h1M3 26.5h2m1 0h1m3 0h8m5 0h1m1 0h3m1 0h2m1 0h2M4 27.5h1m4 0h1m1 0h1m1 0h1m1 0h1m1 0h2m2 0h2m1 0h1m1 0h2m3 0h5M0 28.5h3m1 0h1m1 0h1m1 0h3m1 0h2m2 0h2m1 0h1m1 0h2m1 0h1m3 0h5m1 0h1M8 29.5h2m3 0h6m4 0h6m3 0h3M0 30.5h7m3 0h1m4 0h1m1 0h1m2 0h2m1 0h3m2 0h1m1 0h1m1 0h2M0 31.5h1m5 0h1m1 0h1m1 0h1m1 0h1m1 0h2m1 0h5m1 0h2m1 0h1m1 0h1m3 0h1m1 0h3M0 32.5h1m1 0h3m1 0h1m1 0h1m2 0h1m1 0h5m3 0h2m1 0h1m3 0h5m1 0h1M0 33.5h1m1 0h3m1 0h1m2 0h2m1 0h1m2 0h1m2 0h2m1 0h1m1 0h1m2 0h6m1 0h4M0 34.5h1m1 0h3m1 0h1m2 0h8m1 0h1m4 0h1m1 0h2m2 0h3m1 0h2M0 35.5h1m5 0h1m1 0h2m1 0h1m1 0h1m3 0h2m1 0h5m1 0h1m2 0h1m1 0h1m2 0h2M0 36.5h7m1 0h1m1 0h1m1 0h2m1 0h1m1 0h1m1 0h1m1 0h2m1 0h1m4 0h1m1 0h1m2 0h3<!--vb:37-->",
+        "startDate": "2026-10-17",
+        "status": "Live",
+        "tableLayoutImage": null,
+        "tbeId": "TBE_FFUDDH",
+        "ticketPrice": null,
+        "ticketTiers": [
+          {
+            "currency": "MXN",
+            "id": "DjuLoHMzAKhMJy0DaxE7GN9CIsw4X9k5oZvZYeCjMmFdQdvgp59mekmGjQm8ZXy9pFx2sy22/hbjRb7RSSnaiw==",
+            "isTable": false,
+            "name": "General Admission",
+            "price": 0,
+            "priceWithFees": 0,
+            "replacementText": "Free",
+            "sortOrder": 1,
+            "status": "upcoming",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "o6qmF6XA9Gf0LOuLvMFjs+81dwYJE2zP/k2KIAsDJuPhoz7tdsus5nN0+cwPN9/6ZYU4rLGU1hZKaQoln673pg==",
+            "isTable": false,
+            "name": "DINNER + PARTY",
+            "price": 1100,
+            "priceWithFees": 1100,
+            "sortOrder": 2,
+            "status": "upcoming",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "gBbSGM7pRGUOlXGEmdkgdeC6B0ICpE8ukqO90D1UahCn44/SKHtHNtz7brNZrx4KcX9jxIFxRJkwNcTTLpOl9w==",
+            "isTable": false,
+            "name": "2 Hr Premium Open Bar",
+            "price": 1760,
+            "priceWithFees": 1760,
+            "sortOrder": 3,
+            "status": "upcoming",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "4byGr3+eY4Jw9xix6gZeWFLq93mQfybBQbHF5ax7okK14Fe5vD2SZrwangNebMf7ha7dLRk0GBT3FnQnqdbNtg==",
+            "isTable": false,
+            "name": "2 Hr Open Bar",
+            "price": 1320,
+            "priceWithFees": 1320,
+            "sortOrder": 4,
+            "status": "upcoming",
+            "symbol": "Mex$"
+          }
+        ],
+        "time": "18:00 - Late",
+        "url": "https://tf.link/7yjrruic",
+        "venueName": "Gitano Beach",
+        "venueSlug": "gitano-beach",
+        "vipLink": null,
+        "vipPrice": null
+      },
+      "convexId": "j57c93j36s8psxf502qp5ax7qx8f59a0",
+      "lastUpdated": "2026-09-26T01:50:06.587Z",
+      "locales": {
+        "en": {
+          "body": "<h2>A Candlelit Saturday Dinner and Dance by the Beach</h2><p>On Saturday, October 17, 2026, Ceremonia returns to Gitano Beach in Tulum’s Hotel Zone. The weekly series joins a Mexican dinner menu and mezcal cocktail service to a beachfront dance floor. This edition runs 6PM — LATE. It is presented as a candlelit ritual of sound, connection and movement. You can arrive for dinner and stay as the space shifts into its DJ-led night format.</p><h3>A Tulum Ritual That Travelled to New York and Dubai</h3><p>Ceremonia began in Tulum and has since run at Gitano locations in New York and Dubai. In Tulum, it takes place on Saturdays that do not coincide with the full moon. The series starts at 6pm and continues into the night. Tiago Dima, Prah and Badaoui are among its residents. The recurring format, resident DJs and dinner-to-dance structure make this a series rather than a one-artist show.</p><h3>Organic House with Afro-Latin Rhythm and Disco</h3><p>The music centres on organic house and downtempo. Afro-latin rhythms and tribal percussion give the sets their physical pulse, while electro house and disco broaden the sound. The programme is built for a night that begins around dinner tables and continues on the dance floor. It also fits the venue’s wider programme of deep house, tropical house, nu-disco, indie dance and melodic house.</p><h3>A 120-Metre Beach Floor Under a Giant Disco Ball</h3><p>Gitano Beach occupies a 120-metre strip of sand with cushioned sunbeds, cabanas and bamboo benches. Black-and-white striped tipis provide shade, while a giant disco ball marks the venue’s dance-led identity. The palapa covers an open-fire kitchen with a wood-burning oven, grill and comal. Lounge chairs, single sunbeds, double beach beds and beach suites create different spaces for couples and groups. Towels are normally available for a separate rental fee.</p><p>The beach club opened in February 2021 and now sits beside the Casa Gitano hotel, near the Sian Ka’an Biosphere Reserve. It belongs to Grupo Gitano, which also operates properties in Miami, New York and Dubai. Regular days begin with food, drinks and beach seating before the energy rises around sunset. DJs usually play from Thursday through Sunday, linking the daytime beach-club format with the evening programme. The crowd commonly includes international visitors, couples and groups celebrating together.</p><h3>Wood-Fired Mexican Plates and Mezcal Cocktails</h3><p>Dinner is part of the party format rather than a separate theme around the music. Chef Alexandros Gkoutsi’s regular menu combines Mexican cooking with Mediterranean influences. The open-fire kitchen produces grilled seafood, roasted meats, tacos and vegetable plates. Cochinita pibil tacos come with habanero and salsa verde. The menu also includes tostadas, aguachile, hummus, shishito peppers and tlayuda.</p><p>The drinks programme centres on mezcal cocktails. Other ingredients used across the menu include passion fruit, tangerine habanero, burnt pineapple and lime. Food labels identify gluten-free, nut-free, vegetarian and dairy-free dishes. Guests with allergies or dietary restrictions should tell their waiter before ordering. </p><h3>Recurring Sessions Connect Daytime to the Dance Floor</h3><p>The venue’s regular music programme includes Full Moon Rising, Gypsy Disco, Sunset Fiesta and Las Gitanas. Its Sunday Beach BBQ Fiesta adds food and daytime music to the weekly schedule. GITANO Records also publishes playlists, live recordings and DJ sets spanning organic house, deep house, downtempo and disco house. From Thursday through Sunday, regular DJ sets begin at 1 PM. This Saturday edition follows its own evening format from 6PM — Late.</p>",
+          "description": "Ceremonia is Gitano’s weekly party, pairing afro-latin and disco music with Mexican dinner, mezcal service and a beachfront dance floor.",
+          "hubBlurb": "",
+          "name": "Ceremonia",
+          "slug": "ceremonia-17oct2026",
+          "tableInformation": ""
+        },
+        "es": {
+          "body": "<h2>Una cena y un baile a la luz de las velas un sábado junto a la playa</h2>\n<p>El sábado 17 de octubre de 2026, Ceremonia vuelve a la playa Gitano, en la Zona Hotelera de Tulum. Esta serie semanal combina un menú de cena mexicana y un servicio de cócteles de mezcal con una pista de baile frente al mar. Esta edición tendrá lugar de las 18:00 h hasta TARDE. Se presenta como un ritual a la luz de las velas de sonido, conexión y movimiento. Puedes llegar a la hora de la cena y quedarte mientras el espacio pasa a su formato nocturno amenizado por un DJ.</p>\n<h3>Un ritual de Tulum que ha llegado a Nueva York y Dubái</h3>\n<p>Ceremonia comenzó en Tulum y, desde entonces, se ha celebrado en los locales de Gitano de Nueva York y Dubái. En Tulum, tiene lugar los sábados que no coinciden con la luna llena. La serie comienza a las 18:00 y se prolonga hasta bien entrada la noche. Tiago Dima, Prah y Badaoui se encuentran entre sus residentes. El formato recurrente, los DJ residentes y la estructura que va de la cena al baile hacen de esto una serie más que un espectáculo de un solo artista.</p>\n<h3>House orgánico con ritmos afrolatinos y disco</h3>\n<p>La música se centra en el house orgánico y el downtempo. Los ritmos afrolatinos y la percusión tribal aportan el pulso físico a las sesiones, mientras que el electro house y el disco amplían el espectro sonoro. El programa está pensado para una noche que comienza alrededor de las mesas de cena y continúa en la pista de baile. También encaja en la programación más amplia del local, que incluye deep house, tropical house, nu-disco, indie dance y melodic house.</p>\n<h3>Una pista de baile de 120 metros en la playa bajo una bola de discoteca gigante</h3>\n<p>Gitano Beach ocupa una franja de arena de 120 metros con tumbonas acolchadas, cabañas y bancos de bambú. Los tipis a rayas blancas y negras proporcionan sombra, mientras que una bola de discoteca gigante marca la identidad del local, centrada en el baile. La palapa cubre una cocina al aire libre con horno de leña, parrilla y comal. Las tumbonas, las camas de playa individuales, las camas de playa dobles y las suites de playa crean diferentes espacios para parejas y grupos. Normalmente, las toallas están disponibles por un suplemento.</p>\n<p>El beach club abrió sus puertas en febrero de 2021 y ahora se encuentra junto al hotel Casa Gitano, cerca de la Reserva de la Biosfera de Sian Ka’an. Pertenece al Grupo Gitano, que también gestiona establecimientos en Miami, Nueva York y Dubái. Las jornadas habituales comienzan con comida, bebidas y descanso en la playa antes de que la energía aumente al atardecer. Los DJ suelen pinchar de jueves a domingo, uniendo el formato de club de playa diurno con la programación nocturna. Entre el público suelen encontrarse visitantes internacionales, parejas y grupos que celebran juntos.</p>\n<h3>Platos mexicanos a la leña y cócteles de mezcal</h3>\n<p>La cena forma parte del formato de la fiesta, en lugar de ser un tema aparte respecto a la música. El menú habitual del chef Alexandros Gkoutsi combina la cocina mexicana con influencias mediterráneas. La cocina a leña ofrece marisco a la parrilla, carnes asadas, tacos y platos de verduras. Los tacos de cochinita pibil se sirven con habanero y salsa verde. El menú también incluye tostadas, aguachile, hummus, pimientos shishito y tlayuda.</p>\n<p>La carta de bebidas se centra en los cócteles de mezcal. Otros ingredientes utilizados en el menú incluyen maracuyá, mandarina con habanero, piña quemada y lima. Las etiquetas de los platos identifican los platos sin gluten, sin frutos secos, vegetarianos y sin lácteos. Los comensales con alergias o restricciones alimentarias deben informar al camarero antes de pedir. El servicio de comida suele estar disponible de 11:00 a 21:00, independientemente del horario confirmado para esta fiesta.</p>\n<h3>Las sesiones recurrentes conectan el día con la pista de baile</h3>\n<p>La programación musical habitual del local incluye Full Moon Rising, Gypsy Disco, Sunset Fiesta y Las Gitanas. Su Sunday Beach BBQ Fiesta añade comida y música diurna a la programación semanal. GITANO Records también publica listas de reproducción, grabaciones en directo y sesiones de DJ que abarcan estilos como el organic house, el deep house, el downtempo y el disco house. De jueves a domingo, las sesiones habituales de DJ comienzan a la 1 de la tarde. Esta edición del sábado sigue su propio formato nocturno a partir de las 6 de la tarde — hasta TARDE.</p>\n<h3>Empieza a las 18:00 y haz planes para la zona hotelera del sur</h3>\n<p>La fiesta comienza a las 18:00 h el sábado 17 de octubre y se prolonga hasta tarde. Gitano Beach se encuentra en Av. Boca Paila KM 9,5, Playa de Tulum, Zona Costera, 77780 Tulum, Q.R. El horario habitual del local es de 11:00 a 23:00, mientras que este evento especial sigue el programa nocturno indicado. Las mesas para cenar suelen tener franjas horarias de dos horas. En las visitas habituales, el local tiene un gasto mínimo de 1.000 MXN por persona, y la entrada solo se aplica a los eventos especiales. Reserva tu entrada para Ceremonia con Tulum Bible antes de dirigirte a la Zona Hotelera.</p>",
+          "description": "Ceremonia es la fiesta semanal de Gitano, en la que se combinan música afrolatina y disco con una cena mexicana, servicio de mezcal y una pista de baile frente al mar.",
+          "hubBlurb": "",
+          "name": "Ceremonia",
+          "slug": "ceremonia-17oct2026",
+          "tableInformation": ""
+        }
+      }
+    },
     {
       "base": {
         "afterEnd": "keep",
