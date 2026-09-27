@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-27T01:21:49.270Z",
+  "syncedAt": "2026-09-27T02:13:56.170Z",
   "citySlug": "tulum",
   "events": [
     {
@@ -1366,6 +1366,141 @@
           "hubBlurb": "",
           "name": "Gypsy Disco",
           "slug": "gypsy-disco-30oct-2026",
+          "tableInformation": ""
+        }
+      }
+    },
+    {
+      "base": {
+        "afterEnd": "archive",
+        "buyLink": "https://tf.link/bkprcwq9",
+        "categoryIds": [],
+        "cta": "Tickets",
+        "displayPrice": "MXN $290",
+        "endDate": "2026-11-13T23:59",
+        "eventType": "BeachClub",
+        "faqIds": [],
+        "flyerImage": {
+          "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/b3075928-bb6d-40a1-782b-73405b887400/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+        },
+        "gaLink": null,
+        "gaPrice": null,
+        "hubImage": null,
+        "isFeatured": false,
+        "isPublished": true,
+        "lineup": null,
+        "noPrice": false,
+        "promotion": "normal",
+        "publishedAt": null,
+        "qrCode": "M0 0.5h7m3 0h1m1 0h2m2 0h6m1 0h1m2 0h1m1 0h1m1 0h7M0 1.5h1m5 0h1m1 0h1m1 0h1m4 0h1m5 0h2m2 0h1m1 0h2m1 0h1m5 0h1M0 2.5h1m1 0h3m1 0h1m5 0h1m1 0h1m5 0h2m5 0h2m1 0h1m1 0h3m1 0h1M0 3.5h1m1 0h3m1 0h1m1 0h3m1 0h4m4 0h1m1 0h1m1 0h5m1 0h1m1 0h3m1 0h1M0 4.5h1m1 0h3m1 0h1m2 0h1m6 0h2m1 0h2m2 0h1m4 0h1m1 0h1m1 0h3m1 0h1M0 5.5h1m5 0h1m1 0h2m1 0h3m1 0h3m2 0h2m3 0h1m1 0h2m1 0h1m5 0h1M0 6.5h7m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h7M9 7.5h3m4 0h1m3 0h3m3 0h1m1 0h1M0 8.5h5m1 0h4m1 0h1m1 0h2m1 0h2m2 0h1m1 0h5m2 0h1m1 0h1m1 0h1m1 0h1M2 9.5h1m2 0h1m1 0h1m2 0h1m1 0h2m1 0h2m1 0h6m4 0h2m1 0h1m1 0h3M1 10.5h1m1 0h1m2 0h1m7 0h5m2 0h2m3 0h3m1 0h5m1 0h1M0 11.5h1m2 0h2m2 0h4m1 0h1m2 0h2m2 0h5m2 0h1m3 0h1m1 0h2m1 0h1M0 12.5h3m1 0h1m1 0h1m2 0h1m2 0h3m2 0h1m4 0h2m1 0h1m1 0h4m1 0h3m1 0h1M1 13.5h4m2 0h1m8 0h1m1 0h2m5 0h2m1 0h2m1 0h1m2 0h2M0 14.5h2m1 0h2m1 0h1m1 0h1m1 0h3m1 0h3m1 0h1m1 0h3m3 0h3m1 0h1m1 0h1m1 0h3M0 15.5h2m1 0h3m1 0h1m1 0h3m2 0h3m3 0h3m3 0h1m1 0h1m4 0h1m2 0h1M0 16.5h1m3 0h1m1 0h2m3 0h1m3 0h3m5 0h4m1 0h3m1 0h3m1 0h1M0 17.5h2m2 0h1m5 0h1m1 0h2m2 0h5m1 0h2m2 0h3m2 0h1m2 0h2M0 18.5h1m2 0h2m1 0h1m6 0h3m4 0h3m1 0h1m2 0h2m1 0h3m1 0h3M0 19.5h1m3 0h2m3 0h2m1 0h2m1 0h2m2 0h4m3 0h4m1 0h2m3 0h1M0 20.5h2m1 0h1m1 0h3m1 0h2m1 0h1m1 0h1m2 0h1m4 0h1m2 0h2m2 0h2m1 0h1m1 0h3M0 21.5h1m1 0h2m1 0h1m2 0h2m6 0h1m2 0h3m1 0h1m2 0h1m1 0h2m5 0h1M0 22.5h5m1 0h2m3 0h2m2 0h2m1 0h1m1 0h3m2 0h1m1 0h1m1 0h5m1 0h2M0 23.5h1m2 0h1m3 0h2m2 0h1m2 0h3m1 0h1m2 0h2m4 0h3m2 0h1m3 0h1M0 24.5h4m2 0h2m2 0h2m3 0h3m4 0h1m3 0h5m1 0h5M0 25.5h3m6 0h2m1 0h3m1 0h1m1 0h6m1 0h2m1 0h2m1 0h1m3 0h1M0 26.5h1m1 0h2m1 0h2m3 0h1m2 0h3m2 0h1m3 0h1m1 0h5m1 0h1m1 0h5M0 27.5h1m2 0h3m4 0h1m1 0h2m1 0h2m4 0h1m1 0h1m2 0h8m2 0h1M0 28.5h1m2 0h1m1 0h3m4 0h1m1 0h4m2 0h1m1 0h1m1 0h11M8 29.5h1m7 0h6m1 0h2m3 0h1m3 0h1m1 0h1M0 30.5h7m1 0h1m2 0h2m2 0h2m1 0h1m1 0h3m2 0h1m2 0h1m1 0h1m1 0h5M0 31.5h1m5 0h1m4 0h1m2 0h3m2 0h4m3 0h1m1 0h1m3 0h1M0 32.5h1m1 0h3m1 0h1m1 0h2m1 0h1m4 0h2m1 0h2m1 0h1m1 0h11M0 33.5h1m1 0h3m1 0h1m1 0h1m3 0h3m3 0h1m1 0h1m2 0h1m1 0h1m2 0h1m1 0h1m1 0h1m1 0h3M0 34.5h1m1 0h3m1 0h1m1 0h2m3 0h3m1 0h1m4 0h1m1 0h3m1 0h2m1 0h1m1 0h1m1 0h2M0 35.5h1m5 0h1m1 0h2m2 0h2m2 0h1m3 0h2m4 0h1m1 0h1m2 0h1m4 0h1M0 36.5h7m1 0h1m3 0h1m1 0h1m2 0h1m2 0h1m1 0h1m1 0h4m1 0h2m1 0h5<!--vb:37-->",
+        "startDate": "2026-11-13",
+        "status": "Live",
+        "tableLayoutImage": null,
+        "tbeId": "TBE_R69AZG",
+        "ticketPrice": null,
+        "ticketTiers": [
+          {
+            "currency": "MXN",
+            "id": "ADq+ZbFSABgrODoAfd9ujXYRAUpAHR4gSW1ckHKgoIcmi9vMdMoSJ1K+0nSHbPxyexN5lA/SqEL5CSJwrxbsHw==",
+            "isTable": false,
+            "name": "General Admission | Welcome Drink",
+            "price": 290,
+            "priceWithFees": 290,
+            "sortOrder": 1,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "Mr+88AUj5q6No51/3HhDMl5lCRsx/QVgJ8dJWLWJ5qpV9Lkelsi4hQ6EHBg57oErIW3rcWbqrZQT7BRdYFl5eQ==",
+            "isTable": false,
+            "name": "PREMIUM OPEN BAR 1 HOUR",
+            "price": 990,
+            "priceWithFees": 990,
+            "sortOrder": 2,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "2bPDMMracagTmpRF6XaSUfNh8mS2rFAIMEadwLmO12yOJz8J5mKr8HJzoNKuT4gR4tgdOgr1xlOVSykHYXb/Sw==",
+            "isTable": false,
+            "name": "Standard Open Bar 1 Hour",
+            "price": 770,
+            "priceWithFees": 770,
+            "sortOrder": 3,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "wIFpla72vd1xgDeMLPKo21eeh0KZZonzdeipKZ1Bw7p/XP2P0UhZZj9bMZDThvxYZV3aretU2dVUdAx+zOAtPg==",
+            "isTable": true,
+            "name": "Bottles & Bites",
+            "price": 3300,
+            "priceWithFees": 3300,
+            "sortOrder": 4,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "bEurjwt3NEMILIbrA7kdxkmGOlI2dw7hLHCvxvO+1XKWHmN3ZZ3Ql+sLL5wphJVI/Xw/tpvHigDaJoaC+6JSUA==",
+            "isTable": false,
+            "name": "Dinner & Dancing",
+            "price": 1925,
+            "priceWithFees": 1925,
+            "sortOrder": 5,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "3qZoelPugvw/mq2KGL15Uv0ugu341frxohKnPFasA7BTksZFxtEFPhV8skdKtfvyhggpIe16IkX68GplkXHIDQ==",
+            "isTable": false,
+            "name": "Gold Section",
+            "price": 4400,
+            "priceWithFees": 4400,
+            "sortOrder": 6,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "cKs2CESkm1pappWhrjXzkYUtkoHtor0vBZx/qDwm/Jro6lOCtyQLi1U5KT3uUDzuqHO46aWihaS2HmDlaFxvAA==",
+            "isTable": false,
+            "name": "VIP Experience",
+            "price": 6600,
+            "priceWithFees": 6600,
+            "sortOrder": 7,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          }
+        ],
+        "time": "18:00 - Late",
+        "url": "https://tf.link/bkprcwq9",
+        "venueName": "Gitano Beach",
+        "venueSlug": "gitano-beach",
+        "vipLink": null,
+        "vipPrice": null
+      },
+      "convexId": "j57188eabsjhb2n6ttbxejc1qx8f5xas",
+      "lastUpdated": "2026-09-27T02:13:39.420Z",
+      "locales": {
+        "en": {
+          "body": "<h2>Friday Dinner and Dancing at Gitano Jungle</h2>\n<p>Gypsy Disco returns to Gitano Jungle Tulum on Friday, 13 November 2026. The weekly party combines dinner, mezcal cocktails and local DJs in one evening. Music moves through disco, funk, groove and nu disco, with dancing as the night builds. The format brings the meal and dance floor into the same programme. This is a dinner party with local talent rather than a headline concert.</p>\n<h3>Local DJs, Feel-Good Grooves and a Live Show</h3>\n<p>The lineup is built around local DJs rather than a single touring headliner. Their sets focus on disco, funk, groove and nu disco. The programme also includes a live show alongside the DJs. The music carries the room from dinner into late-night dancing. The series keeps the focus on feel-good dance music and the shared Friday-night format.</p>\n<h3>Pink Neon and the Floating Disco Ball</h3>\n<p>Gypsy Disco takes place in the Jungle Room. Pink neon lights the space, while a floating disco ball hangs above the party. Candlelight and palms continue the visual style across Gitano Jungle. The format keeps dining, drinks and dancing together instead of splitting them into separate parts of the night. Bottle service and VIP tables are also available.</p>\n<h3>Modern Mexican Dinner and Mezcal Pairings</h3>\n<p>Dinner is a central part of Gypsy Disco, not an add-on before the music. Gitano serves a modern Mexican menu alongside its mezcal cocktails. A four-course Mexican menu is available with champagne and mezcal cocktail pairings. You can plan the evening around dinner before moving into dancing. The food, cocktails and music all belong to the same Friday-night programme.</p>\n<h3>A Friday Ritual Running Since 2013</h3>\n<p>Gypsy Disco has taken place every Friday night since 2013. Its identity comes from the repeat format: local talent, feel-good dance music, dinner and a mezcal bar. It does not depend on a different headline booking each week. The pink neon, floating disco ball and Jungle Room remain central to the series. That consistency has defined the party throughout its long weekly run.</p>\n<h3>Live DJs and the Show From 8 PM Until Late</h3>\n<p>Live DJs and the show are billed from 8 PM until late. The venue is at Boca Paila Km 7.5 in Tulum. Dinner, dancing, bottle service and VIP tables are all offered during the night. The programme runs as part of the series’ regular Friday format. Use the buy button on this page to secure your ticket.</p>",
+          "description": "Gypsy Disco is a Friday dinner party running since 2013, pairing local DJs on disco, funk and groove with mezcal cocktails and its floating disco ball.",
+          "hubBlurb": "",
+          "name": "Gypsy Disco",
+          "slug": "gypsy-disco-13nov-2026",
+          "tableInformation": ""
+        },
+        "es": {
+          "body": "<h2>Cena y baile el viernes en Gitano Jungle</h2>\n<p>Gypsy Disco vuelve a Gitano Jungle Tulum el viernes 13 de noviembre de 2026. Esta fiesta semanal combina cena, cócteles de mezcal y DJ locales en una sola velada. La música abarca estilos como el disco, el funk, el groove y el nu disco, y el baile va cobrando intensidad a medida que avanza la noche. El formato aúna la cena y la pista de baile en un mismo programa. Se trata de una velada con cena y baile amenizada por talentos locales, más que de un concierto con cabeza de cartel.</p>\n<h3>DJ locales, ritmos que te hacen sentir bien y un espectáculo en directo</h3>\n<p>El cartel se articula en torno a DJ locales, en lugar de a un único cabeza de cartel en gira. Sus sesiones se centran en el disco, el funk, el groove y el nu disco. El programa también incluye un espectáculo en directo junto a los DJ. La música lleva al público desde la cena hasta el baile de madrugada. La serie mantiene el enfoque en la música bailable que te hace sentir bien y en el formato compartido de los viernes por la noche.</p>\n<h3>Neón rosa y la bola de discoteca flotante</h3>\n<p>Gypsy Disco tiene lugar en el Jungle Room. Un neón rosa ilumina el espacio, mientras que una bola de discoteca flotante cuelga sobre la fiesta. La luz de las velas y las palmeras prolongan el estilo visual por todo el Gitano Jungle. El formato combina la cena, las bebidas y el baile, en lugar de dividirlos en partes separadas de la noche. También hay disponible servicio de botellas y mesas VIP.</p>\n<h3>Cena mexicana moderna y maridajes con mezcal</h3>\n<p>La cena es una parte fundamental de Gypsy Disco, no un complemento previo a la música. Gitano sirve un menú mexicano moderno junto con sus cócteles de mezcal. Se ofrece un menú mexicano de cuatro platos con maridajes de champán y cócteles de mezcal. Puedes organizar la velada en torno a la cena antes de pasar al baile. La comida, los cócteles y la música forman parte del mismo programa de los viernes por la noche.</p>\n<h3>Un ritual de los viernes que se celebra desde 2013</h3>\n<p>Gypsy Disco se celebra todos los viernes por la noche desde 2013. Su identidad proviene de su formato recurrente: talento local, música bailable para animar el ambiente, cena y un bar de mezcal. No depende de contar con un cabeza de cartel diferente cada semana. El neón rosa, la bola de discoteca flotante y la Jungle Room siguen siendo elementos centrales de la serie. Esa coherencia ha definido la fiesta a lo largo de su dilatada trayectoria semanal.</p>\n<h3>DJ en directo y espectáculo desde las 20:00 hasta bien entrada la noche</h3>\n<p>Los DJ en directo y el espectáculo están programados desde las 20:00 hasta bien entrada la noche. El local se encuentra en Boca Paila, km 7,5, en Tulum. Durante la noche se ofrecen cena, baile, servicio de botellas y mesas VIP. El programa forma parte del formato habitual de los viernes de la serie. Utiliza el botón de compra de esta página para asegurarte tu entrada.</p>",
+          "description": "Gypsy Disco es una velada de los viernes que se celebra desde 2013, en la que se combinan sesiones de DJ locales de música disco, funk y groove con cócteles de mezcal y su bola de discoteca flotante.",
+          "hubBlurb": "",
+          "name": "Gypsy Disco",
+          "slug": "gypsy-disco-13nov-2026",
           "tableInformation": ""
         }
       }
