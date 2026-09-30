@@ -1,7 +1,62 @@
 {
-  "syncedAt": "2026-09-30T16:00:39.638Z",
+  "syncedAt": "2026-09-30T16:21:40.121Z",
   "citySlug": "tulum",
   "events": [
+    {
+      "base": {
+        "afterEnd": "archive",
+        "buyLink": null,
+        "categoryIds": [],
+        "cta": "Tickets",
+        "displayPrice": null,
+        "endDate": null,
+        "eventType": null,
+        "faqIds": [],
+        "flyerImage": null,
+        "gaLink": null,
+        "gaPrice": null,
+        "hubImage": null,
+        "isFeatured": false,
+        "isPublished": false,
+        "lineup": null,
+        "noPrice": false,
+        "promotion": "normal",
+        "publishedAt": null,
+        "qrCode": null,
+        "startDate": null,
+        "status": "Live",
+        "tableLayoutImage": null,
+        "tbeId": "TBE_6M5FS8",
+        "ticketPrice": null,
+        "ticketTiers": null,
+        "time": null,
+        "url": null,
+        "venueName": null,
+        "venueSlug": null,
+        "vipLink": null,
+        "vipPrice": null
+      },
+      "convexId": "j57bh4efvcnn24cp5t8a7qdwnn8fdrjf",
+      "lastUpdated": "2026-09-30T16:08:19.371Z",
+      "locales": {
+        "en": {
+          "body": "",
+          "description": "",
+          "hubBlurb": "",
+          "name": "Untitled Event",
+          "slug": "",
+          "tableInformation": ""
+        },
+        "es": {
+          "body": "",
+          "description": "",
+          "hubBlurb": "",
+          "name": "Untitled Event",
+          "slug": "",
+          "tableInformation": ""
+        }
+      }
+    },
     {
       "base": {
         "afterEnd": "archive",
