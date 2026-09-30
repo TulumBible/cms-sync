@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-25T04:00:26.868Z",
+  "syncedAt": "2026-09-30T17:02:49.277Z",
   "citySlug": "tulum",
   "faqs": [
     {
@@ -7897,6 +7897,138 @@
         "es": {
           "answer": "Sí, el restaurante ofrece tanto aparcamiento privado gratuito como servicio de aparcacoches para los clientes.",
           "name": "¿Hay plazas de aparcamiento disponibles en el recinto?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "event"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "when-is-adriatique-x-tulum-2027"
+      },
+      "convexId": "k57e2d6ks2033yhq12re55aa5x8fcsrw",
+      "lastUpdated": "2026-09-30T16:48:21.791Z",
+      "locales": {
+        "en": {
+          "answer": "Adriatique present X Tulum takes place on Friday, January 8, 2027, at Zamna Tulum.",
+          "name": "When is Adriatique X Tulum 2027?"
+        },
+        "es": {
+          "answer": "El evento Adriatique present X Tulum tendrá lugar el viernes 8 de enero de 2027 en Zamna Tulum.",
+          "name": "¿Cuándo se celebra el Adriatique X Tulum 2027?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "event"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "who-is-playing-at-adriatique-x-tulum"
+      },
+      "convexId": "k57ark01hn9qh4cnycp0ykj1jh8fdxag",
+      "lastUpdated": "2026-09-30T16:48:38.150Z",
+      "locales": {
+        "en": {
+          "answer": "The lineup includes Adriatique, Kotier, Mind Against, SAMA and WhoMadeWho with a hybrid DJ set.",
+          "name": "Who is playing at Adriatique X Tulum?"
+        },
+        "es": {
+          "answer": "El cartel incluye a Adriatique, Kotier, Mind Against, SAMA y WhoMadeWho, con una sesión híbrida de DJ.",
+          "name": "¿Quiénes actúan en el Adriatique X Tulum?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "event"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "what-is-forever"
+      },
+      "convexId": "k57cy7cs6rft5179ndf8ywchns8fcqpf",
+      "lastUpdated": "2026-09-30T16:48:54.749Z",
+      "locales": {
+        "en": {
+          "answer": "FOREVER is the theme of the January 8 edition of Adriatique’s X concept at Zamna Tulum.",
+          "name": "What is FOREVER?"
+        },
+        "es": {
+          "answer": "FOREVER es el tema de la edición del 8 de enero del concepto X de Adriatique en Zamna Tulum.",
+          "name": "¿Qué es FOREVER?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "event"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "how-much-are-adriatique-x-tulum-tickets"
+      },
+      "convexId": "k57cqe3amga0ezeezgx1fe3nrd8fcr9g",
+      "lastUpdated": "2026-09-30T16:49:19.956Z",
+      "locales": {
+        "en": {
+          "answer": "General Admission started at US$144 / MX$2,520, while VIP starting price is  US$409 / MX$7,158.",
+          "name": "How much are Adriatique X Tulum tickets?"
+        },
+        "es": {
+          "answer": "Las entradas generales tenían un precio inicial de 144 dólares estadounidenses / 2.520 pesos mexicanos, mientras que el precio inicial de las entradas VIP era de 409 dólares estadounidenses / 7.158 pesos mexicanos.",
+          "name": "¿Cuánto cuestan las entradas para el Adriatique X Tulum?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "event"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "does-tulum-bible-sell-adriatique-tickets"
+      },
+      "convexId": "k577a7x94kbak5xg966axv9fvh8fdksv",
+      "lastUpdated": "2026-09-30T16:49:41.423Z",
+      "locales": {
+        "en": {
+          "answer": "Tulum Bible does not sell regular GA or VIP tickets. We can help arrange VIP and Backstage tables once table allocations are released.",
+          "name": "Does Tulum Bible sell Adriatique tickets?"
+        },
+        "es": {
+          "answer": "Tulum Bible no vende entradas generales ni VIP. Podemos ayudarte a reservar mesas VIP y entre bastidores una vez que se publiquen las asignaciones de mesas.",
+          "name": "¿Vende Tulum Bible entradas para Adriatique?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "event"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "can-i-reserve-a-table-for-adriatique"
+      },
+      "convexId": "k574eqkc004cegn8sbr1f9mp6s8fcekb",
+      "lastUpdated": "2026-09-30T16:49:56.088Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. Send us your group size and we can help once Zamna releases table prices and availability.",
+          "name": "Can I reserve a table for Adriatique?"
+        },
+        "es": {
+          "answer": "Sí. Indícanos el número de personas que formáis el grupo y te ayudaremos en cuanto Zamna publique los precios de las mesas y la disponibilidad.",
+          "name": "¿Puedo reservar una mesa en el Adriatique?"
         }
       }
     }
