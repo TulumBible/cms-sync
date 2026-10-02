@@ -1,7 +1,103 @@
 {
-  "syncedAt": "2026-10-02T20:00:32.576Z",
+  "syncedAt": "2026-10-02T20:15:10.852Z",
   "citySlug": "tulum",
   "events": [
+    {
+      "base": {
+        "afterEnd": "keep",
+        "buyLink": "https://wa.me/529841301037?text=Hello!%20I'm%20interested%20in%20tables%20or%20hotel%20packages%20for%20Renaissance%20Tulum%20New%20Year%E2%80%99s%20Eve%202027",
+        "categoryIds": [],
+        "cta": "Tickets",
+        "displayPrice": "USD $1,040",
+        "endDate": "2027-01-01T08:00",
+        "eventType": "NYE",
+        "faqIds": [],
+        "flyerImage": {
+          "alt": "nye at zamna renaissance.",
+          "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/a8c7e8ab-9b66-442f-dd8b-a8bef6556b00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+        },
+        "gaLink": null,
+        "gaPrice": null,
+        "hubImage": {
+          "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/60d33244-43ec-4cd0-380d-282ff52b9a00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+        },
+        "isFeatured": false,
+        "isPublished": true,
+        "lineup": [
+          "Ida Engberg",
+          "Maceo Plex",
+          "Sasha",
+          "Sébastien Léger",
+          "Sirsax",
+          "Unders",
+          "Vhaera"
+        ],
+        "noPrice": false,
+        "promotion": "normal",
+        "publishedAt": null,
+        "qrCode": "M0 0.5h7m4 0h1m1 0h1m4 0h1m1 0h1m1 0h4m2 0h1m1 0h1m1 0h1m3 0h1m1 0h7M0 1.5h1m5 0h1m1 0h2m1 0h1m1 0h2m6 0h1m1 0h2m2 0h4m4 0h1m2 0h1m5 0h1M0 2.5h1m1 0h3m1 0h1m2 0h1m1 0h1m3 0h1m1 0h1m1 0h8m2 0h1m1 0h1m3 0h1m2 0h1m1 0h3m1 0h1M0 3.5h1m1 0h3m1 0h1m1 0h1m5 0h2m3 0h1m1 0h1m3 0h1m1 0h1m2 0h3m2 0h2m1 0h1m1 0h3m1 0h1M0 4.5h1m1 0h3m1 0h1m2 0h1m8 0h8m2 0h2m3 0h4m1 0h1m1 0h3m1 0h1M0 5.5h1m5 0h1m1 0h1m4 0h2m5 0h1m3 0h2m1 0h6m5 0h1m5 0h1M0 6.5h7m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h7M10 7.5h1m1 0h2m1 0h4m1 0h1m3 0h1m1 0h1m4 0h1m1 0h1M0 8.5h5m1 0h3m2 0h1m2 0h1m2 0h9m2 0h4m1 0h5m1 0h1m1 0h1m1 0h1M1 9.5h1m1 0h3m2 0h4m1 0h1m1 0h1m2 0h1m1 0h1m1 0h1m1 0h2m3 0h4m1 0h4m1 0h2m2 0h2M0 10.5h3m2 0h2m4 0h5m5 0h1m1 0h2m2 0h6m5 0h1m1 0h4M1 11.5h1m1 0h2m5 0h1m1 0h1m3 0h4m2 0h3m1 0h1m4 0h1m2 0h1m1 0h1m1 0h1m2 0h2M1 12.5h1m1 0h5m4 0h1m2 0h1m1 0h3m5 0h2m3 0h2m1 0h1m1 0h3m4 0h2M0 13.5h2m2 0h1m2 0h1m5 0h1m2 0h1m1 0h1m3 0h4m3 0h2m1 0h3m2 0h3m2 0h1M0 14.5h1m3 0h3m2 0h1m1 0h1m2 0h2m1 0h1m1 0h1m1 0h1m6 0h3m1 0h2m1 0h3m1 0h2m1 0h1M0 15.5h3m1 0h1m3 0h2m1 0h1m1 0h1m2 0h1m4 0h1m2 0h4m5 0h1m3 0h8M1 16.5h4m1 0h1m4 0h1m1 0h1m1 0h1m2 0h1m4 0h1m5 0h1m3 0h1m1 0h3m1 0h1m1 0h1m2 0h1M1 17.5h1m1 0h1m1 0h1m1 0h2m2 0h2m2 0h2m1 0h3m1 0h1m1 0h1m1 0h3m1 0h2m1 0h3m1 0h1m3 0h1m1 0h2M0 18.5h3m2 0h2m1 0h1m1 0h3m1 0h2m1 0h1m1 0h1m3 0h1m3 0h1m1 0h4m2 0h2m1 0h2m2 0h2M0 19.5h1m2 0h2m2 0h1m2 0h5m1 0h1m1 0h2m1 0h1m1 0h2m1 0h1m4 0h1m1 0h2m1 0h1m1 0h1M3 20.5h6m1 0h5m4 0h7m1 0h1m1 0h1m1 0h1m3 0h6m1 0h2M0 21.5h1m1 0h1m1 0h1m3 0h6m4 0h1m1 0h1m3 0h2m10 0h1m3 0h1m1 0h2M2 22.5h1m1 0h1m1 0h1m1 0h1m2 0h2m1 0h1m2 0h1m2 0h1m1 0h1m1 0h1m4 0h2m1 0h2m2 0h1m1 0h1m1 0h2m1 0h1M0 23.5h1m2 0h2m3 0h1m1 0h4m1 0h2m1 0h3m3 0h3m4 0h1m4 0h1m3 0h1m1 0h2M0 24.5h3m1 0h5m3 0h2m1 0h1m2 0h1m1 0h5m2 0h1m1 0h1m6 0h6m2 0h1M0 25.5h3m4 0h1m2 0h1m1 0h1m5 0h1m4 0h1m3 0h1m2 0h1m1 0h2m3 0h1m2 0h2m1 0h2M1 26.5h3m1 0h3m4 0h3m2 0h1m1 0h1m3 0h3m2 0h5m2 0h1m1 0h1m1 0h2m1 0h2M0 27.5h1m3 0h1m2 0h1m1 0h2m1 0h1m2 0h2m1 0h1m1 0h7m4 0h1m2 0h1m1 0h2m1 0h2m1 0h1M1 28.5h1m2 0h1m1 0h1m1 0h2m1 0h2m1 0h1m3 0h2m3 0h2m2 0h1m2 0h1m1 0h2m2 0h2m1 0h4m1 0h1M1 29.5h1m1 0h2m4 0h1m2 0h1m2 0h1m1 0h2m7 0h2m1 0h1m1 0h7m5 0h1M0 30.5h7m2 0h1m3 0h1m2 0h1m2 0h1m1 0h4m3 0h3m1 0h2m2 0h1m3 0h1M1 31.5h5m3 0h2m4 0h4m1 0h1m2 0h2m1 0h2m3 0h1m2 0h1m1 0h1m1 0h1m3 0h2M2 32.5h2m1 0h2m1 0h1m2 0h1m3 0h1m1 0h3m3 0h2m1 0h4m1 0h1m2 0h5m4 0h2M0 33.5h1m1 0h1m2 0h1m1 0h2m7 0h1m1 0h1m1 0h1m4 0h1m1 0h1m1 0h1m1 0h1m2 0h1m5 0h2m2 0h1M4 34.5h1m1 0h1m4 0h2m1 0h2m1 0h1m2 0h6m2 0h1m1 0h1m1 0h2m1 0h1m1 0h3m2 0h2M1 35.5h4m2 0h2m3 0h2m2 0h3m5 0h4m3 0h1m2 0h3m2 0h2m1 0h1m1 0h1M0 36.5h1m2 0h2m1 0h1m1 0h6m4 0h7m2 0h5m1 0h1m2 0h9M8 37.5h1m3 0h1m2 0h6m3 0h1m2 0h1m1 0h3m1 0h1m2 0h1m3 0h2m1 0h1M0 38.5h7m1 0h1m3 0h2m1 0h1m1 0h1m2 0h1m1 0h1m1 0h2m2 0h1m1 0h1m1 0h1m3 0h1m1 0h1m1 0h2m1 0h2M0 39.5h1m5 0h1m4 0h1m2 0h3m2 0h2m3 0h1m1 0h2m3 0h1m2 0h1m1 0h1m3 0h1m1 0h3M0 40.5h1m1 0h3m1 0h1m1 0h3m1 0h1m4 0h2m1 0h7m3 0h1m3 0h1m1 0h5m3 0h1M0 41.5h1m1 0h3m1 0h1m1 0h2m3 0h2m3 0h1m4 0h2m1 0h1m2 0h3m2 0h1m1 0h3m1 0h1M0 42.5h1m1 0h3m1 0h1m1 0h2m3 0h4m3 0h1m2 0h1m1 0h1m1 0h2m1 0h3m2 0h4m3 0h1M0 43.5h1m5 0h1m1 0h1m3 0h1m3 0h1m1 0h1m2 0h4m2 0h1m3 0h1m3 0h2m3 0h3M0 44.5h7m1 0h2m2 0h1m1 0h1m2 0h2m6 0h2m2 0h2m1 0h2m3 0h1m2 0h4<!--vb:45-->",
+        "startDate": "2026-12-31",
+        "status": "Live",
+        "tableLayoutImage": null,
+        "tbeId": "TBE_2D74Z8",
+        "ticketPrice": null,
+        "ticketTiers": [
+          {
+            "currency": "USD",
+            "id": "manual-1790971871669-0",
+            "isTable": false,
+            "name": "General Admission + Hotel Na’ala (2 PAX) ",
+            "price": 1040,
+            "sortOrder": 0,
+            "status": "on_sale"
+          },
+          {
+            "currency": "USD",
+            "id": "manual-1790971897383-1",
+            "isTable": false,
+            "name": "Backstage + Hotel Na’ala (2 PAX)",
+            "price": 2532,
+            "sortOrder": 1,
+            "status": "on_sale"
+          },
+          {
+            "currency": "USD",
+            "id": "manual-1790971912320-2",
+            "isTable": false,
+            "name": "Backstage + Hotel Zamna (2 PAX)",
+            "price": 3682,
+            "sortOrder": 2,
+            "status": "on_sale"
+          }
+        ],
+        "time": "22:00 - 08:00",
+        "url": null,
+        "venueName": "Zamna Cenote",
+        "venueSlug": "zamna-cenote",
+        "vipLink": null,
+        "vipPrice": null
+      },
+      "convexId": "j575xmftqy93w7s1g67ah531858fg32w",
+      "lastUpdated": "2026-10-02T20:12:41.053Z",
+      "locales": {
+        "en": {
+          "body": "<h3>December 31, 2026 → January 1, 2027 · Zamna Tulum</h3><p><strong>Renaissance opens Zamna Tulum’s 10th-anniversary season with a New Year’s Eve edition running from December 31 into January 1.</strong></p><p>The lineup brings together <strong>Ida Engberg, Maceo Plex, Sasha and Sébastien Léger</strong>, alongside Sirsax, Unders and Vhaera.</p><p>Rather than a separate countdown event followed by another party, this is the night that carries Zamna from the final hours of 2026 into the first morning of 2027.</p><h2>Renaissance Tulum NYE lineup</h2><p><strong>Ida Engberg</strong><br><strong>Maceo Plex</strong><br><strong>Sasha</strong><br><strong>Sébastien Léger</strong><br><strong>Sirsax</strong><br><strong>Unders</strong><br><strong>Vhaera</strong></p><h2>New Year’s Eve at Zamna</h2><p>Renaissance has built its name around progressive house, melodic electronic music and long-form club sets, and the New Year’s Eve lineup stays close to that identity.</p><p>The combination of <strong>Maceo Plex, Sasha, Ida Engberg and Sébastien Léger</strong> makes this one of the more established electronic lineups currently confirmed for December 31 in Tulum.</p><p>The event takes place at Zamna’s main jungle venue and also marks the first night of its anniversary programme, which continues through January 10.</p><h2>Renaissance Tulum tickets</h2><p>Regular GA and VIP tickets are sold through Zamna’s official ticketing channels.</p><p><strong>Ticket prices:</strong> </p><p>GA - 110 USD / 1,925 MXN</p><p>VIP - 236 USD / 4,130 MXN</p><ul><li><p>Tulum Bible does not sell standard GA or VIP tickets.</p></li><li><p>We can help with:</p><ul><li><p>Official Zamna hotel packages</p></li><li><p>VIP tables</p></li><li><p>Backstage tables</p></li><li><p>Private transportation</p></li></ul></li><li><p>Pricing and allocations will be added once released.</p></li></ul><h2>Renaissance Tulum NYE at a glance</h2><p><strong>Date:</strong> December 31, 2026 → January 1, 2027<br><strong>Venue:</strong> Zamna Tulum<br><strong>Event:</strong> Renaissance Tulum New Year’s Eve<br><strong>Lineup:</strong> Ida Engberg, Maceo Plex, Sasha, Sébastien Léger, Sirsax, Unders, Vhaera<br><strong>Tickets:</strong> from $110 USD / $1,925 MXN<br><strong>Hotel packages:</strong> Through Tulum Bible once released<br><strong>VIP &amp; Backstage tables:</strong> Through Tulum Bible once released<br><strong>Age:</strong> 18+</p>",
+          "description": "Renaissance takes over Zamna Tulum for New Year’s Eve, running from December 31 into January 1 with Ida Engberg, Maceo Plex, Sasha, Sébastien Léger, Sirsax, Unders and Vhaera.",
+          "hubBlurb": "<p><strong>Zamna has now confirmed its New Year’s Eve event: Renaissance takes over the jungle from December 31 into January 1.</strong></p><p>The lineup includes <strong>Ida Engberg, Maceo Plex, Sasha, Sébastien Léger, Sirsax, Unders and Vhaera</strong>.</p><p>It also serves as the opening night of Zamna’s 10th-anniversary season, which continues through January 10. Compared with many of Tulum’s dinner-led NYE celebrations, this is the option for anyone looking for a full electronic-music night at the jungle venue.</p><p><strong>Date:</strong> December 31, 2026 → January 1, 2027<br><strong>Venue:</strong> Zamna Tulum<br><strong>Lineup:</strong> Ida Engberg, Maceo Plex, Sasha, Sébastien Léger, Sirsax, Unders, Vhaera<br><strong>Tickets:</strong> from $110 USD / $1,925 MXN<br><strong>Hotel packages:</strong> Through Tulum Bible once released<br><strong>VIP &amp; Backstage tables:</strong> Through Tulum Bible once released</p>",
+          "name": "Renaissance Tulum New Year’s Eve 2027",
+          "slug": "renaissance-tulum-new-years-eve-2027",
+          "tableInformation": ""
+        },
+        "es": {
+          "body": "<h3>31 de diciembre de 2026 → 1 de enero de 2027 · Zamna Tulum</h3><p><strong>Renaissance inaugura la temporada del décimo aniversario de Zamna Tulum con una edición de Nochevieja que se extenderá desde el 31 de diciembre hasta el 1 de enero.</strong></p><p>El cartel reúne a <strong>Ida Engberg, Maceo Plex, Sasha y Sébastien Léger</strong>, junto a Sirsax, Unders y Vhaera.</p><p>En lugar de un evento de cuenta atrás independiente seguido de otra fiesta, esta es la noche que lleva a Zamna desde las últimas horas de 2026 hasta la primera mañana de 2027.</p><h2>Cartel de Nochevieja del Renaissance Tulum</h2><p><strong>Ida Engberg</strong><br><strong>Maceo Plex</strong><br><strong>Sasha</strong><br><strong>Sébastien Léger</strong><br><strong>Sirsax</strong><br><strong>Unders</strong><br><strong>Vhaera</strong></p><h2>Nochevieja en Zamna</h2><p>Renaissance se ha labrado un nombre gracias al progressive house, la música electrónica melódica y las sesiones de club de larga duración, y el cartel de Nochevieja se mantiene fiel a esa identidad.</p><p>La combinación de <strong>Maceo Plex, Sasha, Ida Engberg y Sébastien Léger</strong> convierte a este en uno de los carteles de música electrónica más consolidados confirmados actualmente para el 31 de diciembre en Tulum.</p><p>El evento tendrá lugar en el recinto principal de Zamna, situado en la selva, y marca además la primera noche de su programa de aniversario, que se prolongará hasta el 10 de enero.</p><h2>Entradas para Renaissance Tulum</h2><p>Las entradas generales y VIP se venden a través de los canales oficiales de venta de entradas de Zamna.</p><p><strong>Precios de las entradas:</strong> </p><p>Entrada general: 110 USD / 1.925 MXN</p><p>VIP: 236 USD / 4.130 MXN</p><ul><li><p>Tulum Bible no vende entradas generales ni VIP estándar.</p></li><li><p>Podemos ayudarte con:</p><ul><li><p>Paquetes oficiales del hotel Zamna</p></li><li><p>Mesas VIP</p></li><li><p>Mesas entre bastidores</p></li><li><p>Transporte privado</p></li></ul></li><li><p>Los precios y las plazas disponibles se añadirán en cuanto se publiquen.</p></li></ul><h2>Resumen de la Nochevieja en el Renaissance Tulum</h2><p><strong>Fecha:</strong> 31 de diciembre de 2026 → 1 de enero de 2027<br><strong>Lugar:</strong> Zamna Tulum<br><strong>Evento:</strong> Nochevieja en Renaissance Tulum<br><strong>Cartel:</strong> Ida Engberg, Maceo Plex, Sasha, Sébastien Léger, Sirsax, Unders, Vhaera<br><strong>Entradas:</strong> desde 110 USD / 1.925 MXN<br><strong>Paquetes de hotel:</strong> A través de Tulum Bible una vez que estén disponibles<br><strong>Mesas VIP y entre bastidores:</strong> a través de Tulum Bible una vez que se publiquen<br><strong>Edad mínima:</strong> 18 años</p>",
+          "description": "Renaissance se hace cargo de Zamna Tulum para la Nochevieja, desde el 31 de diciembre hasta el 1 de enero, con Ida Engberg, Maceo Plex, Sasha, Sébastien Léger, Sirsax, Unders y Vhaera.",
+          "hubBlurb": "<p><strong>Zamna ya ha confirmado su evento de Nochevieja: Renaissance se adueñará de la jungla desde el 31 de diciembre hasta el 1 de enero.</strong></p><p>El cartel incluye a <strong>Ida Engberg, Maceo Plex, Sasha, Sébastien Léger, Sirsax, Unders y Vhaera</strong>.</p><p>Además, servirá como noche inaugural de la temporada del décimo aniversario de Zamna, que se prolongará hasta el 10 de enero. En comparación con muchas de las celebraciones de Nochevieja en Tulum, centradas en la cena, esta es la opción ideal para quienes busquen una noche completa de música electrónica en este local de la selva.</p><p><strong>Fecha:</strong> 31 de diciembre de 2026 → 1 de enero de 2027<br><strong>Lugar:</strong> Zamna Tulum<br><strong>Cartel:</strong> Ida Engberg, Maceo Plex, Sasha, Sébastien Léger, Sirsax, Unders, Vhaera<br><strong>Entradas:</strong> desde 110 USD / 1.925 MXN<br><strong>Paquetes de hotel:</strong> A través de Tulum Bible una vez que estén disponibles<br><strong>Mesas VIP y entre bastidores:</strong> a través de Tulum Bible una vez que se publiquen</p>",
+          "name": "Renaissance Tulum New Year’s Eve 2027",
+          "slug": "renaissance-tulum-new-years-eve-2027",
+          "tableInformation": ""
+        }
+      }
+    },
     {
       "base": {
         "afterEnd": "keep",
