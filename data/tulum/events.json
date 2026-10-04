@@ -1,7 +1,78 @@
 {
-  "syncedAt": "2026-10-04T20:00:32.876Z",
+  "syncedAt": "2026-10-04T21:53:10.613Z",
   "citySlug": "tulum",
   "events": [
+    {
+      "base": {
+        "afterEnd": "archive",
+        "buyLink": "https://tf.link/gmz3xsak",
+        "categoryIds": [],
+        "cta": "Tickets",
+        "displayPrice": "MXN $262",
+        "endDate": "2026-10-17T23:59",
+        "eventType": "Cenote",
+        "faqIds": [],
+        "flyerImage": {
+          "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/2fb80f6a-956e-4203-6245-71473c858500/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+        },
+        "gaLink": null,
+        "gaPrice": null,
+        "hubImage": null,
+        "isFeatured": false,
+        "isPublished": true,
+        "lineup": [
+          "NNARA"
+        ],
+        "noPrice": false,
+        "promotion": "normal",
+        "publishedAt": null,
+        "qrCode": "M0 0.5h7m1 0h1m1 0h1m1 0h2m2 0h6m1 0h1m2 0h1m1 0h1m1 0h7M0 1.5h1m5 0h1m2 0h4m1 0h1m2 0h2m1 0h1m1 0h5m1 0h1m1 0h1m5 0h1M0 2.5h1m1 0h3m1 0h1m1 0h3m2 0h4m1 0h3m1 0h1m1 0h2m4 0h1m1 0h3m1 0h1M0 3.5h1m1 0h3m1 0h1m1 0h3m1 0h4m4 0h1m1 0h1m1 0h5m1 0h1m1 0h3m1 0h1M0 4.5h1m1 0h3m1 0h1m1 0h1m2 0h2m1 0h3m1 0h2m1 0h1m2 0h1m1 0h3m1 0h1m1 0h3m1 0h1M0 5.5h1m5 0h1m3 0h2m5 0h4m1 0h1m1 0h1m5 0h1m5 0h1M0 6.5h7m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h7M10 7.5h1m1 0h1m1 0h5m3 0h3m2 0h2M0 8.5h4m2 0h1m1 0h1m1 0h3m1 0h2m1 0h5m1 0h1m2 0h4m2 0h3m1 0h1M1 9.5h1m1 0h1m1 0h1m3 0h2m1 0h2m1 0h2m1 0h6m4 0h2m1 0h1m1 0h3M1 10.5h1m2 0h1m1 0h1m1 0h5m3 0h1m3 0h1m1 0h3m3 0h5m1 0h2M1 11.5h4m2 0h1m5 0h1m4 0h1m1 0h1m2 0h6m1 0h1m1 0h1m1 0h3M2 12.5h5m1 0h2m2 0h3m2 0h1m4 0h2m1 0h1m1 0h2m1 0h1m1 0h3m1 0h1M2 13.5h1m1 0h2m2 0h1m2 0h2m1 0h4m1 0h3m1 0h3m1 0h2m1 0h5m1 0h1M1 14.5h4m1 0h1m4 0h1m1 0h2m4 0h2m3 0h3m5 0h2m1 0h1M1 15.5h3m3 0h1m1 0h1m1 0h1m2 0h3m3 0h3m3 0h1m1 0h2m1 0h1m1 0h1m2 0h1M0 16.5h1m1 0h1m1 0h3m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h2m3 0h1m1 0h2m5 0h2M1 17.5h1m1 0h2m2 0h1m2 0h1m4 0h1m1 0h1m2 0h2m1 0h4m2 0h2m2 0h1m1 0h2M0 18.5h1m5 0h1m2 0h1m3 0h3m4 0h3m1 0h1m2 0h2m2 0h2m1 0h3M0 19.5h2m2 0h1m2 0h1m1 0h1m1 0h1m1 0h2m1 0h4m2 0h3m3 0h2m1 0h1m1 0h1m1 0h1M1 20.5h2m2 0h6m2 0h7m1 0h1m2 0h1m1 0h4m1 0h3m1 0h1M2 21.5h1m1 0h2m1 0h3m6 0h1m2 0h3m1 0h1m2 0h1m1 0h2m5 0h1M0 22.5h1m3 0h1m1 0h1m1 0h3m3 0h1m1 0h2m4 0h5m2 0h1m1 0h1M0 23.5h1m9 0h5m4 0h1m4 0h2m3 0h6M0 24.5h1m3 0h3m1 0h2m1 0h1m3 0h3m4 0h1m3 0h5m1 0h5M2 25.5h2m1 0h1m1 0h1m3 0h1m1 0h1m1 0h3m1 0h1m2 0h1m1 0h2m1 0h7m2 0h1M1 26.5h2m1 0h4m1 0h1m2 0h1m1 0h1m1 0h1m2 0h1m1 0h1m4 0h1m4 0h2m2 0h1M0 27.5h1m1 0h1m7 0h1m1 0h2m1 0h2m4 0h1m1 0h1m2 0h8m2 0h1M3 28.5h2m1 0h1m1 0h4m4 0h1m1 0h1m2 0h3m1 0h1m2 0h5m1 0h3M8 29.5h2m2 0h2m1 0h1m1 0h1m2 0h1m1 0h2m1 0h1m1 0h2m3 0h2m2 0h1M0 30.5h7m4 0h2m2 0h2m1 0h1m1 0h3m2 0h1m2 0h1m1 0h1m1 0h5M0 31.5h1m5 0h1m3 0h1m1 0h1m3 0h4m2 0h3m2 0h2m3 0h2m1 0h2M0 32.5h1m1 0h3m1 0h1m2 0h1m1 0h3m1 0h1m1 0h2m1 0h2m4 0h1m1 0h5m3 0h1M0 33.5h1m1 0h3m1 0h1m1 0h1m1 0h1m1 0h3m3 0h1m1 0h1m2 0h1m1 0h1m2 0h3m1 0h1m1 0h3M0 34.5h1m1 0h3m1 0h1m1 0h6m4 0h1m1 0h4m1 0h1m1 0h6M0 35.5h1m5 0h1m1 0h1m6 0h1m2 0h3m1 0h1m1 0h4m2 0h1m2 0h2M0 36.5h7m1 0h1m1 0h1m1 0h1m1 0h1m2 0h1m2 0h1m1 0h1m1 0h4m1 0h1m2 0h5<!--vb:37-->",
+        "startDate": "2026-10-17",
+        "status": "Live",
+        "tableLayoutImage": null,
+        "tbeId": "TBE_RAAATU",
+        "ticketPrice": null,
+        "ticketTiers": [
+          {
+            "currency": "MXN",
+            "id": "BABkZL4XXwVZojzYQP2xb06OErJvjeQJmPKO47aX0WIycTkJouyLpt6ANUhoRwxOdxDlhA7+RSk12QnLMnPe1A==",
+            "isTable": false,
+            "name": "General",
+            "price": 262,
+            "priceWithFees": 262,
+            "sortOrder": 1,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          }
+        ],
+        "time": "10:00 - 18:00",
+        "url": "https://tf.link/gmz3xsak",
+        "venueName": "Vesica Cenote",
+        "venueSlug": "vesica-tulum",
+        "vipLink": null,
+        "vipPrice": null
+      },
+      "convexId": "j5779p1kb45cey2c67t4kccyp98fj13y",
+      "lastUpdated": "2026-10-04T21:52:52.636Z",
+      "locales": {
+        "en": {
+          "body": "<h2>NNARA Brings an Intimate Concert to Santuario</h2>\n<p>NNARA performs an intimate live concert at Santuario, inside Vesica Tulum’s cenote club. The Colombian singer-songwriter places voice at the centre, blending ancestral sounds with contemporary textures. The format brings live music, art, community and the open-air natural setting together. Ineffables adds a separate live set before the headline performance. The result is a focused afternoon programme rather than a full day-club package.</p>\n<h3>Ineffables Opens Before the Headline Set</h3>\n<p>Doors open at 3:00 PM, and Ineffables plays from 3:00 PM to 4:00 PM. NNARA begins at 4:15 PM and continues until 6:00 PM. The complete programme runs from 3:00 PM to 6:00 PM. Arrive when doors open if you want to hear both sets in full. The running order moves directly from the opening live set into NNARA’s longer concert.</p>\n<h3>Ancestral Sounds Meet Contemporary Textures</h3>\n<p>NNARA’s concert is built around the relationship between ancestral sounds, modern textures and the human voice. The performance connects roots with the present through songs by the Colombian artist. The surrounding jungle sounds form part of the intimate presentation at Santuario. Ineffables is billed for a live set, while NNARA presents a full live concert. Both performances place live sound at the centre of the afternoon.</p>\n<h3>An Open-Air Club Built Around Two Cenotes</h3>\n<p>Vesica is an open-air cenote club and wellness sanctuary in Tulum’s Uptown area, a few minutes north of town. The property is built around two natural freshwater sinkholes. Water-edge daybeds, hammocks beneath the canopy and shaded wellness tents sit across the grounds. A short jungle path leads from the front check-in area towards the water. Santuario places this concert within that wider outdoor setting.</p>\n<h3>Food and Drinks Sit Outside Concert Admission</h3>\n<p>Food and beverages are not included with the concert ticket. Vesica’s regular farm-to-table kitchen works with seasonal Yucatecan ingredients and open wood-fire cooking. Its menu includes ceviches, salads and grilled main dishes, while the bar focuses on Mexican distillates. These are venue services rather than part of the concert admission.</p>\n<h3>Doors at 3:00 PM and Tickets from MXN $262</h3>\n<p>The concert takes place on 17 October 2026, with doors at 3:00 PM and music ending at 6:00 PM. Tickets start at MXN $262 and cover admission to the concert only. Vesica normally operates from 9:00 AM to 6:00 PM, but the stated door time for this programme is 3:00 PM. The address is PARCELA No. 198Z-2P-1 EJIDO, 77760 Tulum, Q.R. A free gravel parking area is available on site, with check-in at the front. Reserve your concert ticket through Tulum Bible before you travel to the venue.</p>",
+          "description": "NNARA brings Colombian singer-songwriter craft to an intimate concert, blending ancestral sounds, contemporary textures and voice, with a live set by Ineffables.",
+          "hubBlurb": "",
+          "name": "NNARA | Live Music",
+          "slug": "nnara-live-music-17oct2026",
+          "tableInformation": ""
+        },
+        "es": {
+          "body": "<h2>NNARA ofrece un concierto íntimo en Santuario</h2>\n<p>NNARA ofrece un concierto íntimo en directo en el Santuario, dentro del club del cenote de Vesica Tulum. La cantautora colombiana sitúa la voz en el centro, fusionando sonidos ancestrales con texturas contemporáneas. El formato aúna música en directo, arte, comunidad y un entorno natural al aire libre. Ineffables añade una actuación en directo independiente antes de la actuación principal. El resultado es un programa conciso de tarde, en lugar de un paquete completo de club de día entero.</p>\n<h3>Ineffables abre antes de la actuación principal</h3>\n<p>Las puertas se abren a las 15:00 h, e Ineffables toca de 15:00 a 16:00 h. NNARA comienza a las 16:15 h y continúa hasta las 18:00 h. El programa completo se desarrolla de 15:00 a 18:00 h. Llega cuando se abran las puertas si quieres escuchar ambas actuaciones completas. El orden de actuación pasa directamente de la actuación en directo de apertura al concierto más largo de NNARA.</p>\n<h3>Sonidos ancestrales y texturas contemporáneas</h3>\n<p>El concierto de NNARA se articula en torno a la relación entre los sonidos ancestrales, las texturas modernas y la voz humana. La actuación conecta las raíces con el presente a través de las canciones de la artista colombiana. Los sonidos de la selva que la rodean forman parte de la íntima actuación en el Santuario. Ineffables ofrecerá una actuación en directo, mientras que NNARA presentará un concierto completo en directo. Ambas actuaciones sitúan el sonido en directo en el centro de la tarde.</p>\n<h3>Un club al aire libre construido en torno a dos cenotes</h3>\n<p>Vesica es un club de cenotes al aire libre y un santuario de bienestar situado en la zona de Uptown de Tulum, a pocos minutos al norte de la ciudad. El recinto está construido en torno a dos sumideros naturales de agua dulce. Por todo el recinto hay tumbonas junto al agua, hamacas bajo el dosel y carpas de bienestar a la sombra. Un breve sendero por la selva conduce desde la zona de recepción hasta el agua. Santuario sitúa este concierto en ese amplio entorno al aire libre.</p>\n<h3>Comida y bebida no incluidas en la entrada al concierto</h3>\n<p>La comida y las bebidas no están incluidas en la entrada al concierto. La cocina habitual de Vesica, basada en el concepto de la granja a la mesa, utiliza ingredientes yucatecos de temporada y se cocina a leña a la vista. Su menú incluye ceviches, ensaladas y platos principales a la parrilla, mientras que el bar se centra en los destilados mexicanos. Se trata de servicios del local y no forman parte de la entrada al concierto.</p>\n<h3>Apertura de puertas a las 15:00 h y entradas a partir de 262 MXN</h3>\n<p>El concierto tendrá lugar el 17 de octubre de 2026; las puertas se abrirán a las 15:00 y la música terminará a las 18:00. Las entradas cuestan a partir de 262 MXN y cubren únicamente la entrada al concierto. Vesica suele abrir de 9:00 a 18:00, pero la hora de apertura indicada para este evento es a las 15:00. La dirección es PARCELA n.º 198Z-2P-1 EJIDO, 77760 Tulum, Q.R. Hay disponible una zona de aparcamiento gratuita de grava en el recinto, con registro de entrada en la entrada principal. Reserva tu entrada para el concierto a través de Tulum Bible antes de desplazarte al recinto.</p>",
+          "description": "NNARA nos ofrece el arte de los cantautores colombianos en un concierto íntimo, en el que se mezclan sonidos ancestrales, texturas contemporáneas y la voz, con una actuación en directo de Ineffables.",
+          "hubBlurb": "",
+          "name": "NNARA | Live Music",
+          "slug": "nnara-live-music-17oct2026",
+          "tableInformation": ""
+        }
+      }
+    },
     {
       "base": {
         "afterEnd": "keep",
