@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-10-06T17:19:39.788Z",
+  "syncedAt": "2026-10-06T17:21:55.890Z",
   "citySlug": "tulum",
   "venues": [
     {
@@ -1043,14 +1043,14 @@
         "category": "beachclub",
         "consumptionPackages": [
           {
-            "capacity": null,
-            "consumption": null,
+            "capacity": 1,
+            "consumption": "1,000 MXN",
             "key": "minimum",
             "note": "Per person",
             "noteEs": "Por persona",
             "price": "1,000 MXN",
-            "title": "Minimum spend",
-            "titleEs": "Consumo mínimo"
+            "title": "Sunbed",
+            "titleEs": "Sunbed"
           }
         ],
         "drinkMenuUrl": "https://assets.tulumbible.com/menus/tulum/gitano-beach-drinks-menu.pdf",
@@ -1093,14 +1093,14 @@
         "openingHoursHtml": "<p>11:00 - 23:00</p><p>11:00 - 23:00</p><p>11:00 - 23:00</p><p>11:00 - 23:00</p><p>11:00 - 23:00</p><p>11:00 - 23:00</p><p>11:00 - 23:00</p>",
         "priority": 4,
         "promotion": "normal",
-        "publishedAt": "2026-09-07T23:06:50.742Z",
+        "publishedAt": "2026-09-10T02:47:18.400Z",
         "reelUrl": "",
         "reviewIds": [],
         "tableLayoutImage": null,
         "tags": []
       },
       "convexId": "jh78dedjb1ax2fn62m55q31k857qyzdj",
-      "lastUpdated": "2026-09-10T02:47:18.192Z",
+      "lastUpdated": "2026-10-06T17:20:58.049Z",
       "locales": {
         "en": {
           "address": "Av Boca Paila KM 9.5, Tulum Beach, Zona Costera, 77780 Tulum, Q.R.",
