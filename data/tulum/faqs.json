@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-10-09T15:55:33.541Z",
+  "syncedAt": "2026-10-09T17:24:05.226Z",
   "citySlug": "tulum",
   "faqs": [
     {
@@ -8029,6 +8029,72 @@
         "es": {
           "answer": "Sí. Indícanos el número de personas que formáis el grupo y te ayudaremos en cuanto Zamna publique los precios de las mesas y la disponibilidad.",
           "name": "¿Puedo reservar una mesa en el Adriatique?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "what-is-the-minimum-age-at-bonbonniere-tulum"
+      },
+      "convexId": "k577yrj5jh81b3n2fdp4kfhwy98fz8ba",
+      "lastUpdated": "2026-10-09T16:26:42.615Z",
+      "locales": {
+        "en": {
+          "answer": "Entry is for guests aged 18 and over. Bring an official photo ID, as it is checked at the door.",
+          "name": "What is the minimum age at Bonbonniere Tulum?"
+        },
+        "es": {
+          "answer": "La entrada es para mayores de 18 años. Lleva una identificación oficial con foto, porque se revisa en la puerta.",
+          "name": "¿Cuál es la edad mínima para entrar a Bonbonniere Tulum?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "how-do-i-get-to-bonbonniere-tulum"
+      },
+      "convexId": "k574wey19g7ykegph51h665qm58fzryn",
+      "lastUpdated": "2026-10-09T16:26:42.615Z",
+      "locales": {
+        "en": {
+          "answer": "The club is at km 4 on the Tulum–Boca Paila road in the Hotel Zone, a short taxi ride from downtown Tulum. Valet parking is available, or you can book a transfer through Tulum Bible.",
+          "name": "How do I get to Bonbonniere Tulum?"
+        },
+        "es": {
+          "answer": "El antro está en el km 4 de la carretera Tulum–Boca Paila, en la Zona Hotelera, a un trayecto corto en taxi desde el centro de Tulum. Hay valet parking, o puedes reservar un traslado con Tulum Bible.",
+          "name": "¿Cómo llego a Bonbonniere Tulum?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "when-is-bonbonniere-busiest"
+      },
+      "convexId": "k5765q28nwjh4mgq62zcns0a3h8fzka9",
+      "lastUpdated": "2026-10-09T16:26:42.615Z",
+      "locales": {
+        "en": {
+          "answer": "High season, from December, brings the biggest nights. The peak is New Year's Eve and the first two weeks of January, when Planet B runs multi-day lineups. On those nights, arrive early or book a table.",
+          "name": "When is the club busiest?"
+        },
+        "es": {
+          "answer": "La temporada alta, desde diciembre, trae las noches más fuertes. El punto máximo es Año Nuevo y las dos primeras semanas de enero, cuando Planet B presenta carteles de varios días. Esas noches, llega temprano o reserva mesa.",
+          "name": "¿Cuándo hay más gente en el antro?"
         }
       }
     }
