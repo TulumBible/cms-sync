@@ -1,7 +1,413 @@
 {
-  "syncedAt": "2026-10-11T19:23:36.361Z",
+  "syncedAt": "2026-10-11T19:31:14.758Z",
   "citySlug": "tulum",
   "events": [
+    {
+      "base": {
+        "afterEnd": "archive",
+        "buyLink": "https://www.7realms.mx/join?utm_source=tulumbible&utm_medium=event&utm_campaign=realm7",
+        "categoryIds": [],
+        "cta": "Tickets",
+        "displayPrice": null,
+        "endDate": null,
+        "eventType": "Festival",
+        "faqIds": [],
+        "flyerImage": {
+          "alt": "7 Realms Tulum 2027: Realm 7 of 7 on January 13, 2027. Venue and lineup revealed soon.",
+          "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/69559ca2-551b-4e2b-913d-6d9bf1a16b00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+        },
+        "gaLink": null,
+        "gaPrice": null,
+        "hubImage": null,
+        "isFeatured": false,
+        "isPublished": true,
+        "lineup": [],
+        "noPrice": false,
+        "promotion": "normal",
+        "publishedAt": null,
+        "qrCode": null,
+        "startDate": "2027-01-13",
+        "status": "Live",
+        "tableLayoutImage": null,
+        "tbeId": "TBE_4QCS3D",
+        "ticketPrice": null,
+        "ticketTiers": null,
+        "time": null,
+        "url": "https://www.7realms.mx/realms/realm7",
+        "venueName": null,
+        "venueSlug": null,
+        "vipLink": null,
+        "vipPrice": null
+      },
+      "convexId": "j578bmthe22k38b2qwfrex50198g31ny",
+      "lastUpdated": "2026-10-11T19:30:26.005Z",
+      "locales": {
+        "en": {
+          "body": "<p><strong>Realm 7</strong> is the seventh of seven daytime parties in <strong>7 Realms</strong>, the new Tulum festival presented by Tulum Bible. It takes place on <strong>Wednesday, January 13, 2027</strong>, and closes the festival.</p>\n<p>Each realm takes over a different place in and around Tulum, from beach clubs and rooftops to cenotes, jungle and open water, with its own lineup of international and local DJs. The venue and artists for Realm 7 are still secret and will be revealed one by one before the festival.</p>\n<h3>How to get tickets</h3>\n<p>Join 7 Realms for free through the Tickets button on this page. Members get first access to tickets from October 30, before the public sale, and receive each venue and lineup reveal by email. Every realm is ticketed separately, so you can come to one party, a few or all seven.</p>\n<p>The seven realms run every other day: January 1, 3, 5, 7, 9, 11 and 13, 2027.</p>",
+          "description": "Realm 7 closes 7 Realms on Wednesday, January 13: a daytime party in a secret Tulum location, with the venue and lineup still to be revealed.",
+          "hubBlurb": "",
+          "name": "7 Realms Tulum 2027: Realm 7",
+          "slug": "7-realms-tulum-2027-realm-7",
+          "tableInformation": ""
+        },
+        "es": {
+          "body": "<p><strong>Realm 7</strong> es la séptima de las siete fiestas de día de <strong>7 Realms</strong>, el nuevo festival de Tulum presentado por Tulum Bible. Se celebra el <strong>miércoles 13 de enero de 2027</strong> y cierra el festival.</p>\n<p>Cada reino toma un lugar distinto en Tulum y sus alrededores, de beach clubs y rooftops a cenotes, la selva y el mar abierto, con su propio lineup de DJs internacionales y locales. El lugar y los artistas de Realm 7 siguen en secreto y se revelarán uno por uno antes del festival.</p>\n<h3>Cómo conseguir boletos</h3>\n<p>Únete gratis a 7 Realms con el botón de Boletos de esta página. Los miembros tienen acceso anticipado a los boletos desde el 30 de octubre, antes de la venta al público, y reciben por correo cada revelación de lugar y lineup. Cada reino tiene su propio boleto, así que puedes ir a una fiesta, a varias o a las siete.</p>\n<p>Los siete reinos son cada dos días: 1, 3, 5, 7, 9, 11 y 13 de enero de 2027.</p>",
+          "description": "Realm 7 cierra 7 Realms el miércoles 13 de enero: una fiesta de día en un lugar secreto de Tulum, con lugar y lineup aún por revelar.",
+          "hubBlurb": "",
+          "name": "7 Realms Tulum 2027: Realm 7",
+          "slug": "7-realms-tulum-2027-realm-7",
+          "tableInformation": ""
+        }
+      }
+    },
+    {
+      "base": {
+        "afterEnd": "archive",
+        "buyLink": "https://www.7realms.mx/join?utm_source=tulumbible&utm_medium=event&utm_campaign=realm6",
+        "categoryIds": [],
+        "cta": "Tickets",
+        "displayPrice": null,
+        "endDate": null,
+        "eventType": "Festival",
+        "faqIds": [],
+        "flyerImage": {
+          "alt": "7 Realms Tulum 2027: Realm 6 of 7 on January 11, 2027. Venue and lineup revealed soon.",
+          "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/a8b20510-4c0a-47af-829b-aa1ef8bdf100/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+        },
+        "gaLink": null,
+        "gaPrice": null,
+        "hubImage": null,
+        "isFeatured": false,
+        "isPublished": true,
+        "lineup": [],
+        "noPrice": false,
+        "promotion": "normal",
+        "publishedAt": null,
+        "qrCode": null,
+        "startDate": "2027-01-11",
+        "status": "Live",
+        "tableLayoutImage": null,
+        "tbeId": "TBE_R6DTEH",
+        "ticketPrice": null,
+        "ticketTiers": null,
+        "time": null,
+        "url": "https://www.7realms.mx/realms/realm6",
+        "venueName": null,
+        "venueSlug": null,
+        "vipLink": null,
+        "vipPrice": null
+      },
+      "convexId": "j57ddzedydedpc5qy49k0txdj18g3fkk",
+      "lastUpdated": "2026-10-11T19:30:26.005Z",
+      "locales": {
+        "en": {
+          "body": "<p><strong>Realm 6</strong> is the sixth of seven daytime parties in <strong>7 Realms</strong>, the new Tulum festival presented by Tulum Bible. It takes place on <strong>Monday, January 11, 2027</strong>.</p>\n<p>Each realm takes over a different place in and around Tulum, from beach clubs and rooftops to cenotes, jungle and open water, with its own lineup of international and local DJs. The venue and artists for Realm 6 are still secret and will be revealed one by one before the festival.</p>\n<h3>How to get tickets</h3>\n<p>Join 7 Realms for free through the Tickets button on this page. Members get first access to tickets from October 30, before the public sale, and receive each venue and lineup reveal by email. Every realm is ticketed separately, so you can come to one party, a few or all seven.</p>\n<p>The seven realms run every other day: January 1, 3, 5, 7, 9, 11 and 13, 2027.</p>",
+          "description": "Realm 6 of 7 Realms lands on Monday, January 11: a daytime party in a secret Tulum location, with the venue and lineup still to be revealed.",
+          "hubBlurb": "",
+          "name": "7 Realms Tulum 2027: Realm 6",
+          "slug": "7-realms-tulum-2027-realm-6",
+          "tableInformation": ""
+        },
+        "es": {
+          "body": "<p><strong>Realm 6</strong> es la sexta de las siete fiestas de día de <strong>7 Realms</strong>, el nuevo festival de Tulum presentado por Tulum Bible. Se celebra el <strong>lunes 11 de enero de 2027</strong>.</p>\n<p>Cada reino toma un lugar distinto en Tulum y sus alrededores, de beach clubs y rooftops a cenotes, la selva y el mar abierto, con su propio lineup de DJs internacionales y locales. El lugar y los artistas de Realm 6 siguen en secreto y se revelarán uno por uno antes del festival.</p>\n<h3>Cómo conseguir boletos</h3>\n<p>Únete gratis a 7 Realms con el botón de Boletos de esta página. Los miembros tienen acceso anticipado a los boletos desde el 30 de octubre, antes de la venta al público, y reciben por correo cada revelación de lugar y lineup. Cada reino tiene su propio boleto, así que puedes ir a una fiesta, a varias o a las siete.</p>\n<p>Los siete reinos son cada dos días: 1, 3, 5, 7, 9, 11 y 13 de enero de 2027.</p>",
+          "description": "Realm 6 de 7 Realms llega el lunes 11 de enero: una fiesta de día en un lugar secreto de Tulum, con lugar y lineup aún por revelar.",
+          "hubBlurb": "",
+          "name": "7 Realms Tulum 2027: Realm 6",
+          "slug": "7-realms-tulum-2027-realm-6",
+          "tableInformation": ""
+        }
+      }
+    },
+    {
+      "base": {
+        "afterEnd": "archive",
+        "buyLink": "https://www.7realms.mx/join?utm_source=tulumbible&utm_medium=event&utm_campaign=realm5",
+        "categoryIds": [],
+        "cta": "Tickets",
+        "displayPrice": null,
+        "endDate": null,
+        "eventType": "Festival",
+        "faqIds": [],
+        "flyerImage": {
+          "alt": "7 Realms Tulum 2027: Realm 5 of 7 on January 9, 2027. Venue and lineup revealed soon.",
+          "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/02413028-3ffe-4a86-cf57-82dbc7c43300/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+        },
+        "gaLink": null,
+        "gaPrice": null,
+        "hubImage": null,
+        "isFeatured": false,
+        "isPublished": true,
+        "lineup": [],
+        "noPrice": false,
+        "promotion": "normal",
+        "publishedAt": null,
+        "qrCode": null,
+        "startDate": "2027-01-09",
+        "status": "Live",
+        "tableLayoutImage": null,
+        "tbeId": "TBE_TZ5UFK",
+        "ticketPrice": null,
+        "ticketTiers": null,
+        "time": null,
+        "url": "https://www.7realms.mx/realms/realm5",
+        "venueName": null,
+        "venueSlug": null,
+        "vipLink": null,
+        "vipPrice": null
+      },
+      "convexId": "j57c3qm2xz1vmzw6t0hyk582gx8g3fck",
+      "lastUpdated": "2026-10-11T19:30:26.005Z",
+      "locales": {
+        "en": {
+          "body": "<p><strong>Realm 5</strong> is the fifth of seven daytime parties in <strong>7 Realms</strong>, the new Tulum festival presented by Tulum Bible. It takes place on <strong>Saturday, January 9, 2027</strong>.</p>\n<p>Each realm takes over a different place in and around Tulum, from beach clubs and rooftops to cenotes, jungle and open water, with its own lineup of international and local DJs. The venue and artists for Realm 5 are still secret and will be revealed one by one before the festival.</p>\n<h3>How to get tickets</h3>\n<p>Join 7 Realms for free through the Tickets button on this page. Members get first access to tickets from October 30, before the public sale, and receive each venue and lineup reveal by email. Every realm is ticketed separately, so you can come to one party, a few or all seven.</p>\n<p>The seven realms run every other day: January 1, 3, 5, 7, 9, 11 and 13, 2027.</p>",
+          "description": "Realm 5 of 7 Realms lands on Saturday, January 9: a daytime party in a secret Tulum location, with the venue and lineup still to be revealed.",
+          "hubBlurb": "",
+          "name": "7 Realms Tulum 2027: Realm 5",
+          "slug": "7-realms-tulum-2027-realm-5",
+          "tableInformation": ""
+        },
+        "es": {
+          "body": "<p><strong>Realm 5</strong> es la quinta de las siete fiestas de día de <strong>7 Realms</strong>, el nuevo festival de Tulum presentado por Tulum Bible. Se celebra el <strong>sábado 9 de enero de 2027</strong>.</p>\n<p>Cada reino toma un lugar distinto en Tulum y sus alrededores, de beach clubs y rooftops a cenotes, la selva y el mar abierto, con su propio lineup de DJs internacionales y locales. El lugar y los artistas de Realm 5 siguen en secreto y se revelarán uno por uno antes del festival.</p>\n<h3>Cómo conseguir boletos</h3>\n<p>Únete gratis a 7 Realms con el botón de Boletos de esta página. Los miembros tienen acceso anticipado a los boletos desde el 30 de octubre, antes de la venta al público, y reciben por correo cada revelación de lugar y lineup. Cada reino tiene su propio boleto, así que puedes ir a una fiesta, a varias o a las siete.</p>\n<p>Los siete reinos son cada dos días: 1, 3, 5, 7, 9, 11 y 13 de enero de 2027.</p>",
+          "description": "Realm 5 de 7 Realms llega el sábado 9 de enero: una fiesta de día en un lugar secreto de Tulum, con lugar y lineup aún por revelar.",
+          "hubBlurb": "",
+          "name": "7 Realms Tulum 2027: Realm 5",
+          "slug": "7-realms-tulum-2027-realm-5",
+          "tableInformation": ""
+        }
+      }
+    },
+    {
+      "base": {
+        "afterEnd": "archive",
+        "buyLink": "https://www.7realms.mx/join?utm_source=tulumbible&utm_medium=event&utm_campaign=realm4",
+        "categoryIds": [],
+        "cta": "Tickets",
+        "displayPrice": null,
+        "endDate": null,
+        "eventType": "Festival",
+        "faqIds": [],
+        "flyerImage": {
+          "alt": "7 Realms Tulum 2027: Realm 4 of 7 on January 7, 2027. Venue and lineup revealed soon.",
+          "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/5ae5e757-b574-4af8-fbde-931315139d00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+        },
+        "gaLink": null,
+        "gaPrice": null,
+        "hubImage": null,
+        "isFeatured": false,
+        "isPublished": true,
+        "lineup": [],
+        "noPrice": false,
+        "promotion": "normal",
+        "publishedAt": null,
+        "qrCode": null,
+        "startDate": "2027-01-07",
+        "status": "Live",
+        "tableLayoutImage": null,
+        "tbeId": "TBE_S9Z65N",
+        "ticketPrice": null,
+        "ticketTiers": null,
+        "time": null,
+        "url": "https://www.7realms.mx/realms/realm4",
+        "venueName": null,
+        "venueSlug": null,
+        "vipLink": null,
+        "vipPrice": null
+      },
+      "convexId": "j570jfqhn13197n7zgp0mytff58g29br",
+      "lastUpdated": "2026-10-11T19:30:26.005Z",
+      "locales": {
+        "en": {
+          "body": "<p><strong>Realm 4</strong> is the fourth of seven daytime parties in <strong>7 Realms</strong>, the new Tulum festival presented by Tulum Bible. It takes place on <strong>Thursday, January 7, 2027</strong>.</p>\n<p>Each realm takes over a different place in and around Tulum, from beach clubs and rooftops to cenotes, jungle and open water, with its own lineup of international and local DJs. The venue and artists for Realm 4 are still secret and will be revealed one by one before the festival.</p>\n<h3>How to get tickets</h3>\n<p>Join 7 Realms for free through the Tickets button on this page. Members get first access to tickets from October 30, before the public sale, and receive each venue and lineup reveal by email. Every realm is ticketed separately, so you can come to one party, a few or all seven.</p>\n<p>The seven realms run every other day: January 1, 3, 5, 7, 9, 11 and 13, 2027.</p>",
+          "description": "Realm 4 of 7 Realms lands on Thursday, January 7: a daytime party in a secret Tulum location, with the venue and lineup still to be revealed.",
+          "hubBlurb": "",
+          "name": "7 Realms Tulum 2027: Realm 4",
+          "slug": "7-realms-tulum-2027-realm-4",
+          "tableInformation": ""
+        },
+        "es": {
+          "body": "<p><strong>Realm 4</strong> es la cuarta de las siete fiestas de día de <strong>7 Realms</strong>, el nuevo festival de Tulum presentado por Tulum Bible. Se celebra el <strong>jueves 7 de enero de 2027</strong>.</p>\n<p>Cada reino toma un lugar distinto en Tulum y sus alrededores, de beach clubs y rooftops a cenotes, la selva y el mar abierto, con su propio lineup de DJs internacionales y locales. El lugar y los artistas de Realm 4 siguen en secreto y se revelarán uno por uno antes del festival.</p>\n<h3>Cómo conseguir boletos</h3>\n<p>Únete gratis a 7 Realms con el botón de Boletos de esta página. Los miembros tienen acceso anticipado a los boletos desde el 30 de octubre, antes de la venta al público, y reciben por correo cada revelación de lugar y lineup. Cada reino tiene su propio boleto, así que puedes ir a una fiesta, a varias o a las siete.</p>\n<p>Los siete reinos son cada dos días: 1, 3, 5, 7, 9, 11 y 13 de enero de 2027.</p>",
+          "description": "Realm 4 de 7 Realms llega el jueves 7 de enero: una fiesta de día en un lugar secreto de Tulum, con lugar y lineup aún por revelar.",
+          "hubBlurb": "",
+          "name": "7 Realms Tulum 2027: Realm 4",
+          "slug": "7-realms-tulum-2027-realm-4",
+          "tableInformation": ""
+        }
+      }
+    },
+    {
+      "base": {
+        "afterEnd": "archive",
+        "buyLink": "https://www.7realms.mx/join?utm_source=tulumbible&utm_medium=event&utm_campaign=realm3",
+        "categoryIds": [],
+        "cta": "Tickets",
+        "displayPrice": null,
+        "endDate": null,
+        "eventType": "Festival",
+        "faqIds": [],
+        "flyerImage": {
+          "alt": "7 Realms Tulum 2027: Realm 3 of 7 on January 5, 2027. Venue and lineup revealed soon.",
+          "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/89ab4073-0f8f-4a8e-fc22-1843490b5000/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+        },
+        "gaLink": null,
+        "gaPrice": null,
+        "hubImage": null,
+        "isFeatured": false,
+        "isPublished": true,
+        "lineup": [],
+        "noPrice": false,
+        "promotion": "normal",
+        "publishedAt": null,
+        "qrCode": null,
+        "startDate": "2027-01-05",
+        "status": "Live",
+        "tableLayoutImage": null,
+        "tbeId": "TBE_GFW3QH",
+        "ticketPrice": null,
+        "ticketTiers": null,
+        "time": null,
+        "url": "https://www.7realms.mx/realms/realm3",
+        "venueName": null,
+        "venueSlug": null,
+        "vipLink": null,
+        "vipPrice": null
+      },
+      "convexId": "j57502svfy0esw1kkkjq87smts8g3wvc",
+      "lastUpdated": "2026-10-11T19:30:26.005Z",
+      "locales": {
+        "en": {
+          "body": "<p><strong>Realm 3</strong> is the third of seven daytime parties in <strong>7 Realms</strong>, the new Tulum festival presented by Tulum Bible. It takes place on <strong>Tuesday, January 5, 2027</strong>.</p>\n<p>Each realm takes over a different place in and around Tulum, from beach clubs and rooftops to cenotes, jungle and open water, with its own lineup of international and local DJs. The venue and artists for Realm 3 are still secret and will be revealed one by one before the festival.</p>\n<h3>How to get tickets</h3>\n<p>Join 7 Realms for free through the Tickets button on this page. Members get first access to tickets from October 30, before the public sale, and receive each venue and lineup reveal by email. Every realm is ticketed separately, so you can come to one party, a few or all seven.</p>\n<p>The seven realms run every other day: January 1, 3, 5, 7, 9, 11 and 13, 2027.</p>",
+          "description": "Realm 3 of 7 Realms lands on Tuesday, January 5: a daytime party in a secret Tulum location, with the venue and lineup still to be revealed.",
+          "hubBlurb": "",
+          "name": "7 Realms Tulum 2027: Realm 3",
+          "slug": "7-realms-tulum-2027-realm-3",
+          "tableInformation": ""
+        },
+        "es": {
+          "body": "<p><strong>Realm 3</strong> es la tercera de las siete fiestas de día de <strong>7 Realms</strong>, el nuevo festival de Tulum presentado por Tulum Bible. Se celebra el <strong>martes 5 de enero de 2027</strong>.</p>\n<p>Cada reino toma un lugar distinto en Tulum y sus alrededores, de beach clubs y rooftops a cenotes, la selva y el mar abierto, con su propio lineup de DJs internacionales y locales. El lugar y los artistas de Realm 3 siguen en secreto y se revelarán uno por uno antes del festival.</p>\n<h3>Cómo conseguir boletos</h3>\n<p>Únete gratis a 7 Realms con el botón de Boletos de esta página. Los miembros tienen acceso anticipado a los boletos desde el 30 de octubre, antes de la venta al público, y reciben por correo cada revelación de lugar y lineup. Cada reino tiene su propio boleto, así que puedes ir a una fiesta, a varias o a las siete.</p>\n<p>Los siete reinos son cada dos días: 1, 3, 5, 7, 9, 11 y 13 de enero de 2027.</p>",
+          "description": "Realm 3 de 7 Realms llega el martes 5 de enero: una fiesta de día en un lugar secreto de Tulum, con lugar y lineup aún por revelar.",
+          "hubBlurb": "",
+          "name": "7 Realms Tulum 2027: Realm 3",
+          "slug": "7-realms-tulum-2027-realm-3",
+          "tableInformation": ""
+        }
+      }
+    },
+    {
+      "base": {
+        "afterEnd": "archive",
+        "buyLink": "https://www.7realms.mx/join?utm_source=tulumbible&utm_medium=event&utm_campaign=realm2",
+        "categoryIds": [],
+        "cta": "Tickets",
+        "displayPrice": null,
+        "endDate": null,
+        "eventType": "Festival",
+        "faqIds": [],
+        "flyerImage": {
+          "alt": "7 Realms Tulum 2027: Realm 2 of 7 on January 3, 2027. Venue and lineup revealed soon.",
+          "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/36104628-dd04-4fff-657f-2db8fb56cc00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+        },
+        "gaLink": null,
+        "gaPrice": null,
+        "hubImage": null,
+        "isFeatured": false,
+        "isPublished": true,
+        "lineup": [],
+        "noPrice": false,
+        "promotion": "normal",
+        "publishedAt": null,
+        "qrCode": null,
+        "startDate": "2027-01-03",
+        "status": "Live",
+        "tableLayoutImage": null,
+        "tbeId": "TBE_96CHGZ",
+        "ticketPrice": null,
+        "ticketTiers": null,
+        "time": null,
+        "url": "https://www.7realms.mx/realms/realm2",
+        "venueName": null,
+        "venueSlug": null,
+        "vipLink": null,
+        "vipPrice": null
+      },
+      "convexId": "j573b63ag5tj17acxtbh62c5wn8g2whh",
+      "lastUpdated": "2026-10-11T19:30:26.005Z",
+      "locales": {
+        "en": {
+          "body": "<p><strong>Realm 2</strong> is the second of seven daytime parties in <strong>7 Realms</strong>, the new Tulum festival presented by Tulum Bible. It takes place on <strong>Sunday, January 3, 2027</strong>.</p>\n<p>Each realm takes over a different place in and around Tulum, from beach clubs and rooftops to cenotes, jungle and open water, with its own lineup of international and local DJs. The venue and artists for Realm 2 are still secret and will be revealed one by one before the festival.</p>\n<h3>How to get tickets</h3>\n<p>Join 7 Realms for free through the Tickets button on this page. Members get first access to tickets from October 30, before the public sale, and receive each venue and lineup reveal by email. Every realm is ticketed separately, so you can come to one party, a few or all seven.</p>\n<p>The seven realms run every other day: January 1, 3, 5, 7, 9, 11 and 13, 2027.</p>",
+          "description": "Realm 2 of 7 Realms lands on Sunday, January 3: a daytime party in a secret Tulum location, with the venue and lineup still to be revealed.",
+          "hubBlurb": "",
+          "name": "7 Realms Tulum 2027: Realm 2",
+          "slug": "7-realms-tulum-2027-realm-2",
+          "tableInformation": ""
+        },
+        "es": {
+          "body": "<p><strong>Realm 2</strong> es la segunda de las siete fiestas de día de <strong>7 Realms</strong>, el nuevo festival de Tulum presentado por Tulum Bible. Se celebra el <strong>domingo 3 de enero de 2027</strong>.</p>\n<p>Cada reino toma un lugar distinto en Tulum y sus alrededores, de beach clubs y rooftops a cenotes, la selva y el mar abierto, con su propio lineup de DJs internacionales y locales. El lugar y los artistas de Realm 2 siguen en secreto y se revelarán uno por uno antes del festival.</p>\n<h3>Cómo conseguir boletos</h3>\n<p>Únete gratis a 7 Realms con el botón de Boletos de esta página. Los miembros tienen acceso anticipado a los boletos desde el 30 de octubre, antes de la venta al público, y reciben por correo cada revelación de lugar y lineup. Cada reino tiene su propio boleto, así que puedes ir a una fiesta, a varias o a las siete.</p>\n<p>Los siete reinos son cada dos días: 1, 3, 5, 7, 9, 11 y 13 de enero de 2027.</p>",
+          "description": "Realm 2 de 7 Realms llega el domingo 3 de enero: una fiesta de día en un lugar secreto de Tulum, con lugar y lineup aún por revelar.",
+          "hubBlurb": "",
+          "name": "7 Realms Tulum 2027: Realm 2",
+          "slug": "7-realms-tulum-2027-realm-2",
+          "tableInformation": ""
+        }
+      }
+    },
+    {
+      "base": {
+        "afterEnd": "archive",
+        "buyLink": "https://www.7realms.mx/join?utm_source=tulumbible&utm_medium=event&utm_campaign=realm1",
+        "categoryIds": [],
+        "cta": "Tickets",
+        "displayPrice": null,
+        "endDate": null,
+        "eventType": "Festival",
+        "faqIds": [],
+        "flyerImage": {
+          "alt": "7 Realms Tulum 2027: Realm 1 of 7 on January 1, 2027. Venue and lineup revealed soon.",
+          "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/4087df22-1f66-40cd-a6d3-4d047139d400/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+        },
+        "gaLink": null,
+        "gaPrice": null,
+        "hubImage": null,
+        "isFeatured": false,
+        "isPublished": true,
+        "lineup": [],
+        "noPrice": false,
+        "promotion": "normal",
+        "publishedAt": null,
+        "qrCode": null,
+        "startDate": "2027-01-01",
+        "status": "Live",
+        "tableLayoutImage": null,
+        "tbeId": "TBE_E9YZZH",
+        "ticketPrice": null,
+        "ticketTiers": null,
+        "time": null,
+        "url": "https://www.7realms.mx/realms/realm1",
+        "venueName": null,
+        "venueSlug": null,
+        "vipLink": null,
+        "vipPrice": null
+      },
+      "convexId": "j57e374c83m93tfxh7xgmk2wxn8g3z2d",
+      "lastUpdated": "2026-10-11T19:30:26.005Z",
+      "locales": {
+        "en": {
+          "body": "<p><strong>Realm 1</strong> is the first of seven daytime parties in <strong>7 Realms</strong>, the new Tulum festival presented by Tulum Bible. It takes place on <strong>Friday, January 1, 2027</strong>, New Year's Day, and opens the festival.</p>\n<p>Each realm takes over a different place in and around Tulum, from beach clubs and rooftops to cenotes, jungle and open water, with its own lineup of international and local DJs. The venue and artists for Realm 1 are still secret and will be revealed one by one before the festival.</p>\n<h3>How to get tickets</h3>\n<p>Join 7 Realms for free through the Tickets button on this page. Members get first access to tickets from October 30, before the public sale, and receive each venue and lineup reveal by email. Every realm is ticketed separately, so you can come to one party, a few or all seven.</p>\n<p>The seven realms run every other day: January 1, 3, 5, 7, 9, 11 and 13, 2027.</p>",
+          "description": "Realm 1 opens 7 Realms on New Year's Day: a daytime party in a secret Tulum location, with the venue and lineup still to be revealed.",
+          "hubBlurb": "",
+          "name": "7 Realms Tulum 2027: Realm 1",
+          "slug": "7-realms-tulum-2027-realm-1",
+          "tableInformation": ""
+        },
+        "es": {
+          "body": "<p><strong>Realm 1</strong> es la primera de las siete fiestas de día de <strong>7 Realms</strong>, el nuevo festival de Tulum presentado por Tulum Bible. Se celebra el <strong>viernes 1 de enero de 2027</strong>, día de Año Nuevo, y abre el festival.</p>\n<p>Cada reino toma un lugar distinto en Tulum y sus alrededores, de beach clubs y rooftops a cenotes, la selva y el mar abierto, con su propio lineup de DJs internacionales y locales. El lugar y los artistas de Realm 1 siguen en secreto y se revelarán uno por uno antes del festival.</p>\n<h3>Cómo conseguir boletos</h3>\n<p>Únete gratis a 7 Realms con el botón de Boletos de esta página. Los miembros tienen acceso anticipado a los boletos desde el 30 de octubre, antes de la venta al público, y reciben por correo cada revelación de lugar y lineup. Cada reino tiene su propio boleto, así que puedes ir a una fiesta, a varias o a las siete.</p>\n<p>Los siete reinos son cada dos días: 1, 3, 5, 7, 9, 11 y 13 de enero de 2027.</p>",
+          "description": "Realm 1 abre 7 Realms el día de Año Nuevo: una fiesta de día en un lugar secreto de Tulum, con lugar y lineup aún por revelar.",
+          "hubBlurb": "",
+          "name": "7 Realms Tulum 2027: Realm 1",
+          "slug": "7-realms-tulum-2027-realm-1",
+          "tableInformation": ""
+        }
+      }
+    },
     {
       "base": {
         "afterEnd": "archive",
