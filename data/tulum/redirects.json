@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-22T12:01:00.168Z",
+  "syncedAt": "2026-10-13T12:00:31.225Z",
   "citySlug": "tulum",
   "redirects": [
     {
@@ -9357,6 +9357,32 @@
       },
       "convexId": "kx7dyzaddr130h288xvny7x7718ew6z3",
       "lastUpdated": "2026-09-22T12:00:38.015Z",
+      "locales": {
+        "en": {},
+        "es": {}
+      }
+    },
+    {
+      "base": {
+        "fromPath": "/event/gypsy-disco-30oct-2026",
+        "statusCode": 301,
+        "toPath": "/venue/gitano-jungle"
+      },
+      "convexId": "kx74efrgja30r6bjdekb9ee00s8g7jqx",
+      "lastUpdated": "2026-10-13T12:00:09.114Z",
+      "locales": {
+        "en": {},
+        "es": {}
+      }
+    },
+    {
+      "base": {
+        "fromPath": "/es-mx/event/gypsy-disco-30oct-2026",
+        "statusCode": 301,
+        "toPath": "/es-mx/venue/gitano-jungle"
+      },
+      "convexId": "kx7b3f4g60ffgqnmrc6994mjr98g7qy1",
+      "lastUpdated": "2026-10-13T12:00:09.114Z",
       "locales": {
         "en": {},
         "es": {}
