@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-10-09T17:24:05.226Z",
+  "syncedAt": "2026-10-14T19:15:06.086Z",
   "citySlug": "tulum",
   "faqs": [
     {
@@ -8095,6 +8095,94 @@
         "es": {
           "answer": "La temporada alta, desde diciembre, trae las noches más fuertes. El punto máximo es Año Nuevo y las dos primeras semanas de enero, cuando Planet B presenta carteles de varios días. Esas noches, llega temprano o reserva mesa.",
           "name": "¿Cuándo hay más gente en el antro?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "event"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "when-is-black-coffee-playing-in-tulum"
+      },
+      "convexId": "k573246qf1az4nrt9wape5bpdx8g8j95",
+      "lastUpdated": "2026-10-14T19:08:05.613Z",
+      "locales": {
+        "en": {
+          "answer": "Black Coffee returns to Zamna Tulum on January 6, 2027.",
+          "name": "When is Black Coffee playing in Tulum?"
+        },
+        "es": {
+          "answer": "Black Coffee vuelve a Zamna Tulum el 6 de enero de 2027.",
+          "name": "¿Cuándo tocará Black Coffee en Tulum?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "event"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "who-is-playing-with-black-coffee"
+      },
+      "convexId": "k57dsgsa2mcnbjwwsk74ref89h8g8gp8",
+      "lastUpdated": "2026-10-14T19:08:23.948Z",
+      "locales": {
+        "en": {
+          "answer": "The supporting lineup has not yet been announced.",
+          "name": "Who is playing with Black Coffee?"
+        },
+        "es": {
+          "answer": "Aún no se ha anunciado el cartel de artistas teloneros.",
+          "name": "¿Quién toca con Black Coffee?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "event"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "how-much-are-black-coffee-tickets"
+      },
+      "convexId": "k57b3y7qqb29p4q7ee6bp1p56x8g9akk",
+      "lastUpdated": "2026-10-14T19:09:13.618Z",
+      "locales": {
+        "en": {
+          "answer": "General admissions starting at - 144 USD / 2,520 Pesos \nVIP starting at - 409 USD / 7,158 pesos",
+          "name": "How much are Black Coffee tickets?"
+        },
+        "es": {
+          "answer": "Entradas generales a partir de: 144 USD / 2.520 pesos \nEntradas VIP a partir de: 409 USD / 7.158 pesos",
+          "name": "¿Cuánto cuestan las entradas para Black Coffee?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "event"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "has-black-coffee-played-at-zamna-before"
+      },
+      "convexId": "k579m7y3fkfnx6t7xs1hnhve4x8g9yqs",
+      "lastUpdated": "2026-10-14T19:09:40.045Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. He has appeared at Zamna multiple times and headlined the closing event of the 2026 Tulum season.",
+          "name": "Has Black Coffee played at Zamna before?"
+        },
+        "es": {
+          "answer": "Sí. Ha actuado en Zamna en varias ocasiones y fue cabeza de cartel del acto de clausura de la temporada 2026 de Tulum.",
+          "name": "¿Ha tocado Black Coffee alguna vez en Zamna?"
         }
       }
     }
