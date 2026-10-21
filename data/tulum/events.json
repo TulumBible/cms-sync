@@ -1,7 +1,204 @@
 {
-  "syncedAt": "2026-10-21T16:00:28.820Z",
+  "syncedAt": "2026-10-21T17:24:25.495Z",
   "citySlug": "tulum",
   "events": [
+    {
+      "base": {
+        "afterEnd": "archive",
+        "buyLink": "https://tf.link/4igrumbv",
+        "categoryIds": [],
+        "cta": "Tickets",
+        "displayPrice": "MXN $495",
+        "endDate": "2026-11-29T19:30",
+        "eventType": "BeachClub",
+        "faqIds": [],
+        "flyerImage": {
+          "alt": "Tu Brunch Season 3 opening flyer: Eric Luttrell at Tulumania, Sunday November 29, 11:00 to 19:30",
+          "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/08ce48b2-4423-4dff-d6b0-19ea7e131d00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+        },
+        "gaLink": null,
+        "gaPrice": null,
+        "hubImage": null,
+        "isFeatured": false,
+        "isPublished": true,
+        "lineup": [
+          "Eric Luttrell"
+        ],
+        "noPrice": false,
+        "promotion": "brunch-tulumania",
+        "publishedAt": null,
+        "qrCode": "M0 0.5h7m1 0h1m1 0h1m1 0h2m2 0h6m1 0h1m2 0h1m1 0h1m1 0h7M0 1.5h1m5 0h1m2 0h4m1 0h1m2 0h2m1 0h1m1 0h5m1 0h1m1 0h1m5 0h1M0 2.5h1m1 0h3m1 0h1m1 0h3m2 0h4m1 0h3m1 0h1m1 0h2m4 0h1m1 0h3m1 0h1M0 3.5h1m1 0h3m1 0h1m1 0h3m1 0h4m4 0h1m1 0h1m1 0h5m1 0h1m1 0h3m1 0h1M0 4.5h1m1 0h3m1 0h1m1 0h1m2 0h2m1 0h3m1 0h2m1 0h1m2 0h1m1 0h3m1 0h1m1 0h3m1 0h1M0 5.5h1m5 0h1m3 0h2m5 0h4m1 0h1m1 0h1m5 0h1m5 0h1M0 6.5h7m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h7M10 7.5h1m1 0h1m1 0h5m3 0h3m2 0h2M0 8.5h4m2 0h1m1 0h1m1 0h3m1 0h2m1 0h5m1 0h1m2 0h4m2 0h3m1 0h1M0 9.5h1m1 0h1m1 0h1m2 0h1m2 0h1m1 0h2m1 0h2m1 0h6m4 0h1m2 0h1m1 0h3M0 10.5h1m2 0h2m1 0h2m3 0h2m3 0h1m3 0h1m1 0h3m3 0h1m2 0h2m1 0h2M0 11.5h1m2 0h1m3 0h1m5 0h1m4 0h1m1 0h1m2 0h10m1 0h3M2 12.5h3m1 0h5m1 0h3m2 0h1m4 0h2m1 0h1m1 0h4m1 0h3m1 0h1M0 13.5h1m1 0h1m1 0h1m2 0h1m3 0h2m1 0h4m1 0h3m1 0h3m1 0h2m1 0h5m1 0h1M0 14.5h2m4 0h1m3 0h2m1 0h2m4 0h2m3 0h3m4 0h1m1 0h1m1 0h1M1 15.5h1m1 0h2m2 0h1m1 0h1m1 0h1m2 0h3m3 0h3m3 0h1m1 0h1m2 0h1m1 0h1m2 0h1M1 16.5h1m1 0h4m2 0h2m1 0h1m1 0h1m1 0h1m1 0h1m1 0h2m3 0h1m1 0h2m2 0h1m2 0h2M0 17.5h2m1 0h2m2 0h3m5 0h1m1 0h1m2 0h2m1 0h4m2 0h3m1 0h1m1 0h2M3 18.5h5m1 0h1m3 0h3m4 0h3m1 0h1m2 0h6m1 0h3M0 19.5h1m1 0h1m1 0h2m2 0h2m1 0h1m1 0h2m1 0h4m2 0h3m3 0h1m2 0h1m1 0h1m1 0h1M0 20.5h3m1 0h3m1 0h2m3 0h7m1 0h1m2 0h1m1 0h4m1 0h3m1 0h1M0 21.5h1m1 0h4m1 0h3m6 0h1m2 0h3m1 0h1m2 0h1m1 0h1m6 0h1M3 22.5h1m1 0h2m2 0h2m3 0h1m1 0h2m4 0h5m3 0h2M1 23.5h2m2 0h1m1 0h1m1 0h6m4 0h1m4 0h2m3 0h1m1 0h4M0 24.5h3m1 0h1m1 0h3m1 0h2m3 0h3m4 0h1m3 0h5m1 0h5M3 25.5h1m3 0h1m3 0h1m1 0h1m1 0h3m1 0h1m2 0h1m1 0h2m1 0h7m2 0h1M1 26.5h1m1 0h2m1 0h2m2 0h1m1 0h1m1 0h1m1 0h1m2 0h1m1 0h1m4 0h1m4 0h2m2 0h1M0 27.5h1m1 0h1m2 0h1m6 0h2m1 0h2m4 0h1m1 0h1m2 0h3m2 0h3m2 0h1M2 28.5h1m2 0h2m1 0h1m1 0h2m4 0h1m1 0h1m2 0h3m1 0h1m2 0h5m1 0h3M8 29.5h1m1 0h1m1 0h2m1 0h1m1 0h1m2 0h1m1 0h2m1 0h1m1 0h2m3 0h2m2 0h1M0 30.5h7m4 0h2m2 0h2m1 0h1m1 0h3m2 0h1m2 0h1m1 0h1m1 0h5M0 31.5h1m5 0h1m2 0h2m1 0h1m3 0h4m2 0h3m2 0h2m3 0h2m1 0h2M0 32.5h1m1 0h3m1 0h1m4 0h3m1 0h1m1 0h2m1 0h2m4 0h1m1 0h5m3 0h1M0 33.5h1m1 0h3m1 0h1m1 0h1m3 0h3m3 0h1m1 0h1m2 0h1m1 0h1m2 0h3m1 0h1m1 0h3M0 34.5h1m1 0h3m1 0h1m1 0h2m1 0h3m4 0h1m1 0h4m1 0h1m1 0h2m1 0h3M0 35.5h1m5 0h1m1 0h1m6 0h1m2 0h3m1 0h1m1 0h4m1 0h1m3 0h2M0 36.5h7m1 0h1m1 0h1m1 0h1m1 0h1m2 0h1m2 0h1m1 0h1m1 0h4m4 0h5<!--vb:37-->",
+        "startDate": "2026-11-29T11:00",
+        "status": "Live",
+        "tableLayoutImage": {
+          "alt": "Tu Brunch at Tulumania sunbed and table layout",
+          "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/3fd039b8-e9d2-4840-c585-ce4eab79dc00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+        },
+        "tbeId": "TBE_3UA7YK",
+        "ticketPrice": null,
+        "ticketTiers": [
+          {
+            "currency": "MXN",
+            "id": "8rUYQbW9dkE+azYMHK29AwylB2HG0Itxxr7Wwz4iYMosAt8sqPqkBnih3kCHicQ6FxXjnd72o4ImsQ7WVjVsFw==",
+            "isTable": false,
+            "name": "Early Bird",
+            "price": 450,
+            "priceWithFees": 495,
+            "sortOrder": 1,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "uxkzp+PmYrISjYKoZ3YRZDxIzfSnk/tPGtdtuSJJEyF6yb3w8hRuiWIGrtKwCoKtthSfE37PBwvY2rm4KOqo/w==",
+            "isTable": true,
+            "maxGuests": 2,
+            "minGuests": 1,
+            "name": "Single Sunbed",
+            "price": 1500,
+            "priceWithFees": 1650,
+            "sortOrder": 2,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "xjpfjMVfAjCg9nQhgEteHUoBL1lXLqisr972m9RHsQee5Hths8FL0lPx1iAiWqXAYMtGk+EFKEIlh8JYchFb9g==",
+            "isTable": false,
+            "name": "First Release",
+            "price": 600,
+            "priceWithFees": 660,
+            "sortOrder": 3,
+            "status": "upcoming",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "dzQ1fVWgmgxwGboyjWjmRhDW3pLN9wY83OpuX96kAoKtUn0OJjairzLbpFwU+5yAN0WMGeqeUS3+eJEWCCUEmA==",
+            "isTable": true,
+            "maxGuests": 4,
+            "minGuests": 2,
+            "name": "Double Sunbed",
+            "price": 3000,
+            "priceWithFees": 3300,
+            "sortOrder": 4,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "ejU+N064O3YZTfiWPyFwrIEXBx0R07oOCO0+oTijghpzvJtjXnIakohihJBjBqRbVbpJh54JdKel5855iCdWEQ==",
+            "isTable": false,
+            "name": "Final Release",
+            "price": 800,
+            "priceWithFees": 880,
+            "sortOrder": 5,
+            "status": "upcoming",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "T18SHV9PlWVSeb3TLe3l4qzyLBk0h64Q1irU+yRCUmJKubtKqnhBavVdJeWzBhlyD4UhnG+UClPERr86FddayA==",
+            "isTable": true,
+            "maxGuests": 5,
+            "minGuests": 3,
+            "name": "Lounge B (+VIP)",
+            "price": 6000,
+            "priceWithFees": 6600,
+            "sortOrder": 6,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "EBgx8yvjX3o/sc3DweHkDJnbiTzQvL8QzwDZsUmLeEN+tJby9G77uN/VCUWhkHi7EvmquDr8aD2cK64H8dt2WQ==",
+            "isTable": false,
+            "name": "VIP",
+            "price": 1000,
+            "priceWithFees": 1100,
+            "sortOrder": 7,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "6e9qCldyl2GX+MkmNYzHXc3Y8oF43nGDBtlcbllG+KDImHy2UIyHLgTg1IKdnbZwg2nVUSsnp8L16L7MpCpKBQ==",
+            "isTable": true,
+            "maxGuests": 8,
+            "minGuests": 6,
+            "name": "Lounge A",
+            "price": 12000,
+            "priceWithFees": 12960,
+            "sortOrder": 8,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "qHMTqfiGokbaJwc2Tmc8TWcgAO4172ovv1JwCY1s4zTnOZh0maE8NGOzF399KpzYQfhetUHnFSr1ntLxcGfddA==",
+            "isTable": true,
+            "name": "Backstage",
+            "price": 1500,
+            "priceWithFees": 1650,
+            "sortOrder": 9,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "XEKldbMmtFnyLpK3ctKUh3ioqm7BTE1msRtthYwEYfroAjPvgnDWNUad4C4Cypmf+e2DwdXebNQA1RiNusOrkQ==",
+            "isTable": true,
+            "maxGuests": 8,
+            "minGuests": 6,
+            "name": "Backstage Silver",
+            "price": 15000,
+            "priceWithFees": 16200,
+            "sortOrder": 10,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "Q06N/FuNPP8PbtCbajG0nVK2NSzvzgGH2Y1mE3CNHMxNF1bPi2p/RFp1k4qM8UJgDTnA+qgcoIq7lwYWBnt0qg==",
+            "isTable": true,
+            "maxGuests": 8,
+            "minGuests": 6,
+            "name": "Backstage Gold",
+            "price": 18000,
+            "priceWithFees": 19440,
+            "sortOrder": 11,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          }
+        ],
+        "time": "11:00 - 19:30",
+        "url": "https://tf.link/4igrumbv",
+        "venueName": "Tulumania",
+        "venueSlug": "tulumania",
+        "vipLink": null,
+        "vipPrice": null
+      },
+      "convexId": "j57eg55gx19qybgec3jnkrzzrs8gp8yt",
+      "lastUpdated": "2026-10-21T17:23:54.829Z",
+      "locales": {
+        "en": {
+          "body": "<h3>Sunday, November 29 · Tulumania</h3><p><strong>Tu Brunch opens Season 3 on the beach at Tulumania, with Eric Luttrell and more artists to be announced.</strong></p><p>Eric Luttrell is a San Francisco-born DJ and producer known for uplifting melodies, driving house grooves, and infectious dance-floor energy. A standout artist on Anjunadeep, he has performed at iconic venues including Printworks and Brooklyn Mirage and toured alongside RÜFÜS DU SOL, Lane 8, and Above &amp; Beyond. This time, he joins us on the beach for the reopening of Tu Brunch.</p><h3>Good to know</h3><ul><li><strong>When:</strong> Sunday, November 29, from 11:00 to 19:30.</li><li><strong>Location:</strong> Tulumania, Tulum.</li><li><strong>Doors open at 11 AM:</strong> Come early, settle in, and enjoy the beach before the music starts.</li><li><strong>DJ sets start at 1 PM:</strong> Ease into the afternoon with music by the sea.</li><li><strong>Tables &amp; sunbeds:</strong> Entry is included for the listed number of guests, with the full reservation amount available as consumption credit.</li><li><strong>Service charge:</strong> An additional 15% service charge/tip is not included in reservation prices.</li></ul><h3>What to expect</h3><p>Music, brunch and the beach till sunset. Start by the sea, meet your friends at the bar, and follow the music onto the dance floor. With beachfront spaces, multiple bars, and music into sunset, Tu Brunch brings everyone back together for the start of a new season.</p><h3>Cancellation policy</h3><p>All purchases and sales are non-refundable and final. By purchasing a ticket, table, package or sunbed, you agree to accept the risks of unforeseen circumstances such as event cancellation due to natural events, government regulations, or personal changes in circumstances. No refunds will be issued for any reason.</p><h3>Media &amp; recording notice</h3><p>By attending Tu Brunch, you acknowledge and agree that the event may be photographed and recorded. By entering the venue, you grant permission to Tulum Bible, Tu Brunch, and affiliated partners to use your image, likeness, and voice in any photo or video content for promotional and marketing purposes, including potential publication on platforms such as YouTube and social media.</p><h3>Assumption of risk &amp; liability waiver</h3><p>By attending Tu Brunch, you acknowledge that participation may involve potential exposure to health risks, including but not limited to communicable diseases like COVID-19. While preventative measures have been implemented, we cannot guarantee your safety. By attending the event, you voluntarily assume all risks related to illness or injury and release Tulum Bible, Tulumania and associated staff from any liability. Your participation is at your own risk.</p>",
+          "description": "Tu Brunch opens Season 3 at Tulumania on Sunday, November 29, with Eric Luttrell. Beach, brunch and music from 11:00 to 19:30. Sunbeds and tables available.",
+          "hubBlurb": "",
+          "name": "Tu Brunch Opening /w Eric Luttrell",
+          "slug": "tu-brunch-opening",
+          "tableInformation": "<p><strong>Your reservation goes towards your consumption.</strong> Reserve a table or sunbed and get entry for your group, plus the full reservation amount to spend at the venue. For example, a Double Sunbed for two costs 3,000 MXN, includes entry for both guests, and gives you 3,000 MXN in consumption credit. An additional 15% service charge/tip is not included.</p><p><strong>Backstage Gold · 6 guests · 18,000 MXN</strong><br>Our closest position to the DJ, with a direct view of the performance. Includes entry for six and 18,000 MXN in consumption credit.</p><p><strong>Backstage Silver · 6 guests · 15,000 MXN</strong><br>A reserved space for your group with backstage access. Includes entry for six and 15,000 MXN in consumption credit.</p><p><strong>Lounge A · 6 guests · 12,000 MXN</strong><br>A comfortable base for your group between trips to the dance floor. Includes entry for six and 12,000 MXN in consumption credit.</p><p><strong>Lounge B · 3 guests · 6,000 MXN</strong><br>A smaller lounge for your group, with VIP access included. Includes entry for three and 6,000 MXN in consumption credit.</p><p><strong>Double Sunbed · 2 guests · 3,000 MXN</strong><br>Your beachfront spot for two. Includes entry for two and 3,000 MXN in consumption credit.</p><p><strong>Single Sunbed · 1 guest · 1,500 MXN</strong><br>Your own sunbed to settle into for the day. Includes entry for one and 1,500 MXN in consumption credit.</p><p><strong>VIP backstage.</strong> Backstage Gold and Backstage Silver are a place to recharge between sets, just steps from the main event. Enjoy comfortable sofas, a dedicated bar, and a more relaxed setting before heading back to the dance floor.</p><p>Choose your spot and reserve now to secure the current price. Prices may increase based on demand. Reservations are subject to availability.</p>"
+        },
+        "es": {
+          "body": "<h3>Domingo 29 de noviembre · Tulumania</h3><p><strong>Tu Brunch abre su temporada 3 en la playa de Tulumania, con Eric Luttrell y más artistas por anunciar.</strong></p><p>Eric Luttrell es un DJ y productor nacido en San Francisco, conocido por sus melodías luminosas, sus grooves de house con empuje y una energía que contagia la pista. Es uno de los artistas destacados de Anjunadeep, se ha presentado en lugares icónicos como Printworks y Brooklyn Mirage, y ha salido de gira con RÜFÜS DU SOL, Lane 8 y Above &amp; Beyond. Esta vez nos acompaña en la playa para la reapertura de Tu Brunch.</p><h3>Lo que debes saber</h3><ul><li><strong>Cuándo:</strong> domingo 29 de noviembre, de 11:00 a 19:30.</li><li><strong>Dónde:</strong> Tulumania, Tulum.</li><li><strong>Puertas a las 11 AM:</strong> llega temprano, acomódate y disfruta la playa antes de que empiece la música.</li><li><strong>Los DJ sets empiezan a la 1 PM:</strong> entra a la tarde con música junto al mar.</li><li><strong>Mesas y camastros:</strong> la entrada está incluida para el número de personas indicado, y el monto completo de la reservación queda como crédito de consumo.</li><li><strong>Cargo por servicio:</strong> el 15% de servicio/propina no está incluido en el precio de la reservación.</li></ul><h3>Qué esperar</h3><p>Música, brunch y la playa hasta el atardecer. Empieza junto al mar, encuentra a tus amigos en la barra y sigue la música hasta la pista. Con espacios frente al mar, varias barras y música hasta el atardecer, Tu Brunch vuelve a reunir a todos para arrancar una nueva temporada.</p><h3>Política de cancelación</h3><p>Todas las compras y ventas son finales y no reembolsables. Al comprar una entrada, mesa, paquete o camastro, aceptas los riesgos de circunstancias imprevistas, como la cancelación del evento por fenómenos naturales, disposiciones gubernamentales o cambios en tus circunstancias personales. No se harán reembolsos por ningún motivo.</p><h3>Aviso de fotografía y grabación</h3><p>Al asistir a Tu Brunch, reconoces y aceptas que el evento puede ser fotografiado y grabado. Al entrar al lugar, autorizas a Tulum Bible, Tu Brunch y sus socios a usar tu imagen, apariencia y voz en cualquier contenido de foto o video con fines promocionales y de marketing, incluida su posible publicación en plataformas como YouTube y redes sociales.</p><h3>Aceptación de riesgos y deslinde de responsabilidad</h3><p>Al asistir a Tu Brunch, reconoces que tu participación puede implicar una posible exposición a riesgos para la salud, incluidas, entre otras, enfermedades transmisibles como el COVID-19. Aunque se han implementado medidas preventivas, no podemos garantizar tu seguridad. Al asistir al evento, asumes voluntariamente todos los riesgos relacionados con enfermedades o lesiones y liberas a Tulum Bible, Tulumania y a su personal de cualquier responsabilidad. Tu participación es bajo tu propio riesgo.</p>",
+          "description": "Tu Brunch abre su temporada 3 en Tulumania el domingo 29 de noviembre con Eric Luttrell. Playa, brunch y música de 11:00 a 19:30. Camastros y mesas disponibles.",
+          "hubBlurb": "",
+          "name": "Tu Brunch Opening /w Eric Luttrell",
+          "slug": "tu-brunch-opening",
+          "tableInformation": "<p><strong>Tu reservación se convierte en consumo.</strong> Reserva una mesa o un camastro y obtén la entrada para tu grupo, más el monto completo de la reservación para consumir en el lugar. Por ejemplo, un camastro doble para dos cuesta 3,000 MXN, incluye la entrada de ambas personas y te da 3,000 MXN de crédito de consumo. El 15% de servicio/propina no está incluido.</p><p><strong>Backstage Gold · 6 personas · 18,000 MXN</strong><br>Nuestro lugar más cercano al DJ, con vista directa al set. Incluye la entrada de seis personas y 18,000 MXN de crédito de consumo.</p><p><strong>Backstage Silver · 6 personas · 15,000 MXN</strong><br>Un espacio reservado para tu grupo con acceso al backstage. Incluye la entrada de seis personas y 15,000 MXN de crédito de consumo.</p><p><strong>Lounge A · 6 personas · 12,000 MXN</strong><br>Una base cómoda para tu grupo entre idas a la pista. Incluye la entrada de seis personas y 12,000 MXN de crédito de consumo.</p><p><strong>Lounge B · 3 personas · 6,000 MXN</strong><br>Un lounge más pequeño para tu grupo, con acceso VIP incluido. Incluye la entrada de tres personas y 6,000 MXN de crédito de consumo.</p><p><strong>Double Sunbed (camastro doble) · 2 personas · 3,000 MXN</strong><br>Tu lugar frente al mar para dos. Incluye la entrada de dos personas y 3,000 MXN de crédito de consumo.</p><p><strong>Single Sunbed (camastro sencillo) · 1 persona · 1,500 MXN</strong><br>Tu propio camastro para instalarte todo el día. Incluye la entrada de una persona y 1,500 MXN de crédito de consumo.</p><p><strong>Backstage VIP.</strong> Backstage Gold y Backstage Silver son un lugar para recargar energía entre sets, a unos pasos del evento principal. Disfruta sofás cómodos, una barra exclusiva y un ambiente más relajado antes de volver a la pista.</p><p>Elige tu lugar y reserva ahora para asegurar el precio actual. Los precios pueden subir según la demanda. Las reservaciones están sujetas a disponibilidad.</p>"
+        }
+      }
+    },
     {
       "base": {
         "afterEnd": "archive",
