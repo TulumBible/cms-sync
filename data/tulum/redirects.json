@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-10-13T12:00:31.225Z",
+  "syncedAt": "2026-10-21T19:03:12.597Z",
   "citySlug": "tulum",
   "redirects": [
     {
@@ -9383,6 +9383,32 @@
       },
       "convexId": "kx7b3f4g60ffgqnmrc6994mjr98g7qy1",
       "lastUpdated": "2026-10-13T12:00:09.114Z",
+      "locales": {
+        "en": {},
+        "es": {}
+      }
+    },
+    {
+      "base": {
+        "fromPath": "/tu-brunch",
+        "statusCode": 301,
+        "toPath": "https://tubrunch.com/"
+      },
+      "convexId": "kx7c7pmav8q09r0jwfpgskvzax8gqvst",
+      "lastUpdated": "2026-10-21T19:02:24.095Z",
+      "locales": {
+        "en": {},
+        "es": {}
+      }
+    },
+    {
+      "base": {
+        "fromPath": "/es-mx/tu-brunch",
+        "statusCode": 301,
+        "toPath": "https://tubrunch.com/"
+      },
+      "convexId": "kx7c5v87xexwmjw4g8110qd0kn8gpv07",
+      "lastUpdated": "2026-10-21T19:02:35.576Z",
       "locales": {
         "en": {},
         "es": {}
