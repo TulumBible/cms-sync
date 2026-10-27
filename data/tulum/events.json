@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-10-27T19:09:47.411Z",
+  "syncedAt": "2026-10-27T19:13:11.235Z",
   "citySlug": "tulum",
   "events": [
     {
@@ -4398,7 +4398,7 @@
         "buyLink": "https://wa.me/529841457101?text=Hello!%20I'm%20interested%20in%20tables%20for%20Day%20Zero%20Tulum%202027",
         "categoryIds": [],
         "cta": "Tables",
-        "displayPrice": "240 USD",
+        "displayPrice": "USD $4,000",
         "endDate": "2027-01-10T12:00",
         "eventType": "Festival",
         "faqIds": [
@@ -4456,7 +4456,79 @@
         "tableLayoutImage": null,
         "tbeId": "TBE_J8FR7G",
         "ticketPrice": "240 USD",
-        "ticketTiers": null,
+        "ticketTiers": [
+          {
+            "currency": "USD",
+            "id": "dz27-main-dj",
+            "isTable": true,
+            "maxGuests": 15,
+            "name": "Main Stage · Front table by the DJ",
+            "price": 0,
+            "replacementText": "Price on request",
+            "sortOrder": 0,
+            "status": "on_sale"
+          },
+          {
+            "currency": "USD",
+            "id": "dz27-main-20k",
+            "isTable": true,
+            "maxGuests": 12,
+            "name": "Main Stage · 20K table",
+            "price": 20000,
+            "sortOrder": 1,
+            "status": "on_sale"
+          },
+          {
+            "currency": "USD",
+            "id": "dz27-main-15k",
+            "isTable": true,
+            "maxGuests": 12,
+            "name": "Main Stage · 15K table",
+            "price": 15000,
+            "sortOrder": 2,
+            "status": "on_sale"
+          },
+          {
+            "currency": "USD",
+            "id": "dz27-main-10k",
+            "isTable": true,
+            "maxGuests": 12,
+            "name": "Main Stage · 10K table",
+            "price": 10000,
+            "sortOrder": 3,
+            "status": "on_sale"
+          },
+          {
+            "currency": "USD",
+            "id": "dz27-club-8k",
+            "isTable": true,
+            "maxGuests": 8,
+            "name": "Club Stage · 8K table by the DJ",
+            "price": 8000,
+            "sortOrder": 4,
+            "status": "on_sale"
+          },
+          {
+            "currency": "USD",
+            "id": "dz27-club-6k",
+            "isTable": true,
+            "maxGuests": 8,
+            "name": "Club Stage · 6K table",
+            "price": 6000,
+            "sortOrder": 5,
+            "status": "on_sale"
+          },
+          {
+            "currency": "USD",
+            "id": "dz27-club-4k",
+            "isTable": true,
+            "maxGuests": 8,
+            "name": "Club Stage · 4K table",
+            "price": 4000,
+            "sortOrder": 6,
+            "status": "on_sale"
+          }
+        ],
         "time": "18:00 - 12:00",
         "url": null,
         "venueName": null,
