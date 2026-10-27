@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-10-15T13:42:52.785Z",
+  "syncedAt": "2026-10-27T18:46:23.505Z",
   "citySlug": "tulum",
   "faqs": [
     {
@@ -8183,6 +8183,204 @@
         "es": {
           "answer": "Sí. Ha actuado en Zamna en varias ocasiones y fue cabeza de cartel del acto de clausura de la temporada 2026 de Tulum.",
           "name": "¿Ha tocado Black Coffee alguna vez en Zamna?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "category"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "tulum-yacht-hub-1"
+      },
+      "convexId": "k571ga1k0wfdkg7nxgh9kb4kgx8h3q4s",
+      "lastUpdated": "2026-10-27T18:42:06.932Z",
+      "locales": {
+        "en": {
+          "answer": "<p>Our charter prices currently start from {from:lowest} per boat and rise depending on the yacht, duration and number of guests. The largest current Tulum option, the 51-foot Leopard PowerCat, starts from {from:leopard-51}. Additional hours, guests, marina fees and special routes can increase the final price.</p>",
+          "name": "How much does it cost to rent a yacht in Tulum?"
+        },
+        "es": {
+          "answer": "<p>Nuestros precios de charter hoy empiezan desde {from:lowest} por embarcación y suben según el yate, la duración y el número de invitados. La opción más grande hoy en Tulum, el Leopard PowerCat de 51 pies, empieza desde {from:leopard-51}. Las horas extra, los invitados adicionales, las cuotas de marina y las rutas especiales pueden aumentar el precio final.</p>",
+          "name": "¿Cuánto cuesta rentar un yate en Tulum?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "category"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "tulum-yacht-hub-2"
+      },
+      "convexId": "k574qwyq8br8aydzwntv6rnard8h2abw",
+      "lastUpdated": "2026-10-27T18:42:06.932Z",
+      "locales": {
+        "en": {
+          "answer": "<p>The base charter price is per boat, not per person. Your group books the whole yacht privately. Each package includes a certain number of guests, and some boats charge an additional amount if you go above that included number up to the yacht's maximum capacity.</p>",
+          "name": "Is the yacht price per person or per boat?"
+        },
+        "es": {
+          "answer": "<p>El precio base del charter es por embarcación, no por persona. Tu grupo reserva el yate completo en privado. Cada paquete incluye cierto número de invitados, y algunos barcos cobran un monto adicional si superas ese número, hasta la capacidad máxima del yate.</p>",
+          "name": "¿El precio del yate es por persona o por embarcación?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "category"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "tulum-yacht-hub-3"
+      },
+      "convexId": "k57658v0x9krjrjptj13gg1wzx8h2jde",
+      "lastUpdated": "2026-10-27T18:42:06.932Z",
+      "locales": {
+        "en": {
+          "answer": "<p>Most private yacht charters for guests staying in Tulum leave from Puerto Aventuras Marina, around 30–45 minutes north by car. Tulum itself does not have a yacht marina suitable for these larger private charters.</p>",
+          "name": "Where do Tulum yacht charters leave from?"
+        },
+        "es": {
+          "answer": "<p>La mayoría de los charters privados para quienes se hospedan en Tulum salen de la Marina Puerto Aventuras, a unos 30–45 minutos al norte en coche. Tulum no tiene una marina adecuada para estos charters privados más grandes.</p>",
+          "name": "¿De dónde salen los charters de yate en Tulum?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "category"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "tulum-yacht-hub-4"
+      },
+      "convexId": "k575xvyy8hn6v8vqqk6nb9ts898h3j9p",
+      "lastUpdated": "2026-10-27T18:42:06.932Z",
+      "locales": {
+        "en": {
+          "answer": "<p>Our current charters include captain and crew, a private chef, open bar and snorkeling equipment. Specific menus, bar levels, water toys and other inclusions depend on the charter package, so we confirm them before booking.</p>",
+          "name": "What is included in a Tulum yacht rental?"
+        },
+        "es": {
+          "answer": "<p>Nuestros charters actuales incluyen capitán y tripulación, chef privado, barra libre y equipo de snorkel. Los menús, el nivel de barra, los juguetes acuáticos y otros incluidos dependen del paquete, así que los confirmamos antes de reservar.</p>",
+          "name": "¿Qué incluye la renta de un yate en Tulum?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "category"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "tulum-yacht-hub-5"
+      },
+      "convexId": "k574m3gwdcrzc2svm44femz6wh8h2mjr",
+      "lastUpdated": "2026-10-27T18:42:06.932Z",
+      "locales": {
+        "en": {
+          "answer": "<p>The current Tulum fleet ranges from boats for around 10–12 guests to a 51-foot power catamaran for up to {guests:leopard-51} people. By boat: Aventura 34, {guests:aventura-34} guests; Bali 40, {guests:bali-40}; Azimut 43, {guests:azimut-43}; Cranchi 50, {guests:cranchi-mediterranee-50}; Azimut 58, {guests:azimut-58}; Sunseeker 60, {guests:sunseeker-60}; Leopard 51, {guests:leopard-51}.</p>",
+          "name": "How many people fit on a yacht in Tulum?"
+        },
+        "es": {
+          "answer": "<p>La flota actual de Tulum va de barcos para unos 10–12 invitados a un power catamarán de 51 pies para hasta {guests:leopard-51} personas. Por barco: Aventura 34, {guests:aventura-34} invitados; Bali 40, {guests:bali-40}; Azimut 43, {guests:azimut-43}; Cranchi 50, {guests:cranchi-mediterranee-50}; Azimut 58, {guests:azimut-58}; Sunseeker 60, {guests:sunseeker-60}; Leopard 51, {guests:leopard-51}.</p>",
+          "name": "¿Cuántas personas caben en un yate en Tulum?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "category"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "tulum-yacht-hub-6"
+      },
+      "convexId": "k57fg44nnk80j0kgncfpk0x97x8h2yxk",
+      "lastUpdated": "2026-10-27T18:42:06.932Z",
+      "locales": {
+        "en": {
+          "answer": "<p>Yes. Private charters work particularly well for celebrations because the entire boat is reserved for your group. Larger catamarans such as the Bali 40 and Leopard 51 are especially useful for celebrations, and extras such as DJs, decorations, transport and photography can be arranged depending on the charter.</p>",
+          "name": "Can we have a bachelorette, bachelor or birthday party on the yacht?"
+        },
+        "es": {
+          "answer": "<p>Sí. Los charters privados funcionan especialmente bien para celebraciones porque el barco completo es solo para tu grupo. Los catamaranes grandes como el Bali 40 y el Leopard 51 son especialmente útiles para fiestas, y se pueden organizar extras como DJ, decoración, transporte y fotografía según el charter.</p>",
+          "name": "¿Podemos hacer una despedida de soltera, de soltero o un cumpleaños en el yate?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "category"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "tulum-yacht-hub-7"
+      },
+      "convexId": "k57bnxn35xypahb76qx8sdqw418h3sh2",
+      "lastUpdated": "2026-10-27T18:42:06.932Z",
+      "locales": {
+        "en": {
+          "answer": "<p>Yes, on selected boats and longer charters. The yacht still leaves from Puerto Aventuras rather than Tulum itself. Cozumel routes require more time and can involve additional marine-park or tender fees, so tell us if Cozumel is the priority before choosing.</p>",
+          "name": "Can you go to Cozumel by yacht from Tulum?"
+        },
+        "es": {
+          "answer": "<p>Sí, en algunos barcos y en charters más largos. El yate de todos modos sale de Puerto Aventuras, no de Tulum. Las rutas a Cozumel requieren más tiempo y pueden incluir cuotas adicionales de parque marino o tender, así que avísanos si Cozumel es la prioridad antes de elegir.</p>",
+          "name": "¿Se puede ir a Cozumel en yate desde Tulum?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "category"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "tulum-yacht-hub-8"
+      },
+      "convexId": "k572anxfwwpwmza7fcenbpg5xh8h3khz",
+      "lastUpdated": "2026-10-27T18:42:06.932Z",
+      "locales": {
+        "en": {
+          "answer": "<p>If conditions are unsafe or the port captain closes the marina, the charter should not depart. Current operators state that affected charters are rescheduled. Normal rain alone does not necessarily cancel a yacht day; the decision is based more on wind, sea conditions and official port restrictions.</p>",
+          "name": "What happens if the weather is bad?"
+        },
+        "es": {
+          "answer": "<p>Si las condiciones no son seguras o la capitanía de puerto cierra la marina, el charter no debe salir. Los operadores actuales indican que los charters afectados se reprograman. La lluvia normal por sí sola no necesariamente cancela un día en yate; la decisión depende más del viento, las condiciones del mar y las restricciones oficiales del puerto.</p>",
+          "name": "¿Qué pasa si hace mal tiempo?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "category"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "tulum-yacht-hub-9"
+      },
+      "convexId": "k572z3x14ss2853t8r9bct66898h2w3y",
+      "lastUpdated": "2026-10-27T18:42:06.932Z",
+      "locales": {
+        "en": {
+          "answer": "<p>For a normal weekday, availability can sometimes remain close to the date. For larger boats, weekends, Christmas/New Year, January festival season and bachelor or bachelorette groups, booking earlier gives you much more choice of boats and departure times.</p>",
+          "name": "How far in advance should I book a yacht in Tulum?"
+        },
+        "es": {
+          "answer": "<p>Para un día normal entre semana, a veces hay disponibilidad cerca de la fecha. Para barcos grandes, fines de semana, Navidad y Año Nuevo, la temporada de festivales de enero y grupos de despedida de soltero o soltera, reservar antes te da mucha más opción de barcos y horarios de salida.</p>",
+          "name": "¿Con cuánta anticipación debo reservar un yate en Tulum?"
         }
       }
     }
