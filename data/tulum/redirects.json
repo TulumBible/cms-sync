@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-10-21T19:34:30.332Z",
+  "syncedAt": "2026-10-30T20:55:14.629Z",
   "citySlug": "tulum",
   "redirects": [
     {
@@ -9409,6 +9409,32 @@
       },
       "convexId": "kx7c5v87xexwmjw4g8110qd0kn8gpv07",
       "lastUpdated": "2026-10-21T19:25:44.461Z",
+      "locales": {
+        "en": {},
+        "es": {}
+      }
+    },
+    {
+      "base": {
+        "fromPath": "/event/7-realms-tulum-2027-realm-4",
+        "statusCode": 301,
+        "toPath": "/event/chris-luno-tulum-7realms"
+      },
+      "convexId": "kx7674pgbs2qegmtcfqs1ve24d8h9gb0",
+      "lastUpdated": "2026-10-30T20:55:01.073Z",
+      "locales": {
+        "en": {},
+        "es": {}
+      }
+    },
+    {
+      "base": {
+        "fromPath": "/es-mx/event/7-realms-tulum-2027-realm-4",
+        "statusCode": 301,
+        "toPath": "/es-mx/event/chris-luno-tulum-7realms"
+      },
+      "convexId": "kx7b84f3f70hx17rr5m7h54t8h8h9rey",
+      "lastUpdated": "2026-10-30T20:55:01.073Z",
       "locales": {
         "en": {},
         "es": {}
