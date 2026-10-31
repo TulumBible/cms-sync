@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-10-31T22:52:41.990Z",
+  "syncedAt": "2026-10-31T23:02:57.758Z",
   "citySlug": "tulum",
   "faqs": [
     {
@@ -8755,6 +8755,116 @@
         "es": {
           "answer": "Sí. La vivienda cuenta con un jacuzzi climatizado con capacidad para hasta 16 personas.",
           "name": "¿Tiene la villa un jacuzzi?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "is-villa-chamana-rented-by-the-room"
+      },
+      "convexId": "k57an2n0b0dzacw2905xfvv2vn8hb5jh",
+      "lastUpdated": "2026-10-31T23:02:35.084Z",
+      "locales": {
+        "en": {
+          "answer": "No. The entire eight-suite villa is rented under one key, with no shared spaces or other guests. It accommodates up to 16 people.",
+          "name": "Is Villa Chamana rented by the room?"
+        },
+        "es": {
+          "answer": "No. La villa, que cuenta con ocho suites, se alquila en su totalidad con una sola llave, sin espacios compartidos ni otros huéspedes. Tiene capacidad para un máximo de 16 personas.",
+          "name": "¿Se alquila Villa Chamana por habitaciones?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "is-breakfast-included-at-the-villa"
+      },
+      "convexId": "k572q0j4bqbaf9dtdhpdttvyjx8hbb7d",
+      "lastUpdated": "2026-10-31T23:02:35.084Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. Daily breakfast is included, along with private chef and butler service.",
+          "name": "Is breakfast included at the villa?"
+        },
+        "es": {
+          "answer": "Sí. El desayuno diario está incluido, además del servicio de chef privado y mayordomo.",
+          "name": "¿El desayuno está incluido en la villa?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "does-the-villa-have-a-pool-and-spa"
+      },
+      "convexId": "k573qrdwc7c7gr98dj78dzcbq58ha873",
+      "lastUpdated": "2026-10-31T23:02:35.084Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. The property has a pool, ojo de agua and spa, as well as a temazcal, mirror temple, gym and boxing ring.",
+          "name": "Does the villa have a pool and spa?"
+        },
+        "es": {
+          "answer": "Sí. La finca cuenta con piscina, ojo de agua y spa, además de un temazcal, un templo de los espejos, un gimnasio y un ring de boxeo.",
+          "name": "¿Tiene la villa piscina y spa?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "are-airport-transfers-included"
+      },
+      "convexId": "k577khs3dzmhzfakvswrcb09ns8hbxv8",
+      "lastUpdated": "2026-10-31T23:02:35.084Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. Round-trip airport transfers are included. The villa is around 40 minutes from TQO and one hour and 45 minutes from CUN.",
+          "name": "Are airport transfers included?"
+        },
+        "es": {
+          "answer": "Sí. Se incluyen los traslados de ida y vuelta al aeropuerto. La villa se encuentra a unos 40 minutos de TQO y a una hora y 45 minutos de CUN.",
+          "name": "¿Están incluidos los traslados al aeropuerto?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "what-is-the-minimum-stay-and-starting-rate"
+      },
+      "convexId": "k57798cqm7vm6q1kh1csgeyf258hbxvj",
+      "lastUpdated": "2026-10-31T23:02:35.084Z",
+      "locales": {
+        "en": {
+          "answer": "The minimum stay is three nights, with full-villa rates starting from USD 4,500 per night. Enquire through this page for rates and availability for your dates.",
+          "name": "What is the minimum stay and starting rate?"
+        },
+        "es": {
+          "answer": "La estancia mínima es de tres noches, y las tarifas para alquilar la villa completa empiezan a partir de 4.500 USD por noche. Consulta en esta página las tarifas y la disponibilidad para las fechas que te interesen.",
+          "name": "¿Cuál es la estancia mínima y la tarifa inicial?"
         }
       }
     }
