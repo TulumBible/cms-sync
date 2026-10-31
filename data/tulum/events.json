@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-10-31T17:55:54.080Z",
+  "syncedAt": "2026-10-31T17:58:41.750Z",
   "citySlug": "tulum",
   "events": [
     {
@@ -799,6 +799,144 @@
           "hubBlurb": "",
           "name": "Las Gitanas",
           "slug": "las-gitanas-5nov2026",
+          "tableInformation": ""
+        }
+      }
+    },
+    {
+      "base": {
+        "afterEnd": "archive",
+        "buyLink": "https://tf.link/pxzlwyjq",
+        "categoryIds": [],
+        "cta": "Tickets",
+        "displayPrice": "Free",
+        "endDate": "2026-11-12T23:59",
+        "eventType": "Dinner",
+        "faqIds": [],
+        "flyerImage": {
+          "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/c42d03d9-1424-4306-44ed-ca3a85370b00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+        },
+        "gaLink": null,
+        "gaPrice": null,
+        "hubImage": null,
+        "isFeatured": false,
+        "isPublished": true,
+        "lineup": [
+          "MAX LUÉVANO"
+        ],
+        "noPrice": false,
+        "promotion": "normal",
+        "publishedAt": null,
+        "qrCode": "M0 0.5h7m1 0h1m1 0h1m1 0h2m2 0h6m1 0h1m2 0h1m1 0h1m1 0h7M0 1.5h1m5 0h1m2 0h4m1 0h1m2 0h2m1 0h1m1 0h5m1 0h1m1 0h1m5 0h1M0 2.5h1m1 0h3m1 0h1m1 0h3m2 0h4m1 0h3m1 0h1m1 0h2m4 0h1m1 0h3m1 0h1M0 3.5h1m1 0h3m1 0h1m1 0h3m1 0h4m4 0h1m1 0h1m1 0h5m1 0h1m1 0h3m1 0h1M0 4.5h1m1 0h3m1 0h1m1 0h1m2 0h2m1 0h3m1 0h2m1 0h1m2 0h1m1 0h3m1 0h1m1 0h3m1 0h1M0 5.5h1m5 0h1m3 0h2m5 0h4m1 0h1m1 0h1m5 0h1m5 0h1M0 6.5h7m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h7M10 7.5h1m1 0h1m1 0h5m3 0h3m2 0h2M0 8.5h4m2 0h1m1 0h1m1 0h3m1 0h2m1 0h5m1 0h1m2 0h4m2 0h3m1 0h1M0 9.5h1m2 0h2m2 0h4m1 0h2m1 0h2m1 0h6m4 0h2m1 0h1m1 0h3M0 10.5h1m2 0h6m1 0h3m3 0h1m3 0h1m1 0h3m3 0h3m1 0h1m1 0h2M1 11.5h2m1 0h1m3 0h2m3 0h1m4 0h1m1 0h1m2 0h6m1 0h3m1 0h3M1 12.5h1m1 0h1m1 0h4m1 0h1m1 0h3m2 0h1m4 0h2m1 0h1m1 0h8m1 0h1M1 13.5h3m1 0h1m1 0h1m1 0h1m1 0h2m1 0h4m1 0h3m1 0h3m1 0h8m1 0h1M0 14.5h1m1 0h1m3 0h2m1 0h3m1 0h2m4 0h2m3 0h3m2 0h3m1 0h1m1 0h1M0 15.5h1m1 0h2m3 0h2m2 0h1m2 0h3m3 0h3m3 0h1m1 0h1m1 0h1m2 0h1m2 0h1M1 16.5h1m1 0h1m1 0h2m2 0h1m2 0h1m1 0h1m1 0h1m1 0h1m1 0h2m3 0h1m1 0h2m2 0h1m2 0h2M1 17.5h1m1 0h1m3 0h3m5 0h1m1 0h1m2 0h2m1 0h4m2 0h2m2 0h1m1 0h2M1 18.5h1m1 0h2m1 0h4m3 0h3m4 0h3m1 0h1m2 0h6m1 0h3M1 19.5h3m1 0h1m2 0h4m1 0h2m1 0h4m2 0h3m3 0h1m1 0h2m1 0h1m1 0h1M1 20.5h3m1 0h3m5 0h7m1 0h1m2 0h1m1 0h4m1 0h3m1 0h1M0 21.5h1m1 0h1m2 0h1m4 0h1m5 0h1m2 0h3m1 0h1m2 0h1m1 0h2m5 0h1M0 22.5h1m2 0h1m1 0h2m1 0h2m4 0h1m1 0h2m4 0h5m2 0h3M0 23.5h1m1 0h3m3 0h2m1 0h4m4 0h1m4 0h2m3 0h1m1 0h4M0 24.5h2m1 0h6m2 0h1m3 0h3m4 0h1m3 0h5m1 0h5M4 25.5h1m3 0h1m1 0h2m1 0h1m1 0h3m1 0h1m2 0h1m1 0h2m1 0h7m2 0h1M1 26.5h4m1 0h1m5 0h1m1 0h1m1 0h1m2 0h1m1 0h1m4 0h1m3 0h3m2 0h1M0 27.5h1m3 0h2m1 0h1m2 0h1m1 0h2m1 0h2m4 0h1m1 0h1m2 0h3m2 0h3m2 0h1M2 28.5h1m2 0h2m3 0h2m4 0h1m1 0h1m2 0h3m1 0h1m2 0h5m1 0h3M8 29.5h1m3 0h2m1 0h1m1 0h1m2 0h1m1 0h2m1 0h1m1 0h2m3 0h2m2 0h1M0 30.5h7m2 0h4m2 0h2m1 0h1m1 0h3m2 0h1m2 0h1m1 0h1m1 0h5M0 31.5h1m5 0h1m2 0h1m2 0h1m3 0h4m2 0h3m2 0h2m3 0h2m1 0h2M0 32.5h1m1 0h3m1 0h1m2 0h1m1 0h3m1 0h1m1 0h2m1 0h2m4 0h1m1 0h5m3 0h1M0 33.5h1m1 0h3m1 0h1m1 0h3m1 0h3m3 0h1m1 0h1m2 0h1m1 0h1m2 0h3m1 0h1m1 0h3M0 34.5h1m1 0h3m1 0h1m1 0h6m4 0h1m1 0h4m1 0h1m1 0h2m1 0h3M0 35.5h1m5 0h1m1 0h3m4 0h1m2 0h3m1 0h1m1 0h4m5 0h2M0 36.5h7m1 0h1m3 0h1m1 0h1m2 0h1m2 0h1m1 0h1m1 0h4m1 0h2m1 0h5<!--vb:37-->",
+        "startDate": "2026-11-12",
+        "status": "Live",
+        "tableLayoutImage": null,
+        "tbeId": "TBE_SK6WPQ",
+        "ticketPrice": null,
+        "ticketTiers": [
+          {
+            "currency": "MXN",
+            "id": "gl1+KKl8LSNlz9lEl0KuJeY+x0A/BYC1q38Wt14COceHlFbVK9+4V7ml3bS7ijwpDAlOWo68D97ezUGTGFhgOw==",
+            "isTable": false,
+            "name": "Guest List",
+            "price": 0,
+            "priceWithFees": 0,
+            "replacementText": "Free",
+            "sortOrder": 1,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "zgpaBmjVB2pod5ZZBl8pua5XqNjs26KCaC0hOy946b8943RWS/LOXpgWMoVn/Ajjq1pufeiRqFhhFhNZlC1PDg==",
+            "isTable": false,
+            "name": "PREMIUM OPEN BAR 1 HOUR",
+            "price": 990,
+            "priceWithFees": 990,
+            "sortOrder": 2,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "WvF2gnN+MEE8D4wOuxFdSJKAFQSQtaHKRviRqF/H2e2xhRC5PrWoq3RxanRZCdqhWoWIf8HQyoyN61qyUjzoww==",
+            "isTable": false,
+            "name": "Standard Open Bar 1 Hour",
+            "price": 770,
+            "priceWithFees": 770,
+            "sortOrder": 3,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "Ir+9fPGy5V+pEsIFNxomYYLu5NFsJYmCXbKbXPn0Mc2buC4TnYzVRDAz1wxXZvAe94Iy2IDuQH/KzkB81oXqgw==",
+            "isTable": true,
+            "name": "Bottles & Bites",
+            "price": 3300,
+            "priceWithFees": 3300,
+            "sortOrder": 4,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "BV+xXdLcqVs50XXqFutA4lTEWqk3MDU+aoIBMcR7jymMnefDJ5n3+nJ2yjczBeVb0C8efq8PpqNDhXDIsTxlbg==",
+            "isTable": false,
+            "name": "Dinner & Dancing",
+            "price": 1925,
+            "priceWithFees": 1925,
+            "sortOrder": 5,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "FzFyGkyCrX1DHadrENOQlsjAt7nvsUAQ535ndd2LwtgZokciB9mlOrQf4PH8NCdV8u8MznDAb8HAzpQRwM8SRA==",
+            "isTable": false,
+            "name": "Gold Section",
+            "price": 4400,
+            "priceWithFees": 4400,
+            "sortOrder": 6,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "gSVFHj/RnZVn5IeBi8VJzqgvcNjHBWkPUTVvx/oiAMQc4/DIziPpbuB9WIzFjbs3rBnMtcCM9eoQNj54acxLKA==",
+            "isTable": false,
+            "name": "VIP Experience",
+            "price": 6600,
+            "priceWithFees": 6600,
+            "sortOrder": 7,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          }
+        ],
+        "time": "19:30 - 23:00",
+        "url": "https://tf.link/pxzlwyjq",
+        "venueName": "Gitano Jungle",
+        "venueSlug": "gitano-jungle",
+        "vipLink": null,
+        "vipPrice": null
+      },
+      "convexId": "j574srfxjn87dtjz9tg158txz18gp0bq",
+      "lastUpdated": "2026-10-31T17:58:19.418Z",
+      "locales": {
+        "en": {
+          "body": "<h2>Dinner and Welcome Cocktails at Gitano Jungle</h2><p>Las Gitanas brings its girls’ night out format to Gitano Jungle Tulum. The evening centres on gathering with friends for dinner, welcome cocktails and menu specials. Max Luévano provides the music as the programme moves from the table into a later night. You can arrive for dinner and stay until late without changing locations.</p><h3>Max Luévano Plays from 6pm Until Late</h3><p>The programme begins at 6pm and continues until late. Max Luévano is billed for the music throughout the evening. Dinner, cocktails and music share the same schedule rather than running as separate sessions. Las Gitanas is also a recurring name in GITANO’s programme, linking a shared meal with a longer social night.</p><h3>Know Which GITANO Location You Need</h3><p>This Las Gitanas takes place at GITANO Jungle on Boca Paila Road KM 7.5. Gitano Beach is a different location at Av Boca Paila KM 9.5 in the Hotel Zone. The beach venue has a 120-metre strip of sand, sunbeds, cabanas and a large disco ball, but those details do not describe the Jungle address for this night. Check your destination before leaving so you arrive at KM 7.5.</p><h3>The Wider GITANO Beach Format</h3><p>Gitano Beach usually opens daily from 11 AM to 11 PM, with food service until 9 PM. Its regular menu combines modern Mexican cooking with Mediterranean touches, including cochinita pibil tacos with habanero and salsa verde. An open-fire kitchen uses a wood-burning oven, grill and comal, while the drinks programme focuses on mezcal cocktails. DJs normally play there from Thursday through Sunday across deep house, tropical house, nu-disco, indie dance and melodic house. These are standing details for the beach location, not the schedule or menu for Las Gitanas at GITANO Jungle.</p><h3>Thursday Night at Boca Paila Road KM 7.5</h3><p>Las Gitanas takes place on Thursday, November 12, 2026, at GITANO Jungle Tulum. The programme runs from 6pm until late, with dinner, welcome cocktails, menu specials and music by Max Luévano. Use Boca Paila Road KM 7.5 as your destination rather than the Gitano Beach address farther south. Choose your entry through the buy button on this page.</p>",
+          "description": "Las Gitanas is a girls’ night out built around dinner, welcome cocktails and menu specials, with music by Max Luévano and a programme running until late.",
+          "hubBlurb": "",
+          "name": "Las Gitanas",
+          "slug": "las-gitanas-12nov2026",
+          "tableInformation": ""
+        },
+        "es": {
+          "body": "<h2>Cena y cócteles de bienvenida en Gitano Jungle</h2><p>Las Gitanas lleva su formato de noche de chicas a Gitano Jungle Tulum. La velada gira en torno a una reunión entre amigas para cenar, tomar cócteles de bienvenida y disfrutar de platos especiales del menú. Max Luévano se encarga de la música a medida que el programa pasa de la mesa a la noche. Puedes llegar a la hora de cenar y quedarte hasta tarde sin cambiar de local.</p><h3>Max Luévano pincha desde las 18:00 hasta bien entrada la noche</h3><p>El programa comienza a las 18:00 y continúa hasta bien entrada la noche. Max Luévano se encargará de la música durante toda la velada. La cena, los cócteles y la música comparten el mismo horario, en lugar de desarrollarse en sesiones separadas. Las Gitanas es también un nombre recurrente en la programación de GITANO, que combina una comida compartida con una noche social más prolongada.</p><h3>Averigua qué local de GITANO te conviene</h3><p>Esta edición de Las Gitanas tiene lugar en GITANO Jungle, en la carretera de Boca Paila, km 7,5. Gitano Beach es un local diferente, situado en la avenida de Boca Paila, km 9,5, en la Zona Hotelera. El local de la playa cuenta con una franja de arena de 120 metros, tumbonas, cabañas y una gran bola de discoteca, pero esos detalles no describen la ubicación de Jungle para esta noche. Comprueba tu destino antes de salir para asegurarte de llegar al KM 7,5.</p><h3>El formato más amplio de GITANO Beach</h3><p>Gitano Beach suele abrir todos los días de 11:00 a 23:00, con servicio de comida hasta las 21:00. Su menú habitual combina la cocina mexicana moderna con toques mediterráneos, incluyendo tacos de cochinita pibil con habanero y salsa verde. La cocina a fuego abierto cuenta con un horno de leña, una parrilla y un comal, mientras que la carta de bebidas se centra en cócteles de mezcal. Normalmente, hay DJ pinchando de jueves a domingo con música deep house, tropical house, nu-disco, indie dance y melodic house. Estos son los datos generales de la playa, no el horario ni el menú de Las Gitanas en GITANO Jungle.</p><h3>Jueves por la noche en Boca Paila, KM 7,5</h3><p>Las Gitanas tendrá lugar el jueves 12 de noviembre de 2026 en GITANO Jungle Tulum. El programa se desarrolla desde las 18:00 h hasta bien entrada la noche, con cena, cócteles de bienvenida, especialidades del menú y música a cargo de Max Luévano. Utiliza Carretera de Boca Paila, km 7,5 como destino, en lugar de la dirección de Gitano Beach, situada más al sur. Elige tu entrada a través del botón de compra de esta página.</p>",
+          "description": "Las Gitanas es una velada para chicas que incluye cena, cócteles de bienvenida y platos especiales, con música de Max Luévano y un programa que se prolonga hasta bien entrada la noche.",
+          "hubBlurb": "",
+          "name": "Las Gitanas",
+          "slug": "las-gitanas-12nov2026",
           "tableInformation": ""
         }
       }
