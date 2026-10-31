@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-10-31T19:11:53.891Z",
+  "syncedAt": "2026-10-31T19:15:29.449Z",
   "citySlug": "tulum",
   "events": [
     {
@@ -4785,6 +4785,141 @@
           "hubBlurb": "",
           "name": "Gypsy Disco",
           "slug": "gypsy-disco-11dec-2026",
+          "tableInformation": ""
+        }
+      }
+    },
+    {
+      "base": {
+        "afterEnd": "archive",
+        "buyLink": "https://tf.link/kaeq9frz",
+        "categoryIds": [],
+        "cta": "Tickets",
+        "displayPrice": "MXN $290",
+        "endDate": "2026-12-18T23:59",
+        "eventType": "Dinner",
+        "faqIds": [],
+        "flyerImage": {
+          "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/ac0188a1-61c3-49f9-e598-91f6b3981600/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+        },
+        "gaLink": null,
+        "gaPrice": null,
+        "hubImage": null,
+        "isFeatured": false,
+        "isPublished": true,
+        "lineup": null,
+        "noPrice": false,
+        "promotion": "normal",
+        "publishedAt": null,
+        "qrCode": "M0 0.5h7m1 0h1m1 0h1m1 0h2m2 0h6m1 0h1m2 0h1m1 0h1m1 0h7M0 1.5h1m5 0h1m2 0h4m1 0h1m2 0h2m1 0h1m1 0h5m1 0h1m1 0h1m5 0h1M0 2.5h1m1 0h3m1 0h1m1 0h3m2 0h4m1 0h3m1 0h1m1 0h2m4 0h1m1 0h3m1 0h1M0 3.5h1m1 0h3m1 0h1m1 0h3m1 0h4m4 0h1m1 0h1m1 0h5m1 0h1m1 0h3m1 0h1M0 4.5h1m1 0h3m1 0h1m1 0h1m2 0h2m1 0h3m1 0h2m1 0h1m2 0h1m1 0h3m1 0h1m1 0h3m1 0h1M0 5.5h1m5 0h1m3 0h2m5 0h4m1 0h1m1 0h1m5 0h1m5 0h1M0 6.5h7m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h7M10 7.5h1m1 0h1m1 0h5m3 0h3m2 0h2M0 8.5h4m2 0h1m1 0h1m1 0h3m1 0h2m1 0h5m1 0h1m2 0h4m2 0h3m1 0h1M0 9.5h2m2 0h1m2 0h1m2 0h1m1 0h2m1 0h2m1 0h6m4 0h1m2 0h1m1 0h3M1 10.5h4m1 0h1m2 0h1m1 0h2m3 0h1m3 0h1m1 0h3m3 0h1m2 0h2m1 0h2M0 11.5h1m1 0h4m3 0h2m2 0h1m4 0h1m1 0h1m2 0h7m1 0h1m2 0h3M2 12.5h1m2 0h2m1 0h3m1 0h3m2 0h1m4 0h2m1 0h1m1 0h4m1 0h3m1 0h1M2 13.5h3m2 0h2m2 0h2m1 0h4m1 0h3m1 0h3m1 0h2m1 0h5m1 0h1M1 14.5h8m2 0h1m1 0h2m4 0h2m3 0h3m5 0h2m1 0h1M4 15.5h1m2 0h2m2 0h1m2 0h3m3 0h3m3 0h1m1 0h3m1 0h2m2 0h1M0 16.5h2m1 0h1m1 0h2m2 0h2m1 0h1m1 0h1m1 0h1m1 0h1m1 0h2m3 0h1m1 0h3m4 0h2M0 17.5h1m1 0h1m1 0h1m2 0h1m1 0h2m4 0h1m1 0h1m2 0h2m1 0h4m2 0h2m2 0h1m1 0h2M5 18.5h2m1 0h3m2 0h3m4 0h3m1 0h1m2 0h2m2 0h2m1 0h3M3 19.5h1m1 0h1m3 0h1m1 0h1m1 0h2m1 0h4m2 0h3m3 0h1m2 0h1m1 0h1m1 0h1M0 20.5h1m2 0h1m1 0h2m6 0h7m1 0h1m2 0h1m1 0h4m1 0h3m1 0h1M2 21.5h4m2 0h1m7 0h1m2 0h3m1 0h1m2 0h1m1 0h1m6 0h1M0 22.5h1m1 0h1m1 0h3m3 0h1m3 0h1m1 0h2m4 0h5m4 0h1M5 23.5h1m2 0h1m2 0h4m4 0h1m4 0h2m4 0h5M0 24.5h3m2 0h2m4 0h1m3 0h3m4 0h1m3 0h5m1 0h5M2 25.5h2m3 0h2m2 0h1m1 0h1m1 0h3m1 0h1m2 0h1m1 0h2m1 0h2m1 0h4m2 0h1M1 26.5h1m4 0h3m1 0h1m1 0h1m1 0h1m1 0h1m2 0h1m1 0h1m4 0h1m4 0h2m2 0h1M0 27.5h1m2 0h1m1 0h1m3 0h2m1 0h2m1 0h2m4 0h1m1 0h1m2 0h3m2 0h3m2 0h1M4 28.5h1m1 0h1m1 0h4m4 0h1m1 0h1m2 0h3m1 0h1m2 0h5m1 0h3M8 29.5h1m1 0h1m1 0h2m1 0h1m1 0h1m2 0h1m1 0h2m1 0h1m1 0h2m3 0h2m2 0h1M0 30.5h7m4 0h2m2 0h2m1 0h1m1 0h3m2 0h1m2 0h1m1 0h1m1 0h5M0 31.5h1m5 0h1m2 0h2m1 0h1m3 0h4m2 0h3m2 0h2m3 0h2m1 0h2M0 32.5h1m1 0h3m1 0h1m2 0h1m1 0h3m1 0h1m1 0h2m1 0h2m4 0h1m1 0h5m3 0h1M0 33.5h1m1 0h3m1 0h1m1 0h1m1 0h1m1 0h3m3 0h1m1 0h1m2 0h1m1 0h1m2 0h3m1 0h1m1 0h3M0 34.5h1m1 0h3m1 0h1m1 0h1m1 0h4m4 0h1m1 0h4m1 0h1m1 0h2m1 0h3M0 35.5h1m5 0h1m1 0h2m5 0h1m2 0h3m1 0h1m1 0h4m2 0h1m2 0h2M0 36.5h7m1 0h3m1 0h1m1 0h1m2 0h1m2 0h1m1 0h1m1 0h4m4 0h5<!--vb:37-->",
+        "startDate": "2026-12-18",
+        "status": "Live",
+        "tableLayoutImage": null,
+        "tbeId": "TBE_5B3DTD",
+        "ticketPrice": null,
+        "ticketTiers": [
+          {
+            "currency": "MXN",
+            "id": "S80MVW4oGPTmkWwj28FUJpMH8o8kDi723S+mJ3Rp0cTYUPejwjSdYDZ59n9K37tzrHNnlCDr+LdYKP/+GuohNA==",
+            "isTable": false,
+            "name": "General Admission | Welcome Drink",
+            "price": 290,
+            "priceWithFees": 290,
+            "sortOrder": 1,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "KCGgZACFYXPnFqYPYv0EdGbvbitVqVjReblmKKy1QgPxU2THEJcaIDeMb9FwSbBjVtxmxUTIL0J3lO0TsFx6Rg==",
+            "isTable": false,
+            "name": "PREMIUM OPEN BAR 1 HOUR",
+            "price": 990,
+            "priceWithFees": 990,
+            "sortOrder": 2,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "G5qmQF7e+K4MOtklC7oLy24dGshDn/5N6lqaYt8nTk+i0a++HIXUMJw1bhaYtvy6pqdcUy8oS3kXoIgp25ANww==",
+            "isTable": false,
+            "name": "Standard Open Bar 1 Hour",
+            "price": 770,
+            "priceWithFees": 770,
+            "sortOrder": 3,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "fUq+P9rHzoUWxchlRnv34zu2AuVCOYBd7usMyE/aVvZkR1/fO/VtVinAeXfnCgVjPg0x/iXGRsXh9+YO5b5+4w==",
+            "isTable": true,
+            "name": "Bottles & Bites",
+            "price": 3300,
+            "priceWithFees": 3300,
+            "sortOrder": 4,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "zi4f+ffXF/V8ik9YWtIgFJDl+7cnaETJj18H+hJK0AJuLldmKvLY4HtjHGNSDqxuAUwrKLiyXggkHJ9M7wEb6g==",
+            "isTable": false,
+            "name": "Dinner & Dancing",
+            "price": 1925,
+            "priceWithFees": 1925,
+            "sortOrder": 5,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "Xcw6sppQl/Qufih2gzd0CBPQPBs7ubF1YznHzNXJexRjWRJbR74cOILJZqOCEhc91oGYSg6AI9WbVEutE6YUvg==",
+            "isTable": false,
+            "name": "Gold Section",
+            "price": 4400,
+            "priceWithFees": 4400,
+            "sortOrder": 6,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "w3xCOlLDjVGEGdzspcbizXYQm6bamAKPYVIJrbOzHGswo5DAddRDHB0GPhvPqfCg+Y5ZU6yTdBxLU64tjTVzwA==",
+            "isTable": false,
+            "name": "VIP Experience",
+            "price": 6600,
+            "priceWithFees": 6600,
+            "sortOrder": 7,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          }
+        ],
+        "time": "18:00 - 01:00",
+        "url": "https://tf.link/kaeq9frz",
+        "venueName": "Gitano Jungle",
+        "venueSlug": "gitano-jungle",
+        "vipLink": null,
+        "vipPrice": null
+      },
+      "convexId": "j57beetq2te523yhkgyrt3dhkn8f43h6",
+      "lastUpdated": "2026-10-31T19:15:15.595Z",
+      "locales": {
+        "en": {
+          "body": "<h2>An Anniversary Edition Built Around Dinner and Dancing</h2>\n<p>The Gypsy Disco Special Edition marks another year of Gitano Jungle’s Friday party on December 18. The anniversary night starts at 6 PM and runs until late. Local DJs provide the music rather than a touring headliner. Dinner, mezcal cocktails and dancing all take place within the same open-air venue. The format lets you begin at the table and stay as the room turns into a party.</p>\n<h3>Local DJs Take Disco, Funk and Groove Into the Night</h3>\n<p>Gypsy Disco has run every Friday since 2013. Its DJs are local, with sets moving through disco, funk, groove and nu-disco. The format is a dinner party first, then the pace rises as guests move toward the dance floor. You are not paying for a short headline set or a large concert production. The value is a full evening shaped around food, cocktails and feel-good dance music.</p>\n<h3>From Candlelit Decks to the Jungle Room Disco Ball</h3>\n<p>Gitano Jungle combines a modern Mexican dining room, mezcal bar, lounge and dance floor. Dinner begins on candlelit wooden decks set among thick palm foliage. Later, the focus moves toward the indoor-outdoor Jungle Room. A pink neon sign and giant suspended disco ball define the space as the room shifts from seated service to dancing. The venue is LGBTQIA+ welcoming and regularly draws international groups, birthday parties and other celebration-led crowds.</p>\n<h3>Open-Fire Mexican Plates and More Than 50 Mezcals</h3>\n<p>The kitchen serves modern Mexican sharing plates made with seasonal local ingredients, open fire and wood grills. Regular dishes include octopus zarandeado and pork al pastor tacos. Vegetarian, gluten-free, nut-free and dairy-free dishes are marked on the menu, and you should tell your waiter about any allergy. The bar carries more than 50 mezcals and uses seasonal fruit and herbs in its cocktails. Jungle Fever and Gypsy Disco 75 are two of its signature drinks. A four-course Mexican menu with champagne and mezcal cocktail pairings is also available as part of the Gypsy Disco format.</p>\n<h3>A Friday Format for Groups Who Want the Whole Evening</h3>\n<p>This night suits you if your group wants dinner and dancing without changing venues. Arrive at 6 PM if the meal and cocktails matter as much as the music. Come later if the Jungle Room and local DJ sets are your priority. Table reservations and local guest-list access form part of the announced special-edition format. The venue normally offers bottle service from 4,000 MXN per person, plus 15% service.</p>\n<h3>Plan Your December 18 Night in Tulum’s Hotel Zone</h3>\n<p>Gypsy Disco takes place on Friday, December 18, from 6 PM until late. Gitano Jungle is on the jungle side of Beach Road in Tulum’s Hotel Zone. Its address is Beach Road Km. 7, 77710 Q.R. The venue’s normal Friday hours extend to 3 AM, while this special edition is scheduled until late. Friday parties and special editions draw the venue’s largest event-focused crowds, so plan ahead and buy your ticket here.</p>",
+          "description": "Gypsy Disco, a Friday dinner-and-dancing series running since 2013, marks its anniversary with local DJs playing disco, funk, groove and nu-disco until late.",
+          "hubBlurb": "",
+          "name": "Gypsy Disco Special Edition",
+          "slug": "gypsy-disco-special-edition-18dec-2026",
+          "tableInformation": ""
+        },
+        "es": {
+          "body": "<h2>Una edición de aniversario centrada en la cena y el baile</h2>\n<p>La edición especial Gypsy Disco celebra otro año más de las fiestas de los viernes en Gitano Jungle el 18 de diciembre. La noche de aniversario empieza a las 18:00 y se prolonga hasta bien entrada la madrugada. La música correrá a cargo de DJ locales, en lugar de un cabeza de cartel en gira. La cena, los cócteles de mezcal y el baile tienen lugar en el mismo recinto al aire libre. Este formato te permite empezar en la mesa y quedarte mientras el local se va transformando en una fiesta.</p>\n<h3>Los DJ locales llevan el disco, el funk y el groove hasta bien entrada la noche</h3>\n<p>Gypsy Disco se celebra todos los viernes desde 2013. Sus DJ son locales y sus sesiones abarcan estilos como el disco, el funk, el groove y el nu-disco. El formato consiste primero en una cena, y luego el ritmo se acelera a medida que los invitados se dirigen a la pista de baile. No estás pagando por una breve actuación estelar ni por una gran producción de concierto. Lo que obtienes es una velada completa en torno a la comida, los cócteles y la música bailable que te hace sentir bien.</p>\n<h3>Desde terrazas a la luz de las velas hasta la bola de discoteca de la sala Jungle</h3>\n<p>Gitano Jungle combina un moderno comedor mexicano, un bar de mezcal, un salón y una pista de baile. La cena comienza en terrazas de madera a la luz de las velas, situadas entre una espesa vegetación de palmeras. Más tarde, la atención se desplaza hacia la Jungle Room, un espacio que combina interior y exterior. Un letrero de neón rosa y una gigantesca bola de discoteca suspendida definen el espacio a medida que la sala pasa del servicio en mesa al baile. El local es acogedor para el colectivo LGBTQIA+ y atrae habitualmente a grupos internacionales, fiestas de cumpleaños y otros públicos que acuden para celebrar.</p>\n<h3>Platos mexicanos a la brasa y más de 50 mezcales</h3>\n<p>La cocina ofrece platos mexicanos modernos para compartir, elaborados con ingredientes locales de temporada, a la brasa y en parrillas de leña. Entre los platos habituales se incluyen el pulpo zarandeado y los tacos de cerdo al pastor. Los platos vegetarianos, sin gluten, sin frutos secos y sin lácteos están señalados en la carta, y es recomendable informar al camarero de cualquier alergia. La barra cuenta con más de 50 mezcales y utiliza frutas y hierbas de temporada en sus cócteles. El Jungle Fever y el Gypsy Disco 75 son dos de sus bebidas estrella. También se ofrece un menú mexicano de cuatro platos con maridaje de champán y cócteles de mezcal como parte del formato Gypsy Disco.</p>\n<h3>Un formato de viernes para grupos que quieren disfrutar de toda la noche</h3>\n<p>Esta noche es ideal para ti si tu grupo quiere cenar y bailar sin cambiar de local. Llega a las 18:00 h si la comida y los cócteles te importan tanto como la música. Venid más tarde si vuestra prioridad son el Jungle Room y las sesiones de los DJ locales. Las reservas de mesa y el acceso a la lista de invitados local forman parte del formato de edición especial anunciado. El local suele ofrecer servicio de botella a partir de 4.000 MXN por persona, más un 15 % de servicio.</p>\n<h3>Planifica tu noche del 18 de diciembre en la Zona Hotelera de Tulum</h3>\n<p>Gypsy Disco tendrá lugar el viernes 18 de diciembre, desde las 18:00 h hasta bien entrada la madrugada. Gitano Jungle se encuentra en el lado de la selva de Beach Road, en la Zona Hotelera de Tulum. Su dirección es Beach Road, km 7, 77710 Q.R. El horario habitual de los viernes del local se prolonga hasta las 3 de la madrugada, mientras que esta edición especial está programada hasta bien entrada la noche. Las fiestas de los viernes y las ediciones especiales atraen al mayor número de asistentes del local, así que planifica con antelación y compra tu entrada aquí.</p>",
+          "description": "Gypsy Disco, una serie de veladas de cena y baile que se celebra los viernes y que lleva en marcha desde 2013, celebra su aniversario con DJ locales que pinchan música disco, funk, groove y nu-disco hasta bien entrada la noche.",
+          "hubBlurb": "",
+          "name": "Gypsy Disco Special Edition",
+          "slug": "gypsy-disco-special-edition-18dec-2026",
           "tableInformation": ""
         }
       }
