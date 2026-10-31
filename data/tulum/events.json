@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-10-31T18:16:10.652Z",
+  "syncedAt": "2026-10-31T18:19:44.289Z",
   "citySlug": "tulum",
   "events": [
     {
@@ -1213,6 +1213,144 @@
           "hubBlurb": "",
           "name": "Las Gitanas",
           "slug": "las-gitanas-26nov2026",
+          "tableInformation": ""
+        }
+      }
+    },
+    {
+      "base": {
+        "afterEnd": "archive",
+        "buyLink": "https://tf.link/7zts6sdi",
+        "categoryIds": [],
+        "cta": "Tickets",
+        "displayPrice": "Free",
+        "endDate": "2026-12-03T23:59",
+        "eventType": "Social",
+        "faqIds": [],
+        "flyerImage": {
+          "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/ea567bf2-984e-47e2-3cc9-66f77e175100/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+        },
+        "gaLink": null,
+        "gaPrice": null,
+        "hubImage": null,
+        "isFeatured": false,
+        "isPublished": true,
+        "lineup": [
+          "MAX LUÉVANO"
+        ],
+        "noPrice": false,
+        "promotion": "normal",
+        "publishedAt": null,
+        "qrCode": "M0 0.5h7m1 0h1m2 0h2m1 0h1m3 0h1m2 0h2m2 0h1m4 0h7M0 1.5h1m5 0h1m2 0h2m2 0h2m4 0h2m1 0h1m3 0h1m1 0h1m1 0h1m5 0h1M0 2.5h1m1 0h3m1 0h1m3 0h1m1 0h3m1 0h1m2 0h4m2 0h1m1 0h1m2 0h1m1 0h3m1 0h1M0 3.5h1m1 0h3m1 0h1m5 0h2m2 0h1m4 0h1m2 0h2m4 0h1m1 0h3m1 0h1M0 4.5h1m1 0h3m1 0h1m2 0h1m1 0h1m2 0h1m1 0h1m2 0h1m6 0h1m1 0h1m1 0h1m1 0h3m1 0h1M0 5.5h1m5 0h1m3 0h1m1 0h2m6 0h1m1 0h2m1 0h1m4 0h1m5 0h1M0 6.5h7m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h7M8 7.5h1m1 0h2m1 0h4m2 0h1m2 0h1m2 0h1m1 0h2M0 8.5h2m1 0h2m1 0h1m2 0h3m2 0h1m2 0h1m1 0h2m2 0h2m1 0h1m1 0h1m1 0h1m5 0h1M0 9.5h1m1 0h2m1 0h1m1 0h1m1 0h1m2 0h3m3 0h2m3 0h1m2 0h2m1 0h1m1 0h2m2 0h1M1 10.5h1m1 0h2m1 0h4m1 0h1m3 0h2m1 0h1m1 0h4m3 0h2m1 0h1m2 0h4M0 11.5h3m2 0h1m3 0h1m1 0h2m4 0h1m1 0h2m5 0h5m1 0h1m1 0h1M1 12.5h2m2 0h8m3 0h1m2 0h2m5 0h2m2 0h1m2 0h1m1 0h2M3 13.5h3m1 0h2m1 0h1m2 0h4m1 0h1m1 0h2m5 0h3m2 0h4M0 14.5h1m3 0h4m1 0h1m1 0h5m2 0h4m3 0h3m2 0h1m1 0h1m2 0h2M1 15.5h2m1 0h1m3 0h4m15 0h1m1 0h1m1 0h2m1 0h1m1 0h1M0 16.5h1m1 0h1m1 0h1m1 0h1m3 0h1m3 0h3m3 0h1m3 0h2m2 0h4m1 0h4M1 17.5h1m2 0h2m2 0h2m1 0h3m1 0h1m2 0h4m4 0h1m6 0h1M0 18.5h3m3 0h2m2 0h2m3 0h3m1 0h1m1 0h1m1 0h5m2 0h1m5 0h1M0 19.5h1m1 0h1m1 0h2m1 0h2m3 0h1m1 0h1m1 0h1m5 0h1m2 0h1m2 0h1m4 0h1m2 0h1M0 20.5h1m1 0h1m1 0h4m1 0h1m2 0h3m1 0h2m1 0h1m6 0h1m1 0h5m2 0h2M2 21.5h3m4 0h1m4 0h2m3 0h1m2 0h2m3 0h1m1 0h1m2 0h4M0 22.5h2m2 0h3m1 0h1m3 0h1m1 0h5m2 0h3m1 0h3m1 0h3m1 0h1m2 0h1M3 23.5h1m4 0h2m4 0h1m2 0h2m4 0h1m8 0h5M2 24.5h3m1 0h1m2 0h1m3 0h3m3 0h2m2 0h1m1 0h1m1 0h1m2 0h2m1 0h1m2 0h1M0 25.5h5m3 0h3m1 0h1m2 0h2m1 0h1m3 0h2m3 0h2m3 0h2m1 0h1M0 26.5h4m1 0h2m1 0h2m4 0h3m1 0h2m4 0h1m1 0h2m1 0h5m1 0h2M0 27.5h1m1 0h1m1 0h2m2 0h2m2 0h3m5 0h1m1 0h2m6 0h2m2 0h1m1 0h1M0 28.5h1m5 0h2m3 0h2m2 0h2m5 0h4m1 0h9M8 29.5h1m2 0h1m3 0h1m2 0h3m1 0h1m1 0h1m2 0h2m3 0h2m1 0h1M0 30.5h7m3 0h1m1 0h4m1 0h3m1 0h1m1 0h1m2 0h1m1 0h1m1 0h1m1 0h2m2 0h1M0 31.5h1m5 0h1m2 0h1m1 0h1m1 0h1m2 0h1m5 0h1m2 0h1m1 0h2m3 0h2M0 32.5h1m1 0h3m1 0h1m1 0h1m2 0h1m1 0h1m3 0h1m2 0h1m3 0h1m1 0h8M0 33.5h1m1 0h3m1 0h1m1 0h3m1 0h2m1 0h2m1 0h1m2 0h3m1 0h3m1 0h2m2 0h1m1 0h2M0 34.5h1m1 0h3m1 0h1m2 0h3m1 0h1m1 0h1m4 0h1m1 0h4m2 0h2m1 0h3m2 0h1M0 35.5h1m5 0h1m1 0h6m1 0h1m1 0h1m2 0h1m1 0h2m2 0h2m1 0h1m1 0h1m1 0h4M0 36.5h7m1 0h2m1 0h3m2 0h1m2 0h1m3 0h2m2 0h2m1 0h2m1 0h1m2 0h1<!--vb:37-->",
+        "startDate": "2026-12-03",
+        "status": "Live",
+        "tableLayoutImage": null,
+        "tbeId": "TBE_X6VZHW",
+        "ticketPrice": null,
+        "ticketTiers": [
+          {
+            "currency": "MXN",
+            "id": "bIYDtw7o2mny3v1sOes3xexYsyjYv/7N7P9WQG6zELXg3ubnGbssIKufH9WCxxgeoM0XAsaZ9vzI18oLfBdyQw==",
+            "isTable": false,
+            "name": "Guest List",
+            "price": 0,
+            "priceWithFees": 0,
+            "replacementText": "Free",
+            "sortOrder": 1,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "RSrclSIV12pulwv2I/C20jBOoaMB6c/oE1vsI1dWud00nlTDQrgxdZu+cDJzOT7ya15/CBFcLUlu5z7VU3HOOg==",
+            "isTable": false,
+            "name": "PREMIUM OPEN BAR 1 HOUR",
+            "price": 990,
+            "priceWithFees": 990,
+            "sortOrder": 2,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "N9PScvOM81VLma2FFA1dmLhQpwdmppK5g0Jn7bfHLoQZPkL5Q9r1Vu7KiRQlWKH8svZ9uW7U1QsMRQwiORECpA==",
+            "isTable": false,
+            "name": "Standard Open Bar 1 Hour",
+            "price": 770,
+            "priceWithFees": 770,
+            "sortOrder": 3,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "sWEWoXF6oJ91Cy8f863g67VQEveT2AnVWEoXvL+csawVm5ygb09++mWCyM4HpEH/V6zDKFO3iH6sp+3qQWjsjQ==",
+            "isTable": true,
+            "name": "Bottles & Bites",
+            "price": 3300,
+            "priceWithFees": 3300,
+            "sortOrder": 4,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "CVA2/N5FiI2byuKfUomXoauF5JJDMP8ArScPFVWA2/o8jlTQQ+lL/o14iGHcZnhKP4QaThGFKMQyUagoodIZeg==",
+            "isTable": false,
+            "name": "Dinner & Dancing",
+            "price": 1925,
+            "priceWithFees": 1925,
+            "sortOrder": 5,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "zgl5nUPLTiJENqgeZuoXU7A3I30uCzZcJDH+UUc2AWTKe55ddClMkdCpl+nSfwOx3DLAtsUmXVhZOiipTGBnGA==",
+            "isTable": false,
+            "name": "Gold Section",
+            "price": 4400,
+            "priceWithFees": 4400,
+            "sortOrder": 6,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "W0DaT55SBL77UFfM/y4f6NUGz5ul8K0i9Mr1zglpz3cmLFGYiHC8mM9eSgOOp556ekR0mSJdibtO2Cxr4+VljQ==",
+            "isTable": false,
+            "name": "VIP Experience",
+            "price": 6600,
+            "priceWithFees": 6600,
+            "sortOrder": 7,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          }
+        ],
+        "time": "18:00 - Late",
+        "url": "https://tf.link/7zts6sdi",
+        "venueName": "Gitano Jungle",
+        "venueSlug": "gitano-jungle",
+        "vipLink": null,
+        "vipPrice": null
+      },
+      "convexId": "j575zn26wm4jy6kc5k11ef9py98gqg9p",
+      "lastUpdated": "2026-10-31T18:19:25.867Z",
+      "locales": {
+        "en": {
+          "body": "<h2>A Girls’ Night Out That Starts Around the Table</h2>\n<p>Las Gitanas takes over Gitano Jungle on Thursday, 3 December 2026. The night is built around welcome cocktails, a shared dinner and menu specials before the pace shifts later. Max Luévano provides the music, while cocktails and bottle service continue until late. It works as one continuous night, so you do not need to move elsewhere after dinner. Bring friends, order across the table and stay as the restaurant moves into its late-night format.</p>\n<h3>MXN $200 Menu Specials from 7:30 PM</h3>\n<p>The dinner offer starts at 7:30 PM, with menu specials priced at MXN $200 per dish. The kitchen serves modern Mexican sharing plates made with seasonal local ingredients, open fire and wood grills. Its regular menu includes seafood, meat and vegetable dishes designed for the table. Sharing plates let your group order across several parts of the menu. Vegetarian, gluten-free, nut-free and dairy-free options are marked. Tell your waiter about allergies or dietary restrictions before ordering.</p>\n<h3>Dinner Decks, Pink Neon and a Suspended Disco Ball</h3>\n<p>The open-air venue combines a modern Mexican dining room, mezcal bar, lounge and dance floor on the jungle side of Beach Road. Candlelit wooden decks sit among thick palm foliage, while a pink neon sign and giant suspended disco ball define the space. The original location opened here on 20 December 2013. Dinner usually begins on the decks before the focus moves toward the indoor-outdoor Jungle Room. Max Luévano handles the music for this edition as the evening continues. The layout keeps dinner, drinks and the late-night programme in one place.</p>\n<h3>Welcome Cocktails, Mezcal and Bottle Service</h3>\n<p>Welcome cocktails form part of the programme, and the bar remains central after dinner. The venue carries more than 50 mezcals and makes cocktails with locally grown seasonal fruit and herbs. Jungle Fever and Gypsy Disco 75 are two of its signature drinks. Bottle service is also available for groups staying into the later part of the night. You can begin with the dinner offer, move to cocktails and keep your group together rather than splitting the evening across several stops.</p>\n<h3>A Social Format for Groups and Celebrations</h3>\n<p>The night is presented as a girls’ night out, with shared food and cocktails at the centre of the evening. The restaurant regularly draws international groups, including birthday parties and bachelorette groups, and it is LGBTQIA+ welcoming. Tables can order several plates before staying for music and drinks. The format suits groups that want a seated start without making dinner the end of the night. Cocktails and bottle service give the evening a clear next stage once the meal is finished.</p>\n<h3>Arrive from 6 PM and Choose Your Entry</h3>\n<p>The night is billed from 6 PM until late, with the MXN $200 menu specials starting at 7:30 PM. It takes place on Boca Paila Road Km 7.5 in Tulum’s Hotel Zone. Advance entry options for this edition include a free guest list, while general admission starts at MXN $770. Arrive for the dinner period if you want to settle around a table before the later programme. Choose the guest list or general admission option that suits your plans, then book your place with Tulum Bible.</p>",
+          "description": "Las Gitanas is a girls’ night out with welcome cocktails, menu specials and shared dinner, followed by music from Max Luévano and bottle service until late.",
+          "hubBlurb": "",
+          "name": "Las Gitanas",
+          "slug": "las-gitanas-3dec2026",
+          "tableInformation": ""
+        },
+        "es": {
+          "body": "<h2>Una noche de chicas que empieza alrededor de la mesa</h2>\n<p>Las Gitanas se adueña de Gitano Jungle el jueves 3 de diciembre de 2026. La noche se articula en torno a cócteles de bienvenida, una cena compartida y platos especiales del menú, antes de que el ritmo cambie más tarde. Max Luévano se encargará de la música, mientras que los cócteles y el servicio de botellas continuarán hasta bien entrada la noche. Se trata de una noche sin interrupciones, así que no hace falta que te vayas a otro sitio después de cenar. Trae a tus amigas, pedid a la mesa y quedaos mientras el restaurante pasa a su formato nocturno.</p>\n<h3>Platos especiales a 200 MXN a partir de las 19:30 h</h3>\n<p>La oferta de cena comienza a las 19:30 h, con platos especiales a un precio de 200 MXN por plato. La cocina sirve platos mexicanos modernos para compartir, elaborados con ingredientes locales de temporada, a la brasa y en parrillas de leña. Su menú habitual incluye platos de marisco, carne y verduras pensados para compartir en la mesa. Los platos para compartir permiten a tu grupo pedir de diferentes secciones del menú. Las opciones vegetarianas, sin gluten, sin frutos secos y sin lácteos están señaladas. Informa al camarero de cualquier alergia o restricción alimentaria antes de pedir.</p>\n<h3>Terrazas para cenar, neón rosa y una bola de discoteca suspendida</h3>\n<p>Este local al aire libre combina un comedor mexicano moderno, un bar de mezcal, un salón y una pista de baile en la zona selvática de Beach Road. Las terrazas de madera, iluminadas con velas, se encuentran entre el frondoso follaje de las palmeras, mientras que un letrero de neón rosa y una gigantesca bola de discoteca suspendida definen el espacio. El local original abrió aquí sus puertas el 20 de diciembre de 2013. La cena suele comenzar en las terrazas antes de que la atención se desplace hacia el Jungle Room, un espacio que combina interior y exterior. Max Luévano se encarga de la música en esta edición a medida que avanza la noche. La distribución permite disfrutar de la cena, las bebidas y el programa nocturno en un mismo lugar.</p>\n<h3>Cócteles de bienvenida, mezcal y servicio de botellas</h3>\n<p>Los cócteles de bienvenida forman parte del programa, y el bar sigue siendo el centro de atención después de la cena. El local cuenta con más de 50 mezcales y elabora cócteles con frutas y hierbas de temporada cultivadas localmente. El Jungle Fever y el Gypsy Disco 75 son dos de sus bebidas estrella. También hay servicio de botellas disponible para los grupos que se queden hasta altas horas de la madrugada. Podéis empezar con la oferta de cena, pasar a los cócteles y mantener al grupo unido, en lugar de dividir la velada entre varios locales.</p>\n<h3>Un formato social para grupos y celebraciones</h3>\n<p>La velada se presenta como una salida nocturna entre chicas, con comida para compartir y cócteles como eje central de la noche. El restaurante atrae habitualmente a grupos internacionales, incluyendo fiestas de cumpleaños y despedidas de soltera, y es un espacio acogedor para la comunidad LGBTQIA+. Las mesas pueden pedir varios platos antes de quedarse a disfrutar de la música y las bebidas. El formato se adapta a los grupos que desean comenzar sentados sin que la cena suponga el final de la noche. Los cócteles y el servicio de botellas aportan a la velada una clara siguiente etapa una vez finalizada la comida.</p>\n<h3>Llega a partir de las 18:00 y elige tu entrada</h3>\n<p>La velada se celebra desde las 18:00 h hasta bien entrada la noche, y los menús especiales de 200 MXN comienzan a las 19:30 h. Tiene lugar en el km 7,5 de la carretera de Boca Paila, en la Zona Hotelera de Tulum. Las opciones de entrada anticipada para esta edición incluyen una lista de invitados gratuita, mientras que la entrada general cuesta a partir de 770 MXN. Llega a la hora de la cena si quieres acomodarte en una mesa antes de que comience el programa posterior. Elige la opción de lista de invitados o de entrada general que mejor se adapte a tus planes y reserva tu plaza con Tulum Bible.</p>",
+          "description": "Las Gitanas es una salida nocturna para chicas con cócteles de bienvenida, platos especiales del menú y una cena para compartir, seguida de música a cargo de Max Luévano y servicio de botellas hasta bien entrada la noche.",
+          "hubBlurb": "",
+          "name": "Las Gitanas",
+          "slug": "las-gitanas-3dec2026",
           "tableInformation": ""
         }
       }
