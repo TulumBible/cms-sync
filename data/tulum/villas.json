@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-09T00:25:50.029Z",
+  "syncedAt": "2026-10-31T21:51:04.905Z",
   "citySlug": "tulum",
   "villas": [
     {
@@ -1873,6 +1873,152 @@
           "metaDescription": "Hacienda Babylon es una villa selvática de nueve dormitorios en la Región 15, con piscina central de 14 metros y una privada por suite.",
           "name": "Hacienda Babylon",
           "slug": "hacienda-babylon"
+        }
+      }
+    },
+    {
+      "base": {
+        "amenityIds": [
+          "jn796fkb2npe38c126gkzmhe85858yf5",
+          "jn78wp2bkm0sv6aber490necah858phw",
+          "jn70zn5gpwjkfxwnbkd4948rv5859d8d",
+          "jn705g0j2n2cepzkmt4gd3jxr585kbvm",
+          "jn78c0kww3ghntsrs0x74x0whx85j8ft",
+          "jn785xwma32ccwqp23911rkcds85k29g",
+          "jn74701wrrgsk24wp2wzadpae185kzb5",
+          "jn70e7zea8k1cbnab25vmzkf4185kc0b",
+          "jn7aqn3qjzw3j6qmesp89m823s85kby8",
+          "jn7brzqrezwp2cn80n84arv4t985k77w"
+        ],
+        "area": "region-15",
+        "bathrooms": "9",
+        "bedrooms": "8",
+        "beds": "9",
+        "category": "villa",
+        "categoryIds": [],
+        "faqIds": [
+          "k57452v9avs7z730v5h1x6gnhx8hbqbt",
+          "k57dmyts87sy89dxzt65spgs0h8hbmmc",
+          "k57fv3qwcpkx2jt9ajg23ef4m98hb6es",
+          "k57fnwz93dnpbn6y5dne0qvzmh8hbdtk",
+          "k5750txd0xs1cmwp0eafd5c08x8ha5hh",
+          "k57avan0s1659f118jftyzabpd8hb5jb"
+        ],
+        "googleMapsCode": "5GJP+CJ, 77765 Tulum, Q.R",
+        "images": [
+          {
+            "alt": "Casa Arka’s stone-arched facade glows with warm evening light around a turquoise pool in Tulum.",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/9bd89427-bd3b-4b16-7d52-99fc5be43b00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Casa Arka’s stone villa facade with arched windows, palms and a wooden entrance under a bright blue sky",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/dcb768fb-4a6b-41a3-e276-f278b89a3c00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Casa Arka villa with arched stone walls and rooftop pool surrounded by jungle under a bright sky",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/77630b32-27d2-4f67-cb25-b8078b078b00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Casa Arka’s curved lounge and pool terrace with a fire pit, white curtains, and forest views in warm sunlight",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/ed34bf3e-2e20-4e2a-523e-4a814d2d3e00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Casa Arka's rooftop pool surrounds a round villa with loungers and flowing curtains amid Tulum greenery.",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/180f477d-204a-41af-3b1e-b61783f33100/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Casa Arka’s turquoise pool faces a white arched pavilion surrounded by tropical plants in soft daylight.",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/099914b3-1c6c-47d5-a6c9-806dd9b3bc00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Casa Arka’s stone courtyard has shallow turquoise pools, stepping stones, arches and lush tropical greenery.",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/c6713764-ba5c-456e-5d4f-1562536f7400/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Casa Arka living room with a projector, sofa, plants and warm lighting creating a cozy evening mood",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/c22c974b-1a7f-43a2-b44d-2273573d6800/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Casa Arka's airy lounge features curved sofas, arched walls, plants, and a stone courtyard view.",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/0886aeab-a4bf-4a0d-1c75-4c193c4e2400/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Casa Arka’s grand lounge has arched balconies, a circular seating area, plants and a courtyard pool beyond.",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/1dcc6d43-30d4-4160-2093-be8bf4caaa00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Casa Arka’s spacious lobby has curved seating, arched walls, plants, and a stone bar in warm neutral tones.",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/e7ab11a2-376d-4d3a-28c3-9f515fe57700/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Casa Arka’s open bar and dining area features arched walls, pendant lights, plants, and a warm, relaxed mood.",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/db5e8872-3f13-450d-7d72-19d4bec58400/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Casa Arka pool beside a rustic stone wall with arched alcoves and dense tropical greenery, calm and sunny",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/45743e3a-fd43-40ee-3a6d-20ef58763f00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Casa Arka bedroom with a low white bed, built-in shelves, and soft sunlight through curtains",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/74ccbd1d-de90-44af-e5a4-2ff00a906300/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Casa Arka bedroom with a low white bed, sculpted wall shelves, and soft sunlight through sheer curtains",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/87d33408-89d9-4b5b-63a8-552aa6f66f00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Casa Arka bedroom with arched doorway, woven chair, potted palm, and warm sunlight creating a calm mood.",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/b2f1fda8-266b-4212-d14d-b05a542cd100/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Casa Arka dining room with a long set table, pendant lights, plants, and a calm modern interior",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/2fbb25e7-4b08-49a2-9eca-c5e5f56a9600/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Casa Arka rooftop dining table set for dinner beside stone arches at sunset, creating a warm, tranquil mood",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/c97d836b-010e-4210-2d76-098a370d4200/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Casa Arka’s open-plan bar and kitchen feature a stone island, arched walls, plants and warm natural light.",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/1fa39f08-0e56-417c-8c01-916541ee6000/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Casa Arka pool courtyard with arched walls, stone features, palms and warm lighting at dusk",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/8642dee5-a2a9-496f-de3a-598cc1284000/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Casa Arka bedroom with a canopy bed, open glass doors, and forest views in a calm setting",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/71e020f2-d099-49e2-e36d-115cd8fbd700/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Casa Arka bedroom with open glass doors, a potted palm, and tropical trees beyond the terrace.",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/1807ac7c-6c47-479b-5f3f-af357530b800/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Casa Arka bedroom framed by stone arches and jungle, with warm sunset light creating a calm mood",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/cdb7b837-8c8f-467f-521e-cb8f6b334b00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          }
+        ],
+        "pricePerNight": "$6,000 USD",
+        "reviewIds": [],
+        "sleeps": "19"
+      },
+      "convexId": "kh78ts6cbywhge82pfhxf39hzd8hb7ph",
+      "lastUpdated": "2026-10-31T21:50:48.482Z",
+      "locales": {
+        "en": {
+          "body": "<h2>Casa Arka Tulum, an eight-bedroom villa for groups</h2>\n<p>This private Region 15 villa is designed for group stays, retreats, weddings and celebrations. It has eight bedrooms and ten bathrooms, with space for up to 19 overnight guests. Your group has exclusive use of the bedrooms, pools, rooftop, jacuzzi, cinema, event room and outdoor lounges. A private chef, personal butler, concierge and daily housekeeping are included. The property sits inside a gated community with controlled access and 24-hour security.</p>\n<h3>Eight suites shaped by stone, wood and open air</h3>\n<p>Five bedrooms have king beds, two have queen beds, and the eighth has one queen and one single bed. Every bedroom is en suite and has air conditioning. Across the villa, exposed stone, reclaimed wood and open-air spaces connect the interiors with the surrounding jungle. Sculptural Maya stone details, indoor waterfalls and a decorative Zen garden add to the design. The layout gives the group large shared areas while retaining private bedrooms for time apart.</p>\n<h3>Two pools, a rooftop jacuzzi and a private cinema</h3>\n<p>The main level has a starlight pool with waterfall features. A second infinity pool sits on the rooftop with views across the surrounding canopy. The rooftop also holds a jacuzzi for up to 16 people, a firepit lounge and rollout beds for stargazing. Indoors, guests have a private movie theatre, a cocktail lounge, a break-out lounge and a dedicated event space. Cabana seating and outdoor gathering areas provide further space around the pools.</p>\n<h3>Private chef service with menus built around the group</h3>\n<p>The chef’s service and time are included in the rental. Groceries, ingredients and individual meals are charged separately according to the chosen menu. The chef can prepare breakfasts, brunches, lunches, dinners and celebration meals while adapting menus for dietary needs. Grocery shopping can also be handled before or during the stay. Outside catering is not permitted, so all dining inside the villa must be coordinated with the private chef. The butler, concierge and housekeeping team support the stay alongside the kitchen service.</p>\n<h3>Weddings, retreats and celebrations with room to gather</h3>\n<p>The villa can host up to 80 people for a cocktail-style event or 50 for a seated dinner. Event fees may apply when attendance exceeds the overnight guest count. An in-house wedding planner can coordinate catering, flowers, music, décor, the officiant and outside vendors. Photography, video, live entertainment and private performances can also be arranged. The indoor event room, rooftop and pool areas give planners several settings within one property.</p>\n<h3>Region 15, between central Tulum and the beach</h3>\n<p>The property is in Region 15, a residential area surrounded by jungle growth and close to central Tulum. The beach is around five to seven minutes away by car. Airport transfers, private drivers and local transport can be arranged through our concierge. Restaurant bookings, beach club reservations and private days on the water can also be organised. These transport and concierge arrangements carry an additional charge.</p>\n<p>Activities can be brought to the property or planned elsewhere in Tulum. At-villa options include massage, yoga, IV therapy, recovery treatments, energy work, mixology classes and private dance lessons. Flamenco performances, aerial shows and other live entertainment can be arranged for events. Away from the villa, the concierge can plan yacht charters, cenotes, ATV trips, ziplines, the Tulum ruins and Chichén Itzá. Each optional service is arranged around the group and may cost extra.</p>\n<h3>Rates, arrival times and how to enquire</h3>\n<p>Rates start from USD 3,100 per night and change with the season and group size. The minimum stay is two nights. Check-in is usually from 4:00 p.m., and check-out is before 10:00 a.m.; exact times can vary by date. Pets are welcome, but they should be included in the stay details when enquiring. Share your dates, guest count and plans through this page to check rates and arrange the villa, meals, transport or an event with the Tulum Bible concierge.</p>",
+          "description": "Sculptural stonework, indoor waterfalls and open-air gathering spaces frame eight suites, two pools, a 16-person jacuzzi and a private cinema for group stays.",
+          "metaDescription": "Casa Arka is an eight-bedroom jungle villa in Region 15, with two pools, a 16-person jacuzzi, private chef and butler. Check rates on Tulum Bible.",
+          "name": "Casa Arka",
+          "slug": "casa-arka"
+        },
+        "es": {
+          "body": "<h2>Casa Arka Tulum, una villa de ocho dormitorios para grupos</h2>\n<p>Esta villa privada de la Región 15 está diseñada para estancias en grupo, retiros, bodas y celebraciones. Cuenta con ocho dormitorios y diez baños, con capacidad para hasta 19 huéspedes que pernocten. Tu grupo tendrá uso exclusivo de los dormitorios, las piscinas, el rooftop, el jacuzzi, la sala de cine, la sala de eventos y las zonas de descanso al aire libre. Se incluyen los servicios de un chef privado, un mayordomo personal, un conserje y servicio de limpieza diario. La propiedad se encuentra dentro de una urbanización cerrada con acceso controlado y seguridad las 24 horas.</p>\n<h3>Ocho suites decoradas con piedra, madera y espacios al aire libre</h3>\n<p>Cinco dormitorios cuentan con camas king size, dos con camas queen size y el octavo tiene una cama queen size y una individual. Todos los dormitorios disponen de baño privado y aire acondicionado. En toda la villa, la piedra vista, la madera recuperada y los espacios al aire libre conectan los interiores con la selva circundante. Los detalles escultóricos de piedra maya, las cascadas interiores y un jardín zen decorativo completan el diseño. La distribución ofrece al grupo amplias zonas comunes, al tiempo que conserva dormitorios privados para disfrutar de momentos de intimidad.</p>\n<h3>Dos piscinas, un jacuzzi rooftop y un cine privado</h3>\n<p>La planta principal cuenta con una piscina starlight con cascadas. Una segunda piscina infinita se encuentra en la terraza rooftop, con vistas al dosel arbóreo circundante. La terraza rooftop también alberga un jacuzzi con capacidad para 16 personas, un salón con hoguera y camas plegables para observar las estrellas. En el interior, los huéspedes disponen de una sala de cine privada, un salón de cócteles, una zona de descanso y un espacio dedicado a eventos. Las cabañas y las zonas de reunión al aire libre ofrecen espacio adicional alrededor de las piscinas.</p>\n<h3>Servicio de chef privado con menús adaptados al grupo</h3>\n<p>El servicio y el tiempo del chef están incluidos en el alquiler. Los alimentos, los ingredientes y las comidas individuales se cobran por separado según el menú elegido. El chef puede preparar desayunos, brunchs, almuerzos, cenas y comidas de celebración, adaptando los menús a las necesidades dietéticas. La compra de alimentos también se puede organizar antes o durante la estancia. No se permite el catering externo, por lo que todas las comidas dentro de la villa deben coordinarse con el chef privado. El mayordomo, el conserje y el equipo de limpieza se encargan de facilitar la estancia junto con el servicio de cocina.</p>\n<h3>Bodas, retiros y celebraciones con espacio para reunirse</h3>\n<p>La villa tiene capacidad para acoger hasta 80 personas en un evento tipo cóctel o 50 en una cena con servicio de mesa. Pueden aplicarse tarifas por evento cuando el número de asistentes supere el de huéspedes alojados. Un organizador de bodas interno puede coordinar el catering, las flores, la música, la decoración, el oficiante y los proveedores externos. También se pueden organizar servicios de fotografía, vídeo, espectáculos en directo y actuaciones privadas. La sala de eventos interior, el rooftop y las zonas de piscina ofrecen a los organizadores varios escenarios dentro de una misma propiedad.</p>\n<h3>Región 15, entre el centro de Tulum y la playa</h3>\n<p>La propiedad se encuentra en la Región 15, una zona residencial rodeada de vegetación selvática y cercana al centro de Tulum. La playa está a unos cinco o siete minutos en coche. A través de nuestro servicio de conserjería se pueden organizar traslados al aeropuerto, conductores privados y transporte local. También se pueden organizar reservas en restaurantes, reservas de beach club y jornadas privadas en el agua. Estos servicios de transporte y conserjería conllevan un cargo adicional.</p>\n<p>Las actividades pueden realizarse en la propiedad o planificarse en otros lugares de Tulum. Las opciones en la villa incluyen masajes, yoga, terapia intravenosa, tratamientos de recuperación, trabajo energético, clases de coctelería y clases particulares de baile. Se pueden organizar espectáculos de flamenco, actuaciones aéreas y otros espectáculos en directo para eventos. Fuera de la villa, el servicio de conserjería puede planificar alquileres de yates, visitas a cenotes, excursiones en quad, tirolinas, visitas a las ruinas de Tulum y a Chichén Itzá. Cada servicio opcional se organiza en función del grupo y puede conllevar un coste adicional.</p>\n<h3>Tarifas, horarios de llegada y cómo solicitar información</h3>\n<p>Las tarifas comienzan a partir de 3.100 USD por noche y varían según la temporada y el tamaño del grupo. La estancia mínima es de dos noches. La entrada suele ser a partir de las 16:00 h, y la salida, antes de las 10:00 h; los horarios exactos pueden variar según la fecha. Se admiten mascotas, pero deben indicarse en los detalles de la estancia al realizar la consulta. Indica tus fechas, el número de huéspedes y tus planes a través de esta página para consultar tarifas y organizar la villa, las comidas, el transporte o un evento con el conserje de Tulum Bible.</p>",
+          "description": "Las esculturas de piedra, las cascadas interiores y los espacios de reunión al aire libre enmarcan ocho suites, dos piscinas, un jacuzzi con capacidad para 16 personas y una sala de cine privada para estancias en grupo.",
+          "metaDescription": "Casa Arka, villa selvática de 8 dormitorios en Región 15, con 2 piscinas, jacuzzi para 16, chef privado y mayordomo. Tarifas en Tulum Bible.",
+          "name": "Casa Arka",
+          "slug": "casa-arka"
         }
       }
     }
