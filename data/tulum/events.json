@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-10-31T19:15:29.449Z",
+  "syncedAt": "2026-10-31T19:16:01.836Z",
   "citySlug": "tulum",
   "events": [
     {
@@ -1627,6 +1627,142 @@
           "hubBlurb": "",
           "name": "Las Gitanas",
           "slug": "las-gitanas-17dec2026-2",
+          "tableInformation": ""
+        }
+      }
+    },
+    {
+      "base": {
+        "afterEnd": "archive",
+        "buyLink": "https://tf.link/kagrwxhb",
+        "categoryIds": [],
+        "cta": "Tickets",
+        "displayPrice": "Free",
+        "endDate": "2026-12-25T03:30",
+        "eventType": "Dinner",
+        "faqIds": [],
+        "flyerImage": {
+          "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/14ca97db-23bc-4c82-c1c8-5d118206b300/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+        },
+        "gaLink": null,
+        "gaPrice": null,
+        "hubImage": null,
+        "isFeatured": false,
+        "isPublished": true,
+        "lineup": null,
+        "noPrice": false,
+        "promotion": "normal",
+        "publishedAt": null,
+        "qrCode": null,
+        "startDate": "2026-12-24",
+        "status": "Live",
+        "tableLayoutImage": null,
+        "tbeId": "TBE_H3HPSC",
+        "ticketPrice": null,
+        "ticketTiers": [
+          {
+            "currency": "MXN",
+            "id": "MM2wM/rV2PNTxLNky8NV4RbyHn60wkm+6M2ltCyPjK3uEZwOxCZinoORIrSgrRX30ceH6fKhrd5RrUclNYK4iA==",
+            "isTable": false,
+            "name": "Guest List",
+            "price": 0,
+            "priceWithFees": 0,
+            "replacementText": "Free",
+            "sortOrder": 1,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "jRu6CjPIcosjnErtq51Yzr02gqkMVWz56KPn7NUAWF5ZuYAOniapaP+ivzR3BlHuO7SvjSliGrq4qmN8mHHdbQ==",
+            "isTable": false,
+            "name": "PREMIUM OPEN BAR 1 HOUR",
+            "price": 990,
+            "priceWithFees": 990,
+            "sortOrder": 2,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "3v+htoznmcXGrh85wh5081ITSG9Tl6CAkH/aUJ7K8zNxGz6WShL38OsUfIC7gxLLCjbw5wgdwjsBW55brigrSg==",
+            "isTable": false,
+            "name": "Standard Open Bar 1 Hour",
+            "price": 770,
+            "priceWithFees": 770,
+            "sortOrder": 3,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "qySTfMKyKgTy5SJL/y0SaVwDmjBXndNwyWcos5XmgH+3/U4A572jiKOlH+pncdvP00j1AJrAyYxPJpmhoTyt+A==",
+            "isTable": true,
+            "name": "Bottles & Bites",
+            "price": 3300,
+            "priceWithFees": 3300,
+            "sortOrder": 4,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "ubgNQoouH5aM8ZyzZRq/cwIUzy0yKmgzJag6pAYD7IGOj/WhKHy+MS1n+x6BW//3BTGTFOCc47DNfnY9pfCNuw==",
+            "isTable": false,
+            "name": "Dinner & Dancing",
+            "price": 1925,
+            "priceWithFees": 1925,
+            "sortOrder": 5,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "DmVBntQJL2cGILOm3lYGp0jwMZnNatlc1wN3771BXdyOQqqt8GH/aF8Z1b+gcfjHElppeAJD+UGhRMrshLmrEw==",
+            "isTable": false,
+            "name": "Gold Section",
+            "price": 4400,
+            "priceWithFees": 4400,
+            "sortOrder": 6,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "OUM3xx6PJJB8OihrzIX8hBvqK1inJ9IO0BWniZC5UeK/M3AL2O+hfwzpr6ToCNyEgous9Gvf6C8mQNbuBT+apg==",
+            "isTable": false,
+            "name": "VIP Experience",
+            "price": 6600,
+            "priceWithFees": 6600,
+            "sortOrder": 7,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          }
+        ],
+        "time": null,
+        "url": "https://tf.link/kagrwxhb",
+        "venueName": "Gitano Jungle",
+        "venueSlug": "gitano-jungle",
+        "vipLink": null,
+        "vipPrice": null
+      },
+      "convexId": "j572krc1jpngjjef3v8kps3z358gpk9q",
+      "lastUpdated": "2026-10-31T19:15:39.089Z",
+      "locales": {
+        "en": {
+          "body": "<p style=\"text-align: center;\" data-pm-slice=\"1 1 []\">English</p>\n<h2 style=\"text-align: center;\"><strong>LAS GITANAS | DECEMBER 24TH</strong></h2>\n<h3 style=\"text-align: center;\"><strong>DINNER &amp; JUNGLE VIBES</strong></h3>\n<p style=\"text-align: center;\">Join us at <strong>GITANO JUNGLE TULUM</strong> on Thursday, December 24th, for <strong>LAS GITANAS</strong>, an evening to gather around the table, enjoy delicious food, and experience the magic of the jungle.</p>\n<p style=\"text-align: center;\">From <strong>7:30 PM until late</strong>, enjoy our menu with <strong>every dish for just $200 MXN each</strong>. Gather your friends, discover your favorite flavors, and savor the evening surrounded by the enchanting atmosphere of Tulum.</p>\n<p style=\"text-align: center;\">Stay late for cocktails, good company, and <strong>bottle service</strong> under the jungle sky.</p>\n<p style=\"text-align: center;\"><strong>DINNER. COCKTAILS. JUNGLE VIBES. BOTTLE SERVICE.</strong></p>\n<p style=\"text-align: center;\"><strong>LAS GITANAS</strong><br>Thursday, December 24th | 7:30 PM until late<br><strong>GITANO JUNGLE TULUM | BOCA PAILA KM 7.5</strong></p>\n<div style=\"text-align: center;\"><hr></div>\n<p style=\"text-align: center;\">Espa&ntilde;ol</p>\n<h2 style=\"text-align: center;\"><strong>LAS GITANAS | 24 DE DICIEMBRE</strong></h2>\n<h3 style=\"text-align: center;\"><strong>CENA Y AMBIENTE DE JUNGLE</strong></h3>\n<p style=\"text-align: center;\">Te esperamos en <strong>GITANO JUNGLE TULUM</strong> este jueves 24 de Diciembre para <strong>LAS GITANAS</strong>, una velada para reunirse alrededor de la mesa, disfrutar de buena comida y vivir la magia de la jungla.</p>\n<p style=\"text-align: center;\">Desde las <strong>7:30 PM hasta tarde</strong>, disfruta de nuestro men&uacute; con <strong>todos los platillos a solo $200 MXN cada uno</strong>. Re&uacute;nete con tus amigos, descubre tus sabores favoritos y disfruta de la noche rodeado del ambiente encantador de Tulum.</p>\n<p style=\"text-align: center;\">Qu&eacute;date hasta tarde para disfrutar de c&oacute;cteles, buena compa&ntilde;&iacute;a y <strong>servicio de botellas</strong> bajo el cielo de la jungla.</p>\n<p style=\"text-align: center;\"><strong>CENA. C&Oacute;CTELES. AMBIENTE DE JUNGLE. SERVICIO DE BOTELLAS.</strong></p>\n<p style=\"text-align: center;\"><strong>LAS GITANAS</strong><br>Jueves 24 de Diciembre | 7:30 PM hasta tarde<br><strong>GITANO JUNGLE TULUM | BOCA PAILA KM 7.5</strong></p>\n<p style=\"text-align: center;\"><img src=\"https://ttf-public.s3.amazonaws.com/uploads/W0r6AgBAoqUfMx78XpAnBMGrmJgcff1udbKWoNrwncfYYOXvJZX4mU6HHsSlO1wf.jpg\" alt=\"\" width=\"800\" height=\"1200\"></p>\n<p style=\"text-align: center;\"><img src=\"https://ttf-public.s3.amazonaws.com/uploads/npNvR3OHFrBJ4FnpV58mlASafVXpVyHhgK57m1Deew9gCViSuC6e9x984zwuEV9Q.jpg\" alt=\"\" width=\"800\" height=\"1152\"></p>\n<p style=\"text-align: center;\"><img src=\"https://ttf-public.s3.amazonaws.com/uploads/Mu8hmimfQ78fx8u7vjrz6wqWWbGxqtYthRV0ySqPB7JQaFuhJkQfr8XyNsBbdraf.jpg\" alt=\"\" width=\"800\" height=\"1120\"></p>\n<p><span style=\"font-size: 12pt;\"><strong data-start=\"185\" data-end=\"200\"><img style=\"font-size: 14px; display: block; margin-left: auto; margin-right: auto;\" src=\"https://www.ticketfairy.com/uploaded/external_optimized/e7f7671781e37bb1907c7955dc61d7c1@2x.webp\" alt=\"\" width=\"800\" height=\"1029\"></strong></span></p>\n<p>&nbsp;</p>",
+          "description": "English\n\nLAS GITANAS | DECEMBER 24TH\n\nDINNER & JUNGLE VIBES\n\nJoin us at GITANO JUNGLE TULUM on Thursday, December 24th, for LAS GITANAS, an evening to gather around the table, enjoy delicious food, and experience the magic of the jungle.\n\nFrom 7:30 PM until late, enjoy our menu with every dish for just $200 MXN each. Gather your friends, discover your favorite flavors, and savor the evening surrounded by the enchanting atmosphere of Tulum.\n\nStay late for cocktails, good company, and bottle service under the jungle sky.\n\nDINNER. COCKTAILS. JUNGLE VIBES. BOTTLE SERVICE.\n\nLAS GITANAS\nThursday, December 24th | 7:30 PM until late\nGITANO JUNGLE TULUM | BOCA PAILA KM 7.5\n---------------------------------------------------------------\n\nEspañol\n\nLAS GITANAS | 24 DE DICIEMBRE\n\nCENA Y AMBIENTE DE JUNGLE\n\nTe esperamos en GITANO JUNGLE TULUM este jueves 24 de Diciembre para LAS GITANAS, una velada para reunirse alrededor de la mesa, disfrutar de buena comida y vivir la magia de la jungla.\n\nDesde las 7:30 PM hasta tarde, disfruta de nuestro menú con todos los platillos a solo $200 MXN cada uno. Reúnete con tus amigos, descubre tus sabores favoritos y disfruta de la noche rodeado del ambiente encantador de Tulum.\n\nQuédate hasta tarde para disfrutar de cócteles, buena compañía y servicio de botellas bajo el cielo de la jungla.\n\nCENA. CÓCTELES. AMBIENTE DE JUNGLE. SERVICIO DE BOTELLAS.\n\nLAS GITANAS\nJueves 24 de Diciembre | 7:30 PM hasta tarde\nGITANO JUNGLE TULUM | BOCA PAILA KM 7.5",
+          "hubBlurb": "",
+          "name": "Las Gitanas",
+          "slug": "las-gitanas-24dec2026",
+          "tableInformation": ""
+        },
+        "es": {
+          "body": "",
+          "description": "",
+          "hubBlurb": "",
+          "name": "Las Gitanas",
+          "slug": "las-gitanas-24dec2026",
           "tableInformation": ""
         }
       }
