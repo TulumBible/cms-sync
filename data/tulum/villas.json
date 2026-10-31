@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-10-31T21:51:04.905Z",
+  "syncedAt": "2026-10-31T22:52:41.941Z",
   "citySlug": "tulum",
   "villas": [
     {
@@ -2019,6 +2019,161 @@
           "metaDescription": "Casa Arka, villa selvática de 8 dormitorios en Región 15, con 2 piscinas, jacuzzi para 16, chef privado y mayordomo. Tarifas en Tulum Bible.",
           "name": "Casa Arka",
           "slug": "casa-arka"
+        }
+      }
+    },
+    {
+      "base": {
+        "amenityIds": [
+          "jn796fkb2npe38c126gkzmhe85858yf5",
+          "jn78wp2bkm0sv6aber490necah858phw",
+          "jn70zn5gpwjkfxwnbkd4948rv5859d8d",
+          "jn78c0kww3ghntsrs0x74x0whx85j8ft",
+          "jn705g0j2n2cepzkmt4gd3jxr585kbvm",
+          "jn74701wrrgsk24wp2wzadpae185kzb5",
+          "jn7esswnv5546m1yxfdabkgea585jzrs",
+          "jn785xwma32ccwqp23911rkcds85k29g",
+          "jn7aqn3qjzw3j6qmesp89m823s85kby8",
+          "jn70e7zea8k1cbnab25vmzkf4185kc0b"
+        ],
+        "area": "aldea-zama",
+        "bathrooms": "10.5",
+        "bedrooms": "10",
+        "beds": "15",
+        "category": "villa",
+        "categoryIds": [],
+        "faqIds": [
+          "k57837sy6xjd6cjf1805pw2a2d8hbk5p",
+          "k57cqhvmkv2p62kbkr1vw7hjmd8hbr62",
+          "k579dr7wwva07tfp7rhbkgp7s98hbhz6",
+          "k5747ajy9bxa5jff72qpg6b9gd8hb2j5",
+          "k571vdghbn9vq4ey499xkq87gh8hbgch",
+          "k573ywe1yc80n184p9y20jvt158haw6d",
+          "k575h1qb6zbac9dytqwzb9de2n8hbntn",
+          "k574gtzv4t3exjwy07jhn2nqex8hbdqc",
+          "k576m3s4serte8bmwe08w9dnxn8hapm6",
+          "k578t9eet3cn6fnw4s4cxwzrnh8hb5pt",
+          "k57aqdpskxf7cwzkjakjrpr6g58hb9r0"
+        ],
+        "googleMapsCode": "5GWQ+GG Tulum, Quintana Roo, Mexico",
+        "images": [
+          {
+            "alt": "Aerial view of Casa Don Rey, a white villa with rooftop pool surrounded by dense jungle in Tulum.",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/3f5d3be7-4d27-447c-eb53-54b56ee6c500/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Casa Don Rey, a modern villa with rooftop pool and red lounge chairs surrounded by dense jungle in Tulum",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/b7084c5f-83b6-4fea-758b-30b4c4d69000/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Casa Don Rey’s modern open living area overlooks a small courtyard pool, with plants and a calm indoor-outdoor setting.",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/40219229-dc39-4409-4831-af6db0758900/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Casa Don Rey rooftop terrace with built-in seating and lanterns overlooking lush greenery at dusk",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/1b67801e-fac3-4c14-c60c-eddea1529100/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Casa Don Rey rooftop terrace with a pool, red loungers and fire pit at sunset, surrounded by trees",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/0f35f7cd-3807-47bf-26e1-ec65c6d5f600/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Casa Don Rey rooftop pool terrace with red loungers and fire pit overlooking the jungle at sunset",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/d4009557-4e87-45ce-8eeb-b0427b73ce00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Casa Don Rey’s draped lounge has a chandelier, candles, and long seating beneath a neon sign, creating a moody setting.",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/b492da79-ffc1-41d3-b04d-cb817ed71900/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Casa Don Rey’s red-draped lounge glows with candlelight beside a Buddha aquarium, creating a calm, intimate mood.",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/c0037691-0ea7-4932-3856-882412c32b00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Casa Don Rey lounge with a tufted ottoman, woven wall decor and glass doors opening to a lush courtyard pool",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/519f0c69-e34d-4a53-eb11-f16feb39d200/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Casa Don Rey courtyard with connected pools, a canopy daybed, palms and a stone wall in a serene setting",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/22212bfb-2788-44e4-a41c-fb15548c3800/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Casa Don Rey's bright indoor bar has four stools, arched glass shelves, and tropical plants.",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/4271aa31-734e-4503-7e08-90811eb21900/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Casa Don Rey’s bright modern kitchen has a long island, bar seating, glass doors and views of tropical greenery.",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/86c16339-f6fb-4ad4-20b0-428b65900700/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Casa Don Rey's bright modern kitchen with a long island, bar stools, pendant lights and glassware shelves",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/4e046a77-0205-4ba7-0fc8-fbeaf6966800/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Casa Don Rey dining room with a long wooden table, glass walls, modern kitchen, and bright tropical courtyard.",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/8ce0614c-4d63-4ba5-df82-3a863f52ff00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Casa Don Rey dining room with a long wooden table, glass walls, and tropical greenery outside",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/0ff9ec26-c091-4485-eafe-bf2957d29300/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Casa Don Rey courtyard with a pool, fire pit, outdoor seating, tropical plants and stone walls at dusk",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/5fe84c0f-386d-4f1c-ab73-f1faf3f5dd00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Casa Don Rey’s modern courtyard villa has a pool, tropical plants, lounge bed and warm evening lighting.",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/7a35e348-5d6d-4291-9b86-081b1bfc9e00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Casa Don Rey bedroom with pool views, floor-to-ceiling windows, curtains, mirror and a calm tropical setting",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/c8d1ea70-fa4d-47d8-dc9f-1a8e01977c00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Casa Don Rey bedroom with a king bed, pool-view windows and neutral curtains in a calm setting.",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/066130fb-a5b6-4671-3324-4ccf0e8e1200/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Casa Don Rey bedroom with a dark bed, glass walls, and a bright open interior.",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/af7a492c-b1dd-4218-61ac-a9f96e89f800/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Casa Don Rey’s modern courtyard, viewed through floor-to-ceiling windows, has white walls, glass railings, and tropical",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/37f40285-7e58-411d-08b9-9761f2c1a500/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Casa Don Rey bedroom with a gray bed, geometric wood wall, pendant lights and ensuite vanity.",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/bd56508a-c408-4eb4-4df5-b75e3b2ccc00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Casa Don Rey bathroom with double vanity, wood cabinets, mirror and dark walk-in shower",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/ac006e5c-1738-40da-3258-4531c779dd00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Casa Don Rey's candlelit red-draped bedroom features floor cushions and a glowing Buddha water feature, creating a moody",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/fe011646-7bd4-42c5-d69e-ff283245f700/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          }
+        ],
+        "pricePerNight": "$10,000 USD",
+        "reviewIds": [],
+        "sleeps": "26"
+      },
+      "convexId": "kh71cf0tzatzeyv3svcytbv13x8hb0zt",
+      "lastUpdated": "2026-10-31T22:52:04.273Z",
+      "locales": {
+        "en": {
+          "body": "<h2>Casa Don Rey Tulum: A Private Villa Built for Group Stays</h2>\n<p>This private mansion places resort-scale facilities inside one gated property in Aldea Zama. It has 10 bedrooms, 15 beds, 10.5 bathrooms plus another half-bath, and space for up to 26 overnight guests. Your group has exclusive use of the bedrooms, pools, rooftop terrace, heated jacuzzi, movie theater, wine cellar, nightclub and outdoor areas. Eligible facilities within the gated community are also available. Controlled access and 24-hour security cover the property throughout the stay.</p>\n<h3>Ten Bedrooms Arranged Around the Pool and Terraces</h3>\n<p>The first two bedrooms each have a king bed, an en-suite bathroom with a bathtub, a terrace and direct pool access. Bedrooms three to seven have king beds, en-suite bathrooms and balconies. Bedrooms eight and nine each provide a queen bed, an en-suite bathroom, a terrace and direct pool access. The tenth bedroom combines two king beds with two single bunk beds and has its own bathroom. Every bedroom has air conditioning, allowing a large group to stay together while retaining separate sleeping spaces.</p>\n<h3>Two Pools, a 16-Person Jacuzzi and Rooftop Firepit</h3>\n<p>The main pool is built around an underwater Buddha feature. A second pool sits on the rooftop beside a 360-degree terrace and firepit. The heated jacuzzi holds up to 16 people. Outdoor facilities also include two sunken living areas, a cabana lounge, sun loungers and a shower. An outdoor dining area, grill and full bar support meals and drinks beside the pool. A backup generator and fiber-optic Wi-Fi serve the property.</p>\n<h3>A Nightclub, Movie Theater and Climate-Controlled Wine Cellar</h3>\n<p>Evening facilities are contained within the villa. The indoor nightclub gives private groups a dedicated party space, while the movie theater has stadium-style seating. A climate-controlled wine cellar provides another separate room for gatherings. The rooftop firepit offers an open-air alternative with views in every direction. Nightclub use involving additional visitors can require an event fee and remains subject to house rules.</p>\n<h3>Private Dining with a Chef, Butler and Daily Housekeeping</h3>\n<p>Private chef service and the chef’s working time are included. Groceries, ingredients, breakfast, lunch, dinner and special menus are priced separately according to the menu selected by your group. Outside catering is not permitted, so all food served inside the villa must be coordinated with the property’s chef. Grocery delivery can be arranged before or during the stay. The outdoor dining area and grill provide options for serving group meals.</p>\n<p>A personal butler, in-house concierge and daily housekeeping are also included. A pool and maintenance assistant looks after the main facilities, while the house manager and on-site staff assist with requests at the property. Guests have direct support from the sales, operations and concierge teams before check-in and throughout the stay. This setup makes the villa a good fit for celebrations and organised group trips, but not for travellers seeking a small self-catered home or unrestricted outside catering.</p>\n<h3>Wedding Spaces for Ceremonies, Dinners and Parties</h3>\n<p>Weddings and private events can use the pools, 360-degree rooftop terrace, firepit and indoor nightclub as separate settings. The property can receive up to 150 day guests for a wedding or celebration, while overnight occupancy remains limited to 26. A professional wedding planner can help assign spaces for the ceremony, dinner and party. Events with guests beyond the overnight group may incur separate event fees. Nightclub use and event plans remain subject to the property’s rules.</p>\n<h3>Wellness, Yacht Days and Tulum Plans Through the Concierge</h3>\n<p>The concierge can arrange massages, private yoga and other wellness sessions at the villa. IV therapy and recovery treatments are also available as arranged services. Groups can request yacht charters, local tours, excursions and private drivers. Restaurant, nightlife, day club and beach club reservations can also be coordinated. These services are available on request and carry an additional charge.</p>\n<h3>A Gated Aldea Zama Base Six Minutes from the Beach</h3>\n<p>The villa is in a controlled-access community in Aldea Zama, about six minutes from the beach by vehicle. The neighbourhood has bike paths, a central park and a commercial area close to the property. Downtown and the Hotel Zone are accessible from this central residential base. Public transport within Tulum’s residential areas is limited, so a private vehicle or taxi is the practical way to move between the villa, town and beach.</p>\n<p>Parking is available. The concierge can arrange transfers from Tulum International Airport or Cancún International Airport, along with private drivers for daily outings. Guests can also organise restaurant visits, beach days and excursions through the same team. Pets are welcome at the property.</p>\n<h3>Check Rates, Dates and Event Plans for Your Group</h3>\n<p>Rates start from USD 2,900 per night and vary with the season and group size. The minimum stay is two nights. Standard check-in is at 4:00 p.m., and check-out is at 10:00 a.m. Meal costs, groceries, transport, wellness services and event fees are separate where applicable. Enquire through this page to check rates and dates, discuss the bedroom plan, or coordinate a wedding or private event with the Tulum Bible concierge.</p>",
+          "description": "An underwater Buddha pool anchors this 10-bedroom group stay, joined by a rooftop pool, 16-person heated jacuzzi, indoor nightclub, cinema and wine cellar.",
+          "metaDescription": "Casa Don Rey is a 10-bedroom private villa in Aldea Zama with an underwater Buddha pool, rooftop pool and indoor nightclub. Check rates on Tulum Bible.",
+          "name": "Casa Don Rey",
+          "slug": "casa-don-rey"
+        },
+        "es": {
+          "body": "<h2>Casa Don Rey Tulum: A Private Villa Built for Group Stays</h2>\n<p>This private mansion places resort-scale facilities inside one gated property in Aldea Zama. It has 10 bedrooms, 15 beds, 10.5 bathrooms plus another half-bath, and space for up to 26 overnight guests. Your group has exclusive use of the bedrooms, pools, rooftop terrace, heated jacuzzi, movie theater, wine cellar, nightclub and outdoor areas. Eligible facilities within the gated community are also available. Controlled access and 24-hour security cover the property throughout the stay.</p>\n<h3>Ten Bedrooms Arranged Around the Pool and Terraces</h3>\n<p>The first two bedrooms each have a king bed, an en-suite bathroom with a bathtub, a terrace and direct pool access. Bedrooms three to seven have king beds, en-suite bathrooms and balconies. Bedrooms eight and nine each provide a queen bed, an en-suite bathroom, a terrace and direct pool access. The tenth bedroom combines two king beds with two single bunk beds and has its own bathroom. Every bedroom has air conditioning, allowing a large group to stay together while retaining separate sleeping spaces.</p>\n<h3>Two Pools, a 16-Person Jacuzzi and Rooftop Firepit</h3>\n<p>The main pool is built around an underwater Buddha feature. A second pool sits on the rooftop beside a 360-degree terrace and firepit. The heated jacuzzi holds up to 16 people. Outdoor facilities also include two sunken living areas, a cabana lounge, sun loungers and a shower. An outdoor dining area, grill and full bar support meals and drinks beside the pool. A backup generator and fiber-optic Wi-Fi serve the property.</p>\n<h3>A Nightclub, Movie Theater and Climate-Controlled Wine Cellar</h3>\n<p>Evening facilities are contained within the villa. The indoor nightclub gives private groups a dedicated party space, while the movie theater has stadium-style seating. A climate-controlled wine cellar provides another separate room for gatherings. The rooftop firepit offers an open-air alternative with views in every direction. Nightclub use involving additional visitors can require an event fee and remains subject to house rules.</p>\n<h3>Private Dining with a Chef, Butler and Daily Housekeeping</h3>\n<p>Private chef service and the chef’s working time are included. Groceries, ingredients, breakfast, lunch, dinner and special menus are priced separately according to the menu selected by your group. Outside catering is not permitted, so all food served inside the villa must be coordinated with the property’s chef. Grocery delivery can be arranged before or during the stay. The outdoor dining area and grill provide options for serving group meals.</p>\n<p>A personal butler, in-house concierge and daily housekeeping are also included. A pool and maintenance assistant looks after the main facilities, while the house manager and on-site staff assist with requests at the property. Guests have direct support from the sales, operations and concierge teams before check-in and throughout the stay. This setup makes the villa a good fit for celebrations and organised group trips, but not for travellers seeking a small self-catered home or unrestricted outside catering.</p>\n<h3>Wedding Spaces for Ceremonies, Dinners and Parties</h3>\n<p>Weddings and private events can use the pools, 360-degree rooftop terrace, firepit and indoor nightclub as separate settings. The property can receive up to 150 day guests for a wedding or celebration, while overnight occupancy remains limited to 26. A professional wedding planner can help assign spaces for the ceremony, dinner and party. Events with guests beyond the overnight group may incur separate event fees. Nightclub use and event plans remain subject to the property’s rules.</p>\n<h3>Wellness, Yacht Days and Tulum Plans Through the Concierge</h3>\n<p>The concierge can arrange massages, private yoga and other wellness sessions at the villa. IV therapy and recovery treatments are also available as arranged services. Groups can request yacht charters, local tours, excursions and private drivers. Restaurant, nightlife, day club and beach club reservations can also be coordinated. These services are available on request and carry an additional charge.</p>\n<h3>A Gated Aldea Zama Base Six Minutes from the Beach</h3>\n<p>The villa is in a controlled-access community in Aldea Zama, about six minutes from the beach by vehicle. The neighbourhood has bike paths, a central park and a commercial area close to the property. Downtown and the Hotel Zone are accessible from this central residential base. Public transport within Tulum’s residential areas is limited, so a private vehicle or taxi is the practical way to move between the villa, town and beach.</p>\n<p>Parking is available. The concierge can arrange transfers from Tulum International Airport or Cancún International Airport, along with private drivers for daily outings. Guests can also organise restaurant visits, beach days and excursions through the same team. Pets are welcome at the property.</p>\n<h3>Check Rates, Dates and Event Plans for Your Group</h3>\n<p>Rates start from USD 2,900 per night and vary with the season and group size. The minimum stay is two nights. Standard check-in is at 4:00 p.m., and check-out is at 10:00 a.m. Meal costs, groceries, transport, wellness services and event fees are separate where applicable. Enquire through this page to check rates and dates, discuss the bedroom plan, or coordinate a wedding or private event with the Tulum Bible concierge.</p>",
+          "description": "An underwater Buddha pool anchors this 10-bedroom group stay, joined by a rooftop pool, 16-person heated jacuzzi, indoor nightclub, cinema and wine cellar.",
+          "metaDescription": "",
+          "name": "Casa Don Rey",
+          "slug": "casa-don-rey"
         }
       }
     }

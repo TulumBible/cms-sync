@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-10-31T21:51:04.974Z",
+  "syncedAt": "2026-10-31T22:52:41.990Z",
   "citySlug": "tulum",
   "faqs": [
     {
@@ -8513,6 +8513,248 @@
         "es": {
           "answer": "Sí, se admiten mascotas. Indica que viajas con tu mascota en la solicitud que realices a través de esta página para que podamos confirmar los detalles de la estancia.",
           "name": "¿Se admiten mascotas en la villa?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "how-many-guests-can-casa-don-rey-accommodate"
+      },
+      "convexId": "k57837sy6xjd6cjf1805pw2a2d8hbk5p",
+      "lastUpdated": "2026-10-31T22:52:12.266Z",
+      "locales": {
+        "en": {
+          "answer": "The villa sleeps up to 26 guests across 10 bedrooms.",
+          "name": "How many guests can Casa Don Rey accommodate?"
+        },
+        "es": {
+          "answer": "La villa tiene capacidad para hasta 26 huéspedes repartidos en 10 habitaciones.",
+          "name": "¿A cuántos huéspedes puede alojar Casa Don Rey?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "does-casa-don-rey-have-a-private-chef"
+      },
+      "convexId": "k57cqhvmkv2p62kbkr1vw7hjmd8hbr62",
+      "lastUpdated": "2026-10-31T22:52:12.266Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. Private chef service is included, while groceries, ingredients and selected menus are charged separately.",
+          "name": "Does Casa Don Rey have a private chef?"
+        },
+        "es": {
+          "answer": "Sí. El servicio de chef privado está incluido, mientras que la compra, los ingredientes y los menús seleccionados se cobran por separado.",
+          "name": "¿Tiene Casa Don Rey un chef privado?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "how-many-pools-does-casa-don-rey-have"
+      },
+      "convexId": "k579dr7wwva07tfp7rhbkgp7s98hbhz6",
+      "lastUpdated": "2026-10-31T22:52:12.266Z",
+      "locales": {
+        "en": {
+          "answer": "The villa has two pools, including a rooftop pool.",
+          "name": "How many pools does Casa Don Rey have?"
+        },
+        "es": {
+          "answer": "La villa cuenta con dos piscinas, incluida una piscina de tipo rooftop.",
+          "name": "¿Cuántas piscinas tiene Casa Don Rey?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "can-airport-transfers-be-arranged-for-casa-don-rey"
+      },
+      "convexId": "k5747ajy9bxa5jff72qpg6b9gd8hb2j5",
+      "lastUpdated": "2026-10-31T22:52:12.266Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. The concierge can arrange airport transfers and private transport for the group, usually at an additional cost.",
+          "name": "Can airport transfers be arranged for Casa Don Rey?"
+        },
+        "es": {
+          "answer": "Sí. El conserje puede organizar traslados al aeropuerto y transporte privado para el grupo, normalmente con un coste adicional.",
+          "name": "¿Se pueden organizar traslados desde el aeropuerto hasta Casa Don Rey?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "can-guests-book-massages-or-yoga-at-casa-don-rey"
+      },
+      "convexId": "k571vdghbn9vq4ey499xkq87gh8hbgch",
+      "lastUpdated": "2026-10-31T22:52:12.266Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. In-villa massages, private yoga, IV therapy and other wellness sessions can be arranged.",
+          "name": "Can guests book massages or yoga at Casa Don Rey?"
+        },
+        "es": {
+          "answer": "Sí. Se pueden organizar masajes en la villa, clases privadas de yoga, terapia intravenosa y otras sesiones de bienestar.",
+          "name": "¿Pueden los huéspedes reservar masajes o clases de yoga en Casa Don Rey?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "are-pets-allowed-at-casa-don-rey"
+      },
+      "convexId": "k573ywe1yc80n184p9y20jvt158haw6d",
+      "lastUpdated": "2026-10-31T22:52:12.266Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. Pets are welcome and should be declared when enquiring through this page.",
+          "name": "Are pets allowed at Casa Don Rey?"
+        },
+        "es": {
+          "answer": "Sí. Se admiten mascotas, pero hay que indicarlo al realizar la consulta a través de esta página.",
+          "name": "¿Se admiten mascotas en Casa Don Rey?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "what-are-the-check-in-and-check-out-times-3"
+      },
+      "convexId": "k575h1qb6zbac9dytqwzb9de2n8hbntn",
+      "lastUpdated": "2026-10-31T22:52:12.266Z",
+      "locales": {
+        "en": {
+          "answer": "Standard check-in is at 4:00 p.m., and check-out is at 10:00 a.m.",
+          "name": "What are the check-in and check-out times?"
+        },
+        "es": {
+          "answer": "La hora habitual de entrada es a las 16:00 h, y la de salida, a las 10:00 h.",
+          "name": "¿A qué hora hay que hacer el check-in y el check-out?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "how-far-is-the-villa-from-the-beach"
+      },
+      "convexId": "k574gtzv4t3exjwy07jhn2nqex8hbdqc",
+      "lastUpdated": "2026-10-31T22:52:12.266Z",
+      "locales": {
+        "en": {
+          "answer": "The villa is in Aldea Zama, about six minutes from the beach by vehicle.",
+          "name": "How far is the villa from the beach?"
+        },
+        "es": {
+          "answer": "La villa se encuentra en Aldea Zama, a unos seis minutos en coche de la playa.",
+          "name": "¿A qué distancia está la villa de la playa?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "are-breakfast-and-other-meals-included"
+      },
+      "convexId": "k576m3s4serte8bmwe08w9dnxn8hapm6",
+      "lastUpdated": "2026-10-31T22:52:12.266Z",
+      "locales": {
+        "en": {
+          "answer": "Chef service and the chef’s time are included, but groceries, ingredients, breakfast, lunch, dinner and special menus are charged separately. Outside catering is not permitted.",
+          "name": "Are breakfast and other meals included?"
+        },
+        "es": {
+          "answer": "El servicio del chef y su tiempo están incluidos, pero los alimentos, los ingredientes, el desayuno, la comida, la cena y los menús especiales se cobran por separado. No se permite el servicio de catering externo.",
+          "name": "¿Están incluidos el desayuno y el resto de comidas?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "is-parking-available-at-the-villa-3"
+      },
+      "convexId": "k578t9eet3cn6fnw4s4cxwzrnh8hb5pt",
+      "lastUpdated": "2026-10-31T22:52:12.266Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. Parking is available for guests who choose to rent a vehicle.",
+          "name": "Is parking available at the villa?"
+        },
+        "es": {
+          "answer": "Sí. Hay plazas de aparcamiento disponibles para los huéspedes que decidan alquilar un vehículo.",
+          "name": "¿Hay plazas de aparcamiento disponibles en la villa?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "villa"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "does-the-villa-have-a-hot-tub"
+      },
+      "convexId": "k57aqdpskxf7cwzkjakjrpr6g58hb9r0",
+      "lastUpdated": "2026-10-31T22:52:12.266Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. The property has a heated jacuzzi with space for up to 16 guests.",
+          "name": "Does the villa have a hot tub?"
+        },
+        "es": {
+          "answer": "Sí. La vivienda cuenta con un jacuzzi climatizado con capacidad para hasta 16 personas.",
+          "name": "¿Tiene la villa un jacuzzi?"
         }
       }
     }
