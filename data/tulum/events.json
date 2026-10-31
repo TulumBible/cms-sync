@@ -1,7 +1,104 @@
 {
-  "syncedAt": "2026-10-31T16:00:41.046Z",
+  "syncedAt": "2026-10-31T17:39:27.651Z",
   "citySlug": "tulum",
   "events": [
+    {
+      "base": {
+        "afterEnd": "archive",
+        "buyLink": "https://tf.link/zv4hpk4p",
+        "categoryIds": [],
+        "cta": "Tickets",
+        "displayPrice": "MXN $140",
+        "endDate": "2026-11-02T23:59",
+        "eventType": "Social",
+        "faqIds": [],
+        "flyerImage": {
+          "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/e6a2467e-eccd-44a9-6b1a-84c0a884de00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+        },
+        "gaLink": null,
+        "gaPrice": null,
+        "hubImage": null,
+        "isFeatured": false,
+        "isPublished": true,
+        "lineup": [
+          "KEVIN CANORA",
+          "RENATTA",
+          "VITE"
+        ],
+        "noPrice": false,
+        "promotion": "normal",
+        "publishedAt": null,
+        "qrCode": "M0 0.5h7m1 0h3m1 0h1m1 0h5m4 0h1m1 0h1m1 0h2m1 0h7M0 1.5h1m5 0h1m1 0h3m2 0h2m4 0h2m1 0h1m3 0h1m1 0h1m1 0h1m5 0h1M0 2.5h1m1 0h3m1 0h1m1 0h1m1 0h2m2 0h1m1 0h3m1 0h5m2 0h1m2 0h1m1 0h3m1 0h1M0 3.5h1m1 0h3m1 0h1m1 0h2m1 0h1m1 0h6m1 0h1m2 0h1m1 0h3m2 0h1m1 0h3m1 0h1M0 4.5h1m1 0h3m1 0h1m6 0h5m3 0h1m1 0h1m1 0h4m1 0h1m1 0h3m1 0h1M0 5.5h1m5 0h1m1 0h1m2 0h2m1 0h1m1 0h2m1 0h1m6 0h1m1 0h1m1 0h1m5 0h1M0 6.5h7m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h7M9 7.5h1m2 0h1m4 0h2m1 0h2m1 0h2m1 0h1M0 8.5h2m2 0h3m4 0h1m3 0h3m1 0h1m1 0h4m2 0h1m3 0h1m1 0h4M2 9.5h1m1 0h2m1 0h1m1 0h2m1 0h1m1 0h1m1 0h1m1 0h1m3 0h2m1 0h5m1 0h2m1 0h2M3 10.5h4m2 0h4m1 0h2m5 0h1m1 0h2m1 0h2m4 0h2m1 0h1M0 11.5h1m2 0h2m2 0h1m1 0h1m1 0h1m3 0h1m1 0h5m2 0h1m1 0h1m1 0h2m1 0h1m1 0h2m1 0h1M0 12.5h3m3 0h1m2 0h2m1 0h1m2 0h1m1 0h1m1 0h5m2 0h1m1 0h3m3 0h1m1 0h1M0 13.5h1m3 0h2m1 0h2m4 0h4m1 0h1m1 0h2m5 0h2m3 0h4M0 14.5h1m1 0h3m1 0h1m2 0h2m3 0h2m1 0h1m2 0h2m1 0h2m1 0h2m1 0h2m1 0h1M1 15.5h1m1 0h1m1 0h1m2 0h3m1 0h1m1 0h2m1 0h2m1 0h2m1 0h2m1 0h1m2 0h1m2 0h4M0 16.5h1m2 0h6m2 0h1m1 0h2m1 0h2m1 0h3m1 0h2m2 0h4m3 0h1m1 0h1M1 17.5h3m4 0h1m3 0h1m1 0h5m2 0h3m1 0h1m2 0h2m2 0h4M0 18.5h2m1 0h1m1 0h2m4 0h8m1 0h2m1 0h1m3 0h1m1 0h1m1 0h2M1 19.5h1m2 0h2m4 0h2m1 0h1m1 0h1m1 0h5m1 0h2m1 0h2m1 0h1m1 0h2m1 0h2M1 20.5h1m2 0h3m1 0h3m1 0h2m1 0h1m1 0h1m1 0h4m4 0h1m1 0h3m1 0h4M0 21.5h1m3 0h2m1 0h1m1 0h1m3 0h4m6 0h1m1 0h1m1 0h2m2 0h3m1 0h1M0 22.5h4m2 0h2m7 0h1m1 0h1m2 0h2m1 0h3m1 0h8M1 23.5h4m2 0h2m3 0h1m1 0h2m1 0h1m3 0h1m1 0h2m2 0h1m2 0h1m1 0h1m1 0h2M3 24.5h2m1 0h2m1 0h3m1 0h2m1 0h2m1 0h4m2 0h1m2 0h1m1 0h2m2 0h3M0 25.5h1m3 0h1m3 0h3m1 0h1m2 0h2m1 0h1m3 0h2m3 0h3m2 0h2m1 0h1M2 26.5h2m2 0h1m1 0h1m2 0h7m5 0h1m1 0h3m4 0h2M2 27.5h4m1 0h1m1 0h3m1 0h1m1 0h1m1 0h2m2 0h2m1 0h1m1 0h2m1 0h1m1 0h5M0 28.5h4m1 0h2m1 0h1m1 0h1m1 0h2m2 0h2m1 0h1m1 0h2m1 0h1m3 0h5m1 0h1M8 29.5h1m1 0h1m2 0h6m4 0h6m3 0h3M0 30.5h7m3 0h1m4 0h1m1 0h1m2 0h2m1 0h3m2 0h1m1 0h1m1 0h2M0 31.5h1m5 0h1m1 0h1m1 0h1m1 0h1m1 0h2m1 0h5m1 0h2m1 0h1m1 0h1m3 0h1m1 0h3M0 32.5h1m1 0h3m1 0h1m1 0h4m1 0h5m3 0h2m1 0h1m3 0h5m1 0h1M0 33.5h1m1 0h3m1 0h1m2 0h1m2 0h1m2 0h1m2 0h2m1 0h1m1 0h1m2 0h6m1 0h4M0 34.5h1m1 0h3m1 0h1m2 0h8m1 0h1m4 0h1m1 0h2m3 0h2m1 0h2M0 35.5h1m5 0h1m1 0h1m2 0h1m1 0h1m3 0h2m1 0h5m1 0h1m2 0h1m1 0h1m2 0h2M0 36.5h7m1 0h1m1 0h1m1 0h2m1 0h1m1 0h1m1 0h1m1 0h2m1 0h1m5 0h2m2 0h3<!--vb:37-->",
+        "startDate": "2026-11-02",
+        "status": "Live",
+        "tableLayoutImage": null,
+        "tbeId": "TBE_8B2APA",
+        "ticketPrice": null,
+        "ticketTiers": [
+          {
+            "currency": "MXN",
+            "id": "CsG27QUCAUT68bWM9vT4dqsDNWR6dG0LaM986ov1MHDL+mLh/w8SWRaT69iCUgyD4VL9wcpLlslUKM0lUXJzjg==",
+            "isTable": true,
+            "maxGuests": 6,
+            "minGuests": 1,
+            "name": "Bottle Service",
+            "price": 5500,
+            "priceWithFees": 5500,
+            "sortOrder": 1,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "4n2wubn1cuRp/4iChs3l4xAkbOkPgC4GUxVuQEpHyTjd2EGqREFPu7uUDHt8i71kq920SX1bzzkWJB2UO0Sb+g==",
+            "isTable": false,
+            "name": "First Release",
+            "price": 140,
+            "priceWithFees": 140,
+            "sortOrder": 2,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "Hr2hyAbSAZe7idKQhuCKttY4gjNP7Lg0mGPM/itob84VQV/3kBkSgN7yXyAPaDBPgYpdqsaMHQFNLzl2lzhKBA==",
+            "isTable": false,
+            "name": "Second Release",
+            "price": 240,
+            "priceWithFees": 240,
+            "sortOrder": 3,
+            "status": "upcoming",
+            "symbol": "Mex$"
+          }
+        ],
+        "time": "20:00 - Late",
+        "url": "https://tf.link/zv4hpk4p",
+        "venueName": "UMi Hotel Tulum - Restaurant Beach club",
+        "venueSlug": null,
+        "vipLink": null,
+        "vipPrice": null
+      },
+      "convexId": "j571h7g9q33hzjv1f5k5g4pn0x8hbwrm",
+      "lastUpdated": "2026-10-31T17:38:56.665Z",
+      "locales": {
+        "en": {
+          "body": "<h2>A Catrina-Led Día de Muertos Party at UMi</h2>\n<p>UMi presents Fiesta Día de Muertos at its restaurant beach club in the hotel’s beach zone. The night turns the celebration into a Catrina dress-up party with makeup, DJ sets and dancing. You take part by following the Catrina dress code and joining the dance floor. Music runs from 8pm until late. It is a clear format: dress for the theme, shape your look and stay for the full night of DJ sets.</p>\n<h3>Choose Your Catrina Look on Site</h3>\n<p>The dress code for the party is Catrina. You can arrive with your look ready or have your Catrina makeup done by the artist on site. This makes the visual theme part of what guests do, rather than background decoration. The makeup option also gives you a direct way to join the dress code at the venue. Once ready, you move into the music and dance-floor part of the night.</p>\n<h3>Kevin Canora Leads the DJ Programme</h3>\n<p>Kevin Canora headlines the music programme, with Renatta and Vite also playing. All three are billed for DJ sets. They provide the music through the night, with the dance floor at the centre of the party. The bar adds a 2-for-1 offer on mezcalitas and margaritas. Together, the DJs, Catrina looks and drinks offer shape the full Día de Muertos experience at UMi.</p>\n<h3>Arrive Before 11pm for the Guestlist Window</h3>\n<p>The party takes place on Monday, 2 November 2026 at UMi Hotel Tulum – Restaurant Beach Club. It starts at 8pm and continues until late. Tickets start at MXN 140. The guestlist applies before 11pm, while entry after 11pm costs MXN 200. Book your ticket now and plan your arrival around the 11pm cutoff.</p>",
+          "description": "Día de Muertos is a Catrina dress-up party with on-site makeup, DJ sets all night from Kevin Canora, Renatta and Vite, and 2-for-1 mezcalitas and margaritas.",
+          "hubBlurb": "",
+          "name": "DÍA DE MUERTOS",
+          "slug": "umi-presents-fiesta-dia-de-muertos-2nov2026",
+          "tableInformation": ""
+        },
+        "es": {
+          "body": "",
+          "description": "",
+          "hubBlurb": "",
+          "name": "DÍA DE MUERTOS",
+          "slug": "umi-presents-fiesta-dia-de-muertos-2nov2026",
+          "tableInformation": ""
+        }
+      }
+    },
     {
       "base": {
         "afterEnd": "keep",
