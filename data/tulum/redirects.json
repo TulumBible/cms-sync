@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-10-30T20:55:14.629Z",
+  "syncedAt": "2026-11-04T03:39:16.593Z",
   "citySlug": "tulum",
   "redirects": [
     {
@@ -9435,6 +9435,32 @@
       },
       "convexId": "kx7b84f3f70hx17rr5m7h54t8h8h9rey",
       "lastUpdated": "2026-10-30T20:55:01.073Z",
+      "locales": {
+        "en": {},
+        "es": {}
+      }
+    },
+    {
+      "base": {
+        "fromPath": "/event/tu-brunch-opening",
+        "statusCode": 301,
+        "toPath": "/event/tu-brunch-opening-eric-luttrell"
+      },
+      "convexId": "kx7795v8he210pv5mwwmz3zfmx8hkz87",
+      "lastUpdated": "2026-11-04T03:39:02.266Z",
+      "locales": {
+        "en": {},
+        "es": {}
+      }
+    },
+    {
+      "base": {
+        "fromPath": "/es-mx/event/tu-brunch-opening",
+        "statusCode": 301,
+        "toPath": "/es-mx/event/tu-brunch-opening-eric-luttrell"
+      },
+      "convexId": "kx77ftefa4e6tnc2fanekm7rd18hjx4m",
+      "lastUpdated": "2026-11-04T03:39:02.266Z",
       "locales": {
         "en": {},
         "es": {}
