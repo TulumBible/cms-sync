@@ -1,7 +1,162 @@
 {
-  "syncedAt": "2026-11-06T00:00:48.569Z",
+  "syncedAt": "2026-11-06T02:37:14.757Z",
   "citySlug": "tulum",
   "events": [
+    {
+      "base": {
+        "afterEnd": "archive",
+        "buyLink": "https://wa.me/529841457101?text=Hello!%20I'm%20interested%20in%20tickets%20or%20a%20table%20for%20Marco%20Carola%20at%20Bagatelle%20Tulum%20on%20January%208",
+        "categoryIds": [],
+        "cta": "Tickets",
+        "displayPrice": "MXN $1,200",
+        "endDate": "2027-01-09T01:00",
+        "eventType": "BeachClub",
+        "faqIds": [],
+        "flyerImage": {
+          "alt": "Black and white portrait of Marco Carola for his January 8, 2027 night at Bagatelle Tulum.",
+          "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/dc775563-da66-40f6-56ce-bfb4c00d9900/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+        },
+        "gaLink": null,
+        "gaPrice": null,
+        "hubImage": {
+          "alt": "Bagatelle Tulum banner: Marco Carola with Renê and Maubo, January 8th, doors open 7:00 PM.",
+          "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/039477a6-ea9e-449d-d70f-f542a86da800/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+        },
+        "isFeatured": false,
+        "isPublished": true,
+        "lineup": [
+          "Marco Carola",
+          "Renê",
+          "Maubo"
+        ],
+        "noPrice": false,
+        "promotion": "normal",
+        "publishedAt": null,
+        "qrCode": "M0 0.5h7m2 0h1m2 0h2m3 0h4m1 0h1m2 0h1m3 0h1m1 0h2m1 0h2m4 0h1m1 0h7M0 1.5h1m5 0h1m1 0h6m1 0h1m4 0h1m4 0h1m2 0h3m1 0h1m2 0h6m1 0h1m5 0h1M0 2.5h1m1 0h3m1 0h1m4 0h1m1 0h5m2 0h1m1 0h3m1 0h2m3 0h1m1 0h4m2 0h2m1 0h1m1 0h3m1 0h1M0 3.5h1m1 0h3m1 0h1m1 0h2m1 0h4m2 0h3m1 0h1m1 0h1m2 0h4m1 0h1m2 0h1m1 0h1m2 0h1m2 0h1m1 0h3m1 0h1M0 4.5h1m1 0h3m1 0h1m3 0h1m2 0h1m3 0h3m1 0h6m1 0h1m3 0h1m1 0h2m1 0h1m4 0h1m1 0h3m1 0h1M0 5.5h1m5 0h1m1 0h7m1 0h1m4 0h2m3 0h5m1 0h2m4 0h1m3 0h1m5 0h1M0 6.5h7m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h7M9 7.5h1m5 0h4m1 0h3m3 0h1m4 0h1m2 0h3m1 0h1M0 8.5h5m1 0h3m5 0h1m7 0h5m2 0h5m1 0h4m2 0h1m1 0h1m1 0h1m1 0h1M1 9.5h3m1 0h1m2 0h1m4 0h1m2 0h4m1 0h3m1 0h4m1 0h1m3 0h2m2 0h1m3 0h4m1 0h2M0 10.5h1m5 0h2m2 0h3m1 0h2m1 0h1m1 0h1m2 0h4m1 0h4m1 0h1m4 0h1m1 0h1m1 0h2m1 0h2m1 0h2M0 11.5h2m2 0h1m3 0h2m1 0h2m2 0h1m2 0h1m1 0h1m1 0h1m1 0h1m1 0h1m2 0h1m1 0h1m1 0h4m1 0h5m1 0h1m3 0h1M0 12.5h1m2 0h1m1 0h3m1 0h2m3 0h1m3 0h2m3 0h1m1 0h2m2 0h4m3 0h1m1 0h1m2 0h3m2 0h1M1 13.5h5m5 0h1m1 0h1m3 0h6m1 0h2m1 0h2m1 0h1m1 0h1m2 0h1m3 0h2m1 0h2m2 0h2M0 14.5h3m2 0h4m5 0h1m6 0h1m1 0h1m3 0h4m1 0h2m9 0h2m2 0h2M0 15.5h2m2 0h1m6 0h1m1 0h2m1 0h2m2 0h1m2 0h4m4 0h1m1 0h7m1 0h1m1 0h1m1 0h1m2 0h1M0 16.5h1m1 0h1m1 0h3m2 0h1m3 0h2m2 0h1m1 0h1m4 0h2m1 0h1m1 0h4m1 0h1m1 0h2m3 0h3m3 0h2M1 17.5h2m2 0h1m6 0h2m2 0h3m3 0h3m4 0h4m1 0h4m1 0h5m1 0h1m1 0h2M1 18.5h4m1 0h2m4 0h1m1 0h3m2 0h3m1 0h1m1 0h1m1 0h2m1 0h2m3 0h1m1 0h1m1 0h6m1 0h2M0 19.5h4m3 0h2m1 0h3m1 0h3m1 0h1m1 0h7m7 0h6m1 0h1m2 0h2m1 0h2M1 20.5h2m1 0h4m2 0h1m1 0h2m3 0h3m1 0h1m2 0h3m1 0h4m1 0h1m1 0h4m2 0h1m1 0h1m2 0h1M0 21.5h3m1 0h2m5 0h1m1 0h1m1 0h1m1 0h9m1 0h14m1 0h1m1 0h4M0 22.5h2m2 0h5m1 0h1m3 0h1m1 0h2m1 0h12m1 0h2m3 0h1m1 0h6m2 0h2M1 23.5h4m3 0h2m3 0h4m1 0h2m2 0h1m3 0h1m4 0h1m2 0h3m1 0h3m3 0h1m3 0h1M0 24.5h1m2 0h2m1 0h1m1 0h2m2 0h1m2 0h1m3 0h1m2 0h1m1 0h1m1 0h1m2 0h2m1 0h1m2 0h2m3 0h1m1 0h1m1 0h1m2 0h2M3 25.5h2m3 0h4m1 0h1m2 0h1m1 0h1m1 0h1m1 0h1m3 0h1m8 0h3m2 0h1m3 0h5M1 26.5h9m2 0h1m1 0h1m1 0h1m4 0h12m2 0h1m1 0h1m2 0h9M0 27.5h2m1 0h1m1 0h1m1 0h3m1 0h1m3 0h2m3 0h1m1 0h2m1 0h1m1 0h1m1 0h1m1 0h1m2 0h12m2 0h1M4 28.5h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m2 0h3m3 0h2m1 0h2m2 0h4m2 0h2m5 0h1m1 0h2M0 29.5h1m3 0h2m1 0h1m1 0h1m3 0h1m3 0h3m6 0h1m4 0h1m9 0h1m3 0h3M0 30.5h2m2 0h1m1 0h1m2 0h2m1 0h1m1 0h1m4 0h5m1 0h1m1 0h7m2 0h2m2 0h4m2 0h3M0 31.5h2m2 0h1m2 0h1m2 0h1m1 0h1m3 0h1m3 0h1m1 0h1m2 0h1m3 0h1m1 0h1m2 0h7m1 0h2m1 0h1m2 0h1M0 32.5h1m3 0h7m2 0h1m3 0h1m1 0h1m1 0h1m1 0h2m1 0h1m2 0h3m1 0h1m5 0h1m2 0h1m1 0h1M0 33.5h2m2 0h1m2 0h1m1 0h2m5 0h4m1 0h5m2 0h3m2 0h4m1 0h1m3 0h1m3 0h3M1 34.5h1m1 0h4m2 0h1m1 0h2m1 0h2m5 0h5m1 0h6m4 0h1m1 0h1m2 0h2m2 0h1M0 35.5h1m1 0h1m1 0h2m1 0h1m2 0h9m1 0h1m4 0h1m7 0h4m1 0h2m1 0h1m3 0h1m2 0h1M1 36.5h1m2 0h1m1 0h1m3 0h1m1 0h1m4 0h1m1 0h1m1 0h1m1 0h2m1 0h1m2 0h2m1 0h6m2 0h1m2 0h1m1 0h2m1 0h1M0 37.5h1m1 0h3m2 0h1m1 0h3m1 0h1m1 0h1m1 0h2m2 0h1m1 0h2m4 0h2m3 0h2m1 0h1m5 0h4M1 38.5h1m3 0h3m1 0h1m4 0h1m3 0h2m1 0h12m2 0h1m1 0h1m2 0h2m2 0h1m1 0h3M1 39.5h3m3 0h1m1 0h3m2 0h1m1 0h2m1 0h2m4 0h1m3 0h1m1 0h1m1 0h2m1 0h7m1 0h2M0 40.5h3m3 0h3m1 0h1m1 0h3m2 0h3m1 0h6m1 0h4m1 0h1m2 0h1m1 0h1m1 0h5m2 0h1M8 41.5h1m1 0h1m1 0h2m1 0h4m2 0h2m3 0h1m1 0h1m1 0h3m1 0h1m2 0h1m2 0h1m3 0h1m1 0h3M0 42.5h7m1 0h1m1 0h3m1 0h2m3 0h1m2 0h1m1 0h1m1 0h1m2 0h4m2 0h1m3 0h2m1 0h1m1 0h1m1 0h2M0 43.5h1m5 0h1m4 0h1m1 0h1m2 0h2m1 0h2m1 0h1m3 0h1m2 0h1m3 0h1m2 0h5m3 0h1M0 44.5h1m1 0h3m1 0h1m1 0h3m1 0h2m5 0h1m1 0h7m2 0h2m1 0h2m1 0h1m1 0h7m1 0h1M0 45.5h1m1 0h3m1 0h1m1 0h1m1 0h1m1 0h1m5 0h2m3 0h4m2 0h1m1 0h1m3 0h2m5 0h1m1 0h3m1 0h1M0 46.5h1m1 0h3m1 0h1m1 0h1m3 0h1m1 0h1m1 0h1m2 0h1m1 0h3m1 0h1m2 0h3m1 0h2m1 0h1m1 0h1m2 0h1m2 0h1m4 0h1M0 47.5h1m5 0h1m1 0h2m2 0h1m3 0h1m1 0h5m3 0h1m6 0h2m1 0h1m1 0h1m1 0h1m1 0h3m3 0h1M0 48.5h7m1 0h1m2 0h3m3 0h3m2 0h1m2 0h1m3 0h1m1 0h1m3 0h1m2 0h6m1 0h1m1 0h2<!--vb:49-->",
+        "startDate": "2027-01-08",
+        "status": "Live",
+        "tableLayoutImage": {
+          "alt": "Bagatelle Tulum table map: Backstage, Side Deck, Beach Front, Beach Back, Cabanas and bars.",
+          "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/45b0589a-3dd7-488f-9b71-0206784cae00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+        },
+        "tbeId": "TBE_KQJPP8",
+        "ticketPrice": null,
+        "ticketTiers": [
+          {
+            "currency": "MXN",
+            "id": "manual-carola27-ga-early",
+            "isTable": false,
+            "name": "General · Early Bird",
+            "price": 1200,
+            "sortOrder": 0,
+            "status": "on_sale"
+          },
+          {
+            "currency": "MXN",
+            "id": "manual-carola27-ga-t1",
+            "isTable": false,
+            "name": "General · Tier 1",
+            "price": 1700,
+            "sortOrder": 1,
+            "status": "on_sale"
+          },
+          {
+            "currency": "MXN",
+            "id": "manual-carola27-vip-t1",
+            "isTable": false,
+            "name": "VIP · Tier 1",
+            "price": 2200,
+            "sortOrder": 2,
+            "status": "on_sale"
+          },
+          {
+            "currency": "MXN",
+            "id": "manual-carola27-backstage-t1",
+            "isTable": false,
+            "name": "Backstage · Tier 1",
+            "price": 4200,
+            "sortOrder": 3,
+            "status": "on_sale"
+          },
+          {
+            "currency": "MXN",
+            "id": "manual-carola27-beach-back",
+            "isTable": true,
+            "maxGuests": 8,
+            "name": "Beach (Back) + 15% service",
+            "price": 40000,
+            "sortOrder": 4,
+            "status": "on_sale"
+          },
+          {
+            "currency": "MXN",
+            "id": "manual-carola27-beach-front",
+            "isTable": true,
+            "maxGuests": 8,
+            "name": "Beach (Front) + 15% service",
+            "price": 60000,
+            "sortOrder": 5,
+            "status": "on_sale"
+          },
+          {
+            "currency": "MXN",
+            "id": "manual-carola27-side-deck",
+            "isTable": true,
+            "maxGuests": 8,
+            "name": "Side Deck (Stage) + 15% service",
+            "price": 80000,
+            "sortOrder": 6,
+            "status": "on_sale"
+          },
+          {
+            "currency": "MXN",
+            "id": "manual-carola27-cabana",
+            "isTable": true,
+            "maxGuests": 10,
+            "name": "Beach Cabana + 15% service",
+            "price": 120000,
+            "sortOrder": 7,
+            "status": "on_sale"
+          },
+          {
+            "currency": "MXN",
+            "id": "manual-carola27-backstage-table",
+            "isTable": true,
+            "maxGuests": 12,
+            "name": "Backstage Table + 15% service",
+            "price": 200000,
+            "sortOrder": 8,
+            "status": "on_sale"
+          }
+        ],
+        "time": "19:00 - Late",
+        "url": null,
+        "venueName": "Bagatelle Tulum",
+        "venueSlug": "bagatelle-tulum",
+        "vipLink": null,
+        "vipPrice": null
+      },
+      "convexId": "j5765p8c101qa27b55phh9kg8s8hp3v5",
+      "lastUpdated": "2026-11-06T02:36:51.001Z",
+      "locales": {
+        "en": {
+          "body": "<h3>Friday, January 8, 2027 · Bagatelle Tulum · Doors 7:00 PM</h3>\n<p><strong>Tickets are on sale from MXN $1,200.</strong> Book tickets or a table through Tulum Bible with the button on this page and we send you a payment link.</p>\n<p><strong>Marco Carola, the Neapolitan DJ behind Music On, plays Bagatelle Tulum on January 8.</strong> Renê and Maubo complete the lineup.</p>\n<h2>Lineup</h2>\n<p><strong>Marco Carola</strong><br>Renê<br>Maubo</p>\n<h2>Who is Marco Carola?</h2>\n<p>Marco Carola was born in Naples in 1975 and started DJing at 15. He is known for long, hypnotic sets of techno and tech house, and for mixing that keeps a dance floor locked in for hours.</p>\n<p>He launched Music On in Miami in 2011 and took it to Amnesia Ibiza, where it ran as his own residency from 2012 to 2018. Before that he held a residency at Amnesia with Cocoon. He has also founded several labels, including Design, Zenit, Question, One Thousands, Do.Mi.No. and Music On.</p>\n<h2>A night at Bagatelle Tulum</h2>\n<p>Bagatelle Tulum sits at Km 8 on the Tulum–Boca Paila road in the Hotel Zone, right on the beach. For this night the space opens up into a dance floor on the sand, with tables on the beach, a Side Deck by the stage, Beach Cabanas and a Backstage area.</p>\n<h2>Tickets</h2>\n<ul><li>General · Early Bird: MXN $1,200</li><li>General · Tier 1: MXN $1,700</li><li>VIP · Tier 1: MXN $2,200</li><li>Backstage · Tier 1: MXN $4,200</li></ul>\n<p>General admission gets you into the venue and the event at any time. VIP adds its own entrance, bar and restrooms. Tickets don't include a table, drinks, tips or transport.</p>\n<h2>Tables</h2>\n<ul><li>Beach (back), 8 guests: MXN $40,000 + 15% service</li><li>Beach (front), 8 guests: MXN $60,000 + 15% service</li><li>Side Deck (Stage), 8 guests: MXN $80,000 + 15% service</li><li>Beach Cabana, 10 guests: MXN $120,000 + 15% service</li><li>Backstage, 12 guests: MXN $200,000 + 15% service</li></ul>\n<p>Each table includes entry for its guests, and the table price goes towards food and drink. Ask Tulum Bible about adding guests.</p>\n<h2>Good to know</h2>\n<ul><li>Date: Friday, January 8, 2027</li><li>Doors: 7:00 PM</li><li>Venue: Bagatelle Tulum, Carr. Tulum–Boca Paila Km 8, Hotel Zone</li><li>Bring the physical card you paid with and a photo ID: they're checked on arrival.</li><li>Plan your ride to the Hotel Zone ahead, or ask Tulum Bible to arrange a pickup.</li></ul>",
+          "description": "Marco Carola, founder of Music On, plays Bagatelle Tulum on January 8, 2027, with Renê and Maubo. Doors 7 PM; tickets from MXN 1,200.",
+          "hubBlurb": "<p><strong>Marco Carola plays Bagatelle Tulum on January 8</strong>, with Renê and Maubo.</p><p>The Neapolitan behind Music On brings his long techno and tech house sets to the beach in the Hotel Zone. Book a table on the sand, or go straight to the dance floor.</p><p><strong>Date:</strong> Friday, January 8, 2027<br><strong>Doors:</strong> 7:00 PM<br><strong>Lineup:</strong> Marco Carola, Renê, Maubo<br><strong>Tickets:</strong> From MXN $1,200 · VIP MXN $2,200 · Backstage MXN $4,200<br><strong>Tables:</strong> From MXN $40,000 + 15% service for 8<br><strong>Book:</strong> Through Tulum Bible</p>",
+          "name": "Marco Carola at Bagatelle Tulum",
+          "slug": "marco-carola-bagatelle-tulum-2027",
+          "tableInformation": "<p>Table prices are before a 15% service charge. Each table includes entry for its guests, and the table price goes towards food and drink. A table's exact spot isn't guaranteed. Check-in runs from 7:00 PM to midnight.</p><p>Beach (front), Beach (back) and Side Deck tables take up to 2 extra guests and the Beach Cabana up to 5. Backstage tables can't add guests. Bigger groups need a second table.</p>"
+        },
+        "es": {
+          "body": "<h3>Viernes 8 de enero de 2027 · Bagatelle Tulum · Puertas 7:00 PM</h3>\n<p><strong>Los boletos ya están a la venta desde 1,200 MXN.</strong> Reserva boletos o mesa con Tulum Bible con el botón de esta página y te enviamos tu link de pago.</p>\n<p><strong>Marco Carola, el DJ napolitano detrás de Music On, toca en Bagatelle Tulum el 8 de enero.</strong> Renê y Maubo completan el cartel.</p>\n<h2>Cartel</h2>\n<p><strong>Marco Carola</strong><br>Renê<br>Maubo</p>\n<h2>¿Quién es Marco Carola?</h2>\n<p>Marco Carola nació en Nápoles en 1975 y empezó a pinchar a los 15 años. Es conocido por sus sets largos e hipnóticos de techno y tech house, y por mezclas que mantienen la pista enganchada durante horas.</p>\n<p>Lanzó Music On en Miami en 2011 y lo llevó a Amnesia Ibiza, donde fue su residencia propia de 2012 a 2018. Antes tuvo una residencia en Amnesia con Cocoon. También ha fundado varios sellos, entre ellos Design, Zenit, Question, One Thousands, Do.Mi.No. y Music On.</p>\n<h2>Una noche en Bagatelle Tulum</h2>\n<p>Bagatelle Tulum está en el km 8 de la carretera Tulum–Boca Paila, en la Zona Hotelera, frente al mar. Esta noche el lugar se convierte en una pista en la arena, con mesas en la playa, un Side Deck junto al escenario, Beach Cabanas y una zona Backstage.</p>\n<h2>Boletos</h2>\n<ul><li>General · Early Bird: 1,200 MXN</li><li>General · Tier 1: 1,700 MXN</li><li>VIP · Tier 1: 2,200 MXN</li><li>Backstage · Tier 1: 4,200 MXN</li></ul>\n<p>La entrada general te da acceso al lugar y al evento a cualquier hora. El VIP suma entrada, barra y baños propios. Los boletos no incluyen mesa, consumo, propinas ni transporte.</p>\n<h2>Mesas</h2>\n<ul><li>Beach (back), 8 personas: 40,000 MXN + 15% de servicio</li><li>Beach (front), 8 personas: 60,000 MXN + 15% de servicio</li><li>Side Deck (Stage), 8 personas: 80,000 MXN + 15% de servicio</li><li>Beach Cabana, 10 personas: 120,000 MXN + 15% de servicio</li><li>Backstage, 12 personas: 200,000 MXN + 15% de servicio</li></ul>\n<p>Cada mesa incluye la entrada de sus invitados, y el precio de la mesa se abona a consumo. Pregunta a Tulum Bible si quieres sumar personas.</p>\n<h2>Datos clave</h2>\n<ul><li>Fecha: viernes 8 de enero de 2027</li><li>Puertas: 7:00 PM</li><li>Lugar: Bagatelle Tulum, Carr. Tulum–Boca Paila km 8, Zona Hotelera</li><li>Lleva la tarjeta física con la que pagaste y una identificación con foto: se piden al llegar.</li><li>Planea con tiempo tu traslado a la Zona Hotelera o pide a Tulum Bible que lo organice.</li></ul>",
+          "description": "Marco Carola, fundador de Music On, toca en Bagatelle Tulum el 8 de enero de 2027, con Renê y Maubo. Puertas 7 PM; boletos desde 1,200 MXN.",
+          "hubBlurb": "<p><strong>Marco Carola toca en Bagatelle Tulum el 8 de enero</strong>, con Renê y Maubo.</p><p>El napolitano detrás de Music On trae sus sets largos de techno y tech house a la playa de la Zona Hotelera. Reserva una mesa en la arena o ve directo a la pista.</p><p><strong>Fecha:</strong> viernes 8 de enero de 2027<br><strong>Puertas:</strong> 7:00 PM<br><strong>Cartel:</strong> Marco Carola, Renê, Maubo<br><strong>Boletos:</strong> desde 1,200 MXN · VIP 2,200 MXN · Backstage 4,200 MXN<br><strong>Mesas:</strong> desde 40,000 MXN + 15% de servicio para 8<br><strong>Reserva:</strong> con Tulum Bible</p>",
+          "name": "Marco Carola at Bagatelle Tulum",
+          "slug": "marco-carola-bagatelle-tulum-2027",
+          "tableInformation": "<p>Los precios de las mesas son antes del 15% de servicio. Cada mesa incluye la entrada de sus invitados, y el precio de la mesa se abona a consumo. La ubicación exacta de la mesa no está garantizada. El check-in es de 7:00 PM a medianoche.</p><p>Las mesas Beach (front), Beach (back) y Side Deck admiten hasta 2 personas extra y la Beach Cabana hasta 5. Las mesas Backstage no admiten personas extra. Los grupos más grandes necesitan una segunda mesa.</p>"
+        }
+      }
+    },
     {
       "base": {
         "afterEnd": "archive",
@@ -647,11 +802,14 @@
         ],
         "noPrice": false,
         "promotion": "normal",
-        "publishedAt": "2026-10-30T02:55:08.611Z",
+        "publishedAt": "2026-10-30T15:45:22.011Z",
         "qrCode": "M0 0.5h7m1 0h1m2 0h2m3 0h3m2 0h1m1 0h1m2 0h2m2 0h1m4 0h3m1 0h1m2 0h1m3 0h7M0 1.5h1m5 0h1m3 0h1m2 0h1m2 0h5m1 0h4m2 0h1m2 0h1m1 0h1m1 0h2m1 0h6m2 0h1m5 0h1M0 2.5h1m1 0h3m1 0h1m1 0h1m1 0h4m1 0h1m2 0h2m2 0h3m3 0h1m1 0h1m2 0h1m1 0h1m1 0h5m1 0h1m2 0h1m1 0h3m1 0h1M0 3.5h1m1 0h3m1 0h1m1 0h1m2 0h2m1 0h1m2 0h3m3 0h3m2 0h2m1 0h1m5 0h3m1 0h2m1 0h1m1 0h1m1 0h3m1 0h1M0 4.5h1m1 0h3m1 0h1m1 0h3m1 0h1m1 0h2m3 0h1m1 0h1m2 0h5m3 0h1m3 0h4m1 0h2m3 0h1m1 0h3m1 0h1M0 5.5h1m5 0h1m6 0h1m1 0h4m3 0h3m3 0h2m1 0h4m1 0h1m2 0h1m1 0h2m3 0h1m5 0h1M0 6.5h7m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h7M9 7.5h6m1 0h4m1 0h1m1 0h2m3 0h1m1 0h5m7 0h1M0 8.5h4m2 0h1m1 0h4m1 0h1m1 0h5m2 0h1m1 0h5m3 0h1m1 0h1m1 0h3m2 0h1m3 0h1m2 0h3m1 0h1M0 9.5h3m2 0h1m4 0h2m1 0h1m1 0h1m2 0h3m5 0h1m5 0h1m1 0h1m1 0h4m2 0h4m1 0h1m2 0h1m1 0h1M3 10.5h10m2 0h1m2 0h1m3 0h1m4 0h1m5 0h1m2 0h5m2 0h1m1 0h1m2 0h4M0 11.5h1m2 0h1m1 0h1m1 0h1m4 0h3m1 0h2m2 0h2m4 0h5m2 0h3m3 0h2m1 0h1m1 0h1m7 0h1M1 12.5h1m1 0h1m2 0h2m1 0h1m1 0h4m3 0h2m1 0h1m1 0h3m2 0h1m1 0h3m1 0h5m2 0h3m3 0h3m1 0h1M0 13.5h1m4 0h1m2 0h1m2 0h4m1 0h1m2 0h1m3 0h1m1 0h3m1 0h1m2 0h3m2 0h1m1 0h1m6 0h1m1 0h1m1 0h2M1 14.5h1m1 0h1m2 0h1m4 0h1m2 0h1m1 0h1m2 0h3m1 0h1m2 0h2m1 0h1m1 0h4m1 0h1m2 0h1m3 0h1m1 0h2m1 0h1m1 0h1m1 0h1M2 15.5h2m3 0h4m3 0h5m1 0h7m1 0h1m5 0h3m2 0h1m3 0h3M1 16.5h1m1 0h4m2 0h1m1 0h1m1 0h1m3 0h1m1 0h8m1 0h1m2 0h3m5 0h1m4 0h1m2 0h1m1 0h1m1 0h2M0 17.5h2m5 0h2m1 0h4m1 0h1m1 0h1m1 0h1m2 0h1m1 0h2m1 0h3m4 0h2m3 0h3m4 0h2m1 0h3M0 18.5h2m1 0h1m1 0h3m3 0h1m2 0h3m2 0h1m1 0h2m1 0h4m2 0h1m1 0h1m6 0h6m1 0h5M0 19.5h1m1 0h1m1 0h2m1 0h1m1 0h1m2 0h1m1 0h5m1 0h1m1 0h1m1 0h1m1 0h9m4 0h1m2 0h1m2 0h2m3 0h1M0 20.5h1m2 0h2m1 0h1m1 0h2m1 0h1m3 0h2m2 0h1m1 0h1m2 0h1m7 0h1m1 0h1m1 0h1m1 0h1m2 0h2m2 0h3m3 0h2M4 21.5h1m2 0h1m1 0h1m1 0h1m1 0h1m1 0h2m1 0h3m2 0h1m2 0h1m2 0h5m1 0h3m3 0h3m3 0h2m1 0h1M2 22.5h3m1 0h1m4 0h1m2 0h1m3 0h3m5 0h1m1 0h1m2 0h3m2 0h3m1 0h1m2 0h3m2 0h1m2 0h1M1 23.5h1m1 0h1m1 0h1m2 0h2m1 0h1m3 0h1m2 0h1m1 0h3m2 0h4m1 0h1m4 0h1m1 0h2m1 0h3m1 0h1m1 0h1m1 0h2m2 0h1M0 24.5h9m2 0h1m5 0h1m3 0h1m2 0h6m6 0h2m2 0h1m3 0h5m1 0h3M2 25.5h1m1 0h1m3 0h2m1 0h4m2 0h1m1 0h1m1 0h1m1 0h2m3 0h1m4 0h1m3 0h5m1 0h2m3 0h1m2 0h2M0 26.5h3m1 0h1m1 0h1m1 0h1m2 0h1m2 0h3m1 0h3m1 0h3m1 0h1m1 0h2m1 0h7m3 0h1m1 0h2m1 0h1m1 0h1m1 0h3M3 27.5h2m3 0h1m2 0h1m1 0h1m1 0h1m3 0h2m1 0h3m3 0h1m2 0h1m1 0h4m1 0h2m1 0h1m2 0h1m3 0h1m2 0h1M1 28.5h1m1 0h10m1 0h2m2 0h1m1 0h1m1 0h11m4 0h3m1 0h1m1 0h9M3 29.5h1m1 0h1m1 0h1m2 0h1m1 0h2m1 0h3m1 0h4m6 0h1m2 0h4m3 0h3m1 0h2m2 0h1m2 0h3M0 30.5h7m2 0h1m1 0h4m3 0h1m3 0h1m1 0h1m1 0h1m2 0h2m1 0h1m4 0h1m1 0h4m1 0h2m1 0h4m1 0h1M0 31.5h2m5 0h1m1 0h2m1 0h1m3 0h1m2 0h1m2 0h2m1 0h3m2 0h3m1 0h1m2 0h1m1 0h1m2 0h1m2 0h1m2 0h1m1 0h2M3 32.5h2m1 0h7m1 0h1m1 0h1m4 0h1m2 0h1m2 0h2m2 0h1m1 0h2m1 0h2m2 0h2m2 0h2m1 0h1m1 0h2M0 33.5h2m2 0h1m2 0h3m2 0h1m3 0h3m2 0h1m6 0h2m1 0h1m1 0h1m1 0h1m2 0h1m1 0h1m1 0h2m4 0h1m1 0h1m1 0h1M0 34.5h4m2 0h1m1 0h2m1 0h2m3 0h2m1 0h3m2 0h1m2 0h1m3 0h1m3 0h2m1 0h1m1 0h2m1 0h1m4 0h4M4 35.5h2m2 0h2m1 0h5m1 0h1m1 0h1m3 0h1m1 0h3m2 0h1m4 0h1m1 0h7m1 0h2m1 0h1m3 0h1M1 36.5h3m1 0h2m2 0h3m1 0h2m2 0h1m5 0h3m1 0h4m4 0h3m1 0h1m2 0h4m5 0h2M0 37.5h1m4 0h1m4 0h1m1 0h5m3 0h2m1 0h4m1 0h1m1 0h5m1 0h1m1 0h2m1 0h2m1 0h2m3 0h1m1 0h1M0 38.5h7m1 0h2m2 0h2m1 0h5m2 0h1m1 0h6m2 0h5m4 0h1m1 0h3m2 0h1m1 0h3M0 39.5h1m2 0h3m2 0h1m1 0h1m2 0h1m1 0h1m3 0h2m3 0h1m1 0h2m3 0h1m1 0h6m2 0h1m2 0h1m2 0h1m1 0h1m1 0h1M0 40.5h2m4 0h1m2 0h1m2 0h1m1 0h2m2 0h1m1 0h1m3 0h2m1 0h1m1 0h1m1 0h1m2 0h1m2 0h2m3 0h3m1 0h1m2 0h1m2 0h1M0 41.5h1m2 0h1m3 0h2m7 0h1m3 0h3m4 0h1m1 0h1m1 0h3m2 0h1m1 0h2m1 0h1m1 0h3m1 0h1m1 0h2M0 42.5h2m1 0h6m3 0h2m3 0h1m2 0h2m1 0h2m1 0h2m1 0h2m1 0h1m4 0h1m1 0h6m2 0h2m1 0h1M1 43.5h2m5 0h2m2 0h1m6 0h1m1 0h1m1 0h2m1 0h2m1 0h4m1 0h2m3 0h1m4 0h2m2 0h2m2 0h1M3 44.5h1m2 0h2m7 0h3m1 0h1m1 0h10m2 0h3m1 0h3m1 0h2m1 0h5m2 0h1M8 45.5h1m3 0h3m1 0h3m1 0h2m1 0h2m3 0h1m2 0h1m3 0h1m1 0h1m2 0h2m2 0h1m3 0h2M0 46.5h7m4 0h3m2 0h2m2 0h5m1 0h1m1 0h2m1 0h1m3 0h4m1 0h1m3 0h1m1 0h1m1 0h2m2 0h1M0 47.5h1m5 0h1m4 0h4m2 0h1m2 0h1m3 0h1m3 0h1m1 0h2m3 0h1m1 0h4m3 0h1m3 0h1m3 0h1M0 48.5h1m1 0h3m1 0h1m3 0h3m2 0h1m2 0h2m2 0h1m1 0h6m2 0h4m1 0h2m4 0h6m1 0h2M0 49.5h1m1 0h3m1 0h1m1 0h1m1 0h3m1 0h3m3 0h1m3 0h1m2 0h1m1 0h1m1 0h1m1 0h1m1 0h5m1 0h1m1 0h2m2 0h4M0 50.5h1m1 0h3m1 0h1m1 0h2m2 0h1m1 0h1m2 0h2m5 0h1m4 0h1m1 0h4m1 0h2m3 0h1m2 0h1m7 0h1M0 51.5h1m5 0h1m1 0h6m2 0h1m4 0h5m3 0h1m1 0h1m1 0h6m4 0h2m2 0h2m2 0h1M0 52.5h7m1 0h2m1 0h3m6 0h4m1 0h3m2 0h1m2 0h1m3 0h5m1 0h3m1 0h1m1 0h3<!--vb:53-->",
         "startDate": "2026-12-31",
         "status": "Live",
-        "tableLayoutImage": null,
+        "tableLayoutImage": {
+          "alt": "Bagatelle Tulum table map: Backstage, Side Deck, Beach Front, Beach Back, Cabanas and bars.",
+          "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/45b0589a-3dd7-488f-9b71-0206784cae00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+        },
         "tbeId": "TBE_M43HXF",
         "ticketPrice": null,
         "ticketTiers": [
@@ -673,7 +831,7 @@
         "vipPrice": null
       },
       "convexId": "j57a1g0wa848wd8hg5wntymgzh8h8jt8",
-      "lastUpdated": "2026-10-30T15:45:20.010Z",
+      "lastUpdated": "2026-11-06T02:35:58.077Z",
       "locales": {
         "en": {
           "body": "<h3>Thursday, December 31, 2026 · Bagatelle Tulum · Doors 8:00 PM</h3><p><strong>Pre-sale is open at MXN $7,500 per person, including entry and dinner.</strong> Drinks are not included. Reserve through Tulum Bible with the button on this page and we send you a payment link.</p><p><strong>Bagatelle Tulum sees in 2027 with Le Tropical, a New Year's Eve dinner and party headlined by Guy Gerber.</strong> Kimonos, Story Behind and Gio de Lira complete the lineup. Dress code: tropical chic.</p><h2>Le Tropical lineup</h2><p><strong>Guy Gerber</strong><br>Kimonos<br>Story Behind<br>Gio de Lira</p><h2>Who is Guy Gerber?</h2><p>Guy Gerber is an Israeli DJ and producer who has been shaping house and techno for more than two decades. His early breaks came on John Digweed's Bedrock label with \"Stoppage Time\", and through \"Sea of Sand\" and \"Belly Dancing\", made with Shlomi Aber. His debut album, <em>Late Bloomers</em>, came out on Sven Väth's Cocoon Recordings in 2007.</p><p>He founded Rumors, a label and party series that began with free beach parties in Ibiza in 2014 and has since travelled to Art Basel Miami and BPM in Mexico. Before that, his Wisdom of the Glove residency at Pacha Ibiza in 2013 caught the attention of The New York Times. He also made the album <em>11 11</em> with Sean \"Diddy\" Combs. Expect a long, melodic set that builds through midnight.</p><h2>Good to know</h2><ul><li><p>Date: Thursday, December 31, 2026</p></li><li><p>Doors: 8:00 PM celebration continues on the beach until sunrise</p></li><li><p>Venue: Bagatelle Tulum, Carr. Tulum–Boca Paila Km 8, Hotel Zone</p></li><li><p>Pre-sale: MXN $7,500 per person, includes entry and dinner. Drinks are extra.</p></li><li><p>Dress code: tropical chic</p></li><li><p>The beach road gets very busy on December 31. Leave early, or ask Tulum Bible to arrange a pickup.</p></li></ul><p></p>",
