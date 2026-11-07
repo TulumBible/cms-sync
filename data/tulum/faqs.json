@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-10-31T23:02:57.758Z",
+  "syncedAt": "2026-11-07T20:40:33.825Z",
   "citySlug": "tulum",
   "faqs": [
     {
@@ -8865,6 +8865,28 @@
         "es": {
           "answer": "La estancia mínima es de tres noches, y las tarifas para alquilar la villa completa empiezan a partir de 4.500 USD por noche. Consulta en esta página las tarifas y la disponibilidad para las fechas que te interesen.",
           "name": "¿Cuál es la estancia mínima y la tarifa inicial?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "category"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "is-hotel-pickup-included-in-a-tulum-yacht-charter"
+      },
+      "convexId": "k574pbrev62g5svns7ks43b2wd8hrb6m",
+      "lastUpdated": "2026-11-07T20:38:13.075Z",
+      "locales": {
+        "en": {
+          "answer": "The transfer is booked separately, because the boats leave from Puerto Aventuras Marina, 30–45 minutes north of Tulum. We can arrange a private vehicle timed to your departure.",
+          "name": "Is hotel pickup included in a Tulum yacht charter?"
+        },
+        "es": {
+          "answer": "El traslado se reserva por separado, ya que los barcos salen del puerto deportivo de Puerto Aventuras, situado a entre 30 y 45 minutos al norte de Tulum. Podemos organizarte un vehículo privado que se adapte a la hora de tu salida.",
+          "name": "¿El servicio de recogida en el hotel está incluido en el alquiler de un yate en Tulum?"
         }
       }
     }
