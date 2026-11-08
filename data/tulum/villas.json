@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-01T23:21:47.023Z",
+  "syncedAt": "2026-11-08T04:48:55.720Z",
   "citySlug": "tulum",
   "villas": [
     {
@@ -2326,6 +2326,143 @@
           "metaDescription": "Casa Don Rey, villa de 10 dormitorios en Aldea Zama, con piscina y Buda sumergido, piscina rooftop y discoteca interior. Tarifas en Tulum Bible.",
           "name": "Casa Don Rey",
           "slug": "casa-don-rey"
+        }
+      }
+    },
+    {
+      "base": {
+        "amenityIds": [
+          "jn705g0j2n2cepzkmt4gd3jxr585kbvm",
+          "jn70e7zea8k1cbnab25vmzkf4185kc0b",
+          "jn785xwma32ccwqp23911rkcds85k29g",
+          "jn7fwddn9rz72mz61sn4tj4qbs85kb4h",
+          "jn796fkb2npe38c126gkzmhe85858yf5",
+          "jn78c0kww3ghntsrs0x74x0whx85j8ft"
+        ],
+        "area": "hotel-zone",
+        "bathrooms": null,
+        "bedrooms": "28",
+        "beds": null,
+        "category": "villa",
+        "categoryIds": [],
+        "faqIds": [
+          "k572sh61n3dxzjr87m8m9rta4x8ht88k",
+          "k576nkz811p0tymzk9cyrextnd8hv3ts",
+          "k575dph6bjgvcadws7gq5jvhws8hv0dh",
+          "k57awf2bh27d4k2xbm17qs8vy98hvswk",
+          "k57de4mpbd7hf4wtk7mev5czfh8hvr30"
+        ],
+        "googleMapsCode": "6G3V+9H Tulum, Quintana Roo, Mexico",
+        "images": [
+          {
+            "alt": "Aerial view of Villa Chica beachfront compound in Tulum with pool, thatched-roof buildings, and white sand beach backed by",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/92697d72-a9ab-4d8c-223d-253726c16f00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Aerial view of Villa Chica's pool deck with turquoise pools, lounge beds, cabana, and white buildings in Tulum.",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/d5f1b3df-7004-4504-0f3d-e2c3f1cbb500/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Villa Chica's pool and wooden deck overlook a sandy beach with palm trees and turquoise Caribbean waters beyond.",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/1482e3d2-ed5b-4791-eb87-01c8104d4300/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Villa Chica's spa reception area with woven pendant lights, wooden counter, and jungle views through high windows",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/eeebb73b-e0b6-4b69-fdf9-23ba50465d00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Villa Chica bedroom with two beds, cream-colored walls, dark wooden ceiling beams, and decorative tiles on the wall.",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/f3b05bb8-aac8-463a-cf2c-a609753fc300/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Villa Chica bathroom with stone walls, wooden beam ceiling, round mirror, and open wooden door to toilet area",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/4f57518a-cca0-4e93-74c4-b9858fe31400/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Villa Chica bathroom with white stone walls, round mirror, wooden ceiling beams, and open shower with glass enclosure",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/e38f3456-7e57-4768-6696-aa2c248eb300/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Villa Chica dining room with wooden table, woven chairs, arched alcoves, hanging pendant lights, and warm ambient lighting",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/82d66078-b281-4717-67b1-d84a9b433800/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Villa Chica's yoga and meditation studio with wooden beams, stone Buddha statue, meditation cushions, and natural light from",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/45559af1-89e6-4eb8-875e-3e794397da00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Villa Chica's open studio space with wooden beams, glass doors overlooking the terrace, and yoga props arranged on polished",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/071b58ea-8c97-48e0-1972-c7c1f023d600/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Villa Chica's beachfront bar with wooden stools, woven pendant lights, and ocean views from a covered terrace.",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/c6998766-744b-4fc6-5da7-2c8788a2f100/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Villa Chica's beachfront deck at sunset with lounge beds, pool, and ocean view at golden hour",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/2245cc72-a944-4b49-1584-3c5cc4e9c700/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Villa Chica's terrace with wooden pergolas, infinity pool, and ocean view at sunset in Tulum",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/5743ff2e-55b0-4298-4e33-3c0fcce00000/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Villa Chica's open-air terrace with wooden bar stools, concrete beams, woven pendant lights, and tropical plants in Tulum.",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/fb90c381-0b74-4b5b-44ec-08ea60397a00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Villa Chica bedroom with canopied bed draped in sheer white curtains, ocean view through open doors to thatched roof terrace.",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/c190e81b-2dc3-4b17-77f0-fc18d6e1c200/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Villa Chica terrace with a fringed hammock overlooking the Caribbean Sea, thatched roof shelter, and palm fronds in sunlight.",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/02fe88a4-c6e3-49fe-ee2d-184f56175b00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Villa Chica pool with arched stone bridges, wooden dining chairs, and multi-level architecture under clear sky in Tulum",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/ef033d9d-ad03-4f67-969a-965b7b738c00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Villa Chica's beachfront pool with arched stone structure and pink loungers overlooking the Caribbean Sea under blue sky",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/b6405816-ef2d-4423-281a-a85a58f7c200/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Villa Chica's beachfront terrace features three pink hammocks in arched stone alcoves overlooking the Caribbean Sea and a",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/a3295053-cb2f-4b9e-d728-f905bb95f700/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Villa Chica's pool with turquoise water overlooks the Caribbean Sea, framed by wooden pergolas and concrete pillars on a",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/69d9f953-7810-405d-0a1a-e89c88cfa400/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Villa Chica bedroom with two beds built into white walls, dark wood beams, woven pendant lights, and macramé wall hangings",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/ab3ba9e0-4c49-41be-2fee-41b4f2596500/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Villa Chica's living room with built-in cream seating, dark wooden beams, large windows overlooking white walls, and a woven",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/0335b36a-7859-49f6-20b4-d466497f0a00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          }
+        ],
+        "pricePerNight": "$13,000 USD",
+        "reviewIds": [],
+        "sleeps": "78"
+      },
+      "convexId": "kh7b5ndk10yjm1cbvbfha05nw18hvx2c",
+      "lastUpdated": "2026-11-08T04:48:21.613Z",
+      "locales": {
+        "en": {
+          "body": "<h2>Villa Chica Tulum, a Private Beachfront Rental</h2>\n<p>Villa Chica sits directly on the Caribbean beach that runs through Tulum's Hotel Zone, the long coastal strip between the big beach clubs and the boutique hotels. The house is set up for indoor-outdoor living, with the main spaces opening toward the water. Its position is the main reason to choose it: beachfront land on this stretch is scarce, and most villas here sit back from the sand behind the hotels.</p>\n<p>The villa is within walking distance of Tulum's beach clubs, beach bars, restaurants and boutiques, so you do not need to drive for a meal or a day out. That walkable setting is unusual for a private villa on this coast, where many homes are tucked into the jungle side of the road. If you want the beach at your door and the Hotel Zone's social life close by, this is the trade the property makes.</p>\n<h3>Twenty-Eight Bedrooms Built for a Crowd</h3>\n<p>This is a large property, not a small beach house. Villa Chica has 28 bedrooms and sleeps up to 78 guests, which makes it one of the biggest private beachfront rentals in Tulum. It is effectively an entire beachfront boutique hotel taken as a single booking, so the whole place is reserved for your party alone. The scale suits a wedding, a family reunion or a large group celebration where everyone wants to stay under one roof.</p>\n<p>The layout leans toward relaxed, stylish beach living rather than a formal hotel feel. A group this size usually travels with a plan, and the property is set up to host one: meals, the beach and the common areas all run around your group rather than a mixed roster of strangers.</p>\n<h3>A Private Chef From Dawn to Dusk</h3>\n<p>A private chef is part of the service and is available for ten to twelve consecutive hours each day, so meals run from breakfast through dinner without anyone leaving the property. The menu is built around your group: vegan, gluten-free, seafood or any dietary restriction is handled when you brief the chef in advance. For a party of this size that removes the daily problem of booking large tables at restaurants up and down the strip. It also keeps the villa self-contained on the days you would rather stay by the water than head out.</p>\n<h3>The Beach and the Hotel Zone Setting</h3>\n<p>Tulum's Hotel Zone is roughly a four-mile strip of beach along Boca Paila, lined with beach clubs, boutique hotels and bars from Habitas in the north down toward Casa Malca in the south. Villa Chica puts you on that strip with direct access to the sand, so a beach day is a few steps. Many of the area's beach clubs ask for a minimum spend, sometimes over a hundred dollars per person, and fill up in high season. Having your own frontage is a real advantage on busy days, and you can still walk to Nomade, Be Tulum, Taboo and the restaurants when you want the crowd and the music.</p>\n<h3>Who It Suits and Who It Does Not</h3>\n<p>This villa is built for a large group who want a beachfront base, privacy and meals handled in-house. With 28 bedrooms, space for 78 guests and a private chef, it works best when the whole property is taken by one party travelling together for a wedding, a reunion or a milestone celebration. Anyone who wants a quiet jungle hideaway should note the Hotel Zone setting: the beach-club strip is lively, and you are close to it.</p>\n<h3>Check Rates and Dates</h3>\n<p>Villa Chica is booked as a whole-house rental with the private chef service included, so dates and the full cost depend on your group size and the season. Enquire through this page and the concierge will confirm availability, pricing and exactly what the chef hours and service cover for your trip. Because large beachfront villas on this stretch book early for peak dates, it is worth checking ahead if you are travelling over a holiday or planning a group event.</p>",
+          "description": "A private beachfront villa on Tulum's Caribbean strip with 28 bedrooms, direct sand access and a private chef cooking to order from dawn to dusk.",
+          "metaDescription": "Villa Chica is a large private beachfront villa in Tulum's Hotel Zone with a private chef and direct sand access. Check rates on Tulum Bible.",
+          "name": "Villa Chica",
+          "slug": "villa-chica"
+        },
+        "es": {
+          "body": "<h2>Villa Chica Tulum, una vivienda privada en primera línea de playa</h2>\n<p>Villa Chica se encuentra justo en la playa del Caribe que recorre la Zona Hotelera de Tulum, la larga franja costera situada entre el gran hotel beach clubs y los hoteles boutique. La casa está diseñada para disfrutar tanto del interior como del exterior, con los espacios principales abiertos hacia el mar. Su ubicación es la razón principal para elegirla: los terrenos frente al mar en este tramo son escasos, y la mayoría de las villas de la zona se encuentran alejadas de la arena, detrás de los hoteles.</p>\n<p>La villa se encuentra a poca distancia a pie del beach clubs de Tulum, de los chiringuitos, los restaurantes y las boutiques, por lo que no es necesario coger el coche para ir a comer o pasar el día fuera. Esa ubicación, que permite desplazarse a pie, es poco habitual en una villa privada de esta costa, donde muchas viviendas están escondidas en el lado de la selva de la carretera. Si quieres tener la playa a la puerta de casa y la vida social de la Zona Hotelera cerca, esta propiedad te ofrece precisamente eso.</p>\n<h3>Veintiocho dormitorios pensados para un grupo numeroso</h3>\n<p>Se trata de una propiedad de gran tamaño, no de una pequeña casa de playa. Villa Chica cuenta con 28 dormitorios y tiene capacidad para hasta 78 huéspedes, lo que la convierte en uno de los alojamientos privados frente al mar más grandes de Tulum. En la práctica, es todo un hotel boutique frente al mar que se alquila en su totalidad, por lo que todo el lugar queda reservado exclusivamente para tu grupo. Su tamaño es ideal para una boda, una reunión familiar o una celebración de grupo en la que todos quieran alojarse bajo un mismo techo.</p>\n<p>La distribución se inclina hacia un estilo de vida playero relajado y elegante, en lugar de un ambiente hotelero formal. Un grupo de este tamaño suele viajar con un plan, y la propiedad está preparada para acogerlo: las comidas, la playa y las zonas comunes se organizan en función de vuestro grupo, en lugar de un grupo heterogéneo de desconocidos.</p>\n<h3>Un chef privado desde el amanecer hasta el atardecer</h3>\n<p>Un chef privado forma parte del servicio y está disponible entre diez y doce horas consecutivas cada día, por lo que las comidas van desde el desayuno hasta la cena sin que nadie tenga que salir de la propiedad. El menú se adapta a vuestro grupo: vegano, sin gluten, marisco o cualquier otra restricción alimentaria se tiene en cuenta si se informa al chef con antelación. Para un grupo de este tamaño, esto elimina el problema diario de reservar mesas grandes en los restaurantes a lo largo de la avenida. Además, permite que la villa sea autosuficiente los días en que prefiráis quedaros junto al mar en lugar de salir.</p>\n<h3>La playa y la zona hotelera</h3>\n<p>La Zona Hotelera de Tulum es una franja de playa de aproximadamente cuatro millas a lo largo de Boca Paila, repleta de beach clubs, hoteles boutique y bares, desde Habitas, en el norte, hasta Casa Malca, en el sur. Villa Chica te sitúa en esa franja con acceso directo a la arena, por lo que un día de playa está a solo unos pasos. Muchos de los beach clubs de la zona exigen un gasto mínimo, a veces de más de cien dólares por persona, y se llenan en temporada alta. Disponer de tu propia salida a la playa es una auténtica ventaja en los días de mayor afluencia, y aún así puedes ir andando a Nomade, Be Tulum, Taboo y a los restaurantes cuando te apetezca el bullicio y la música.</p>\n<h3>Para quién es ideal y para quién no</h3>\n<p>Esta villa está pensada para un grupo numeroso que busque un alojamiento frente al mar, privacidad y comidas preparadas en la propia propiedad. Con 28 dormitorios, capacidad para 78 huéspedes y un chef privado, resulta ideal cuando toda la propiedad es alquilada por un mismo grupo que viaja junto para celebrar una boda, una reunión o un acontecimiento especial. Cualquiera que busque un refugio tranquilo en la selva debe tener en cuenta que se encuentra en la Zona Hotelera: la zona de los clubes de playa es muy animada y la villa está cerca de ella.</p>\n<h3>Consulta tarifas y fechas</h3>\n<p>Villa Chica se alquila en su totalidad, con el servicio de chef privado incluido, por lo que las fechas y el coste total dependen del tamaño de tu grupo y de la temporada. Solicita información a través de esta página y el conserje te confirmará la disponibilidad, los precios y exactamente cuáles son el horario del chef y lo que incluye el servicio para tu viaje. Dado que las grandes villas frente al mar de esta zona se reservan con mucha antelación para las fechas de máxima temporada, merece la pena consultar con antelación si vas a viajar durante unas vacaciones o estás planeando un evento de grupo.</p>",
+          "description": "Una villa privada frente al mar en la costa caribeña de Tulum, con 28 dormitorios, acceso directo a la arena y un chef privado que cocina a la carta desde el amanecer hasta el atardecer.",
+          "metaDescription": "Villa Chica: villa privada frente al mar en Zona Hotelera Tulum con chef y acceso directo a playa. Tarifas en Tulum Bible.",
+          "name": "Villa Chica",
+          "slug": "villa-chica"
         }
       }
     }
