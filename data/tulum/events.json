@@ -1,7 +1,78 @@
 {
-  "syncedAt": "2026-11-10T16:00:53.488Z",
+  "syncedAt": "2026-11-10T18:35:18.179Z",
   "citySlug": "tulum",
   "events": [
+    {
+      "base": {
+        "afterEnd": "archive",
+        "buyLink": "https://wa.me/529841457101?text=Hello!%20I'm%20interested%20in%20NYE%202027%20at%20Ilios%20Tulum",
+        "categoryIds": [],
+        "cta": "Reserve",
+        "displayPrice": "MXN $6,000",
+        "endDate": "2026-12-31T20:00",
+        "eventType": "NYE",
+        "faqIds": [],
+        "flyerImage": {
+          "alt": "ilios nye dinner tulum 2027",
+          "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/b9e0a13d-e490-4ba6-8657-e25f95413300/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+        },
+        "gaLink": null,
+        "gaPrice": null,
+        "hubImage": {
+          "alt": "Ilios Tulum dining room with arches, plants and woven lamps.",
+          "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/1ffdbea8-ff46-4ef4-dcac-f56affff9d00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+        },
+        "isFeatured": false,
+        "isPublished": true,
+        "lineup": null,
+        "noPrice": false,
+        "promotion": "normal",
+        "publishedAt": null,
+        "qrCode": "M0 0.5h7m2 0h1m2 0h3m1 0h1m1 0h1m1 0h2m2 0h2m1 0h5m1 0h1m2 0h1m1 0h7M0 1.5h1m5 0h1m3 0h2m2 0h2m2 0h3m2 0h2m2 0h4m4 0h1m2 0h1m5 0h1M0 2.5h1m1 0h3m1 0h1m2 0h4m1 0h4m1 0h2m1 0h5m4 0h1m3 0h1m2 0h1m1 0h3m1 0h1M0 3.5h1m1 0h3m1 0h1m1 0h2m1 0h1m1 0h1m2 0h1m2 0h4m3 0h2m1 0h5m1 0h2m1 0h1m1 0h3m1 0h1M0 4.5h1m1 0h3m1 0h1m1 0h2m3 0h1m1 0h1m1 0h8m3 0h1m1 0h2m1 0h4m1 0h1m1 0h3m1 0h1M0 5.5h1m5 0h1m2 0h1m1 0h1m3 0h1m1 0h1m1 0h2m3 0h2m1 0h1m1 0h2m1 0h2m4 0h1m5 0h1M0 6.5h7m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h7M10 7.5h1m1 0h1m2 0h4m1 0h1m3 0h3m4 0h1m1 0h2M0 8.5h2m3 0h3m1 0h1m1 0h1m6 0h8m3 0h3m1 0h1m1 0h2m3 0h2M0 9.5h2m5 0h2m1 0h1m3 0h1m1 0h3m2 0h1m1 0h3m1 0h5m3 0h4m4 0h1M0 10.5h1m2 0h7m1 0h1m4 0h3m2 0h1m1 0h1m1 0h1m1 0h6m5 0h1m1 0h4M0 11.5h3m2 0h1m1 0h1m1 0h1m2 0h1m1 0h1m1 0h1m3 0h4m2 0h2m3 0h1m2 0h1m1 0h4M2 12.5h7m1 0h2m2 0h1m1 0h1m1 0h1m3 0h1m1 0h6m2 0h1m3 0h3m1 0h1m1 0h1m1 0h1M0 13.5h1m1 0h1m1 0h1m3 0h1m2 0h1m1 0h1m1 0h1m1 0h2m1 0h1m1 0h4m1 0h1m1 0h7m2 0h2m2 0h1M1 14.5h1m2 0h1m1 0h4m1 0h5m1 0h1m3 0h1m3 0h1m2 0h3m1 0h1m2 0h1m1 0h1m2 0h1m1 0h2M2 15.5h1m2 0h1m3 0h1m1 0h1m5 0h2m2 0h2m1 0h1m3 0h1m3 0h1m1 0h4m3 0h3M2 16.5h1m3 0h2m1 0h1m1 0h1m1 0h2m2 0h4m2 0h1m1 0h2m2 0h1m5 0h3m1 0h1m1 0h1m2 0h1M0 17.5h4m1 0h1m3 0h1m6 0h3m1 0h6m2 0h1m1 0h2m2 0h2m1 0h1m1 0h1m1 0h1m1 0h2M6 18.5h6m1 0h1m1 0h4m1 0h1m1 0h1m1 0h5m1 0h1m3 0h1m1 0h2m1 0h2m1 0h1m1 0h1M0 19.5h1m1 0h2m3 0h2m2 0h4m1 0h5m2 0h1m2 0h2m1 0h1m1 0h1m2 0h1m1 0h1m1 0h2m1 0h2M1 20.5h2m1 0h5m2 0h1m5 0h9m1 0h6m2 0h9M0 21.5h1m1 0h1m1 0h1m3 0h3m1 0h4m2 0h1m1 0h1m3 0h2m1 0h1m1 0h3m2 0h1m1 0h1m3 0h1m1 0h3M0 22.5h1m3 0h1m1 0h1m1 0h2m1 0h1m3 0h2m3 0h1m1 0h1m1 0h2m1 0h5m4 0h1m1 0h1m1 0h2m1 0h1M3 23.5h2m3 0h1m1 0h2m1 0h1m2 0h2m1 0h2m3 0h1m1 0h2m3 0h1m1 0h1m1 0h2m3 0h1m1 0h2M0 24.5h2m1 0h12m1 0h3m1 0h6m5 0h2m1 0h7M0 25.5h1m7 0h1m1 0h2m1 0h1m1 0h1m1 0h2m1 0h2m3 0h2m1 0h1m1 0h1m1 0h1m6 0h3m1 0h2M0 26.5h8m6 0h3m4 0h5m1 0h6m2 0h1m1 0h2m1 0h4M4 27.5h1m6 0h1m7 0h3m1 0h2m2 0h2m2 0h2m3 0h3m3 0h1m1 0h1M0 28.5h1m3 0h3m3 0h4m1 0h1m1 0h1m1 0h2m2 0h3m3 0h1m1 0h1m4 0h2m1 0h4m1 0h1M1 29.5h1m2 0h1m2 0h3m2 0h2m1 0h2m1 0h1m1 0h2m3 0h1m1 0h1m1 0h5m1 0h3m1 0h1m3 0h1M0 30.5h1m3 0h3m3 0h1m1 0h1m3 0h1m2 0h3m2 0h4m1 0h3m1 0h3m1 0h2m2 0h1m1 0h2M1 31.5h1m6 0h2m1 0h2m1 0h6m1 0h1m2 0h1m1 0h1m4 0h1m1 0h2m3 0h2m2 0h3M0 32.5h1m1 0h2m1 0h4m2 0h4m2 0h4m2 0h2m1 0h1m2 0h1m1 0h1m2 0h1m1 0h1m1 0h1m5 0h1M2 33.5h1m2 0h1m1 0h2m3 0h1m1 0h1m2 0h2m2 0h3m1 0h2m1 0h2m1 0h2m1 0h1m2 0h3M4 34.5h1m1 0h1m1 0h1m2 0h2m1 0h2m1 0h1m1 0h1m2 0h4m2 0h1m1 0h1m1 0h2m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1M1 35.5h4m3 0h1m1 0h1m1 0h3m1 0h1m1 0h2m4 0h1m1 0h2m1 0h1m1 0h1m2 0h3m2 0h4m1 0h1M0 36.5h1m2 0h2m1 0h4m2 0h1m2 0h3m2 0h5m1 0h2m3 0h2m1 0h7m1 0h1M8 37.5h2m1 0h1m1 0h1m2 0h1m1 0h3m3 0h1m1 0h2m1 0h3m2 0h1m1 0h1m3 0h2m1 0h1M0 38.5h7m1 0h1m6 0h1m4 0h1m1 0h1m1 0h2m2 0h5m3 0h1m1 0h1m1 0h2m1 0h1M0 39.5h1m5 0h1m1 0h3m2 0h3m1 0h1m1 0h2m3 0h1m3 0h1m2 0h3m2 0h1m3 0h1m1 0h3M0 40.5h1m1 0h3m1 0h1m2 0h2m1 0h1m4 0h2m1 0h11m3 0h1m1 0h5m2 0h2M0 41.5h1m1 0h3m1 0h1m2 0h1m1 0h1m1 0h1m1 0h4m4 0h2m1 0h1m2 0h3m1 0h10M0 42.5h1m1 0h3m1 0h1m4 0h1m7 0h1m2 0h1m3 0h1m2 0h2m3 0h1m1 0h1m3 0h1m2 0h2M0 43.5h1m5 0h1m1 0h2m1 0h1m3 0h1m2 0h1m3 0h6m3 0h1m1 0h3m3 0h3M0 44.5h7m1 0h1m1 0h1m1 0h4m2 0h1m4 0h3m3 0h3m3 0h1m1 0h1m2 0h4<!--vb:45-->",
+        "startDate": "2026-12-31",
+        "status": "Live",
+        "tableLayoutImage": null,
+        "tbeId": "TBE_KK63GM",
+        "ticketPrice": null,
+        "ticketTiers": [
+          {
+            "currency": "MXN",
+            "id": "manual-ilios27-dinner",
+            "isTable": false,
+            "name": "NYE Dinner · 3 courses",
+            "price": 6000,
+            "sortOrder": 0,
+            "status": "on_sale"
+          }
+        ],
+        "time": "20:00 - Late",
+        "url": null,
+        "venueName": "Ilios Tulum",
+        "venueSlug": "ilios-tulum",
+        "vipLink": null,
+        "vipPrice": null
+      },
+      "convexId": "j57fg11v4f5b6ndx1zgjvrkpvx8hz34a",
+      "lastUpdated": "2026-11-10T18:35:00.132Z",
+      "locales": {
+        "en": {
+          "body": "<h2>A Greek Dinner to Welcome 2027</h2><p>Ilios, the Greek estiatorio in Tulum's Hotel Zone, closes out the year with a three-course New Year's Eve menu. You choose one appetizer, one main and one dessert from a set list, and the kitchen builds the evening around the same contemporary Greek and Mediterranean cooking the room is known for. The price is MXN $6,000 per person. To reserve, full pre-payment is required. </p><h3>The Three-Course Menu, Course by Course</h3><p>The appetizer is one of four: a Greek salad, fattoush, truffled beef carpaccio, or oktopodi selino, which is octopus with potatoes, celery and citrus. For the main you choose between spaghetti Meraki with roasted mushrooms, asparagus and truffle oil; Ilios orzo with crab and crispy soft-shell crab; Colorado rack of lamb with tabbouleh and muhammara; or stone-oven baked totoaba. Dessert is a choice of sokolatina or baklava. It is a set menu built for the night, drawing on the same kitchen that works through grilled octopus, lamb and whole fresh fish on an ordinary evening. Gratuity is optional.</p><h3>Fire Dancers, Sirtaki and Plate Smashing</h3><p>Ilios runs a dinner with a show, and that same programme shapes New Year's Eve. Dinner begins in the evening, and the entertainment usually starts between 9 PM and 10 PM: the lights dim for aerial fire dancing, belly dancing and table-side performances. Sirtaki circle dancing pulls guests up from their tables, and Greek plate smashing adds the interactive tradition the room is built around. Live DJ sets carry the later part of the evening, moving the dining room toward a late-night atmosphere, with hookah available during the late-night part of the night. Food is served throughout the show rather than before it, so the meal and the performance run together across the night.</p><h3>The Room and the Setting</h3><p>Ilios is a Greek and Mediterranean dining room launched by Grupo Anderson's in 2020, drawing on cooking from different regions of Greece. Rustic stone walls, olive trees and soft lighting reference the Greek landscape, and service stays attentive as performers begin moving between the tables and the music grows louder. It remains a restaurant first, with staff managing drinks, dishes and group celebrations while the show continues around the room. The space suits couples as well as birthday groups and larger celebrations. A dress code applies: smart casual or elegant clothing is required, and swimwear, athletic wear and beach attire are not accepted.</p><h3>Where the Night Sits on the Beach Road</h3><p>The restaurant is in the Hotel Zone near Bagatelle, Bonbonniere, Vagalume and Porfirio's, so you can continue from dinner to several established party venues without leaving this stretch of the beach road. That makes Ilios a strong choice for groups that want dinner to become part of a longer evening out, with the full show taking place inside the dining room. An earlier table gives more attention to the meal, while a later booking places the entertainment at the centre of the visit. On New Year's Eve, the room builds toward a midnight countdown to mark the turn into 2027.</p><h3>Plan Your New Year's Eve</h3><p>The night takes place at Ilios Tulum, Carr. Tulum–Boca Paila Km 8, in the Hotel Zone, on Thursday, December 31, 2026. The beach road gets very busy on December 31, so leave early, or ask Tulum Bible to arrange a pickup. Tables and the floor plan are still being confirmed, which is a further reason to secure your spot now. Reserve with the button on this page and a payment link follows to confirm your place for the three-course dinner and the midnight countdown.</p>",
+          "description": "Ilios Tulum welcomes 2027 with a three-course Greek dinner, choosing an appetizer, main and dessert from a set menu, followed by fire dancers and a midnight countdown.",
+          "hubBlurb": "<p><strong>Ilios Tulum</strong>, the Greek estiatorio in the Hotel Zone, welcomes 2027 with a three-course New Year’s Eve dinner. Choose your starter, main and dessert from a set menu: Greek salad, truffled beef carpaccio or octopus to begin; Colorado rack of lamb, crab orzo or stone-oven baked totoaba to follow; and baklava or sokolatina to finish. At midnight there are 12 grapes, a glass of Moët &amp; Chandon and fireworks.</p><p><strong>Date:</strong> Thursday, December 31, 2026<br><strong>Time:</strong> From 8:00 PM<br><strong>Price:</strong> MXN $6,000 per person<br><strong>Includes:</strong> Three-course dinner, party kit, 12 grapes, a glass of champagne and fireworks<br><strong>Book:</strong> Through Tulum Bible</p>",
+          "name": "NYE 2027 at Ilios",
+          "slug": "nye-2027-ilios-tulum",
+          "tableInformation": ""
+        },
+        "es": {
+          "body": "<h2>Una cena griega para dar la bienvenida al 2027</h2><p>Ilios, el restaurante griego situado en la zona hotelera de Tulum, despide el año con un menú de Nochevieja de tres platos. El comensal elige un entrante, un plato principal y un postre de una lista fija, y la cocina elabora la velada en torno a la misma cocina griega y mediterránea contemporánea por la que es conocido el local. El precio es de 6.000 MXN por persona. Para reservar, es necesario el pago por adelantado íntegro. </p><h3>El menú de tres platos, plato a plato</h3><p>El entrante es uno de estos cuatro: ensalada griega, fattoush, carpaccio de ternera trufado u oktopodi selino, que es pulpo con patatas, apio y cítricos. Como plato principal, se puede elegir entre espaguetis Meraki con setas asadas, espárragos y aceite de trufa; orzo Ilios con cangrejo y cangrejo de caparazón blando crujiente; costillas de cordero de Colorado con tabulé y muhammara; o totoaba al horno de piedra. De postre se puede elegir entre sokolatina o baklava. Se trata de un menú fijo elaborado para la velada, que recurre a la misma cocina que, en una noche cualquiera, prepara pulpo a la parrilla, cordero y pescado fresco entero. La propina es opcional.</p><h3>Bailarines con fuego, sirtaki y rotura de platos</h3><p>Ilios ofrece una cena con espectáculo, y ese mismo programa da forma a la Nochevieja. La cena comienza por la tarde, y el entretenimiento suele empezar entre las 21:00 y las 22:00: las luces se atenúan para dar paso a la danza aérea con fuego, la danza del vientre y las actuaciones junto a las mesas. El baile en círculo del sirtaki anima a los comensales a levantarse de sus mesas, y la tradición griega de romper platos aporta ese toque interactivo en torno al cual gira la velada. Las sesiones de DJ en directo amenizan la última parte de la velada, creando un ambiente nocturno en el comedor, con narguiles disponibles durante la madrugada. La comida se sirve a lo largo del espectáculo, en lugar de antes de este, de modo que la cena y la actuación se desarrollan simultáneamente a lo largo de la noche.</p><h3>El local y el entorno</h3><p>Ilios es un restaurante de cocina griega y mediterránea inaugurado por el Grupo Anderson’s en 2020, que se inspira en la gastronomía de diferentes regiones de Grecia. Las rústicas paredes de piedra, los olivos y la iluminación tenue evocan el paisaje griego, y el servicio se mantiene atento incluso cuando los artistas comienzan a moverse entre las mesas y la música se va intensificando. Sigue siendo, ante todo, un restaurante, y el personal se encarga de las bebidas, los platos y las celebraciones en grupo mientras el espectáculo continúa por todo el local. El espacio es ideal tanto para parejas como para grupos de cumpleaños y celebraciones más numerosas. Se aplica un código de vestimenta: se requiere ropa elegante informal o elegante, y no se aceptan trajes de baño, ropa deportiva ni atuendos de playa.</p><h3>Dónde se desarrolla la noche en la carretera de la playa</h3><p>El restaurante se encuentra en la Zona Hotelera, cerca de Bagatelle, Bonbonniere, Vagalume y Porfirio’s, por lo que puedes pasar de la cena a varios locales de fiesta de renombre sin salir de este tramo de la carretera de la playa. Esto convierte a Ilios en una opción ideal para grupos que desean que la cena forme parte de una velada más larga, con todo el espectáculo desarrollándose dentro del comedor. Una reserva más temprana permite centrarse más en la comida, mientras que una reserva más tardía sitúa el entretenimiento en el centro de la velada. En Nochevieja, el ambiente en el local va creciendo hasta la cuenta atrás de medianoche para dar la bienvenida al 2027.</p><h3>Planifica tu Nochevieja</h3><p>La velada tendrá lugar en Ilios Tulum, Carr. Tulum–Boca Paila, km 8, en la Zona Hotelera, el jueves 31 de diciembre de 2026. La carretera de la playa se llena de gente el 31 de diciembre, así que sal con antelación o pide a Tulum Bible que te organice un servicio de recogida. Aún se están confirmando las mesas y la distribución del local, lo que supone una razón más para asegurar tu plaza ahora mismo. Reserva a través del botón de esta página y recibirás un enlace de pago para confirmar tu plaza para la cena de tres platos y la cuenta atrás de medianoche.</p>",
+          "description": "Ilios Tulum da la bienvenida al 2027 con una cena griega de tres platos, en la que se puede elegir un entrante, un plato principal y un postre de un menú fijo, seguida de un espectáculo de bailarines con fuego y la cuenta atrás de medianoche.",
+          "hubBlurb": "<p><strong>Ilios Tulum</strong>, el restaurante griego de la Zona Hotelera, da la bienvenida al 2027 con una cena de Nochevieja de tres platos. Elige tu entrante, plato principal y postre de un menú fijo: ensalada griega, carpaccio de ternera trufado o pulpo para empezar; costillas de cordero de Colorado, orzo con cangrejo o totoaba al horno de piedra como plato principal; y baklava o sokolatina para terminar. A medianoche, 12 uvas, una copa de Moët &amp; Chandon y fuegos artificiales.</p><p><strong>Fecha:</strong> jueves, 31 de diciembre de 2026<br><strong>Hora:</strong> a partir de las 20:00<br><strong>Precio:</strong> 6.000 MXN por persona<br><strong>Incluye:</strong> Cena de tres platos, kit de fiesta, 12 uvas, una copa de champán y fuegos artificiales<br><strong>Reservas:</strong> A través de Tulum Bible</p>",
+          "name": "NYE 2027 at Ilios",
+          "slug": "nye-2027-ilios-tulum",
+          "tableInformation": ""
+        }
+      }
+    },
     {
       "base": {
         "afterEnd": "archive",
