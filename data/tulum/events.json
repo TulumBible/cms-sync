@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-10T01:47:49.718Z",
+  "syncedAt": "2026-11-10T01:50:33.447Z",
   "citySlug": "tulum",
   "events": [
     {
@@ -146,6 +146,134 @@
           "name": "Maxi Meraki at Tulum",
           "slug": "maxi-meraki-bonbonniere-tulum-2027",
           "tableInformation": "<p>Los precios de las mesas no incluyen el 15 % de cargo por servicio. Cada mesa incluye la entrada para 10 comensales, y el precio de la mesa se destina a la comida y la bebida. No se pueden añadir comensales adicionales a una mesa: los grupos de más de 10 personas deben reservar una segunda mesa. No se garantiza la ubicación exacta de la mesa.</p>"
+        }
+      }
+    },
+    {
+      "base": {
+        "afterEnd": "archive",
+        "buyLink": "https://wa.me/529841457101?text=Hello!%20I'm%20interested%20in%20tickets%20or%20a%20table%20for%20Darco%20at%20Bonbonniere%20Tulum%20(Wednesday%2C%20December%2030%2C%202026)",
+        "categoryIds": [],
+        "cta": "Tickets",
+        "displayPrice": "MXN $500",
+        "endDate": "2026-12-30T23:59",
+        "eventType": "NightClub",
+        "faqIds": [],
+        "flyerImage": {
+          "alt": "Bonbonniere Tulum flyer: Darco with Renê and Gio de Lira, December 30.",
+          "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/791daf43-3c09-41ec-fa31-efd366324c00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+        },
+        "gaLink": null,
+        "gaPrice": null,
+        "hubImage": {
+          "alt": "Bonbonniere Tulum banner: Darco, Renê and Gio de Lira, December 30.",
+          "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/a9976e3e-d282-4fc9-7bd4-e3d935da8300/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+        },
+        "isFeatured": false,
+        "isPublished": true,
+        "lineup": [
+          "DAROO",
+          "RENÊ",
+          "GIO DE LIRA"
+        ],
+        "noPrice": false,
+        "promotion": "normal",
+        "publishedAt": null,
+        "qrCode": "M0 0.5h7m1 0h2m1 0h6m1 0h3m6 0h1m1 0h2m1 0h2m1 0h2m1 0h1m3 0h1m3 0h7M0 1.5h1m5 0h1m1 0h4m4 0h1m2 0h2m1 0h2m2 0h1m1 0h4m1 0h1m3 0h4m1 0h2m2 0h1m5 0h1M0 2.5h1m1 0h3m1 0h1m1 0h1m1 0h3m1 0h1m2 0h2m2 0h4m2 0h2m1 0h2m1 0h1m1 0h1m2 0h1m1 0h1m2 0h1m2 0h1m1 0h3m1 0h1M0 3.5h1m1 0h3m1 0h1m1 0h3m4 0h2m2 0h1m5 0h1m1 0h1m3 0h1m2 0h1m2 0h2m2 0h2m1 0h1m1 0h1m1 0h3m1 0h1M0 4.5h1m1 0h3m1 0h1m2 0h2m3 0h1m1 0h4m1 0h1m2 0h5m3 0h1m1 0h3m5 0h1m3 0h1m1 0h3m1 0h1M0 5.5h1m5 0h1m1 0h1m1 0h2m1 0h2m2 0h1m3 0h4m3 0h4m1 0h1m4 0h3m1 0h1m3 0h1m5 0h1M0 6.5h7m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h7M10 7.5h1m1 0h2m3 0h2m1 0h1m2 0h2m3 0h1m1 0h2m6 0h3m1 0h3M0 8.5h2m2 0h3m2 0h1m1 0h5m1 0h1m1 0h3m2 0h7m6 0h1m2 0h3m1 0h1m2 0h1m1 0h4M0 9.5h1m1 0h1m1 0h2m4 0h1m3 0h1m3 0h1m1 0h2m1 0h1m1 0h1m1 0h1m2 0h2m1 0h2m1 0h1m5 0h1m4 0h1m1 0h1m1 0h2M2 10.5h2m2 0h1m1 0h1m2 0h3m2 0h4m1 0h1m3 0h2m1 0h1m3 0h1m1 0h1m1 0h2m5 0h2m1 0h1m1 0h2m2 0h1M1 11.5h1m1 0h1m7 0h1m1 0h1m1 0h2m3 0h1m3 0h1m3 0h4m5 0h2m1 0h1m1 0h4m3 0h1m1 0h2M0 12.5h3m2 0h3m9 0h2m1 0h5m1 0h5m1 0h2m2 0h1m1 0h3m1 0h4m3 0h2M0 13.5h6m4 0h3m1 0h2m1 0h3m5 0h1m1 0h1m1 0h2m2 0h1m1 0h2m1 0h3m1 0h1m2 0h1m2 0h3M0 14.5h1m1 0h3m1 0h1m1 0h1m3 0h3m1 0h2m1 0h2m4 0h2m1 0h1m2 0h2m1 0h4m2 0h2m2 0h1m1 0h5m1 0h1M0 15.5h1m6 0h1m1 0h4m1 0h2m4 0h1m1 0h1m2 0h1m1 0h2m1 0h2m7 0h4m1 0h5m2 0h1M1 16.5h4m1 0h1m1 0h1m9 0h1m1 0h1m3 0h1m1 0h1m1 0h1m1 0h1m2 0h1m1 0h3m1 0h1m1 0h4m3 0h1m2 0h2M0 17.5h1m6 0h2m1 0h2m1 0h9m3 0h1m1 0h1m1 0h1m1 0h2m2 0h2m1 0h2m1 0h2m1 0h1m2 0h2m2 0h2M1 18.5h2m1 0h4m2 0h1m1 0h1m1 0h2m2 0h4m3 0h1m1 0h1m1 0h1m2 0h1m1 0h3m2 0h1m3 0h2m7 0h1M4 19.5h1m2 0h1m1 0h1m2 0h2m3 0h1m2 0h2m3 0h1m2 0h3m6 0h2m1 0h1m1 0h3m5 0h3M5 20.5h3m2 0h1m1 0h1m1 0h1m5 0h3m2 0h2m1 0h2m2 0h2m1 0h1m1 0h3m2 0h3m2 0h2m1 0h2M1 21.5h1m1 0h1m3 0h2m1 0h1m3 0h5m2 0h1m4 0h2m7 0h1m1 0h1m1 0h2m5 0h2m1 0h1m1 0h1M1 22.5h1m3 0h2m2 0h1m1 0h1m3 0h1m2 0h3m4 0h4m3 0h1m1 0h4m1 0h1m1 0h1m3 0h4m1 0h1m1 0h1M0 23.5h2m1 0h2m2 0h1m2 0h2m1 0h1m1 0h1m1 0h2m1 0h1m1 0h2m1 0h2m1 0h4m1 0h1m4 0h3m1 0h1m2 0h4m2 0h2M2 24.5h8m1 0h1m1 0h3m1 0h1m2 0h2m1 0h6m3 0h2m2 0h1m1 0h3m2 0h7m2 0h1M2 25.5h1m1 0h1m3 0h2m1 0h1m2 0h1m3 0h2m1 0h1m2 0h1m3 0h2m1 0h1m1 0h1m1 0h2m1 0h3m1 0h1m1 0h1m3 0h5M0 26.5h3m1 0h1m1 0h1m1 0h3m3 0h1m1 0h3m2 0h1m1 0h2m1 0h1m1 0h1m3 0h1m1 0h1m1 0h1m2 0h1m4 0h1m1 0h1m1 0h1m3 0h1M1 27.5h2m1 0h1m3 0h4m1 0h1m1 0h2m3 0h5m3 0h1m1 0h2m1 0h1m4 0h1m1 0h1m1 0h1m1 0h1m3 0h5M1 28.5h10m2 0h2m2 0h2m1 0h2m1 0h8m1 0h4m1 0h2m2 0h2m1 0h8M0 29.5h2m1 0h2m4 0h4m1 0h2m2 0h2m1 0h1m4 0h3m1 0h1m1 0h2m2 0h1m2 0h1m3 0h1m2 0h3m2 0h1M1 30.5h4m1 0h1m2 0h1m3 0h2m2 0h1m3 0h1m1 0h1m2 0h3m2 0h2m1 0h4m3 0h1m2 0h3m2 0h4M2 31.5h1m1 0h1m2 0h1m2 0h2m2 0h2m4 0h1m2 0h1m2 0h1m1 0h4m1 0h1m3 0h2m1 0h1m1 0h1m3 0h1m1 0h1m3 0h1M0 32.5h1m1 0h2m1 0h3m2 0h2m6 0h1m1 0h1m2 0h1m3 0h1m1 0h1m1 0h3m3 0h2m2 0h2m1 0h1m1 0h4m2 0h1M0 33.5h1m2 0h2m6 0h1m1 0h6m1 0h2m4 0h1m1 0h2m2 0h1m2 0h1m1 0h1m1 0h2m1 0h2m2 0h4m1 0h2M2 34.5h3m1 0h2m1 0h1m1 0h2m1 0h2m1 0h2m1 0h1m5 0h1m1 0h1m2 0h6m2 0h1m1 0h1m1 0h2m5 0h1m1 0h1M2 35.5h1m1 0h2m1 0h1m5 0h2m2 0h2m1 0h1m1 0h1m8 0h1m2 0h1m3 0h1m1 0h3m2 0h8M0 36.5h2m2 0h4m1 0h1m1 0h3m1 0h1m1 0h1m2 0h1m2 0h1m4 0h2m2 0h4m2 0h2m1 0h2m7 0h1m1 0h1M2 37.5h3m2 0h1m2 0h1m3 0h2m1 0h3m4 0h1m1 0h1m1 0h2m1 0h1m1 0h3m2 0h2m1 0h5m1 0h2m2 0h1M0 38.5h1m3 0h1m1 0h1m1 0h1m1 0h1m5 0h1m1 0h3m2 0h1m2 0h1m1 0h1m3 0h1m1 0h1m6 0h1m5 0h4M1 39.5h1m2 0h1m2 0h1m1 0h1m1 0h3m3 0h2m1 0h1m1 0h4m4 0h2m1 0h1m3 0h2m1 0h1m1 0h1m1 0h1m1 0h1m1 0h2m1 0h2M1 40.5h1m1 0h1m1 0h2m3 0h2m1 0h3m1 0h1m2 0h2m1 0h3m1 0h1m2 0h1m3 0h3m1 0h1m2 0h1m1 0h1m1 0h4m2 0h2M1 41.5h3m3 0h2m1 0h2m2 0h1m3 0h2m1 0h1m2 0h1m1 0h1m1 0h1m2 0h1m1 0h2m4 0h6m2 0h1m1 0h2m1 0h1M0 42.5h2m1 0h4m3 0h1m2 0h2m1 0h1m4 0h1m4 0h4m2 0h1m1 0h4m1 0h1m3 0h2m2 0h1m1 0h1m2 0h1M1 43.5h2m4 0h3m3 0h4m3 0h2m1 0h2m3 0h1m1 0h2m1 0h1m3 0h2m1 0h1m1 0h1m2 0h4m2 0h1M3 44.5h1m2 0h2m3 0h1m2 0h2m2 0h1m1 0h9m1 0h5m5 0h1m1 0h1m1 0h5m1 0h3M8 45.5h2m7 0h2m2 0h1m1 0h2m3 0h1m1 0h1m1 0h2m2 0h1m1 0h2m3 0h2m3 0h1m1 0h2M0 46.5h7m7 0h1m2 0h1m1 0h3m1 0h2m1 0h1m1 0h1m3 0h1m1 0h1m1 0h2m1 0h1m1 0h1m2 0h1m1 0h1m1 0h3m1 0h1M0 47.5h1m5 0h1m1 0h1m4 0h3m4 0h1m3 0h1m3 0h3m2 0h1m4 0h1m1 0h2m1 0h2m3 0h2m2 0h1M0 48.5h1m1 0h3m1 0h1m1 0h2m1 0h1m1 0h2m3 0h1m1 0h2m2 0h5m2 0h1m2 0h2m3 0h1m4 0h6m2 0h1M0 49.5h1m1 0h3m1 0h1m6 0h1m1 0h4m2 0h1m1 0h1m2 0h1m2 0h1m3 0h1m4 0h2m2 0h3m4 0h1M0 50.5h1m1 0h3m1 0h1m2 0h2m4 0h1m2 0h8m1 0h1m4 0h1m1 0h3m2 0h1m5 0h1m1 0h1m1 0h1m1 0h2M0 51.5h1m5 0h1m1 0h1m1 0h1m8 0h1m1 0h2m3 0h1m1 0h4m1 0h1m3 0h4m1 0h1m3 0h1m2 0h1m1 0h2M0 52.5h7m1 0h1m3 0h1m1 0h2m1 0h2m1 0h1m1 0h2m3 0h1m2 0h1m1 0h2m1 0h5m5 0h1m2 0h1m1 0h2<!--vb:53-->",
+        "startDate": "2026-12-30",
+        "status": "Live",
+        "tableLayoutImage": {
+          "alt": "Bonbonniere Tulum table map: Backstage, Diamond, Platinum, Gold and Silver tables around the dance floor.",
+          "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/6bf222e0-24d2-4ace-49d9-c908e4e03e00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+        },
+        "tbeId": "TBE_MSYBPW",
+        "ticketPrice": null,
+        "ticketTiers": [
+          {
+            "currency": "MXN",
+            "id": "manual-darco26-ga-early",
+            "isTable": false,
+            "name": "General · Early Bird",
+            "price": 500,
+            "sortOrder": 0,
+            "status": "on_sale"
+          },
+          {
+            "currency": "MXN",
+            "id": "manual-darco26-table-silver",
+            "isTable": true,
+            "maxGuests": 10,
+            "name": "Silver + 15% service",
+            "price": 30000,
+            "sortOrder": 1,
+            "status": "on_sale"
+          },
+          {
+            "currency": "MXN",
+            "id": "manual-darco26-table-gold",
+            "isTable": true,
+            "maxGuests": 10,
+            "name": "Gold + 15% service",
+            "price": 40000,
+            "sortOrder": 2,
+            "status": "on_sale"
+          },
+          {
+            "currency": "MXN",
+            "id": "manual-darco26-table-platinum",
+            "isTable": true,
+            "maxGuests": 10,
+            "name": "Platinum + 15% service",
+            "price": 50000,
+            "sortOrder": 3,
+            "status": "on_sale"
+          },
+          {
+            "currency": "MXN",
+            "id": "manual-darco26-table-diamond",
+            "isTable": true,
+            "maxGuests": 10,
+            "name": "Diamond + 15% service",
+            "price": 60000,
+            "sortOrder": 4,
+            "status": "on_sale"
+          },
+          {
+            "currency": "MXN",
+            "id": "manual-darco26-table-backstage",
+            "isTable": true,
+            "maxGuests": 10,
+            "name": "Backstage + 15% service",
+            "price": 80000,
+            "sortOrder": 5,
+            "status": "on_sale"
+          }
+        ],
+        "time": "22:00 - Late",
+        "url": null,
+        "venueName": "Bonbonniere Tulum",
+        "venueSlug": "bonbonniere",
+        "vipLink": null,
+        "vipPrice": null
+      },
+      "convexId": "j579sx76pqbgnpn4vbevq0ek8s8hzscw",
+      "lastUpdated": "2026-11-10T01:50:18.532Z",
+      "locales": {
+        "en": {
+          "body": "<h2>Darco Takes the Funktion-One Room</h2>\n<p>Darco plays Bonbonniere Tulum on the night of December 30, a few hours before the New Year rush takes over the Hotel Zone. He is a Tel Aviv-based DJ and producer known for a dynamic sound and big energy behind the decks. At Bonbonniere he plays a set built to keep the floor moving from start to finish, built around deep grooves and driving electronic music. Doors open from 10:00 PM and tickets start at MXN $500. It is a Wednesday, the night before the season's biggest week peaks in the Hotel Zone.</p>\n<h3>Renê and Gio de Lira Open the Night</h3>\n<p>Renê and Gio de Lira open the night with warm-up sets before Darco takes over. They set the pace in the early hours, so arriving close to doors means you catch the room fill and the sound build rather than walking into a full floor. The three names make up the full lineup for the night: Darco headlining, with Renê and Gio de Lira ahead of him.</p>\n<h3>A Proper Indoor Club</h3>\n<p>Bonbonniere sits at km 4 on the Tulum–Boca Paila road in the Hotel Zone. Most of Tulum's big nights happen outdoors, in the jungle or on the sand. This is a proper nightclub instead: a red-lit room with a retractable roof that opens to the sky, and a Funktion-One sound system. In 2025 it entered DJ Mag's Top 100 Clubs poll for the first time, at No. 74, and the magazine called it the only true nightclub on Tulum's hotel strip. Mezzanine VIP tables look out over the dance floor.</p>\n<h3>General Entry and Table Tiers</h3>\n<p>General early-bird entry is MXN $500 and gets you into the venue at any time. It does not include a table, drinks, tips or transport. Tables start at MXN $30,000 plus 15% service for the Silver tier, each seating 10 guests. Above that run Gold at MXN $40,000, Platinum at MXN $50,000, Diamond at MXN $60,000 and Backstage at MXN $80,000, all for 10 guests plus 15% service.</p>\n<p>Each table price goes towards food and drink at the table. A table cannot add guests beyond its ten, so bigger groups need a second table. The exact spot of a table is not guaranteed. To book either general entry or a table, use the button on this page and you are sent a payment link.</p>\n<h3>Dress Code and Door Rules</h3>\n<p>The dress code is formal and elegant. No sandals, swimwear or sportswear, and no shorts, tank tops, caps or hats. Men need closed shoes. Entry is for guests aged 18 and over. Bring the physical card you paid with and a valid photo ID, as both are checked at the door.</p>\n<h3>Plan Your Night</h3>\n<p>The club is a short taxi ride from downtown Tulum, and valet parking is available. Doors open from 10:00 PM on the Wednesday night. This suits a group who want a real club night after dinner in the Hotel Zone: a closed room, a serious sound system and house and techno until late. Book general entry or a table through the button on this page.</p>",
+          "description": "Tel Aviv DJ Darco brings deep grooves and driving electronic music to Bonbonniere's indoor club, with Renê and Gio de Lira warming up the Funktion-One room.",
+          "hubBlurb": "<p><strong>Darco plays Bonbonniere Tulum</strong>, with Renê and Gio de Lira warming up.</p><p>A night of deep grooves and driving electronic music at one of Tulum's best-known nightclubs.</p><p><strong>Date:</strong> Wednesday, December 30, 2026, from 10:00 PM<br><strong>Lineup:</strong> Darco, Renê, Gio de Lira<br><strong>Tickets:</strong> General · Early Bird MXN $500<br><strong>Tables:</strong> From MXN $30,000 + 15% service for 10<br><strong>Dress code:</strong> Formal and elegant<br><strong>Book:</strong> Through Tulum Bible</p>",
+          "name": "Darco at Tulum",
+          "slug": "darco-bonbonniere-tulum-2026",
+          "tableInformation": "<p>Table prices are before a 15% service charge. Each table includes entry for 10 guests, and the table price goes towards food and drink. Tables can't add guests: groups of more than 10 need a second table. A table's exact spot isn't guaranteed.</p>"
+        },
+        "es": {
+          "body": "<h2>Darco se adueña de la sala Funktion-One</h2>\n<p>Darco pinchará en Bonbonniere Tulum la noche del 30 de diciembre, unas horas antes de que la fiebre de Año Nuevo se apodere de la Zona Hotelera. Es un DJ y productor afincado en Tel Aviv, conocido por su sonido dinámico y su gran energía tras los platos. En Bonbonniere pincha una sesión diseñada para mantener la pista en movimiento de principio a fin, basada en ritmos profundos y música electrónica enérgica. Las puertas se abren a las 22:00 y las entradas cuestan a partir de 500 pesos mexicanos. Es miércoles, la noche antes de que la semana más importante de la temporada alcance su punto álgido en la Zona Hotelera.</p>\n<h3>Renê y Gio de Lira abren la noche</h3>\n<p>Renê y Gio de Lira abrirán la noche con sesiones de calentamiento antes de que Darco tome el relevo. Ellos marcan el ritmo en las primeras horas, así que llegar poco después de que se abran las puertas te permitirá ver cómo se va llenando la sala y cómo va creciendo el sonido, en lugar de entrar en una pista ya llena. Estos tres nombres conforman el cartel completo de la noche: Darco como cabeza de cartel, con Renê y Gio de Lira como teloneros.</p>\n<h3>Un auténtico club cubierto</h3>\n<p>Bonbonniere se encuentra en el km 4 de la carretera Tulum–Boca Paila, en la Zona Hotelera. La mayoría de las grandes noches de Tulum tienen lugar al aire libre, en la selva o en la arena. Este, en cambio, es un auténtico club nocturno: una sala iluminada con luz roja, con un techo retráctil que se abre al cielo y un sistema de sonido Funktion-One. En 2025 entró por primera vez en la lista de los 100 mejores clubes de DJ Mag, en el puesto n.º 74, y la revista lo calificó como la única discoteca auténtica de la zona hotelera de Tulum. Las mesas VIP del entresuelo ofrecen vistas a la pista de baile.</p>\n<h3>Entrada general y categorías de mesas</h3>\n<p>La entrada general anticipada cuesta 500 MXN y permite acceder al local a cualquier hora. No incluye mesa, bebidas, propinas ni transporte. Las mesas empiezan en 30 000 MXN más un 15 % de servicio para el nivel Silver, con capacidad para 10 personas cada una. Por encima de esta categoría se encuentran las de Oro a 40 000 MXN, Platino a 50 000 MXN, Diamante a 60 000 MXN y Backstage a 80 000 MXN, todas con capacidad para 10 invitados más un 15 % de servicio.</p>\n<p>El precio de cada mesa incluye la comida y la bebida que se consuma en ella. No se pueden añadir comensales adicionales a una mesa más allá de los diez, por lo que los grupos más grandes necesitarán una segunda mesa. No se garantiza la ubicación exacta de las mesas. Para reservar una entrada general o una mesa, utiliza el botón de esta página y se te enviará un enlace de pago.</p>\n<h3>Código de vestimenta y normas de acceso</h3>\n<p>El código de vestimenta es formal y elegante. No se admiten sandalias, ropa de baño ni ropa deportiva, ni pantalones cortos, camisetas sin mangas, gorras o sombreros. Los hombres deben llevar calzado cerrado. La entrada es para mayores de 18 años. Trae la tarjeta física con la que hayas pagado y un documento de identidad válido con fotografía, ya que ambos se comprobarán en la puerta.</p>\n<h3>Planifica tu noche</h3>\n<p>El club se encuentra a un breve trayecto en taxi del centro de Tulum y dispone de servicio de aparcacoches. Las puertas se abren a partir de las 22:00 h del miércoles por la noche. Es ideal para un grupo que quiera disfrutar de una auténtica noche de discoteca después de cenar en la Zona Hotelera: una sala privada, un potente sistema de sonido y música house y techno hasta altas horas de la madrugada. Reserva una entrada general o una mesa a través del botón de esta página.</p>",
+          "description": "El DJ Darco, de Tel Aviv, trae ritmos profundos y música electrónica enérgica a la sala interior de Bonbonniere, mientras que Renê y Gio de Lira se encargan de calentar el ambiente en la sala Funktion-One.",
+          "hubBlurb": "<p><strong>Darco pincha en Bonbonniere Tulum</strong>, con Renê y Gio de Lira como teloneros.</p><p>Una noche de ritmos profundos y música electrónica enérgica en una de las discotecas más conocidas de Tulum.</p><p><strong>Fecha:</strong> miércoles, 30 de diciembre de 2026, a partir de las 22:00 h<br><strong>Cartel:</strong> Darco, Renê, Gio de Lira<br><strong>Entradas:</strong> General · Venta anticipada: 500 MXN<br><strong>Mesas:</strong> desde 30 000 MXN + 15 % de servicio para 10 personas<br><strong>Código de vestimenta:</strong> formal y elegante<br><strong>Reservas:</strong> A través de Tulum Bible</p>",
+          "name": "Darco at Tulum",
+          "slug": "darco-bonbonniere-tulum-2026",
+          "tableInformation": "<p>Los precios de las mesas no incluyen el 15 % de cargo por servicio. Cada mesa incluye la entrada para 10 comensales, y el precio de la mesa se destina a comida y bebida. No se pueden añadir comensales adicionales a una mesa: los grupos de más de 10 personas deben reservar una segunda mesa. No se garantiza la ubicación exacta de la mesa.</p>"
         }
       }
     },
