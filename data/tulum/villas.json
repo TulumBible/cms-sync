@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-08T04:48:55.720Z",
+  "syncedAt": "2026-11-11T01:17:07.134Z",
   "citySlug": "tulum",
   "villas": [
     {
@@ -2463,6 +2463,220 @@
           "metaDescription": "Villa Chica: villa privada frente al mar en Zona Hotelera Tulum con chef y acceso directo a playa. Tarifas en Tulum Bible.",
           "name": "Villa Chica",
           "slug": "villa-chica"
+        }
+      }
+    },
+    {
+      "base": {
+        "amenityIds": [
+          "jn76cg9jqcvq6gh3xwf0cj2c2s859sx2",
+          "jn7dnm1kp63ahnqvjhhyz7944d859qpv",
+          "jn796fkb2npe38c126gkzmhe85858yf5",
+          "jn70zn5gpwjkfxwnbkd4948rv5859d8d",
+          "jn78c0kww3ghntsrs0x74x0whx85j8ft",
+          "jn745gcv24kd3xd6vz8ce4t3sx85jt5w",
+          "jn7fwddn9rz72mz61sn4tj4qbs85kb4h",
+          "jn705g0j2n2cepzkmt4gd3jxr585kbvm",
+          "jn759h6mpgpqbe74w1z2sbj4r585k9x3",
+          "jn7aqn3qjzw3j6qmesp89m823s85kby8",
+          "jn7brzqrezwp2cn80n84arv4t985k77w",
+          "jn72g2rwy1fpwjhq9pjfzd4fdh85ke31",
+          "jn7dw853ezsj5gj6xf6te5gcpn85kxym"
+        ],
+        "area": "uptown",
+        "bathrooms": null,
+        "bedrooms": "2–4",
+        "beds": null,
+        "category": "villa",
+        "categoryIds": [],
+        "faqIds": [],
+        "googleMapsCode": "6G97+52 Tulum, Quintana Roo",
+        "images": [
+          {
+            "alt": "AMARI Uptown pool courtyard with white stone walls draped in green vines, tropical plants, lounge chairs, and interior",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/3be39f09-bc24-4bd8-6492-100f4d99a800/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "AMARI Uptown's courtyard with loungers facing a narrow pool, surrounded by beige walls, tropical plants, and a dining area",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/cfe72bcc-1441-4bed-4d47-e6896683bb00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "AMARI Uptown courtyard with narrow pool, lounge chairs, ivy-covered walls, and white building with arched windows under blue",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/0087efca-ab3b-4c6f-04ac-8375d842fe00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "AMARI Uptown's courtyard with lounge chairs, tropical plants, and open kitchen visible through glass doors",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/c8dd36ae-b219-4302-13c8-922f5b5adc00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "AMARI Uptown dining room with woven chairs, white stone walls, wooden beams, and open kitchen with living area visible in",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/42a0feb7-4598-4841-0398-34b94617f200/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "AMARI Uptown dining room with white table, woven chairs, and open kitchen with wooden shelving and view to tropical garden.",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/9b5fddf9-d7b0-448e-07c9-ce266898db00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "AMARI Uptown kitchen with wood cabinetry, island with woven chairs, stainless steel appliances, and exposed beam ceiling.",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/a3d98534-e326-4d32-f4cb-7200d9c8e000/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "AMARI Uptown dining room and lounge with wooden beams, stone walls, white marble island, and floor-to-ceiling windows",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/2c074512-8121-437b-1fc6-d391ea438400/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "AMARI Uptown kitchen with wooden shelves, stainless steel appliances, and a window with geometric black frames on cream",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/a01bc7d4-d4c1-499a-9779-07f56c7b7300/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "AMARI Uptown living room with stone archway, wooden furniture, cream cushions, and garden views through glass doors",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/a581bafb-1abc-4038-d9df-20a243a7db00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "AMARI Uptown living room with wooden beams, natural materials, and glass doors opening to a courtyard with pool and climbing",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/75489c81-aaec-469e-d4a2-ade91cf35000/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "AMARI Uptown open-plan living area with wood-beamed ceiling, kitchen with island seating, and lounge with television and",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/a04c97db-50f6-44c8-d0f5-833e6c4be900/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "AMARI Uptown bathroom with cream vanity, white vessel sink, woven baskets, wooden mirror frame, and black fixtures",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/c5761562-e78d-4cb2-2800-6476c9c1a000/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Entrance corridor at AMARI Uptown with stone walls, climbing vines, potted plants, and wooden door opening to warm-lit",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/2e637baf-7f7f-4103-d605-a3c3b4403a00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Bedroom at AMARI Uptown with wooden bed frame, white linens, pendant lights, arched mirror, and cream-colored walls.",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/1308100c-1794-4bce-1d5f-ef94b36b2800/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "AMARI Uptown bedroom with wooden bed, white bedding, mid-century modern pendant lights, built-in wooden cabinetry, and cream",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/b052c8e0-b137-458b-dc78-d3f065754600/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "AMARI Uptown bedroom with wooden cabinetry, wall-mounted TV, and sliding glass doors opening to a private pool surrounded by",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/60f03077-3c8f-48d0-b05e-d07cb789f200/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "AMARI Uptown bathroom with dual vanity sink, arched mirror, warm wood cabinetry, and woven storage baskets.",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/431f2585-9360-4fa1-4dfb-24107fa36200/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "AMARI Uptown bathroom with cream marble walls, walk-in shower with glass enclosure, white toilet, and black fixtures.",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/810426f4-7fee-45c0-c2e9-c7c8b3babd00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "AMARI Uptown outdoor soaking tub surrounded by tropical plants and wooden privacy fence",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/44e5b9be-51bf-46d4-2d1b-2a1b4dea5500/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Stone stairway at AMARI Uptown with yellow accent lighting and green plants flanking the walls",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/9a77cba3-de87-42bb-40de-ad05a849be00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "AMARI Uptown bedroom with wooden bed frame, white linens, arched window overlooking garden, and woven pendant lights",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/866cfdfc-69ca-4806-9a06-36b908537800/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "AMARI Uptown bedroom with wooden bed frame, white linens, woven pendant lights, built-in wood cabinetry, and ensuite",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/36b27971-68ad-42a8-b54c-4ae4ada29d00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "AMARI Uptown bedroom with white bed, wall-mounted TV, arched windows overlooking tropical gardens, and modern sconces.",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/55cf2096-8668-4fc8-7d92-3b9bb6885200/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "AMARI Uptown bathroom with dual sinks, glass shower enclosure, and warm lighting throughout",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/403f5f5c-cf0e-4af8-f51c-9715b902e800/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Hallway at AMARI Uptown with wooden doors, potted plants, and view of sky through arched window",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/1ced9b83-b320-4094-a756-b42daf408200/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "AMARI Uptown bedroom with wooden bed, built-in wardrobes, ceiling fan, and ensuite bathroom visible through open door",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/80556b10-be02-4082-fd61-200c11146400/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "AMARI Uptown bedroom with arched window overlooking tropical vegetation, wooden furnishings, cream walls, and modern",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/c3de9412-bbe2-4493-e90f-08e33e37bd00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "AMARI Uptown terrace with wooden chairs and side table against a cream wall, tropical plants and yellow lights above",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/4afa84ee-cc58-4e0f-206e-04495fb73400/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "AMARI Uptown private terrace with wooden chairs, side table, and tropical plants under blue sky in Tulum.",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/7785cc6c-5054-49a4-3cdb-446ea44e8200/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "AMARI Uptown bedroom with queen bed, wooden headboard, pendant lights, and seating nook by arched window overlooking garden.",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/f8cc1ae4-ed9a-4a47-66c2-9523bce17c00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "AMARI Uptown bedroom with white bed, wooden built-in shelving, wall-mounted TV, and large arched window overlooking tropical",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/21bec1f1-fd90-443d-b732-cd6429284d00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "AMARI Uptown bathroom with cream limestone walls, floating vanity with dual sinks, glass shower enclosure, and wood accents",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/ec8a5cbc-6620-4a01-a8ee-e43d2aea1500/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "AMARI Uptown's covered terrace with wooden pergola, bar counter, seating area, and views of tropical vegetation under blue",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/a45936f2-e515-4e8a-7c2d-4558dd1d3300/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "AMARI Uptown terrace with wooden pergola, bar counter, dining seating, and tropical garden views under dappled sunlight.",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/bf52d54f-e521-4ddf-6370-4fefd7b10800/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "AMARI Uptown's covered terrace with wooden beams, outdoor kitchen, dining table, and views of tropical vegetation.",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/4c487ad4-c2ba-4f78-c922-66a674ddf100/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "AMARI Uptown dining deck with wooden table set for four, shaded by wooden pergola, overlooking tropical gardens and blue sky.",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/9a69b2fa-bc9a-4fb3-184c-5fb192c47000/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "AMARI Uptown terrace with dining table, black sofa, and lounge chairs under wooden pergola casting geometric shadows",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/f5cd13c7-8e4f-4a54-d37a-d4b8e17c3800/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "AMARI Uptown dining terrace with wooden table set for four, kitchen visible on right, beige walls and wooden beams overhead",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/129e9b2e-f104-4a9c-cf46-f1e92460af00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "AMARI Uptown dining area with wooden table and chairs under a pergola, overlooking tropical vegetation and sky.",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/bac74acd-e5c5-4d28-7f02-c7e426b78300/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "AMARI Uptown's rectangular pool with shallow water and sand bottom, surrounded by palm trees and tropical vegetation on a",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/856e1138-2e4c-4ba2-38b7-e1cecb773e00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          }
+        ],
+        "pricePerNight": "$450 USD",
+        "reviewIds": [],
+        "sleeps": "6+"
+      },
+      "convexId": "kh7f6083r3v16ss4js1p8r7qt58hy2nz",
+      "lastUpdated": "2026-11-11T01:16:52.143Z",
+      "locales": {
+        "en": {
+          "body": "<h2>AMARI Uptown: private villas with hotel amenities</h2><p>AMARI Uptown is a gated community of 46 villas on the quiet north side of Tulum, of which 16 can be rented. Every villa is a private home with its own pool, a full kitchen and indoor-outdoor living spaces. Around them sit the things a villa usually lacks: a full-service spa, a gym, a yoga studio, a sauna, a cold plunge, a 12-person jetted whirlpool, a shared pool and an on-site restaurant.</p><p>It suits travellers who want the privacy of a villa without giving up hotel comforts. A 24/7 concierge handles reservations, drivers and transfers, and the entrance is gated and staffed around the clock.</p><h3>2, 3 and 4-bedroom villas</h3><p>The villas come in four models, from two to four bedrooms. A three-bedroom villa sleeps six and a four-bedroom villa sleeps eight. Bedrooms have air conditioning, ceiling fans and ensuite bathrooms.</p><h3>Book several villas for a group</h3><p>Because the villas sit side by side behind one gate, a larger group can book two, three or more and stay together while keeping separate bedrooms, pools and kitchens. It works well for families travelling together, friends' trips, retreats and celebrations. Tell us your group size and dates and we will find the right combination of villas.</p><h3>What makes it different</h3><ul><li>Filtered, drinkable water from every tap, which is rare in Tulum.</li><li>Full generator backup for air conditioning, WiFi and water.</li><li>A quiet, residential setting rather than a party development.</li><li>A free shuttle to the beach and downtown.</li></ul><h3>Location</h3><p>AMARI Uptown sits inland on the north side of town, about 10 minutes by car from the beach and from downtown Tulum, and around 35 minutes from Tulum airport. It is not walking distance to the beach; the trade-off is a cooler, quieter base with the beach a short ride away.</p>",
+          "description": "A gated community of private villas with hotel amenities. Each villa has 2 to 4 bedrooms, its own pool and kitchen, with a spa, gym and restaurant on site. Groups can book several villas side by side.",
+          "metaDescription": "AMARI Uptown Tulum: private 2–4 bedroom villas with their own pools, plus a spa, gym and restaurant behind one gate. Book one villa or several for a group.",
+          "name": "AMARI Uptown",
+          "slug": "amari-uptown"
+        },
+        "es": {
+          "body": "<h2>AMARI Uptown: villas privadas con servicios de hotel</h2><p>AMARI Uptown es una urbanización cerrada de 46 villas situada en la tranquila zona norte de Tulum, de las cuales 16 se pueden alquilar. Cada villa es una vivienda privada con su propia piscina, una cocina totalmente equipada y zonas de estar tanto interiores como exteriores. A su alrededor se encuentran todo aquello de lo que suele carecer una villa: un spa con todos los servicios, un gimnasio, un estudio de yoga, una sauna, una piscina de agua fría, un jacuzzi con chorros para 12 personas, una piscina compartida y un restaurante en el propio complejo.</p><p>Es ideal para viajeros que buscan la privacidad de una villa sin renunciar a las comodidades de un hotel. Un servicio de conserjería disponible las 24 horas del día se encarga de las reservas, los conductores y los traslados, y la entrada está vigilada y cuenta con personal las 24 horas.</p><h3>Villas de 2, 3 y 4 dormitorios</h3><p>Las villas se ofrecen en cuatro modelos, de dos a cuatro dormitorios. Una villa de tres dormitorios tiene capacidad para seis personas y una de cuatro dormitorios, para ocho. Los dormitorios cuentan con aire acondicionado, ventiladores de techo y baños en suite.</p><h3>Reserva varias villas para un grupo</h3><p>Dado que las villas se encuentran una al lado de la otra tras una misma verja, un grupo más numeroso puede reservar dos, tres o más y alojarse juntos, al tiempo que dispone de dormitorios, piscinas y cocinas independientes. Es una opción ideal para familias que viajan juntas, viajes entre amigos, retiros y celebraciones. Indícanos el tamaño de tu grupo y las fechas, y encontraremos la combinación adecuada de villas.</p><h3>¿Qué las hace diferentes?</h3><ul><li>Agua filtrada y potable en todos los grifos, algo poco habitual en Tulum.</li><li>Generador de respaldo completo para el aire acondicionado, el wifi y el agua.</li><li>Un entorno tranquilo y residencial, en lugar de un complejo de fiesta.</li><li>Un servicio de transporte gratuito a la playa y al centro de la ciudad.</li></ul><h3>Ubicación</h3><p>AMARI Uptown se encuentra en el interior, en la zona norte de la ciudad, a unos 10 minutos en coche de la playa y del centro de Tulum, y a unos 35 minutos del aeropuerto de Tulum. No se puede ir andando a la playa; a cambio, se disfruta de un entorno más fresco y tranquilo, con la playa a un breve trayecto en coche.</p>",
+          "description": "Una urbanización cerrada de villas privadas con servicios de hotel. Cada villa cuenta con entre 2 y 4 dormitorios, piscina y cocina propias, además de un spa, un gimnasio y un restaurante en el recinto. Los grupos pueden reservar varias villas contiguas.",
+          "metaDescription": "AMARI Uptown Tulum: villas privadas de 2 a 4 dormitorios con piscina, spa, gimnasio y restaurante. Reserva para grupos.",
+          "name": "AMARI Uptown",
+          "slug": "amari-uptown"
         }
       }
     }
