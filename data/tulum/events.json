@@ -1,7 +1,142 @@
 {
-  "syncedAt": "2026-11-11T20:02:51.968Z",
+  "syncedAt": "2026-11-11T23:21:31.583Z",
   "citySlug": "tulum",
   "events": [
+    {
+      "base": {
+        "afterEnd": "archive",
+        "buyLink": "https://tf.link/ogczp7fe",
+        "categoryIds": [],
+        "cta": "Tickets",
+        "displayPrice": "MXN $190",
+        "endDate": "2026-11-20T23:59",
+        "eventType": "BeachClub",
+        "faqIds": [],
+        "flyerImage": {
+          "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/01fc7c58-5d28-44b4-6a20-697068d40c00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+        },
+        "gaLink": null,
+        "gaPrice": null,
+        "hubImage": null,
+        "isFeatured": false,
+        "isPublished": true,
+        "lineup": [],
+        "noPrice": false,
+        "promotion": "normal",
+        "publishedAt": null,
+        "qrCode": "M0 0.5h7m1 0h1m1 0h1m1 0h2m2 0h6m1 0h1m2 0h1m1 0h1m1 0h7M0 1.5h1m5 0h1m2 0h4m1 0h1m2 0h2m1 0h1m1 0h5m1 0h1m1 0h1m5 0h1M0 2.5h1m1 0h3m1 0h1m1 0h3m2 0h4m1 0h3m1 0h1m1 0h2m4 0h1m1 0h3m1 0h1M0 3.5h1m1 0h3m1 0h1m1 0h3m1 0h4m4 0h1m1 0h1m1 0h5m1 0h1m1 0h3m1 0h1M0 4.5h1m1 0h3m1 0h1m1 0h1m2 0h2m1 0h3m1 0h2m1 0h1m2 0h1m1 0h3m1 0h1m1 0h3m1 0h1M0 5.5h1m5 0h1m3 0h2m5 0h4m1 0h1m1 0h1m5 0h1m5 0h1M0 6.5h7m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h7M10 7.5h1m1 0h1m1 0h5m3 0h3m2 0h2M0 8.5h4m2 0h1m1 0h1m1 0h3m1 0h2m1 0h5m1 0h1m2 0h4m2 0h3m1 0h1M0 9.5h3m5 0h3m1 0h2m1 0h2m1 0h6m4 0h1m2 0h1m1 0h3M3 10.5h1m2 0h1m1 0h1m2 0h2m3 0h1m3 0h1m1 0h3m3 0h2m1 0h1m2 0h2M0 11.5h1m2 0h3m1 0h1m2 0h1m2 0h1m4 0h1m1 0h1m2 0h8m3 0h3M3 12.5h4m3 0h1m1 0h3m2 0h1m4 0h2m1 0h1m1 0h4m1 0h3m1 0h1M0 13.5h1m1 0h3m3 0h1m2 0h2m1 0h4m1 0h3m1 0h3m1 0h2m1 0h5m1 0h1M4 14.5h3m1 0h2m1 0h1m1 0h2m4 0h2m3 0h3m3 0h1m1 0h2m1 0h1M2 15.5h1m2 0h1m2 0h1m1 0h2m2 0h3m3 0h3m3 0h1m1 0h1m2 0h3m2 0h1M1 16.5h1m3 0h2m3 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h2m3 0h1m1 0h2m5 0h2M1 17.5h2m1 0h2m2 0h2m5 0h1m1 0h1m2 0h2m1 0h4m2 0h2m2 0h1m1 0h2M2 18.5h2m2 0h1m3 0h1m2 0h3m4 0h3m1 0h1m2 0h2m1 0h3m1 0h3M0 19.5h1m2 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h2m1 0h4m2 0h3m3 0h2m1 0h1m1 0h1m1 0h1M0 20.5h3m3 0h1m1 0h3m2 0h7m1 0h1m2 0h1m1 0h3m2 0h3m1 0h1M0 21.5h3m1 0h1m2 0h1m2 0h1m5 0h1m2 0h3m1 0h1m2 0h1m1 0h2m5 0h1M0 22.5h2m2 0h6m4 0h1m1 0h2m4 0h5m4 0h1M0 23.5h2m3 0h1m1 0h1m3 0h4m4 0h1m4 0h2m3 0h6M0 24.5h1m2 0h1m1 0h2m2 0h3m3 0h3m4 0h1m3 0h5m1 0h5M1 25.5h3m1 0h1m5 0h1m1 0h1m1 0h3m1 0h1m2 0h1m1 0h2m1 0h7m2 0h1M1 26.5h1m2 0h1m1 0h1m2 0h1m2 0h1m1 0h1m1 0h1m2 0h1m1 0h1m4 0h1m2 0h1m1 0h2m2 0h1M0 27.5h1m2 0h2m2 0h4m1 0h2m1 0h2m4 0h1m1 0h1m2 0h3m2 0h3m2 0h1M2 28.5h1m1 0h1m1 0h2m3 0h1m4 0h1m1 0h1m2 0h3m1 0h1m2 0h5m1 0h3M8 29.5h2m2 0h2m1 0h1m1 0h1m2 0h1m1 0h2m1 0h1m1 0h2m3 0h2m2 0h1M0 30.5h7m4 0h2m2 0h2m1 0h1m1 0h3m2 0h1m2 0h1m1 0h1m1 0h5M0 31.5h1m5 0h1m2 0h1m2 0h1m3 0h4m2 0h3m2 0h2m3 0h2m1 0h2M0 32.5h1m1 0h3m1 0h1m2 0h5m1 0h1m1 0h2m1 0h2m4 0h1m1 0h5m3 0h1M0 33.5h1m1 0h3m1 0h1m1 0h1m3 0h3m3 0h1m1 0h1m2 0h1m1 0h1m2 0h3m1 0h1m1 0h3M0 34.5h1m1 0h3m1 0h1m1 0h1m2 0h3m4 0h1m1 0h4m1 0h1m1 0h6M0 35.5h1m5 0h1m1 0h3m4 0h1m2 0h3m1 0h1m1 0h4m1 0h1m3 0h2M0 36.5h7m1 0h1m1 0h1m1 0h1m1 0h1m2 0h1m2 0h1m1 0h1m1 0h4m1 0h2m1 0h5<!--vb:37-->",
+        "startDate": "2026-11-20",
+        "status": "Live",
+        "tableLayoutImage": null,
+        "tbeId": "TBE_TZ79JA",
+        "ticketPrice": null,
+        "ticketTiers": [
+          {
+            "currency": "MXN",
+            "id": "y1qydBUPMKqgsXJMFFxJlD+rtjhNAPmT/1DONGiEbO1jnL4QSX7aOv3MabTi/TrtjPVi9COn8kBQhRAIbV5JxQ==",
+            "isTable": false,
+            "name": "General Access + Welcome Drink",
+            "price": 190,
+            "priceWithFees": 190,
+            "sortOrder": 1,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "3vCriCL9gv0jlmPs3BhKiKlPuYRTwux/sPqHaBtYu5xKZBIEx35sGSuar1IFDxNtmFdFdPxRFRpt3tBDl2oHCQ==",
+            "isTable": false,
+            "name": "Open Bar",
+            "price": 1650,
+            "priceWithFees": 1650,
+            "sortOrder": 2,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "jlKorEh7frxdqcLQixUtFuW4SZcgKL041YkSp+3Z/D92t09a32XWWsTGNVZIAvp64pmP1BP5+soj3EKL9WO4CQ==",
+            "isTable": false,
+            "name": "Dinner + Party",
+            "price": 935,
+            "priceWithFees": 935,
+            "sortOrder": 3,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "JC8YLsccPejkajuuCupIk8uZPASrVEuC7K//QTZZ/uUy/06FHFaPtlPj4lGmrpen02Spj0aJtxvdqalF/Nz2qw==",
+            "isTable": true,
+            "name": "Black Table | 6 Ppl",
+            "price": 16200,
+            "priceWithFees": 16200,
+            "sortOrder": 4,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "DTBDS3j4Lcy7UxJd/TkE0F/tBkROu1fkIMyfgvgMsqY9KGIQe92d/9t95BAsVMGv2IlIJw/XPPkhS5QCd0Bf0Q==",
+            "isTable": true,
+            "name": "Premium Lounges | 6 Ppl",
+            "price": 11000,
+            "priceWithFees": 11000,
+            "sortOrder": 5,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "qaIH3wRc5ln5GuE9YXzvCTsctt9u/pE3WXK7A8uP3dtbh3r2E+uZ77quUVhCHxathSXf/BeT4FA0Fsnc8Kpz5g==",
+            "isTable": true,
+            "name": "VIP Villa | After Dark | 8 Ppl",
+            "price": 19440,
+            "priceWithFees": 19440,
+            "sortOrder": 6,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "eMfLyTn4/LBSJVfaYVg0Ofu4lcYkTUM19daMXJ48hM6qlixJ1B+tQwmXbLHjux2qsqur+gRRmExpuVil9YczAQ==",
+            "isTable": true,
+            "name": "One Night + Jangueo | Dinner | 2 Ppl",
+            "price": 4950,
+            "priceWithFees": 4950,
+            "sortOrder": 7,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          }
+        ],
+        "time": "19:00 - 23:00",
+        "url": "https://tf.link/ogczp7fe",
+        "venueName": "Gitano Beach",
+        "venueSlug": "gitano-beach",
+        "vipLink": null,
+        "vipPrice": null
+      },
+      "convexId": "j573tr11sk94mb0c11jngpce958j08y9",
+      "lastUpdated": "2026-11-11T23:21:12.739Z",
+      "locales": {
+        "en": {
+          "body": "<h2>Reggaeton on the Sand, Sunset to Late</h2><p>Jangueo takes over Gitano Beach Club for a night built around reggaeton and Latin beats. The idea is in the name: no drama, just the music and the room. Music runs from 7 PM till late, so you catch the shift from a slow beach evening into a full dance floor. </p><h3>Food from the Open Fire</h3><p>If you arrive early, the kitchen is working the whole time. Chef Alexandros Gkoutsi's menu is modern Mexican with Mediterranean touches, cooked on the open fire — grilled seafood, roasted meats, tacos and vegetable plates. The signature cochinita pibil tacos come with habanero and salsa verde at 320 MXN, the Baja California hamachi tostada is 380 MXN, and aguachile is 425 MXN. Small plates include hummus at 220 MXN, shishito peppers at 280 MXN and a black truffle tlayuda at 550 MXN. There is a taco tasting at 1,100 MXN for a fuller sit-down.</p><p>Drinks lean on mezcal. Kisses in the Car mixes mezcal, rum, passion fruit and tangerine habanero, while the Gipsy Disco 75 is vodka, rosé prosecco, elderflower and lime. Some cocktails use burnt pineapple and salvaged lime husks. Food labels mark gluten-free, nut-free, vegetarian and dairy-free dishes, so tell your waiter about any allergies before you order.</p><h3>Doors, Timing and How to Get There</h3><p>Music starts at 7 PM and runs till late. Tickets start at 190 MXN, well below the venue's usual daytime sunbed minimum, so this is an easy night to say yes to. The address is Av Boca Paila KM 9.5, on the Tulum beach road in the Zona Costera, 77780. Plan your taxi for the Hotel Zone rather than Tulum town, as the beach road is a drive out from the centre.</p><p>To come early for dinner and a sunbed, the venue takes beach seating and dinner reservations separately through its own page on Tulum Bible, with dinner tables run in two-hour windows. For the Jangueo night itself, secure your entry here using the button on this page.</p>",
+          "description": "Jangueo brings reggaeton and Latin beats to Gitano Beach Club, a run of sand between the Caribbean and the jungle, from sunset till late. Dress to impress.",
+          "hubBlurb": "",
+          "name": "Jangueo",
+          "slug": "jangueo-x-gitano-beach-20nov2026",
+          "tableInformation": ""
+        },
+        "es": {
+          "body": "<h2>Reggaeton en la arena, desde el atardecer hasta bien entrada la noche</h2><p>Jangueo se hace con el control del Gitano Beach Club para una noche dedicada al reggaetón y los ritmos latinos. La idea está en el nombre: sin complicaciones, solo la música y el local. La música suena desde las 19:00 hasta bien entrada la noche, así que podrás ver cómo la tranquila tarde en la playa da paso a una pista de baile a rebosar. </p><h3>Comida a la brasa</h3><p>Si llegas temprano, la cocina estará en marcha todo el tiempo. El menú del chef Alexandros Gkoutsi es de cocina mexicana moderna con toques mediterráneos, cocinado a la brasa: marisco a la parrilla, carnes asadas, tacos y platos de verduras. Los emblemáticos tacos de cochinita pibil se sirven con habanero y salsa verde por 320 MXN; la tostada de hamachi de Baja California cuesta 380 MXN y el aguachile, 425 MXN. Entre los platos pequeños destacan el hummus a 220 MXN, los pimientos shishito a 280 MXN y una tlayuda de trufa negra a 550 MXN. Hay una degustación de tacos por 1.100 MXN para una experiencia más completa.</p><p>En cuanto a las bebidas, predomina el mezcal. El Kisses in the Car mezcla mezcal, ron, maracuyá y habanero de mandarina, mientras que el Gipsy Disco 75 lleva vodka, prosecco rosado, flor de saúco y lima. Algunos cócteles llevan piña quemada y cáscaras de lima recicladas. Las etiquetas de los platos indican cuáles son sin gluten, sin frutos secos, vegetarianos y sin lácteos, así que informa al camarero de cualquier alergia antes de pedir.</p><h3>Apertura de puertas, horario y cómo llegar</h3><p>La música empieza a las 19:00 y se prolonga hasta tarde. Las entradas cuestan a partir de 190 MXN, un precio muy inferior al mínimo habitual que se cobra en el local por las tumbonas durante el día, así que es una noche a la que es fácil decir que sí. La dirección es Av. Boca Paila, km 9,5, en la carretera de la playa de Tulum, en la Zona Costera, 77780. Pide un taxi desde la Zona Hotelera en lugar de desde el pueblo de Tulum, ya que la carretera de la playa queda a un buen trecho en coche del centro.</p><p>Si quieres llegar temprano para cenar y conseguir una tumbona, el local admite reservas para las tumbonas y para la cena por separado a través de su propia página en Tulum Bible; las mesas para cenar se asignan en franjas horarias de dos horas. Para la noche del Jangueo en sí, asegura tu entrada aquí utilizando el botón de esta página.</p>",
+          "description": "Jangueo lleva el reguetón y los ritmos latinos a Gitano Beach Club, una franja de arena entre el Caribe y la selva, desde la puesta de sol hasta bien entrada la noche. Vístete para impresionar.",
+          "hubBlurb": "",
+          "name": "Jangueo",
+          "slug": "jangueo-x-gitano-beach-20nov2026",
+          "tableInformation": ""
+        }
+      }
+    },
     {
       "base": {
         "afterEnd": "archive",
