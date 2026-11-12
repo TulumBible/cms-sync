@@ -1,7 +1,143 @@
 {
-  "syncedAt": "2026-11-12T03:35:54.855Z",
+  "syncedAt": "2026-11-12T03:53:14.672Z",
   "citySlug": "tulum",
   "events": [
+    {
+      "base": {
+        "afterEnd": "archive",
+        "buyLink": "https://tf.link/anblrxbx",
+        "categoryIds": [],
+        "cta": "Tickets",
+        "displayPrice": "MXN $240",
+        "endDate": "2026-11-14T23:59",
+        "eventType": "Social",
+        "faqIds": [],
+        "flyerImage": {
+          "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/1a7204e2-b441-4423-1b87-4c3302163b00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+        },
+        "gaLink": null,
+        "gaPrice": null,
+        "hubImage": null,
+        "isFeatured": false,
+        "isPublished": true,
+        "lineup": [
+          "OUI",
+          "SUMANI",
+          "VITE"
+        ],
+        "noPrice": false,
+        "promotion": "normal",
+        "publishedAt": null,
+        "qrCode": "M0 0.5h7m3 0h1m1 0h2m2 0h6m1 0h1m2 0h1m1 0h1m1 0h7M0 1.5h1m5 0h1m1 0h1m1 0h1m4 0h1m5 0h2m2 0h1m1 0h2m1 0h1m5 0h1M0 2.5h1m1 0h3m1 0h1m5 0h1m1 0h1m5 0h2m5 0h2m1 0h1m1 0h3m1 0h1M0 3.5h1m1 0h3m1 0h1m1 0h3m1 0h4m4 0h1m1 0h1m1 0h5m1 0h1m1 0h3m1 0h1M0 4.5h1m1 0h3m1 0h1m2 0h1m6 0h2m1 0h2m2 0h1m4 0h1m1 0h1m1 0h3m1 0h1M0 5.5h1m5 0h1m1 0h2m1 0h3m1 0h3m2 0h2m3 0h1m1 0h2m1 0h1m5 0h1M0 6.5h7m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h7M9 7.5h3m4 0h1m3 0h3m3 0h1m1 0h1M0 8.5h5m1 0h4m1 0h1m1 0h2m1 0h2m2 0h1m1 0h5m2 0h1m1 0h1m1 0h1m1 0h1M0 9.5h1m2 0h1m1 0h1m1 0h1m2 0h1m1 0h2m1 0h2m1 0h6m4 0h1m2 0h1m1 0h3M0 10.5h3m1 0h1m1 0h1m2 0h1m4 0h5m2 0h2m3 0h3m1 0h1m1 0h3m1 0h1M0 11.5h1m2 0h2m2 0h1m1 0h1m2 0h1m2 0h2m2 0h5m2 0h1m4 0h3m1 0h1M0 12.5h1m2 0h1m2 0h2m1 0h2m1 0h3m2 0h1m4 0h2m1 0h1m1 0h4m1 0h3m1 0h1M2 13.5h1m4 0h2m1 0h1m5 0h1m1 0h2m5 0h2m1 0h1m2 0h1m2 0h2M5 14.5h2m1 0h5m1 0h3m1 0h1m1 0h3m3 0h4m1 0h1m2 0h3M0 15.5h2m2 0h2m1 0h1m1 0h1m1 0h1m2 0h3m3 0h3m3 0h1m1 0h1m1 0h1m2 0h1m2 0h1M1 16.5h1m1 0h2m1 0h3m1 0h2m3 0h3m5 0h4m1 0h3m1 0h3m1 0h1M0 17.5h2m2 0h1m7 0h2m2 0h5m1 0h2m2 0h4m1 0h1m2 0h2M0 18.5h1m4 0h2m2 0h2m2 0h3m4 0h3m1 0h1m2 0h2m1 0h3m1 0h3M0 19.5h3m2 0h1m2 0h2m2 0h2m1 0h2m2 0h4m3 0h3m2 0h2m3 0h1M0 20.5h2m1 0h2m1 0h1m3 0h1m1 0h1m1 0h1m2 0h1m4 0h1m2 0h2m2 0h2m1 0h1m1 0h3M4 21.5h1m5 0h1m5 0h1m2 0h3m1 0h1m2 0h1m1 0h2m5 0h1M4 22.5h1m1 0h1m1 0h2m1 0h2m2 0h2m1 0h1m1 0h3m2 0h1m1 0h1m3 0h3m1 0h2M1 23.5h2m1 0h1m4 0h1m1 0h1m2 0h3m1 0h1m2 0h2m4 0h2m1 0h1m1 0h1m3 0h1M1 24.5h7m1 0h3m3 0h3m4 0h1m3 0h5m1 0h5M0 25.5h5m2 0h3m2 0h3m1 0h1m1 0h6m1 0h2m1 0h1m2 0h1m3 0h1M0 26.5h1m5 0h1m1 0h2m3 0h3m2 0h1m3 0h1m1 0h5m1 0h1m1 0h5M0 27.5h1m4 0h1m1 0h1m1 0h2m1 0h2m1 0h2m4 0h1m1 0h1m2 0h3m2 0h3m2 0h1M0 28.5h1m1 0h5m2 0h2m1 0h1m1 0h4m2 0h1m1 0h1m1 0h11M8 29.5h3m5 0h6m1 0h2m3 0h1m3 0h1m1 0h1M0 30.5h7m1 0h2m1 0h2m2 0h2m1 0h1m1 0h3m2 0h1m2 0h1m1 0h1m1 0h5M0 31.5h1m5 0h1m2 0h1m1 0h1m2 0h3m2 0h4m3 0h1m1 0h1m3 0h1M0 32.5h1m1 0h3m1 0h1m1 0h2m1 0h1m4 0h2m1 0h2m1 0h1m1 0h11M0 33.5h1m1 0h3m1 0h1m1 0h1m3 0h3m3 0h1m1 0h1m2 0h1m1 0h1m2 0h3m1 0h1m1 0h3M0 34.5h1m1 0h3m1 0h1m1 0h1m4 0h3m1 0h1m4 0h1m1 0h3m1 0h2m1 0h1m1 0h1m1 0h2M0 35.5h1m5 0h1m1 0h1m3 0h2m2 0h1m3 0h2m4 0h1m1 0h1m2 0h1m4 0h1M0 36.5h7m1 0h1m1 0h1m1 0h1m1 0h1m2 0h1m2 0h1m1 0h1m1 0h4m2 0h1m1 0h5<!--vb:37-->",
+        "startDate": "2026-11-14",
+        "status": "Live",
+        "tableLayoutImage": null,
+        "tbeId": "TBE_RDDN72",
+        "ticketPrice": null,
+        "ticketTiers": [
+          {
+            "currency": "MXN",
+            "id": "JQCJJ7FUULIlr3xeolFo9REdB3hd6v2i4q3zCCetN5uf035aiToKAK9mYJBVebp2p1KpZl4Nne5mV5BrnNO+MA==",
+            "isTable": false,
+            "name": "EARLY BIRD GA + 1 FREE DRINK",
+            "price": 200,
+            "priceWithFees": 240,
+            "sortOrder": 1,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "jQedqVXi6gDsjiq+2CTbWLjw8afvmgxw3eJGfN3bz4t8kd1sMBC1+gfgBjGtJng8dycz/p32bcA8FOR2AT6rCQ==",
+            "isTable": true,
+            "maxGuests": 6,
+            "minGuests": 1,
+            "name": "VIP TABLE CAT. A2",
+            "price": 12000,
+            "priceWithFees": 12960,
+            "sortOrder": 2,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "OjQ7lxJUbzDT6eydTIR1QYuSilWpfEzjrD7ykZU9045sDvJ1Fyv/2MRQYF7MJT7ws5xaiTzGP2yE1POqXYC5sw==",
+            "isTable": true,
+            "maxGuests": 5,
+            "minGuests": 1,
+            "name": "VIP TABLE CAT. A1 - A3",
+            "price": 15000,
+            "priceWithFees": 16200,
+            "sortOrder": 3,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "usZa3yQvgDQ94vfNemKEtabxD9lLOogywQM8MykQ6CoaXak1vrvLrarST/z6UVIDUyFPHW+HnT0gvwtszeezgg==",
+            "isTable": true,
+            "maxGuests": 6,
+            "minGuests": 1,
+            "name": "VIP TABLE CAT. C1-C2",
+            "price": 10000,
+            "priceWithFees": 11000,
+            "sortOrder": 4,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "Wtqts4dpmG/NlrXTcS1H8SU9AIc73IaE51fGnDWXRT4JK9Ezhqy9PB/lWeeo3Sf/iyBEvxacaawZnMk23/y3JA==",
+            "isTable": false,
+            "name": "GENERAL ACCESS - FINAL TIER",
+            "price": 300,
+            "priceWithFees": 340,
+            "sortOrder": 5,
+            "status": "upcoming",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "nQMy8JE4VevXk2vACBbWHt0ZBj98Jt8hRXTojkmFVrgwHgU42S5Hp9MrbKbP+L+49ySdX3TJEvMC7ZjDgwLVew==",
+            "isTable": true,
+            "maxGuests": 12,
+            "minGuests": 1,
+            "name": "BACKSTAGE TABLE CAT. B1",
+            "price": 20000,
+            "priceWithFees": 21600,
+            "sortOrder": 6,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          }
+        ],
+        "time": "19:00 - Late",
+        "url": "https://tf.link/anblrxbx",
+        "venueName": "ISOLE",
+        "venueSlug": null,
+        "vipLink": null,
+        "vipPrice": null
+      },
+      "convexId": "j573r3d0t5wm9x71rzyph9vqdx8j2ngb",
+      "lastUpdated": "2026-11-12T03:52:53.191Z",
+      "locales": {
+        "en": {
+          "body": "<h2>A House Night at ISOLE Tulum</h2>\n<p>Danzhaus comes back to Tulum for a night built around house music, with three names on the bill: Vite, Sumani and Oui. The three bring their sounds together across one dancefloor, leaning into deeper, underground house rather than big-room noise. Doors open at 7PM, so the room fills early and the music runs long. The night is held at ISOLE Tulum, with capacity kept limited, which keeps the floor tight rather than packed out. If you want a straightforward house night with a crew that has run this before, this is it.</p>\n<h3>Vite, Sumani and Oui</h3>\n<p>Vite, Sumani and Oui share the lineup for this edition, each taking the booth across the night. The focus is house throughout — a steady, connected set of sounds rather than three unrelated styles stitched together. This is the kind of bill where the energy builds over hours instead of peaking once, so the later you stay the more you get. Come for one name and you will likely stay for the other two.</p>\n<h3>A Market Before the Dancefloor</h3>\n<p>Beyond the music, Danzhaus sets up a small market at the venue. It is a space to browse, shop and talk to people before the night fully gets going. Arriving near the 7PM door time gives you room to walk the stalls while the floor is still quiet. It is a simple way to ease into the evening rather than walking straight into a crowd.</p>\n<h3>Doors, Tables and Capacity</h3>\n<p>Doors open at 7PM. Capacity is limited, so the room is not built to hold an unlimited crowd — once it is full, it is full. Table reservations are available if you want a fixed spot for your group rather than finding space on the floor. Tickets start at MXN $240, and given the capacity cap it is worth sorting yours before the night. Use the buy button on this page to get your ticket or ask about a table.</p>",
+          "description": "Danzhaus returns to Tulum with Vite, Sumani and Oui playing house music through the night, plus a small market to browse before the dancefloor fills.",
+          "hubBlurb": "",
+          "name": "Danzhaus Pres. Vite, Sumani, Oui",
+          "slug": "danzhaus-nov-11",
+          "tableInformation": ""
+        },
+        "es": {
+          "body": "<h2>Una noche de house en ISOLE Tulum</h2>\n<p>Danzhaus vuelve a Tulum para una noche dedicada a la música house, con tres nombres en el cartel: Vite, Sumani y Oui. Los tres unen sus sonidos en una misma pista de baile, apostando por un house más profundo y underground en lugar del ruido de las grandes salas. Las puertas se abren a las 19:00, así que la sala se llena pronto y la música suena hasta bien entrada la noche. La velada tiene lugar en ISOLE Tulum, con aforo limitado, lo que hace que la pista esté bien llena, pero sin llegar a estar abarrotada. Si buscas una noche de house sin complicaciones con un equipo que ya ha organizado eventos de este tipo anteriormente, esta es tu noche.</p>\n<h3>Vite, Sumani y Oui</h3>\n<p>Vite, Sumani y Oui comparten el cartel de esta edición, turnándose en la cabina a lo largo de la noche. El enfoque es el house en todo momento: un conjunto de sonidos constante y coherente, en lugar de tres estilos inconexos unidos a la fuerza. Se trata del tipo de cartel en el que la energía va creciendo con el paso de las horas en lugar de alcanzar un único punto álgido, así que cuanto más tarde te quedes, más disfrutarás. Ven a ver a uno de ellos y probablemente te quedarás por los otros dos.</p>\n<h3>Un mercadillo antes de la pista de baile</h3>\n<p>Más allá de la música, Danzhaus monta un pequeño mercado en el recinto. Es un espacio para curiosear, comprar y charlar con la gente antes de que la noche se ponga en marcha de verdad. Llegar cerca de las 19:00, hora de apertura de puertas, te da tiempo para recorrer los puestos mientras la pista aún está tranquila. Es una forma sencilla de ir entrando poco a poco en la velada, en lugar de meterte directamente en medio de la multitud.</p>\n<h3>Puertas, mesas y aforo</h3>\n<p>Las puertas se abren a las 19:00. El aforo es limitado, por lo que el local no está diseñado para acoger a un número ilimitado de personas: una vez que se llena, se llena. Se pueden reservar mesas si prefieres un sitio fijo para tu grupo en lugar de buscar sitio en la pista. Las entradas cuestan a partir de 240 MXN y, dada la limitación de aforo, merece la pena conseguir la tuya antes de la noche del evento. Utiliza el botón de compra de esta página para conseguir tu entrada o solicitar una mesa.</p>",
+          "description": "Danzhaus vuelve a Tulum con Vite, Sumani y Oui pinchando música house durante toda la noche, además de un pequeño mercadillo para dar una vuelta antes de que se llene la pista de baile.",
+          "hubBlurb": "",
+          "name": "Danzhaus Pres. Vite, Sumani, Oui",
+          "slug": "danzhaus-nov-11",
+          "tableInformation": ""
+        }
+      }
+    },
     {
       "base": {
         "afterEnd": "archive",
