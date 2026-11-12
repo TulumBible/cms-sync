@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-04T03:39:16.593Z",
+  "syncedAt": "2026-11-12T20:02:38.691Z",
   "citySlug": "tulum",
   "redirects": [
     {
@@ -9461,6 +9461,32 @@
       },
       "convexId": "kx77ftefa4e6tnc2fanekm7rd18hjx4m",
       "lastUpdated": "2026-11-04T03:39:02.266Z",
+      "locales": {
+        "en": {},
+        "es": {}
+      }
+    },
+    {
+      "base": {
+        "fromPath": "/event/danza-futurista-sonido-inverso-factory-setup-la-guarida-2026",
+        "statusCode": 301,
+        "toPath": "/event/danza-futurista-sonido-inverso-la-guarida-2026"
+      },
+      "convexId": "kx77zj70cn68e9j6gga45qgw898j2g1v",
+      "lastUpdated": "2026-11-12T20:02:25.373Z",
+      "locales": {
+        "en": {},
+        "es": {}
+      }
+    },
+    {
+      "base": {
+        "fromPath": "/es-mx/event/danza-futurista-sonido-inverso-factory-setup-la-guarida-2026",
+        "statusCode": 301,
+        "toPath": "/es-mx/event/danza-futurista-sonido-inverso-la-guarida-2026"
+      },
+      "convexId": "kx71andd38ajbkq7kgcrn1d9xx8j3py5",
+      "lastUpdated": "2026-11-12T20:02:25.373Z",
       "locales": {
         "en": {},
         "es": {}
