@@ -1,7 +1,178 @@
 {
-  "syncedAt": "2026-11-12T00:14:04.813Z",
+  "syncedAt": "2026-11-12T03:35:54.855Z",
   "citySlug": "tulum",
   "events": [
+    {
+      "base": {
+        "afterEnd": "archive",
+        "buyLink": "https://tf.link/4yz7wowo",
+        "categoryIds": [],
+        "cta": "Tickets",
+        "displayPrice": "MXN $339",
+        "endDate": "2026-12-06T23:59",
+        "eventType": "BeachClub",
+        "faqIds": [],
+        "flyerImage": {
+          "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/34cc5e86-3e99-4f87-9629-362bcc793d00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+        },
+        "gaLink": null,
+        "gaPrice": null,
+        "hubImage": null,
+        "isFeatured": false,
+        "isPublished": true,
+        "lineup": [
+          "BIENK"
+        ],
+        "noPrice": false,
+        "promotion": "tu-brunch",
+        "publishedAt": null,
+        "qrCode": "M0 0.5h7m1 0h1m2 0h2m1 0h1m3 0h1m2 0h2m2 0h1m4 0h7M0 1.5h1m5 0h1m2 0h2m2 0h2m4 0h2m1 0h1m3 0h1m1 0h1m1 0h1m5 0h1M0 2.5h1m1 0h3m1 0h1m3 0h1m1 0h3m1 0h1m2 0h4m2 0h1m1 0h1m2 0h1m1 0h3m1 0h1M0 3.5h1m1 0h3m1 0h1m5 0h2m2 0h1m4 0h1m2 0h2m4 0h1m1 0h3m1 0h1M0 4.5h1m1 0h3m1 0h1m2 0h1m1 0h1m2 0h1m1 0h1m2 0h1m6 0h1m1 0h1m1 0h1m1 0h3m1 0h1M0 5.5h1m5 0h1m3 0h1m1 0h2m6 0h1m1 0h2m1 0h1m4 0h1m5 0h1M0 6.5h7m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h7M8 7.5h1m1 0h2m1 0h4m2 0h1m2 0h1m2 0h1m1 0h2M0 8.5h2m1 0h2m1 0h1m2 0h3m2 0h1m2 0h1m1 0h2m2 0h2m1 0h1m1 0h1m1 0h1m5 0h1M2 9.5h3m2 0h3m2 0h3m3 0h2m3 0h1m2 0h2m1 0h1m1 0h2m2 0h1M2 10.5h2m2 0h1m3 0h2m3 0h2m1 0h1m1 0h4m3 0h3m1 0h6M0 11.5h1m1 0h4m1 0h2m1 0h3m4 0h1m1 0h2m5 0h4m2 0h1m1 0h1M1 12.5h6m4 0h2m3 0h1m2 0h2m5 0h2m1 0h2m2 0h1m1 0h2M0 13.5h6m2 0h2m3 0h4m1 0h1m1 0h2m5 0h3m2 0h4M0 14.5h1m3 0h5m1 0h6m2 0h4m3 0h3m1 0h3m3 0h2M0 15.5h4m3 0h2m2 0h1m15 0h1m1 0h1m1 0h2m1 0h1m1 0h1M1 16.5h1m3 0h3m1 0h2m3 0h3m3 0h1m3 0h2m2 0h1m1 0h2m1 0h4M1 17.5h2m1 0h1m2 0h1m2 0h4m1 0h1m2 0h4m4 0h1m6 0h1M0 18.5h1m4 0h3m2 0h2m3 0h3m1 0h1m1 0h1m1 0h5m2 0h1m5 0h1M0 19.5h4m8 0h1m1 0h1m1 0h1m5 0h1m2 0h1m2 0h2m3 0h1m2 0h1M1 20.5h1m2 0h3m1 0h3m1 0h3m1 0h2m1 0h1m6 0h1m1 0h5m2 0h2M0 21.5h1m1 0h1m1 0h2m3 0h2m3 0h2m3 0h1m2 0h2m3 0h1m4 0h4M2 22.5h1m1 0h1m1 0h3m3 0h1m1 0h5m2 0h3m1 0h3m3 0h1m1 0h1m2 0h1M0 23.5h2m2 0h2m1 0h1m1 0h1m4 0h1m2 0h2m4 0h1m8 0h5M1 24.5h3m2 0h4m3 0h3m3 0h2m2 0h1m1 0h1m1 0h1m2 0h2m1 0h1m2 0h1M0 25.5h1m2 0h1m3 0h1m1 0h1m2 0h1m2 0h2m1 0h1m3 0h2m3 0h3m2 0h2m1 0h1M0 26.5h5m1 0h2m1 0h2m3 0h3m1 0h2m4 0h1m1 0h2m1 0h5m1 0h2M0 27.5h1m1 0h3m3 0h2m2 0h3m5 0h1m1 0h2m5 0h1m1 0h1m2 0h1m1 0h1M0 28.5h1m1 0h3m1 0h7m2 0h2m5 0h4m1 0h9M8 29.5h2m1 0h1m3 0h1m2 0h3m1 0h1m1 0h1m2 0h2m3 0h2m1 0h1M0 30.5h7m2 0h1m2 0h4m1 0h3m1 0h1m1 0h1m2 0h1m1 0h1m1 0h1m1 0h2m2 0h1M0 31.5h1m5 0h1m2 0h3m1 0h1m2 0h1m5 0h1m2 0h1m1 0h2m3 0h2M0 32.5h1m1 0h3m1 0h1m1 0h4m1 0h1m3 0h1m2 0h1m3 0h1m1 0h8M0 33.5h1m1 0h3m1 0h1m1 0h1m3 0h2m1 0h2m1 0h1m2 0h3m1 0h3m1 0h2m2 0h1m1 0h2M0 34.5h1m1 0h3m1 0h1m3 0h2m1 0h1m1 0h1m4 0h1m1 0h4m2 0h2m1 0h3m2 0h1M0 35.5h1m5 0h1m1 0h6m1 0h1m1 0h1m2 0h1m1 0h2m2 0h2m3 0h1m1 0h4M0 36.5h7m1 0h2m1 0h3m2 0h1m2 0h1m3 0h2m2 0h2m2 0h1m1 0h1m2 0h1<!--vb:37-->",
+        "startDate": "2026-12-06",
+        "status": "Live",
+        "tableLayoutImage": null,
+        "tbeId": "TBE_Q6F2WN",
+        "ticketPrice": null,
+        "ticketTiers": [
+          {
+            "currency": "MXN",
+            "id": "8a7i8Y1Luvd95zOo8yedHAfD4MZi9zq7OuS2aRzFTxaiWynlG1lz3DR71CUVPNyRdiJXluxnscQxHkoRA7jTTQ==",
+            "isTable": false,
+            "name": "Early Bird",
+            "price": 299,
+            "priceWithFees": 339,
+            "sortOrder": 1,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "SGKQuiKILgS0pvC1O+gS/wwShESFDNSpyjYjVWdGyOK948EnKgXpSqCrNatmx1d0zzUZbYhV78Fz5jWrRfZWRw==",
+            "isTable": true,
+            "maxGuests": 2,
+            "minGuests": 1,
+            "name": "Single Sunbed",
+            "price": 1000,
+            "priceWithFees": 1100,
+            "sortOrder": 2,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "h0hfhY7RmN393OqDdwpgICGVAF1PtaCGq/yJ3FatQC1bAbY+n6mrcLtKtb2MSAnxCYjC5oo4DW3xkSaD++Iheg==",
+            "isTable": false,
+            "name": "First Release",
+            "price": 399,
+            "priceWithFees": 439,
+            "sortOrder": 3,
+            "status": "upcoming",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "zn2MZn7wDbh1yrezOuvBFGZG+EaY/VrAjkOQW+b1SVo3uiq6BL0SPm7AjFAob8oNgheXWBAqrOsfObcJ0gPd3w==",
+            "isTable": true,
+            "maxGuests": 4,
+            "minGuests": 2,
+            "name": "Double Sunbed",
+            "price": 2000,
+            "priceWithFees": 2200,
+            "sortOrder": 4,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "LEvuhoC7bpZioZsB52liAP9nkGdiUNDWX16NUfxiuccPH1b/eJmNwrVmzYLCuJlgHjqbyUFRrqebwHr89bUS0Q==",
+            "isTable": false,
+            "name": "Final Release",
+            "price": 499,
+            "priceWithFees": 548.9,
+            "sortOrder": 5,
+            "status": "upcoming",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "LaFLN94+G7OLwNvRn10tOKy27UqSjZikSozmPPHt745fEse8zsTTRR75cNU8Z0NKmH2KwjI1MrO9JGj2Dr/SIw==",
+            "isTable": true,
+            "maxGuests": 5,
+            "minGuests": 3,
+            "name": "Lounge B (+VIP)",
+            "price": 3000,
+            "priceWithFees": 3300,
+            "sortOrder": 6,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "5pbduZhwtl6y+c4i9T6oEKGcuD9coG6Eqd1zxml0gAC4uY3jbOV23sp/LnDG37YRX0iN0XB50iaa6Yk7RZ857A==",
+            "isTable": true,
+            "maxGuests": 8,
+            "minGuests": 6,
+            "name": "Lounge A",
+            "price": 6000,
+            "priceWithFees": 6600,
+            "sortOrder": 7,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "JvfMcByPAxD4hz1IqMp/0giyTVhKq+nepd82l1XM36aFncsUD+9A7geKoAGFggkDQtKw4CvVCNrY0xbJnJId+Q==",
+            "isTable": true,
+            "maxGuests": 8,
+            "minGuests": 6,
+            "name": "Backstage Silver",
+            "price": 9000,
+            "priceWithFees": 9900,
+            "sortOrder": 8,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "/3uXhNu/RaHYcPsu529Nk2m0SGffocqH55OXxd+fJi4gR1dnXxVxfYij6QqE6tewP6kgyRPWDqy2wsn8LjfFZg==",
+            "isTable": true,
+            "maxGuests": 8,
+            "minGuests": 6,
+            "name": "Backstage Gold",
+            "price": 12000,
+            "priceWithFees": 12960,
+            "sortOrder": 9,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          }
+        ],
+        "time": "11:00",
+        "url": "https://tf.link/4yz7wowo",
+        "venueName": "Tulumania",
+        "venueSlug": "tulumania",
+        "vipLink": null,
+        "vipPrice": null
+      },
+      "convexId": "j577g7ej56y4za05hpeptn270s8j3mfc",
+      "lastUpdated": "2026-11-12T03:35:37.465Z",
+      "locales": {
+        "en": {
+          "body": "<h2>A Beach Brunch With Bienk on the Decks</h2>\n<p>Tu Brunch is a daytime party on the sand at Tulumania, and this edition brings in producer and DJ Bienk. His sets blend warm house, nu-disco, soul and Latin rhythms into something groove-heavy and built to move the crowd. The focus is feel-good, with infectious melodies carried over underground club energy. Expect his own originals alongside crowd-favorite edits. Doors open at 11am and the music runs through to the early evening by the sea.</p>\n<p>Bienk is fresh off two 2026 releases, &quot;Café Confessions&quot; and &quot;How Am I Supposed to Feel?&quot;, and both feed into the set he brings here. This is the start of a new season for the series, with more artists still to be announced for the day. It is a social, international crowd that gathers for these afternoons. You start by the water, meet friends at the bar, and follow the music onto the dance floor.</p>\n<h3>How the Day Runs</h3>\n<p>Doors open at 11am, so you can come early, settle in and enjoy the beach before the music starts. The DJ sets begin at 1pm, easing you into the afternoon with music by the sea. The party runs on until 6pm. Across the day the music moves from a gentle start into the heart of Bienk's set, then toward sunset. With beachfront spaces and multiple bars, you are never far from a drink or the dance floor.</p>\n<h3>Your Reservation Is Credit to Spend</h3>\n<p>Every table and sunbed works the same way: the full reservation amount comes back to you as consumption credit at the venue, and entry is included for the listed number of guests. A Double Sunbed for two, for example, costs 4,000 MXN, covers entry for both guests, and gives you 4,000 MXN to spend on food and drinks. An additional 15% service charge and tip is not included in the reservation price on tables and sunbeds. Prices may rise with demand, so reserving now secures the current rate. Reservations are subject to availability, and sunbeds are limited.</p>\n<h3>Spots From Sunbed to Backstage</h3>\n<p>Backstage Gold is the closest position to the DJ, with a direct view of the performance: it covers six guests and comes with 12,000 MXN in consumption credit. Backstage Silver also seats six with backstage access and 9,000 MXN in credit. Lounge A is a comfortable base for six between trips to the dance floor, with 6,000 MXN in credit, while Lounge B is a smaller space for three with 3,000 MXN in credit.</p>\n<p>If you are coming in a smaller group, the beachfront sunbeds are the simplest way in. A Double Sunbed holds two with 2,000 MXN in credit, and a Single Sunbed is your own spot for the day with 1,000 MXN in credit. Whichever you choose, the amount you pay comes back as credit to use at the bars and kitchen.</p>\n<h3>Before You Reserve</h3>\n<p>Tulumania sits on the Tulum beachfront, and this is where the day plays out, from the sea to the bars to the dance floor. All sales are final and non-refundable, including for cancellation due to natural events, government regulations or changes in your own plans. The event may be photographed and recorded, and by entering you agree your image may be used in promotional content. Attendance is at your own risk. Pick your spot and reserve to lock in the current price.</p>",
+          "description": "Producer and DJ Bienk plays warm house, nu-disco, soul and Latin grooves at a beachfront Sunday brunch, with doors at 11am and his set running into the afternoon.",
+          "hubBlurb": "",
+          "name": "Tu Brunch /w Bienk",
+          "slug": "tu-brunch-bienk",
+          "tableInformation": ""
+        },
+        "es": {
+          "body": "<h2>Un brunch en la playa con Bienk a los platos</h2>\n<p>Tu Brunch es una fiesta diurna en la arena de Tulumania, y esta edición cuenta con la presencia del productor y DJ Bienk. Sus sesiones mezclan house cálido, nu-disco, soul y ritmos latinos para crear un sonido con mucho groove, pensado para hacer bailar al público. La clave está en el buen rollo, con melodías contagiosas que transmiten la energía de los clubes underground. Podrás disfrutar de sus propios temas originales junto con remezclas favoritas del público. Las puertas se abren a las 11:00 y la música sonará hasta primeras horas de la tarde junto al mar.</p>\n<p>Bienk acaba de lanzar dos temas en 2026, Café Confessions y How Am I Supposed to Feel?, y ambos forman parte del set que traerá aquí. Este es el comienzo de una nueva temporada para la serie, y aún quedan por anunciar más artistas para la jornada. Se trata de un público sociable e internacional que se reúne en estas tardes. Empiezas junto al mar, te encuentras con amigos en el bar y sigues la música hasta la pista de baile.</p>\n<h3>Cómo se desarrolla la jornada</h3>\n<p>Las puertas se abren a las 11:00, así que puedes llegar temprano, acomodarte y disfrutar de la playa antes de que empiece la música. Las sesiones de los DJ comienzan a las 13:00, para que te vayas acostumbrando a la tarde con música junto al mar. La fiesta se prolonga hasta las 18:00. A lo largo del día, la música pasa de un comienzo suave al corazón de la sesión de Bienk, para luego dirigirse hacia la puesta de sol. Con espacios frente al mar y varios bares, nunca estarás lejos de una copa o de la pista de baile.</p>\n<h3>Tu reserva es crédito para gastar</h3>\n<p>Todas las mesas y tumbonas funcionan de la misma manera: el importe total de la reserva se te devuelve en forma de crédito para gastar en el local, y la entrada está incluida para el número de invitados indicado. Una tumbona doble para dos personas, por ejemplo, cuesta 4.000 MXN, incluye la entrada para ambos invitados y te da 4.000 MXN para gastar en comida y bebida. El precio de la reserva de mesas y tumbonas no incluye un 15 % adicional en concepto de servicio ni la propina. Los precios pueden aumentar según la demanda, por lo que reservar ahora te garantiza la tarifa actual. Las reservas están sujetas a disponibilidad y las tumbonas son limitadas.</p>\n<h3>Zonas: desde las tumbonas hasta el backstage</h3>\n<p>Backstage Gold es la zona más cercana al DJ, con vistas directas a la actuación: tiene capacidad para seis personas e incluye 12 000 MXN en crédito para consumo. Backstage Silver también tiene capacidad para seis personas, con acceso al backstage y 9.000 MXN en crédito. El Lounge A es un cómodo espacio para seis personas entre salida y salida a la pista de baile, con 6.000 MXN en crédito, mientras que el Lounge B es un espacio más reducido para tres personas con 3.000 MXN en crédito.</p>\n<p>Si vienes en un grupo más reducido, las tumbonas frente a la playa son la opción más sencilla. Una tumbona doble tiene capacidad para dos personas e incluye 2.000 MXN en crédito, y una tumbona individual es tu espacio privado para todo el día con 1.000 MXN en crédito. Elijas lo que elijas, el importe que pagues se te devolverá en forma de crédito para gastar en los bares y en la cocina.</p>\n<h3>Antes de reservar</h3>\n<p>Tulumania se encuentra en primera línea de playa en Tulum, y es aquí donde se desarrolla la jornada, desde el mar hasta los bares y la pista de baile. Todas las ventas son definitivas y no reembolsables, incluso en caso de cancelación debida a fenómenos naturales, normativas gubernamentales o cambios en tus propios planes. El evento puede ser fotografiado y grabado, y al participar aceptas que tu imagen pueda utilizarse en contenidos promocionales. La asistencia es bajo tu propia responsabilidad. Elige tu plaza y reserva para asegurarte el precio actual.</p>",
+          "description": "El productor y DJ Bienk pincha house cálido, nu-disco, soul y ritmos latinos en un brunch dominical frente al mar; las puertas se abren a las 11 de la mañana y su sesión se prolongará hasta bien entrada la tarde.",
+          "hubBlurb": "",
+          "name": "Tu Brunch /w Bienk",
+          "slug": "tu-brunch-bienk",
+          "tableInformation": ""
+        }
+      }
+    },
     {
       "base": {
         "afterEnd": "archive",
