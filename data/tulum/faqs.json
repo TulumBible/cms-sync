@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-08T04:48:55.756Z",
+  "syncedAt": "2026-11-13T05:09:06.373Z",
   "citySlug": "tulum",
   "faqs": [
     {
@@ -8997,6 +8997,28 @@
         "es": {
           "answer": "Solicita información a través de esta página y el servicio de conserjería te confirmará las fechas, los precios y lo que incluye el servicio para tu grupo. Las grandes villas frente al mar de esta zona se reservan con mucha antelación para las fechas de mayor demanda, por lo que vale la pena consultar con antelación.",
           "name": "¿Cómo puedo consultar las tarifas y la disponibilidad de Villa Chica?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "eventType"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "where-can-you-celebrate-new-years-eve-in-tulum"
+      },
+      "convexId": "k57d2snc8w69qd19jdxdjepj7d8j4dcj",
+      "lastUpdated": "2026-11-13T05:08:29.873Z",
+      "locales": {
+        "en": {
+          "answer": "Options include Renaissance at Zamna for electronic music in the jungle, Bagatelle and Gitano Beach x Mera Room for beachfront celebrations, and Taboo for dinner followed by a beach party. Gitano Jungle, Rosa Negra and Ilios also offer dinner-led celebrations. Compare the listings above for packages and booking details.",
+          "name": "Where can you celebrate New Year’s Eve in Tulum?"
+        },
+        "es": {
+          "answer": "Entre las opciones se incluyen Renaissance at Zamna, para disfrutar de música electrónica en la selva; Bagatelle y Gitano Beach x Mera Room, para fiestas frente al mar; y Taboo, para cenar y continuar con una fiesta en la playa. Gitano Jungle, Rosa Negra e Ilios también ofrecen fiestas con cena incluida. Consulta la lista anterior para conocer los paquetes y los detalles de la reserva.",
+          "name": "¿Dónde se puede celebrar la Nochevieja en Tulum?"
         }
       }
     }
