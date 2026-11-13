@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-12T20:02:38.691Z",
+  "syncedAt": "2026-11-13T00:45:47.925Z",
   "citySlug": "tulum",
   "redirects": [
     {
@@ -9487,6 +9487,32 @@
       },
       "convexId": "kx71andd38ajbkq7kgcrn1d9xx8j3py5",
       "lastUpdated": "2026-11-12T20:02:25.373Z",
+      "locales": {
+        "en": {},
+        "es": {}
+      }
+    },
+    {
+      "base": {
+        "fromPath": "/event/full-moon-rising-21-nov",
+        "statusCode": 301,
+        "toPath": "/event/full-moon-rising-28-nov"
+      },
+      "convexId": "kx71vw8z2j7rdpcq9g69r92m558j5eyz",
+      "lastUpdated": "2026-11-13T00:45:13.009Z",
+      "locales": {
+        "en": {},
+        "es": {}
+      }
+    },
+    {
+      "base": {
+        "fromPath": "/es-mx/event/full-moon-rising-21-nov",
+        "statusCode": 301,
+        "toPath": "/es-mx/event/full-moon-rising-28-nov"
+      },
+      "convexId": "kx789rhk1t8qcm4mjhdgv66z9d8j5c0g",
+      "lastUpdated": "2026-11-13T00:45:13.009Z",
       "locales": {
         "en": {},
         "es": {}
