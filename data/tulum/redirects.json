@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-13T00:45:47.925Z",
+  "syncedAt": "2026-11-13T05:44:45.648Z",
   "citySlug": "tulum",
   "redirects": [
     {
@@ -9210,10 +9210,10 @@
       "base": {
         "fromPath": "/event/nye-2027-gitano-jungle",
         "statusCode": 301,
-        "toPath": "/event/nye-2027-gitano-jungle-31dec2026"
+        "toPath": "/event/nye2027-gitano-jungle-31dec2026"
       },
       "convexId": "kx7a9krgb097y3d7rahgsr3c258eg4tv",
-      "lastUpdated": "2026-09-16T22:35:11.783Z",
+      "lastUpdated": "2026-11-13T05:43:33.220Z",
       "locales": {
         "en": {},
         "es": {}
@@ -9223,10 +9223,10 @@
       "base": {
         "fromPath": "/es-mx/event/nye-2027-gitano-jungle",
         "statusCode": 301,
-        "toPath": "/es-mx/event/nye-2027-gitano-jungle-31dec2026"
+        "toPath": "/es-mx/event/nye2027-gitano-jungle-31dec2026"
       },
       "convexId": "kx781j119pk6nt4r9a5bxy81md8eh6k5",
-      "lastUpdated": "2026-09-16T22:35:11.783Z",
+      "lastUpdated": "2026-11-13T05:43:05.731Z",
       "locales": {
         "en": {},
         "es": {}
@@ -9513,6 +9513,32 @@
       },
       "convexId": "kx789rhk1t8qcm4mjhdgv66z9d8j5c0g",
       "lastUpdated": "2026-11-13T00:45:13.009Z",
+      "locales": {
+        "en": {},
+        "es": {}
+      }
+    },
+    {
+      "base": {
+        "fromPath": "/event/nye-2027-gitano-jungle-31dec2026",
+        "statusCode": 301,
+        "toPath": "/event/nye2027-gitano-jungle-31dec2026"
+      },
+      "convexId": "kx73cnkvzjr6f4bd18hgb2x3ph8j537y",
+      "lastUpdated": "2026-11-13T05:42:17.574Z",
+      "locales": {
+        "en": {},
+        "es": {}
+      }
+    },
+    {
+      "base": {
+        "fromPath": "/es-mx/event/nye-2027-gitano-jungle-31dec2026",
+        "statusCode": 301,
+        "toPath": "/es-mx/event/nye2027-gitano-jungle-31dec2026"
+      },
+      "convexId": "kx79rxymhhth2yv6p9fw2eefvx8j5wyd",
+      "lastUpdated": "2026-11-13T05:42:34.408Z",
       "locales": {
         "en": {},
         "es": {}
