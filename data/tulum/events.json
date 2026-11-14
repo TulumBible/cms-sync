@@ -1,7 +1,162 @@
 {
-  "syncedAt": "2026-11-14T16:00:49.237Z",
+  "syncedAt": "2026-11-14T19:49:59.061Z",
   "citySlug": "tulum",
   "events": [
+    {
+      "base": {
+        "afterEnd": "archive",
+        "buyLink": "https://wa.me/529841457101?text=Hello!%20I'm%20interested%20in%20tickets%20or%20a%20table%20for%20Monolink%20at%20Bagatelle%20Tulum%20on%20January%204",
+        "categoryIds": [],
+        "cta": "Tickets",
+        "displayPrice": "MXN $1,000",
+        "endDate": "2027-01-04T23:59",
+        "eventType": "BeachClub",
+        "faqIds": [],
+        "flyerImage": {
+          "alt": "Monolink in a black hat, for his January 4, 2027 night at Bagatelle Tulum.",
+          "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/f3fde330-1819-4610-fab1-a6fe7fc2c300/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+        },
+        "gaLink": null,
+        "gaPrice": null,
+        "hubImage": {
+          "alt": "Bagatelle Tulum banner: Monolink with Gio de Lira and Renatta, January 4th, doors open 7:00 PM.",
+          "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/12a71d5e-b75d-47f1-de56-827dfa44c400/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+        },
+        "isFeatured": false,
+        "isPublished": true,
+        "lineup": [
+          "Monolink",
+          "Gio de Lira",
+          "Renatta"
+        ],
+        "noPrice": false,
+        "promotion": "normal",
+        "publishedAt": "2026-11-14T19:49:32.724Z",
+        "qrCode": "M0 0.5h7m2 0h2m3 0h1m1 0h3m1 0h1m2 0h5m2 0h1m2 0h1m2 0h1m1 0h7M0 1.5h1m5 0h1m1 0h1m1 0h2m2 0h1m2 0h2m8 0h1m7 0h1m2 0h1m5 0h1M0 2.5h1m1 0h3m1 0h1m1 0h1m4 0h1m2 0h1m2 0h4m1 0h1m1 0h3m2 0h1m1 0h1m1 0h1m2 0h1m1 0h3m1 0h1M0 3.5h1m1 0h3m1 0h1m2 0h1m5 0h1m1 0h2m2 0h1m1 0h2m1 0h2m7 0h2m1 0h1m1 0h3m1 0h1M0 4.5h1m1 0h3m1 0h1m1 0h1m2 0h1m1 0h4m1 0h1m1 0h9m1 0h3m1 0h3m1 0h1m1 0h3m1 0h1M0 5.5h1m5 0h1m1 0h2m1 0h5m3 0h2m3 0h1m1 0h3m2 0h1m6 0h1m5 0h1M0 6.5h7m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h7M8 7.5h4m5 0h2m1 0h1m3 0h1m1 0h1m1 0h4m3 0h2M0 8.5h2m1 0h1m2 0h2m1 0h1m1 0h2m2 0h1m1 0h1m1 0h7m1 0h1m2 0h2m2 0h1m1 0h1m1 0h3m1 0h2M2 9.5h4m1 0h2m2 0h1m1 0h1m1 0h1m3 0h2m1 0h1m9 0h3m4 0h2m1 0h1m1 0h1M0 10.5h2m2 0h1m1 0h1m2 0h3m3 0h2m2 0h2m2 0h4m1 0h3m2 0h1m3 0h1m1 0h4m1 0h1M0 11.5h2m2 0h1m2 0h1m1 0h1m2 0h4m1 0h1m1 0h1m2 0h2m1 0h1m4 0h1m1 0h3m2 0h1m5 0h2M6 12.5h1m1 0h1m1 0h1m4 0h4m1 0h4m1 0h6m1 0h2m1 0h4m1 0h5M0 13.5h3m1 0h1m2 0h3m1 0h2m2 0h3m1 0h3m3 0h1m2 0h1m4 0h1m4 0h4m1 0h1M1 14.5h2m1 0h1m1 0h1m3 0h1m1 0h6m1 0h1m1 0h3m5 0h6m2 0h1m1 0h1m1 0h2M0 15.5h2m3 0h1m3 0h6m1 0h2m1 0h1m3 0h1m2 0h2m1 0h3m1 0h1m1 0h1m2 0h3m2 0h1M0 16.5h1m4 0h3m1 0h1m1 0h1m5 0h4m2 0h1m1 0h3m1 0h1m1 0h3m1 0h2m1 0h1m2 0h1M3 17.5h3m2 0h2m2 0h4m1 0h1m4 0h2m1 0h1m1 0h2m3 0h5m1 0h1m3 0h1M1 18.5h1m2 0h1m1 0h1m2 0h3m1 0h1m2 0h2m2 0h3m1 0h1m1 0h1m1 0h4m1 0h4m3 0h1m1 0h3M2 19.5h4m5 0h1m4 0h2m1 0h1m1 0h2m1 0h1m1 0h1m1 0h1m1 0h1m2 0h1m1 0h1m2 0h3M2 20.5h1m1 0h5m1 0h3m2 0h3m1 0h7m2 0h3m1 0h2m2 0h5m1 0h2M1 21.5h2m1 0h1m3 0h4m5 0h1m1 0h2m3 0h1m4 0h3m2 0h3m3 0h2m1 0h1M0 22.5h3m1 0h1m1 0h1m1 0h1m1 0h2m1 0h3m3 0h2m1 0h1m1 0h5m1 0h1m2 0h1m2 0h1m1 0h1m1 0h2m1 0h1M0 23.5h2m1 0h2m3 0h2m4 0h5m1 0h1m3 0h1m5 0h1m1 0h1m3 0h1m3 0h1m2 0h2M0 24.5h2m1 0h8m1 0h1m1 0h1m1 0h1m3 0h5m1 0h1m1 0h2m2 0h3m1 0h6m1 0h1M0 25.5h1m2 0h2m5 0h1m1 0h2m2 0h1m5 0h3m2 0h3m2 0h8m1 0h4M1 26.5h6m1 0h1m2 0h1m2 0h3m2 0h1m1 0h1m2 0h2m1 0h1m2 0h5m2 0h2m1 0h4M1 27.5h2m1 0h1m2 0h2m3 0h1m1 0h4m1 0h3m4 0h1m3 0h2m1 0h3m4 0h4M3 28.5h1m2 0h7m2 0h1m2 0h1m1 0h1m1 0h6m2 0h1m1 0h3m1 0h1m1 0h1m1 0h4M1 29.5h5m2 0h2m4 0h1m1 0h2m1 0h3m2 0h2m1 0h1m4 0h2m1 0h1m2 0h1m3 0h3M2 30.5h1m2 0h3m1 0h2m1 0h2m3 0h1m1 0h1m3 0h2m1 0h1m2 0h2m2 0h2m1 0h1m1 0h2m3 0h2M2 31.5h2m1 0h1m1 0h3m2 0h1m1 0h2m3 0h1m2 0h1m3 0h6m3 0h1m2 0h1m1 0h2m1 0h1M3 32.5h1m2 0h1m1 0h2m2 0h3m1 0h1m1 0h2m1 0h2m1 0h1m1 0h1m4 0h1m4 0h3m1 0h2m2 0h1M1 33.5h5m3 0h3m1 0h1m5 0h2m3 0h1m2 0h1m2 0h1m4 0h3m3 0h4M4 34.5h1m1 0h4m1 0h2m3 0h2m1 0h1m1 0h4m1 0h3m1 0h2m3 0h1m1 0h1m1 0h1m1 0h1m2 0h1M1 35.5h4m2 0h2m1 0h1m2 0h2m1 0h2m1 0h3m9 0h5m1 0h4m2 0h1M0 36.5h1m2 0h2m1 0h1m2 0h2m1 0h1m2 0h2m1 0h7m1 0h2m2 0h2m4 0h8M8 37.5h1m2 0h2m6 0h2m3 0h1m3 0h3m1 0h1m1 0h3m3 0h1m1 0h1M0 38.5h7m1 0h1m2 0h2m3 0h2m2 0h1m1 0h1m1 0h2m4 0h1m1 0h5m1 0h1m1 0h1m2 0h1M0 39.5h1m5 0h1m3 0h1m1 0h1m2 0h3m2 0h1m3 0h4m1 0h2m3 0h3m3 0h2m1 0h1M0 40.5h1m1 0h3m1 0h1m2 0h2m1 0h4m1 0h2m1 0h5m2 0h1m2 0h5m1 0h5m2 0h1M0 41.5h1m1 0h3m1 0h1m1 0h1m1 0h3m1 0h4m3 0h1m1 0h1m1 0h1m3 0h1m2 0h1m1 0h1m5 0h1m1 0h3M0 42.5h1m1 0h3m1 0h1m2 0h1m6 0h1m4 0h3m1 0h2m3 0h2m1 0h5m1 0h4m1 0h1M0 43.5h1m5 0h1m1 0h1m1 0h1m1 0h2m3 0h2m2 0h1m3 0h1m2 0h4m1 0h1M0 44.5h7m1 0h6m1 0h2m1 0h1m2 0h5m1 0h4m1 0h2m1 0h1m1 0h1m1 0h1m1 0h3<!--vb:45-->",
+        "startDate": "2027-01-04",
+        "status": "Live",
+        "tableLayoutImage": {
+          "alt": "Bagatelle Tulum table map: Backstage, Side Deck, Beach Front, Beach Back, Cabanas and bars.",
+          "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/45b0589a-3dd7-488f-9b71-0206784cae00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+        },
+        "tbeId": "TBE_XSJTK6",
+        "ticketPrice": null,
+        "ticketTiers": [
+          {
+            "currency": "MXN",
+            "id": "manual-monolink27-ga-early",
+            "isTable": false,
+            "name": "General · Early Bird",
+            "price": 1000,
+            "sortOrder": 0,
+            "status": "on_sale"
+          },
+          {
+            "currency": "MXN",
+            "id": "manual-monolink27-ga-t1",
+            "isTable": false,
+            "name": "General · Tier 1",
+            "price": 1500,
+            "sortOrder": 1,
+            "status": "on_sale"
+          },
+          {
+            "currency": "MXN",
+            "id": "manual-monolink27-vip-t1",
+            "isTable": false,
+            "name": "VIP · Tier 1",
+            "price": 2000,
+            "sortOrder": 2,
+            "status": "on_sale"
+          },
+          {
+            "currency": "MXN",
+            "id": "manual-monolink27-backstage-t1",
+            "isTable": false,
+            "name": "Backstage · Tier 1",
+            "price": 4000,
+            "sortOrder": 3,
+            "status": "on_sale"
+          },
+          {
+            "currency": "MXN",
+            "id": "manual-monolink27-table-0",
+            "isTable": true,
+            "maxGuests": 8,
+            "name": "Beach (back) + 15% service",
+            "price": 30000,
+            "sortOrder": 4,
+            "status": "on_sale"
+          },
+          {
+            "currency": "MXN",
+            "id": "manual-monolink27-table-1",
+            "isTable": true,
+            "maxGuests": 8,
+            "name": "Beach (front) + 15% service",
+            "price": 40000,
+            "sortOrder": 5,
+            "status": "on_sale"
+          },
+          {
+            "currency": "MXN",
+            "id": "manual-monolink27-table-2",
+            "isTable": true,
+            "maxGuests": 8,
+            "name": "Side Deck (Stage) + 15% service",
+            "price": 70000,
+            "sortOrder": 6,
+            "status": "on_sale"
+          },
+          {
+            "currency": "MXN",
+            "id": "manual-monolink27-table-3",
+            "isTable": true,
+            "maxGuests": 10,
+            "name": "Beach Cabana + 15% service",
+            "price": 100000,
+            "sortOrder": 7,
+            "status": "on_sale"
+          },
+          {
+            "currency": "MXN",
+            "id": "manual-monolink27-table-4",
+            "isTable": true,
+            "maxGuests": 12,
+            "name": "Backstage + 15% service",
+            "price": 120000,
+            "sortOrder": 8,
+            "status": "on_sale"
+          }
+        ],
+        "time": "19:00 - Late",
+        "url": null,
+        "venueName": "Bagatelle Tulum",
+        "venueSlug": "bagatelle-tulum",
+        "vipLink": null,
+        "vipPrice": null
+      },
+      "convexId": "j57f5m0zbz7vvzmpaqsbf8v1t18j71dj",
+      "lastUpdated": "2026-11-14T19:49:40.270Z",
+      "locales": {
+        "en": {
+          "body": "<h2>Monolink Live on the Sand</h2>\n<p>Monolink plays Bagatelle Tulum on Monday, January 4, 2027, and this is a live act rather than a straight DJ set. The Berlin performer blends melodic electronic music with live guitar and haunting vocals, so his show moves between the dance floor and the concert stage. Across the night it builds an emotional, cinematic journey, which is what has made him one of the most in-demand live acts in the scene. Gio de Lira and Renatta complete the lineup. Doors open at 7:00 PM, and tickets start from MXN $1,000.</p>\n<h3>The Beach Opens Into a Dance Floor</h3>\n<p>Bagatelle Tulum sits at Km 8 on the Tulum–Boca Paila road in the Hotel Zone, right on the beach. For this night the space opens up into a dance floor on the sand, with tables set out on the beach, a Side Deck beside the stage, Beach Cabanas and a Backstage area. By day this is a French-Mediterranean beach club built around a pool, sunbeds and Balinese loungers, but after dark the dining room rhythm gives way to a club-style floor. For Monolink the sand becomes the main room, with the stage framing everything and the tables and cabanas looking onto it.</p>\n<h3>Choosing Your Ticket Tier</h3>\n<p>There are four ticket levels. General Early Bird is MXN $1,000 and General Tier 1 is MXN $1,500; either gets you into the venue and the event at any time. VIP Tier 1 is MXN $2,000 and Backstage Tier 1 is MXN $4,000, and both of these add their own entrance, bar and restrooms. General admission does not come with a table. None of the tickets include a table, tips or transport, so decide early whether you want a seated spot or the floor.</p>\n<h3>Tables on the Beach and the Stage</h3>\n<p>If you want a base for the night, tables run from the beach through to the stage and backstage. A Beach table at the back seats 8 guests for MXN $30,000 plus 15% service, and a Beach front table for 8 is MXN $40,000 plus service. The Side Deck by the stage seats 8 for MXN $70,000 plus service, a Beach Cabana holds 10 for MXN $100,000 plus service, and a Backstage table seats 12 for MXN $120,000 plus service. Each table includes entry for its guests, and the table price goes toward food and drink. The closer you sit to the stage, the higher the spend.</p>\n<h3>French-Mediterranean Plates to Share</h3>\n<p>The kitchen is built around French-Mediterranean sharing plates, so a table spend buys real food rather than just a bottle. Raw dishes lead the menu, with truffle-marinated sea bass ceviche at 680 MXN, Bagatelle tuna tartare at 600 MXN and Black Angus beef carpaccio at 650 MXN. Larger plates include wood-fire-grilled duck with citrus honey at 590 MXN, baked rock octopus at 490 MXN and cod meunière with a three-caviar sauce at 680 MXN. Burrata with semi-confit cherry tomatoes and basil pesto is 640 MXN. The food is designed for groups to share across the night.</p>\n<h3>Plan Your Night at Km 8</h3>\n<p>Doors are at 7:00 PM on Monday, January 4, 2027, at Bagatelle Tulum, Carr. Tulum–Boca Paila Km 8 in the Hotel Zone. This is an adults-only venue with a 21-and-over policy. Bring the physical card you paid with and a photo ID, as both are checked on arrival. The Hotel Zone road fills up on event nights, so plan your ride ahead or ask Tulum Bible to arrange a pickup. To book a ticket or a table, use the button on this page and a payment link follows.</p>",
+          "description": "Monolink brings his Berlin live show of melodic electronics, guitar and vocals to a sand dancefloor at Bagatelle Tulum, with Gio de Lira and Renatta.",
+          "hubBlurb": "<p><strong>Monolink brings his live show to Bagatelle Tulum on January 4.</strong> The Berlin live act blends melodic electronics, guitar and haunting vocals into a set that moves between dance floor and concert stage. Gio de Lira and Renatta round out the lineup on a sand dance floor, with tiers from general entry to stage-side tables and backstage.</p><p><strong>Date:</strong> Monday, January 4, 2027, from 7:00 PM<br><strong>Lineup:</strong> Monolink, Gio de Lira, Renatta<br><strong>Tickets:</strong> From MXN $1,000 · General · Tier 1 MXN $1,500 · VIP · Tier 1 MXN $2,000<br><strong>Tables:</strong> From MXN $30,000<br><strong>Book:</strong> Through Tulum Bible</p>",
+          "name": "Monolink at",
+          "slug": "monolink-bagatelle-tulum-2027",
+          "tableInformation": "<p>Table prices are before a 15% service charge. Each table includes entry for its guests, and the table price goes towards food and drink. A table's exact spot isn't guaranteed.</p>"
+        },
+        "es": {
+          "body": "<h2>Monolink en directo en la arena</h2>\n<p>Monolink actuará en Bagatelle Tulum el lunes 4 de enero de 2027, y se trata de un espectáculo en directo más que de una simple sesión de DJ. El artista berlinés fusiona la música electrónica melódica con la guitarra en directo y una voz cautivadora, por lo que su espectáculo se mueve entre la pista de baile y el escenario de conciertos. A lo largo de la noche se va construyendo un viaje emocional y cinematográfico, que es lo que le ha convertido en uno de los artistas en directo más solicitados del panorama musical. Gio de Lira y Renatta completan el cartel. Las puertas se abren a las 19:00 h, y las entradas cuestan a partir de 1.000 MXN.</p>\n<h3>La playa se convierte en pista de baile</h3>\n<p>Bagatelle Tulum se encuentra en el km 8 de la carretera Tulum–Boca Paila, en la Zona Hotelera, justo en la playa. Para esta noche, el espacio se transforma en una pista de baile sobre la arena, con mesas dispuestas en la playa, una terraza lateral junto al escenario, cabañas de playa y una zona entre bastidores. Durante el día, se trata de un beach club de estilo franco-mediterráneo construido alrededor de una piscina, con tumbonas y sillones balineses, pero al caer la noche el ambiente del comedor da paso a una pista de baile al estilo de una discoteca. Para Monolink, la arena se convierte en la sala principal, con el escenario como marco de todo y las mesas y cabañas orientadas hacia él.</p>\n<h3>Cómo elegir tu categoría de entrada</h3>\n<p>Hay cuatro categorías de entradas. La entrada general Early Bird cuesta 1.000 MXN y la general de nivel 1, 1.500 MXN; cualquiera de ellas te permite acceder al recinto y al evento en cualquier momento. La entrada VIP de nivel 1 cuesta 2.000 MXN y la de Backstage de nivel 1, 4.000 MXN; ambas incluyen una entrada exclusiva, barra y aseos. La entrada general no incluye mesa. Ninguna de las entradas incluye mesa, propinas ni transporte, así que decide con antelación si prefieres un asiento o quedarte de pie.</p>\n<h3>Mesas en la playa y en el escenario</h3>\n<p>Si quieres un lugar donde instalarte durante la noche, hay mesas desde la playa hasta el escenario y el backstage. Una mesa en la parte trasera de la playa tiene capacidad para 8 personas y cuesta 30.000 MXN más un 15 % de servicio, mientras que una mesa en primera línea de playa para 8 personas cuesta 40.000 MXN más servicio. La terraza lateral junto al escenario tiene capacidad para 8 personas por 70 000 MXN más servicio; una cabaña en la playa tiene capacidad para 10 personas por 100 000 MXN más servicio; y una mesa entre bastidores tiene capacidad para 12 personas por 120 000 MXN más servicio. Cada mesa incluye la entrada para sus invitados, y el precio de la mesa se destina a comida y bebida. Cuanto más cerca del escenario te sientes, mayor es el gasto.</p>\n<h3>Platos franco-mediterráneos para compartir</h3>\n<p>La cocina se basa en platos para compartir de inspiración franco-mediterránea, por lo que el gasto por mesa se destina a comida de verdad, en lugar de solo a una botella. Los platos crudos protagonizan la carta, con ceviche de lubina marinada con trufa a 680 MXN, tartar de atún Bagatelle a 600 MXN y carpaccio de ternera Black Angus a 650 MXN. Entre los platos más abundantes destacan el pato a la brasa con miel de cítricos a 590 MXN, el pulpo de roca al horno a 490 MXN y el bacalao a la meunière con salsa de tres caviar a 680 MXN. La burrata con tomates cherry semiconfitados y pesto de albahaca cuesta 640 MXN. La comida está pensada para que los grupos la compartan a lo largo de la noche.</p>\n<h3>Planifica tu noche en Km 8</h3>\n<p>Las puertas se abren a las 19:00 h del lunes 4 de enero de 2027 en Bagatelle Tulum, Carr. Tulum–Boca Paila, km 8, en la Zona Hotelera. Se trata de un local solo para adultos con una política de acceso a partir de los 21 años. Trae la tarjeta física con la que pagaste y un documento de identidad con fotografía, ya que se comprobarán ambos a la llegada. La carretera de la Zona Hotelera se llena las noches de evento, así que planifica tu transporte con antelación o pide a Tulum Bible que te organice una recogida. Para reservar una entrada o una mesa, utiliza el botón de esta página y aparecerá un enlace de pago.</p>",
+          "description": "Monolink lleva su espectáculo en directo de Berlín, una mezcla de música electrónica melódica, guitarra y voz, a la pista de baile de arena del Bagatelle Tulum, junto a Gio de Lira y Renatta.",
+          "hubBlurb": "<p><strong>Monolink llevará su espectáculo en directo a Bagatelle Tulum el 4 de enero.</strong> Este artista berlinés fusiona música electrónica melódica, guitarra y voces evocadoras en una actuación que se mueve entre la pista de baile y el escenario de concierto. Gio de Lira y Renatta completan el cartel en una pista de baile de arena, con diferentes zonas que van desde la entrada general hasta las mesas junto al escenario y el backstage.</p><p><strong>Fecha:</strong> lunes, 4 de enero de 2027, a partir de las 19:00 h<br><strong>Cartel:</strong> Monolink, Gio de Lira, Renatta<br><strong>Entradas:</strong> Desde 1.000 MXN · General · Nivel 1 1.500 MXN · VIP · Nivel 1 2.000 MXN<br><strong>Mesas:</strong> desde 30 000 MXN<br><strong>Reservas:</strong> A través de Tulum Bible</p>",
+          "name": "Monolink at",
+          "slug": "monolink-bagatelle-tulum-2027",
+          "tableInformation": "<p>Los precios de las mesas no incluyen el 15 % de cargo por servicio. Cada mesa incluye la entrada para sus comensales, y el precio de la mesa se destina a la comida y la bebida. No se garantiza la ubicación exacta de la mesa.</p>"
+        }
+      }
+    },
     {
       "base": {
         "afterEnd": "archive",
