@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-15T16:00:56.627Z",
+  "syncedAt": "2026-11-15T16:05:42.556Z",
   "citySlug": "tulum",
   "events": [
     {
@@ -3373,7 +3373,7 @@
         "buyLink": "https://tf.link/4igrumbv",
         "categoryIds": [],
         "cta": "Tickets",
-        "displayPrice": "MXN $1,100",
+        "displayPrice": "MXN $495",
         "endDate": "2026-11-29T19:30",
         "eventType": "BeachClub",
         "faqIds": [],
@@ -3404,18 +3404,18 @@
         "ticketTiers": [
           {
             "currency": "MXN",
-            "id": "1aGp4rUSQV2Kl3Q7I6z7053DSToC0HrtB9LKh0m3KmevswMpjoTWK/kva7anJ5K9AlSYeLIAHtbnEplKYD9gfA==",
+            "id": "Gyso765uhrxxSVVHPf41/xIVWixnCvLox4wGBNERH4qJON7pcjFc+CbJSgCChXRKnlM+rt1h2hYx/PW0Uh+t2g==",
             "isTable": false,
             "name": "Early Bird",
             "price": 450,
             "priceWithFees": 495,
             "sortOrder": 1,
-            "status": "ended",
+            "status": "on_sale",
             "symbol": "Mex$"
           },
           {
             "currency": "MXN",
-            "id": "37hNvD4X+T+L22jc7OQA94a7zXqEi1SjGvSjFphV/djhkHLZ0Ns27bW4CARAmeyE6boq2XImL22Lj1HjVMBZ7g==",
+            "id": "ZsxYgd+sFeke0xy1OJSVuId2XkA5+yL4ovnjeckty518KyctqJSLhFxxF5I3GnSAUI4Qle1JQ9NrKd4r3j7pwQ==",
             "isTable": true,
             "maxGuests": 2,
             "minGuests": 1,
@@ -3428,7 +3428,7 @@
           },
           {
             "currency": "MXN",
-            "id": "3Va0PqYtcatPR14C/Xh/jtf8jp6IpgSonkZx5SZPYjE7m/TO5F19q2L6Tb1vQ1tnEo41qctXe0TOgXX1iggEdA==",
+            "id": "cxpWdP9JXJFeDHeZaVQTUNRgD2k6Z6GLew0K7bricqLpUkrmhX2ThyK1ubXFnQpiGp6dKScjxmXy35M/m8YHmQ==",
             "isTable": false,
             "name": "First Release",
             "price": 600,
@@ -3439,7 +3439,7 @@
           },
           {
             "currency": "MXN",
-            "id": "jARnHOuas8/jvR2I9tlTj8Mq4o68sBDwaLB0YDPJEFBBlzJxkj7lQ5f4Sdhm7cYxV+ud6SAE2daYyK9UFscA4w==",
+            "id": "Nnf8COd4lSkzJSX89uJB8AxR1aRDoZtxLcx9/95S/w3DHdftPhcWwRRbGKregpoCv1aaYS2Yp/pvuUBnNg299Q==",
             "isTable": true,
             "maxGuests": 4,
             "minGuests": 2,
@@ -3452,7 +3452,7 @@
           },
           {
             "currency": "MXN",
-            "id": "TyeyMCxL8OIFuQlDGuBQt0g/fyMcLG8HNoexr278LMxnCzTPzVECDAnD6ilAjwLnCzRACg3hHBzR+IOxDDngWw==",
+            "id": "UlBFTB9+9VfkChu1rPI/VppBTEm/Ee39cv+Kqjist9dT27zoNf4/kahS+s9i5n+++5MwJfQfWHGbKQGQjxpolg==",
             "isTable": false,
             "name": "Final Release",
             "price": 800,
@@ -3463,7 +3463,7 @@
           },
           {
             "currency": "MXN",
-            "id": "1JybZLJloCfS/2hOmacrLicl7L+qis5t/ig0GDL6IjmW/0JJI50viA9w7FgXjxfh24vO+qG3FpojbYgC3DtFsg==",
+            "id": "AFovYWDSG3vY/+CsYaQOXWmHLhHn9MVx4i0xafvj5ZXZ3IryeZtacnvweV4BMoPgSR2VKcjo9mXMUDO3NGgr0g==",
             "isTable": true,
             "maxGuests": 5,
             "minGuests": 3,
@@ -3476,7 +3476,7 @@
           },
           {
             "currency": "MXN",
-            "id": "b4UeCDbmoISK/YOghta8BD2BFHb5aHkagn4Vlg4ewgXvO2ULNSssrCoLcKQM3FRWqYIlzsT0qeHrr3mga9k51w==",
+            "id": "wk+fKjMKXeMZ81j8otdWNgQEbYaAwUuroGE2Q1Lz+dc6EnCIO2Fl3STJmycyh1jYxpgF/IvAMYcCqCl9f5EWzg==",
             "isTable": false,
             "name": "VIP",
             "price": 1000,
@@ -3487,7 +3487,7 @@
           },
           {
             "currency": "MXN",
-            "id": "tZ83MuvmysdTkKQaA1W1mKbtg97T32nuO7IFK2SOJwnNfCAUY7LTyvYp3ZshavnlU2f9vV2a3nswvNKPDrPcfw==",
+            "id": "96Rf66xGNKWZ8/OaB/V6qmyNuoovOMNqMWlhFU9aB4JQtobIOAJMFRD8zsSixeS11os9v8Mr7mwFWGwVcUdIkA==",
             "isTable": true,
             "maxGuests": 8,
             "minGuests": 6,
@@ -3500,7 +3500,7 @@
           },
           {
             "currency": "MXN",
-            "id": "mBxfSQBnWRGtSnPL9KL/wKY1zZoP6lttEhQcxjrwmnRuzWyiB1nTeN/phSbsW3tTIBQ6NS6SeDH97jGKLKhNHA==",
+            "id": "Oge1c/4WUKHAatitFHhdLxVaOCwRPpXgTqAq1XRowX/iXeE3BR76x4S5Oz4m5ZwETVB1idGw2PzpX5r9AIEQ/A==",
             "isTable": false,
             "name": "Backstage",
             "price": 1500,
@@ -3511,7 +3511,7 @@
           },
           {
             "currency": "MXN",
-            "id": "y0U1hwdPs376xKBXpy6TMP5DyKe1BVWX8dx3IhfPAllzQDsIp5iLJLDWw/0iP+eGFyxYL3l8xkjNXPL5+5b+gA==",
+            "id": "XyCqNnfQXYKuIAQ5o0hs/qwHmoH3hQA4rR53LAo47LSC0cvlBszXUPhD6X9Glzyhze1y8yWFGAYROiBaHUzQzA==",
             "isTable": true,
             "maxGuests": 8,
             "minGuests": 6,
@@ -3524,7 +3524,7 @@
           },
           {
             "currency": "MXN",
-            "id": "OC79A9sORj1ryVS79eZwKPhOA0T3i6DXHqZFvKl4zcNR1X+SrtioDmVOfmjPvtKjyADfn/QNm5qS6VM7yy3bvg==",
+            "id": "7qjiRL0aj0Es75S7kjIkLXaf1FZFVKj3i3k76ZO0TPST1OP3DRWLAijxtz+cxM4EXMT6hD2Hez9aaUEUumfupA==",
             "isTable": true,
             "maxGuests": 8,
             "minGuests": 6,
