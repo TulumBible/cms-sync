@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-16T01:52:45.852Z",
+  "syncedAt": "2026-11-16T03:13:27.554Z",
   "citySlug": "tulum",
   "faqs": [
     {
@@ -9481,6 +9481,138 @@
         "es": {
           "answer": "Varios restaurantes de esta guía admiten comensales que traen su propia comida, entre ellos La Zebra Mediterranean, Mezzanine y Mi Amor.",
           "name": "¿Puedo comer en el restaurante de un hotel sin alojarme allí?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "does-mestixa-take-reservations"
+      },
+      "convexId": "k5719z72v84q3crdmxbrgvprrd8jbwkv",
+      "lastUpdated": "2026-11-16T03:01:18.312Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. The dining room is small and fills quickly, so booking ahead is recommended, especially for Wednesday's dumpling menu and Bao Sundays. You can reserve your table through Tulum Bible.",
+          "name": "Does Mestixa take reservations?"
+        },
+        "es": {
+          "answer": "Sí. El comedor es pequeño y se llena enseguida, por lo que se recomienda reservar con antelación, sobre todo para el menú de empanadillas de los miércoles y los domingos de bao. Puedes reservar tu mesa a través de Tulum Bible.",
+          "name": "¿Se pueden hacer reservas en Mestixa?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "what-are-mestixa-s-opening-hours"
+      },
+      "convexId": "k57brt5zzjf0zmbbkf4ts3cfzn8jakgt",
+      "lastUpdated": "2026-11-16T03:01:18.312Z",
+      "locales": {
+        "en": {
+          "answer": "Mestixa is open Wednesday through Monday from 3:00 to 11:00 PM, serving both lunch and dinner. It is closed on Tuesdays.",
+          "name": "What are Mestixa's opening hours?"
+        },
+        "es": {
+          "answer": "Mestixa abre de miércoles a lunes, de 15:00 a 23:00, y sirve tanto el almuerzo como la cena. Cierra los martes.",
+          "name": "¿Cuál es el horario de apertura de Mestixa?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "what-kind-of-food-does-mestixa-serve"
+      },
+      "convexId": "k5704gbvcja5hb3s413n6v24rd8jbfbx",
+      "lastUpdated": "2026-11-16T03:01:18.312Z",
+      "locales": {
+        "en": {
+          "answer": "The kitchen is a Japanese-Mexican fusion, blending Asian technique with Yucatán ingredients. Signature plates include cochinita pibil dumplings, Baja shrimp tempura tacos and birria ramen, with vegetarian options on the menu.",
+          "name": "What kind of food does Mestixa serve?"
+        },
+        "es": {
+          "answer": "La cocina es una fusión japonesa-mexicana que combina técnicas asiáticas con ingredientes yucatecos. Entre los platos estrella se encuentran las albóndigas de cochinita pibil, los tacos de tempura de gambas de Baja California y el ramen de birria, además de contar con opciones vegetarianas en la carta.",
+          "name": "¿Qué tipo de comida se sirve en Mestixa?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "is-mestixa-expensive"
+      },
+      "convexId": "k573n0egc69r11c5bhrzex2z4n8ja8k6",
+      "lastUpdated": "2026-11-16T03:01:18.312Z",
+      "locales": {
+        "en": {
+          "answer": "Mestixa sits at the higher end of Tulum Downtown dining, and the ramen in particular is one of the pricier bowls in town. The lunch bentos are a more affordable way to try the concept before committing to a full dinner.",
+          "name": "Is Mestixa expensive?"
+        },
+        "es": {
+          "answer": "Mestixa se sitúa en la gama alta de la oferta gastronómica del centro de Tulum y, en concreto, su ramen es uno de los platos más caros de la ciudad. Los bentos del almuerzo son una forma más asequible de probar el concepto antes de decidirse por una cena completa.",
+          "name": "¿Es cara la Mestixa?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "are-dogs-allowed-at-mestixa"
+      },
+      "convexId": "k578mtj062cmkrvzyhgkgcnxtx8jap1b",
+      "lastUpdated": "2026-11-16T03:01:18.312Z",
+      "locales": {
+        "en": {
+          "answer": "Yes, dogs are allowed, and the restaurant has outdoor seating.",
+          "name": "Are dogs allowed at Mestixa?"
+        },
+        "es": {
+          "answer": "Sí, se admiten perros, y el restaurante cuenta con terraza.",
+          "name": "¿Se admiten perros en Mestixa?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "where-is-mestixa-located"
+      },
+      "convexId": "k57a0zeh6w5nvkpsrz0btf9fmx8jbt1v",
+      "lastUpdated": "2026-11-16T03:01:18.312Z",
+      "locales": {
+        "en": {
+          "answer": "Mestixa is on Avenida Satélite in downtown Tulum, between Avenida Tulum and Calle Polar Poniente, on a side street just off the main highway through the Pueblo.",
+          "name": "Where is Mestixa located?"
+        },
+        "es": {
+          "answer": "Mestixa se encuentra en la Avenida Satélite, en el centro de Tulum, entre la Avenida Tulum y la Calle Polar Poniente, en una calle lateral justo al lado de la carretera principal que atraviesa el Pueblo.",
+          "name": "¿Dónde se encuentra Mestixa?"
         }
       }
     }

@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-16T01:45:19.039Z",
+  "syncedAt": "2026-11-16T03:13:27.542Z",
   "citySlug": "tulum",
   "venues": [
     {
@@ -3108,6 +3108,119 @@
           "metaDescription": "La Zebra beach club en Tulum ofrece crédito de 1.300 MXN para comer. Cama de día desde 1.400 MXN. Ideal para familias. Reserva en Tulum Bible.",
           "name": "La Zebra",
           "slug": "la-zebra",
+          "tableInformation": ""
+        }
+      }
+    },
+    {
+      "base": {
+        "amenityIds": [
+          "jn70tb3pfy3yycjzk8ke3pgtrs8585z7"
+        ],
+        "area": "downtown",
+        "category": "restaurant",
+        "consumptionPackages": [],
+        "drinkMenuUrl": "",
+        "faqIds": [
+          "k5719z72v84q3crdmxbrgvprrd8jbwkv",
+          "k57brt5zzjf0zmbbkf4ts3cfzn8jakgt",
+          "k5704gbvcja5hb3s413n6v24rd8jbfbx",
+          "k573n0egc69r11c5bhrzex2z4n8ja8k6",
+          "k578mtj062cmkrvzyhgkgcnxtx8jap1b",
+          "k57a0zeh6w5nvkpsrz0btf9fmx8jbt1v"
+        ],
+        "foodMenuUrl": "",
+        "googleMapsCode": "6G7R+6G Tulum, Quintana Roo, Mexico",
+        "googlePlaceId": "ChIJr7lK15_RT48RMfPM2Xmmb88",
+        "hideReservationForm": false,
+        "hubImage": {
+          "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/072df42d-3ca1-4924-8435-ef41894f0400/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+        },
+        "images": [
+          {
+            "alt": "Mestixa dining table with crispy appetizers topped with crispy noodles and garnish served on a black plate beside chopsticks",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/996621c9-fb1c-4e0a-615d-fbee4e2af100/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Mestixa bar with tiered shelving displaying spirits and sake bottles, blue decorative roof panels, golden cat figurines, and",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/e15b4118-2b87-4a35-db69-1c8812b7b300/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Mestixa dining room with brick arches, dragon murals, black tables and chairs, and a bar with bottles along the back wall.",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/a101e7f9-65f1-42e2-6ddd-f1f2b0354800/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Mestixa dining table with plated appetizers topped with crispy garnish, cocktails, and water glasses",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/f1dff4e6-4fbf-4c8e-8f6a-f4da19cc7700/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Two crispy appetizers topped with diced mango and garnish served on a black stand at Mestixa",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/112b1328-d658-4106-7fd0-7ab6ac137c00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Two crispy tostadas topped with orange sauce, crispy noodles and green garnish on a black slate board at Mestixa",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/53730a49-fab1-4401-1b31-e86463b48000/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Fried bread served with red pepper sauce in a black bowl at Mestixa",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/9ae82ede-2b78-4e84-47e0-b1e96625e000/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Diner holding chopsticks with food over a dark bowl at Mestixa's dining table",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/67ca6eab-a87a-400f-d807-3bb125556e00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Hand holding a steamed bun filled with meat and garnish over a bamboo steamer at Mestixa, with dipping sauce and cocktails",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/6597e39c-ab01-42f2-d98a-1f820f37b500/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Mestixa dining table with lettuce wrap appetizers, fresh juices, and diners reaching for food during daytime service",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/267334c9-c74b-4713-61c9-1e21bcb4ac00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          },
+          {
+            "alt": "Hand holding a spoon over a creamy coconut dessert topped with orange peel and mint at Mestixa",
+            "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/b90cce8a-3f43-469e-db68-64a62e501600/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+          }
+        ],
+        "isClosed": false,
+        "isFeatured": false,
+        "isFeaturedOnCoreTulum": false,
+        "isHiddenFromHubs": false,
+        "openingHoursHtml": "<p>03:00 - 23:00</p><p>Closed</p><p>03:00 - 23:00</p><p>03:00 - 23:00</p><p>03:00 - 23:00</p><p>03:00 - 23:00</p><p>03:00 - 23:00</p>",
+        "priority": 2,
+        "promotion": "normal",
+        "publishedAt": null,
+        "reelUrl": "",
+        "reviewIds": [],
+        "tableLayoutImage": null,
+        "tags": [],
+        "tbvId": "TBV_D5K2HB"
+      },
+      "convexId": "jh7epj0pxx83tbjrjwyc562vt58jbz4y",
+      "lastUpdated": "2026-11-16T03:13:00.828Z",
+      "locales": {
+        "en": {
+          "address": "Av satélite Entre Av. Tulum, Calle Polar Pte. y, Tulum",
+          "body": "<h2>Mestixa Tulum: Japanese-Mexican Street Food in the Pueblo</h2>\n<p>Mestixa is a fusion restaurant on Avenida Satélite in downtown Tulum, between Avenida Tulum and Calle Polar Poniente. It is the second restaurant from chef José Luis Hinostroza, the name behind Arca, and runs under executive chef Daniken Ramón. The concept the team calls mestizaje blends the street food traditions of Mexico and Asia on one menu: dumplings, baos, tacos, onigiri, bowls and ramen that pull from both sides at once. The room is small and intimate, with wooden chairs and wrought-iron tables, inlay brick arches and eggshell-white walls, plus a mural of Quetzalcoatl facing off against a Chinese dragon.</p>\n<p>The kitchen has earned a Michelin Bib Gourmand for 2024, 2025 and 2026, and the restaurant now runs a second branch inside the new Tulum Airport. It is a date-night room more than a loud night out, with a sultry, dim-lit feel that reviewers return to.</p>\n<h3>East Meets Yucatán on the Menu</h3>\n<p>The dishes that define the kitchen marry Asian technique to Yucatán ingredients. Dumplings come stuffed with cochinita pibil over a habanero sauce. Baja tacos arrive loaded with shrimp tempura, furikake, mayonnaise and ponzu. The birria ramen is the signature and the most talked-about plate, though portions run small for the price. Crab and shrimp wontons in green curry sauce, tuna tostadas and a grilled cabbage salad round out the spread, alongside sandos, bowls, soups and onigiri.</p>\n<p>Drinks lean into creative cocktails, including a mango and passionfruit daiquiri that pairs well with the richer plates. Vegetarian options are on the menu, and there are a few wrinkles worth knowing: Wednesdays bring an extra dumpling menu, and Bao Sundays turn out brightly colored buns filled with pork belly or soft-shell crab. For a first visit without committing to a full dinner, the lunch bentos are a cheaper way in.</p>\n<h3>Prices and Who It Suits</h3>\n<p>Mestixa sits at the higher end of Tulum Downtown dining, in line with the town's reputation for pricey menus. The ramen in particular is one of the costlier bowls you will find anywhere, and portions trend toward the delicate. The payoff is the craft and the story behind the fusion, which the staff enjoy walking guests through dish by dish. It suits couples and small groups who want an unusual, sit-down meal among the many things to do in Tulum's downtown, rather than a quick taco stop. The room is good for groups, dogs are allowed, and there is outdoor seating.</p>\n<h3>Reserve a Table at Mestixa</h3>\n<p>Mestixa is open Wednesday through Monday from 3:00 to 11:00 PM, and closed Tuesdays, serving both lunch and dinner. It sits on a side street off the main Tulum highway in the Pueblo, a short walk from the downtown restaurant strip. The room is small and fills up, so a reservation is the safe move, especially for Wednesday's dumpling menu or a Bao Sunday. Book your table through the venue page on Tulum Bible.</p>",
+          "coverCharge": "",
+          "description": "Japanese-Mexican street food from Arca chef José Luis Hinostroza, with cochinita pibil dumplings, Baja shrimp tempura tacos and a Michelin Bib Gourmand nod.",
+          "hubBlurb": "<p>Mestixa combina influencias de la comida callejera asiática y mexicana en el centro de Tulum. El bao y el ramen de birria le dan una identidad propia, uniendo ingredientes y técnicas de ambas cocinas en un restaurante pequeño e informal.</p><p><strong>Cocina:</strong> asiático-mexicana.<br><strong>Zona:</strong> Centro de Tulum.<br><strong>Ideal para:</strong> Una cena informal en la ciudad y algo más allá de los restaurantes habituales de la carretera de la playa.<br><strong>Consejo para reservar:</strong> Comprueba la disponibilidad de mesas con antelación si vas por la noche, sobre todo si vas en grupo.</p>",
+          "menuDescription": "Japanese-Mexican street food fusion, from cochinita pibil dumplings and Baja shrimp tempura tacos to a signature birria ramen.",
+          "metaDescription": "Mestixa is a Japanese-Mexican fusion restaurant in downtown Tulum known for cochinita pibil dumplings and birria ramen. Reserve your table on Tulum Bible.",
+          "name": "Mestixa",
+          "slug": "mestixa",
+          "tableInformation": ""
+        },
+        "es": {
+          "address": "Av satélite Entre Av. Tulum, Calle Polar Pte. y, Tulum",
+          "body": "<h2>Mestixa Tulum: comida callejera japonesa-mexicana en el Pueblo</h2>\n<p>Mestixa es un restaurante de fusión situado en la Avenida Satélite, en el centro de Tulum, entre la Avenida Tulum y la Calle Polar Poniente. Es el segundo restaurante del chef José Luis Hinostroza, el artífice de Arca, y está dirigido por el chef ejecutivo Daniken Ramón. El concepto, que el equipo denomina mestizaje, fusiona las tradiciones de la comida callejera de México y Asia en una misma carta: dumplings, baos, tacos, onigiri, bowls y ramen que combinan elementos de ambas culturas a la vez. El local es pequeño e íntimo, con sillas de madera y mesas de hierro forjado, arcos de ladrillo con incrustaciones y paredes de color blanco cáscara de huevo, además de un mural en el que Quetzalcóatl se enfrenta a un dragón chino.</p>\n<p>La cocina ha obtenido un Bib Gourmand de Michelin para los años 2024, 2025 y 2026, y el restaurante cuenta ahora con una segunda sucursal en el nuevo aeropuerto de Tulum. Es un local ideal para una velada romántica más que para una noche de juerga, con un ambiente sensual y de luz tenue al que los críticos vuelven una y otra vez.</p>\n<h3>El Oriente se une a Yucatán en la carta</h3>\n<p>Los platos que definen la cocina combinan técnicas asiáticas con ingredientes yucatecos. Las empanadillas vienen rellenas de cochinita pibil sobre una salsa de habanero. Los tacos de Baja California se sirven repletos de tempura de gambas, furikake, mayonesa y ponzu. El ramen de birria es el plato estrella y el más comentado, aunque las raciones son pequeñas para lo que cuesta. Los wontons de cangrejo y gambas en salsa de curry verde, las tostadas de atún y una ensalada de col a la parrilla completan la oferta, junto con sándwiches, cuencos, sopas y onigiri.</p>\n<p>En cuanto a las bebidas, destacan los cócteles creativos, como un daiquiri de mango y maracuyá que marida muy bien con los platos más contundentes. El menú incluye opciones vegetarianas, y hay algunos detalles que conviene conocer: los miércoles hay un menú extra de dumplings, y los domingos de Bao se sirven bollos de colores vivos rellenos de panceta de cerdo o cangrejo de caparazón blando. Para una primera visita sin comprometerse a una cena completa, los bentos de almuerzo son una forma más económica de empezar.</p>\n<h3>Precios y a quién va dirigido</h3>\n<p>Mestixa se sitúa en la franja más alta de la oferta gastronómica del centro de Tulum, en consonancia con la reputación de la ciudad por sus menús caros. El ramen, en particular, es uno de los platos más caros que encontrarás en cualquier sitio, y las raciones tienden a ser más bien modestas. La recompensa está en la maestría y la historia que hay detrás de la fusión, que el personal disfruta explicando a los comensales plato a plato. Es ideal para parejas y grupos pequeños que busquen una comida tranquila y diferente entre las muchas cosas que hacer en el centro de Tulum, en lugar de una parada rápida para comer tacos. El local es adecuado para grupos, se admiten perros y hay mesas al aire libre.</p>\n<h3>Reserva una mesa en Mestixa</h3>\n<p>Mestixa abre de miércoles a lunes de 15:00 a 23:00 y cierra los martes; sirve tanto almuerzos como cenas. Se encuentra en una calle lateral de la carretera principal de Tulum, en el Pueblo, a un corto paseo de la zona de restaurantes del centro. El local es pequeño y se llena rápido, por lo que lo más seguro es reservar, sobre todo para el menú de dumplings de los miércoles o los domingos de Bao. Reserva tu mesa a través de la página del local en Tulum Bible.</p>",
+          "coverCharge": "",
+          "description": "Comida callejera japonesa-mexicana del chef José Luis Hinostroza, del restaurante Arca, con albóndigas de cochinita pibil, tacos de tempura de gambas de Baja California y una mención Bib Gourmand de Michelin.",
+          "hubBlurb": "<p>Mestixa combina influencias de la comida callejera asiática y mexicana en el centro de Tulum. El bao y el ramen de birria le confieren una identidad propia, fusionando ingredientes y técnicas de ambas cocinas en un restaurante pequeño e informal.</p><p><strong>Cocina:</strong> asiático-mexicana.<br><strong>Zona:</strong> Centro de Tulum.<br><strong>Ideal para:</strong> Una cena informal en la ciudad y algo más allá de los restaurantes habituales de la carretera de la playa.<br><strong>Consejo para reservar:</strong> comprueba la disponibilidad de mesas con antelación si vas por la noche, sobre todo si vas en grupo.</p>",
+          "menuDescription": "Fusión de comida callejera japonesa y mexicana, desde albóndigas de cochinita pibil y tacos de tempura de gambas de Baja California hasta un ramen de birria, plato estrella del local.",
+          "metaDescription": "Mestixa: restaurante de fusión japonesa-mexicana en Tulum. Albóndigas de cochinita pibil y ramen de birria. Reserva tu mesa",
+          "name": "Mestixa",
+          "slug": "mestixa",
           "tableInformation": ""
         }
       }
