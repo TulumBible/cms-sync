@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-16T01:36:27.373Z",
+  "syncedAt": "2026-11-16T01:52:45.852Z",
   "citySlug": "tulum",
   "faqs": [
     {
@@ -9305,6 +9305,182 @@
         "es": {
           "answer": "beach clubs es de Tulum varían mucho, pero Bagatelle se sitúa en la franja de precios más alta. Una tumbona cuesta 1.725 MXN, de los cuales la mayor parte corresponde a consumiciones, y las zonas para grupos tienen un precio a partir de 30.000 MXN, por lo que supone un gasto mayor que el de un día normal en la playa.",
           "name": "¿Cuánto cuesta beach clubs en Tulum en comparación con Bagatelle?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "category"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "what-are-the-best-restaurants-in-tulum"
+      },
+      "convexId": "k57aw8ee3n10zxvra37zpabrph8jahnj",
+      "lastUpdated": "2026-11-16T01:49:06.760Z",
+      "locales": {
+        "en": {
+          "answer": "For a dinner focused on the food, start with ARCA, Hartwood or Casa Banana. Mezzanine offers Thai food with Caribbean views, while Mi Amor suits an adults-only meal for two. For dinner with entertainment, consider Ilios or Gitano Jungle.",
+          "name": "What are the best restaurants in Tulum?"
+        },
+        "es": {
+          "answer": "Si quieres una cena en la que lo principal sea la comida, empieza por ARCA, Hartwood o Casa Banana. Mezzanine ofrece comida tailandesa con vistas al Caribe, mientras que Mi Amor es ideal para una cena íntima para dos, solo para adultos. Si buscas una cena con entretenimiento, te recomendamos Ilios o Gitano Jungle.",
+          "name": "¿Cuáles son los mejores restaurantes de Tulum?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "category"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "where-should-i-eat-in-tulum-town"
+      },
+      "convexId": "k5754rwmms58smj9v9zbkekn7n8jbehg",
+      "lastUpdated": "2026-11-16T01:49:23.170Z",
+      "locales": {
+        "en": {
+          "answer": "Mestixa is a choice for Asian-Mexican cooking, including bao and birria ramen. Onyx offers a broader Mexican and international menu, with cocktails and evening entertainment. Both let you plan dinner without travelling to the Hotel Zone.",
+          "name": "Where should I eat in Tulum town?"
+        },
+        "es": {
+          "answer": "Mestixa es una buena opción para disfrutar de la cocina asiático-mexicana, con platos como el bao y el ramen de birria. Onyx ofrece una carta más variada de platos mexicanos e internacionales, además de cócteles y entretenimiento nocturno. Ambos te permiten planificar la cena sin tener que desplazarte hasta la Zona Hotelera.",
+          "name": "¿Dónde puedo comer en el pueblo de Tulum?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "category"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "which-restaurants-in-tulum-have-ocean-views"
+      },
+      "convexId": "k57a50sgjzza31dqwesaaj6hp58jaa6p",
+      "lastUpdated": "2026-11-16T01:49:36.816Z",
+      "locales": {
+        "en": {
+          "answer": "Mezzanine and Mi Amor overlook the Caribbean, while La Zebra Mediterranean sits directly on the beachfront. Being in the Hotel Zone does not automatically mean a restaurant has a sea view, so check its setting before reserving.",
+          "name": "Which restaurants in Tulum have ocean views?"
+        },
+        "es": {
+          "answer": "Los restaurantes Mezzanine y Mi Amor tienen vistas al Caribe, mientras que La Zebra Mediterranean se encuentra justo en primera línea de playa. El hecho de estar en la Zona Hotelera no garantiza automáticamente que un restaurante tenga vistas al mar, así que comprueba su ubicación antes de reservar.",
+          "name": "¿Qué restaurantes de Tulum tienen vistas al mar?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "category"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "which-tulum-restaurants-are-good-for-birthdays"
+      },
+      "convexId": "k57ekwse7knmm6mjrcyyg08xy58jayzb",
+      "lastUpdated": "2026-11-16T01:49:53.467Z",
+      "locales": {
+        "en": {
+          "answer": "Ilios suits groups who want dinner with a show. Gitano Jungle works for dinner followed by cocktails and music, while Casa Banana is an option for a celebration centred on the meal. Share your group size and preferred atmosphere when booking.",
+          "name": "Which Tulum restaurants are good for birthdays?"
+        },
+        "es": {
+          "answer": "Ilios es ideal para grupos que quieran disfrutar de una cena con espectáculo. Gitano Jungle es perfecto para una cena seguida de cócteles y música, mientras que Casa Banana es una opción ideal para una celebración centrada en la comida. Indica el número de personas de tu grupo y el ambiente que prefieres al hacer la reserva.",
+          "name": "¿Qué restaurantes de Tulum son buenos para celebrar cumpleaños?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "category"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "do-i-need-restaurant-reservations-in-tulum"
+      },
+      "convexId": "k578xs5ap46gy0nmhb5w2tcnfx8jb3s6",
+      "lastUpdated": "2026-11-16T01:50:22.886Z",
+      "locales": {
+        "en": {
+          "answer": "Reserve ahead for a restaurant you particularly want to visit, a larger group or a special occasion. Tell us about seating preferences and dietary requirements when booking. Event nights may have different conditions from regular dinner service.",
+          "name": "Do I need restaurant reservations in Tulum?"
+        },
+        "es": {
+          "answer": "Reserva con antelación si hay un restaurante al que te apetezca especialmente ir, si sois un grupo numeroso o si se trata de una ocasión especial. Indícanos tus preferencias de mesa y tus necesidades alimentarias al hacer la reserva. Las noches de eventos pueden tener condiciones diferentes a las del servicio habitual de cena.",
+          "name": "¿Es necesario reservar mesa en los restaurantes de Tulum?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "category"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "do-tulum-restaurants-charge-a-minimum-spend"
+      },
+      "convexId": "k575ha9f5q3cb771x322qbeeg58jb5bk",
+      "lastUpdated": "2026-11-16T01:50:46.082Z",
+      "locales": {
+        "en": {
+          "answer": "Some group bookings, special events and nightlife tables have minimum spends or prepaid packages. These should be distinguished from ordinary dining reservations. Confirm whether a quoted amount covers food and drinks, bottle service or event access.",
+          "name": "Do Tulum restaurants charge a minimum spend?"
+        },
+        "es": {
+          "answer": "Algunas reservas para grupos, eventos especiales y mesas en locales de ocio nocturno tienen un gasto mínimo o paquetes de prepago. Es importante diferenciarlas de las reservas habituales para cenar. Confirma si el importe indicado incluye la comida y la bebida, el servicio de botellas o el acceso al evento.",
+          "name": "¿Los restaurantes de Tulum exigen un gasto mínimo?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "category"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "are-there-vegetarian-options-in-tulum"
+      },
+      "convexId": "k573jcjc54xnh0nb7wg9d5sjws8jb8ey",
+      "lastUpdated": "2026-11-16T01:51:32.935Z",
+      "locales": {
+        "en": {
+          "answer": "Yes most restaurants include vegetarian and vegan options. Tell the restaurant whether you eat dairy and eggs, and confirm suitable dishes before reserving.",
+          "name": "Are there vegetarian options in Tulum?"
+        },
+        "es": {
+          "answer": "Sí, la mayoría de los restaurantes ofrecen opciones vegetarianas y veganas. Indica al restaurante si consumes lácteos y huevos, y confirma qué platos son adecuados antes de hacer la reserva.",
+          "name": "¿Hay opciones vegetarianas en Tulum?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "category"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "can-i-eat-at-a-hotel-restaurant-without-staying-there"
+      },
+      "convexId": "k578akv2g8mzh05d2hvq6jf4e98ja01d",
+      "lastUpdated": "2026-11-16T01:51:57.108Z",
+      "locales": {
+        "en": {
+          "answer": "Several restaurants in this guide accept outside diners, including La Zebra Mediterranean, Mezzanine and Mi Amor.",
+          "name": "Can I eat at a hotel restaurant without staying there?"
+        },
+        "es": {
+          "answer": "Varios restaurantes de esta guía admiten comensales que traen su propia comida, entre ellos La Zebra Mediterranean, Mezzanine y Mi Amor.",
+          "name": "¿Puedo comer en el restaurante de un hotel sin alojarme allí?"
         }
       }
     }
