@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-16T03:13:27.554Z",
+  "syncedAt": "2026-11-16T03:31:36.669Z",
   "citySlug": "tulum",
   "faqs": [
     {
@@ -9613,6 +9613,116 @@
         "es": {
           "answer": "Mestixa se encuentra en la Avenida Satélite, en el centro de Tulum, entre la Avenida Tulum y la Calle Polar Poniente, en una calle lateral justo al lado de la carretera principal que atraviesa el Pueblo.",
           "name": "¿Dónde se encuentra Mestixa?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "what-are-the-opening-hours-at-taqueria-la-86"
+      },
+      "convexId": "k574r8rnxyng1wry64x7extfds8jb8gy",
+      "lastUpdated": "2026-11-16T03:21:03.107Z",
+      "locales": {
+        "en": {
+          "answer": "The restaurant is open every day of the week, Monday through Sunday, from 11 AM to 11 PM, serving both lunch and dinner.",
+          "name": "What are the opening hours at Taqueria La 86?"
+        },
+        "es": {
+          "answer": "El restaurante abre todos los días de la semana, de lunes a domingo, de 11:00 a 23:00, y ofrece tanto el almuerzo como la cena.",
+          "name": "¿Cuál es el horario de apertura de la Taquería La 86?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "what-should-i-order-at-taqueria-la-86"
+      },
+      "convexId": "k57339wzb69qvpg265tc2pmq1d8jayrs",
+      "lastUpdated": "2026-11-16T03:21:03.107Z",
+      "locales": {
+        "en": {
+          "answer": "The tempura fish taco is the signature dish, and the thin-cut prime ribeye taco and charcoal-grilled mushroom taco are close behind. Regulars also point to the avocado taco, the guacamole and the house-made salsas.",
+          "name": "What should I order at Taqueria La 86?"
+        },
+        "es": {
+          "answer": "El taco de pescado a la tempura es el plato estrella, seguido muy de cerca por el taco de chuletón de primera calidad cortado fino y el taco de setas a la brasa. Los clientes habituales también destacan el taco de aguacate, el guacamole y las salsas caseras.",
+          "name": "¿Qué debería pedir en la Taquería La 86?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "how-much-does-a-meal-at-taqueria-la-86-cost"
+      },
+      "convexId": "k57abz4x9fvv0zw7kp47tpnbs18ja0jx",
+      "lastUpdated": "2026-11-16T03:21:03.107Z",
+      "locales": {
+        "en": {
+          "answer": "Expect to spend roughly MXN 200 to 500 per person, which covers a proper sit-down taco meal with drinks.",
+          "name": "How much does a meal at Taqueria La 86 cost?"
+        },
+        "es": {
+          "answer": "Calcula que gastarás entre 200 y 500 pesos mexicanos por persona, lo que incluye una comida completa de tacos para comer sentado, con bebidas incluidas.",
+          "name": "¿Cuánto cuesta una comida en la Taquería La 86?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "is-taqueria-la-86-good-for-families-and-dogs"
+      },
+      "convexId": "k575pvm6e7a7den4bx3nt14wb58jbgct",
+      "lastUpdated": "2026-11-16T03:21:03.107Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. The restaurant has outdoor seating, works well for groups and children, and dogs are allowed. Parking is free.",
+          "name": "Is Taqueria La 86 good for families and dogs?"
+        },
+        "es": {
+          "answer": "Sí. El restaurante cuenta con terraza, es ideal para grupos y niños, y se admiten perros. El aparcamiento es gratuito.",
+          "name": "¿Es la Taquería La 86 un buen sitio para familias y perros?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "where-is-taqueria-la-86-located"
+      },
+      "convexId": "k57326fd2txnm4gt8cm4tfyep18jar0k",
+      "lastUpdated": "2026-11-16T03:21:03.107Z",
+      "locales": {
+        "en": {
+          "answer": "It is in Aldea Zama at C. Itzamna, Manzana 12 Lote 93, fracc mayazama, between Downtown Tulum and the coast, with free parking on site.",
+          "name": "Where is Taqueria La 86 located?"
+        },
+        "es": {
+          "answer": "Se encuentra en Aldea Zama, en C. Itzamna, Manzana 12, Lote 93, fracc. Mayazama, entre el centro de Tulum y la costa, y cuenta con aparcamiento gratuito en el propio recinto.",
+          "name": "¿Dónde se encuentra la Taquería La 86?"
         }
       }
     }
