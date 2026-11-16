@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-16T03:16:13.653Z",
+  "syncedAt": "2026-11-16T03:46:06.030Z",
   "citySlug": "tulum",
   "categories": [
     {
@@ -39,6 +39,15 @@
     {
       "base": {
         "belowThresholdRedirect": "/venues",
+        "compareColumns": [
+          "area",
+          "cuisines",
+          "bestFor",
+          "priceLevel",
+          "kids",
+          "reservations",
+          "entertainment"
+        ],
         "faqIds": [
           "k57aw8ee3n10zxvra37zpabrph8jahnj",
           "k5754rwmms58smj9v9zbkekn7n8jbehg",
@@ -56,7 +65,7 @@
         "yachtLocation": null
       },
       "convexId": "k1730yn9cpwwv1df2e6h4fzvgd858txt",
-      "lastUpdated": "2026-11-16T03:15:35.458Z",
+      "lastUpdated": "2026-11-16T03:40:26.121Z",
       "locales": {
         "en": {
           "body": "<h3>Arca</h3><p>Chef José Luis Hinostroza’s ARCA centres on contemporary Mexican cooking, seasonal ingredients and an open-fire kitchen. The menu offers both sharing plates and a tasting experience, making it a strong choice for diners who want the food to be the main event.</p><p><strong>Cuisine:</strong> Contemporary Mexican.<br><strong>Area:</strong> Hotel Zone, on the jungle side of the beach road.<br><strong>Best for:</strong> Special dinners, tasting menus and exploring Mexican ingredients.<br><strong>Booking tip:</strong> Decide between à la carte and the tasting menu before booking, and communicate dietary requirements in advance.</p><h3>Hartwood</h3><p>Hartwood cooks over an open fire and wood-burning grill, with a menu that changes daily according to the ingredients available from the sea and surrounding region. The appeal is the combination of seasonal produce, seafood and straightforward fire cooking in an open-air setting.</p><p><strong>Cuisine:</strong> Seasonal Mexican ingredients and wood-fired cooking.<br><strong>Area:</strong> Hotel Zone, on the jungle side of the beach road.<br><strong>Best for:</strong> A food-focused dinner and seasonal seafood.<br><strong>Booking tip:</strong> Reserve ahead and keep an open mind about what to order, as the menu changes daily.</p><h3>Casa Banana</h3><p>Casa Banana brings Argentinian grilling to Tulum’s beach road, with an open wood-fired kitchen preparing steaks, fish and vegetable dishes. It’s a useful choice for a group with different appetites, combining the focus of a steak restaurant with options beyond beef.</p><p><strong>Cuisine:</strong> Argentinian, with wood-fired meat, fish and vegetables.<br><strong>Area:</strong> Hotel Zone.<br><strong>Best for:</strong> Steak dinners, groups and a long meal with friends.<br><strong>Booking tip:</strong> Reserve larger tables ahead and check the menu for sharing cuts when planning a group dinner.</p><h3>Where to eat: Tulum town or the beach road?</h3><p><strong>The Hotel Zone</strong> is a starting point for destination dinners, beachfront restaurants and venues with DJs or live entertainment. Check the exact location: a restaurant on the beach road may sit on the jungle side, without an ocean view.</p><p><strong>Downtown Tulum</strong> offers casual restaurants, Mexican food and places where you can combine dinner with an evening in town. Mestixa and Onyx are two different options included in this guide.</p><p><strong>La Veleta and Aldea Zamá</strong> are also worth exploring when you’re staying nearby, especially for neighbourhood meals and cafés.</p><p><strong>The northern coastal area around Parque Jaguar</strong> includes Mezzanine and Mi Amor. Confirm access arrangements with the restaurant when planning your visit.</p>",
