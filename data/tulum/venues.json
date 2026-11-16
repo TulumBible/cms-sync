@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-16T00:01:46.358Z",
+  "syncedAt": "2026-11-16T00:03:23.366Z",
   "citySlug": "tulum",
   "venues": [
     {
@@ -1430,11 +1430,23 @@
           "jn7dnm1kp63ahnqvjhhyz7944d859qpv",
           "jn72f5n145a7gcvx7evwc8yzws8588h6",
           "jn74axgjrqtsa18w8nxttnxfg5859e39",
-          "jn796fkb2npe38c126gkzmhe85858yf5"
+          "jn76cg9jqcvq6gh3xwf0cj2c2s859sx2",
+          "jn785e6n78fzxfq3e6yc4z206s858vs7"
         ],
         "area": "hotel-zone",
         "category": "beachclub",
-        "consumptionPackages": [],
+        "consumptionPackages": [
+          {
+            "capacity": 1,
+            "consumption": "1500",
+            "key": "pkg-mwii18d7-iadd",
+            "note": null,
+            "noteEs": null,
+            "price": "1725",
+            "title": "Sunbed",
+            "titleEs": null
+          }
+        ],
         "drinkMenuUrl": "https://assets.tulumbible.com/menus/tulum/bagatelle-tulum-drinks-menu.pdf",
         "faqIds": [
           "k57d22ne8stcd4d4et3zymem1x8dx0zk",
@@ -1478,14 +1490,14 @@
         "openingHoursHtml": "<p>11:00 - 01:00</p><p>11:00 - 01:00</p><p>11:00 - 01:00</p><p>11:00 - 01:00</p><p>11:00 - 01:00</p><p>11:00 - 01:00</p><p>11:00 - 01:00</p>",
         "priority": 5,
         "promotion": "normal",
-        "publishedAt": "2026-09-07T23:06:50.742Z",
+        "publishedAt": "2026-11-16T00:03:09.967Z",
         "reelUrl": "",
         "reviewIds": [],
         "tableLayoutImage": null,
         "tags": []
       },
       "convexId": "jh71fkmf2b1ddc1n0vjggg0c417qy4kb",
-      "lastUpdated": "2026-10-09T15:41:49.668Z",
+      "lastUpdated": "2026-11-16T00:03:22.770Z",
       "locales": {
         "en": {
           "address": "Carr. Tulum-Boca Paila 8, Tulum Beach, 77760 Q.R",
