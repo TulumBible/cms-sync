@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-16T03:36:01.994Z",
+  "syncedAt": "2026-11-16T03:36:57.584Z",
   "citySlug": "tulum",
   "venues": [
     {
@@ -748,9 +748,20 @@
           "jn785e6n78fzxfq3e6yc4z206s858vs7"
         ],
         "area": "downtown",
+        "bestFor": [
+          "date-night",
+          "celebrations"
+        ],
         "category": "restaurant",
         "consumptionPackages": [],
+        "cuisines": [
+          "mexican",
+          "international"
+        ],
         "drinkMenuUrl": "",
+        "entertainment": [
+          "live-music"
+        ],
         "faqIds": [
           "k57e6kyphsz8nj7ve5841stspx8dwvq6",
           "k579mbzxvzg7x60ktn77hxngqh8dxg6s",
@@ -790,17 +801,20 @@
         "isFeatured": false,
         "isFeaturedOnCoreTulum": false,
         "isHiddenFromHubs": false,
+        "kidsPolicy": "welcome",
         "openingHoursHtml": "<p>12:00 - 00:00</p><p>12:00 - 00:00</p><p>12:00 - 00:00</p><p>12:00 - 00:00</p><p>12:00 - 00:00</p><p>12:00 - 00:00</p><p>12:00 - 00:00</p>",
+        "priceLevel": "$$",
         "priority": 1,
         "promotion": "normal",
-        "publishedAt": "2026-09-07T23:41:56.366Z",
+        "publishedAt": "2026-11-16T01:38:06.940Z",
         "reelUrl": "",
+        "reservationPolicy": "recommended",
         "reviewIds": [],
         "tableLayoutImage": null,
         "tags": []
       },
       "convexId": "jh7f70c6n0hxh5h57hxkvb1y0d7qztbb",
-      "lastUpdated": "2026-11-16T01:38:06.762Z",
+      "lastUpdated": "2026-11-16T03:36:44.999Z",
       "locales": {
         "en": {
           "address": "M4 L09-1, C. Orión Sur entre Calle Andromeda y Av. Tulum, Tulum Centro, 77760 Tulum, Q.R.",
