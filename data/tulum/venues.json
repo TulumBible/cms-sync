@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-16T03:46:05.918Z",
+  "syncedAt": "2026-11-16T03:46:57.558Z",
   "citySlug": "tulum",
   "venues": [
     {
@@ -1254,6 +1254,10 @@
           "jn789ppm3v02c83qr73j8xf4tn8bz6f5"
         ],
         "area": "hotel-zone",
+        "bestFor": [
+          "celebrations",
+          "dinner-show"
+        ],
         "category": "restaurant",
         "consumptionPackages": [
           {
@@ -1267,7 +1271,13 @@
             "titleEs": "Servicio de botellas"
           }
         ],
+        "cuisines": [
+          "mexican"
+        ],
         "drinkMenuUrl": "https://assets.tulumbible.com/menus/tulum/gitano-jungle-drinks-menu.pdf",
+        "entertainment": [
+          "dj"
+        ],
         "faqIds": [
           "k57d5wq8p3sh43fay18evdh0698dx8h4",
           "k576dpep943d1fjgn2031ddrhd8dx9tc",
@@ -1307,17 +1317,20 @@
         "isFeatured": false,
         "isFeaturedOnCoreTulum": false,
         "isHiddenFromHubs": false,
+        "kidsPolicy": "adults-only",
         "openingHoursHtml": "<p>18:00 - 01:00</p><p>18:00 - 01:00</p><p>18:00 - 01:00</p><p>18:00 - 01:00</p><p>18:00 - 03:00</p><p>18:00 - 01:00</p><p>18:00 - 01:00</p>",
+        "priceLevel": "$$$$",
         "priority": 4,
         "promotion": "normal",
-        "publishedAt": "2026-09-07T23:06:50.742Z",
+        "publishedAt": "2026-11-16T01:39:02.786Z",
         "reelUrl": "",
+        "reservationPolicy": "recommended",
         "reviewIds": [],
         "tableLayoutImage": null,
         "tags": []
       },
       "convexId": "jh72075epd4m1g8m5ke7qddnmd7qyez8",
-      "lastUpdated": "2026-11-16T01:39:02.622Z",
+      "lastUpdated": "2026-11-16T03:46:41.686Z",
       "locales": {
         "en": {
           "address": "Beach Road Km. 7, 77710 Q.R",
