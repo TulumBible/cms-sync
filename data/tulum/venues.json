@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-16T03:33:40.198Z",
+  "syncedAt": "2026-11-16T03:36:01.994Z",
   "citySlug": "tulum",
   "venues": [
     {
@@ -247,9 +247,19 @@
           "jn789ppm3v02c83qr73j8xf4tn8bz6f5"
         ],
         "area": "hotel-zone",
+        "bestFor": [
+          "dinner-show"
+        ],
         "category": "restaurant",
         "consumptionPackages": [],
+        "cuisines": [
+          "mediterranean"
+        ],
         "drinkMenuUrl": "",
+        "entertainment": [
+          "dj",
+          "show"
+        ],
         "faqIds": [
           "k576wrz34zc4rwj8dk58c5mv8x8d0x4b",
           "k575r1wcnzvs38xz6n8jbbrn2h8d04ng",
@@ -288,17 +298,20 @@
         "isFeatured": false,
         "isFeaturedOnCoreTulum": false,
         "isHiddenFromHubs": false,
+        "kidsPolicy": "adults-only",
         "openingHoursHtml": "<p>17:00 - 01:00</p><p>17:00 - 01:00</p><p>17:00 - 01:00</p><p>17:00 - 01:00</p><p>17:00 - 01:00</p><p>17:00 - 01:00</p><p>17:00 - 01:00</p>",
+        "priceLevel": "$$$",
         "priority": 1,
         "promotion": "editors-pick",
-        "publishedAt": "2026-11-16T01:35:58.452Z",
+        "publishedAt": "2026-11-16T01:36:13.100Z",
         "reelUrl": "",
+        "reservationPolicy": "recommended",
         "reviewIds": [],
         "tableLayoutImage": null,
         "tags": []
       },
       "convexId": "jh78a095xj124gadjm89dd42ts7qzg4b",
-      "lastUpdated": "2026-11-16T01:36:12.938Z",
+      "lastUpdated": "2026-11-16T03:35:44.831Z",
       "locales": {
         "en": {
           "address": "Carr. Tulum-Boca Paila Km. 8, Tulum Beach, Zona Hotelera, 77780 Tulum, Q.R.",
