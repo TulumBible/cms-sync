@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-16T03:50:21.045Z",
+  "syncedAt": "2026-11-16T03:50:44.108Z",
   "citySlug": "tulum",
   "venues": [
     {
@@ -248,12 +248,14 @@
         ],
         "area": "hotel-zone",
         "bestFor": [
+          "celebrations",
           "dinner-show"
         ],
         "category": "restaurant",
         "consumptionPackages": [],
         "cuisines": [
-          "mediterranean"
+          "mediterranean",
+          "greek"
         ],
         "drinkMenuUrl": "",
         "entertainment": [
@@ -303,7 +305,7 @@
         "priceLevel": "$$$",
         "priority": 1,
         "promotion": "editors-pick",
-        "publishedAt": "2026-11-16T01:36:13.100Z",
+        "publishedAt": "2026-11-16T03:35:45.016Z",
         "reelUrl": "",
         "reservationPolicy": "recommended",
         "reviewIds": [],
@@ -311,7 +313,7 @@
         "tags": []
       },
       "convexId": "jh78a095xj124gadjm89dd42ts7qzg4b",
-      "lastUpdated": "2026-11-16T03:35:44.831Z",
+      "lastUpdated": "2026-11-16T03:50:40.342Z",
       "locales": {
         "en": {
           "address": "Carr. Tulum-Boca Paila Km. 8, Tulum Beach, Zona Hotelera, 77780 Tulum, Q.R.",
