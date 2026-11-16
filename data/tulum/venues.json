@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-16T03:49:44.558Z",
+  "syncedAt": "2026-11-16T03:50:21.045Z",
   "citySlug": "tulum",
   "venues": [
     {
@@ -2572,6 +2572,9 @@
           "mediterranean"
         ],
         "drinkMenuUrl": "",
+        "entertainment": [
+          "background-music"
+        ],
         "faqIds": [
           "k574ek8ydw6nmrbe8wkx7vhkxx8eqjjh",
           "k573zpzg5r4j167804x49hrdj58eqswt",
@@ -2644,7 +2647,7 @@
         "priceLevel": "$$$",
         "priority": 5,
         "promotion": "normal",
-        "publishedAt": "2026-11-16T01:40:41.184Z",
+        "publishedAt": "2026-11-16T03:45:51.199Z",
         "reelUrl": "",
         "reservationPolicy": "required",
         "reviewIds": [],
@@ -2653,7 +2656,7 @@
         "tbvId": "TBV_ETNT65"
       },
       "convexId": "jh7fmbvq478tpamhxwjf6m9mph8epn1t",
-      "lastUpdated": "2026-11-16T03:45:51.003Z",
+      "lastUpdated": "2026-11-16T03:49:44.687Z",
       "locales": {
         "en": {
           "address": "Carr. Tulum-Boca Paila Km 8.2, Tulum Beach, Zona Hotelera, Tulum",
@@ -3335,6 +3338,7 @@
         ],
         "drinkMenuUrl": "",
         "entertainment": [
+          "background-music",
           "quiet"
         ],
         "faqIds": [
@@ -3392,7 +3396,7 @@
         "priceLevel": "$$",
         "priority": 1,
         "promotion": "editors-pick",
-        "publishedAt": "2026-11-16T03:33:11.712Z",
+        "publishedAt": "2026-11-16T03:33:36.611Z",
         "reelUrl": "",
         "reservationPolicy": "walk-in",
         "reviewIds": [],
@@ -3401,7 +3405,7 @@
         "tbvId": "TBV_6A53CD"
       },
       "convexId": "jh78rs06tmjtwd8177wbg8x4058jbqch",
-      "lastUpdated": "2026-11-16T03:33:36.427Z",
+      "lastUpdated": "2026-11-16T03:49:59.860Z",
       "locales": {
         "en": {
           "address": "C. Itzamna MZ 12 LT 93 and cambuy, fracc mayazama, Tulum",
