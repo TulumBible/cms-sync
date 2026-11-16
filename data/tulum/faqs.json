@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-15T23:56:47.953Z",
+  "syncedAt": "2026-11-16T00:15:03.012Z",
   "citySlug": "tulum",
   "faqs": [
     {
@@ -9195,6 +9195,116 @@
         "es": {
           "answer": "Las prestaciones varían según el lugar y el paquete. Antes de reservar, confirma el precio total, el crédito para comida y bebida, los cargos por servicio y cualquier otro gasto, para que sepas qué importe tendrás que abonar el mismo día.",
           "name": "¿Están incluidos los gastos de servicio en los precios del club de playa?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "how-much-does-a-table-or-cabana-cost-at-bagatelle-tulum"
+      },
+      "convexId": "k57av4hxde4zbjj2nx0cknetvs8ja4rw",
+      "lastUpdated": "2026-11-16T00:14:28.987Z",
+      "locales": {
+        "en": {
+          "answer": "Cabanas and sections run from 30,000 MXN for a group of eight up to 120,000 MXN for a backstage section seating up to twelve. A single sunbed is 1,725 MXN, with 1,500 MXN consumable toward food and drinks.",
+          "name": "How much does a table or cabana cost at Bagatelle Tulum?"
+        },
+        "es": {
+          "answer": "Las cabañas y las zonas VIP oscilan entre los 30 000 MXN para un grupo de ocho personas y los 120 000 MXN para una zona VIP entre bastidores con capacidad para doce personas. Una tumbona individual cuesta 1 725 MXN, con 1 500 MXN para gastar en comida y bebida.",
+          "name": "¿Cuánto cuesta una mesa o una cabaña en Bagatelle Tulum?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "how-much-are-event-tickets-for-the-dj-nights-at-bagatelle"
+      },
+      "convexId": "k572rm719zgvy8dygm7667ek198jay08",
+      "lastUpdated": "2026-11-16T00:14:28.987Z",
+      "locales": {
+        "en": {
+          "answer": "Event tickets start at 1,000 MXN and run up to 4,200 MXN for backstage access.",
+          "name": "How much are event tickets for the DJ nights at Bagatelle?"
+        },
+        "es": {
+          "answer": "Las entradas para el evento cuestan entre 1.000 MXN y 4.200 MXN, con acceso entre bastidores.",
+          "name": "¿Cuánto cuestan las entradas para las noches de DJ en Bagatelle?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "who-is-playing-at-bagatelle-this-high-season"
+      },
+      "convexId": "k57ef8jw0r644cr0wc05nkr0d18jafep",
+      "lastUpdated": "2026-11-16T00:14:28.987Z",
+      "locales": {
+        "en": {
+          "answer": "Guy Gerber is confirmed for New Year's Eve, with Monolink, Franky Rizardo and Marco Carola also announced and more acts still to come for the 2026-27 season.",
+          "name": "Who is playing at Bagatelle this high season?"
+        },
+        "es": {
+          "answer": "Se ha confirmado la presencia de Guy Gerber para la Nochevieja; también se han anunciado Monolink, Franky Rizardo y Marco Carola, y aún quedan más artistas por confirmar para la temporada 2026-27.",
+          "name": "¿Quién va a actuar en Bagatelle esta temporada alta?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "is-parking-available-at-bagatelle-tulum"
+      },
+      "convexId": "k570w8w33ay12d0zsm12aawm6x8jadfa",
+      "lastUpdated": "2026-11-16T00:14:28.987Z",
+      "locales": {
+        "en": {
+          "answer": "Yes. The property has valet and paid parking on site, along with wheelchair access and restrooms.",
+          "name": "Is parking available at Bagatelle Tulum?"
+        },
+        "es": {
+          "answer": "Sí. El establecimiento cuenta con servicio de aparcacoches y aparcamiento de pago en el propio recinto, además de acceso para sillas de ruedas y aseos.",
+          "name": "¿Hay aparcamiento disponible en Bagatelle Tulum?"
+        }
+      }
+    },
+    {
+      "base": {
+        "appliesTo": [
+          "venue"
+        ],
+        "areaSlug": null,
+        "category": null,
+        "slug": "how-much-are-beach-clubs-in-tulum-compared-to-bagatelle"
+      },
+      "convexId": "k57c6bw7j412gj2zcmjf6hac358jaqg8",
+      "lastUpdated": "2026-11-16T00:14:28.987Z",
+      "locales": {
+        "en": {
+          "answer": "Tulum beach clubs vary widely, but Bagatelle sits at the top price band. A sunbed is 1,725 MXN with most of that consumable, and group sections start at 30,000 MXN, so it is a higher spend than a casual beach day.",
+          "name": "How much are beach clubs in Tulum compared to Bagatelle?"
+        },
+        "es": {
+          "answer": "beach clubs es de Tulum varían mucho, pero Bagatelle se sitúa en la franja de precios más alta. Una tumbona cuesta 1.725 MXN, de los cuales la mayor parte corresponde a consumiciones, y las zonas para grupos tienen un precio a partir de 30.000 MXN, por lo que supone un gasto mayor que el de un día normal en la playa.",
+          "name": "¿Cuánto cuesta beach clubs en Tulum en comparación con Bagatelle?"
         }
       }
     }
