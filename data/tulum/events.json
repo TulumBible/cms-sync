@@ -1,7 +1,174 @@
 {
-  "syncedAt": "2026-11-18T12:00:49.881Z",
+  "syncedAt": "2026-11-18T13:35:38.713Z",
   "citySlug": "tulum",
   "events": [
+    {
+      "base": {
+        "afterEnd": "archive",
+        "buyLink": "https://tf.link/brvbolha",
+        "categoryIds": [],
+        "cta": "Tickets",
+        "displayPrice": "MXN $1,000",
+        "endDate": "2026-11-28T23:59",
+        "eventType": "BeachClub",
+        "faqIds": [],
+        "flyerImage": {
+          "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/c068f7e7-70a1-4812-e140-dc2680f2f800/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+        },
+        "gaLink": null,
+        "gaPrice": null,
+        "hubImage": null,
+        "isFeatured": false,
+        "isPublished": true,
+        "lineup": [
+          "JOEZI"
+        ],
+        "noPrice": false,
+        "promotion": "normal",
+        "publishedAt": "2026-11-18T13:35:17.691Z",
+        "qrCode": "M0 0.5h7m3 0h1m1 0h2m2 0h6m1 0h1m2 0h1m1 0h1m1 0h7M0 1.5h1m5 0h1m1 0h1m1 0h1m4 0h1m5 0h2m2 0h1m1 0h2m1 0h1m5 0h1M0 2.5h1m1 0h3m1 0h1m5 0h1m1 0h1m5 0h2m5 0h2m1 0h1m1 0h3m1 0h1M0 3.5h1m1 0h3m1 0h1m1 0h3m1 0h4m4 0h1m1 0h1m1 0h5m1 0h1m1 0h3m1 0h1M0 4.5h1m1 0h3m1 0h1m2 0h1m6 0h2m1 0h2m2 0h1m4 0h1m1 0h1m1 0h3m1 0h1M0 5.5h1m5 0h1m1 0h2m1 0h3m1 0h3m2 0h2m3 0h1m1 0h2m1 0h1m5 0h1M0 6.5h7m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h7M9 7.5h3m4 0h1m3 0h3m3 0h1m1 0h1M0 8.5h5m1 0h4m1 0h1m1 0h2m1 0h2m2 0h1m1 0h5m2 0h1m1 0h1m1 0h1m1 0h1M3 9.5h3m3 0h2m1 0h2m1 0h2m1 0h6m4 0h2m1 0h1m1 0h3M4 10.5h1m1 0h1m1 0h3m3 0h5m2 0h2m3 0h5m1 0h3m1 0h1M0 11.5h2m2 0h2m1 0h3m2 0h1m2 0h2m2 0h5m2 0h1m6 0h1m1 0h1M0 12.5h1m5 0h1m3 0h1m1 0h3m2 0h1m4 0h2m1 0h1m1 0h8m1 0h1M2 13.5h1m4 0h1m8 0h1m1 0h2m5 0h2m1 0h1m2 0h1m2 0h2M1 14.5h1m4 0h1m1 0h1m2 0h2m1 0h3m1 0h1m1 0h3m3 0h3m1 0h1m1 0h1m1 0h3M1 15.5h1m1 0h3m1 0h1m1 0h1m1 0h1m2 0h3m3 0h3m3 0h1m1 0h1m4 0h1m2 0h1M1 16.5h1m3 0h3m1 0h3m3 0h3m5 0h4m1 0h3m1 0h3m1 0h1M0 17.5h1m1 0h3m2 0h1m2 0h1m1 0h2m2 0h5m1 0h2m2 0h3m2 0h1m2 0h2M0 18.5h2m2 0h1m1 0h2m1 0h1m3 0h3m4 0h3m1 0h1m2 0h3m1 0h2m1 0h3M2 19.5h2m1 0h1m1 0h2m3 0h2m1 0h2m2 0h4m3 0h4m1 0h2m3 0h1M3 20.5h2m1 0h1m2 0h1m2 0h1m1 0h1m2 0h1m4 0h1m2 0h2m2 0h2m1 0h1m1 0h3M2 21.5h1m7 0h1m5 0h1m2 0h3m1 0h1m2 0h1m1 0h1m6 0h1M0 22.5h2m3 0h2m2 0h4m2 0h2m1 0h1m1 0h3m2 0h1m1 0h1m1 0h1m1 0h3m1 0h2M0 23.5h1m6 0h3m1 0h1m2 0h3m1 0h1m2 0h2m4 0h2m1 0h1m1 0h1m3 0h1M0 24.5h1m3 0h1m1 0h1m2 0h1m1 0h1m3 0h3m4 0h1m3 0h5m1 0h5M0 25.5h6m2 0h2m2 0h3m1 0h1m1 0h6m1 0h2m1 0h1m2 0h1m3 0h1M0 26.5h1m2 0h1m2 0h1m6 0h3m2 0h1m3 0h1m1 0h5m3 0h5M0 27.5h1m1 0h3m3 0h3m1 0h2m1 0h2m4 0h1m1 0h1m2 0h3m1 0h4m2 0h1M0 28.5h1m5 0h1m2 0h2m1 0h1m1 0h4m2 0h1m1 0h1m1 0h11M8 29.5h1m1 0h1m5 0h6m1 0h2m3 0h1m3 0h1m1 0h1M0 30.5h7m1 0h2m1 0h2m2 0h2m1 0h1m1 0h3m2 0h1m2 0h1m1 0h1m1 0h5M0 31.5h1m5 0h1m4 0h1m2 0h3m2 0h4m3 0h1m1 0h1m3 0h1M0 32.5h1m1 0h3m1 0h1m1 0h1m1 0h2m4 0h2m1 0h2m1 0h1m1 0h11M0 33.5h1m1 0h3m1 0h1m1 0h1m3 0h3m3 0h1m1 0h1m2 0h1m1 0h1m2 0h3m1 0h1m1 0h3M0 34.5h1m1 0h3m1 0h1m1 0h1m1 0h1m2 0h3m1 0h1m4 0h1m1 0h3m1 0h1m2 0h1m1 0h1m1 0h2M0 35.5h1m5 0h1m1 0h2m2 0h2m2 0h1m3 0h2m4 0h1m1 0h1m1 0h2m4 0h1M0 36.5h7m1 0h3m1 0h1m1 0h1m2 0h1m2 0h1m1 0h1m1 0h4m1 0h2m1 0h5<!--vb:37-->",
+        "startDate": "2026-11-28",
+        "status": "Live",
+        "tableLayoutImage": null,
+        "tbeId": "TBE_X9DAYF",
+        "ticketPrice": null,
+        "ticketTiers": [
+          {
+            "currency": "MXN",
+            "id": "idmDzakuByxbpx2JXR0YbFChPPy85oYUbYH32K5rJkGpNHpEbYH4LYNnTauCPDDvMh34JiP+h66OiI6+YRJ4mA==",
+            "isTable": false,
+            "name": "Early Bird",
+            "price": 1000,
+            "priceWithFees": 1000,
+            "sortOrder": 1,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "EwRu+uHT4VWz5T7dETQUwwt8WL3Rw3cUYhaC7Z4AYR09ZswPMsoRUL6z+/6VkezCeWIYR7ONOB42kCmSk7jaLQ==",
+            "isTable": false,
+            "name": "Tier 1",
+            "price": 1200,
+            "priceWithFees": 1200,
+            "sortOrder": 2,
+            "status": "upcoming",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "LKA+mSbekGp2CZrvGYOFRTzXArClttT2b2rQUbRf+bHH6RXoxJGVJYNsDuci576aY+FEGlBZw1KQKsq2GmPc7A==",
+            "isTable": false,
+            "name": "Tier 2",
+            "price": 1350,
+            "priceWithFees": 1350,
+            "sortOrder": 3,
+            "status": "upcoming",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "vye9YW2umwInohmGklxjO0YPMddhTPtGjMTskXfxvswKQlW0SXEEqlq/NVaIIrOSs+yLUK1JjQ4BD0HdW7E1mQ==",
+            "isTable": true,
+            "maxGuests": 8,
+            "minGuests": 6,
+            "name": "Table 1 - 2",
+            "price": 17280,
+            "priceWithFees": 17280,
+            "sortOrder": 4,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "WgkOJ0u610F0ZL/8oO7WiskHDX9/+3r3BXSXLMNzG32UAaSW7F7WsFy23RXd/WVsub9ng5Qsm48uP5AQzK91pg==",
+            "isTable": false,
+            "name": "Tier 3",
+            "price": 1500,
+            "priceWithFees": 1500,
+            "sortOrder": 5,
+            "status": "upcoming",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "Dy+Qo0k3aPjW35vVstOhlAxdkPHzSaEaTwTjrIOI8qXxpNuyCyWFoqINTiFtZpk0zpHhqTMrMM+XnR+blt/38Q==",
+            "isTable": true,
+            "maxGuests": 12,
+            "minGuests": 8,
+            "name": "Table 3 - 6",
+            "price": 37800,
+            "priceWithFees": 37800,
+            "sortOrder": 6,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "HtniXIbndJzlkfa+bohgDM4e142OcvRxsoxOrHCsSGnPXZaySyhrBEHjP2pXZz7+8o7ufCSEHHHirJYsYrrjfw==",
+            "isTable": false,
+            "name": "Dinner + Party + Welcome Drink",
+            "price": 1430,
+            "priceWithFees": 1430,
+            "sortOrder": 7,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "KRbwsoz7zewq8PRl8LmMAQmtH7k5AmtTrKVT2jmOZaJMOj+gDHaOxuq190yDmn3FNw4xTAhdvfbkijanhFj9QQ==",
+            "isTable": true,
+            "maxGuests": 14,
+            "minGuests": 10,
+            "name": "Table 7 - 14",
+            "price": 30240,
+            "priceWithFees": 30240,
+            "sortOrder": 8,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "4E8btK5plyNl6menVH0UnzCYwC82bzZ9ihUJu16HgnUTJt0U+E2mbr/jqFerD+0m1ZGmZjdiKNe+YfDQWIPymA==",
+            "isTable": true,
+            "maxGuests": 14,
+            "minGuests": 10,
+            "name": "Table 15 - 18",
+            "price": 27000,
+            "priceWithFees": 27000,
+            "sortOrder": 9,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          }
+        ],
+        "time": "21:00",
+        "url": "https://tf.link/brvbolha",
+        "venueName": "IKAL Tulum Hotel",
+        "venueSlug": null,
+        "vipLink": null,
+        "vipPrice": null
+      },
+      "convexId": "j57aqm9cexz18hcq34zpezek5x8je8m5",
+      "lastUpdated": "2026-11-18T13:35:27.600Z",
+      "locales": {
+        "en": {
+          "body": "<h2>Joezi Opens Tulum's Season at Ikal Arena</h2><p>Wave Society brings Joezi to Ikal Arena for a Saturday night of dancing by the sea. The Paris-born DJ, born Jonathan Zirah in 1987, builds sets that pull from afro-house, melodic techno and warm, deep house. His tracks reach more than a million listeners a month, with releases like \"Cola\" built for exactly this kind of open-air floor. This is one of the nights that marks the start of the Tulum season, so the room draws people who have come to dance and stay late.</p><p>The promoter frames the night simply: the sea in the background, a dance floor set among palm trees, and a crowd there to share music and find new connections. Joezi plays long, which gives his sets room to move from slower, melodic moments into the deeper afro-house that has become his signature. Expect the kind of build that keeps the floor full rather than a string of peaks.</p><h3>An Open-Air Floor by the Sea</h3><p>Ikal Arena is the outdoor dance space by to Ikal Tulum Hotel, set along the beach road. The floor sits in the open air, with palm trees overhead and the sea close enough to hear between tracks. </p><h3>Doors and Start Time</h3><p>The night runs on Saturday, November 28, Music starts at 9pm. Tickets start at 1,000 pesos. Earlier tiers tend to sell first on nights like this, so booking ahead through the buy button on this page is the safer way to lock in the lower price and make sure you get in. </p>",
+          "description": "Paris-born house and afro-house DJ Joezi, with over a million monthly listeners, plays the open-air Ikal Arena for a night of dancing by the sea.",
+          "hubBlurb": "<p><strong>Joezi plays the open-air Ikal Arena in Tulum on November 28.</strong> Wave Society brings the Paris-born house and afro-house DJ Joezi to Ikal Arena for a Saturday night on an open-air floor by the sea. Expect long,  sets among the palms, with the season's crowd there to dance late. Music starts at 9pm.</p><p><strong>Date:</strong> Saturday, November 28, 2026, from 9:00 PM<br><strong>Lineup:</strong> JOEZI<br><strong>Tickets:</strong> From MXN $1,000 · Tier 1 MXN $1,200 · Tier 2 MXN $1,350<br><strong>Tables:</strong> From MXN $17,280<br><strong>Book:</strong> Through Tulum Bible</p>",
+          "name": "Joezi at Ikal Arena",
+          "slug": "joezi-28nov2026",
+          "tableInformation": ""
+        },
+        "es": {
+          "body": "<h2>Joezi inaugura la temporada de Tulum en el Ikal Arena</h2><p>Wave Society trae a Joezi al Ikal Arena para una noche de sábado de baile junto al mar. El DJ nacido en París, cuyo nombre real es Jonathan Zirah y que nació en 1987, crea sesiones que combinan afro-house, techno melódico y deep house cálido. Sus temas llegan a más de un millón de oyentes al mes, con lanzamientos como «Cola», creados precisamente para este tipo de pista al aire libre. Esta es una de las noches que marcan el inicio de la temporada de Tulum, por lo que el local atrae a gente que ha venido a bailar y a quedarse hasta tarde.</p><p>El promotor resume la noche de forma sencilla: el mar de fondo, una pista de baile entre palmeras y un público dispuesto a compartir música y establecer nuevas conexiones. Joezi pincha durante mucho tiempo, lo que permite que sus sesiones pasen de momentos más lentos y melódicos al afro-house más profundo que se ha convertido en su sello distintivo. Es de esperar ese tipo de desarrollo que mantiene la pista llena, más que una sucesión de picos.</p><h3>Una pista al aire libre junto al mar</h3><p>Ikal Arena es el espacio de baile al aire libre del hotel Ikal Tulum, situado junto a la carretera de la playa. La pista está al aire libre, con palmeras sobre las cabezas y el mar lo suficientemente cerca como para oírlo entre tema y tema. </p><h3>Apertura de puertas y hora de inicio</h3><p>La velada tendrá lugar el sábado 28 de noviembre; la música comenzará a las 21:00 h. Las entradas cuestan a partir de 1.000 pesos. En noches como esta, las entradas de las primeras categorías suelen agotarse primero, por lo que reservar con antelación a través del botón de compra de esta página es la forma más segura de asegurarte el precio más bajo y garantizar tu entrada. </p>",
+          "description": "Joezi, DJ de house y afro-house nacido en París, con más de un millón de oyentes al mes, pinchará en el recinto al aire libre Ikal Arena para ofrecer una noche de baile junto al mar.",
+          "hubBlurb": "<p><strong>Joezi actuará en el Ikal Arena al aire libre de Tulum el 28 de noviembre.</strong> Wave Society trae al DJ de house y afro-house Joezi, nacido en París, al Ikal Arena para una noche de sábado en una pista al aire libre junto al mar. Te esperan sesiones largas entre las palmeras, con el público de la temporada dispuesto a bailar hasta altas horas de la madrugada. La música empieza a las 21:00 h.</p><p><strong>Fecha:</strong> sábado, 28 de noviembre de 2026, a partir de las 21:00 h<br><strong>Cartel:</strong> JOEZI<br><strong>Entradas:</strong> Desde 1.000 MXN · Categoría 1: 1.200 MXN · Categoría 2: 1.350 MXN<br><strong>Mesas:</strong> desde 17 280 MXN<br><strong>Reservas:</strong> A través de Tulum Bible</p>",
+          "name": "Joezi at Ikal Arena",
+          "slug": "joezi-28nov2026",
+          "tableInformation": ""
+        }
+      }
+    },
     {
       "base": {
         "afterEnd": "archive",
