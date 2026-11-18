@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-13T05:44:45.648Z",
+  "syncedAt": "2026-11-18T14:03:14.612Z",
   "citySlug": "tulum",
   "redirects": [
     {
@@ -9539,6 +9539,32 @@
       },
       "convexId": "kx79rxymhhth2yv6p9fw2eefvx8j5wyd",
       "lastUpdated": "2026-11-13T05:42:34.408Z",
+      "locales": {
+        "en": {},
+        "es": {}
+      }
+    },
+    {
+      "base": {
+        "fromPath": "/event/7-realms-tulum-2027-realm-3",
+        "statusCode": 301,
+        "toPath": "/event/7-realms-tulum-alex-wann"
+      },
+      "convexId": "kx71medpdy403df3bw3wpfxfm58jffqg",
+      "lastUpdated": "2026-11-18T14:03:00.954Z",
+      "locales": {
+        "en": {},
+        "es": {}
+      }
+    },
+    {
+      "base": {
+        "fromPath": "/es-mx/event/7-realms-tulum-2027-realm-3",
+        "statusCode": 301,
+        "toPath": "/es-mx/event/7-realms-tulum-alex-wann"
+      },
+      "convexId": "kx77y3f096ersm6788cgs25pnx8jebq0",
+      "lastUpdated": "2026-11-18T14:03:00.954Z",
       "locales": {
         "en": {},
         "es": {}
