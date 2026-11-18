@@ -1,7 +1,77 @@
 {
-  "syncedAt": "2026-11-18T16:00:47.254Z",
+  "syncedAt": "2026-11-18T18:23:15.077Z",
   "citySlug": "tulum",
   "events": [
+    {
+      "base": {
+        "afterEnd": "archive",
+        "buyLink": "https://tf.link/eugft9hr",
+        "categoryIds": [],
+        "cta": "Tickets",
+        "displayPrice": "Free",
+        "endDate": "2026-11-22T23:59",
+        "eventType": "Rooftop",
+        "faqIds": [],
+        "flyerImage": {
+          "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/ef28a271-a00e-4dd7-8554-284c802de500/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+        },
+        "gaLink": null,
+        "gaPrice": null,
+        "hubImage": null,
+        "isFeatured": false,
+        "isPublished": true,
+        "lineup": null,
+        "noPrice": false,
+        "promotion": "normal",
+        "publishedAt": null,
+        "qrCode": "M0 0.5h7m3 0h1m1 0h2m2 0h6m1 0h1m2 0h1m1 0h1m1 0h7M0 1.5h1m5 0h1m1 0h1m1 0h1m4 0h1m5 0h2m2 0h1m1 0h2m1 0h1m5 0h1M0 2.5h1m1 0h3m1 0h1m5 0h1m1 0h1m5 0h2m5 0h2m1 0h1m1 0h3m1 0h1M0 3.5h1m1 0h3m1 0h1m1 0h3m1 0h4m4 0h1m1 0h1m1 0h5m1 0h1m1 0h3m1 0h1M0 4.5h1m1 0h3m1 0h1m2 0h1m6 0h2m1 0h2m2 0h1m4 0h1m1 0h1m1 0h3m1 0h1M0 5.5h1m5 0h1m1 0h2m1 0h3m1 0h3m2 0h2m3 0h1m1 0h2m1 0h1m5 0h1M0 6.5h7m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h7M9 7.5h3m4 0h1m3 0h3m3 0h1m1 0h1M0 8.5h5m1 0h4m1 0h1m1 0h2m1 0h2m2 0h1m1 0h5m2 0h1m1 0h1m1 0h1m1 0h1M2 9.5h3m2 0h1m2 0h1m1 0h2m1 0h2m1 0h6m4 0h1m2 0h1m1 0h3M1 10.5h2m1 0h3m1 0h1m1 0h1m3 0h5m2 0h2m3 0h6m1 0h2m1 0h1M0 11.5h4m3 0h1m1 0h1m2 0h1m2 0h2m2 0h5m2 0h1m2 0h1m1 0h1m1 0h1m1 0h1M0 12.5h2m1 0h1m1 0h6m1 0h3m2 0h1m4 0h2m1 0h1m1 0h8m1 0h1M1 13.5h2m2 0h1m1 0h2m1 0h1m5 0h1m1 0h2m5 0h2m1 0h1m2 0h1m2 0h2M1 14.5h1m1 0h4m1 0h2m1 0h2m1 0h3m1 0h1m1 0h3m3 0h6m2 0h3M0 15.5h2m1 0h2m2 0h1m2 0h2m2 0h3m3 0h3m3 0h1m1 0h1m2 0h1m1 0h1m2 0h1M1 16.5h1m4 0h1m2 0h1m1 0h1m3 0h3m5 0h4m1 0h3m1 0h3m1 0h1M2 17.5h1m1 0h2m1 0h1m2 0h1m1 0h2m2 0h5m1 0h2m2 0h4m1 0h1m2 0h2M0 18.5h1m4 0h2m1 0h2m3 0h3m4 0h3m1 0h1m2 0h6m1 0h3M0 19.5h3m2 0h1m1 0h2m1 0h1m1 0h2m1 0h2m2 0h4m3 0h3m1 0h3m3 0h1M0 20.5h1m3 0h3m1 0h2m2 0h1m1 0h1m2 0h1m4 0h1m2 0h2m3 0h1m1 0h1m1 0h3M1 21.5h4m3 0h1m1 0h1m5 0h1m2 0h3m1 0h1m2 0h1m1 0h2m5 0h1M1 22.5h2m2 0h2m3 0h3m2 0h2m1 0h1m1 0h3m2 0h1m1 0h1m3 0h3m1 0h2M0 23.5h1m2 0h2m2 0h1m1 0h1m1 0h1m2 0h3m1 0h1m2 0h2m4 0h4m1 0h1m3 0h1M2 24.5h2m2 0h3m2 0h1m3 0h3m4 0h1m3 0h5m1 0h5M0 25.5h2m3 0h1m2 0h1m3 0h3m1 0h1m1 0h6m1 0h2m1 0h1m2 0h1m3 0h1M0 26.5h1m2 0h1m1 0h2m1 0h1m4 0h3m2 0h1m3 0h1m1 0h5m3 0h5M0 27.5h1m6 0h2m3 0h2m1 0h2m4 0h1m1 0h1m2 0h3m1 0h4m2 0h1M0 28.5h1m1 0h6m2 0h1m1 0h1m1 0h4m2 0h1m1 0h1m1 0h11M8 29.5h1m1 0h1m5 0h6m1 0h2m3 0h1m3 0h1m1 0h1M0 30.5h7m1 0h5m2 0h2m1 0h1m1 0h3m2 0h1m2 0h1m1 0h1m1 0h5M0 31.5h1m5 0h1m3 0h2m2 0h3m2 0h4m3 0h1m1 0h1m3 0h1M0 32.5h1m1 0h3m1 0h1m1 0h4m4 0h2m1 0h2m1 0h1m1 0h11M0 33.5h1m1 0h3m1 0h1m1 0h1m1 0h1m1 0h3m3 0h1m1 0h1m2 0h1m1 0h1m2 0h3m1 0h1m1 0h3M0 34.5h1m1 0h3m1 0h1m1 0h2m3 0h3m1 0h1m4 0h1m1 0h3m1 0h2m1 0h1m1 0h1m1 0h2M0 35.5h1m5 0h1m1 0h2m2 0h2m2 0h1m3 0h2m4 0h1m1 0h1m1 0h2m4 0h1M0 36.5h7m1 0h1m1 0h1m1 0h1m1 0h1m2 0h1m2 0h1m1 0h1m1 0h4m4 0h5<!--vb:37-->",
+        "startDate": "2026-11-22",
+        "status": "Live",
+        "tableLayoutImage": null,
+        "tbeId": "TBE_T8APE7",
+        "ticketPrice": null,
+        "ticketTiers": [
+          {
+            "currency": "MXN",
+            "id": "3J+5WpxxmgUVNU97Qm49ZSjH5Zy44LMiBMoCr53UvFItZ22Eq7u0BoQgZHvYK5PslJDN/GjJguWn4g9x5pBrJg==",
+            "isTable": false,
+            "name": "Ticket General",
+            "price": 0,
+            "priceWithFees": 0,
+            "replacementText": "Free",
+            "sortOrder": 1,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          }
+        ],
+        "time": "15:00",
+        "url": "https://tf.link/eugft9hr",
+        "venueName": "Hotel & Restaurante Xkeban Tulum",
+        "venueSlug": null,
+        "vipLink": null,
+        "vipPrice": null
+      },
+      "convexId": "j57fg28e6z65ax792xsv9q0dj18jfmqm",
+      "lastUpdated": "2026-11-18T18:22:55.955Z",
+      "locales": {
+        "en": {
+          "body": "<h2>A Sunset Pool Party on the Xnake Rooftop</h2>\n<p>This is a sunset pool party that takes over the rooftop above Xnake, at Hotel Xkeban in La Veleta. The programme runs from 3pm to 11pm, so you arrive in full afternoon light and stay through sunset into the night. There is a rooftop pool, drinks and a floor built around reggaeton. The pitch is simple: come for the sunset, stay for the rest of the night. Entry is free, which makes it an easy afternoon to drop into without planning far ahead.</p>\n<h3>Pool, Drinks and a Jungle View</h3>\n<p>The rooftop looks out over the jungle, and the sunset is the reason to come early. You spend the afternoon by the pool with a drink in hand, watching the light drop over La Veleta. It is a relaxed, low-key setting rather than a formal club night. The whole thing is built to roll from a daytime swim into an evening on the floor without you having to move venues.</p>\n<h3>Reggaeton and Caribbean Rhythms</h3>\n<p>The sound through the afternoon and night is reggaeton, Latin rhythms and Caribbean beats. It starts easy by the water and builds as the sun goes down and the evening sets in. Selem features on the billing for the night. This is the kind of floor where the music keeps the pool side moving rather than demanding your full attention, so you can dance or hang back as you like.</p>\n<h3>Plan Your Afternoon</h3>\n<p>The party runs on Sunday, November 22nd, from 3pm to 11pm, on the rooftop above Xnake at Hotel Xkeban in La Veleta. Entry is free. Come in the early afternoon if you want the pool and the sunset at its best, and plan to stay on once the light goes. Bring swimwear and whatever you need for a day by the water that turns into a night out. Reserve your spot through the buy button on this page.</p>",
+          "description": "A rooftop pool party on the Xnake rooftop above La Veleta, with reggaeton, Latin rhythms and Caribbean sounds as the sun sets over the jungle.",
+          "hubBlurb": "<p><strong>Jangueo throws a sunset pool party on the Xnake rooftop in La Veleta.</strong> A free-entry rooftop pool party above Xnake at Hotel Xkeban, running from afternoon into the night with reggaeton, Latin rhythms and Caribbean sounds. You spend the afternoon by the pool with jungle views over La Veleta, then stay on as the evening sets in.</p><p><strong>Date:</strong> Sunday, November 22, 2026, from 3:00 PM<br><strong>Book:</strong> Through Tulum Bible</p>",
+          "name": "Jangueo Pool Party Sunset Edition",
+          "slug": "jangueo-pool-party-sunset-edition-22nov2026",
+          "tableInformation": ""
+        },
+        "es": {
+          "body": "<h2>Una fiesta en la piscina al atardecer en el Xnake Rooftop</h2>\n<p>Se trata de una fiesta en la piscina al atardecer que se celebra en el rooftop, situado encima del Xnake, en el Hotel Xkeban de La Veleta. El programa va de las 15:00 a las 23:00, así que llegas con toda la luz de la tarde y te quedas desde la puesta de sol hasta bien entrada la noche. Hay una piscina rooftop, bebidas y una pista de baile dedicada al reguetón. La propuesta es sencilla: ven a ver la puesta de sol y quédate el resto de la noche. La entrada es gratuita, lo que hace que sea una tarde a la que es fácil pasarse sin tener que planificarlo con mucha antelación.</p>\n<h3>Piscina, bebidas y vistas a la selva</h3>\n<p>El rooftop tiene vistas a la selva, y la puesta de sol es la razón para llegar temprano. Pasas la tarde junto a la piscina con una copa en la mano, contemplando cómo se va oscureciendo sobre La Veleta. Se trata de un ambiente relajado y discreto, más que de una noche de discoteca formal. Todo está pensado para pasar de un baño diurno a una noche de baile sin tener que cambiar de local.</p>\n<h3>Reggaeton y ritmos caribeños</h3>\n<p>La música que suena durante la tarde y la noche es reguetón, ritmos latinos y ritmos caribeños. Empieza de forma tranquila junto al agua y va subiendo de intensidad a medida que se pone el sol y cae la noche. Selem figura en el cartel de la noche. Este es el tipo de pista en la que la música anima a la gente junto a la piscina sin exigir toda tu atención, así que puedes bailar o quedarte al margen, como prefieras.</p>\n<h3>Planifica tu tarde</h3>\n<p>La fiesta tendrá lugar el domingo 22 de noviembre, de 15:00 a 23:00, en la terraza rooftop, situada sobre el Xnake, en el Hotel Xkeban de La Veleta. La entrada es gratuita. Ven a primera hora de la tarde si quieres disfrutar de la piscina y la puesta de sol en todo su esplendor, y quédate hasta que se vaya la luz. Trae tu bañador y todo lo que necesites para un día junto al agua que se convertirá en una noche de fiesta. Reserva tu plaza a través del botón de compra de esta página.</p>",
+          "description": "Una fiesta en la piscina rooftop en el Xnake rooftop, sobre La Veleta, con reguetón, ritmos latinos y sonidos caribeños mientras el sol se pone sobre la selva.",
+          "hubBlurb": "<p><strong>Jangueo organiza una fiesta en la piscina al atardecer en el Xnake rooftop, en La Veleta.</strong> Una fiesta en la piscina rooftop, con entrada gratuita, situada encima del Xnake, en el Hotel Xkeban, que se prolonga desde la tarde hasta bien entrada la noche con reguetón, ritmos latinos y sonidos caribeños. Podrás pasar la tarde junto a la piscina con vistas a la selva de La Veleta y quedarte hasta que caiga la noche.</p><p><strong>Fecha:</strong> domingo, 22 de noviembre de 2026, a partir de las 15:00<br><strong>Reservas:</strong> a través de Tulum Bible</p>",
+          "name": "Jangueo Pool Party Sunset Edition",
+          "slug": "jangueo-pool-party-sunset-edition-22nov2026",
+          "tableInformation": ""
+        }
+      }
+    },
     {
       "base": {
         "afterEnd": "archive",
