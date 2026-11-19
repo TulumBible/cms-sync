@@ -1,7 +1,162 @@
 {
-  "syncedAt": "2026-11-19T00:00:50.578Z",
+  "syncedAt": "2026-11-19T01:11:11.499Z",
   "citySlug": "tulum",
   "events": [
+    {
+      "base": {
+        "afterEnd": "archive",
+        "buyLink": "https://wa.me/529841457101?text=Hello!%20I'm%20interested%20in%20tickets%20or%20a%20table%20for%20Mahmut%20Orhan%20at%20Bagatelle%20Tulum%20on%20January%205",
+        "categoryIds": [],
+        "cta": "Tickets",
+        "displayPrice": "MXN $1,000",
+        "endDate": "2027-01-05T23:59",
+        "eventType": "BeachClub",
+        "faqIds": [],
+        "flyerImage": {
+          "alt": "Mahmut Orhan seated in a black jacket, for his January 5, 2027 night at Bagatelle Tulum.",
+          "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/71448b93-db29-4a33-33cc-7a1cd6b5d300/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+        },
+        "gaLink": null,
+        "gaPrice": null,
+        "hubImage": {
+          "alt": "Bagatelle Tulum banner: Mahmut Orhan with Renê and Spinoff, January 5th, doors open 7:00 PM.",
+          "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/5b41895e-468f-4e50-4e3e-23504bfcc800/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+        },
+        "isFeatured": false,
+        "isPublished": true,
+        "lineup": [
+          "Mahmut Orhan",
+          "Renê",
+          "Spinoff"
+        ],
+        "noPrice": false,
+        "promotion": "normal",
+        "publishedAt": null,
+        "qrCode": "M0 0.5h7m1 0h1m5 0h1m3 0h1m4 0h1m2 0h1m1 0h1m8 0h1m2 0h1m1 0h7M0 1.5h1m5 0h1m1 0h1m2 0h1m1 0h1m1 0h2m1 0h1m1 0h2m2 0h2m1 0h3m2 0h2m1 0h1m1 0h4m1 0h1m5 0h1M0 2.5h1m1 0h3m1 0h1m3 0h3m2 0h2m2 0h1m4 0h2m1 0h3m2 0h2m2 0h2m1 0h2m1 0h1m1 0h3m1 0h1M0 3.5h1m1 0h3m1 0h1m2 0h1m1 0h1m1 0h3m1 0h1m1 0h1m3 0h2m1 0h1m1 0h4m1 0h2m4 0h1m2 0h1m1 0h3m1 0h1M0 4.5h1m1 0h3m1 0h1m1 0h4m2 0h1m1 0h1m1 0h1m1 0h7m2 0h1m1 0h1m10 0h1m1 0h3m1 0h1M0 5.5h1m5 0h1m1 0h1m4 0h4m1 0h1m3 0h1m3 0h1m1 0h2m2 0h1m3 0h1m1 0h1m3 0h1m5 0h1M0 6.5h7m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h7M8 7.5h1m2 0h1m4 0h2m2 0h1m1 0h1m3 0h2m2 0h2m1 0h3m2 0h2M0 8.5h3m2 0h2m1 0h1m1 0h1m2 0h1m2 0h2m1 0h2m1 0h5m1 0h1m1 0h1m2 0h2m1 0h1m3 0h5m2 0h2M0 9.5h1m1 0h1m1 0h2m3 0h5m1 0h3m1 0h1m2 0h5m1 0h1m4 0h4m1 0h2m3 0h2m2 0h1M0 10.5h1m1 0h1m2 0h2m1 0h1m2 0h1m1 0h1m1 0h1m4 0h1m3 0h1m1 0h2m2 0h2m2 0h2m2 0h3m1 0h2m1 0h2m1 0h1M1 11.5h3m5 0h1m2 0h1m3 0h1m3 0h3m3 0h2m1 0h3m2 0h2m2 0h1m1 0h2m2 0h2M2 12.5h1m3 0h1m2 0h3m1 0h1m2 0h3m1 0h1m1 0h1m5 0h1m1 0h1m3 0h4m2 0h1m1 0h1m1 0h1m2 0h1M0 13.5h2m1 0h3m1 0h4m1 0h2m1 0h1m1 0h1m1 0h2m1 0h1m2 0h1m2 0h1m3 0h2m1 0h2m3 0h1m2 0h1m1 0h4M0 14.5h1m4 0h9m2 0h2m1 0h4m2 0h3m2 0h2m1 0h3m1 0h2m1 0h2m4 0h1m1 0h1M0 15.5h2m2 0h1m6 0h1m2 0h5m1 0h2m1 0h1m1 0h3m2 0h2m2 0h2m1 0h2m2 0h3M3 16.5h1m2 0h3m2 0h1m1 0h4m3 0h1m1 0h3m1 0h3m1 0h1m4 0h2m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1M0 17.5h3m1 0h1m6 0h3m3 0h1m3 0h3m3 0h1m1 0h1m1 0h5m1 0h1m2 0h2m1 0h1m3 0h1M0 18.5h2m2 0h4m1 0h5m2 0h2m3 0h2m3 0h2m1 0h2m1 0h1m1 0h1m3 0h2m2 0h1M2 19.5h4m1 0h2m1 0h1m3 0h3m3 0h1m1 0h2m1 0h3m2 0h1m2 0h3m1 0h2m2 0h2m1 0h1m2 0h1M0 20.5h1m1 0h1m3 0h1m2 0h4m1 0h1m1 0h1m1 0h1m1 0h5m5 0h1m1 0h3m1 0h1m3 0h1m3 0h1m2 0h1M0 21.5h2m3 0h1m1 0h2m1 0h4m3 0h1m1 0h2m1 0h2m1 0h1m2 0h2m1 0h2m1 0h2m1 0h2m1 0h1m3 0h1m1 0h3M1 22.5h2m1 0h8m1 0h1m7 0h7m2 0h2m1 0h3m2 0h7m1 0h1m1 0h1M1 23.5h4m3 0h1m1 0h1m5 0h1m2 0h1m1 0h2m3 0h2m2 0h2m1 0h3m2 0h1m1 0h1m3 0h2M1 24.5h2m1 0h1m1 0h1m1 0h5m1 0h1m1 0h2m2 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h2m2 0h1m1 0h3m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1M1 25.5h2m1 0h1m3 0h1m3 0h2m1 0h1m4 0h3m3 0h2m2 0h1m2 0h1m1 0h1m1 0h1m1 0h2m3 0h1m1 0h2M3 26.5h11m2 0h2m1 0h9m2 0h1m3 0h1m3 0h1m1 0h6m2 0h1M0 27.5h1m1 0h4m3 0h1m1 0h2m2 0h2m1 0h1m1 0h6m3 0h3m1 0h3m1 0h2m1 0h2m1 0h2M0 28.5h1m1 0h2m1 0h3m1 0h2m2 0h1m2 0h1m1 0h1m1 0h1m1 0h1m1 0h2m1 0h4m2 0h4m1 0h1m1 0h2m2 0h2m1 0h1M1 29.5h1m1 0h3m1 0h5m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m2 0h1m1 0h2m2 0h2m1 0h1m2 0h1m2 0h1m1 0h2m3 0h3M0 30.5h2m4 0h2m1 0h1m1 0h3m2 0h2m3 0h1m4 0h2m2 0h1m2 0h4m1 0h1m3 0h1m1 0h1m3 0h1M0 31.5h1m7 0h1m1 0h1m1 0h5m1 0h1m1 0h3m1 0h2m1 0h1m1 0h3m1 0h3m1 0h2m1 0h1m2 0h1M0 32.5h2m4 0h1m3 0h1m2 0h1m2 0h1m3 0h3m1 0h2m2 0h1m1 0h1m1 0h4m1 0h7m2 0h2M0 33.5h2m1 0h2m3 0h2m2 0h1m2 0h1m1 0h1m1 0h1m2 0h2m1 0h1m1 0h3m4 0h2m2 0h2m5 0h3M0 34.5h3m3 0h2m2 0h1m1 0h2m3 0h1m1 0h3m2 0h1m1 0h2m2 0h1m3 0h2m2 0h5m1 0h1m2 0h1M1 35.5h2m1 0h2m2 0h1m1 0h1m1 0h3m1 0h2m2 0h2m2 0h2m1 0h1m2 0h1m3 0h2m2 0h1m2 0h2M0 36.5h1m1 0h3m1 0h3m2 0h4m1 0h1m3 0h3m1 0h2m2 0h1m1 0h2m1 0h1m2 0h1m1 0h1m2 0h1m2 0h2m1 0h2M4 37.5h1m4 0h1m1 0h3m3 0h1m5 0h1m3 0h1m1 0h1m3 0h5m1 0h1m2 0h3m1 0h1m1 0h1M1 38.5h1m3 0h2m1 0h1m2 0h1m1 0h1m2 0h3m1 0h2m2 0h1m2 0h1m2 0h1m3 0h1m3 0h1m4 0h1m4 0h1M1 39.5h3m3 0h2m2 0h2m1 0h8m2 0h2m1 0h1m1 0h3m2 0h1m2 0h2m1 0h2m2 0h1m3 0h1M0 40.5h3m3 0h1m1 0h2m1 0h2m3 0h1m1 0h1m1 0h7m3 0h1m1 0h3m1 0h2m2 0h5m1 0h1M8 41.5h2m3 0h1m3 0h1m4 0h1m3 0h3m2 0h5m1 0h1m1 0h2m3 0h4M0 42.5h7m3 0h1m1 0h2m1 0h1m1 0h1m2 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m3 0h1m2 0h4m1 0h1m1 0h1M0 43.5h1m5 0h1m1 0h6m2 0h7m3 0h2m1 0h2m6 0h2m1 0h1m3 0h2m2 0h1M0 44.5h1m1 0h3m1 0h1m2 0h4m1 0h1m1 0h2m2 0h11m1 0h2m1 0h3m1 0h6m2 0h1M0 45.5h1m1 0h3m1 0h1m2 0h2m4 0h1m3 0h1m1 0h1m1 0h1m1 0h3m1 0h3m1 0h1m1 0h1m3 0h1m4 0h1m1 0h1M0 46.5h1m1 0h3m1 0h1m1 0h1m2 0h3m3 0h1m2 0h2m4 0h1m3 0h2m1 0h2m3 0h1m2 0h1m2 0h1m1 0h3M0 47.5h1m5 0h1m1 0h3m4 0h2m2 0h2m1 0h1m1 0h1m1 0h2m2 0h1m3 0h1m3 0h3m2 0h3M0 48.5h7m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m2 0h1m2 0h1m1 0h1m3 0h1m1 0h1m2 0h1m1 0h1m2 0h1m1 0h3m1 0h1<!--vb:49-->",
+        "startDate": "2027-01-05",
+        "status": "Live",
+        "tableLayoutImage": {
+          "alt": "Bagatelle Tulum table map: Backstage, Side Deck, Beach Front, Beach Back, Cabanas and bars.",
+          "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/45b0589a-3dd7-488f-9b71-0206784cae00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+        },
+        "tbeId": "TBE_AQRBJS",
+        "ticketPrice": null,
+        "ticketTiers": [
+          {
+            "currency": "MXN",
+            "id": "manual-mahmut27-ga-early",
+            "isTable": false,
+            "name": "General · Early Bird",
+            "price": 1000,
+            "sortOrder": 0,
+            "status": "on_sale"
+          },
+          {
+            "currency": "MXN",
+            "id": "manual-mahmut27-ga-t1",
+            "isTable": false,
+            "name": "General · Tier 1",
+            "price": 1500,
+            "sortOrder": 1,
+            "status": "on_sale"
+          },
+          {
+            "currency": "MXN",
+            "id": "manual-mahmut27-vip-t1",
+            "isTable": false,
+            "name": "VIP · Tier 1",
+            "price": 2000,
+            "sortOrder": 2,
+            "status": "on_sale"
+          },
+          {
+            "currency": "MXN",
+            "id": "manual-mahmut27-backstage-t1",
+            "isTable": false,
+            "name": "Backstage · Tier 1",
+            "price": 4000,
+            "sortOrder": 3,
+            "status": "on_sale"
+          },
+          {
+            "currency": "MXN",
+            "id": "manual-mahmut27-table-0",
+            "isTable": true,
+            "maxGuests": 8,
+            "name": "Beach (back) + 15% service",
+            "price": 30000,
+            "sortOrder": 4,
+            "status": "on_sale"
+          },
+          {
+            "currency": "MXN",
+            "id": "manual-mahmut27-table-1",
+            "isTable": true,
+            "maxGuests": 8,
+            "name": "Beach (front) + 15% service",
+            "price": 40000,
+            "sortOrder": 5,
+            "status": "on_sale"
+          },
+          {
+            "currency": "MXN",
+            "id": "manual-mahmut27-table-2",
+            "isTable": true,
+            "maxGuests": 8,
+            "name": "Side Deck (Stage) + 15% service",
+            "price": 70000,
+            "sortOrder": 6,
+            "status": "on_sale"
+          },
+          {
+            "currency": "MXN",
+            "id": "manual-mahmut27-table-3",
+            "isTable": true,
+            "maxGuests": 10,
+            "name": "Beach Cabana + 15% service",
+            "price": 100000,
+            "sortOrder": 7,
+            "status": "on_sale"
+          },
+          {
+            "currency": "MXN",
+            "id": "manual-mahmut27-table-4",
+            "isTable": true,
+            "maxGuests": 12,
+            "name": "Backstage + 15% service",
+            "price": 120000,
+            "sortOrder": 8,
+            "status": "on_sale"
+          }
+        ],
+        "time": "19:00 - Late",
+        "url": null,
+        "venueName": "Bagatelle Tulum",
+        "venueSlug": "bagatelle-tulum",
+        "vipLink": null,
+        "vipPrice": null
+      },
+      "convexId": "j57e2atcrcg6z34h3w1r5b7we58jfptv",
+      "lastUpdated": "2026-11-19T01:10:54.062Z",
+      "locales": {
+        "en": {
+          "body": "<h2>Mahmut Orhan on the Sand at Bagatelle</h2>\n<p>Mahmut Orhan brings his deep, melodic house to Bagatelle Tulum on January 5. The Turkish DJ and producer is best known for &quot;Feel&quot;, a track that travelled far beyond dance floors, and his sets carry the same signature: hypnotic vocals, Eastern-inspired touches and a build that moves from intimate grooves to euphoric peaks. He keeps the room connected from the first record to the last. Renê and Spinoff complete the lineup, warming the floor and holding it through the night. Doors open at 7:00 PM, and the space opens out onto a dance floor on the sand beside the stage.</p>\n<h3>The Room Opens onto the Beach</h3>\n<p>Bagatelle Tulum sits at Km 8 on the Tulum–Boca Paila road in the Hotel Zone, right on the beach. The brand comes from the global Bagatelle group, with rooms in St. Tropez, Miami, Dubai and London, and the Tulum venue carries the same French-Riviera, scene-driven feel. For this night the layout turns toward the dance floor: tables sit on the sand, there is a Side Deck by the stage, Beach Cabanas along the edge and a Backstage area closest to the booth. It is an adults-only room, 21 and over, dressed up as much for the music and the look as for the food.</p>\n<h3>A Beach Club by Day Before the Set</h3>\n<p>Bagatelle runs as a French-Mediterranean beach club through the day before the night turns toward the dance floor. The kitchen serves breakfast, brunch, lunch and dinner by the beach, built around seasonal produce with vegetarian options on the menu. The daytime side works on reserved loungers and sand sections with direct beach access, and a single sunbed is 1,725 MXN, of which 1,500 MXN goes toward food and drinks and covers up to one guest. Music runs through the day rather than waiting for the evening, so the crowd that settles in early for the sun and the plates is the same one that stays for the set. If you want a full day on the sand before Mahmut Orhan plays, this is a room set up for it.</p>\n<h3>Choosing Your Ticket Tier</h3>\n<p>General admission starts with Early Bird at MXN $1,000, moving to Tier 1 at MXN $1,500, and gets you into the venue and the event at any time. VIP Tier 1 runs MXN $2,000 and adds its own entrance, bar and restrooms. Backstage Tier 1 is MXN $4,000, which puts you closest to the booth with the same dedicated entrance, bar and restrooms. The price tracks how near the action you want to be. Tickets don't include a table, tips or transport.</p>\n<h3>Tables by the Stage and on the Sand</h3>\n<p>If you want a base for the night, tables run from a Beach (back) spot for eight at MXN $30,000 to a Beach (front) table for eight at MXN $40,000. The Side Deck by the stage seats eight at MXN $70,000, a Beach Cabana holds ten at MXN $100,000, and the Backstage section seats twelve at MXN $120,000. Each adds 15% service. Every table includes entry for its guests, and the table price goes towards food and drink, so what you spend turns into the night rather than just the seat. These larger reservations suit groups and celebrations who want a dedicated spot through the set.</p>\n<h3>A Season of Headliners</h3>\n<p>This is one night in a season Bagatelle has built around electronic headliners. Guy Gerber takes New Year's Eve, with Monolink, Franky Rizardo and Marco Carola also announced across the high season. The venue reopened in late December with a new layout that leans the room further toward a large-scale party format while keeping the beachfront setting and table service. Mahmut Orhan sits squarely in that run, a melodic house night on the sand a few days into January.</p>\n<h3>Doors at 7, and Getting There</h3>\n<p>Doors open at 7:00 PM on Tuesday, January 5, at Bagatelle Tulum, Carr. Tulum–Boca Paila Km 8 in the Hotel Zone. Bring the physical card you paid with and a photo ID, as both are checked on arrival. Plan your ride to the Hotel Zone ahead of time, or ask Tulum Bible to arrange a pickup. To book a ticket or a table, use the button on this page and a payment link follows.</p>",
+          "description": "Turkish producer Mahmut Orhan, the name behind the worldwide hit \"Feel\", plays a sand dancefloor with deep melodic house and Eastern-inspired touches. Renê and Spinoff support.",
+          "hubBlurb": "<p><strong>Mahmut Orhan plays Bagatelle Tulum on January 5.</strong> The Turkish producer behind &quot;Feel&quot; brings deep, melodic house with Eastern-inspired touches to a sand dancefloor by the stage, with Renê and Spinoff in support. General, VIP and Backstage tiers, plus tables from the beach to the Side Deck.</p><p><strong>Date:</strong> Tuesday, January 5, 2027, from 7:00 PM<br><strong>Lineup:</strong> Mahmut Orhan, Renê, Spinoff<br><strong>Tickets:</strong> From MXN $1,000 · General · Tier 1 MXN $1,500 · VIP · Tier 1 MXN $2,000<br><strong>Tables:</strong> From MXN $30,000<br><strong>Book:</strong> Through Tulum Bible</p>",
+          "name": "Mahmut Orhan",
+          "slug": "mahmut-orhan-bagatelle-tulum-2027",
+          "tableInformation": "<p>Table prices are before a 15% service charge. Each table includes entry for its guests, and the table price goes towards food and drink. A table's exact spot isn't guaranteed.</p>"
+        },
+        "es": {
+          "body": "<h2>Mahmut Orhan en la arena de Bagatelle</h2>\n<p>Mahmut Orhan llevará su house profundo y melódico a Bagatelle Tulum el 5 de enero. El DJ y productor turco es conocido sobre todo por Feel, un tema que traspasó con creces los límites de las pistas de baile, y sus sesiones llevan el mismo sello: voces hipnóticas, toques de inspiración oriental y una estructura que va desde ritmos íntimos hasta picos eufóricos. Mantiene al público conectado desde el primer disco hasta el último. Renê y Spinoff completan el cartel, calentando la pista y manteniendo el ambiente durante toda la noche. Las puertas se abren a las 19:00 h, y el local se abre a una pista de baile sobre la arena junto al escenario.</p>\n<h3>La sala da a la playa</h3>\n<p>Bagatelle Tulum se encuentra en el km 8 de la carretera Tulum–Boca Paila, en la Zona Hotelera, justo en la playa. La marca pertenece al grupo internacional Bagatelle, con locales en Saint-Tropez, Miami, Dubái y Londres, y el local de Tulum conserva ese mismo ambiente propio de la Costa Azul, centrado en la escena. Para esta noche, la distribución se centra en la pista de baile: las mesas se sitúan sobre la arena, hay una Side Deck junto al escenario, cabañas de playa a lo largo del borde y una zona Backstage más cercana a la cabina del DJ. Es un local solo para adultos, mayores de 21 años, donde se cuida tanto la música y la estética como la comida.</p>\n<h3>Un Beach Club durante el día, antes de que empiece la sesión</h3>\n<p>Bagatelle funciona como un beach club de cocina franco-mediterránea durante el día, antes de que la noche dé paso a la pista de baile. La cocina sirve desayunos, brunch, almuerzos y cenas junto a la playa, con un menú basado en productos de temporada y opciones vegetarianas. Durante el día, se ofrecen tumbonas reservadas y zonas de arena con acceso directo a la playa; una tumbona individual cuesta 1.725 MXN, de los cuales 1.500 MXN se destinan a comida y bebida y cubren el coste de un máximo de un comensal. La música suena durante todo el día, en lugar de esperar a la noche, por lo que el público que llega temprano para disfrutar del sol y de la comida es el mismo que se queda para la sesión musical. Si quieres pasar un día entero en la arena antes de que toque Mahmut Orhan, este es el lugar ideal para ello.</p>\n<h3>Cómo elegir tu categoría de entrada</h3>\n<p>La entrada general empieza con la tarifa Early Bird a 1.000 MXN, pasa a la Categoría 1 a 1.500 MXN y te permite acceder al recinto y al evento en cualquier momento. La Categoría VIP 1 cuesta 2.000 MXN e incluye una entrada exclusiva, un bar y aseos propios. La categoría Backstage Nivel 1 cuesta 4.000 MXN y te sitúa más cerca de la cabina, con la misma entrada exclusiva, bar y aseos. El precio depende de lo cerca que quieras estar de la acción. Las entradas no incluyen mesa, propinas ni transporte.</p>\n<h3>Mesas junto al escenario y en la arena</h3>\n<p>Si quieres un lugar fijo para pasar la noche, las mesas van desde una en la zona de playa (parte trasera) para ocho personas a 30 000 MXN hasta una en la zona de playa (parte delantera) para ocho personas a 40 000 MXN. La terraza lateral junto al escenario tiene capacidad para ocho personas y cuesta 70 000 MXN; una cabaña en la playa tiene capacidad para diez personas y cuesta 100 000 MXN; y la zona Backstage tiene capacidad para doce personas y cuesta 120 000 MXN. A cada precio hay que añadir un 15 % en concepto de servicio. Todas las mesas incluyen la entrada para sus invitados, y el precio de la mesa se destina a comida y bebida, por lo que lo que gastas se convierte en la velada en sí, y no solo en el asiento. Estas reservas más amplias son ideales para grupos y celebraciones que desean un espacio exclusivo durante todo el espectáculo.</p>\n<h3>Una temporada de cabezas de cartel</h3>\n<p>Esta es una de las noches de una temporada que Bagatelle ha construido en torno a cabezas de cartel de la música electrónica. Guy Gerber se encargará de la Nochevieja, y también se han anunciado Monolink, Franky Rizardo y Marco Carola a lo largo de la temporada alta. El local reabrió a finales de diciembre con una nueva distribución que orienta aún más el espacio hacia un formato de fiesta a gran escala, al tiempo que conserva el entorno frente al mar y el servicio de mesa. Mahmut Orhan encaja perfectamente en esa programación, con una noche de house melódico en la arena a principios de enero.</p>\n<h3>Apertura de puertas a las 19:00 y cómo llegar</h3>\n<p>Las puertas se abren a las 19:00 h del martes 5 de enero en Bagatelle Tulum, Carretera Tulum–Boca Paila, km 8, en la Zona Hotelera. Trae la tarjeta física con la que pagaste y un documento de identidad con foto, ya que se comprobarán ambos a la llegada. Planifica tu traslado a la Zona Hotelera con antelación o pide a Tulum Bible que te organice una recogida. Para reservar una entrada o una mesa, utiliza el botón de esta página; a continuación aparecerá un enlace de pago.</p>",
+          "description": "El productor turco Mahmut Orhan, autor del éxito mundial «Feel», amenizará la pista de baile con deep melodic house y toques de inspiración oriental. Contará con la colaboración de Renê y Spinoff.",
+          "hubBlurb": "<p><strong>Mahmut Orhan actuará en Bagatelle Tulum el 5 de enero.</strong> El productor turco, autor de Feel, traerá su house profundo y melódico con toques de inspiración oriental a una pista de baile de arena situada junto al escenario, con Renê y Spinoff como teloneros. Habrá entradas de categoría General, VIP y Backstage, además de mesas desde la playa hasta la terraza lateral.</p><p><strong>Fecha:</strong> martes, 5 de enero de 2027, a partir de las 19:00 h<br><strong>Cartel:</strong> Mahmut Orhan, Renê, Spinoff<br><strong>Entradas:</strong> Desde 1.000 MXN · General · Nivel 1 1.500 MXN · VIP · Nivel 1 2.000 MXN<br><strong>Mesas:</strong> desde 30 000 MXN<br><strong>Reservas:</strong> A través de Tulum Bible</p>",
+          "name": "Mahmut Orhan",
+          "slug": "mahmut-orhan-bagatelle-tulum-2027",
+          "tableInformation": "<p>Los precios de las mesas no incluyen el 15 % de cargo por servicio. Cada mesa incluye la entrada para sus comensales, y el precio de la mesa se destina a la comida y la bebida. No se garantiza la ubicación exacta de la mesa.</p>"
+        }
+      }
+    },
     {
       "base": {
         "afterEnd": "archive",
