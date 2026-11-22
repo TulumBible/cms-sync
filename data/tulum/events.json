@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-22T19:20:02.917Z",
+  "syncedAt": "2026-11-22T19:21:56.993Z",
   "citySlug": "tulum",
   "events": [
     {
@@ -260,6 +260,106 @@
           "hubBlurb": "<p><strong>Ten Ibiza lleva su noche Nevermind a Bagatelle Tulum el 15 de enero.</strong> La edición de Tulum de la marca ibicenca cuenta con Oriol Calvo, Musumeci y René para una noche de house y afro house en la playa. Hay cuatro categorías de entrada, que van desde la entrada general hasta una zona entre bastidores con su propio bar y acceso, en una sala habilitada esta temporada en torno a una pista de baile nocturna.</p><p><strong>Fecha:</strong> viernes, 15 de enero de 2027, a partir de las 19:00 h<br><strong>Cartel:</strong> IBÁN MENDOZA, MARCO NORMA, SIDARTHA SILICEO, ANANTA, STEVE LAWLER, JESSE ZOTTI, MIUL, GUY MANTZUR, RODRÍGUEZ JR., ELI NISSAN, ERMAKOVA, LOEN<br><strong>Entradas:</strong> Desde 1.000 MXN · General · Nivel 1 1.500 MXN · VIP · Nivel 1 2.000 MXN<br><strong>Reservas:</strong> A través de Tulum Bible</p>",
           "name": "Nevermind by Ten Ibiza at",
           "slug": "nevermind-by-ten-ibiza-bagatelle-tulum-2027-01",
+          "tableInformation": ""
+        }
+      }
+    },
+    {
+      "base": {
+        "afterEnd": "archive",
+        "buyLink": "https://wa.me/529841457101?text=Hello!%20I'm%20interested%20in%20Echonomist%20%26%20Jenia%20Tarsol%20present%20Flying%20Hearts%20at%20Bagatelle%20Tulum%20on%20January%2010",
+        "categoryIds": [],
+        "cta": "Tickets",
+        "displayPrice": "MXN $1,000",
+        "endDate": "2027-01-10T23:59",
+        "eventType": "BeachClub",
+        "faqIds": [],
+        "flyerImage": {
+          "alt": "Bagatelle Tulum high season calendar, December 26, 2026 to January 17, 2027.",
+          "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/9815ccd6-34d4-4ebd-c1b0-5547c8ded200/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+        },
+        "gaLink": null,
+        "gaPrice": null,
+        "hubImage": null,
+        "isFeatured": false,
+        "isPublished": true,
+        "lineup": [
+          "Echonomist",
+          "Jenia Tarsol",
+          "Miul",
+          "Discoside"
+        ],
+        "noPrice": false,
+        "promotion": "normal",
+        "publishedAt": null,
+        "qrCode": "M0 0.5h7m2 0h1m4 0h2m1 0h2m1 0h6m1 0h2m2 0h1m1 0h6m1 0h1m1 0h1m3 0h7M0 1.5h1m5 0h1m1 0h1m1 0h1m3 0h2m1 0h3m1 0h1m2 0h1m2 0h1m4 0h1m1 0h3m4 0h3m2 0h1m5 0h1M0 2.5h1m1 0h3m1 0h1m1 0h5m1 0h2m1 0h1m3 0h1m1 0h1m5 0h1m1 0h1m4 0h6m1 0h1m2 0h1m1 0h3m1 0h1M0 3.5h1m1 0h3m1 0h1m2 0h1m1 0h2m1 0h2m5 0h1m5 0h1m1 0h1m1 0h1m5 0h1m3 0h2m1 0h1m1 0h1m1 0h3m1 0h1M0 4.5h1m1 0h3m1 0h1m1 0h1m1 0h3m1 0h1m2 0h2m1 0h1m2 0h11m1 0h1m2 0h3m1 0h1m3 0h1m1 0h3m1 0h1M0 5.5h1m5 0h1m1 0h7m2 0h3m3 0h2m3 0h2m6 0h1m1 0h1m1 0h1m1 0h1m3 0h1m5 0h1M0 6.5h7m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h7M8 7.5h2m2 0h2m3 0h4m3 0h1m3 0h4m6 0h3m1 0h3M0 8.5h2m1 0h1m2 0h2m2 0h1m4 0h2m4 0h1m2 0h5m2 0h2m1 0h2m2 0h1m3 0h2m2 0h3m1 0h2M0 9.5h1m3 0h2m2 0h1m6 0h1m1 0h1m2 0h1m2 0h4m3 0h1m1 0h1m1 0h2m2 0h2m1 0h1m2 0h2m2 0h3m1 0h1M0 10.5h1m1 0h2m2 0h2m1 0h7m3 0h1m2 0h3m1 0h2m1 0h3m1 0h1m1 0h1m2 0h5m2 0h1m1 0h1m1 0h1m1 0h1M0 11.5h4m1 0h1m2 0h2m2 0h4m1 0h2m2 0h3m2 0h1m1 0h1m1 0h1m1 0h4m3 0h1m2 0h1m2 0h1m1 0h1m3 0h1M1 12.5h2m1 0h4m1 0h4m2 0h2m2 0h3m1 0h4m2 0h3m1 0h3m2 0h5m1 0h1m2 0h1m1 0h2m1 0h1M2 13.5h3m2 0h1m4 0h2m2 0h1m5 0h1m1 0h1m1 0h1m1 0h1m1 0h5m1 0h1m1 0h1m1 0h4m1 0h1m1 0h2m2 0h2M1 14.5h1m4 0h2m4 0h3m1 0h5m3 0h1m2 0h1m2 0h2m1 0h2m1 0h2m4 0h1m2 0h3m1 0h4M1 15.5h5m1 0h1m1 0h3m1 0h4m2 0h3m2 0h1m2 0h4m3 0h1m2 0h1m1 0h1m1 0h2m1 0h2m1 0h3M0 16.5h1m5 0h1m3 0h1m7 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h2m1 0h3m1 0h3m1 0h1m1 0h4m3 0h1m3 0h1M4 17.5h2m5 0h4m1 0h2m1 0h2m2 0h3m3 0h1m1 0h1m1 0h1m1 0h1m2 0h1m2 0h1m3 0h1m1 0h1m2 0h1m1 0h1M0 18.5h1m2 0h1m1 0h2m2 0h2m8 0h3m1 0h3m1 0h4m2 0h2m3 0h1m2 0h5m1 0h6M1 19.5h3m1 0h1m2 0h1m1 0h2m9 0h3m2 0h6m1 0h1m3 0h1m2 0h1m1 0h4m1 0h1m3 0h2M1 20.5h1m1 0h4m3 0h1m1 0h2m1 0h2m2 0h1m2 0h1m2 0h1m4 0h1m5 0h4m2 0h1m3 0h2m1 0h1m1 0h2M2 21.5h3m2 0h1m2 0h1m1 0h1m3 0h2m1 0h2m2 0h5m8 0h1m1 0h2m4 0h1m3 0h3M1 22.5h4m1 0h1m2 0h2m2 0h2m1 0h2m2 0h1m1 0h4m2 0h1m1 0h1m2 0h1m4 0h1m1 0h4m1 0h1m3 0h1M0 23.5h1m3 0h2m2 0h1m1 0h3m1 0h3m1 0h5m1 0h1m1 0h1m3 0h1m1 0h4m1 0h1m1 0h1m1 0h3m1 0h1m2 0h3m1 0h1M4 24.5h5m5 0h4m2 0h3m1 0h5m2 0h1m1 0h2m1 0h4m4 0h5M0 25.5h1m2 0h2m3 0h1m1 0h1m1 0h2m1 0h3m1 0h2m1 0h3m3 0h1m5 0h1m2 0h1m3 0h1m1 0h2m3 0h3M1 26.5h4m1 0h1m1 0h2m1 0h2m1 0h4m2 0h2m2 0h1m1 0h1m1 0h1m1 0h1m1 0h3m7 0h1m1 0h1m1 0h1m1 0h2m1 0h2M1 27.5h2m1 0h1m3 0h3m1 0h1m2 0h1m1 0h2m1 0h2m2 0h1m3 0h3m3 0h1m2 0h2m3 0h3m3 0h1m2 0h1M2 28.5h1m1 0h9m4 0h1m2 0h1m1 0h10m1 0h1m2 0h3m1 0h3m1 0h5m1 0h2M2 29.5h4m1 0h2m1 0h1m1 0h1m1 0h1m1 0h2m6 0h1m1 0h1m1 0h1m1 0h1m4 0h1m3 0h1m3 0h1m1 0h3M0 30.5h1m3 0h6m2 0h2m2 0h1m1 0h1m8 0h4m2 0h3m1 0h3m1 0h2m1 0h1m1 0h4m2 0h1M1 31.5h3m1 0h1m1 0h1m1 0h4m1 0h1m5 0h5m1 0h1m3 0h2m1 0h1m3 0h2m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1M2 32.5h1m1 0h1m1 0h1m5 0h3m1 0h4m5 0h1m2 0h4m1 0h3m4 0h1m1 0h1m5 0h1m1 0h1M3 33.5h1m4 0h1m3 0h2m2 0h1m2 0h1m3 0h2m2 0h2m1 0h1m2 0h1m2 0h3m1 0h2m2 0h1m1 0h1m1 0h3m1 0h1M1 34.5h2m1 0h4m5 0h1m2 0h1m1 0h1m1 0h1m1 0h1m1 0h2m3 0h4m4 0h2m1 0h1m1 0h1m3 0h2m3 0h1M0 35.5h2m2 0h1m3 0h7m1 0h1m1 0h3m5 0h5m1 0h4m1 0h1m4 0h3m3 0h4M6 36.5h1m1 0h1m1 0h1m1 0h5m1 0h1m1 0h4m1 0h1m2 0h6m1 0h3m1 0h3m1 0h1m2 0h1m2 0h2M1 37.5h1m1 0h3m1 0h3m2 0h2m1 0h2m5 0h2m1 0h1m5 0h1m2 0h1m2 0h2m1 0h1m5 0h1m2 0h2m1 0h1M0 38.5h4m2 0h7m2 0h2m2 0h1m3 0h1m2 0h3m1 0h1m1 0h1m1 0h1m2 0h1m1 0h1m2 0h1m1 0h2m1 0h1m1 0h4M2 39.5h2m3 0h1m2 0h3m3 0h3m1 0h1m1 0h4m2 0h1m1 0h1m2 0h2m3 0h1m3 0h2m4 0h1M4 40.5h3m3 0h1m2 0h3m1 0h1m1 0h2m2 0h1m2 0h5m3 0h3m1 0h1m2 0h1m2 0h5m3 0h1M1 41.5h2m6 0h1m1 0h2m1 0h2m9 0h2m4 0h1m2 0h1m1 0h1m3 0h2m1 0h1m3 0h2m2 0h2M0 42.5h2m1 0h7m1 0h2m2 0h2m4 0h1m6 0h1m1 0h1m2 0h2m2 0h2m2 0h3m1 0h2m2 0h4M1 43.5h2m6 0h4m2 0h2m2 0h8m1 0h1m1 0h2m6 0h1m1 0h1m5 0h4m1 0h1M3 44.5h1m2 0h1m1 0h1m4 0h4m1 0h2m1 0h1m1 0h6m1 0h1m1 0h2m1 0h1m1 0h1m1 0h1m3 0h7m1 0h1M8 45.5h1m3 0h2m1 0h2m2 0h2m3 0h1m3 0h2m7 0h1m2 0h1m1 0h3m3 0h1M0 46.5h7m1 0h1m1 0h1m1 0h3m3 0h1m3 0h1m1 0h1m1 0h1m1 0h3m2 0h1m4 0h1m1 0h5m1 0h1m1 0h1M0 47.5h1m5 0h1m2 0h1m2 0h3m1 0h2m1 0h1m3 0h2m3 0h1m1 0h6m1 0h1m6 0h1m3 0h1m1 0h1M0 48.5h1m1 0h3m1 0h1m2 0h3m1 0h2m1 0h1m1 0h1m1 0h3m1 0h5m6 0h1m1 0h1m1 0h2m2 0h6m2 0h1M0 49.5h1m1 0h3m1 0h1m1 0h1m1 0h3m8 0h2m1 0h1m1 0h1m1 0h1m1 0h3m1 0h4m2 0h2m1 0h1m1 0h4m1 0h3M0 50.5h1m1 0h3m1 0h1m2 0h1m3 0h1m3 0h1m11 0h2m1 0h4m6 0h2m3 0h4m1 0h1M0 51.5h1m5 0h1m1 0h1m1 0h2m1 0h1m2 0h2m1 0h1m5 0h2m2 0h2m2 0h3m1 0h2m3 0h2m7 0h1M0 52.5h7m1 0h1m1 0h3m1 0h2m1 0h2m1 0h2m1 0h1m1 0h1m1 0h1m1 0h1m2 0h2m1 0h2m1 0h3m1 0h2m1 0h1m2 0h4<!--vb:53-->",
+        "startDate": "2027-01-10",
+        "status": "Live",
+        "tableLayoutImage": null,
+        "tbeId": "TBE_K7CEC4",
+        "ticketPrice": null,
+        "ticketTiers": [
+          {
+            "currency": "MXN",
+            "id": "manual-bgt-8jn13d-ga-early",
+            "isTable": false,
+            "name": "General · Early Bird",
+            "price": 1000,
+            "sortOrder": 0,
+            "status": "on_sale"
+          },
+          {
+            "currency": "MXN",
+            "id": "manual-bgt-8jn13d-ga-t1",
+            "isTable": false,
+            "name": "General · Tier 1",
+            "price": 1500,
+            "sortOrder": 1,
+            "status": "on_sale"
+          },
+          {
+            "currency": "MXN",
+            "id": "manual-bgt-8jn13d-vip-t1",
+            "isTable": false,
+            "name": "VIP · Tier 1",
+            "price": 2000,
+            "sortOrder": 2,
+            "status": "on_sale"
+          },
+          {
+            "currency": "MXN",
+            "id": "manual-bgt-8jn13d-backstage-t1",
+            "isTable": false,
+            "name": "Backstage · Tier 1",
+            "price": 4000,
+            "sortOrder": 3,
+            "status": "on_sale"
+          }
+        ],
+        "time": "19:00 - Late",
+        "url": null,
+        "venueName": "Bagatelle Tulum",
+        "venueSlug": "bagatelle-tulum",
+        "vipLink": null,
+        "vipPrice": null
+      },
+      "convexId": "j579fkxpe8tctz6v214khpmc9n8jn13d",
+      "lastUpdated": "2026-11-22T19:21:41.584Z",
+      "locales": {
+        "en": {
+          "body": "<h2>Flying Hearts Takes Over a Sunday at Bagatelle</h2>\n<p>Echonomist and Jenia Tarsol bring their Flying Hearts party to Bagatelle Tulum on Sunday, January 10, 2027. They lead the bill alongside Miul and Discoside, four acts across one night on the beachfront strip at km 8 of the Hotel Zone. This is one date on Bagatelle's high season calendar, which runs headline electronic nights through the end of December and across January. General admission starts at 1,000 MXN on the early bird tier, and from there you can move up to VIP and backstage for a closer view of the booth.</p>\n<h3>The Room You Walk Into</h3>\n<p>Bagatelle Tulum sits at Carretera Tulum–Boca Paila km 8 on Tulum Beach, the Hotel Zone outpost of a French Riviera group that also runs rooms in St. Tropez, Miami, Dubai and London. For the 2026-27 high season the venue reopened in late December with a new layout built for large-scale parties, keeping the beachfront setting and table service. The pool the venue used to have is gone, and the space now pushes further toward a late dancefloor. The crowd dresses up and comes as much for the music and the look as for the food, with a 21-and-over door.</p>\n<p>The daytime side runs as a beach club with reserved loungers, Balinese sections and direct sand access, and the kitchen serves French-Mediterranean cooking with seasonal produce and vegetarian options. Music plays through the day rather than waiting for dark. On a night like this, that same beachfront room carries over into the party, with the DJ booth as the centre of the room.</p>\n<h3>Who Plays Flying Hearts</h3>\n<p>The night is led by Echonomist and Jenia Tarsol, the pair behind the Flying Hearts concept. Miul and Discoside fill out the lineup, giving you four acts over the course of the evening. The programme sits between Franky Rizardo on January 9 and a Gala Ibiza night on January 14, in the thick of Bagatelle's January run. It is a single-headline-concept night rather than a multi-brand showcase, which keeps the sound and the mood consistent from start to close.</p>\n<h3>Tickets From Early Bird to Backstage</h3>\n<p>Four tiers are on sale for Flying Hearts. General early bird is 1,000 MXN and general tier 1 is 1,500 MXN; both get you into the venue and the event at any time. VIP tier 1 is 2,000 MXN and backstage tier 1 is 4,000 MXN, and each of those adds its own entrance, bar and restrooms, so you skip the main lines and stay closer to the action. The price you pay tracks how near the booth you want to be. Table prices have not been released yet; ask through the button on this page and you will get them as soon as they land.</p>\n<h3>Getting There and Good to Know</h3>\n<p>Bagatelle Tulum is at Carr. Tulum–Boca Paila km 8 in the Hotel Zone, a short drive south along the beach strip, with valet and paid parking on site plus wheelchair access and restrooms. The venue is adults only, 21 and over, and runs a casual-chic dress code: smart, elegant clothing rather than swimwear or athletic wear, and men should skip sandals. The start time for this night has not been set yet, so ask when you book and it will be confirmed. To hold your place, book through Tulum Bible with the button on this page and a payment link follows.</p>",
+          "description": "Echonomist and Jenia Tarsol present Flying Hearts, a Sunday party at Bagatelle Tulum with Miul and Discoside on the beachfront strip.",
+          "hubBlurb": "<p><strong>Echonomist and Jenia Tarsol bring Flying Hearts to Bagatelle Tulum on January 10.</strong> A Sunday party on the beachfront strip led by Echonomist and Jenia Tarsol, with Miul and Discoside across four tiers from general early bird to backstage. The French Riviera beach club runs it as part of its January high season, adults only with its own late dancefloor.</p><p><strong>Date:</strong> Sunday, January 10, 2027, from 7:00 PM<br><strong>Lineup:</strong> IBÁN MENDOZA, MARCO NORMA, SIDARTHA SILICEO, ANANTA, STEVE LAWLER, JESSE ZOTTI, MIUL, GUY MANTZUR, RODRIGUEZ JR., ELI NISSAN, ERMAKOVA, LOEN<br><strong>Tickets:</strong> From MXN $1,000 · General · Tier 1 MXN $1,500 · VIP · Tier 1 MXN $2,000<br><strong>Book:</strong> Through Tulum Bible</p>",
+          "name": "Echonomist & Jenia Tarsol present Flying Hearts at",
+          "slug": "echonomist-and-jenia-tarsol-present-flying-hearts-bagatelle-tulum-2027-01",
+          "tableInformation": ""
+        },
+        "es": {
+          "body": "<h2>Flying Hearts se adueña de un domingo en Bagatelle</h2>\n<p>Echonomist y Jenia Tarsol llevan su fiesta Flying Hearts a Bagatelle Tulum el domingo 10 de enero de 2027. Encabezan el cartel junto a Miul y Discoside, cuatro actuaciones en una sola noche en la avenida frente al mar, en el km 8 de la Zona Hotelera. Se trata de una de las citas del calendario de temporada alta de Bagatelle, que ofrece noches de música electrónica de primer nivel hasta finales de diciembre y durante todo el mes de enero. La entrada general cuesta a partir de 1.000 MXN en la tarifa de venta anticipada, y desde ahí puedes pasar a la zona VIP y al backstage para ver la cabina más de cerca.</p>\n<h3>El local al que entras</h3>\n<p>Bagatelle Tulum se encuentra en la Carretera Tulum–Boca Paila, km 8, en la playa de Tulum, la sede en la Zona Hotelera de un grupo de la Costa Azul francesa que también gestiona locales en Saint-Tropez, Miami, Dubái y Londres. Para la temporada alta 2026-27, el local reabrió a finales de diciembre con una nueva distribución pensada para fiestas a gran escala, conservando su ubicación frente al mar y el servicio de mesa. La piscina que solía tener el local ha desaparecido, y el espacio se extiende ahora más hacia una pista de baile nocturna. El público se viste de gala y acude tanto por la música y el ambiente como por la comida, con una entrada reservada a mayores de 21 años.</p>\n<p>Durante el día funciona como un beach club con tumbonas reservadas, zonas de estilo balinés y acceso directo a la arena, y la cocina ofrece platos franco-mediterráneos con productos de temporada y opciones vegetarianas. La música suena durante todo el día, sin esperar a que anochezca. En una noche como esta, ese mismo espacio frente al mar se convierte en la pista de baile, con la cabina del DJ como centro de la sala.</p>\n<h3>Quién pincha en Flying Hearts</h3>\n<p>La noche estará amenizada por Echonomist y Jenia Tarsol, el dúo responsable del concepto Flying Hearts. Miul y Discoside completan el cartel, lo que suma un total de cuatro actuaciones a lo largo de la velada. El programa se sitúa entre la sesión de Franky Rizardo del 9 de enero y la noche de Gala Ibiza del 14 de enero, en pleno programa de enero de Bagatelle. Se trata de una noche con un único cabeza de cartel, en lugar de un escaparate multimarca, lo que mantiene la coherencia en el sonido y el ambiente desde el principio hasta el final.</p>\n<h3>Entradas: desde la tarifa Early Bird hasta la Backstage</h3>\n<p>Hay cuatro categorías de entradas a la venta para Flying Hearts. La entrada general Early Bird cuesta 1.000 MXN y la general de categoría 1, 1.500 MXN; ambas te permiten acceder al recinto y al evento en cualquier momento. La categoría VIP 1 cuesta 2.000 MXN y la categoría Backstage 1, 4.000 MXN; cada una de ellas incluye su propia entrada, barra y aseos, por lo que te saltas las colas principales y te mantienes más cerca de la acción. El precio que pagas depende de lo cerca que quieras estar de la cabina. Los precios de las mesas aún no se han publicado; solicítalos a través del botón de esta página y te los facilitaremos en cuanto estén disponibles.</p>\n<h3>Cómo llegar e información útil</h3>\n<p>Bagatelle Tulum se encuentra en la Carretera Tulum–Boca Paila, km 8, en la Zona Hotelera, a un corto trayecto en coche hacia el sur por la franja de playa. Dispone de servicio de aparcacoches y aparcamiento de pago en el recinto, además de acceso para sillas de ruedas y aseos. El local es solo para adultos, mayores de 21 años, y se aplica un código de vestimenta casual-chic: ropa elegante y de buen gusto, en lugar de trajes de baño o ropa deportiva; los hombres deben evitar llevar sandalias. La hora de inicio de esta velada aún no se ha fijado, así que pregúntalo al hacer la reserva y te lo confirmarán. Para reservar tu plaza, haz la reserva a través de Tulum Bible con el botón de esta página; a continuación aparecerá un enlace de pago.</p>",
+          "description": "Echonomist y Jenia Tarsol presentan Flying Hearts, una fiesta dominical en Bagatelle Tulum con Miul y Discoside en el paseo marítimo.",
+          "hubBlurb": "<p><strong>Echonomist y Jenia Tarsol traen Flying Hearts a Bagatelle Tulum el 10 de enero.</strong> Una fiesta dominical en el paseo marítimo amenizada por Echonomist y Jenia Tarsol, con Miul y Discoside repartidos en cuatro niveles, desde la zona general para los que llegan temprano hasta el backstage. El beach club de la Costa Azul organiza este evento como parte de su temporada alta de enero; es un evento solo para adultos con su propia pista de baile nocturna.</p><p><strong>Fecha:</strong> domingo, 10 de enero de 2027, a partir de las 19:00 h<br><strong>Cartel:</strong> IBÁN MENDOZA, MARCO NORMA, SIDARTHA SILICEO, ANANTA, STEVE LAWLER, JESSE ZOTTI, MIUL, GUY MANTZUR, RODRÍGUEZ JR., ELI NISSAN, ERMAKOVA, LOEN<br><strong>Entradas:</strong> Desde 1.000 MXN · General · Nivel 1 1.500 MXN · VIP · Nivel 1 2.000 MXN<br><strong>Reservas:</strong> A través de Tulum Bible</p>",
+          "name": "Echonomist & Jenia Tarsol present Flying Hearts at",
+          "slug": "echonomist-and-jenia-tarsol-present-flying-hearts-bagatelle-tulum-2027-01",
           "tableInformation": ""
         }
       }
