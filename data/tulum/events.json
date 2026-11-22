@@ -1,7 +1,88 @@
 {
-  "syncedAt": "2026-11-22T00:25:27.540Z",
+  "syncedAt": "2026-11-22T00:27:58.074Z",
   "citySlug": "tulum",
   "events": [
+    {
+      "base": {
+        "afterEnd": "archive",
+        "buyLink": "https://tf.link/hkd2dwg9",
+        "categoryIds": [],
+        "cta": "Tickets",
+        "displayPrice": "Free",
+        "endDate": "2026-11-27T23:59",
+        "eventType": "Social",
+        "faqIds": [],
+        "flyerImage": {
+          "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/dbc0f799-463e-4735-5b13-b319aa018700/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+        },
+        "gaLink": null,
+        "gaPrice": null,
+        "hubImage": null,
+        "isFeatured": false,
+        "isPublished": true,
+        "lineup": null,
+        "noPrice": false,
+        "promotion": "normal",
+        "publishedAt": null,
+        "qrCode": "M0 0.5h7m1 0h3m1 0h1m1 0h5m4 0h1m1 0h1m1 0h2m1 0h7M0 1.5h1m5 0h1m1 0h3m2 0h2m4 0h2m1 0h1m3 0h1m1 0h1m1 0h1m5 0h1M0 2.5h1m1 0h3m1 0h1m1 0h1m1 0h2m2 0h1m1 0h3m1 0h5m2 0h1m2 0h1m1 0h3m1 0h1M0 3.5h1m1 0h3m1 0h1m1 0h2m1 0h1m1 0h6m1 0h1m2 0h1m1 0h3m2 0h1m1 0h3m1 0h1M0 4.5h1m1 0h3m1 0h1m6 0h5m3 0h1m1 0h1m1 0h4m1 0h1m1 0h3m1 0h1M0 5.5h1m5 0h1m1 0h1m2 0h2m1 0h1m1 0h2m1 0h1m6 0h1m1 0h1m1 0h1m5 0h1M0 6.5h7m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h7M9 7.5h1m2 0h1m4 0h2m1 0h2m1 0h2m1 0h1M0 8.5h2m2 0h3m4 0h1m3 0h3m1 0h1m1 0h4m2 0h1m3 0h1m1 0h4M0 9.5h1m2 0h2m2 0h4m1 0h1m1 0h1m1 0h1m1 0h1m3 0h2m1 0h4m3 0h1m1 0h2M0 10.5h1m1 0h7m2 0h2m1 0h2m5 0h1m1 0h2m1 0h2m3 0h3m1 0h1M2 11.5h3m3 0h4m3 0h1m1 0h5m2 0h1m1 0h1m1 0h2m2 0h3m1 0h1M0 12.5h3m2 0h2m1 0h2m2 0h1m2 0h1m1 0h1m1 0h5m2 0h1m1 0h1m1 0h2m2 0h1m1 0h1M0 13.5h1m1 0h2m1 0h1m3 0h1m3 0h4m1 0h1m1 0h2m5 0h3m2 0h4M1 14.5h1m1 0h1m2 0h1m1 0h1m5 0h2m1 0h1m2 0h2m1 0h2m1 0h2m1 0h1M1 15.5h2m1 0h2m6 0h1m1 0h2m1 0h2m1 0h2m1 0h2m1 0h1m2 0h2m1 0h4M0 16.5h2m1 0h1m1 0h3m2 0h2m1 0h2m1 0h2m1 0h3m1 0h2m2 0h5m2 0h1m1 0h1M0 17.5h2m2 0h1m2 0h1m1 0h2m1 0h1m1 0h5m2 0h3m1 0h1m2 0h1m3 0h4M1 18.5h1m1 0h4m1 0h2m1 0h8m1 0h2m1 0h1m3 0h1m3 0h2M0 19.5h2m2 0h1m2 0h1m1 0h3m1 0h1m1 0h1m1 0h5m1 0h2m1 0h2m1 0h1m1 0h2m1 0h2M0 20.5h5m1 0h1m1 0h1m3 0h2m1 0h1m1 0h1m1 0h4m4 0h1m1 0h3m1 0h4M0 21.5h1m3 0h1m2 0h1m1 0h1m3 0h4m6 0h1m1 0h1m1 0h3m1 0h3m1 0h1M2 22.5h1m2 0h2m1 0h1m1 0h1m4 0h1m1 0h1m2 0h2m1 0h3m1 0h2m2 0h4M0 23.5h2m1 0h3m4 0h1m1 0h1m1 0h2m1 0h1m3 0h1m1 0h2m2 0h1m2 0h1m1 0h1m1 0h2M0 24.5h1m1 0h5m2 0h3m1 0h2m1 0h2m1 0h4m2 0h1m2 0h4m2 0h3M0 25.5h1m1 0h2m1 0h1m2 0h1m1 0h1m1 0h1m2 0h2m1 0h1m3 0h2m3 0h2m3 0h2m1 0h1M2 26.5h3m1 0h2m1 0h1m1 0h7m5 0h1m1 0h3m4 0h2M3 27.5h1m1 0h1m1 0h1m2 0h2m1 0h1m1 0h1m1 0h2m2 0h2m1 0h1m1 0h2m2 0h6M0 28.5h2m4 0h4m2 0h2m2 0h2m1 0h1m1 0h2m1 0h1m3 0h5m1 0h1M8 29.5h3m2 0h6m4 0h6m3 0h3M0 30.5h7m2 0h2m4 0h1m1 0h1m2 0h2m1 0h3m2 0h1m1 0h1m1 0h2M0 31.5h1m5 0h1m1 0h1m1 0h1m1 0h1m1 0h2m1 0h5m1 0h2m1 0h1m1 0h1m3 0h1m1 0h3M0 32.5h1m1 0h3m1 0h1m1 0h4m1 0h5m3 0h2m1 0h1m3 0h5m1 0h1M0 33.5h1m1 0h3m1 0h1m2 0h2m1 0h1m2 0h1m2 0h2m1 0h1m1 0h1m2 0h3m1 0h2m1 0h4M0 34.5h1m1 0h3m1 0h1m2 0h1m1 0h6m1 0h1m4 0h1m1 0h2m3 0h2m1 0h2M0 35.5h1m5 0h1m1 0h2m1 0h1m1 0h1m3 0h2m1 0h5m1 0h1m2 0h3m2 0h2M0 36.5h7m1 0h3m1 0h2m1 0h1m1 0h1m1 0h1m1 0h2m1 0h1m4 0h3m2 0h3<!--vb:37-->",
+        "startDate": "2026-11-27",
+        "status": "Live",
+        "tableLayoutImage": null,
+        "tbeId": "TBE_H7Q2J4",
+        "ticketPrice": null,
+        "ticketTiers": [
+          {
+            "currency": "MXN",
+            "id": "wDIj7kvukgbxD2OGvgrpqfeQa5U0Zi/vuU5q1572AjyT/w7ar+uOfWEur7lMI4jjNQxxCTeYtp+NJMBvgeySPw==",
+            "isTable": false,
+            "name": "Preventa",
+            "price": 0,
+            "priceWithFees": 0,
+            "replacementText": "Free",
+            "sortOrder": 1,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "CC/EhaQNyeSrsms4cXwAulRiZ70t1T26L2mS6O4XUnwhyzl2yHIkK69xPSewzBVCyu77x56Iq/FBvajop2fq0Q==",
+            "isTable": false,
+            "name": "En puerta",
+            "price": 220,
+            "priceWithFees": 220,
+            "sortOrder": 2,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          }
+        ],
+        "time": "22:00",
+        "url": "https://tf.link/hkd2dwg9",
+        "venueName": "Veleta Market",
+        "venueSlug": null,
+        "vipLink": null,
+        "vipPrice": null
+      },
+      "convexId": "j5772a5s2kwpkr218p6ata1kex8jq57j",
+      "lastUpdated": "2026-11-22T00:27:45.113Z",
+      "locales": {
+        "en": {
+          "body": "<h2>A Reggaeton Night in La Veleta</h2>\n<p>Jangueo is a party, not a concert. It takes over Veleta Market, the open-air spot on Calle 7 Sur 12 in the La Veleta neighbourhood of Tulum. The sound is reggaeton, Latin rhythms and Caribbean beats, the kind of music that keeps a room moving without a break. The promoter's line sums it up: no drama, just jangueo — come for the music, stay for the night. This is the night La Veleta comes to dance, and it runs late. Entry is free, with general admission tickets available from MXN $220 if you want them.</p>\n<h3>What the Night Sounds Like</h3>\n<p>Expect reggaeton front and centre, mixed with wider Latin and Caribbean rhythms through the night. The music carries from the early hours of the evening into the small hours. There is no set to sit and watch here — the floor is the point. People come to move, to meet, and to let the night run its own way. If reggaeton is your sound and you want a crowd that is there to party rather than pose, this is the room for it.</p>\n<h3>Doors and Timing</h3>\n<p>The music runs from 10pm to 2am. Veleta Market is on Calle 7 Sur 12, in La Veleta, which sits inland from the beach road and is easy to reach from most of the town. Entry is free, so you can turn up and see how the night feels. General admission tickets start at MXN $220 and can be secured here through the buy button on this page. Come early if you want room on the floor, or arrive late and walk into the night already in full swing.</p>",
+          "description": "Jangueo brings reggaeton, Latin rhythms and Caribbean beats to Veleta Market in La Veleta, running from 10pm until 2am. Free entry, with general admission tickets too.",
+          "hubBlurb": "<p><strong>Jangueo takes over Veleta Market in La Veleta on November 27.</strong> A reggaeton and Latin night at Veleta Market in La Veleta, running from 10pm to 2am with Caribbean beats and a floor that stays full. Entry is free, with general admission tickets available if you want them.</p><p><strong>Date:</strong> Friday, November 27, 2026, from 10:00 PM<br><strong>Tickets:</strong> En puerta MXN $220<br><strong>Book:</strong> Through Tulum Bible</p>",
+          "name": "Jangueo at Veleta Market",
+          "slug": "jangueo-at-veleta-market-28nov2026",
+          "tableInformation": ""
+        },
+        "es": {
+          "body": "<h2>Una noche de reggaeton en La Veleta</h2>\n<p>El jangueo es una fiesta, no un concierto. Se celebra en el Mercado de La Veleta, el local al aire libre situado en la calle 7 Sur 12, en el barrio de La Veleta, en Tulum. La música es reguetón, ritmos latinos y compases caribeños, el tipo de música que mantiene a todo el mundo bailando sin parar. El eslogan del organizador lo resume todo: sin dramas, solo jangueo; ven por la música, quédate toda la noche. Esta es la noche en la que La Veleta sale a bailar, y se alarga hasta altas horas de la madrugada. La entrada es gratuita, aunque hay entradas generales disponibles a partir de 220 MXN si las prefieres.</p>\n<h3>Cómo suena la noche</h3>\n<p>Prepárate para el reguetón como protagonista, mezclado con una amplia variedad de ritmos latinos y caribeños a lo largo de la noche. La música suena desde las primeras horas de la tarde hasta bien entrada la madrugada. Aquí no hay sitio para sentarse y mirar: la pista de baile es lo que importa. La gente viene a moverse, a conocer gente y a dejar que la noche siga su curso. Si el reguetón es lo tuyo y buscas un público que esté ahí para divertirse en lugar de para presumir, este es tu sitio.</p>\n<h3>Horario y apertura</h3>\n<p>La música suena de las 22:00 a las 02:00. Veleta Market está en la calle 7 Sur 12, en La Veleta, una zona situada hacia el interior desde la carretera de la playa y a la que se llega fácilmente desde casi cualquier punto de la ciudad. La entrada es gratuita, así que puedes pasarte y ver cómo se desarrolla la noche. Las entradas generales cuestan a partir de 220 MXN y se pueden adquirir aquí a través del botón de compra de esta página. Ven temprano si quieres sitio en la pista, o llega tarde y sumérgete en la noche cuando ya esté en pleno apogeo.</p>",
+          "description": "Jangueo lleva el reguetón, los ritmos latinos y los compases caribeños al Veleta Market, en La Veleta, desde las 22:00 hasta las 02:00. Entrada gratuita; también hay entradas generales disponibles.",
+          "hubBlurb": "<p><strong>Jangueo se adueña del Veleta Market en La Veleta el 27 de noviembre.</strong> Una noche de reguetón y música latina en el Veleta Market de La Veleta, de 22:00 a 02:00, con ritmos caribeños y una pista que no deja de llenarse. La entrada es gratuita, aunque hay entradas generales disponibles si lo prefieres.</p><p><strong>Fecha:</strong> viernes, 27 de noviembre de 2026, a partir de las 22:00 h<br><strong>Entradas:</strong> En taquilla: 220 MXN<br><strong>Reservas:</strong> A través de Tulum Bible</p>",
+          "name": "Jangueo at Veleta Market",
+          "slug": "jangueo-at-veleta-market-28nov2026",
+          "tableInformation": ""
+        }
+      }
+    },
     {
       "base": {
         "afterEnd": "archive",
