@@ -1,7 +1,89 @@
 {
-  "syncedAt": "2026-11-22T00:00:43.516Z",
+  "syncedAt": "2026-11-22T00:25:27.540Z",
   "citySlug": "tulum",
   "events": [
+    {
+      "base": {
+        "afterEnd": "archive",
+        "buyLink": "https://tf.link/ebnjq5jy",
+        "categoryIds": [],
+        "cta": "Tickets",
+        "displayPrice": "MXN $190",
+        "endDate": "2026-12-04T23:59",
+        "eventType": "Rooftop",
+        "faqIds": [],
+        "flyerImage": {
+          "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/bb4ca96d-85ec-4560-7f8b-b58917f16e00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+        },
+        "gaLink": null,
+        "gaPrice": null,
+        "hubImage": null,
+        "isFeatured": false,
+        "isPublished": true,
+        "lineup": [
+          "JANGOEO"
+        ],
+        "noPrice": false,
+        "promotion": "normal",
+        "publishedAt": null,
+        "qrCode": "M0 0.5h7m1 0h1m1 0h1m1 0h2m2 0h6m1 0h1m2 0h1m1 0h1m1 0h7M0 1.5h1m5 0h1m2 0h4m1 0h1m2 0h2m1 0h1m1 0h5m1 0h1m1 0h1m5 0h1M0 2.5h1m1 0h3m1 0h1m1 0h3m2 0h4m1 0h3m1 0h1m1 0h2m4 0h1m1 0h3m1 0h1M0 3.5h1m1 0h3m1 0h1m1 0h3m1 0h4m4 0h1m1 0h1m1 0h5m1 0h1m1 0h3m1 0h1M0 4.5h1m1 0h3m1 0h1m1 0h1m2 0h2m1 0h3m1 0h2m1 0h1m2 0h1m1 0h3m1 0h1m1 0h3m1 0h1M0 5.5h1m5 0h1m3 0h2m5 0h4m1 0h1m1 0h1m5 0h1m5 0h1M0 6.5h7m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h7M10 7.5h1m1 0h1m1 0h5m3 0h3m2 0h2M0 8.5h4m2 0h1m1 0h1m1 0h3m1 0h2m1 0h5m1 0h1m2 0h4m2 0h3m1 0h1M1 9.5h1m2 0h1m3 0h1m1 0h1m1 0h2m1 0h2m1 0h6m4 0h1m2 0h1m1 0h3M1 10.5h1m4 0h1m4 0h2m3 0h1m3 0h1m1 0h3m3 0h1m1 0h1m3 0h2M1 11.5h1m1 0h1m4 0h1m1 0h1m2 0h1m4 0h1m1 0h1m2 0h6m1 0h2m2 0h3M0 12.5h1m1 0h1m2 0h2m3 0h1m1 0h3m2 0h1m4 0h2m1 0h1m1 0h4m1 0h3m1 0h1M1 13.5h1m2 0h2m2 0h5m1 0h4m1 0h3m1 0h3m1 0h8m1 0h1M0 14.5h1m1 0h1m3 0h1m1 0h1m1 0h2m1 0h2m4 0h2m3 0h3m3 0h1m2 0h1m1 0h1M1 15.5h5m3 0h1m1 0h1m2 0h3m3 0h3m3 0h1m1 0h1m2 0h1m1 0h1m2 0h1M2 16.5h1m1 0h1m1 0h3m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h2m3 0h1m1 0h2m5 0h2M15 17.5h1m1 0h1m2 0h2m1 0h4m2 0h2m2 0h1m1 0h2M1 18.5h2m2 0h3m1 0h2m2 0h3m4 0h3m1 0h1m2 0h2m1 0h3m1 0h3M7 19.5h2m1 0h2m1 0h2m1 0h4m2 0h3m3 0h1m2 0h1m1 0h1m1 0h1M0 20.5h1m2 0h5m5 0h7m1 0h1m2 0h1m1 0h3m2 0h3m1 0h1M0 21.5h1m1 0h1m1 0h2m1 0h2m7 0h1m2 0h3m1 0h1m2 0h1m1 0h2m5 0h1M1 22.5h2m1 0h1m1 0h2m2 0h1m3 0h1m1 0h2m4 0h5m4 0h1M0 23.5h2m1 0h1m4 0h7m4 0h1m4 0h2m3 0h1m1 0h4M1 24.5h4m1 0h3m1 0h2m3 0h3m4 0h1m3 0h5m1 0h5M3 25.5h1m3 0h1m1 0h1m1 0h1m1 0h1m1 0h3m1 0h1m2 0h1m1 0h2m1 0h7m2 0h1M1 26.5h9m2 0h1m1 0h1m1 0h1m2 0h1m1 0h1m4 0h1m3 0h3m2 0h1M0 27.5h1m1 0h1m5 0h1m1 0h1m1 0h2m1 0h2m4 0h1m1 0h1m2 0h3m2 0h3m2 0h1M3 28.5h4m1 0h1m2 0h1m4 0h1m1 0h1m2 0h3m1 0h1m2 0h5m1 0h3M8 29.5h2m2 0h2m1 0h1m1 0h1m2 0h1m1 0h2m1 0h1m1 0h2m3 0h2m2 0h1M0 30.5h7m2 0h1m1 0h2m2 0h2m1 0h1m1 0h3m2 0h1m2 0h1m1 0h1m1 0h5M0 31.5h1m5 0h1m3 0h1m1 0h1m3 0h4m2 0h3m2 0h2m3 0h2m1 0h2M0 32.5h1m1 0h3m1 0h1m2 0h1m1 0h3m1 0h1m1 0h2m1 0h2m4 0h1m1 0h5m3 0h1M0 33.5h1m1 0h3m1 0h1m1 0h3m1 0h3m3 0h1m1 0h1m2 0h1m1 0h1m2 0h3m1 0h1m1 0h3M0 34.5h1m1 0h3m1 0h1m1 0h2m1 0h3m4 0h1m1 0h4m1 0h1m1 0h2m1 0h3M0 35.5h1m5 0h1m1 0h1m1 0h1m4 0h1m2 0h3m1 0h1m1 0h4m2 0h1m2 0h2M0 36.5h7m1 0h3m1 0h1m1 0h1m2 0h1m2 0h1m1 0h1m1 0h4m1 0h2m1 0h5<!--vb:37-->",
+        "startDate": "2026-12-04",
+        "status": "Live",
+        "tableLayoutImage": null,
+        "tbeId": "TBE_3V9K4S",
+        "ticketPrice": null,
+        "ticketTiers": [
+          {
+            "currency": "MXN",
+            "id": "YXTcIx5xdYAMRhoGZ3R4zjIqWhintaZYndQ0IzwtLvRYO/96oR4xTTxd9BanLjviaqYn2h1r11GI0RKbdcWcQQ==",
+            "isTable": false,
+            "name": "Preventa",
+            "price": 190,
+            "priceWithFees": 190,
+            "sortOrder": 1,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "QUVQBK5gTWFaP7jGJJc1iN4/OVpEDQ/5957XXd09V5UfftrI37KdZu2HjdQ7vcnoAFajPHLnkkVJOdhiiBjUaw==",
+            "isTable": false,
+            "name": "En puerta",
+            "price": 220,
+            "priceWithFees": 220,
+            "sortOrder": 2,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          }
+        ],
+        "time": "",
+        "url": "https://tf.link/ebnjq5jy",
+        "venueName": "La Guarida",
+        "venueSlug": "la-guarida",
+        "vipLink": null,
+        "vipPrice": null
+      },
+      "convexId": "j573v47h8ht4hyybpyhmmz2f3h8jptkd",
+      "lastUpdated": "2026-11-22T00:25:04.184Z",
+      "locales": {
+        "en": {
+          "body": "<h2>A Reggaeton Night in Downtown Tulum</h2><p>Jangueo is a late night built around reggaeton, Latin beats and Caribbean sounds, held at La Guarida in Tulum Centro. The promoters call it an experience that goes beyond the party, with a simple promise: come for the music, stay for the night. It runs from 10pm to 2am on a Friday. The pitch is honest about what you are signing up for - bad decisions make good stories, and this is a night out meant to be remembered. Tickets start at MXN $190, so it stays easy on the budget for a full evening of dancing.</p><h3>The Sound: Reggaeton and Caribbean Beats</h3><p>The music is the point. Expect reggaeton, Latin rhythms and Caribbean vibes running through the four-hour window, the kind of set built to keep a room moving rather than sit and listen. If you want a night where the floor fills early and the energy holds through to close, this is aimed squarely at you. It is less a seated bar evening and more a party with a soundtrack that leans tropical and loud.</p><h3>Across the Floors of La Guarida</h3><p>La Guarida is a multi-level bar at the corner of Calle Orión Sur and Calle Andrómeda Oriente in Tulum Centro. The building is mostly outdoor, with an open kitchen, a street-facing balcony and a rooftop terrace overlooking the road, plus semi-indoor rooms for quieter tables. Seating spreads across the ground level, upper rooms, balcony and roof, so each part of the building keeps its own pace. On a normal day it runs food, cocktails and an arts program of live music, jam sessions and film screenings. Restrooms are on site. For Jangueo, that layout means you can move between floors as the night builds, finding the spot that suits your group.</p><h3>Plan Your Night</h3><p>Jangueo runs from 10pm to 2am. La Guarida sits on the corner of Calle Orión Sur and Calle Andrómeda Oriente in Tulum Centro, central enough to reach on foot from much of downtown. Tickets start at MXN $190. Secure your place through the buy button on this page before the night fills up.</p>",
+          "description": "Jangueo is a reggaeton and Latin night at La Guarida in downtown Tulum, running 10pm to 2am with Caribbean beats across a multi-level bar.",
+          "hubBlurb": "<p><strong>Jangueo brings a reggaeton night to La Guarida on December 4.</strong> A Latin and Caribbean party at the multi-level La Guarida bar in downtown Tulum, running four hours across its floors, rooftop and balcony. Reggaeton-led, easy on the budget, and built for a night on the dance floor rather than a seated drink.</p><p><strong>Date:</strong> Friday, December 4, 2026<br><strong>Lineup:</strong> JANGOEO<br><strong>Tickets:</strong> From MXN $190 · En puerta MXN $220<br><strong>Book:</strong> Through Tulum Bible</p>",
+          "name": "Jangueo",
+          "slug": "jangueo-at-la-guarida-4dec2026",
+          "tableInformation": ""
+        },
+        "es": {
+          "body": "<h2>Una noche de reggaeton en el centro de Tulum</h2><p>Jangueo es una velada nocturna centrada en el reguetón, los ritmos latinos y los sonidos caribeños, que se celebra en La Guarida, en el centro de Tulum. Los organizadores la describen como una experiencia que va más allá de la fiesta, con una promesa sencilla: ven por la música, quédate toda la noche. Se celebra los viernes, de 22:00 a 02:00. El eslogan es sincero sobre lo que te espera: las malas decisiones dan lugar a buenas historias, y esta es una noche pensada para ser recordada. Las entradas cuestan a partir de 190 MXN, por lo que resulta asequible para una noche entera de baile.</p><h3>El sonido: reguetón y ritmos caribeños</h3><p>La música es lo más importante. Prepárate para disfrutar de reggaeton, ritmos latinos y vibraciones caribeñas durante las cuatro horas que dura el evento, el tipo de sesión pensada para mantener a la gente en movimiento en la pista, en lugar de sentarse a escuchar. Si buscas una noche en la que la pista se llene pronto y la energía se mantenga hasta el cierre, esto va directamente dirigido a ti. No es tanto una velada de bar para sentarse como una fiesta con una banda sonora de tintes tropicales y a todo volumen.</p><h3>Por las plantas de La Guarida</h3><p>La Guarida es un bar de varios niveles situado en la esquina de la calle Orión Sur con la calle Andrómeda Oriente, en Tulum Centro. El local es mayoritariamente al aire libre, con una cocina abierta, un balcón que da a la calle y una terraza e rooftop e con vistas a la carretera, además de salas semicubiertas para mesas más tranquilas. Los asientos se distribuyen entre la planta baja, las salas superiores, el balcón y la azotea, por lo que cada parte del local tiene su propio ritmo. En un día normal, ofrece comida, cócteles y un programa artístico con música en directo, jam sessions y proyecciones de películas. Hay aseos en el local. Para Jangueo, esa distribución significa que puedes moverte de una planta a otra a medida que avanza la noche, encontrando el lugar que mejor se adapte a tu grupo.</p><h3>Planifica tu noche</h3><p>Jangueo abre de 22:00 a 02:00. La Guarida se encuentra en la esquina de la calle Orión Sur con la calle Andrómeda Oriente, en Tulum Centro, lo suficientemente céntrico como para llegar a pie desde gran parte del centro de la ciudad. Las entradas cuestan a partir de 190 MXN. Asegúrate tu plaza a través del botón de compra de esta página antes de que se agoten las plazas.</p>",
+          "description": "Jangueo es una noche dedicada al reguetón y la música latina en La Guarida, en el centro de Tulum, que se celebra de 22:00 a 02:00 con ritmos caribeños en un bar de varios niveles.",
+          "hubBlurb": "<p><strong>Jangueo organiza una noche de reguetón en La Guarida el 4 de diciembre.</strong> Una fiesta latina y caribeña en el bar La Guarida, de varios niveles, situado en el centro de Tulum, que durará cuatro horas y se celebrará en todas sus plantas: e rooftop e y balcón. Con el reguetón como protagonista, asequible y pensada para pasar la noche en la pista de baile en lugar de sentarse a tomar una copa.</p><p><strong>Fecha:</strong> viernes, 4 de diciembre de 2026<br><strong>Cartel:</strong> JANGOEO<br><strong>Entradas:</strong> desde 190 MXN · En taquilla: 220 MXN<br><strong>Reservas:</strong> A través de Tulum Bible</p>",
+          "name": "Jangueo",
+          "slug": "jangueo-at-la-guarida-4dec2026",
+          "tableInformation": ""
+        }
+      }
+    },
     {
       "base": {
         "afterEnd": "archive",
