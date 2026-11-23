@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-23T22:04:45.563Z",
+  "syncedAt": "2026-11-23T22:18:58.658Z",
   "citySlug": "tulum",
   "events": [
     {
@@ -78,6 +78,90 @@
           "hubBlurb": "<p><strong>Mía Tulum ofrece una cena de Nochebuena de tres platos junto al mar el 24 de diciembre.</strong> Una cena de tres platos en la arena de Mía, servida a la luz de las velas y con vistas al mar. La cocina se inspira en la gastronomía mexicana, mediterránea y marinera, desde tacos de atún al pastor hasta pasta con langosta caribeña y cortes de carne a la brasa.</p><p><strong>Fecha:</strong> jueves, 24 de diciembre de 2026, a partir de las 19:00 h<br><strong>Entradas:</strong> desde 805 MXN · Cena de Navidad para adultos: 1.380 MXN<br><strong>Reservas:</strong> A través de Tulum Bible</p>",
           "name": "Christmas Dinner at Mia",
           "slug": "mia-tulum-christmas-dinner-24dec2026",
+          "tableInformation": ""
+        }
+      }
+    },
+    {
+      "base": {
+        "afterEnd": "archive",
+        "buyLink": "https://tf.link/78ycxzxc",
+        "categoryIds": [],
+        "cta": "Tickets",
+        "displayPrice": null,
+        "endDate": "2026-11-26T23:59",
+        "eventType": null,
+        "faqIds": [],
+        "flyerImage": {
+          "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/57da82f1-294c-4a67-79a2-92923a8a6d00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+        },
+        "gaLink": null,
+        "gaPrice": null,
+        "hubImage": null,
+        "isFeatured": false,
+        "isPublished": true,
+        "lineup": null,
+        "noPrice": false,
+        "promotion": "normal",
+        "publishedAt": null,
+        "qrCode": "M0 0.5h7m1 0h1m2 0h2m1 0h1m3 0h1m2 0h2m2 0h1m4 0h7M0 1.5h1m5 0h1m2 0h2m2 0h2m4 0h2m1 0h1m3 0h1m1 0h1m1 0h1m5 0h1M0 2.5h1m1 0h3m1 0h1m3 0h1m1 0h3m1 0h1m2 0h4m2 0h1m1 0h1m2 0h1m1 0h3m1 0h1M0 3.5h1m1 0h3m1 0h1m5 0h2m2 0h1m4 0h1m2 0h2m4 0h1m1 0h3m1 0h1M0 4.5h1m1 0h3m1 0h1m2 0h1m1 0h1m2 0h1m1 0h1m2 0h1m6 0h1m1 0h1m1 0h1m1 0h3m1 0h1M0 5.5h1m5 0h1m3 0h1m1 0h2m6 0h1m1 0h2m1 0h1m4 0h1m5 0h1M0 6.5h7m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h7M8 7.5h1m1 0h2m1 0h4m2 0h1m2 0h1m2 0h1m1 0h2M0 8.5h2m1 0h2m1 0h1m2 0h3m2 0h1m2 0h1m1 0h2m2 0h2m1 0h1m1 0h1m1 0h1m5 0h1M0 9.5h6m3 0h1m2 0h3m3 0h2m3 0h1m2 0h2m1 0h1m1 0h2m2 0h1M0 10.5h1m2 0h2m1 0h1m2 0h3m3 0h2m1 0h1m1 0h4m3 0h3m2 0h5M2 11.5h1m1 0h1m2 0h1m3 0h2m4 0h1m1 0h2m5 0h3m1 0h1m1 0h1m1 0h1M0 12.5h1m1 0h7m2 0h2m3 0h1m2 0h2m5 0h2m2 0h1m2 0h1m1 0h2M0 13.5h5m4 0h1m3 0h4m1 0h1m1 0h2m5 0h2m2 0h5M2 14.5h1m2 0h3m1 0h7m2 0h4m3 0h3m2 0h1m1 0h1m2 0h2M0 15.5h1m1 0h1m2 0h1m2 0h2m1 0h1m15 0h1m1 0h1m1 0h2m1 0h1m1 0h1M2 16.5h2m2 0h1m1 0h2m4 0h3m3 0h1m3 0h2m2 0h1m1 0h2m1 0h4M0 17.5h4m1 0h1m1 0h1m1 0h1m1 0h3m1 0h1m2 0h4m4 0h1m6 0h1M2 18.5h1m2 0h3m1 0h1m1 0h1m3 0h3m1 0h1m1 0h1m1 0h5m1 0h1m6 0h1M0 19.5h1m2 0h2m3 0h3m1 0h1m1 0h1m1 0h1m5 0h1m2 0h1m2 0h1m1 0h1m2 0h1m2 0h1M0 20.5h1m4 0h3m2 0h1m1 0h3m1 0h2m1 0h1m6 0h1m1 0h5m2 0h2M1 21.5h1m2 0h1m3 0h2m4 0h2m3 0h1m2 0h2m3 0h1m1 0h1m2 0h4M0 22.5h1m1 0h9m1 0h1m1 0h5m2 0h3m1 0h3m1 0h1m1 0h1m1 0h1m2 0h1M0 23.5h1m1 0h1m4 0h1m2 0h1m3 0h1m2 0h2m4 0h1m5 0h1m2 0h5M1 24.5h1m2 0h3m1 0h3m2 0h3m3 0h2m2 0h1m1 0h1m1 0h1m2 0h2m1 0h1m2 0h1M0 25.5h1m2 0h3m1 0h2m1 0h1m1 0h1m2 0h2m1 0h1m3 0h2m3 0h3m2 0h2m1 0h1M0 26.5h2m2 0h1m1 0h1m7 0h3m1 0h2m4 0h1m1 0h2m3 0h3m1 0h2M0 27.5h1m3 0h2m1 0h2m3 0h3m5 0h1m1 0h2m6 0h2m2 0h1m1 0h1M0 28.5h1m1 0h3m1 0h1m2 0h4m2 0h2m5 0h4m1 0h9M8 29.5h1m2 0h1m3 0h1m2 0h3m1 0h1m1 0h1m2 0h2m3 0h2m1 0h1M0 30.5h7m2 0h1m2 0h4m1 0h3m1 0h1m1 0h1m2 0h1m1 0h1m1 0h1m1 0h2m2 0h1M0 31.5h1m5 0h1m4 0h1m1 0h1m2 0h1m5 0h1m2 0h1m1 0h2m3 0h2M0 32.5h1m1 0h3m1 0h1m1 0h2m1 0h1m1 0h1m3 0h1m2 0h1m3 0h1m1 0h8M0 33.5h1m1 0h3m1 0h1m1 0h1m3 0h2m1 0h2m1 0h1m2 0h3m1 0h3m1 0h2m2 0h1m1 0h2M0 34.5h1m1 0h3m1 0h1m3 0h2m1 0h1m1 0h1m4 0h1m1 0h4m2 0h2m1 0h3m2 0h1M0 35.5h1m5 0h1m1 0h1m1 0h4m1 0h1m1 0h1m2 0h1m1 0h2m2 0h2m1 0h3m1 0h4M0 36.5h7m1 0h1m1 0h4m2 0h1m2 0h1m3 0h2m2 0h2m2 0h1m1 0h1m2 0h1<!--vb:37-->",
+        "startDate": "2026-11-26",
+        "status": "Live",
+        "tableLayoutImage": null,
+        "tbeId": "TBE_XMH8YF",
+        "ticketPrice": null,
+        "ticketTiers": [
+          {
+            "currency": "MXN",
+            "id": "UeWFlGJgd3C1ztAzgGV4DHpTHFtsgzLKPXt/42QwIeVg8QU2hrB1CA8VjUpECxxmFdh7aYhMmLsWdKL9WZj6Hw==",
+            "isTable": true,
+            "maxGuests": 10,
+            "minGuests": 2,
+            "name": "Thanksgiving Dinner Adult",
+            "price": 1518,
+            "priceWithFees": 1518,
+            "sortOrder": 1,
+            "status": "upcoming",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "/gmeNqaO+TIbuepWgJsGqacakH4hmq5/OruO2vbj0m8LCBEWpYgsFCI550S6aS2ndNtwh0djv7bsFNj/RNmklg==",
+            "isTable": true,
+            "maxGuests": 20,
+            "minGuests": 1,
+            "name": "Thanksgiving Dinner Children",
+            "price": 885.5,
+            "priceWithFees": 885.5,
+            "sortOrder": 2,
+            "status": "upcoming",
+            "symbol": "Mex$"
+          }
+        ],
+        "time": "19:00",
+        "url": "https://tf.link/78ycxzxc",
+        "venueName": "Mía I Best Beach Club in Tulum",
+        "venueSlug": null,
+        "vipLink": null,
+        "vipPrice": null
+      },
+      "convexId": "j578qvjkq3emhfc7q3e60y6zk18jpaz6",
+      "lastUpdated": "2026-11-23T22:18:41.915Z",
+      "locales": {
+        "en": {
+          "body": "<h2>Thanksgiving Dinner by the Sea</h2>\n<p>Mía Tulum sets its Thanksgiving table right on the sand, facing the Caribbean. The evening centres on a specially prepared three-course dinner, served as the light fades over the water. It runs as a full sit-down experience rather than a quick stop, so you settle in for the night. The mood is elegant but not stiff, built around good food, an ocean view and live music. If you are spending the holiday in Tulum, this is a way to mark it without leaving the beach.</p>\n<h3>Live Electric Violin Meets the DJs</h3>\n<p>The soundtrack is the part that sets this night apart. A live electric violinist plays alongside the resident DJs, and the two work together rather than taking turns. The result moves between popular hits, familiar melodies and uplifting house rhythms, so the room stays warm early and lifts as the evening goes on. The live violin set runs from 7 to 10 pm, and the DJs carry the music on from there. It is dinner music that keeps enough energy to make the table feel like an event.</p>\n<h3>Wines, Champagne and Cocktails</h3>\n<p>Alongside the dinner, Mía opens its wine collection à la carte. The list draws on prestigious Mexican vineyards and international selections, with French Champagnes and Italian Proseccos for the table. There is also a full menu of signature cocktails if you would rather start the night with something mixed. You choose and add these as you go, so the drinks match whatever you order from the three courses.</p>\n<h3>Doors at Seven, Music to Midnight</h3>\n<p>The evening opens at 7:00 pm on Thursday, November 26, 2026, and runs until midnight at Mía Tulum. Arriving near the start gives you the ocean view while there is still colour in the sky, and it lets the dinner unfold at its own pace. The live violin set runs through the first stretch of the night, so coming early is worth it. Seating is by reservation for the dinner, which makes booking ahead the sensible move. Reserve your place through the buy button on this page.</p>",
+          "description": "A three-course Thanksgiving dinner by the Caribbean Sea, with a live electric violin paired with DJ sets blending popular hits and house.",
+          "hubBlurb": "<p><strong>Mía Tulum serves a Thanksgiving dinner by the sea on November 26.</strong> A three-course Thanksgiving dinner on the sand at Mía Tulum, facing the Caribbean. A live electric violinist plays alongside the resident DJs, moving between popular hits and house, while wines, Champagne and cocktails are available à la carte.</p><p><strong>Date:</strong> Thursday, November 26, 2026, from 7:00 PM<br><strong>Tables:</strong> From MXN $885.5<br><strong>Book:</strong> Through Tulum Bible</p>",
+          "name": "Mia Thanksgiving 2026",
+          "slug": "mia-thansgiving-2026-26nov2026",
+          "tableInformation": ""
+        },
+        "es": {
+          "body": "<h2>Cena de Acción de Gracias junto al mar</h2>\n<p>Mía Tulum prepara su mesa de Acción de Gracias justo sobre la arena, frente al Caribe. La velada gira en torno a una cena de tres platos especialmente elaborada, que se sirve a medida que la luz se desvanece sobre el agua. Se trata de una experiencia completa en la que te sientas a la mesa, en lugar de una parada rápida, así que podrás acomodarte para pasar la noche. El ambiente es elegante, pero sin formalidades, y gira en torno a la buena comida, las vistas al mar y la música en directo. Si vas a pasar las vacaciones en Tulum, esta es una forma de celebrarlas sin salir de la playa.</p>\n<h3>El violín eléctrico en directo se une a los DJ</h3>\n<p>La banda sonora es lo que distingue a esta noche. Un violinista eléctrico en directo toca junto a los DJ residentes, y ambos colaboran en lugar de turnarse. El resultado oscila entre éxitos populares, melodías conocidas y ritmos house animados, de modo que el ambiente se caldea desde el principio y va animándose a medida que avanza la noche. La actuación del violín en directo tiene lugar de 19:00 a 22:00, y a partir de ahí los DJ se encargan de la música. Es música de cena que mantiene la energía suficiente para que la velada en la mesa se convierta en todo un evento.</p>\n<h3>Vinos, champán y cócteles</h3>\n<p>Además de la cena, Mía ofrece su selección de vinos a la carta. La carta incluye prestigiosos viñedos mexicanos y selecciones internacionales, con champanes franceses y proseccos italianos para acompañar la cena. También hay una completa carta de cócteles de autor si prefieres empezar la noche con una bebida mezclada. Tú eliges y los vas añadiendo sobre la marcha, para que las bebidas mariden con lo que pidas de los tres platos.</p>\n<h3>Apertura a las siete, música hasta medianoche</h3>\n<p>La velada comienza a las 19:00 h del jueves 26 de noviembre de 2026 y se prolonga hasta medianoche en Mía Tulum. Llegar al inicio te permite disfrutar de las vistas al mar mientras aún hay color en el cielo, y deja que la cena se desarrolle a su propio ritmo. La actuación de violín en directo se prolonga durante la primera parte de la noche, así que merece la pena llegar temprano. Las plazas para la cena son por reserva, por lo que es recomendable reservar con antelación. Reserva tu plaza a través del botón de compra de esta página.</p>",
+          "description": "Una cena de Acción de Gracias de tres platos a orillas del mar Caribe, con un violín eléctrico en directo acompañado de sesiones de DJ que combinan éxitos populares y música house.",
+          "hubBlurb": "<p><strong>Mía Tulum ofrece una cena de Acción de Gracias junto al mar el 26 de noviembre.</strong> Una cena de Acción de Gracias de tres platos en la arena de Mía Tulum, con vistas al Caribe. Un violinista eléctrico tocará en directo junto a los DJ residentes, alternando entre éxitos populares y música house, mientras que se podrán pedir vinos, champán y cócteles a la carta.</p><p><strong>Fecha:</strong> jueves, 26 de noviembre de 2026, a partir de las 19:00 h<br><strong>Mesas:</strong> desde 885,5 MXN<br><strong>Reservas:</strong> a través de Tulum Bible</p>",
+          "name": "Mia Thanksgiving 2026",
+          "slug": "mia-thansgiving-2026-26nov2026",
           "tableInformation": ""
         }
       }
