@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-24T18:40:15.188Z",
+  "syncedAt": "2026-11-24T18:41:03.071Z",
   "citySlug": "tulum",
   "events": [
     {
@@ -8,7 +8,7 @@
         "buyLink": "https://tf.link/p6veyfpz",
         "categoryIds": [],
         "cta": "Tickets",
-        "displayPrice": "Free",
+        "displayPrice": "MXN $239",
         "endDate": "2026-11-29T23:59",
         "eventType": "Rooftop",
         "faqIds": [],
@@ -27,7 +27,7 @@
         ],
         "noPrice": false,
         "promotion": "normal",
-        "publishedAt": null,
+        "publishedAt": "2026-11-24T14:51:54.077Z",
         "qrCode": "M0 0.5h7m1 0h2m4 0h1m3 0h7M0 1.5h1m5 0h1m6 0h1m4 0h1m5 0h1M0 2.5h1m1 0h3m1 0h1m1 0h1m2 0h3m2 0h1m1 0h1m1 0h3m1 0h1M0 3.5h1m1 0h3m1 0h1m1 0h2m1 0h1m1 0h4m1 0h1m1 0h3m1 0h1M0 4.5h1m1 0h3m1 0h1m1 0h4m3 0h2m1 0h1m1 0h3m1 0h1M0 5.5h1m5 0h1m2 0h1m2 0h1m1 0h1m3 0h1m5 0h1M0 6.5h7m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h7M9 7.5h1m1 0h1m2 0h3M0 8.5h4m2 0h1m1 0h1m5 0h4m2 0h3m1 0h1M1 9.5h3m4 0h2m9 0h1m3 0h1M0 10.5h5m1 0h1m1 0h1m7 0h1m3 0h1M1 11.5h1m3 0h1m1 0h2m2 0h6m1 0h1m2 0h2M0 12.5h2m1 0h4m1 0h2m1 0h1m1 0h2m3 0h3m1 0h3M2 13.5h1m1 0h1m2 0h5m1 0h1m1 0h6m3 0h1M1 14.5h1m4 0h5m1 0h2m2 0h3m1 0h1m1 0h2M0 15.5h1m1 0h3m2 0h1m1 0h1m2 0h1m1 0h1m1 0h1m2 0h2m3 0h1M3 16.5h5m1 0h3m1 0h1m1 0h10M8 17.5h1m3 0h2m2 0h1m3 0h1m1 0h1m1 0h1M0 18.5h7m4 0h4m1 0h1m1 0h1m1 0h1m1 0h3M0 19.5h1m5 0h1m2 0h2m1 0h1m1 0h3m3 0h1m2 0h1M0 20.5h1m1 0h3m1 0h1m2 0h3m2 0h1m1 0h6m2 0h1M0 21.5h1m1 0h3m1 0h1m1 0h3m1 0h1m1 0h1m2 0h2m1 0h5M0 22.5h1m1 0h3m1 0h1m1 0h1m2 0h1m2 0h1m1 0h3m1 0h1m1 0h2M0 23.5h1m5 0h1m1 0h4m1 0h1m3 0h2m1 0h1m1 0h1M0 24.5h7m1 0h2m1 0h1m1 0h2m3 0h7<!--vb:25-->",
         "startDate": "2026-11-29",
         "status": "Live",
@@ -37,7 +37,7 @@
         "ticketTiers": [
           {
             "currency": "MXN",
-            "id": "Po+lyJgbWfZklleLH9bMP721VUvtVlwA/V4yb2y43WqqVnAH5WfPLHU4eBO3U2pxoAlUWWiYQ/k98yUZKlYI/g==",
+            "id": "o2NiCKIE5ykO+4LLg56bOmGzj+5yOB7jKH+4vpAEp0Ivs4g1kH+0HE0HYBLtULDuulpuCBSzZ86ZzbZG/eGpzQ==",
             "isTable": false,
             "name": "Advance",
             "price": 239,
@@ -48,24 +48,12 @@
           },
           {
             "currency": "MXN",
-            "id": "nmfRalj2gJyUe8eok3k7ZTqXoyh4MLs9a1X5vlk8gNW23XdUtz0/A8iNc+u4MKTSQ5GvT7lvQMroiePCdSaSbg==",
+            "id": "0H+gA9M5x5MH/Q5y4KPtfQTG/yB41ngCYjkVWT5JJysJkXArmIt8vig9E9J6rNFRtlGPXdO7DhLKY/VdFqHw3A==",
             "isTable": false,
             "name": "On the door",
             "price": 290,
             "priceWithFees": 290,
             "sortOrder": 2,
-            "status": "on_sale",
-            "symbol": "Mex$"
-          },
-          {
-            "currency": "MXN",
-            "id": "pfoqPwe2aQgA0Rhgxkj8MejyAF/6ZFsfAFv/OJuEztdPw7TMIR52oKoWtJh1DTFPVChdZPVB1Kq9hX07rIPxkQ==",
-            "isTable": false,
-            "name": "Guest list",
-            "price": 0,
-            "priceWithFees": 0,
-            "replacementText": "Free",
-            "sortOrder": 3,
             "status": "on_sale",
             "symbol": "Mex$"
           }
@@ -78,21 +66,21 @@
         "vipPrice": null
       },
       "convexId": "j574bvq2qy17x8g7zfranvjvxs8jv9pn",
-      "lastUpdated": "2026-11-24T14:51:52.916Z",
+      "lastUpdated": "2026-11-24T18:40:47.449Z",
       "locales": {
         "en": {
-          "body": "<h2>From the Beach to the Rooftop</h2>\n<p>Tu Brunch keeps the night going after a day at Tulumania. When the beach party winds down, the crew heads to the rooftop of Mayan Monkey Tulum for more music and dancing. Karla Mercedes, Lisandro Monaco and Sulamah take the decks, with support filling out the night. Doors open at 20:00 and the music runs late. It is an open-air set with a social crowd, built for arriving with friends and meeting fellow travellers over a few hours on the dance floor.</p>\n<h3>Who Is Playing</h3>\n<p>The lineup is Karla Mercedes, Lisandro Monaco and Sulamah, plus support. They play across the evening on the open rooftop, keeping the energy up from the end of the beach day through the late hours. This is a DJ night, not a concert: the focus is the dance floor and the crowd rather than a single headline set. If you came for the music at Tu Brunch, these are the people carrying it into the night.</p>\n<h3>Beer Pong, Jenga and the Dance Floor</h3>\n<p>The rooftop runs DJs alongside friendly challenges. There is beer pong, Jenga and other drinking games going on between sets, so the night is as much about taking part as watching. Mayan Monkey brings its usual social crowd, mixing travellers and locals in one open-air space. Come with your group or come alone and join in. It is the kind of room where you end up playing games with people you just met.</p>\n<h3>Free With a Tu Brunch Ticket</h3>\n<p>If you already have a Tu Brunch ticket, your afterparty entry is free. Keep your Tu Brunch bracelet and you walk straight in, and Tu Brunch guests also get a welcome drink on the rooftop. Joining just for the afterparty is fine too, and everyone is welcome. Advance tickets are 199 MXN and entry at the door is 250 MXN, so booking ahead saves you money. If you know you are coming, lock it in early.</p>\n<h3>Vans From Tulumania</h3>\n<p>Getting from the beach to the rooftop is handled. Vans run from Tulumania to Mayan Monkey at the end of the Tu Brunch show, so you can continue the evening with the crew without sorting out your own transport. Step off the dance floor at Tulumania, climb into a van and keep going on the rooftop. It is one continuous night rather than two separate events.</p>\n<h3>Plan Your Night</h3>\n<p>The afterparty is at Mayan Monkey Tulum, on the hostel's open-air rooftop, with the DJs starting at 20:00 and running late. Hold onto your Tu Brunch bracelet for free entry, or book the afterparty on its own in advance to pay less than the door price. Bring your friends and expect a social, game-filled night with travellers and locals. Secure your spot through the buy button on this page.</p>",
+          "body": "<h2>From the Beach to the Rooftop</h2><p>Tu Brunch keeps the night going after a day at Tulumania. When the beach party winds down, the crew heads to the rooftop of Mayan Monkey Tulum for more music and dancing. Karla Mercedes, Lisandro Monaco and Sulamah take the decks, with support filling out the night. Doors open at 20:00 and the music runs late. It is an open-air set with a social crowd, built for arriving with friends and meeting fellow travellers over a few hours on the dance floor.</p><h3>Beer Pong, Jenga and the Dance Floor</h3><p>The rooftop runs DJs alongside friendly challenges. There is beer pong, Jenga and other drinking games going on between sets, so the night is as much about taking part as watching. Mayan Monkey brings its usual social crowd, mixing travellers and locals in one open-air space. Come with your group or come alone and join in. It is the kind of room where you end up playing games with people you just met.</p><h3>Free With a Tu Brunch Ticket</h3><p>If you already have a Tu Brunch ticket, your afterparty entry is free. Keep your Tu Brunch bracelet and you walk straight in, and Tu Brunch guests also get a welcome drink on the rooftop. Joining just for the afterparty is fine too, and everyone is welcome. Advance tickets are 199 MXN and entry at the door is 250 MXN, so booking ahead saves you money. If you know you are coming, lock it in early.</p><h3>Vans From Tulumania</h3><p>Getting from the beach to the rooftop is handled. Vans run from Tulumania to Mayan Monkey at the end of the Tu Brunch show, so you can continue the evening with the crew without sorting out your own transport. Step off the dance floor at Tulumania, climb into a van and keep going on the rooftop. It is one continuous night rather than two separate events.</p><h3>Plan Your Night</h3><p>The afterparty is at Mayan Monkey Tulum, on the hostel's open-air rooftop, with the DJs starting at 20:00 and running late. Hold onto your Tu Brunch bracelet for free entry, or book the afterparty on its own in advance to pay less than the door price. Bring your friends and expect a social, game-filled night with travellers and locals. Secure your spot through the buy button on this page.</p>",
           "description": "Karla Mercedes, Lisandro Monaco and Sulamah play the Tu Brunch afterparty on Mayan Monkey's open-air rooftop, with beer pong, Jenga and drinking games.",
           "hubBlurb": "<p><strong>Tu Brunch brings its afterparty to Mayan Monkey's rooftop on November 29.</strong> The Tu Brunch crew carries the night from Tulumania up to Mayan Monkey's open-air rooftop, with Karla Mercedes, Lisandro Monaco and Sulamah on the decks. Expect beer pong, Jenga and a social crowd of travellers and locals. Tu Brunch ticket holders get in free with a welcome drink; vans run from the beach party.</p><p><strong>Date:</strong> Sunday, November 29, 2026, from 8:00 PM<br><strong>Lineup:</strong> KARLA MERCEDES, LISANDRO MONACO, SULAMAH<br><strong>Tickets:</strong> From MXN $190 · On the door MXN $290<br><strong>Book:</strong> Through Tulum Bible</p>",
-          "name": "Tu After",
+          "name": "Tu After at Mayan Monkey",
           "slug": "tu-after-at-mayan-monkey-29nov2026",
           "tableInformation": ""
         },
         "es": {
-          "body": "<h2>De la playa al Rooftop</h2>\n<p>Tu Brunch prolonga la noche tras un día en Tulumania. Cuando la fiesta en la playa llega a su fin, el grupo se dirige al rooftop del Mayan Monkey Tulum para seguir disfrutando de la música y el baile. Karla Mercedes, Lisandro Monaco y Sulamah se ponen a los platos, con artistas invitados que completan la noche. Las puertas se abren a las 20:00 y la música se prolonga hasta tarde. Se trata de una sesión al aire libre con un público muy sociable, ideal para acudir con amigos y conocer a otros viajeros durante unas horas en la pista de baile.</p>\n<h3>Quiénes pinchan</h3>\n<p>El cartel lo forman Karla Mercedes, Lisandro Monaco y Sulamah, además de artistas de apoyo. Pincharán a lo largo de la noche en el rooftop al aire libre, manteniendo la energía desde el final de la jornada en la playa hasta bien entrada la madrugada. Se trata de una noche de DJ, no de un concierto: la atención se centra en la pista de baile y en el público, más que en una única actuación estelar. Si has venido por la música a Tu Brunch, estos son los que la llevarán hasta bien entrada la noche.</p>\n<h3>Beer Pong, Jenga y la pista de baile</h3>\n<p>El rooftop combina sesiones de DJ con retos amistosos. Entre actuación y actuación hay partidas de beer pong, Jenga y otros juegos de copas, así que la noche se trata tanto de participar como de ver. Mayan Monkey atrae a su habitual público sociable, mezclando viajeros y gente del lugar en un espacio al aire libre. Ven con tu grupo o ven solo y únete a la fiesta. Es el tipo de local en el que acabas jugando con gente que acabas de conocer.</p>\n<h3>Gratis con la entrada para el Tu Brunch</h3>\n<p>Si ya tienes una entrada para el Tu Brunch, la entrada a la afterparty es gratuita. Conserva tu pulsera del Tu Brunch y podrás entrar directamente; además, los asistentes al Tu Brunch recibirán una bebida de bienvenida en el rooftop. También puedes venir solo a la afterparty; todo el mundo es bienvenido. Las entradas anticipadas cuestan 199 MXN y la entrada en taquilla, 250 MXN, así que reservar con antelación te ahorra dinero. Si sabes que vas a venir, haz tu reserva cuanto antes.</p>\n<h3>Furgonetas desde Tulumania</h3>\n<p>El traslado desde la playa hasta el rooftop está organizado. Hay furgonetas que salen de Tulumania hacia Mayan Monkey al terminar el espectáculo de Tu Brunch, para que puedas seguir la noche con el grupo sin tener que buscar transporte por tu cuenta. Sal de la pista de baile de Tulumania, súbete a una furgoneta y sigue la fiesta en rooftop. Es una noche continua, en lugar de dos eventos separados.</p>\n<h3>Planifica tu noche</h3>\n<p>La fiesta posterior es en Mayan Monkey Tulum, en la terraza al aire libre del albergue rooftop, donde los DJ empiezan a las 20:00 y se alargan hasta tarde. Conserva tu pulsera de Tu Brunch para entrar gratis, o reserva la fiesta posterior por separado con antelación para pagar menos que el precio en taquilla. Trae a tus amigos y disfruta de una noche sociable y llena de juegos con viajeros y gente local. Asegúrate tu plaza a través del botón de compra de esta página.</p>",
-          "description": "Karla Mercedes, Lisandro Monaco y Sulamah actuarán en la fiesta posterior al Tu Brunch en la terraza al aire libre de Mayan Monkey, rooftop, donde habrá beer pong, Jenga y juegos de beber.",
-          "hubBlurb": "<p><strong>Tu Brunch lleva su afterparty a la fiesta rooftop de Mayan Monkey el 29 de noviembre.</strong> El equipo de Tu Brunch se encarga de animar la noche desde Tulumania hasta la fiesta al aire libre rooftop de Mayan Monkey, con Karla Mercedes, Lisandro Monaco y Sulamah a los platos. Te esperan partidas de beer pong y Jenga, además de un ambiente animado con viajeros y gente del lugar. Los que tengan entrada para el Tu Brunch entran gratis y reciben una copa de bienvenida; habrá furgonetas que saldrán desde la fiesta en la playa.</p><p><strong>Fecha:</strong> domingo, 29 de noviembre de 2026, a partir de las 20:00 h<br><strong>Cartel:</strong> KARLA MERCEDES, LISANDRO MONACO, SULAMAH<br><strong>Entradas:</strong> desde 190 MXN · En taquilla: 290 MXN<br><strong>Reservas:</strong> A través de Tulum Bible</p>",
-          "name": "Tu After",
+          "body": "<h2>De la playa al Rooftop</h2><p>Tu Brunch prolonga la noche tras un día en Tulumania. Cuando la fiesta en la playa llega a su fin, el grupo se dirige al rooftop del Mayan Monkey Tulum para seguir disfrutando de la música y el baile. Karla Mercedes, Lisandro Monaco y Sulamah se ponen a los platos, con artistas invitados que completan la noche. Las puertas se abren a las 20:00 y la música se prolonga hasta tarde. Se trata de una sesión al aire libre con un público muy sociable, ideal para venir con amigos y conocer a otros viajeros mientras se disfruta de unas horas en la pista de baile.</p><h3>Beer Pong, Jenga y la pista de baile</h3><p>El rooftop combina sesiones de DJ con retos divertidos. Entre set y set se organizan partidas de beer pong, Jenga y otros juegos de copas, así que la noche se trata tanto de participar como de ver. Mayan Monkey atrae a su habitual público sociable, mezclando viajeros y gente local en un espacio al aire libre. Ven con tu grupo o ven solo y únete a la fiesta. Es el tipo de local en el que acabas jugando con gente que acabas de conocer.</p><h3>Gratis con la entrada para el Tu Brunch</h3><p>Si ya tienes una entrada para el Tu Brunch, la entrada a la afterparty es gratuita. Conserva tu pulsera del Tu Brunch y podrás entrar directamente; además, los asistentes al Tu Brunch recibirán una copa de bienvenida en el rooftop. También puedes venir solo a la afterparty; todo el mundo es bienvenido. Las entradas anticipadas cuestan 199 MXN y la entrada en taquilla, 250 MXN, así que reservar con antelación te ahorra dinero. Si sabes que vas a venir, haz tu reserva cuanto antes.</p><h3>Furgonetas desde Tulumania</h3><p>El traslado desde la playa hasta el rooftop está organizado. Hay furgonetas que salen de Tulumania hacia Mayan Monkey al terminar el espectáculo de Tu Brunch, para que puedas seguir la noche con el grupo sin tener que buscar transporte por tu cuenta. Sal de la pista de baile de Tulumania, súbete a una furgoneta y sigue la fiesta en rooftop. Es una noche continua, en lugar de dos eventos separados.</p><h3>Planifica tu noche</h3><p>La fiesta posterior es en Mayan Monkey Tulum, en la terraza al aire libre del albergue rooftop, donde los DJ empiezan a las 20:00 y se alargan hasta tarde. Conserva tu pulsera de Tu Brunch para entrar gratis, o reserva la fiesta posterior por separado con antelación para pagar menos que el precio en taquilla. Trae a tus amigos y disfruta de una noche sociable y llena de juegos con viajeros y gente del lugar. Asegúrate tu plaza a través del botón de compra de esta página.</p>",
+          "description": "Karla Mercedes, Lisandro Monaco y Sulamah actuarán en la fiesta posterior al Tu Brunch en la terraza al aire libre rooftop de Mayan Monkey, donde habrá beer pong, Jenga y juegos de beber.",
+          "hubBlurb": "<p><strong>Tu Brunch lleva su afterparty a rooftop de Mayan Monkey el 29 de noviembre.</strong> El equipo de Tu Brunch se encarga de animar la noche desde Tulumania hasta el espacio al aire libre rooftop de Mayan Monkey, con Karla Mercedes, Lisandro Monaco y Sulamah a los platos. Te esperan partidas de beer pong y Jenga, además de un ambiente animado con viajeros y gente del lugar. Los que tengan entrada para el Tu Brunch entran gratis y reciben una copa de bienvenida; habrá furgonetas que saldrán desde la fiesta en la playa.</p><p><strong>Fecha:</strong> domingo, 29 de noviembre de 2026, a partir de las 20:00 h<br><strong>Cartel:</strong> KARLA MERCEDES, LISANDRO MONACO, SULAMAH<br><strong>Entradas:</strong> desde 190 MXN · En taquilla: 290 MXN<br><strong>Reservas:</strong> A través de Tulum Bible</p>",
+          "name": "Tu After at Mayan Monkey",
           "slug": "tu-after-at-mayan-monkey-29nov2026",
           "tableInformation": ""
         }
