@@ -1,7 +1,81 @@
 {
-  "syncedAt": "2026-11-28T00:11:30.793Z",
+  "syncedAt": "2026-11-28T00:13:41.350Z",
   "citySlug": "tulum",
   "events": [
+    {
+      "base": {
+        "afterEnd": "archive",
+        "buyLink": "https://xceed.me/en/tulum/event/cocoon-x-kookay-tulum/253248/channel/tulum-bible",
+        "categoryIds": [],
+        "cta": "Tickets",
+        "displayPrice": "MXN $650",
+        "endDate": "2027-01-04T23:59",
+        "eventType": "BeachClub",
+        "faqIds": [],
+        "flyerImage": {
+          "alt": "Cocoon Tulum flyer: 04.01.2027, 15:00 to end, Magda, Dana Ruh, Mayell, Vite b2b Miganova, Jovel, at Kōokay.",
+          "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/85c43a8f-d98a-4cf2-e884-c8fe9c540a00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+        },
+        "gaLink": null,
+        "gaPrice": null,
+        "hubImage": null,
+        "isFeatured": false,
+        "isPublished": true,
+        "lineup": [
+          "MAGDA",
+          "DANA RUH",
+          "MAYELL",
+          "VITE B2B MIGANOVA",
+          "JOVEL"
+        ],
+        "noPrice": false,
+        "promotion": "normal",
+        "publishedAt": null,
+        "qrCode": "M0 0.5h7m1 0h3m2 0h4m1 0h1m6 0h4m1 0h1m1 0h2m2 0h1m1 0h7M0 1.5h1m5 0h1m3 0h1m1 0h1m4 0h1m2 0h2m1 0h3m2 0h1m3 0h2m1 0h1m2 0h1m5 0h1M0 2.5h1m1 0h3m1 0h1m2 0h4m3 0h1m4 0h1m2 0h2m1 0h2m1 0h1m4 0h1m2 0h1m1 0h3m1 0h1M0 3.5h1m1 0h3m1 0h1m2 0h2m2 0h1m1 0h1m2 0h2m2 0h6m1 0h2m4 0h2m1 0h1m1 0h3m1 0h1M0 4.5h1m1 0h3m1 0h1m2 0h1m3 0h4m1 0h1m1 0h5m4 0h1m1 0h2m1 0h3m1 0h1m1 0h3m1 0h1M0 5.5h1m5 0h1m2 0h1m1 0h1m1 0h2m1 0h3m1 0h1m3 0h1m2 0h1m1 0h1m1 0h1m1 0h1m4 0h1m5 0h1M0 6.5h7m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h7M8 7.5h3m1 0h2m3 0h2m1 0h1m3 0h1m2 0h3m1 0h1m1 0h3M0 8.5h2m1 0h2m1 0h1m7 0h1m1 0h2m1 0h6m3 0h1m4 0h1m4 0h1m5 0h1M1 9.5h5m2 0h1m1 0h1m1 0h1m1 0h1m2 0h3m1 0h2m1 0h7m3 0h8m1 0h1M1 10.5h1m1 0h1m1 0h2m3 0h1m3 0h1m2 0h3m3 0h1m4 0h1m2 0h4m1 0h1m5 0h3M1 11.5h1m2 0h2m3 0h1m1 0h3m2 0h1m1 0h5m1 0h2m1 0h1m2 0h2m1 0h1m2 0h1m1 0h1m1 0h1M0 12.5h4m1 0h3m1 0h1m1 0h1m6 0h4m4 0h1m1 0h1m1 0h2m2 0h3m1 0h1m3 0h1m1 0h1M1 13.5h2m1 0h2m1 0h2m2 0h1m2 0h1m1 0h4m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m2 0h1m1 0h1m2 0h1m1 0h1m2 0h1M1 14.5h1m3 0h2m1 0h1m4 0h1m2 0h3m1 0h1m1 0h3m2 0h4m3 0h4m2 0h1m1 0h1m1 0h1M0 15.5h1m1 0h3m2 0h1m3 0h1m1 0h7m3 0h2m4 0h3m1 0h1m1 0h1m1 0h2m2 0h2m1 0h1M0 16.5h3m3 0h1m1 0h1m1 0h1m3 0h1m1 0h2m2 0h1m1 0h1m2 0h1m1 0h1m1 0h4m1 0h2m1 0h2m4 0h2M1 17.5h2m1 0h2m2 0h1m1 0h2m1 0h1m6 0h2m3 0h1m3 0h3m1 0h2m1 0h2m1 0h1m2 0h3M0 18.5h1m1 0h3m1 0h3m5 0h1m1 0h2m3 0h2m1 0h2m3 0h1m2 0h1m4 0h1m1 0h2m1 0h1m1 0h1M0 19.5h1m1 0h3m4 0h1m1 0h2m1 0h1m1 0h1m1 0h2m1 0h1m1 0h2m2 0h1m1 0h2m4 0h1m3 0h1m1 0h1m1 0h2M0 20.5h1m3 0h6m2 0h3m1 0h1m3 0h5m4 0h4m1 0h9M4 21.5h1m3 0h6m3 0h1m2 0h1m3 0h1m2 0h2m2 0h2m2 0h2m3 0h1m1 0h3M1 22.5h1m1 0h2m1 0h1m1 0h3m1 0h2m3 0h4m1 0h1m1 0h5m2 0h1m4 0h1m1 0h1m1 0h1M2 23.5h3m3 0h4m2 0h1m3 0h3m3 0h3m5 0h5m3 0h4M0 24.5h3m1 0h5m3 0h1m2 0h2m3 0h5m3 0h1m3 0h3m1 0h5m2 0h2M1 25.5h1m2 0h1m7 0h3m1 0h9m1 0h5m2 0h1m2 0h1m1 0h3m1 0h1M0 26.5h4m2 0h1m2 0h1m1 0h3m2 0h2m1 0h1m2 0h1m2 0h2m5 0h1m2 0h4m1 0h3M0 27.5h3m6 0h1m2 0h7m1 0h3m1 0h4m1 0h3m1 0h7m4 0h1M2 28.5h1m2 0h2m3 0h2m1 0h1m2 0h2m4 0h1m1 0h1m1 0h8m1 0h1m1 0h4M0 29.5h1m1 0h1m1 0h1m2 0h1m1 0h1m1 0h1m1 0h1m3 0h2m3 0h2m2 0h3m2 0h1m3 0h1m3 0h3m1 0h2M1 30.5h6m2 0h1m2 0h3m1 0h1m1 0h1m3 0h1m3 0h1m1 0h1m3 0h1m1 0h8m1 0h1M0 31.5h1m1 0h1m2 0h1m3 0h2m3 0h1m1 0h4m1 0h1m6 0h1m1 0h2m1 0h1m3 0h1m2 0h1m1 0h1m1 0h1M3 32.5h2m1 0h2m2 0h1m1 0h2m1 0h1m3 0h2m1 0h3m1 0h1m1 0h2m1 0h1m2 0h2m7 0h2M0 33.5h1m1 0h3m3 0h1m2 0h1m1 0h2m2 0h1m2 0h1m3 0h4m1 0h6m3 0h1m2 0h2M4 34.5h1m1 0h2m1 0h1m1 0h1m1 0h2m6 0h1m6 0h2m1 0h1m1 0h5m4 0h3M1 35.5h4m3 0h2m3 0h1m4 0h5m1 0h1m1 0h3m1 0h3m4 0h3m2 0h1m1 0h1M0 36.5h1m2 0h2m1 0h3m1 0h4m3 0h1m2 0h5m1 0h2m2 0h2m2 0h7m3 0h1M8 37.5h1m7 0h1m2 0h2m3 0h1m2 0h1m4 0h5m3 0h2m1 0h2M0 38.5h7m3 0h3m1 0h1m1 0h3m1 0h1m1 0h1m1 0h1m2 0h1m1 0h3m2 0h1m1 0h1m1 0h1m1 0h2m1 0h2M0 39.5h1m5 0h1m2 0h1m1 0h2m2 0h4m1 0h1m3 0h1m4 0h1m3 0h1m1 0h2m3 0h1m1 0h3M0 40.5h1m1 0h3m1 0h1m1 0h3m1 0h2m1 0h1m2 0h8m5 0h3m2 0h6m1 0h2M0 41.5h1m1 0h3m1 0h1m1 0h1m1 0h3m6 0h1m4 0h2m1 0h1m2 0h2m1 0h7m3 0h2M0 42.5h1m1 0h3m1 0h1m2 0h1m2 0h1m1 0h1m1 0h3m1 0h6m1 0h3m2 0h1m4 0h1m2 0h1m1 0h3M0 43.5h1m5 0h1m1 0h1m1 0h1m1 0h8m1 0h4m1 0h2m1 0h2m1 0h2m1 0h2m1 0h4m1 0h2M0 44.5h7m1 0h1m2 0h1m1 0h4m2 0h1m2 0h2m5 0h2m1 0h1m1 0h5m3 0h1<!--vb:45-->",
+        "startDate": "2027-01-04",
+        "status": "Live",
+        "tableLayoutImage": null,
+        "tbeId": "TBE_AD2933",
+        "ticketPrice": null,
+        "ticketTiers": [
+          {
+            "currency": "MXN",
+            "id": "manual-kookay-cocoon-0",
+            "isTable": false,
+            "name": "Early Bird",
+            "price": 650,
+            "sortOrder": 0,
+            "status": "on_sale"
+          }
+        ],
+        "time": "15:00 - Late",
+        "url": "https://xceed.me/en/tulum/event/cocoon-x-kookay-tulum/253248/channel/tulum-bible",
+        "venueName": "Kōokay Tulum",
+        "venueSlug": "kookay-tulum",
+        "vipLink": null,
+        "vipPrice": null
+      },
+      "convexId": "j5743ntvzymaqzepfjg98d5rk58k0beg",
+      "lastUpdated": "2026-11-28T00:13:24.143Z",
+      "locales": {
+        "en": {
+          "body": "<h2>Cocoon Opens 2027 in Tulum</h2>\n<p>Cocoon starts its 2027 run in Mexico, and the first night lands at Kōokay Tulum on the Tulum–Boca Paila road. The crew calls this chapter &quot;Beautiful Creatures of Tomorrow,&quot; and it opens here, on the coast between the jungle and the sea. Magda, Dana Ruh, Mayell, VITE b2b Miganova and Jovel carry the music from the afternoon deep into the night. Doors open early for a beach club night, with the floor running from 3:00 PM until late. Tickets start at MXN $650 for the early bird tier, and you buy them with the Tickets button on this page.</p>\n<h3>The Lineup, Afternoon to Late</h3>\n<p>Five acts share the day. Magda leads the bill, with Dana Ruh, Mayell and Jovel alongside her, plus a back-to-back set from VITE and Miganova trading records across the decks. The set starts at 3:00 PM, so the first hours play out in daylight over the sand before the room settles into the night. There is no cut-off printed beyond &quot;until late,&quot; which gives the crew room to run long. It is a single flowing session rather than a stop-start schedule, built to move from afternoon warmth into the dark.</p>\n<h3>A Beach Club Between Jungle and Sea</h3>\n<p>Kōokay Tulum is a new beach club at km 7.5 on the Tulum–Boca Paila road, in the Hotel Zone. It sits with the jungle behind it and the sea in front, and it has been hosting electronic music nights through the 2026–27 season. The room is built around the sand and the water rather than a packed dance floor. Capacity is kept limited here, with the room put before the crowd, so the space does not feel crammed even at its fullest. Come in the afternoon and you catch the setting in daylight before it turns into a night room.</p>\n<h3>Tickets and Tables</h3>\n<p>Early bird tickets start at MXN $650, and because the room is capped, it pays to buy ahead rather than count on the door. The early tier is the lowest price on offer, so the earlier you commit the better the rate. For tables and bottle service, message Tulum Bible and a table will be arranged. All of it runs through the Tickets button on this page.</p>\n<h3>Plan Your Afternoon and Night</h3>\n<p>The night is Monday, January 4, 2027, at Kōokay Tulum, Carretera Tulum–Boca Paila Km 7.5, in the Hotel Zone. Music runs from 3:00 PM until late, so you can treat it as a full day-into-night session rather than a short set. Come early to catch the daylight hours by the sea, settle in, and let the lineup carry you through. Secure your ticket in advance using the Tickets button, and reach out if you want a table.</p>",
+          "description": "Cocoon opens its 2027 season with Magda, Dana Ruh, Mayell, VITE b2b Miganova and Jovel, running from mid-afternoon into the night at a beach club between jungle and sea.",
+          "hubBlurb": "<p><strong>Cocoon brings its Beautiful Creatures season opener to Kōokay Tulum on January 4.</strong> Cocoon starts its 2027 run at a beach club between jungle and sea, with Magda, Dana Ruh, Mayell, VITE b2b Miganova and Jovel playing from mid-afternoon into the night. Capacity is kept limited, so buying ahead matters.</p><p><strong>Date:</strong> Monday, January 4, 2027, from 3:00 PM<br><strong>Lineup:</strong> MAGDA, DANA RUH, MAYELL, VITE B2B MIGANOVA, JOVEL<br><strong>Tickets:</strong> Early Bird MXN $650<br><strong>Book:</strong> Through Tulum Bible</p>",
+          "name": "Cocoon x Kōokay Tulum",
+          "slug": "cocoon-kookay-tulum-2027",
+          "tableInformation": ""
+        },
+        "es": {
+          "body": "<h2>Cocoon arranca su temporada 2027 en Tulum</h2>\n<p>Cocoon inicia su gira de 2027 en México, y la primera noche tiene lugar en Kōokay Tulum, en la carretera de Tulum a Boca Paila. El equipo ha bautizado esta etapa como Beautiful Creatures of Tomorrow (Las hermosas criaturas del mañana), y se inaugura aquí, en la costa, entre la selva y el mar. Magda, Dana Ruh, Mayell, VITE b2b Miganova y Jovel llevarán la música desde la tarde hasta bien entrada la noche. Las puertas se abren temprano para una noche beach club, con la pista abierta desde las 15:00 hasta bien entrada la madrugada. Las entradas cuestan a partir de 650 MXN en la tarifa de venta anticipada, y se pueden comprar pulsando el botón Entradas de esta página.</p>\n<h3>El cartel, desde la tarde hasta bien entrada la noche</h3>\n<p>Cinco artistas se reparten la jornada. Magda encabeza el cartel, acompañada de Dana Ruh, Mayell y Jovel, además de una sesión back-to-back de VITE y Miganova, que se turnarán los discos en los platos. La sesión comienza a las 15:00 h, por lo que las primeras horas transcurren a la luz del día sobre la arena antes de que el recinto se sumerja en la noche. No hay una hora límite especificada más allá de hasta tarde, lo que da margen al equipo para alargar la sesión. Se trata de una única sesión fluida, en lugar de un programa con paradas y arranques, diseñada para pasar del calor de la tarde a la oscuridad.</p>\n<h3>Un Beach Club entre la selva y el mar</h3>\n<p>Kōokay Tulum es un nuevo beach club situado en el km 7,5 de la carretera Tulum–Boca Paila, en la Zona Hotelera. Se encuentra con la selva a sus espaldas y el mar frente a él, y ha acogido noches de música electrónica durante la temporada 2026–27. El local está diseñado en torno a la arena y el agua, en lugar de a una pista de baile abarrotada. Aquí se mantiene un aforo limitado, dando prioridad al espacio frente a la multitud, por lo que el local no da sensación de estar abarrotado ni siquiera cuando está a rebosar. Acércate por la tarde y podrás disfrutar del ambiente a la luz del día antes de que se transforme en un local nocturno.</p>\n<h3>Entradas y mesas</h3>\n<p>Las entradas anticipadas empiezan en 650 MXN y, dado que el aforo está limitado, conviene comprarlas con antelación en lugar de esperar a la taquilla. La tarifa de venta anticipada es la más baja disponible, así que cuanto antes reserves, mejor te saldrá el precio. Para mesas y servicio de botellas, envía un mensaje a Tulum Bible y te reservarán una mesa. Todo se gestiona a través del botón Entradas de esta página.</p>\n<h3>Planifica tu tarde y tu noche</h3>\n<p>La fiesta tendrá lugar el lunes 4 de enero de 2027 en Kōokay Tulum, Carretera Tulum–Boca Paila, km 7,5, en la Zona Hotelera. La música sonará desde las 15:00 hasta bien entrada la noche, así que puedes considerarlo una sesión que abarca todo el día y la noche, en lugar de una actuación breve. Ven temprano para disfrutar de las horas de luz junto al mar, ponte cómodo y déjate llevar por el cartel. Consigue tu entrada con antelación a través del botón Entradas y ponte en contacto con nosotros si quieres una mesa.</p>",
+          "description": "Cocoon inaugura su temporada 2027 con Magda, Dana Ruh, Mayell, VITE b2b Miganova y Jovel, en una sesión que se prolongará desde media tarde hasta bien entrada la noche en un beach club, a medio camino entre la selva y el mar.",
+          "hubBlurb": "<p><strong>Cocoon presenta la fiesta inaugural de su temporada Beautiful Creatures en Kōokay Tulum el 4 de enero.</strong> Cocoon inicia su temporada 2027 en un beach club situado entre la selva y el mar, con actuaciones de Magda, Dana Ruh, Mayell, VITE b2b Miganova y Jovel desde media tarde hasta bien entrada la noche. El aforo es limitado, por lo que es importante comprar las entradas con antelación.</p><p><strong>Fecha:</strong> lunes, 4 de enero de 2027, a partir de las 15:00<br><strong>Cartel:</strong> MAGDA, DANA RUH, MAYELL, VITE B2B MIGANOVA, JOVEL<br><strong>Entradas:</strong> Venta anticipada: 650 MXN<br><strong>Reservas:</strong> a través de Tulum Bible</p>",
+          "name": "Cocoon x Kōokay Tulum",
+          "slug": "cocoon-kookay-tulum-2027",
+          "tableInformation": ""
+        }
+      }
+    },
     {
       "base": {
         "afterEnd": "archive",
