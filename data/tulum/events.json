@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-28T00:23:46.143Z",
+  "syncedAt": "2026-11-28T00:26:09.940Z",
   "citySlug": "tulum",
   "events": [
     {
@@ -72,6 +72,79 @@
           "hubBlurb": "<p><strong>Cocoon presenta la fiesta inaugural de su temporada Beautiful Creatures en Kōokay Tulum el 4 de enero.</strong> Cocoon inicia su temporada 2027 en un beach club situado entre la selva y el mar, con actuaciones de Magda, Dana Ruh, Mayell, VITE b2b Miganova y Jovel desde media tarde hasta bien entrada la noche. El aforo es limitado, por lo que es importante comprar las entradas con antelación.</p><p><strong>Fecha:</strong> lunes, 4 de enero de 2027, a partir de las 15:00<br><strong>Cartel:</strong> MAGDA, DANA RUH, MAYELL, VITE B2B MIGANOVA, JOVEL<br><strong>Entradas:</strong> Venta anticipada: 650 MXN<br><strong>Reservas:</strong> a través de Tulum Bible</p>",
           "name": "Cocoon x Kōokay Tulum",
           "slug": "cocoon-kookay-tulum-2027",
+          "tableInformation": ""
+        }
+      }
+    },
+    {
+      "base": {
+        "afterEnd": "archive",
+        "buyLink": "https://xceed.me/en/tulum/event/dixon-kookay-the-first-light-nye-2027-1/254415/channel/tulum-bible",
+        "categoryIds": [],
+        "cta": "Tickets",
+        "displayPrice": "MXN $850",
+        "endDate": "2026-12-31T23:59",
+        "eventType": "NYE",
+        "faqIds": [],
+        "flyerImage": {
+          "alt": "Dixon, New Year's Eve 2026–2027, The First Light, with Mëhill, Vite and Vongold, at Kōokay Tulum.",
+          "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/1c6075c7-5e4d-4186-848e-f4a6a20b7c00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+        },
+        "gaLink": null,
+        "gaPrice": null,
+        "hubImage": null,
+        "isFeatured": false,
+        "isPublished": true,
+        "lineup": [
+          "DIXON",
+          "MEHDI",
+          "VITE",
+          "VONGOLD"
+        ],
+        "noPrice": false,
+        "promotion": "normal",
+        "publishedAt": null,
+        "qrCode": "M0 0.5h7m1 0h5m3 0h1m1 0h2m4 0h2m2 0h2m2 0h1m2 0h1m4 0h1m1 0h7M0 1.5h1m5 0h1m2 0h2m1 0h1m1 0h1m1 0h2m1 0h1m1 0h3m1 0h3m3 0h2m1 0h1m3 0h3m1 0h1m5 0h1M0 2.5h1m1 0h3m1 0h1m1 0h2m1 0h1m3 0h3m1 0h4m2 0h2m2 0h6m1 0h2m1 0h2m1 0h1m1 0h3m1 0h1M0 3.5h1m1 0h3m1 0h1m1 0h1m1 0h2m3 0h1m2 0h1m2 0h3m1 0h1m3 0h2m2 0h1m1 0h3m1 0h1m2 0h1m1 0h3m1 0h1M0 4.5h1m1 0h3m1 0h1m1 0h1m1 0h2m1 0h4m2 0h1m2 0h5m4 0h3m2 0h2m4 0h1m1 0h3m1 0h1M0 5.5h1m5 0h1m2 0h1m7 0h1m1 0h4m3 0h2m1 0h4m2 0h2m1 0h1m3 0h1m5 0h1M0 6.5h7m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h7M9 7.5h1m2 0h2m1 0h2m2 0h1m2 0h1m3 0h1m5 0h2m3 0h3M0 8.5h4m2 0h1m1 0h5m2 0h3m1 0h11m5 0h1m2 0h4m2 0h3m1 0h1M1 9.5h5m3 0h1m3 0h1m3 0h2m1 0h1m1 0h1m2 0h1m2 0h2m1 0h2m4 0h1m4 0h4m1 0h2M0 10.5h1m3 0h1m1 0h1m1 0h2m1 0h3m1 0h2m1 0h1m1 0h3m4 0h1m2 0h4m4 0h3m2 0h2m3 0h1M2 11.5h2m1 0h1m1 0h2m2 0h1m1 0h4m1 0h1m1 0h1m1 0h1m1 0h1m4 0h1m2 0h1m3 0h1m2 0h3m1 0h4m1 0h1M0 12.5h2m1 0h4m6 0h2m2 0h1m1 0h1m2 0h1m1 0h1m1 0h1m3 0h2m4 0h2m2 0h1m1 0h2m2 0h3M2 13.5h4m1 0h2m1 0h1m3 0h1m2 0h1m2 0h1m4 0h1m1 0h1m3 0h3m1 0h1m1 0h3m1 0h1m1 0h3m2 0h1M0 14.5h1m4 0h2m1 0h2m2 0h1m2 0h3m4 0h2m1 0h1m1 0h1m2 0h2m1 0h1m1 0h1m1 0h3m2 0h1m2 0h3M1 15.5h1m1 0h2m2 0h1m1 0h2m1 0h1m1 0h2m5 0h1m3 0h1m3 0h3m3 0h3m2 0h4m2 0h1m1 0h1M1 16.5h1m2 0h1m1 0h1m2 0h2m1 0h2m3 0h1m2 0h1m2 0h1m1 0h1m1 0h6m1 0h1m1 0h1m3 0h1m1 0h2m1 0h2M0 17.5h2m2 0h1m3 0h3m4 0h5m1 0h2m1 0h1m2 0h1m4 0h2m1 0h2m1 0h3m3 0h1m1 0h1M0 18.5h1m1 0h2m2 0h1m9 0h1m1 0h1m3 0h3m1 0h2m1 0h1m1 0h1m1 0h2m1 0h2m1 0h2m5 0h3M1 19.5h1m7 0h1m1 0h5m4 0h1m2 0h4m1 0h3m3 0h1m1 0h2m4 0h1m5 0h1M0 20.5h1m4 0h3m4 0h2m2 0h1m2 0h1m2 0h2m2 0h1m1 0h1m5 0h2m1 0h1m4 0h1m2 0h1m1 0h1M1 21.5h4m2 0h1m4 0h2m2 0h5m1 0h4m1 0h1m1 0h4m4 0h1m1 0h1m1 0h3m3 0h1M0 22.5h1m2 0h6m1 0h1m1 0h1m1 0h1m1 0h1m4 0h7m1 0h2m3 0h1m1 0h2m2 0h7M0 23.5h2m2 0h1m3 0h1m2 0h5m2 0h1m1 0h1m1 0h1m3 0h1m2 0h1m1 0h5m3 0h2m3 0h1m1 0h1M0 24.5h1m1 0h1m1 0h1m1 0h1m1 0h1m4 0h2m1 0h1m2 0h2m1 0h1m1 0h1m1 0h1m1 0h1m2 0h1m2 0h2m1 0h1m2 0h1m1 0h1m1 0h1m1 0h3M0 25.5h1m1 0h3m3 0h10m1 0h4m3 0h1m1 0h2m3 0h1m1 0h3m1 0h2m3 0h1m1 0h1M1 26.5h1m1 0h6m2 0h2m1 0h1m2 0h2m3 0h8m1 0h1m2 0h2m2 0h7m2 0h1M0 27.5h3m1 0h1m2 0h1m2 0h2m2 0h2m5 0h1m3 0h1m2 0h3m1 0h1m1 0h1m2 0h1m1 0h2m2 0h1m1 0h1m1 0h1M0 28.5h1m1 0h1m1 0h3m1 0h2m1 0h3m1 0h1m2 0h3m6 0h1m3 0h4m2 0h2m4 0h2m1 0h1M2 29.5h1m1 0h1m4 0h3m1 0h1m2 0h1m2 0h1m2 0h1m1 0h2m1 0h1m4 0h4m3 0h1m1 0h1m3 0h4M3 30.5h1m2 0h1m2 0h1m1 0h1m1 0h1m3 0h3m1 0h2m2 0h1m1 0h1m3 0h6m1 0h2m1 0h1m2 0h5M0 31.5h1m1 0h2m1 0h1m1 0h1m2 0h3m4 0h2m1 0h1m4 0h1m1 0h2m2 0h3m3 0h4m1 0h6M0 32.5h3m3 0h1m3 0h1m2 0h1m2 0h1m3 0h1m1 0h3m2 0h2m1 0h1m2 0h3m1 0h2m2 0h5m2 0h1M1 33.5h1m1 0h2m6 0h1m2 0h1m1 0h9m1 0h4m2 0h1m1 0h2m1 0h7m2 0h2M1 34.5h6m1 0h3m1 0h1m1 0h1m1 0h2m1 0h2m2 0h3m1 0h1m3 0h4m2 0h2m4 0h1m1 0h2m1 0h1M0 35.5h2m1 0h3m1 0h2m1 0h2m3 0h3m5 0h2m2 0h1m1 0h5m2 0h1m1 0h1m3 0h2m2 0h3M0 36.5h1m1 0h1m3 0h1m2 0h2m1 0h1m2 0h1m2 0h1m2 0h2m2 0h1m3 0h3m1 0h5m1 0h1m1 0h6m1 0h1M1 37.5h1m2 0h1m2 0h1m1 0h2m1 0h5m2 0h1m1 0h3m2 0h1m1 0h1m2 0h1m3 0h2m1 0h5m1 0h2m1 0h2M1 38.5h1m3 0h3m4 0h1m4 0h1m1 0h2m1 0h1m1 0h2m2 0h1m1 0h1m1 0h1m2 0h1m1 0h2m1 0h1m2 0h3m1 0h1M1 39.5h3m3 0h1m2 0h2m2 0h1m1 0h1m2 0h2m1 0h3m1 0h1m2 0h4m2 0h3m2 0h2m1 0h1m4 0h1M0 40.5h3m3 0h3m2 0h1m3 0h1m2 0h1m1 0h7m1 0h1m1 0h7m3 0h6m1 0h1M8 41.5h1m2 0h2m2 0h2m1 0h2m1 0h2m3 0h1m4 0h2m1 0h1m1 0h1m2 0h2m3 0h2m1 0h1M0 42.5h7m6 0h5m3 0h2m1 0h1m1 0h1m3 0h2m1 0h1m1 0h3m2 0h1m1 0h1m1 0h1m1 0h3M0 43.5h1m5 0h1m2 0h2m4 0h1m1 0h3m1 0h2m3 0h3m4 0h2m1 0h2m1 0h2m3 0h2m1 0h2M0 44.5h1m1 0h3m1 0h1m3 0h2m2 0h5m2 0h8m1 0h1m2 0h3m2 0h8m1 0h1M0 45.5h1m1 0h3m1 0h1m1 0h1m3 0h1m2 0h1m2 0h1m2 0h1m3 0h1m3 0h4m2 0h3m2 0h3m1 0h1m3 0h1M0 46.5h1m1 0h3m1 0h1m1 0h2m3 0h3m3 0h2m4 0h2m1 0h3m3 0h1m4 0h2m2 0h4M0 47.5h1m5 0h1m1 0h2m3 0h2m1 0h1m1 0h2m2 0h2m2 0h4m3 0h2m8 0h1m2 0h1M0 48.5h7m1 0h3m4 0h3m2 0h2m1 0h1m1 0h3m5 0h4m1 0h1m5 0h5<!--vb:49-->",
+        "startDate": "2026-12-31",
+        "status": "Live",
+        "tableLayoutImage": null,
+        "tbeId": "TBE_EAV39D",
+        "ticketPrice": null,
+        "ticketTiers": [
+          {
+            "currency": "MXN",
+            "id": "manual-kookay-dixon-0",
+            "isTable": false,
+            "name": "Early Bird",
+            "price": 850,
+            "sortOrder": 0,
+            "status": "on_sale"
+          }
+        ],
+        "time": "20:00 - 03:00",
+        "url": "https://xceed.me/en/tulum/event/dixon-kookay-the-first-light-nye-2027-1/254415/channel/tulum-bible",
+        "venueName": "Kōokay Tulum",
+        "venueSlug": "kookay-tulum",
+        "vipLink": null,
+        "vipPrice": null
+      },
+      "convexId": "j5738vhn39033qm0jnqew8n5d18k0g0q",
+      "lastUpdated": "2026-11-28T00:25:51.856Z",
+      "locales": {
+        "en": {
+          "body": "<h2>Dixon Sees in 2027 at Kōokay</h2>\n<p>Kōokay closes the year with Dixon for &quot;The First Light&quot;, a New Year's Eve built around the midnight countdown and the turn into 2027. The night runs from 8:00 PM to 3:00 AM, so you cross from one year into the next on the floor. The beach club sits at km 7.5 on the Tulum–Boca Paila road, between the jungle and the sea, and the party gathers there to mark the start of a new cycle. Tickets start at MXN $850 on the Early Bird tier, and capacity is limited. Buy with the Tickets button on this page.</p>\n<h3>Who Dixon Is</h3>\n<p>Dixon is the co-founder of the Innervisions label, one of the defining imprints in melodic house and techno. He was voted the world's No. 1 DJ by Resident Advisor four years in a row. His sound is hypnotic and his selection is sharp, and he is known for the way he reads and holds a dance floor across a long set. He has pushed the boundaries of house and techno over a long career, and a New Year's Eve set gives him the hours to build it properly.</p>\n<h3>The Full Lineup</h3>\n<p>Dixon headlines, with Mëhill, VITE and Vongold completing the lineup. VITE is a familiar name at Kōokay, having played the beach club's Cocoon season opener earlier in the cycle. The programme stays in electronic territory across the night — house, techno, melodic techno and organic house — so the floor moves with one mood rather than jumping between them. Seven hours of music gives each name real room, and the night peaks around the midnight countdown.</p>\n<h3>A Beach Club Between Jungle and Sea</h3>\n<p>Kōokay is a new beach club in the Tulum Hotel Zone, at Carretera Tulum–Boca Paila Km 7.5, hosting electronic nights through the 2026–27 season. It sits between the jungle and the sea, and it keeps the room small so the crowd never swallows the night. That is why capacity is limited and why it is worth buying in advance rather than arriving on the door. The same room has already hosted the Cocoon season opener, so it is set up for long electronic nights.</p>\n<h3>Tickets, Tables and Timing</h3>\n<p>Doors are at 8:00 PM and the night runs until 3:00 AM on Thursday, December 31. Early Bird tickets start at MXN $850, and because capacity is capped they are worth securing early. For tables and bottle service, message Tulum Bible. The venue is at km 7.5 on the Tulum–Boca Paila road in the Hotel Zone. Use the Tickets button on this page to book your place for the countdown into 2027.</p>",
+          "description": "Dixon, co-founder of Innervisions and four-time Resident Advisor No. 1 DJ, sees in 2027 at Kōokay with Mëhill, VITE and Vongold on the floor.",
+          "hubBlurb": "<p><strong>Dixon headlines Kōokay Tulum for New Year's Eve on December 31.</strong> Innervisions co-founder and four-time Resident Advisor No. 1 DJ Dixon sees in 2027 at Kōokay with &quot;The First Light&quot;, joined by Mëhill, VITE and Vongold. Seven hours of melodic house and techno across a midnight countdown, in a limited-capacity beach club between the jungle and the sea.</p><p><strong>Date:</strong> Thursday, December 31, 2026, from 8:00 PM<br><strong>Lineup:</strong> DIXON, MEHDI, VITE, VONGOLD<br><strong>Tickets:</strong> Early Bird MXN $850<br><strong>Book:</strong> Through Tulum Bible</p>",
+          "name": "NYE at Kōokay",
+          "slug": "dixon-kookay-nye-2027",
+          "tableInformation": ""
+        },
+        "es": {
+          "body": "<h2>Dixon da la bienvenida al 2027 en Kōokay</h2>\n<p>Kōokay cierra el año con Dixon en The First Light, una fiesta de Nochevieja centrada en la cuenta atrás de medianoche y el paso al 2027. La noche se prolonga desde las 20:00 hasta las 03:00, para que puedas pasar de un año a otro en la pista de baile. El beach club se encuentra en el km 7,5 de la carretera Tulum–Boca Paila, entre la selva y el mar, y allí se reúne la fiesta para celebrar el inicio de un nuevo ciclo. Las entradas cuestan a partir de 850 MXN en la categoría Early Bird, y el aforo es limitado. Compra tu entrada con el botón Entradas de esta página.</p>\n<h3>Quién es Dixon</h3>\n<p>Dixon es cofundador del sello Innervisions, uno de los más influyentes en el house melódico y el techno. Fue elegido el DJ número uno del mundo por Resident Advisor durante cuatro años consecutivos. Su sonido es hipnótico y su selección, impecable, y es conocido por su capacidad para leer el ambiente y mantener la pista de baile animada a lo largo de una sesión prolongada. Ha ampliado los límites del house y el techno a lo largo de su dilatada carrera, y una sesión de Nochevieja le brinda las horas necesarias para construirla como es debido.</p>\n<h3>El cartel completo</h3>\n<p>Dixon encabeza el cartel, y Mëhill, VITE y Vongold completan el cartel. VITE es un nombre conocido en Kōokay, ya que actuó en la inauguración de la temporada Cocoon del beach club a principios de este ciclo. El programa se mantiene en el terreno de la música electrónica durante toda la noche —house, techno, techno melódico y house orgánico—, por lo que la pista se mueve con un único estado de ánimo en lugar de saltar de uno a otro. Siete horas de música dan a cada artista un espacio real, y la noche alcanza su punto álgido en torno a la cuenta atrás de medianoche.</p>\n<h3>Un Beach Club entre la selva y el mar</h3>\n<p>Kōokay es un nuevo beach club situado en la zona hotelera de Tulum, en la Carretera Tulum–Boca Paila, km 7,5, que acogerá noches de música electrónica durante la temporada 2026–27. Se encuentra entre la selva y el mar, y mantiene la sala pequeña para que el público nunca acabe con la noche. Por eso el aforo es limitado y merece la pena comprar las entradas por adelantado en lugar de llegar a la puerta. En esta misma sala ya se celebró la inauguración de la temporada de Cocoon, por lo que está preparada para largas noches de música electrónica.</p>\n<h3>Entradas, mesas y horario</h3>\n<p>Las puertas se abren a las 20:00 h y la noche se prolonga hasta las 03:00 h del jueves 31 de diciembre. Las entradas anticipadas cuestan a partir de 850 MXN y, dado que el aforo es limitado, conviene asegurárselas cuanto antes. Para mesas y servicio de botellas, envía un mensaje a Tulum Bible. El local se encuentra en el km 7,5 de la carretera Tulum–Boca Paila, en la Zona Hotelera. Utiliza el botón Entradas de esta página para reservar tu plaza para la cuenta atrás hacia 2027.</p>",
+          "description": "Dixon, cofundador de Innervisions y cuatro veces DJ número uno según Resident Advisor, dará la bienvenida al 2027 en Kōokay junto a Mëhill, VITE y Vongold en la pista de baile.",
+          "hubBlurb": "<p><strong>Dixon será el cabeza de cartel de Kōokay Tulum para la Nochevieja del 31 de diciembre.</strong> Dixon, cofundador de Innervisions y cuatro veces número uno en la lista de Resident Advisor, dará la bienvenida al 2027 en Kōokay con The First Light, acompañado por Mëhill, VITE y Vongold. Siete horas de house melódico y techno durante la cuenta atrás de medianoche, en un beach club de aforo limitado situado entre la selva y el mar.</p><p><strong>Fecha:</strong> jueves, 31 de diciembre de 2026, a partir de las 20:00 h<br><strong>Cartel:</strong> DIXON, MEHDI, VITE, VONGOLD<br><strong>Entradas:</strong> Venta anticipada: 850 MXN<br><strong>Reservas:</strong> A través de Tulum Bible</p>",
+          "name": "NYE at Kōokay",
+          "slug": "dixon-kookay-nye-2027",
           "tableInformation": ""
         }
       }
