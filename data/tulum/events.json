@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-28T00:13:41.350Z",
+  "syncedAt": "2026-11-28T00:15:29.737Z",
   "citySlug": "tulum",
   "events": [
     {
@@ -72,6 +72,108 @@
           "hubBlurb": "<p><strong>Cocoon presenta la fiesta inaugural de su temporada Beautiful Creatures en Kōokay Tulum el 4 de enero.</strong> Cocoon inicia su temporada 2027 en un beach club situado entre la selva y el mar, con actuaciones de Magda, Dana Ruh, Mayell, VITE b2b Miganova y Jovel desde media tarde hasta bien entrada la noche. El aforo es limitado, por lo que es importante comprar las entradas con antelación.</p><p><strong>Fecha:</strong> lunes, 4 de enero de 2027, a partir de las 15:00<br><strong>Cartel:</strong> MAGDA, DANA RUH, MAYELL, VITE B2B MIGANOVA, JOVEL<br><strong>Entradas:</strong> Venta anticipada: 650 MXN<br><strong>Reservas:</strong> a través de Tulum Bible</p>",
           "name": "Cocoon x Kōokay Tulum",
           "slug": "cocoon-kookay-tulum-2027",
+          "tableInformation": ""
+        }
+      }
+    },
+    {
+      "base": {
+        "afterEnd": "archive",
+        "buyLink": "https://tf.link/gbm9pauq",
+        "categoryIds": [],
+        "cta": "Tickets",
+        "displayPrice": "MXN $1,430",
+        "endDate": "2026-12-24T23:59",
+        "eventType": "BeachClub",
+        "faqIds": [],
+        "flyerImage": {
+          "url": "https://imagedelivery.net/v9pc3p-sJzYyrkkSBFC-Zg/4717015f-0d16-466b-c5d0-61a659ee7d00/format=auto,quality=79,sharpen=1,width=2560,fit=scale-down,metadata=none"
+        },
+        "gaLink": null,
+        "gaPrice": null,
+        "hubImage": null,
+        "isFeatured": false,
+        "isPublished": true,
+        "lineup": null,
+        "noPrice": false,
+        "promotion": "normal",
+        "publishedAt": null,
+        "qrCode": "M0 0.5h7m1 0h3m1 0h1m1 0h5m4 0h1m1 0h1m1 0h2m1 0h7M0 1.5h1m5 0h1m1 0h3m2 0h2m4 0h2m1 0h1m3 0h1m1 0h1m1 0h1m5 0h1M0 2.5h1m1 0h3m1 0h1m1 0h1m1 0h2m2 0h1m1 0h3m1 0h5m2 0h1m2 0h1m1 0h3m1 0h1M0 3.5h1m1 0h3m1 0h1m1 0h2m1 0h1m1 0h6m1 0h1m2 0h1m1 0h3m2 0h1m1 0h3m1 0h1M0 4.5h1m1 0h3m1 0h1m6 0h5m3 0h1m1 0h1m1 0h4m1 0h1m1 0h3m1 0h1M0 5.5h1m5 0h1m1 0h1m2 0h2m1 0h1m1 0h2m1 0h1m6 0h1m1 0h1m1 0h1m5 0h1M0 6.5h7m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h1m1 0h7M9 7.5h1m2 0h1m4 0h2m1 0h2m1 0h2m1 0h1M0 8.5h2m2 0h3m4 0h1m3 0h3m1 0h1m1 0h4m2 0h1m3 0h1m1 0h4M0 9.5h1m1 0h1m2 0h1m4 0h1m1 0h1m1 0h1m1 0h1m1 0h1m3 0h2m1 0h4m3 0h1m1 0h2M0 10.5h1m1 0h2m1 0h3m2 0h3m1 0h2m5 0h1m1 0h2m1 0h2m2 0h1m1 0h2m1 0h1M3 11.5h1m1 0h1m3 0h3m3 0h1m1 0h5m2 0h1m1 0h1m1 0h1m4 0h2m1 0h1M0 12.5h4m2 0h1m2 0h1m2 0h1m2 0h1m1 0h1m1 0h5m2 0h1m1 0h1m1 0h2m2 0h1m1 0h1M3 13.5h1m3 0h2m1 0h1m2 0h4m1 0h1m1 0h2m5 0h3m2 0h4M6 14.5h2m1 0h2m3 0h2m1 0h1m2 0h2m1 0h2m1 0h2m1 0h4M0 15.5h2m2 0h1m3 0h3m1 0h1m1 0h2m1 0h2m1 0h2m1 0h2m1 0h1m4 0h1m1 0h3M0 16.5h1m2 0h4m4 0h1m1 0h2m1 0h2m1 0h3m1 0h2m2 0h5m2 0h1m1 0h1M1 17.5h2m4 0h3m2 0h1m1 0h5m2 0h3m1 0h1m2 0h2m2 0h4M0 18.5h1m2 0h2m1 0h4m1 0h8m1 0h2m1 0h1m3 0h1m1 0h1m1 0h2M1 19.5h1m2 0h1m3 0h1m1 0h2m1 0h1m1 0h1m1 0h5m1 0h2m1 0h2m1 0h1m1 0h2m1 0h2M0 20.5h3m2 0h3m4 0h2m1 0h1m1 0h1m1 0h4m4 0h1m1 0h3m1 0h4M7 21.5h4m2 0h4m6 0h1m1 0h1m1 0h2m2 0h3m1 0h1M1 22.5h1m1 0h7m5 0h1m1 0h1m2 0h2m1 0h3m1 0h3m1 0h4M0 23.5h1m1 0h3m2 0h3m2 0h1m1 0h2m1 0h1m3 0h1m1 0h2m2 0h1m4 0h1m1 0h2M0 24.5h3m2 0h3m1 0h3m1 0h2m1 0h2m1 0h4m2 0h1m2 0h4m2 0h3M0 25.5h3m5 0h1m1 0h1m1 0h1m2 0h2m1 0h1m3 0h2m3 0h3m2 0h2m1 0h1M4 26.5h3m1 0h10m5 0h1m1 0h3m4 0h2M3 27.5h3m1 0h1m3 0h1m1 0h1m1 0h1m1 0h2m2 0h2m1 0h1m1 0h2m3 0h5M0 28.5h3m2 0h4m1 0h1m1 0h2m2 0h2m1 0h1m1 0h2m1 0h1m3 0h5m1 0h1M8 29.5h1m1 0h1m2 0h6m4 0h6m3 0h3M0 30.5h7m2 0h2m4 0h1m1 0h1m2 0h2m1 0h3m2 0h1m1 0h1m1 0h2M0 31.5h1m5 0h1m1 0h2m2 0h1m1 0h2m1 0h5m1 0h2m1 0h1m1 0h1m3 0h1m1 0h3M0 32.5h1m1 0h3m1 0h1m1 0h1m1 0h2m1 0h5m3 0h2m1 0h1m3 0h5m1 0h1M0 33.5h1m1 0h3m1 0h1m2 0h1m2 0h1m2 0h1m2 0h2m1 0h1m1 0h1m2 0h6m1 0h4M0 34.5h1m1 0h3m1 0h1m2 0h1m1 0h6m1 0h1m4 0h1m1 0h2m3 0h2m1 0h2M0 35.5h1m5 0h1m1 0h2m1 0h1m1 0h1m3 0h2m1 0h5m1 0h1m2 0h1m1 0h1m2 0h2M0 36.5h7m1 0h3m1 0h2m1 0h1m1 0h1m1 0h1m1 0h2m1 0h1m4 0h3m2 0h3<!--vb:37-->",
+        "startDate": "2026-12-24",
+        "status": "Live",
+        "tableLayoutImage": null,
+        "tbeId": "TBE_BSMARA",
+        "ticketPrice": null,
+        "ticketTiers": [
+          {
+            "currency": "MXN",
+            "id": "XiKM94CtYhup1WTLP0Fxgv2YMv9bYUY/B6jvsjIOeXcVFAbPYi1iE+L4Ex+Sg4JpdtKcMghhg/DmYm4RR3ewDQ==",
+            "isTable": false,
+            "name": "CHRISTMAS DINNER / From 4:00 Pm",
+            "price": 1300,
+            "priceWithFees": 1430,
+            "sortOrder": 1,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "IVyJRvmC6HhP5+4h7UvoVGdDJP89fcsL7nwiSS5MlQAI1u241XYz4QYUIDfLAO5FdhonhgyAHJQCtShs/1MYGQ==",
+            "isTable": false,
+            "name": "CHRISTMAS DINNER / From 8:00 Pm",
+            "price": 1300,
+            "priceWithFees": 1430,
+            "sortOrder": 2,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "drrBSbENHegYBCEALdfotz5801TXllnGmVhQdSd45dlItTxUO2SGBu0ED67Og/n68dAHihnZBEWb3eTHr5UAOg==",
+            "isTable": false,
+            "name": "CHRISTMAS DINNER + 2 Glasses Of Wine / From 4:00 Pm",
+            "price": 1500,
+            "priceWithFees": 1650,
+            "sortOrder": 3,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          },
+          {
+            "currency": "MXN",
+            "id": "aNTfDckDP3QO4Dg9LKoJKAnSiK3DD4tI1akmXzb+2a5pii8nPL2R65Wt1s1erJQBeGVoKoumhU6GFVMMUnDwxQ==",
+            "isTable": false,
+            "name": "CHRISTMAS DINNER + 2 Glasses Of Wine / From 8:00 Pm",
+            "price": 1500,
+            "priceWithFees": 1650,
+            "sortOrder": 4,
+            "status": "on_sale",
+            "symbol": "Mex$"
+          }
+        ],
+        "time": "15:00 - 23:00",
+        "url": "https://tf.link/gbm9pauq",
+        "venueName": "Gitano Beach",
+        "venueSlug": "gitano-beach",
+        "vipLink": null,
+        "vipPrice": null
+      },
+      "convexId": "j570gmxg50dz4cvms848ytwmb18jzzj3",
+      "lastUpdated": "2026-11-28T00:15:12.724Z",
+      "locales": {
+        "en": {
+          "body": "<h2>Christmas Eve Dinner by the Sea</h2>\n<p>Gitano Beach sets out a sit-down dinner for Christmas Eve on the sand in Tulum's Hotel Zone. The night is built around a special three-course menu served beside the water, with the kitchen's open-fire palapa doing the cooking. This is a reserved-table evening rather than a daytime beach session: you come for the meal, the setting and the slow pace of a holiday dinner by the sea. Doors run from 6pm until late, so there is time to settle in before and after the courses. Tables use the venue's standard two-hour seating windows, so arrive ready to eat.</p>\n<h3>A Three-Course Christmas Menu</h3>\n<p>The evening centres on a set three-course menu written for Christmas Eve. Gitano's cooking is modern Mexican with Mediterranean touches, built on an open-fire kitchen with a wood-burning oven, grill and comal. The regular carte runs from cochinita pibil tacos with habanero and salsa verde to Baja California hamachi tostada, aguachile, black truffle tlayuda and grilled seafood, which gives you a sense of the house style behind the holiday plates. Food labels mark gluten-free, nut-free, vegetarian and dairy-free dishes, and if you have an allergy or dietary restriction you should tell your waiter before you order.</p>\n<h3>Mezcal Cocktails and the Bar</h3>\n<p>The drinks list leans on mezcal. Kisses in the Car pairs mezcal, rum, passion fruit and tangerine habanero, while Gipsy Disco 75 mixes vodka, rosé prosecco, elderflower and lime. Some cocktails use ingredients like burnt pineapple and salvaged lime husks, so the bar is worth a look before or after dinner. It is the right way to open or close a Christmas Eve meal by the sea.</p>\n<h3>The Room: Sand, Tipis and a Disco Ball</h3>\n<p>Gitano Beach runs along a 120-metre strip of sand in the southern part of the Hotel Zone, beside Casa Gitano and close to the Sian Ka'an Biosphere Reserve. Cushioned sunbeds, cabanas and bamboo benches spread across the sand, with black-and-white striped tipis for shade and handcrafted textiles shaping the lounge areas. A giant disco ball hangs over the strip, and the open-fire palapa sits at the centre of it all. The social layout suits couples and groups celebrating together, which fits a Christmas Eve dinner well.</p>\n<h3>Doors 6pm, How to Reserve</h3>\n<p>The dinner runs from 6pm until late on Christmas Eve at Gitano Beach, Boca Paila KM 9.5 in Tulum's Hotel Zone. Tables are seated in two-hour windows, so plan to arrive near the start of the evening to get the full three courses in comfort. Tickets for the Christmas dinner start at MXN $1,430. Reserve your table through the buy button on this page.</p>",
+          "description": "Gitano Beach hosts a Christmas Eve dinner by the sea with a special three-course menu, served from 6pm beside the venue's open-fire palapa and mezcal bar.",
+          "hubBlurb": "<p><strong>Gitano Beach serves a Christmas Eve dinner by the sea on December 24.</strong> Gitano Beach marks Christmas Eve with a special three-course menu served on the sand, from the venue's open-fire palapa and mezcal bar. Tables are seated in two-hour windows and the evening runs from 6pm, so it is a dinner to settle into rather than a beach day.</p><p><strong>Date:</strong> Thursday, December 24, 2026, from 3:00 PM<br><strong>Tickets:</strong> From MXN $1,300 · CHRISTMAS DINNER / From 8:00 Pm MXN $1,300 · CHRISTMAS DINNER + 2 Glasses Of Wine / From 4:00 Pm MXN $1,500<br><strong>Book:</strong> Through Tulum Bible</p>",
+          "name": "Christmas Dinner",
+          "slug": "christmas-dinner-at-gitano-beach-24dec2026",
+          "tableInformation": ""
+        },
+        "es": {
+          "body": "<h2>Cena de Nochebuena junto al mar</h2>\n<p>Gitano Beach organiza una cena sentada para Nochebuena en la arena de la Zona Hotelera de Tulum. La velada gira en torno a un menú especial de tres platos servido junto al mar, cocinado en la palapa con fogón abierto de la cocina. Se trata de una velada con reserva de mesa, más que de una sesión diurna en la playa: se viene a disfrutar de la comida, del entorno y del ritmo pausado de una cena festiva junto al mar. El local abre desde las 18:00 hasta bien entrada la noche, por lo que hay tiempo para acomodarse antes y después de los platos. Las mesas tienen un horario estándar de dos horas, así que es mejor llegar con ganas de comer.</p>\n<h3>Un menú navideño de tres platos</h3>\n<p>La velada gira en torno a un menú fijo de tres platos concebido para la Nochebuena. La cocina de Gitano es mexicana moderna con toques mediterráneos, basada en una cocina de fuego abierto con horno de leña, parrilla y comal. La carta habitual incluye desde tacos de cochinita pibil con habanero y salsa verde hasta tostadas de hamachi de Baja California, aguachile, tlayuda con trufa negra y marisco a la parrilla, lo que te da una idea del estilo de la casa que hay detrás de los platos festivos. Las etiquetas de los platos indican cuáles son sin gluten, sin frutos secos, vegetarianos y sin lácteos; si tienes alguna alergia o restricción alimentaria, debes comunicárselo al camarero antes de pedir.</p>\n<h3>Cócteles de mezcal y la barra</h3>\n<p>La carta de bebidas se centra en el mezcal. El Kisses in the Car combina mezcal, ron, maracuyá y habanero de mandarina, mientras que el Gipsy Disco 75 mezcla vodka, prosecco rosado, flor de saúco y lima. Algunos cócteles utilizan ingredientes como piña quemada y cáscaras de lima recuperadas, por lo que merece la pena echar un vistazo al bar antes o después de cenar. Es la forma ideal de empezar o terminar una cena de Nochebuena junto al mar.</p>\n<h3>El espacio: arena, tipis y una bola de discoteca</h3>\n<p>Gitano Beach se extiende a lo largo de una franja de arena de 120 metros en la parte sur de la Zona Hotelera, junto a Casa Gitano y cerca de la Reserva de la Biosfera de Sian Ka’an. Tumbonas acolchadas, cabañas y bancos de bambú se distribuyen por la arena, con tipis a rayas blancas y negras que dan sombra y tejidos artesanales que definen las zonas de descanso. Una bola de discoteca gigante cuelga sobre la franja de arena, y la palapa con chimenea ocupa el centro de todo. La disposición del espacio es ideal para parejas y grupos que celebran juntos, lo que encaja perfectamente con una cena de Nochebuena.</p>\n<h3>Apertura de puertas a las 18:00 h. Cómo reservar</h3>\n<p>La cena se celebra desde las 18:00 h hasta bien entrada la noche de Nochebuena en Gitano Beach, Boca Paila KM 9,5, en la Zona Hotelera de Tulum. Las mesas se asignan en franjas horarias de dos horas, así que procura llegar al inicio de la velada para poder disfrutar de los tres platos con toda comodidad. Las entradas para la cena de Navidad cuestan a partir de 1.430 MXN. Reserva tu mesa a través del botón de compra de esta página.</p>",
+          "description": "Gitano Beach organiza una cena de Nochebuena junto al mar con un menú especial de tres platos, que se servirá a partir de las 18:00 h junto a la palapa con chimenea y el bar de mezcal del local.",
+          "hubBlurb": "<p><strong>Gitano Beach ofrece una cena de Nochebuena junto al mar el 24 de diciembre.</strong> Gitano Beach celebra la Nochebuena con un menú especial de tres platos que se sirve en la arena, desde la palapa con chimenea y el bar de mezcal del local. Las mesas se asignan en franjas horarias de dos horas y la velada comienza a las 18:00 h, por lo que se trata más bien de una cena para disfrutar tranquilamente que de un día de playa.</p><p><strong>Fecha:</strong> jueves, 24 de diciembre de 2026, a partir de las 15:00 h<br><strong>Entradas:</strong> Desde 1.300 MXN · CENA DE NAVIDAD / A partir de las 20:00 h: 1.300 MXN · CENA DE NAVIDAD + 2 copas de vino / A partir de las 16:00 h: 1.500 MXN<br><strong>Reservas:</strong> A través de Tulum Bible</p>",
+          "name": "Christmas Dinner",
+          "slug": "christmas-dinner-at-gitano-beach-24dec2026",
           "tableInformation": ""
         }
       }
